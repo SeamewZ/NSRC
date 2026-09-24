@@ -1,0 +1,29 @@
+{
+    "title": "President Trump to Order 'Reciprocal Tariffs' to Begin This Week",
+    "time": "2025-04-02T20:26:00",
+    "author": "Stephen Alpher",
+    "summary": "Bitcoin retreated to $86,000 in volatile action as the announcements were made.",
+    "content": "In a Rose Garden ceremony on Wednesday, U.S. President Donald Trump said he intends to immediately sign an order for \"reciprocal tariffs\" to be levied against U.S. trading partners.\n\n\"Our country and its taxpayers have been ripped off for more than 50 years but it’s not going to happen anymore,\" said Trump, adding that some of the tariffs will begin at midnight.\n\nThe first specific tariff announced at the ceremony was a 25% levy on all foreign-made autos, starting midnight on Thursday, April 3.\n\nThe U.S. will impose an across-the-board tariff rate of 10%, which will be in effect on midnight on April 5.\n\nAmong country-specific tariffs: China will see a rate of 34%, Vietnam 46%, Taiwan 32% South Korea 25%, European Union 20%, Switzerland 31%. According to a White House fact sheet, these country-specific tariffs will start at midnight on April 9.\n\nThe price of bitcoin\nBTC\n$104,046.65\ninitially rose in the ceremony's early stages, but began to give ground as the tariffs were detailed. The price has retreated to $86,000, down about 1% from prior to the announcements.\n\nU.S. stock index futures are plunging, with the Nasdaq 100 lower by 2.3% and the S&P 500 by 1.7%. Gold, meanwhile, shot higher to a new record high just below $3,200 per ounce.\n\nUPDATE (March 2, 2025, 21:50 UTC): Adds details about tariff implementation dates.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/president-trump-to-order-reciprocal-tariffs-to-begin-at-midnight",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [],
+            "organizations": [
+                "White House",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin retreated to $86,000 and was down about 1% from prior to the tariff announcements, indicating negative price movement directly linked to the news event."
+    }
+}

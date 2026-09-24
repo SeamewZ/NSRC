@@ -1,0 +1,31 @@
+{
+    "title": "In Defense of the ‘MSTR Premium’",
+    "time": "2025-02-26T16:54:00",
+    "author": "Brian Rudick",
+    "summary": "The premium given to the company’s massive bitcoin holdings will exist as long as investors believe it will continue to increase the amount of its bitcoin held per share.",
+    "content": "Strategy (NASDAQ: MSTR), the SaaS-based business intelligence company formerly known as MicroStrategy that pioneered a bitcoin treasury strategy, is currently trading at a $73 billion market cap, ~1.6x the value of its underlying bitcoin holdings. This so-called “MSTR premium” has caused much misunderstanding, healthy skepticism and even consternation, but with a decade of deep equities experience, we believe that there are three reasons why the MSTR premium is justified. These are particularly valid during periods of rising bitcoin price expectations, as we are in now.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nCHART: MSTR’s premium to NAV\n\nSource: MSTR-Tracker.com, GSR\n\nFirst, Strategy takes on leverage by issuing equity and debt to invest the proceeds into bitcoin, earning the difference between the return on bitcoin and its cost of capital (ie. “carry”). Importantly, Strategy earns this carry not just this year, but also in future years as well, and investors simply present-value this expected future carry and include it in MSTR’s market cap.\n\nIn fact, this is a major reason why MSTR’s premium will fluctuate with market expectations of future bitcoin returns. Nevertheless, the first reason MSTR trades at a premium to its BTC holdings is that investors pull future BTC carry to the present.\n\nSecond, Strategy monetizes intelligent capital markets issuance for the benefit of shareholders. It accretes value via convertible debt issuance, where it not only gets paid to offer bitcoin-like returns to the bond market, but also for the volatility inherent in its stock as convertible bond arbitrageurs make more money with a more volatile underlying asset. In addition, MSTR issues equity, mostly through at-the-money equity issuance programs, at a premium to book value, which is by definition accretive to shareholders. In fact, issuing equity at twice book value is tantamount to selling $1 for $2, or conversely, buying BTC at 50% off. This is how Strategy was able to generate a 74% increase in the amount of its bitcoin held per share last year, equivalent to 140,630 BTC, or $14 billion of value for shareholders.\n\nLastly, the entire construct takes advantage of bitcoin and crypto’s nascency, the fact that cryptocurrencies are in secular expansion and that bitcoin’s price has tended to rise over time.\n\nFor those not yet convinced, we offer the following thought experiment: If I had a magic bank account with $100 USD in it that paid you a 69% interest rate, how much money would you pay me for that? While the answer may vary from person to person, it is likely much more than $100, meaning that the bank account would trade at a premium to its underlying USD (i.e. NAV).\n\nThis is exactly what is happening with MSTR, as it has increased its BTC per share at a 69% annual rate since it began investing in bitcoin in August 2020. This increase in BTC per share (i.e. in-kind yield) is higher during bull markets and lower during bear markets, but it has generally risen over time. And while there is no guarantee that Strategy will continue to increase its BTC per share in the future, MSTR is guiding for a 15%+ increase this year and 6-10% in each of the following two years.\n\nRisks abound, of course — MSTR investors take on basis risk to the price of BTC and the stock tends to move more than bitcoin in both directions. Relatedly, the premium may move up or down in the future, and the stock will likely trade at a discount (i.e., below the value of its bitcoin holdings) during bear markets. But the premium exists because investors believe MSTR will continue to increase the amount of its bitcoin per share in the future, and they are willing to pay up for that now.\n\nCHART: MSTR’s increase in bitcoin per share (i.e. bitcoin yield)\n\nSource: MSTR-Tracker.com, GSR",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/26/in-defense-of-the-mstr-premium",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Strategy",
+                "MicroStrategy",
+                "MSTR",
+                "NASDAQ"
+            ],
+            "organizations": [
+                "GSR"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "crypto",
+            "cryptocurrencies"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents a bullish case for MSTR's bitcoin strategy, highlighting how the company increases bitcoin holdings per share and benefits from rising bitcoin price expectations during bull markets."
+    }
+}

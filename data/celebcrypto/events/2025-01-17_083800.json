@@ -1,0 +1,40 @@
+{
+    "title": "XRP Volume Overtakes Bitcoin on Coinbase as U.S. Investor Interest Grows",
+    "time": "2025-01-17T08:38:00",
+    "author": "Omkar Godbole",
+    "summary": "XRP leads volume trends on Coinbase, with BTC and ETH taking second and third places. On Binance, bitcoin is still the most in demand.",
+    "content": "XRP, the third-largest cryptocurrency by market value, has replaced bitcoin (BTC) as the most-traded digital asset on Coinbase (COIN), the Nasdaq-listed cryptocurrency exchange that's seen as a proxy for U.S. demand.\n\nBitcoin retained its position as most-traded crypto asset on Binance, the largest exchange by volume, which is off-limits to U.S. investors.\n\nVolume trends are consistent with the recovery in the U.S. demand for XRP, which is closely linked to blockchain-based payment network Ripple, as presaged by the Coinbase premium indicator a week ago.\n\nInterest in XRP, the biggest gainer following Donald Trump's election victory in November, increased after Ripple CEO Brad Garlinghouse met the president-elect almost two weeks ago. It's also been supported by speculation of a spot XRP exchange-traded fund (ETF) being approved in the U.S.\n\nAt press time, the XRP/USD pair accounted for 25% of Coinbase's 24-hour trading volume of $6.86 billion. The BTC/USD pair ranked second, contributing 20% with ETH/USD in third place, according to data source Coingecko. On Binance, XRP was the second-most traded coin.\n\nSince November, the payments-focused cryptocurrency's price has risen over 600% to $3.33, the highest since 2017. The valuation has increased by a third this week alone, according to CoinDesk and TradingView data.\n\nThe rally is backed by a record futures open interest and a spike in the number of large holders. Data tracked by TradingView and CoinMetrics show the number of unique addresses holding at least $100,000 worth of cryptocurrency has increased to 108,540.",
+    "url": "https://www.coindesk.com/markets/2025/01/17/xrp-volume-overtakes-bitcoin-on-coinbase-as-u-s-investor-interest-grows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Brad Garlinghouse"
+            ],
+            "positions": [
+                "CEO",
+                "president-elect"
+            ],
+            "companies": [
+                "Coinbase",
+                "Ripple",
+                "Binance",
+                "CoinDesk",
+                "TradingView",
+                "CoinMetrics"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price increases, growing investor interest, record futures open interest, and increased large holder activity for XRP."
+    }
+}

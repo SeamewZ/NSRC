@@ -1,0 +1,31 @@
+{
+    "title": "Ripple’s RLUSD Stablecoin Goes Live on Aave V3 Ethereum Market",
+    "summary": "Aave users can supply and borrow the stablecoin on the lending platform's V3 Ethereum Core market.",
+    "time": "2025-04-22T11:53:00",
+    "author": "Shaurya Malwa",
+    "content": "Aave users can start supplying and borrowing Ripple’s RLUSD stablecoin on the decentralized lending platform's V3 Ethereum Core market, Aave said in a Monday post on X.\n\nThe peer-to-peer loans market has a supply cap of 50 million RLUSD and a borrow cap of 5 million RLUSD.\n\nRLUSD is a stablecoin pegged 1:1 to the U.S. dollar offered on the XRP Ledger and Ethereum blockchain. It is fully backed by U.S. dollar deposits, short-term U.S. Treasuries, and cash equivalents with each token matched by equivalent fiat value.\n\nSecurity features make RLUSD appealing to institutional users. An XRP Ledger amendment in January saw a “clawback” feature go live on the network, allowing the issuer to reclaim certain tokens, such as RLUSD, from users' wallets under specific conditions.\n\nIndustry leaders say RLUSD may shift crypto market dynamics, with incumbents such as Tether's USDT, the largest stablecoin, and Circle's USDC, the No. 2, seeing competition from Ripple’s product. It is also seen boosting closely related XRP’s appeal among investors.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/ripple-s-rlusd-stablecoin-goes-live-on-aave-v3-ethereum-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ripple",
+                "Tether",
+                "Circle"
+            ],
+            "organizations": [
+                "Aave"
+            ]
+        },
+        "cryptocurrencies": [
+            "RLUSD",
+            "XRP",
+            "USDT",
+            "USDC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that RLUSD may shift crypto market dynamics and boost XRP's appeal among investors, indicating positive market impact."
+    }
+}

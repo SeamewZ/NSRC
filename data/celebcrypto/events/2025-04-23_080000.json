@@ -1,0 +1,32 @@
+{
+    "title": "XRP Ledger Bug Patched After 'Serious' Flaw Spotted in XRPL Library",
+    "summary": "The issue only affects versions of Node Package Manager (NPM), a site where developers share reusable code for projects.",
+    "time": "2025-04-23T08:00:00",
+    "author": "Shaurya Malwa",
+    "content": "A threat actor seemingly exploited an XRP Ledger’s developer access token to publish illicit code to the burgeoning network in a move that could have been “catastrophic” for the network, the security team that spotted the issue said in an update.\n\nCharlie Eriksen, a researcher at Aikido Security who first spotted the problem, said a hidden issue was added to recent versions of a new toolkit used to build apps that work with the XRP Ledger.\n\n“A developer's NPM access token was stolen by the threat actors,” Aikido said on X. “It is unclear how right now. It is also unclear who the threat actors are right now (although we have a hunch we are trying to confirm).”\n\nThe issue only affects versions of Node Package Manager (NPM), a site where developers share reusable code for projects. Major XRP-related services, like Xaman Wallet and XRPScan, said they were unaffected in separate X posts.\n\nThis flaw could let attackers steal users’ private keys, possibly accessing their crypto wallets in theory.\n\n\"At 21 Apr, 20:53 GMT+0, our system, Aikido Intel started to alert us to five new package version of the xrpl package. It is the official SDK for the XRP Ledger, with more than 140.000 weekly downloads,\" Eriksen said in a security update.\n\n\"This package is used by hundreds of thousands of applications and websites making it a potentially catastrophic supply chain attack on the cryptocurrency ecosystem,\" Eriksen noted.\n\nHe added that only third-party apps or services that installed the flawed versions during a brief period could be at risk.\n\nAs such, the XRP Ledger Foundation team quickly fixed the issue by releasing updated versions of the tool to replace the faulty ones. The affected versions (v4.2.1-4.2.4 and v2.14.2) were deprecated.\n\n\"To clarify: This vulnerability is in xrpl.js, a JavaScript library for interacting with the XRP Ledger. It does NOT affect the XRP Ledger codebase or Github repository itself. Projects using xrpl.js should upgrade to v4.2.5 immediately,\" the foundation posted separately.\n\nA JavaScript library is a collection of pre-written code to simplify tasks in web development. A GitHub repo is an online storage space for a project's code, files, and history, hosted on GitHub.\n\nXRP prices are up 8.5% in the past 24 hours alongside a broader market jump.",
+    "url": "https://www.coindesk.com/markets/2025/04/23/xrp-ledger-bug-patched-after-serious-flaw-spotted-in-xrpl-library",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charlie Eriksen"
+            ],
+            "positions": [
+                "researcher"
+            ],
+            "companies": [
+                "Aikido Security",
+                "Node Package Manager (NPM)",
+                "Xaman Wallet",
+                "XRPScan"
+            ],
+            "organizations": [
+                "XRP Ledger Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that XRP prices are up 8.5% in the past 24 hours alongside a broader market jump, indicating positive price movement despite the security issue being quickly patched."
+    }
+}

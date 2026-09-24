@@ -1,0 +1,37 @@
+{
+    "title": "TRON, Movement Labs Deny ‘Token Swap’ Deal for World Liberty Financial Inclusion",
+    "time": "2025-02-04T05:18:00",
+    "author": "Sam Reynolds",
+    "summary": "A report alleges that projects were pitched on a $10 million - $15 million buy-in on the Trump-backed project.",
+    "content": "Representatives from two protocols that have tokens held by the treasury of\nWLFI\n$0.1101\n, a crypto project backed by President Donald Trump and his family, are denying the existence of a token swap agreement that required a $10 million - $15 million buy-in to get included in the project.\n\nA report from Blockworks on Monday alleged that representatives from WLFI had pitched protocol teams on a deal to get included in the project’s treasury. The deal was they could buy $10 million WLFI tokens plus a 10 percent fee, and WLFI will purchase the same amount of their protocol’s tokens.\n\n“There is no token swap agreement,” a spokesperson from TRON told CoinDesk.\n\nTRON’s TRX is the second largest holding in WLFI’s wallet, according to on-chain data curated by Arkham.\n\nThe WLFI wallet currently holds 40.7 million TRX worth $9.3 million. WLFI made these buys in tranches throughout January.\n\nMovement Labs, which saw its MOVE token jump in late January when WLFI purchased $2 million of it, and rumors swirled that the team was in discussion with Elon Musk-led Department of Government Efficiency, also denied that there was a swap agreement in place.\n\nRushi Manche, co-founder of Movement Labs, told CoinDesk earlier that they did not send tokens to anyone including WLFI.\n\n\"There weren't any deals — any back door deals. It was purely just market buying,\" Manche told CoinDesk.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/tron-move-deny-token-swap-deal-for-world-liberty-fi-inclusion",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Rushi Manche",
+                "Elon Musk"
+            ],
+            "positions": [
+                "President",
+                "co-founder"
+            ],
+            "companies": [
+                "TRON",
+                "Movement Labs",
+                "World Liberty Financial Inclusion",
+                "WLFI",
+                "Blockworks",
+                "CoinDesk",
+                "Department of Government Efficiency"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "TRX",
+            "MOVE"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news reports denials of token swap agreements and clarifies that purchases were market-based rather than coordinated deals, presenting a neutral clarification of market activity."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "China Reportedly Discussing Front Loading Stimulus to Counter Trump Tariffs",
+    "time": "2025-04-07T05:39:00",
+    "author": "Omkar Godbole",
+    "summary": "Beijing is considering advancing monetary stimulus to mitigate the effects of President Trump's tariffs on the Chinese economy.",
+    "content": "Beijing is said to be discussing front-loading monetary stimulus to counter the destabilizing impact President Donald Trump's tariffs on the Chinese economy, according to data source Trade The News.\n\nThe reports come a day after Trump said he won't make a trade deal with China unless the trade deficit is solved. Financial markets have crashed with bitcoin falling under $80K since Trump announced gigantic reciprocal tariffs Thursday, boosting trade tensions.\n\nGoldman Sachs now expects a total of 130 basis points in Fed rate cuts for 2025, up from 105 basis points late last week. The Reserve Bank of Australia is expected to deliver four rate cuts.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/china-reportedly-discussing-front-loading-stimulus-to-counter-trump-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Goldman Sachs"
+            ],
+            "organizations": [
+                "Trade The News",
+                "Reserve Bank of Australia"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that financial markets have crashed with bitcoin falling under $80K since Trump announced tariffs, indicating negative price movement."
+    }
+}

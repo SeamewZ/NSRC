@@ -1,0 +1,30 @@
+{
+    "title": "Dollar Index Declines Below 105 as Bitcoin Hits $90K",
+    "time": "2025-03-05T09:40:00",
+    "author": "James Van Straten",
+    "summary": "The DXY index has now dropped to its lowest level since mid-November.",
+    "content": "At the start of the year, CoinDesk research indicated that the Dollar index (DXY) a measure of the U.S. dollar’s strength against a basket of major trading partners was mirroring its trajectory from Donald Trump’s first term as president.\n\nBetween September 2024 and January 2025, coinciding with Trump’s re-election, the DXY index climbed from 100 to 110. This current cycle, the index peaked at 110 in mid-January but has since dropped below 105 for the first time since mid-November. If the DXY were to fall to around 103, it would erase all its gains since Trump's victory in November.\n\nTypically, a DXY index above 100 is considered strong, which tends to put pressure on risk assets. However, as the index dipped below 105, bitcoin\nBTC\n$103,874.74\nrose above $88,000.\n\nA similar pattern was observed in 2017 when the DXY fell from 103 to below 90, coinciding with bitcoin’s bull run that year, that saw it top out at $20,000 in December.\n\nDespite this, macroeconomic uncertainty persists, with concerns surrounding tariffs, inflation, and U.S. GDP growth. The economy appears to be slowing, and Friday’s jobs report is expected to show a continuation of 4.0% unemployment rate.\n\nIf the report comes in weaker than anticipated, treasury yields could continue declining, increasing the likelihood that the Federal Reserve could consider a rate cut in its March meeting.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/dollar-index-declines-below-105-as-bitcoin-surges-past-usd88-000",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "president"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin rising above $88,000 as the DXY index declines, drawing parallels to the 2017 bull run when a similar DXY drop coincided with bitcoin reaching $20,000."
+    }
+}

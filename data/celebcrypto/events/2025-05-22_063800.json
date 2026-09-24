@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Options Open Interest Hit Record $42.5B on Deribit as Traders Eye Next Bull Target for BTC",
+    "summary": "Highest OI now sits at the $110K, $120K, and $300K June 27 strikes — showing bullish conviction",
+    "time": "2025-05-22T06:38:00",
+    "author": "Omkar Godbole",
+    "content": "\"Don't be surprised if buying activity picks up across the spectrum of products tied to BTC,\" CoinDesk said in Tuesday's edition of the Crypto Daybook Americas, presenting a bullish case for bitcoin.\n\nAs bitcoin's\nBTC\n$101,738.46\nprice jumped to new lifetime highs above $111K during Thursday's Asian trading hours it spurred record activity in the Deribit-listed options market.\n\nThe notional open interest (OI), or the dollar value of the number of active or open options contracts, rose to a record $42.5 billion, Deribit's CEO, Luuk Strijers, told CoinDesk.\n\nOptions are derivative contracts that give the right but not the obligation to buy or sell the underlying asset at a predetermined price at a later date. A call provides the right to buy, representing an implicit bullish bet on the market, while a put option offers insurance against price slides.\n\nBTC's move to record highs saw traders chase upside through higher strike call options.\n\n\"Most traded strikes in the past 24h: $120K and $130K upside calls for May and June expiry. Highest OI now sits at the $110K, $120K, and $300K June 27 strikes — showing bullish conviction,\" Strijers said.\n\nDeribit is the world's largest crypto options exchange, accounting for nearly 80% of the global crypto options activity. The exchange also offers trading in perpetuals and spot markets. The overall open interest across crypto options and perpetual futures segments has also hit a record high of over $45 billion.\n\nPublicly traded crypto exchange Coinbase has planned to acquire derivatives exchange Deribit in a $2.9 billion deal.\n\nRead more: In $2.9B Deal, Coinbase Agrees to Buy Deribit to Expand in U.S. Crypto Options Market",
+    "url": "https://www.coindesk.com/markets/2025/05/22/bitcoin-options-open-interest-hit-record-425b-on-deribit-as-traders-eye-next-bull-target-for-btc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Deribit",
+                "Coinbase"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record bitcoin options open interest, traders buying higher strike call options, and explicit statements about bullish conviction and a bullish case for bitcoin."
+    }
+}

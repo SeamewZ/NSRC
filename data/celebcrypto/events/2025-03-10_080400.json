@@ -1,0 +1,43 @@
+{
+    "title": "DOGE, ADA, XRP Tank 10% as Market Sentiment Index Flashes 'Extreme Fear', Falls to Nearly 17 Month Low",
+    "time": "2025-03-10T08:04:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders are now in a wait-and-watch mode as they approach the coming months, mainly eying macroeconomic data and decisions for cues on further positioning.",
+    "content": "A crypto market sell-off extended into its second week as bitcoin\nBTC\n$104,254.35\nprices stooped to nearly $80,000 late Sunday, triggering a fresh decline in major tokens and altcoins.\n\nDOGE\n$0.1665\nand Cardano’s ADA led losses with a nearly 10% slump over the past 24 hours, data shows, with XRP falling more than 7%. BNB Chain’s BNB, ether\nETH\n$3,514.06\nand tron's TRX) fell 5%, while BTC lost 4%.\n\nThis has sent the well-followed crypto fear and green index to a multi-year low reading of 17 — which indicates ‘extreme fear’ — in its lowest level since mid-2023.\n\nThe index measures investor emotions and ranges from 0 (lowest sentiment) to 100 (highest sentiment), helping identify whether investors are too scared (potential buying opportunity) or too greedy (possible market correction).\n\nIt is based on price volatility, momentum, social media sentiment, Google trends data, and bitcoin’s overall market share. It tends to act as a contrarian indicator in the short term.\n\nMajor tokens have fully pared all gains made after President Donald Trump announced a strategic crypto reserve in the U.S. earlier this month, sending tokens XRP, Solana’s SOL, and ADA higher by as much as 60% in days following.\n\nTraders expected windfall plans of buying pressure from the U.S. for majors, but hopes were doused as Trump repurposed previously seized BTC holdings as a reserve and said non-BTC seized assets would be considered a ‘stockpile’ of tokens.\n\nThen, an anticipated White House Crypto Summit on Mar.7 ended in a “nothingburger” without the expected bold announcements. The summit resulted in a framework for stablecoin legislation by August and a promise of lighter regulation, but these outcomes did not stimulate the market as anticipated.\n\nLosses were magnified as global markets took a hit amid an ongoing tariff war sparked by Trump and other world leaders. A widely tracked dollar index (DYX), a measure of the U.S. dollar's strength, is at its lowest since November, to under 105 (a DXY index above 100 is considered strong, which tends to put pressure on risk assets).\n\nTraders are now in a wait-and-watch mode as they approach the coming months, mainly eying macroeconomic data and decisions for cues on further positioning.\n\n“The summit signaled for more optimism,” Kevin Guo, Director of HashKey Research, told CoinDesk in a Telegram message. “Despite expectations for more substantial announcements as crypto assets continue to follow US equities in a negative trend in the wake of February's job report that saw generally stable results despite government job cuts.\n\n“Investors don't expect a reverse of the trend as Federal Reserve Chairman Jerome Powell assured that the Fed will continue to show patience on a bumpy road to a 2% inflation rate, which further lowered expectations of a rate cut this year,” Guo added.\n\nTraders have been buying short-dated treasuries, per Bloomberg, expecting the Federal Reserve to resume cutting interest rates as soon as May to keep the economy from deteriorating — a sign of hope for crypto bulls and lower rates tend to create inflow into riskier assets.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/dogecoin-ada-xrp-plunge-10-as-extreme-fear-index-flashes-3-year-low",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Kevin Guo",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "Director",
+                "Federal Reserve Chairman"
+            ],
+            "companies": [
+                "HashKey Research",
+                "Bloomberg",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "White House",
+                "Federal Reserve",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "ADA",
+            "XRP",
+            "BTC",
+            "BNB",
+            "ETH",
+            "TRX",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a crypto market sell-off with major tokens tanking 10%, fear index at 'extreme fear' levels, and multiple negative catalysts including failed policy announcements and global market pressures."
+    }
+}

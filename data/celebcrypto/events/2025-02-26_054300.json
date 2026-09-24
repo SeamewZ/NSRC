@@ -1,0 +1,31 @@
+{
+    "title": "U.S. Bitcoin ETFs See Record Daily Outflow of Over $930M as Carry Trades Lose Shine to the 10-Year Treasury Note",
+    "time": "2025-02-26T05:43:00",
+    "author": "Omkar Godbole",
+    "summary": "Investors pulled out funds from bitcoin and ether spot ETFs Tuesday as dwindling basis in the CME futures dented the appeal of carry trades.",
+    "content": "Tuesday was a rough day for the crypto market, as bitcoin\nBTC\n$103,749.01\nfell to three-month lows below $87,000, dragging the broader market down. More importantly, investors withdrew funds from U.S.-listed spot bitcoin exchange-traded funds (ETF) at an unprecedented rate.\n\nThe 11 spot ETFs registered a cumulative net outflow of $937.78 million, the most significant single-day redemption since the funds began trading in January 2024, according to data tracked by SoSoValue.\n\nFidelity's FBTC saw the most outflow, totaling $344.65 million, followed by $164.37 million in redemptions from BlackRock's IBIT. The remaining funds registered outflows of less than $100 million each.\n\nThe weakening appetite for these ETFs could be attributed to the decline in the premium in the CME-listed bitcoin futures, which has dented the appeal of the cash and carry arbitrage. Moreover, these BTC and ETH carry trades now offer barely more than the U.S. 10-year Treasury note, which offered a yield of 4.32% at press time.\n\nThe strategy, heavily favored by institutions since early last year, involves buying the spot ETF and simultaneously selling the CME futures to pocket the premium while bypassing the price direction risks.\n\nAccording to Velo Data, the annualized one-month basis (premium) in the CME bitcoin futures dropped to 4% Tuesday, the lowest in nearly two years, and down significantly from almost 15% in December. In other words, the yield available on the cash and carry strategy has declined dramatically in two months.\n\nThe basis in ether futures has also declined sharply to around 5%. The spot ether ETFs listed in the U.S. witnessed a total outflow of $50 million Tuesday.",
+    "url": "https://www.coindesk.com/markets/2025/02/26/u-s-bitcoin-etfs-see-record-daily-outflow-of-over-usd930m-as-carry-trades-yield-goes-below-10-year-treasury-note",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Fidelity",
+                "BlackRock"
+            ],
+            "organizations": [
+                "CME",
+                "SoSoValue",
+                "Velo Data"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports record daily outflows from bitcoin ETFs, bitcoin falling to three-month lows, and declining appeal of carry trades due to shrinking futures premiums."
+    }
+}

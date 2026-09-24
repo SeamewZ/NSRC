@@ -1,0 +1,35 @@
+{
+    "title": "Coinbase Asks U.S. Appeals Court to Say On-Platform Crypto Trades Aren’t Securities",
+    "summary": "In a Tuesday filing, lawyers for Coinbase argued that their case offered “the single best opportunity” to decide how to regulate secondary crypto trading.",
+    "time": "2025-01-22T17:09:00",
+    "author": "Cheyenne Ligon",
+    "content": "Coinbase has petitioned a U.S. appeals court to rule on whether or not the crypto trading activity on its platform should be subject to securities laws.\n\nIn a Tuesday court filing, lawyers for Coinbase urged the Second Circuit Court of Appeals to hear its case, arguing that it “presents the single best opportunity to decide the fundamental legal question of how to treat the secondary trading of digital assets.”\n\n“This case cries out for the Court’s immediate attention,” lawyers for Coinbase wrote in their petition. “Whether secondary-market trading of digital assets falls within the federal securities laws is a question of immense importance to the crypto industry, consumers, financial institutions, and lower courts in need of guidance. This case presents an ideal vehicle to address that question and provide clear rules for this multi-trillion-dollar industry.”\n\nCoinbase argued that crypto trading on its platform should not actually trigger federal securities laws because secondary crypto transactions don’t meet all the prongs of the Howey test, the long-standing legal framework used to decide what qualifies as an “investment contract.” Because buyers and sellers on Coinbase’s platform are matched in a blind bid-ask system and are therefore anonymous to each other, there can be no common enterprise between them, the filing said.\n\nThe exchange’s petition comes two weeks after the Southern District of New York (SDNY) issued a rare stay in the U.S. Securities and Exchange Commission’s (SEC) case against Coinbase, allowing Coinbase time to appeal to a higher court for clarity.\n\nThe SEC sued Coinbase in June 2023 for allegedly acting as an unregistered securities exchange, broker and clearing agency. When Coinbase attempted to get the suit dismissed, the district court judge overseeing the case denied its motion, finding that the SEC had made a “plausible” argument that the exchange was violating federal securities laws. On Jan. 7, however, the judge punted the question to a higher court, writing “conflicting decisions on important legal issues necessitate the Second Circuit’s guidance.”\n\nThe SEC’s case against Coinbase will be put on pause while the exchange seeks answers from the Second Circuit.\n\nThe same day Coinbase’s petition was filed, the SEC – now under the leadership of Republican Acting Chair Mark Uyeda – announced the formation of a crypto task force spearheaded by crypto-friendly Commissioner Hester Peirce. The move signals a shift away from the agency’s “regulation by enforcement” approach to crypto under former Chairman Gary Gensler.\n\n“To date, the SEC has relied primarily on enforcement actions to regulate crypto retroactively and reactively, often adopting untested legal interpretations along the way,” the SEC said in a statement. “Clarity regarding who must register and practical solutions for those seeking to register, have been elusive. The result has been confusion about what is legal, which creates an environment hostile to innovation and conducive to fraud. The SEC can do better.\"",
+    "url": "https://www.coindesk.com/policy/2025/01/22/coinbase-asks-u-s-appeals-court-to-say-on-platform-crypto-trades-aren-t-securities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Uyeda",
+                "Hester Peirce",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "Republican Acting Chair",
+                "crypto-friendly Commissioner",
+                "former Chairman"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "U.S. Appeals Court",
+                "Second Circuit Court of Appeals",
+                "Southern District of New York",
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Coinbase seeking regulatory clarity and the SEC forming a crypto task force with a shift away from 'regulation by enforcement,' which signals potential positive regulatory developments for the crypto industry."
+    }
+}

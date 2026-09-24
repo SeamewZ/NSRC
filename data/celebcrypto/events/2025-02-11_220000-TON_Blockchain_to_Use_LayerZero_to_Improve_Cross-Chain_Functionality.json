@@ -1,0 +1,41 @@
+{
+    "title": "TON Blockchain to Use LayerZero to Improve Cross-Chain Functionality",
+    "time": "2025-02-11T14:00:00",
+    "author": "Oliver Knight",
+    "summary": "Developers will be able to deploy tokens on TON from any of LayerZero's chains using a single contract.",
+    "content": "Layer-1 blockchain TON said it is linking up with interoperability protocol LayerZero to allow users to move funds between multiple ecosystems in a relationship that will generate increased usage and fees for both parties.\n\nTON will initially be connected to 12 blockchains including Ethereum, Tron and Solana. Users will be able to transfer stablecoins to TON using Stargate, the largest crypto bridge. Stargate handled $1.6 billion in volume over the past month, according to DefiLlama.\n\nUsers will also benefit from LayerZero's multichain liquidity, which allows funds locked in different blockchains to be pooled to reduce the chance of slippage — a change in price between initiating and ending a transaction — or outright failure.\n\nLiquidity is key decentralized finance (DeFi). There is some $117 billion in total value locked (TVL) across all blockchains. But with more than 4,400 blockchains and layer-2 networks, according to DefiLlama, liquidity per chain is fragmented. If a trading firm wanted to lend or borrow hundreds of millions on a specific chain the relatively large transaction value is likely to lead to slippage or failure. The chance of that happening is reduced when liquidity is pooled.\n\nCrypto firms Tether and Ethena will also use the integration, with the latter's flagship $5 billion asset, USDe, set to go live on TON. Tether's new USDT0 stablecoin, which was launched to tackle liquidity issues, becomes transferrable between TON, Tron, Ethereum and Arbitrum through its new product, the Legacy Mesh.\n\nDevelopers will also benefit from the integration as tokens can be deployed on TON from any of LayerZero's chains using a single contract.\n\nTON was created in 2018 as an internal project at messaging app Telegram, which abandoned development two years later. In Sept 2023, Telegram endorsed the now independent TON and said it would integrate the blockchain into the app's user interface. Last month, it became the exclusive blockchain for Telegram’s mini apps ecosystem.\n\n\"TON is undoubtedly one of the most exciting ecosystems today,” said Bryan Pellegrino, CEO of LayerZero. “After its exclusive partnership with Telegram, it now has access to nearly a billion users.”\n\nUPDATE (Feb. 11, 16:03 UTC): Removes Celo from fourth-last paragraph.",
+    "url": "https://www.coindesk.com/business/2025/02/11/ton-blockchain-to-use-layerzero-to-improve-cross-chain-functionality",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bryan Pellegrino"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Tether",
+                "Ethena",
+                "Telegram"
+            ],
+            "organizations": [
+                "TON",
+                "LayerZero",
+                "Stargate",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "TON",
+            "Ethereum",
+            "Tron",
+            "Solana",
+            "USDe",
+            "USDT0",
+            "Arbitrum",
+            "Celo"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration improves cross-chain functionality, increases liquidity access, involves major crypto firms, and provides access to nearly a billion Telegram users, all indicating positive market development."
+    }
+}

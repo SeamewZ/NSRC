@@ -1,0 +1,29 @@
+{
+    "title": "Cronos’ CRO Supply to Grow 200% After Last-Minute Governance Flip",
+    "time": "2025-03-18T10:40:00",
+    "author": "Shaurya Malwa",
+    "summary": "Crypto governance is notorious for being community-governed in name only; with large token holders able to dominate any proposals and changes at their will.",
+    "content": "A contentious proposal in the Cronos ecosystem drew to a close late Monday, with the community voting in favor of the token supply growing from 30 billion CRO to 100 billion CRO over a 10-year vesting period.\n\nThat, however, happened after weeks of the community leaning against the switch whilst a few CRO whales — or influential users who hold large amounts of a token — stepped up in the last few hours of the vote’s closure to nudge it into favor.\n\nCronos, tied to crypto exchange Crypto.com, earlier in the month proposed reissuing 70 billion CRO tokens it burned in 2021, aiming to restore its original 100 billion token supply for a \"Strategic Reserve.”\n\nThe supposed $5 billion plan (at current $0.08 CRO prices) sought to boost U.S. crypto dominance, fund ecosystem growth and launch a CRO ETF. Community backlash was strong when the vote first went live, with 86% opposing it in the first few days.\n\nBut crypto governance is notorious for being community-governed in name only; with large token holders able to dominate any proposals and changes at their will — even though the vote would be, in theory, executed transparently by the “community.”\n\nThe proposal, live from March 2-16 and through its voting period, was nowhere near the 33.4% quorum needed to pass. Then, at 14:00 UTC on Monday, a 3.35 billion CRO vote dump flipped the script, hitting quorum and sealing the deal. Final count: 61.18% yes, 17.61% no, 20.11% abstain and 0.11% veto.\n\nTwo influencer network validators, Starship and Falcon Heavy, backed the plan as of March 10, dwarfed by 77.97% against it and 8.47% abstaining at the time. On Monday, Electron, Antares, and Minotaur IV piled in — using a cumulative 3.2 billion CRO in voting power to vote for the proposal.\n\nCronos network had an upgrade lined up in the hours after the vote drew to a close and was finished on March 18 at 03:00 UTC, setting course for a more than 200% increase in supply in the coming years.\n\nTraders have responded in kind, with CRO down 8.5% in the past 24 hours amid a flat market.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/cronos-cro-supply-to-grow-200-after-last-minute-governance-flip",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Crypto.com"
+            ],
+            "organizations": [
+                "Starship",
+                "Falcon Heavy",
+                "Electron",
+                "Antares",
+                "Minotaur IV"
+            ]
+        },
+        "cryptocurrencies": [
+            "CRO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that CRO is down 8.5% in the past 24 hours following the governance decision to increase token supply by 200%."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "SEC Approves Bitwise Spot Bitcoin and Ethereum ETF",
+    "time": "2025-01-30T23:08:00",
+    "author": "Helene Braun",
+    "summary": "The fund gives investors exposure feature exposure to both spot bitcoin and ether, weighted by market capitalization.",
+    "content": "The U.S. Securities and Exchange Commission approved another joint bitcoin and ether exchange-traded fund (ETF) Thursday, letting investors gain exposure to the two digital assets in one regulated financial product.\n\nThe SEC announced it had granted accelerated approval to Bitwise's Bitcoin and Ethereum ETF, just over a month after approving similar products filed by Hashdex and Franklin Templeton. Hashdex's Crypto Index ETF gives investors exposure to a basket of different cryptocurrencies, while Franklin Templeton said it would launch its product sometime in January.\n\nBitwise's product, launched with the New York Stock Exchange, gives investors exposure to both spot bitcoin\nBTC\n$103,842.06\nand ethereum\nETH\n$3,496.22\n, weighted by market capitalization. NYSE Arca filed a 19b-4 form with the SEC last November.\n\nAsset management firms have filed a flurry of crypto-related ETF applications in recent days, seeking to take advantage of new U.S. President Donald Trump's administration's promised lighter touch on regulatory issues.\n\nCompanies have filed for ETFs tracking the price of memecoins like\nDOGE\n$0.1648\nand cryptocurrencies like Solana\nSOL\n$159.89\n.\n\nEarlier Thursday, Coinbase also filed to list and trade futures products tracking Solana and Hedera.\n\nUPDATE (Jan. 31, 2025, 01:21 UTC): Adds additional detail.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/sec-approves-bitwise-bitcoin-and-ethereum-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Bitwise",
+                "Hashdex",
+                "Franklin Templeton",
+                "Coinbase",
+                "New York Stock Exchange",
+                "NYSE Arca"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "DOGE",
+            "Solana",
+            "SOL",
+            "Hedera"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC approval of a spot Bitcoin and Ethereum ETF represents regulatory acceptance and increased institutional access to cryptocurrencies, which typically drives market confidence and price increases."
+    }
+}

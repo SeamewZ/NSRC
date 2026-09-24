@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin Volatility Climbs to 6-Month High as Options Frenzy Picks Up",
+    "time": "2025-01-20T11:35:00",
+    "author": "James Van Straten",
+    "summary": "Implied and realized volatility indexes hit the highest levels since August's yen carry trade unwind.",
+    "content": "Bitcoin (BTC), the largest cryptocurrency by market capitalization, hit a record-high above $109,000 on Monday, sending both implied volatility and realized volatility to the highest levels since August's yen carry trade unwind.\n\nRealized volatility is the historical price fluctuations of bitcoin over the past 30 days. It hit 67 on the Bitcoin Volatility Index (BVOL) on Deribit. The Bitcoin Volmex Implied Volatility index (BVIV) hit a high of 71. Implied volatility is the market's expectation for future price fluctuations derived from options pricing. Both indexes are up around 2% on the day.\n\n\"The positive correlation between bitcoin's price and implied volatility remains intact. It’s a sign traders are chasing options, particularly calls, as risk reversals show calls are trading at a premium relative to puts that offer downside protection,\" said Omkar Godbole, a markets analyst and managing editor of markets at CoinDesk\n\nIn addition, short-duration calls are priced higher than longer-duration ones, a rare occurrence that indicates strong short-term bullish sentiment, according to Andre Dragosch, the European head of research at Bitwise. Open interest in options has increased by 44,000 BTC, reflecting heightened speculative activity, Dragosch noted.\n\nTraders are expecting a rapid price gain following President-elect Donald Trump's potential announcement of a strategic bitcoin reserve.\n\nTrump's \"influential use of social media, which has historically moved markets, is adding to the uncertainty surrounding the next few days,\" suggests Mitch Galer, a trader at GSR. \"Speculation about a strategic crypto reserve and potential deregulation, crypto markets are optimistic about further gains this year\".",
+    "url": "https://www.coindesk.com/markets/2025/01/20/bitcoin-volatility-climbs-to-6-month-high-as-options-frenzy-picks-up",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Andre Dragosch",
+                "Donald Trump",
+                "Mitch Galer"
+            ],
+            "positions": [
+                "markets analyst and managing editor of markets",
+                "European head of research",
+                "President-elect",
+                "trader"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Bitwise",
+                "GSR"
+            ],
+            "organizations": [
+                "Deribit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record-high Bitcoin prices, increased volatility, strong bullish sentiment in options trading, and optimistic market expectations about potential policy changes."
+    }
+}

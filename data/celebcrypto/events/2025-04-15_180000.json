@@ -1,0 +1,42 @@
+{
+    "title": "GameStop Did It. Now Strive's Matt Cole Wants Intuit to Back Bitcoin Too",
+    "time": "2025-04-15T18:00:00",
+    "author": "James Van Straten",
+    "summary": "Intuit’s deplatforming and anti-bitcoin stance could harm shareholder value, Cole said, while urging adoption of BTC as a strategic hedge.",
+    "content": "Matt Cole, CEO of Strive Asset Management, fresh from persuading video retailer GameStop to convert some of its cash reserve into bitcoin (BTC), wrote to urge financial software developer Intuit (INTU) to reverse what he described as \"censorship policies\" and an “anti-bitcoin bias” that could jeopardize long-term shareholder value.\n\nIn an open letter dated April 14 addressed to Intuit CEO Sasan Goodarzi and board Chair Susan Nora Johnson, Cole pointed to a recent incident in which Intuit’s Mailchimp email marketing platform disabled the account of the Trojan Bitcoin Club, a student organization at the University of Southern California, for mentioning the cryptocurrency in emails to its members.\n\n“We are concerned that Intuit’s censorship policies and anti-bitcoin bias threaten to destroy the shareholder value the company has worked so hard to create,” Cole wrote saying he was writing on behalf of his clients, who include Intuit shareholders. Although Mailchimp later reinstated the account following public pressure, Cole said the episode reflects a “broader pattern of deplatforming” that includes bitcoin developers, educators, and businesses.\n\nCole said such actions expose Intuit, known for its TurboTax tax preparation software and QuickBooks accounting software, to reputational and legal risks, particularly as public concern around tech censorship grows and federal regulators — including the Federal Trade Commission (FTC) — begin investigating platform discrimination based on speech or affiliations.\n\n“Mailchimp’s Acceptable Use Policy is being used as a political weapon, rather than a tool to mitigate legitimate business risk,” Cole wrote, adding that “customers and shareholders alike are starting to question whether Intuit is making decisions based on ideology rather than fiduciary duty.”\n\nThe letter called on Intuit to reinstate accounts banned for bitcoin-related content, revise Mailchimp’s content policies to eliminate political considerations. It also urged Intuit to consider adding bitcoin to its corporate treasury as a hedge against artificial intelligence disruption.\n\n“We believe TurboTax, Intuit’s flagship product, has a high risk of being automated away by AI,” Cole wrote. “While we appreciate Intuit’s investments in AI internally, we believe an additional hedge is warranted—and that a bitcoin war chest is the best option available.”\n\nThe move follows Coles' February letter to GameStop, in which he urged the company to convert its $5 billion cash reserve into bitcoin. Since receiving the letter, GameStop confirmed that it will add bitcoin to its balance sheet and has successfully completed a $1.5 billion convertible note offering — positioning itself as one of the first major retailers to align its treasury strategy with what Strive called the “Bitcoin standard.”\n\nThe move marked a significant early win for Strive’s broader campaign to reshape corporate finance and governance around what Cole describes as “apolitical excellence” and long-term shareholder value, free from ideological agendas.",
+    "url": "https://www.coindesk.com/business/2025/04/15/after-persuading-gamestop-to-adopt-bitcoin-strive-s-matt-cole-targets-intuit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Matt Cole",
+                "Sasan Goodarzi",
+                "Susan Nora Johnson"
+            ],
+            "positions": [
+                "CEO",
+                "CEO",
+                "board Chair"
+            ],
+            "companies": [
+                "Strive Asset Management",
+                "GameStop",
+                "Intuit",
+                "Mailchimp",
+                "Trojan Bitcoin Club",
+                "University of Southern California",
+                "TurboTax",
+                "QuickBooks"
+            ],
+            "organizations": [
+                "Federal Trade Commission",
+                "FTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes successful corporate bitcoin adoption campaigns and calls for major companies to add bitcoin to their treasuries as strategic hedges, indicating growing institutional confidence and adoption."
+    }
+}

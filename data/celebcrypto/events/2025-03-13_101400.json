@@ -1,0 +1,32 @@
+{
+    "title": "Lawyer Requests Interpol Red Notice for Libra Founder Hayden Davis: Report",
+    "summary": "Attorney Gregorio Dalbon raised the procedural risk of U.S. citizen Davis remaining at large and of his financial resources allowing him to stay in hiding",
+    "time": "2025-03-13T10:14:00",
+    "author": "Jamie Crawley",
+    "content": "A lawyer in Argentina has requested an international arrest order for Hayden Davis, the founder of memecoin LIBRA, Buenos Aires newspaper Pagina 12 reported on Thursday.\n\nAttorney Gregorio Dalbon raised the procedural risk of U.S. citizen Davis remaining at large and of his financial resources allowing him to stay in hiding, according to the report.\n\nThe lawyer therefore requested that \"the international arrest of Davis be ordered and that an Interpol red notice be issued in order to locate and arrest him, with a view to his extradition,\" in a presentation to Argentine courts.\n\nThe LIBRA memecoin rose to a $4.4 billion market cap before plunging more than 95% last month. It had been promoted by Argentine President Javier Milei in a now-deleted tweet.\n\nThe president subsequently backtracked on his promotion of LIBRA saying he had been unaware of the details of the project and that he \"decided not to continue spreading the word\" once he did become aware.\n\nLIBRA's crash is estimated to have caused losses of $251 million for its investors, according to research by Nansen.",
+    "url": "https://www.coindesk.com/policy/2025/03/13/lawyer-requests-interpol-red-notice-for-libra-founder-hayden-davis-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hayden Davis",
+                "Gregorio Dalbon",
+                "Javier Milei"
+            ],
+            "positions": [
+                "founder",
+                "Attorney",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "Interpol",
+                "Nansen"
+            ]
+        },
+        "cryptocurrencies": [
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a cryptocurrency crash causing $251 million in investor losses and legal actions against its founder, indicating negative market impact."
+    }
+}

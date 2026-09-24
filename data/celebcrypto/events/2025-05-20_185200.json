@@ -1,0 +1,40 @@
+{
+    "title": "Securitize’s Tokenized Credit Fund Set for Solana DeFi Debut as RWA Trend Expands",
+    "time": "2025-05-20T18:52:00",
+    "author": "Krisztian Sandor",
+    "summary": "Kamino Finance and Steakhouse Financial are teaming up to bring Securitize's ACRED token to the fast-growing Solana DeFi ecosystem.",
+    "content": "A tokenized version of Apollo's private credit fund, issued by Securitize, will arrive on Solana’s\nSOL\n$165.41\ndecentralized finance (DeFi) ecosystem, bringing traditional financial instruments closer to the fast-growing network.\n\nThe launch, orchestrated by lending platform Kamino Finance with support from tokenization specialist Securitize and DeFi risk advisor Steakhouse Financial, aims to make the Apollo Diversified Credit Securitize Fund (ACRED) token the first of its kind to be available for on-chain borrowing and leverage on Solana. The token's debut is pending on completing an audit, Kamino said.\n\nThe ACRED token, launched in January, offers exposure to Apollo’s private credit strategies and is issued under Securitize’s regulated token framework. ACRED will also be the first token on Solana using Securitize’s sToken standard, with more assets expected to follow later, Securitize said.\n\nThe product underscores a growing appetite in crypto for real-world asset (RWA) tokenization. RWAs—traditional instruments such as funds, bonds or real estate—are being brought onto blockchain rails to reduce friction in investing, improve access and transparency, and allow for programmable use in DeFi protocols. In practice, this means investors can use RWAs as collateral to borrow against, yield farming, or plug into automated investment strategies.\n\n\"The value of tokenization really comes into play when these assets are integrated into DeFi, and new products and strategies are developed around them,\" says Reid Simon, head of DeFi and credit solutions at Securitize.\n\nDespite Solana's fast-growing DeFi market, RWAs are yet to take off on the chain. According to RWA.xyz, Solana hosts $330 million worth of RWAs, small compared to the network's nearly $9 billion DeFi market size. It's also trailing rival layer-1 network Ethereum's $7 billion real-world asset market. But with large players in tokenization stepping in, backers of the launch see this as a tipping point.\n\n\"Solana has experienced explosive consumer growth in recent years, but below the surface we are seeing enormous interest from institutions and asset issuers,\" said Marius Ciubotariu, co-founder at Kamino, \"Finally, the industry is in a position to not only bring these assets on-chain, but to provide genuine use-cases.\"\n\nThrough Kamino’s Multiply product, users will be able to leverage ACRED for yield strategies—automatically looping the asset to increase exposure while managing collateral and borrow levels through Solana-native smart contracts. That's a similar offering to what Gauntlet introduced on Polygon in late April.\n\n\"Building on off-chain credit assets in a composable way is the sort of long-term investment we believe can help catalyze further growth of DeFi in Solana,\" said adcv, co-founder of Steakhouse Financial.\n\nCORRECTION (May 20, 20:15 UTC): Clarifies that ACRED is a tokenized feeder fund investing in a diversified credit fund managed by Apollo.",
+    "url": "https://www.coindesk.com/business/2025/05/20/apollos-tokenized-credit-fund-set-for-solana-defi-debut-as-rwa-trend-expands",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reid Simon",
+                "Marius Ciubotariu",
+                "adcv"
+            ],
+            "positions": [
+                "head of DeFi and credit solutions at Securitize",
+                "co-founder at Kamino",
+                "co-founder of Steakhouse Financial"
+            ],
+            "companies": [
+                "Securitize",
+                "Kamino Finance",
+                "Steakhouse Financial",
+                "Apollo",
+                "Gauntlet"
+            ],
+            "organizations": [
+                "RWA.xyz"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Ethereum",
+            "Polygon"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the expansion of real-world asset tokenization to Solana's DeFi ecosystem, bringing traditional financial instruments on-chain and creating new use cases, which indicates market growth and institutional interest."
+    }
+}

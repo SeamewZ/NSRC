@@ -1,0 +1,53 @@
+{
+    "title": "Eight U.S. Blockchain Lobby Groups Unite Ahead of Trump's Crypto Friendly Regime",
+    "summary": "The Texas Blockchain Council is optimistic about Trump’s comeback — but miners may face new difficulties in Texas.",
+    "time": "2025-01-15T20:56:00",
+    "author": "Tom Carreras",
+    "content": "With only a handful of days remaining until the second inauguration of U.S. President-elect Donald Trump, crypto policy groups are readying to kick things into higher gear.\n\nBlockchain associations from eight U.S. states announced on Tuesday the creation of the North American Blockchain Association (NABA), an organization aiming to provide cohesive crypto policy recommendations to the federal government.\n\n“A few years ago [NABA CEO] Arry Yu and I led an effort to provide more information and best practices sharing between state associations,” Lee Bratcher, president of the Texas Blockchain Council and a member of NABA’s board of directors, told CoinDesk. “NABA is the formalization of that process in which each state association is independent and retains agency but can act in concert with other states when necessary.”\n\nMembers include the Texas Blockchain Council, the Alabama Blockchain Alliance, the California Blockchain Advocacy Coalition, the Florida Blockchain Business Association, the Ohio Blockchain Council, the Pennsylvania Blockchain Coalition, the Virginia Blockchain Council and the Washington Technology Industry Association Cascadia Blockchain Council.\n\nA former political science professor and Army officer, Bratcher founded the TBC in 2019. It’s a non-profit trade association, meaning that the organization gets its funding through memberships — large corporations such as Coinbase (COIN) and Galaxy Digital Holdings (GLXY), as well as law firms and banks, pay annual fees to be part of the association.\n\nMore than half of the TBC’s funding comes from bitcoin\nBTC\n$101,926.60\nminers: MARA Holdings (MARA), Riot Platforms (RIOT), Core Scientific (CORZ), Bitmain and Cipher Mining (CIFR) are among the association’s biggest financial contributors.\n\nThe incoming Trump administration isn’t likely to affect the TBC or Texas miners in a meaningful way, Bratcher said. That, in a sense, will already be a departure from the Biden regime, which contemplated passing a 30% tax, called DAME, specifically on bitcoin miners. The Department of Energy similarly attempted to collect proprietary and confidential information from bitcoin miners and make that data available publicly, which led the TBC and Riot Platforms to sue them in federal court.\n\n“The only thing the bitcoin mining industry is asking from the Trump administration is to keep things fair and consistent and apply the rules the same for everybody,” Bratcher said. “We feel optimistic that some of the things that were unfair about the Biden administration will no longer happen.”\n\nWith its advantageous tax regime, enormous economy and abundant energy, Texas has become one of the most popular jurisdictions in the world for bitcoin miners.\n\nTexas is home to a tremendous amount of renewable energy projects, and these may generate a lot of electricity when there’s little demand for it — think a wind farm on a windy night, for example, when everyone is asleep, and consumption is at its lowest. For the most part, electricity must be consumed immediately; transmitting that electricity from one place to another is also tricky since energy is lost in the process. In other words, Texas undergoes periods of great electricity generation and small demand and periods of great demand but insufficient production.\n\nWhy has Texas’ energy mix evolved in such a way? It all has to do with subsidies provided by the federal government, which according to Bratcher can reach $30 per MW/h and give a strong incentive for renewable energy companies to develop wind and solar power. Wind farms have been built in the wind corridor of West Texas; more recently, the number of solar projects has exploded — from about 2,000 megawatts (MW) to 22,000 MW statewide in a matter of five years, Bratcher said.\n\nEnter bitcoin mining. Contrary to other types of data centers, which need almost 100% uptime, bitcoin mines can be turned on and off easily. So they are well-adapted to a grid that sees significant volatility in demand. “You had a period where miners were able to get wholesale power prices and lock in power purchase agreements for extremely low amounts of money,” Bratcher said.\n\nBitcoin miners now consume about 3,100 MW in Texas, according to Bratcher — enough energy to supply 620,000 homes, per data from the Electric Reliability Council of Texas (ERCOT), the state’s grid operator. “About half of all bitcoin mining in the U.S. is in Texas,” Bratcher said.\n\nThat explains why the TBC receives such a big portion of its funding from bitcoin miners. In fact, the TBC has hired a number of consultants with a specific focus on ERCOT and energy policy, whereas other types of businesses — crypto exchanges, money transmission — haven’t had the same need.\n\nWill Texas remain friendly towards bitcoin miners in the years to come? That remains to be seen, Bratcher said. Mining firms aren’t the only ones that have rushed to take advantage of Texas’ unique grid, and there is now concern among elected officials that demand might end up being too high. The TBC estimates that the grid will grow somewhere between 5% and 6% per year for the next 10 years — a fast pace compared to the 1% or 2% per year of prior times.\n\nEven so, ERCOT isn’t likely to discriminate against bitcoin miners specifically; it’s simply concerned with the rate of growth. New bitcoin mining operations, Bratcher said, are being built alongside new residential and industrial projects, and ultimately account for less than 10% of the anticipated growth.\n\n“I think [ERCOT] will institute rules for how any large loads interconnect to the grid, and that will create some new planning requirements for bitcoin miners and other large loads, including data centers and industrial consumers,” Bratcher said.",
+    "url": "https://www.coindesk.com/policy/2025/01/15/eight-u-s-blockchain-lobby-groups-unite-ahead-of-trumps-crypto-friendly-regime",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Arry Yu",
+                "Lee Bratcher"
+            ],
+            "positions": [
+                "U.S. President-elect",
+                "NABA CEO",
+                "president of the Texas Blockchain Council",
+                "member of NABA's board of directors",
+                "former political science professor",
+                "Army officer"
+            ],
+            "companies": [
+                "Coinbase",
+                "Galaxy Digital Holdings",
+                "MARA Holdings",
+                "Riot Platforms",
+                "Core Scientific",
+                "Bitmain",
+                "Cipher Mining"
+            ],
+            "organizations": [
+                "Texas Blockchain Council",
+                "North American Blockchain Association",
+                "Alabama Blockchain Alliance",
+                "California Blockchain Advocacy Coalition",
+                "Florida Blockchain Business Association",
+                "Ohio Blockchain Council",
+                "Pennsylvania Blockchain Coalition",
+                "Virginia Blockchain Council",
+                "Washington Technology Industry Association Cascadia Blockchain Council",
+                "Department of Energy",
+                "Electric Reliability Council of Texas"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes blockchain lobby groups uniting ahead of a crypto-friendly Trump administration and expresses optimism about fairer regulations compared to the Biden administration's proposed taxes and data collection efforts."
+    }
+}

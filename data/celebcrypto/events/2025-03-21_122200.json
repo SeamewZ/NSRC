@@ -1,0 +1,27 @@
+{
+    "title": "CryptoQuant's Bull Score Index Falls to 2-Year Lows Signaling Pain for BTC Bulls",
+    "time": "2025-03-21T12:22:00",
+    "author": "Shaurya Malwa",
+    "summary": "The Bull Score Index, a measure of Bitcoin's market health, is currently at a low 20, indicating a possible structural shift in market dynamics.",
+    "content": "Short-term price dips are par for the course in bitcoin’s\nBTC\n$104,638.42\nbull markets, but one indicator suggests the current decline from recent highs may reflect a deeper structural shift in market dynamics.\n\nBitcoin was trading around $84,000 as European morning hours on Friday, a 23% drop from its January peak of $109,000. The fall has rattled investors and fueled debate over whether this marks the start of a new bear market or a fleeting correction within a broader bullish trend.\n\nSuch pullbacks are not uncommon — BTC has weathered similar declines in past bull cycles, often rebounding to new heights. Yet, on-chain analysis firm CryptoQuant’s Bull Score Index, a composite metric designed to gauge bitcoin’s market health, shows signs of deeper weakness.\n\nThe index evaluates ten critical indicators—spanning network activity (like transaction volume), investor profitability, market liquidity, among other factors, assigning a score from 0 to 100. Higher scores denote a robust, bullish environment, while lower readings flag bearish conditions.\n\nAs of now, the Bull Score Index sits at a troubling 20 — the lowest since January 2023, when bitcoin sat around $16,000 post the collapse of then-behemoth crypto exchange FTX.\n\nEight of the ten metrics tracked by the index show warning signs, with network activity been bearish since December 2024 and dried up transaction volumes and liquidity.\n\n“Historically, bitcoin has only sustained major price rallies when the Bull Score is above 60, while prolonged readings below 40 have aligned with bear markets,” CryptoQuant analysts said in the Thursday report.\n\nInvestor profitability has waned as short-term holders face unrealized losses, while demand softens — U.S. spot bitcoin ETFs, once aggressive buyers, have registered a net $180 million outflows in the past 30 days, or among the highest rates of withdrawals since they started trading at the beginning of 2024.\n\nIn previous cycles, readings below 40 for weeks or months have preceded extended bear phases, like the 2022 slump that saw bitcoin shed over 60% of its value from peak.\n\nThe coming weeks will be pivotal. Either the index rebounds, signaling renewed strength, or it entrenches below 40, cementing a bearish shift that could test bitcoin’s $80,000 support zone — one flagged by analysts as a critical level to watch for.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/cryptoquant-s-bull-score-index-falls-to-two-year-lows-signaling-pain-for-btc-bulls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "CryptoQuant",
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The Bull Score Index at a 2-year low of 20, with 8 of 10 metrics showing warning signs and historical data indicating prolonged readings below 40 align with bear markets, signals negative market conditions."
+    }
+}

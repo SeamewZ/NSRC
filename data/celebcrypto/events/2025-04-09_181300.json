@@ -1,0 +1,52 @@
+{
+    "title": "The Protocol: EigenLayer Ready to Launch Missing Feature",
+    "summary": "Also: Bitcoin L2 SDKs; North Korea's THORChain Use; and Quantum-Resistant BTC",
+    "time": "2025-04-09T18:13:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. We’re Margaux Nijkerk and Sam Kessler, reporters on CoinDesk’s Tech team.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nEIGENLAYER’S KEY FEATURE IS FINALLY COMING: EigenLayer, the restaking protocol, shared last week that it will finally introduce its long-awaited slashing feature on April 17, marking the protocol's first \"feature-complete\" version. Slashing will allow Actively Validated Services (AVSs) — apps built atop EigenLayer's restaking system — to penalize operators who fail to meet pre-established conditions, and reward those who do. EigenLayer originally pioneered the concept of restaking, a way for Ethereum users to secure additional protocols beyond the base layer by recommitting their staked Ether. Slashing was supposed to be a core part of this system, providing apps a way to punish bad actors by seizing a portion of their capital. Since slashing was not part of EigenLayer when it initially launched in 2024, it left room for competitors to gain market share. Symbiotic, which allows for the restaking of any asset, has been used by EigenLayer early adopters including Hyperlane, an interoperability framework, and Ethena, a popular synthetic dollar protocol. — Sam Kessler Read more.\n\nBUILDING LAYER-2S ON BITCOIN COMING SOON: One of the oldest Bitcoin ecosystem projects is moving to the next stage of enabling developers to build layer-2 networks using its computational layer. Rootstock is one of many projects currently advancing the goal of bringing greater utility and interoperability to Bitcoin, which it is doing using \"BitVMX\", a modified version of the BitVM programming language. RootstockLabs project is weeks away from releasing software development kits (SDKs), allowing developers to start producing their own Bitcoin layer-2s using BitVMX, founder Sergio Lerner told CoinDesk. SDKs are sets of tools enabling third-parties to build applications using a particular platform or framework. \"We are very close to having all the pieces ready for people to start building their own solutions on top of BitVMX,\" Lerner said in an interview. — Jamie Crawley Read more.\n\nNORTH KOREA’S PREFERRED CRYPTO LAUNDERING TOOL: In February, North Korea stole $1.4 billion in the biggest-ever crypto heist. THORChain, a network used to swap crypto, has become central to North Korea's laundering operations — used to bridge 85% of funds from the hack. Unlike some other blockchain services, THORChain's operators have refused to block transactions linked to the Bybit heist, despite requests from the FBI and other government agencies. THORChain wallets like Asgardex and Vultisig — tools that most people use to transact on the network — haven't budged, either. According to estimates from blockchain security researchers who spoke to CoinDesk, THORChain's major wallet developers and validators — many publicly identified and based in jurisdictions with strict anti-money-laundering regulations, including the U.S. — have earned over $12 million in fees connected to the heist. The U.S. Office of Foreign Assets Control (OFAC) has previously sanctioned blockchain services used in connection with money laundering, such as the mixer app Tornado Cash (which has since been delisted after a court ruling) and Bitzlato, an exchange. Prosecutors have also charged operators behind similar platforms. For legal experts and the crypto community, whether THORChain — a layer-1 blockchain — should be treated differently than these other services revives a fundamental debate faced by virtually all crypto platforms: Is the network truly decentralized? — Sam Kessler Read more.\n\nCAN BITCOIN RESIST QUANTUM COMPUTING?: Bitcoin could be headed for its most sweeping cryptographic overhaul yet if a new proposal gains traction. A draft Bitcoin Improvement Proposal (BIP) titled Quantum-Resistant Address Migration Protocol (QRAMP) has been introduced by developer Agustin Cruz. It outlines a plan to enforce a network-wide migration of BTC from legacy wallets to ones secured by post-quantum cryptography. Quantum computing involves moving away from a process reliant on binary code, ones and zeros, and exponentially increasing computing power by employing Quantum bits (qubits) that exist in multiple states simultaneously. Such a jump in power is expected to threaten modern computing encryption built by classic machines. The proposal suggests that after a predetermined block height, nodes running the updated software would reject any transaction trying to spend coins from an address using ECDSA cryptography, which could theoretically make it vulnerable to quantum attacks. — Francisco Rodrigues Read more.",
+    "url": "https://www.coindesk.com/tech/2025/04/09/the-protocol-eigenlayer-ready-to-launch-missing-feature",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Sam Kessler",
+                "Sergio Lerner",
+                "Jamie Crawley",
+                "Agustin Cruz",
+                "Francisco Rodrigues"
+            ],
+            "positions": [
+                "reporter",
+                "founder",
+                "developer"
+            ],
+            "companies": [
+                "CoinDesk",
+                "RootstockLabs",
+                "Hyperlane",
+                "Ethena",
+                "Asgardex",
+                "Vultisig",
+                "Bitzlato",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "EigenLayer",
+                "Symbiotic",
+                "Rootstock",
+                "THORChain",
+                "FBI",
+                "U.S. Office of Foreign Assets Control (OFAC)",
+                "North Korea"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Ether"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed developments including positive technical advancements (EigenLayer slashing, Bitcoin L2 SDKs) alongside negative security concerns (North Korean laundering, quantum computing threats), resulting in an overall neutral market impact."
+    }
+}

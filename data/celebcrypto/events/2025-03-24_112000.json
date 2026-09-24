@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Open Future Bets on Binance Increase by $600M, Suggest More Price Volatility",
+    "time": "2025-03-24T11:20:00",
+    "author": "Omkar Godbole",
+    "summary": "An increase in open interest alongside a rise in price is said to confirm the uptrend.",
+    "content": "The bitcoin (BTC) price has jumped 2% to $87,800 since midnight UTC. The increase has been accompanied by an uptick in future open interest on Binance, validating the buoyant market mood to signal sustainable gains.\n\nThe open interest in the BTC-USDT futures listed on the exchange has increased by roughly 7,000 BTC ($614.6 million) since the early Asian trading hours, according to data tracked by Coinglass and Velo Data. Open interest refers to the number of active, or open, contracts at a given time.\n\nFurthermore, funding rates on Binance have held positive to suggest a bias for leveraged bullish (long) bets.\n\n\"This is a good sign, volatility is coming,\" Coinglass said, referring to the notable increase in open interest.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/bitcoin-open-future-bets-on-binance-increase-by-7k-btc-to-suggest-price-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Coinglass",
+                "Velo Data"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin price increases, rising open interest validating market optimism, positive funding rates indicating bullish bets, and explicitly states 'This is a good sign, volatility is coming'."
+    }
+}

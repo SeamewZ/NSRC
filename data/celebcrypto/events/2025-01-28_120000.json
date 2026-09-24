@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Rebounds as DeepSeek Concerns Wane, AI Tokens Regroup",
+    "time": "2025-01-28T12:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 28, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe crypto market is showing signs of stabilizing, with bitcoin recovering to $102,000 and positive signals from futures tied to the Nasdaq. Leading the recovery among major cryptocurrencies is XRP, up 11%, followed by SOL with a 7% increase. AI coins, hit hard on Monday, are posting gains of as much as 4%.\n\nRisk sentiment is likely being supported by skepticism surrounding the claims of Chinese tech startup DeepSeek, which asserts it spent only $6 million to develop its competitor to ChatGPT. Critics speculate the figure omits costs associated with earlier research and experimentation on architectures, algorithms and data. Additionally, a concept rooted in the Jevons Paradox suggests that advancements in efficiency often lead to increased usage rather than reduced consumption, leading to net positive growth in the industry.\n\nThat's good news for bitcoin and the broader crypto industry because they align with the narrative of U.S. exceptionalism, particularly given President Trump's crypto-friendly stance and plans to establish a strategic digital asset reserve.\n\nSpeaking of the strategic reserve, Arizona lawmakers have advanced a bill that would permit government entities or public funds to invest up to 10% of their capital in bitcoin and other digital assets.\n\nThe broader outlook remains bullish, with on-chain data pointing to capitulation of weak hands and continued accumulation by large investors.\n\n\"According to CryptoQuant data, the share of investors with a balance of at least 1,000 BTC who purchased coins in the last 155 days increased from 43% to 60%, reflecting the emergence of large players amid optimistic sentiment,\" said Alex Kuptsikevich, chief market analyst at the FxPro.\n\nQCP Capital expects this week to test BTC's correlation with equities, particularly as a favorable regulatory environment offers potential support. Stay alert!\n\nBy Shaurya Malwa\n\nETF Flows\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/28/crypto-daybook-americas-bitcoin-rebounds-as-deepseek-concerns-wane-ai-tokens-regroup",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Alex Kuptsikevich",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "chief market analyst"
+            ],
+            "companies": [
+                "DeepSeek",
+                "CryptoQuant",
+                "FxPro",
+                "QCP Capital",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin rebounding to $102,000, XRP and SOL posting significant gains, positive market sentiment, institutional accumulation, and favorable regulatory developments."
+    }
+}

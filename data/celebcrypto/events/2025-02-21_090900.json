@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Market Faces Weak Demand, Needs Trump Initiatives to Kick In, JPMorgan Says",
+    "time": "2025-02-21T09:09:00",
+    "author": "Will Canny",
+    "summary": "Institutional crypto futures positioning suggests a weakness in demand, the report said.",
+    "content": "The cryptocurrency market is lacking positive catalysts in the near term, Wall Street bank JPMorgan (JPM) said in a report Wednesday.\n\nThe correction in crypto markets in recent months has seen both bitcoin (BTC) and ether (ETH) futures near backwardation, which is a sign of lower demand, the report said. Backwardation occurs when the spot price of an asset is higher than the price trading in the futures market.\n\n\"This is a negative development and indicative of demand weakness by those institutional investors that use regulated CME futures contracts to gain exposure into these two cryptocurrencies,\" analysts led Nikolaos Panigirtzoglou wrote.\n\nIf demand for bitcoin and ether futures is healthy, the futures cost more than the spot price, and the curve is said to be in contango, the bank noted.\n\nWhen demand slows and price expectations soften, the futures curve moves towards backwardation, the bank added.\n\nThis weakness in demand could be due to a number of reasons.\n\nPositive crypto initiatives by Trump's new administration are more likely to kick in during the second half of the year, the bank said, and this means institutional investors are likely taking profits due to a lack of short-term catalysts.\n\nLower demand from systematic and momentum-driven funds, such as CTAs, has also affected bitcoin and ether futures, JPMorgan added.\n\nRead more: U.S. Crypto Task Force to Focus on Delivering National Bitcoin Reserve: Bernstein",
+    "url": "https://www.coindesk.com/markets/2025/02/21/crypto-market-faces-weak-demand-needs-trump-initiatives-to-kick-in-jpmorgan-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nikolaos Panigirtzoglou",
+                "Trump"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "JPM"
+            ],
+            "organizations": [
+                "Wall Street bank",
+                "CME",
+                "CTAs",
+                "U.S. Crypto Task Force",
+                "Bernstein"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The report indicates crypto markets are lacking positive catalysts, with bitcoin and ether futures in backwardation signaling institutional demand weakness and profit-taking due to absence of short-term positive developments."
+    }
+}

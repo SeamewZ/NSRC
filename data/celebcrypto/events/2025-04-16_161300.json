@@ -1,0 +1,48 @@
+{
+    "title": "CoinDesk Announces Eric Trump as a Headline Speaker at Consensus 2025",
+    "time": "2025-04-16T16:13:00",
+    "author": "Benjamin Schiller",
+    "summary": "The president’s son will discuss his mining venture American Bitcoin alongside Asher Genoot, Chief Executive Officer of Hut 8.",
+    "content": "Eric Trump, U.S. President Donald Trump's second son, is set to appear at this year’s Consensus conference to discuss his vision to reshape bitcoin mining in the United States.\n\nTrump will talk about American Bitcoin, a new venture formed with Hut 8 where he serves as Chief Strategy Officer.\n\n\"The launch of American Bitcoin represents a transformative moment for Bitcoin mining in North America,\" said Trump in a statement. “I am so proud to finally unveil our bold vision for this initiative, which we believe will become the world’s largest and most efficient pure-play Bitcoin miner.\"\n\nLaunched on March 31, American Bitcoin said it aims to become the world’s largest pure-play Bitcoin miner, targeting over 50 EH/s of mining capacity.\nEric Trump is scheduled to speak on May 15 at Consensus 2025, which takes place in Toronto May 14-16.\n\nConsensus, which is organized by CoinDesk, is known as the longest-running conference in the digital assets industry, with attendance regularly topping 15,000 people. This year’s event will be at the Metro Toronto Convention Centre in downtown Toronto.\n\nAmerican Bitcoin is one of several crypto ventures launched by the Trump family. Eric Trump also backs World Liberty Financial, a DeFi protocol and planned blockchain-based marketplace where users can borrow and lend cryptocurrencies, create liquidity pools and trade stablecoins. In March, WLFI announced that it plans to launch its own stablecoin, USD1, with BitGo providing custody services.\n\nIn addition, Eric Trump is also an advisor to Metaplanet, the largest holder of bitcoin in Japan, which is following a Michael Saylor/Strategy-type bitcoin treasury model. He’s also an advisor to Dominari Holdings, a wealth management firm, which in March disclosed that it had bought $2 million of BlackRock’s iShares Bitcoin Trust (IBIT) shares.\n\nEric Trump told CNBC this month that the Trump Organization was drawn to crypto after being “debanked” by several financial groups during the Biden Administration. “It actually is what drove us toward cryptocurrency,” he said.\n\n“You realize that cryptocurrency was a lot faster, it was a lot more pragmatic, it was a lot more transparent, it was exponentially cheaper.”“At this point, I know almost everybody in the industry in some way, shape or form,” he told CNBC. “I fell in love with the industry, you know, a few years ago, and really dove head in.”\n\nEric Trump’s crypto interventions haven’t all been successful. In February, Trump tweeted it was a \"good time to add\" ether\nETH\n$3,510.72\n, which was trading around $2,700 at the time. At press time it is trading around $1,500.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/04/16/coindesk-announces-eric-trump-as-a-headline-speaker-at-consensus-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Trump",
+                "Donald Trump",
+                "Asher Genoot",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "Chief Strategy Officer",
+                "Chief Executive Officer"
+            ],
+            "companies": [
+                "American Bitcoin",
+                "Hut 8",
+                "World Liberty Financial",
+                "BitGo",
+                "Metaplanet",
+                "Dominari Holdings",
+                "BlackRock",
+                "Trump Organization",
+                "CNBC"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Consensus",
+                "Biden Administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "stablecoins",
+            "USD1"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant institutional involvement and expansion in Bitcoin mining through Eric Trump's American Bitcoin venture, which aims to become the world's largest pure-play Bitcoin miner, indicating growing market confidence and investment."
+    }
+}

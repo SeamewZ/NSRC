@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin Backed Token YBTC Comes to Sui as Bitlayer Integrates Its BitVM Bridge to Sui Network",
+    "summary": "Peg-BTC (YBTC), the bridged version of BTC, can be deployed in the SUI-based DeFi to generate yield.",
+    "time": "2025-05-15T13:00:00",
+    "author": "Omkar Godbole",
+    "content": "Bitlayer, a bitcoin Layer 2 based on the BitVM paradigm, and Sui blockchain have teamed up to make bitcoin\nBTC\n$101,997.67\nmore useful in the Sui ecosystem.\n\nThe collaboration involves Sui integrating Bitlayer’s BitVM bridge to launch Peg-BTC (YBTC), a Bitcoin-backed token, on its platform, according to an exclusive announcement shared with CoinDesk.\n\nIt allows bitcoin holders to transfer their BTC into Sui via the BitVM bridge. The bridged version, Peg-BTC, can then be used within Sui’s DeFi ecosystem to earn additional yields.\n\n\"Bitcoin’s dominance as a store of value is unmatched, but its utility in DeFi remains untapped. By integrating Bitcoin’s liquidity into Sui’s ecosystem, Peg-BTC (YBTC) empowers users to earn yield while maintaining direct exposure to BTC’s value—a paradigm shift for BTCFi,” Charlie Hu, co-founder of Bitlayer, said in a press release shared exclusively with CoinDesk.\n\nBitcoinFi, or allowing BTC users to earn additional yields through DeFi, was one of the hottest topics at the Token2049 conference in Dubai. Franklin Templeton backed the idea at the event, saying it will boost BTC's appeal beyond the long-prevalent store of value story.\n\nBitlayer is the Bitcoin-security equivalent Layer 2 built on the BitVM paradigm to bring smart contract capabilities to bitcoin without influencing its core consensus. It relies on off-chain computation and on-chain fraud proofs to keep the network secure and decentralized.\n\nBitlayer's BitVM-powered zk bridge is a special tool that facilitates safe and secure movement of BTC onto different blockchain ecosystems without relying on centralized intermediaries or middlemen. It’s trust-minimized, meaning it’s designed to be very secure and decentralized.\n\nSui is a Layer 1 blockchain focusing on offering high-speed and low-cost transactions through parallel processing. As of writing, its DeFi ecosystem comprised 49 projects, boasting over $2 billion in crypto deposits, per data source DeFiLlama.\n\nIntegrating Peg-BTC (YBTC) into the Sui ecosystem opens up several new opportunities for users, like staking Peg-BTC to earn interest through various Bitcoin staking protocols. Users can also lend or borrow Peg-BTC by lending it out to earn yields or using it as collateral for loans. Additionally, Peg-BTC can be traded on popular decentralized exchanges within Sui, allowing users to swap and provide liquidity to earn trading fees.\n\nHu said they plan to work with Sui's top protocols, with the biggest traction in terms of total value locked, fully diluted value and user base within the Sui ecosystem.\n\nAdeniyi Abiodun, Co-Founder and CPO at Mysten Labs, the company behind Sui, said they are taking a holistic approach while catering to the growing demand for BitcoinFi.\n\n\"Sui is taking a holistic approach by onboarding a full stack of infrastructure and BTCfi asset options into the ecosystem, including staking, restaking, bridge integrations, WBTC, sBTC, and soon Peg-BTC (YBTC). Demand is growing for Bitcoin to serve a greater purpose beyond simply being held,\" Abiodun told CoinDesk.\n\n\"Key integrations, such as the BitVM bridge with Bitlayer, are transforming the experience for Bitcoin holders by enabling them to earn, engage with DeFi, and put their assets to work on Sui,\" Abiodun added.\n\nAs of today, BTC assets comprise over 10% of the total TVL locked in the Sui ecosystem, with over 587 BTC flowing into DeFi since February. \"With support for leading BTCfi integrations, Sui’s advanced programmability activates Bitcoin’s utility, enabling users to move beyond holding and into a secure, high-performance chain,\" Abiodun noted.",
+    "url": "https://www.coindesk.com/markets/2025/05/15/bitcoin-backed-token-ybtc-comes-to-sui-as-bitlayer-integrates-its-bitvm-bridge-to-sui-network",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charlie Hu",
+                "Adeniyi Abiodun"
+            ],
+            "positions": [
+                "co-founder of Bitlayer",
+                "Co-Founder and CPO at Mysten Labs"
+            ],
+            "companies": [
+                "Bitlayer",
+                "Franklin Templeton",
+                "Mysten Labs",
+                "CoinDesk",
+                "DeFiLlama"
+            ],
+            "organizations": [
+                "Sui",
+                "Token2049"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Peg-BTC",
+            "YBTC",
+            "WBTC",
+            "sBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased utility and yield opportunities for Bitcoin through DeFi integration, which expands BTC's appeal beyond just store of value and represents a paradigm shift for BTCFi."
+    }
+}

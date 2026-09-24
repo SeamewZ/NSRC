@@ -1,0 +1,27 @@
+{
+    "title": "Bybit Beefs Up Asset Security Following $1.45B Hack",
+    "time": "2025-04-03T11:57:00",
+    "author": "Jamie Crawley",
+    "summary": "The attack on Bybit in February, which saw nearly $1.5 billion worth of digital assets stolen, was the largest hack of a crypto exchange in dollar terms ever.",
+    "content": "Cryptocurrency exchange Bybit, which was hit by a $1.45 billion hack six weeks ago, has teamed up with Zodia Custody to beef up its security offering for institutional clients.\n\nBacked by a troupe of heavyweight traditional finance (TradFi) companies including Standard Chartered, Zodia offers segregated custody and off-venue settlement.\n\nThis means users can trade on Bybit while their assets remain in Zodia's custody, thus reducing exposure to on-exchange risks and preventing co-mingling of funds.\n\nThe attack on Bybit in February saw nearly $1.5 billion worth of digital assets stolen and was the largest hack of a crypto exchange in dollar terms ever.\n\nSuch instances give a bloody nose to the prospects of increasing institutional adoption of digital assets, hence the requirement for custody services akin to what institutions would expect in the TradFi world.\n\nZodia Custody CEO Julian Sawyer referred to its product as \"custody and settlement built for institutions, not retrofitted for crypto,\" in an emailed announcement on Thursday.",
+    "url": "https://www.coindesk.com/business/2025/04/03/bybit-beefs-up-asset-security-following-usd1-45b-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Julian Sawyer"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "Zodia Custody",
+                "Standard Chartered"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $1.45 billion hack on Bybit, which was the largest crypto exchange hack ever and gives a 'bloody nose to the prospects of increasing institutional adoption of digital assets'."
+    }
+}

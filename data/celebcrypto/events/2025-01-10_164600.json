@@ -1,0 +1,35 @@
+{
+    "title": "Babylon Labs Brings New Momentum to Bitcoin ZK Tech Through Bridge to Cosmos Chains",
+    "summary": "Babylon, developer of the largest BTC staking protocol, is teaming up with Bitcoin developers Fiamma to build a trust-minimized bridge using BitVM2",
+    "time": "2025-01-10T16:46:00",
+    "author": "Jamie Crawley",
+    "content": "Babylon Labs, developer of the largest BTC staking protocol, is building a trust-minimized Bitcoin bridge with the Cosmos network to enhance the world's oldest blockchain's interoperability.\n\nIn partnership with Bitcoin developers Fiamma, Babylon is using the BitVM2 computing paradigm, which is designed to allow Ethereum-style smart contracts on Bitcoin, which then paves the way for zero-knowledge technology.\n\nZero-knowledge computations allow different parties to verify that information is accurate without actually revealing to each other what the information is. In this sense, it is foundational to bridging digital assets between different blockchains.\n\nDevelopers like Babylon Labs and Fiamma are aiming to unlock the deep wells of value stored in BTC to finance other ecosystems and allow it to be transacted on blockchains that are free of some of Bitcoin's limitations of speed and scale.\n\nThis forms part of a broader movement to extract greater utility from Bitcoin, similar to that which is commonplace on networks like Ethereum. Babylon's Bitcoin staking protocol, which is one of the foremost projects in this sector, is billed as a way of using BTC to secure other protocols and decentralized applications and has a total value locked (TVL) of around $5.5 billion.\n\nThe introduction of BitVM2's predecessor by Robin Linus in October 2023 was hailed as a breakthrough for making Bitcoin more programmable, through enabling a rollup that can handle faster and cheaper transactions without compromising security. This could then allow bridges to securely transfer BTC to the rollup, and later bring the BTC back so that deposits can be withdrawn.\n\nBitVM inspired plenty of fervor among developers building projects on Bitcoin, including some focused on bridging to other networks. Zero-knowledge rollup Citrea, which is backed by Galaxy Digital, deployed a BitVM-based bridge to the Bitcoin testnet last September. It is designed to be compatible with the Ethereum Virtual Machine (EVM), the smart-contracts-executing software that powers the Ethereum protocol.\n\nRead More: Could Bitcoin Become DeFi’s Collateral of Choice? Lombard Finance Says So",
+    "url": "https://www.coindesk.com/tech/2025/01/10/babylon-labs-brings-new-momentum-to-bitcoin-zk-tech-through-bridge-to-cosmos-chains",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robin Linus"
+            ],
+            "positions": [
+                "Bitcoin developers"
+            ],
+            "companies": [
+                "Babylon Labs",
+                "Fiamma",
+                "Galaxy Digital",
+                "Lombard Finance"
+            ],
+            "organizations": [
+                "Cosmos network",
+                "Citrea"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technological advancements that enhance Bitcoin's utility and interoperability, which typically indicates positive market development and increased adoption potential."
+    }
+}

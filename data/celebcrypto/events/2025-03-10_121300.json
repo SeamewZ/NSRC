@@ -1,0 +1,32 @@
+{
+    "title": "Crypto Equities Slide in Pre-Market After Bitcoin Falls to $80K",
+    "time": "2025-03-10T12:13:00",
+    "author": "Jamie Crawley",
+    "summary": "Bitcoin fell as low as $80,226 with the leading altcoins all registering significant losses.",
+    "content": "Cryptocurrency's extended sell-off bled through to equity markets as crypto-adjacent companies saw losses in pre-market trading on Monday.\n\nStrategy (MSTR) and Coinbase (COIN) both fell over 5%, while bitcoin mining firms MARA Holdings (MARA), Riot Platforms (RIOT), Core Scientific (CORZ) and CleanSpark (CLSK) traded lower by at least 2.5%.\n\nCoinbase's slide to under $205 compounded the crypto exchange's woes as it failed to make the cut for inclusion on the S&P 500 in the index's latest rebalancing.\n\nBitcoin fell as low as $80,226, with the leading altcoins also registering significant declines as the threat of tariffs being imposed by President Trump have weighed on risk assets like crypto and equities.\n\nThis bearish atmosphere has culminated in the crypto fear and greed index falling to a multiyear low of 17, indicating \"extreme fear.\"",
+    "url": "https://www.coindesk.com/markets/2025/03/10/crypto-equities-slide-in-pre-market-after-bitcoin-falls-to-usd80k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Strategy (MSTR)",
+                "Coinbase (COIN)",
+                "MARA Holdings (MARA)",
+                "Riot Platforms (RIOT)",
+                "Core Scientific (CORZ)",
+                "CleanSpark (CLSK)"
+            ],
+            "organizations": [
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin falling to $80,226 with significant losses across altcoins, crypto equities sliding 5%+, and the crypto fear and greed index hitting a multiyear low of 17 indicating 'extreme fear'."
+    }
+}

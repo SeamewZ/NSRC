@@ -1,0 +1,27 @@
+{
+    "title": "Tornado Cash Developer Alexey Pertsev Released From Jail to Prepare for Appeal",
+    "summary": "Last May, Pertsev was sentenced to 64 months in prison for money laundering.",
+    "time": "2025-02-07T08:37:00",
+    "author": "Oliver Knight",
+    "content": "Alexey Pertsev, the Tornado Cash developer found guilty of money laundering in 2024, was released from prison on Friday as he begins to prepare for an appeal, he said in a post on X.\n\nThe 31-year old Russian national was sentenced to 64 months in a Dutch prison last May after an indictment said Pertsev had \"a habit of committing money laundering\" and should have suspected illicit transactions on the platform.\n\nTornado Cash is a coin-mixing protocol that allows users to privately send tokens to another wallet. It achieves privacy by pooling funds together and shuffling them until the origin is unclear.\n\nThe protocol is sanctioned by the U.S. government, which alleges that Tornado Cash was being used by North Korean hackers Lazarus Group.\n\nUPDATE (Feb. 7, 14:14 UTC): Updates headline and first paragraph to reflect Pertsev's release.",
+    "url": "https://www.coindesk.com/policy/2025/02/07/tornado-cash-developer-alexey-pertsev-set-to-be-released-from-prison",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alexey Pertsev"
+            ],
+            "positions": [
+                "developer"
+            ],
+            "companies": [],
+            "organizations": [
+                "Tornado Cash",
+                "U.S. government",
+                "Lazarus Group"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news reports on a legal development involving a developer's release from prison but does not contain information suggesting direct market price movements or investor sentiment shifts."
+    }
+}

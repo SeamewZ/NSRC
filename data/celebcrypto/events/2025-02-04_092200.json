@@ -1,0 +1,35 @@
+{
+    "title": "Ethereum Raises Gas Limits for First Time Since 2021, Boosting ETH Appeal",
+    "time": "2025-02-04T09:22:00",
+    "author": "Shaurya Malwa",
+    "summary": "This change was implemented after more than half of the validators supported the adjustment, which was enacted automatically without the need for a hard fork.",
+    "content": "The Ethereum network’s capacity to handle more transactions increased further late Monday as validators agreed on a gas limit increase for the first time since late 2021, also the first time in the network’s Merge era.\n\nThe gas limit on Ethereum reached nearly 32 million gas units as of Tuesday morning with a maximum expected capacity of 36 million units. The last significant increase was in 2021, when the limit jumped from 15 million to 30 million gas units.\n\nThis change was implemented after more than half of the validators supported the adjustment, which was enacted automatically without the need for a hard fork (or a split in the network).\n\nOn Ethereum, gas is a unit that measures the computational work required to execute operations like transactions or smart contract functions. Each operation has a gas cost associated with it, ensuring that users pay for the exact amount of computational effort their actions require.\n\nThe gas limit is the total amount of gas that can be used in a block. If transactions in a block exceed this limit, they are either delayed to the next block or must compete for inclusion based on the gas price offered.\n\nRaising the gas limit allows Ethereum to process more transactions or more complex operations within each block, thus improving network throughput and allowing the creation of sophisticated decentralized financial (DeFi) applications with minimal downtime.\n\n\"The new changes aren’t as major as sharding would have been, but it is true that this kind of ongoing work is essential if Ethereum is to remain relevant in the foreseeable future,\" Curve Finance founder Michael Egorov told CoinDesk in a Telegram message. \"This incremental work ends up in Ethereum having the capacity to fit more transactions in a block which is usually realized when the gas limit is raised, like in Vitalik’s proposal.\"\n\n\"This is, all in all, a pretty natural step in Ethereum’s evolution, and we’ve seen it before. Developers introduce improvements that increase the number of transactions per block, helping Ethereum scale at the L1 level. It’s great to see this work continuing, keeping Ethereum well-positioned for future growth,\" Egorov added.\n\nHigher gas limits also mean less congestion during peak times, which can make the network costly to use and turn users away to cheaper networks such as Solana.More network utility can add to investor demand for ETH, helping buoy the world’s second-largest token that has fallen out of investor favor in the past year.\n\nEther\nETH\n$3,492.16\nslumped Sunday to its lowest level against bitcoin\nBTC\n$104,608.94\nsince March 2021 as the world’s second-largest token extended losses against its larger rival.\n\nOne ether dropped to 0.03 BTC in January, as CoinDesk reported, almost 50% lower than a year ago, as bitcoin soared in the run-up to U.S. President-elect Donald Trump's inauguration.\n\nThe exchange rate for the two tokens, conventionally called the ETH/BTC ratio, peaked above 0.08 in 2022 and ETH's value proposition has been on the decline ever since.\n\nhttps://x.com/VitalikButerin/status/1886580315965009964\n\nIn addition, the upcoming Pectra upgrade is expected to double the capacity of layer-2 networks — or blockchains that operate atop Ethereum — by increasing the blob target from 3 to 6.\"Blobs\" are large data packets used by layer-2 networks to store data for a certain time period, with 3 blobs included in each Ethereum block as of Tuesday.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/ethereum-raises-gas-limits-for-first-time-since-2021-boosting-eth-appeal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Egorov",
+                "Vitalik Buterin",
+                "Donald Trump"
+            ],
+            "positions": [
+                "founder",
+                "President-elect"
+            ],
+            "companies": [
+                "Curve Finance",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The gas limit increase improves Ethereum's network throughput and utility, which can boost investor demand for ETH and make the network more appealing compared to competitors."
+    }
+}

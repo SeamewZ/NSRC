@@ -1,0 +1,36 @@
+{
+    "title": "Ex-Valkyrie CEO Leah Wald’s SOL Strategies Bought 24,000 SOL in March",
+    "time": "2025-04-08T12:57:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The Solana infrastructure firm now holds over 267,000 SOL, with nearly all of it staked across its growing validator network",
+    "content": "SOL Strategies (HODL), a Canadian company running infrastructure on the Solana network, revealed it acquired 24,000 SOL tokens in March at an average cost of about C$199 ($139.8) each. The purchase, worth around $3.37 million, brought the firm’s total SOL holdings to 267,151 tokens.\n\nNearly all of the company’s SOL—roughly 265,295 tokens—are now staked across four validators that it operates, according to its latest operational update. Since early March, the company’s share price plunged roughly 25% while SOL dropped 27% over the same period.\n\nSince the start of the Trump presidency, SOL Strategies’ stock is down 67%, while Solana has fallen 58%.\n\nLed by Leah Wald, a former Valkyrie Investments co-founder, SOL Strategies has been aggressively expanding its validator infrastructure, not just on Solana but also on other Proof-of-Stake chains, including\nSUI\n$2.0504\n, Monad (MONAD) and ARCH (ARCH). Validators secure these networks by staking their respective tokens and processing transactions, earning rewards in return.\n\nIn March, the firm acquired three validator nodes, including one from Laine and the analytics platform Stakewiz, for roughly $24.5 million. That deal more than doubled the amount of SOL staked on the company's infrastructure—from 1.66 million to over 3.35 million tokens.\n\nThe company also owns 3.211 bitcoin, though it remains focused on the Solana ecosystem.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/ex-valkyrie-ceo-leah-wald-s-sol-strategies-bought-24-000-sol-in-march",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Leah Wald"
+            ],
+            "positions": [
+                "former Valkyrie Investments co-founder",
+                "Ex-Valkyrie CEO"
+            ],
+            "companies": [
+                "SOL Strategies (HODL)",
+                "Valkyrie Investments",
+                "Laine",
+                "Stakewiz"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "SUI",
+            "MONAD",
+            "ARCH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant institutional buying and staking activity in SOL and expansion of validator infrastructure, indicating strong market confidence and investment in the Solana ecosystem."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Binance Offboards Market Maker That It Said Made $38M Profit on MOVE Listing",
+    "time": "2025-03-25T10:07:00",
+    "author": "Shaurya Malwa",
+    "summary": "The entity was offboarded on March 18, and Movement Labs and Movement Foundation teams were informed of the “irregularities with their market maker.”",
+    "content": "Binance, the largest crypto exchange by trading volume, said it \"offboarded\" a market maker for Movement's MOVE token with an association to another market maker that had been removed from the platform due to “misconduct.”\n\nMarket makers are middlemen who are responsible for creating liquidity so trades can take place smoothly without big delays or price swings. They do this by quoting prices to both buyers (bid) and sellers (ask) and taking the opposite side to the transactions.\n\nThe market maker, which wasn't identified, made a $38 million profit when the MOVE tokens were first offered for trading on the exchange, Binance said Tuesday. Instead of meeting its obligations to ensure sufficient order size and place orders for both bid and ask prices, it placed sell orders for 66 million MOVE tokens one day after the initial listing and “little buy orders.”\n\nOne-sided market-making activity is widely considered illicit and illegal, and Binance reiterated that strict rules are in place for defaulters.\n\nThe entity was offboarded on March 18, and both the Movement Labs and Movement Foundation teams were informed of the “irregularities with their market maker,” Binance said in the post. The market maker is no longer able to participate on the exchange and all proceeds were frozen to compensate users, whose details will be available at a later date.\n\n“Any project-authorized market makers who do not comply with or breach such principles and rules, Binance will take further actions against such market makers to best protect our users,” the exchange said.\n\nThe development comes as Binance, in a separate and unrelated incident, suspended a staff member following an internal investigation into alleged front-running trades from a previous role at BNB Chain.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/binance-offboards-market-maker-that-it-said-made-usd38m-profit-on-move-listing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "staff member"
+            ],
+            "companies": [
+                "Binance",
+                "Movement Labs",
+                "Movement Foundation",
+                "BNB Chain"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "MOVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes market manipulation, misconduct, and enforcement actions by Binance against a market maker who made illicit profits, which typically creates negative sentiment and undermines market confidence."
+    }
+}

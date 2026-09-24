@@ -1,0 +1,46 @@
+{
+    "title": "SoftBank Is Buying Bitcoin Again, After $130M Loss in 2018. Is This Time Different?",
+    "summary": "SoftBank returns to crypto years after founder Masayoshi Son lost $130M on bitcoin.",
+    "time": "2025-04-24T18:17:00",
+    "author": "Helene Braun",
+    "content": "Japanese investment giant SoftBank is dipping its toes back into crypto by backing a new bitcoin\nBTC\n$101,998.62\ninvestment vehicle, Twenty One Capital, in conjunction with Tether, Bitfinex, and Cantor Fitzgerald.\n\nFor some, the SoftBank Group—which has $308.7 billion assets under management—taking an interest in bitcoin is a welcome development and another sign of mounting institutional crypto adoption. After all, SoftBank functions more or less like a Japanese sovereign wealth fund, according to Jeff Park, head of alpha strategies at Bitwise.\n\nBut for seasoned observers, it could be more of a déjà-vu than a breakthrough.\n\nFlashback to 2019, SoftBank made headlines when its founder, Masayoshi Son, took a gigantic loss on a personal bitcoin investment.\n\nSon had taken exposure to cryptocurrency in late 2017, when the ICO mania was at its peak and bitcoin was trading at an all-time high of around $20,000.\n\nWith bitcoin now trading at $93,000, Son’s investment would have been very profitable had he held on. But he sold in early 2018 as bitcoin began to crash, resulting in a $130 million loss, according to the Wall Street Journal.\n\nSo the question investors could be asking themselves now is, would this time be different?\n\nTo find a clue, let's take Oracle (ORCL) stock as an example. Recently, U.S. President Donald Trump announced that SoftBank would be part of a $100 billion push to build AI infrastructure in the U.S. in conjunction with OpenAI and Oracle (ORCL).\n\nOne would say this is a bullish outcome for ORCL stock. However, since the announcement was made on Jan. 22, coinciding with ORCL topping at $188 per share, the stock fell 28%, while the Nasdaq has gone down 12% in the same period of time.\n\nOther outside factors, including macro headwinds and geopolitical tension, could explain the underperformance. It could also be just a plain coincidence. However, one analyst tied this Oracle selloff to Softbank's involvement in the AI infrastructure project.\n\n“When SoftBank enters an asset you own, you sell. I don't make the rules,” Quinn Thompson, founder of crypto hedge fund Lekker Capital, wrote in a post on X, citing the Oracle pullback.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/softbank-is-buying-bitcoin-why-bulls-should-be-worried",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Masayoshi Son",
+                "Jeff Park",
+                "Donald Trump",
+                "Quinn Thompson"
+            ],
+            "positions": [
+                "founder",
+                "head of alpha strategies",
+                "U.S. President",
+                "founder"
+            ],
+            "companies": [
+                "SoftBank",
+                "Twenty One Capital",
+                "Tether",
+                "Bitfinex",
+                "Cantor Fitzgerald",
+                "Bitwise",
+                "Oracle",
+                "OpenAI",
+                "Lekker Capital"
+            ],
+            "organizations": [
+                "SoftBank Group",
+                "Wall Street Journal",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed signals with SoftBank's renewed crypto interest being potentially positive but tempered by historical losses and analyst skepticism about SoftBank's investment track record."
+    }
+}

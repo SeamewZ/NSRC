@@ -1,0 +1,26 @@
+{
+    "title": "Layer-2 BOB's 'Bitcoin DeFi' Continues Progress With Fireblocks Integration",
+    "summary": "Fireblocks users can now earn yield on their BTC holdings via BOB's network",
+    "time": "2025-03-03T16:00:00",
+    "author": "Jamie Crawley",
+    "content": "Hybrid layer-2 network BOB's mission to make Bitcoin the center of the decentralized finance (DeFi) universe continues through its integration with crypto custody firm Fireblocks.\n\nThe integration means the over 2,000 entities using Fireblocks will get access to BOB's DeFi ecosystem, which has total value locked (TVL) of around $250 million.\n\nThese users can now earn yield on their BTC holdings via BOB's network, according to an announcement shared with CoinDesk on Monday.\n\nBOB, an abbreviation of \"Build on Bitcoin\", has the goal of making Bitcoin the foundational network for DeFi by bridging to other blockchains and using Bitcoin as a settlement network to finalize transactions.\n\nFireblocks is one of the foremost custodians in the crypto industry, counting many of large institutions among its clients and securing over $7 trillion in digital asset transactions.\n\nRead More: Fireblocks Adds Support for Sony's Soneium, First Step in Provision of Custody Services",
+    "url": "https://www.coindesk.com/tech/2025/03/03/layer-2-bob-s-bitcoin-defi-continues-progress-with-fireblocks-integration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Fireblocks",
+                "CoinDesk",
+                "Sony"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration enables over 2,000 Fireblocks entities to earn yield on BTC holdings, expanding Bitcoin's DeFi ecosystem and increasing institutional access."
+    }
+}

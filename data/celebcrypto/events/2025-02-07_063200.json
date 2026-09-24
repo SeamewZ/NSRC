@@ -1,0 +1,29 @@
+{
+    "title": "Solana’s SOL Could Hit $520 by 2025-End, VanEck Says",
+    "time": "2025-02-07T06:32:00",
+    "author": "Shaurya Malwa",
+    "summary": "VanEck predicts M2 money supply will grow to $22.3 trillion by 2025 from the current $21.5 trillion, boosting crypto markets and top tokens such as SOL.",
+    "content": "Investment firm VanEck predicts Solana's SOL will touch $520 by the end of 2025 as the demand for smart contract platforms (SCP) grows and M2 money supply increases in the coming months.\n\nM2 money supply measures how much money is circulating in the U.S. economy, which tends to influence the crypto market. M2 money supply includes cash, checking deposits, and easily convertible near money like savings deposits and money market funds.\n\nVanEck predicts M2 money supply will grow to $22.3 trillion by 2025 from the current $21.5 trillion. When central banks increase M2 by lowering interest rates or through quantitative easing, more money enters circulation, leading to more liquidity in the economy and encouraging investments in risk assets, such as cryptocurrencies.\n\nOn the other hand, the SCP market is where platforms like Solana operate, allowing for the creation and execution of smart contracts — which VanEck estimates could grow by 43% to reach $1.1 trillion by the end of 2025.\n\nCurrently, Solana holds about 15% of this market, but VanEck expects this will rise to 22% by the end of 2025.\n\n“We forecast its share to rise to 22% by EOY 2025,” VanEck said in the Friday post. “This projection is supported by Solana’s developer dominance, increasing market share in DEX volumes, revenues, and active users.”\n\n“Using an autoregressive (AR) forecast model, we estimate Solana’s market cap will reach ~$250B, implying a SOL price of $520 based on ~486M floating tokens,” it added. An autoregressive (AR) forecast model looks at past data to predict future values.\n\nVanEck is among a bunch of U.S. firms that filed for a Solana ETF in 2024. Previously, the U.S. Securities and Exchange Commission (SEC) had previously refused to acknowledge several applications for ETFs tracking SOL and had told Cboe to take down its previously uploaded 19b-4s for those ETFs.\n\nHowever, in a shift of tone on Thursday, the SEC acknowledged a filing by Grayscale for its SOL ETF, meaning that the commission now has until October to approve or deny the application.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/vaneck-sees-solana-s-sol-touching-usd520-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "VanEck",
+                "Grayscale"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "Cboe"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news predicts significant price growth for SOL ($520 by 2025) and positive market developments including M2 money supply growth and potential ETF approval."
+    }
+}

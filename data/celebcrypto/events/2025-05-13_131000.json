@@ -1,0 +1,41 @@
+{
+    "title": "Asset Manager VanEck Joins Tokenization Race With U.S. Treasury Fund Token",
+    "time": "2025-05-13T13:10:00",
+    "author": "Krisztian Sandor",
+    "summary": "The tokenized U.S. Treasury fund was developed with tokenization firm Securitize and has launched on the Avalanche, BNB Chain, Ethereum and Solana networks.",
+    "content": "Asset manager VanEck launched its first tokenized fund, joining a roster of institutions entering the race to bring assets on-chain with tokenziation.\n\nThe VanEck Treasury Fund (VBILL), developed with tokenization specialist Securitize, offers on-chain access to short-term U.S. Treasury debt and is available on the Avalanche\nAVAX\n$17.56\n, BNB Chain\nBNB\n$989.29\n, Ethereum\nETH\n$3,722.54\nand Solana\nSOL\n$165.41\nnetworks, according to a Tuesday press release.\n\n\"By bringing U.S. Treasuries on-chain, we are providing investors with a secure, transparent, and liquid tool for cash management, further integrating digital assets into mainstream financial markets,” Kyle DaCruz, director of digital assets product at VanEck, said in a statement. \"Tokenized funds like VBILL are enhancing market liquidity and efficiency, underscoring our commitment to providing value to our investors.\"\n\nVanEck, which also issues spot bitcoin\nBTC\n$107,661.53\nand ether\nETH\n$3,722.54\nETFs, follows the footsteps of BlackRock, Franklin Templeton and other traditional finance firms launching tokenized products. Tokenization is the process of placing instruments like bonds, credit, commodities, real estate on blockchain rails in token form to achieve faster settlements, cheaper transactions and operational efficiencies.\n\nTokenization of U.S. Treasuries, a traditional reserve asset, has been at the forefront of these efforts. It's a nearly $7 billion market now, growing over 500% over the past year, per RWA.xyz data.\n\nVBILL is accessible to qualified investors with a minimum investment of $100,000 on most blockchains, with $1 million minimum subscription on Ethereum. The fund’s assets are held by State Street and priced daily using data from RedStone’s oracle service.\n\nThe token supports around-the clock onramp with Circle's USDC stablecoin. It also offers atomic liquidity with Agora's AUSD stablecoin, meaning that VBILL tokens can be redeemed for AUSD in a single transaction via smart contract. Agora is a stablecoin startup helmed by Nick van Eck, the grandson of the founder of VanEck.",
+    "url": "https://www.coindesk.com/business/2025/05/13/asset-manager-vaneck-joins-tokenization-race-with-us-treasury-fund-token",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kyle DaCruz",
+                "Nick van Eck"
+            ],
+            "positions": [
+                "director of digital assets product"
+            ],
+            "companies": [
+                "VanEck",
+                "Securitize",
+                "BlackRock",
+                "Franklin Templeton",
+                "State Street",
+                "RedStone",
+                "Circle",
+                "Agora"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "AVAX",
+            "BNB",
+            "ETH",
+            "SOL",
+            "BTC",
+            "USDC",
+            "AUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a tokenized U.S. Treasury fund by a major asset manager on multiple blockchain networks represents institutional adoption and integration of digital assets into mainstream financial markets."
+    }
+}

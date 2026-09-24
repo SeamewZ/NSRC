@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Nears Death Cross, Yuan Tumbles With Asian Markets After Trump Tariffs Put Focus on China's Response",
+    "time": "2025-04-03T04:46:00",
+    "author": "Omkar Godbole",
+    "summary": "Asian equities and U.S. stock futures have declined, while bitcoin is nearing a bearish technical pattern amid escalating trade tensions.",
+    "content": "It's a risk-off day in Asia as traders look to Beijing's response to U.S. President Donald Trump's sweeping reciprocal tariffs on China and other Asian nations.\n\nOn Wednesday, Trump announced tariffs on imports from 180 nations, including trading partners identified as the worst offenders, such as China and the European Union.\n\nThe president imposed a new 34% tariff on goods from China in addition to the existing 20% tax, bringing the total levy to 54%, the highest for any nation. The action did not affect Canada and Mexico.\n\nObservers say the ball is now in China's court, and the nature of its retaliation could determine the market reaction.\n\n\"Everything now depends on China. If China devalues the Yuan in response to today's large, additional US tariffs, that sets off a global risk-off that hits EMs first and then - if it persists - spills back to the US. China has so far kept a very low profile. That may now end,\" Robin Brooks, managing director and chief economist at the International Institute of Finance, said on X.\n\nEarly Thursday, China urged the U.S. to lift tariffs while vowing immediate retaliation. Meanwhile, the yuan weakened to a seven-week low of 7 against the dollar alongside losses in the Asian equities and an impending death cross in bitcoin (BTC).\n\nLetting the yuan depreciate, which makes Chinese goods cheaper in international markets, is one way to counter the tariffs. That said, it could spell trouble for carry (currency) trades and scare financial markets, as observed in 2015 and 2018.\n\nBesides, potential intervention by the People's Bank of China (PBOC) to stall a rapid yuan decline can boost the dollar, inadvertently weighing on risk assets, including stocks and cryptocurrencies.\n\nIt's no coincidence that Asian equities traded in the red at press time, with Japan's Nikkei hitting an eight-month low. U.S. stock futures fell over 2%, pointing to risk-off mode.\n\nBitcoin, the leading cryptocurrency by market value, traded near $83,300, having dropped from $88,000 to $82,500 following Trump's tariffs announcement, according to CoinDesk market data.\n\nThe 50-day simple moving average (SMA) of the cryptocurrency's spot price appears on track to cross below its 200-day SMA, confirming what is known as the \"death cross\" bearish technical pattern.\n\nThough it has a mixed record of predicting price trends, the latest cross happening against the backdrop of escalating trade tensions warrants attention — more so, as options pricing now shows bias for puts, or downside protection, out to the June-end expiry, according to Deribit and Amberdata.",
+    "url": "https://www.coindesk.com/markets/2025/04/03/bitcoin-nears-death-cross-yuan-tumbles-with-asian-markets-after-trump-tariffs-put-focus-on-china-s-response",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Robin Brooks"
+            ],
+            "positions": [
+                "U.S. President",
+                "managing director and chief economist"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Deribit",
+                "Amberdata"
+            ],
+            "organizations": [
+                "International Institute of Finance",
+                "People's Bank of China (PBOC)",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin dropped significantly following Trump's tariffs announcement and is nearing a bearish 'death cross' technical pattern amid escalating trade tensions and risk-off market sentiment."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Tether May Develop U.S.-Only Stablecoin Under New Regulations: FT",
+    "summary": "Paolo Ardoino said that if new rules are brought in \"make stablecoins competitive, there could be an interest from Tether to create a domestic stablecoin.\"",
+    "time": "2025-04-07T10:15:00",
+    "author": "Jamie Crawley",
+    "content": "Tether, issuer of the world's largest stablecoin USDT, may offer a new token specifically for the U.S., according to a Financial Times report on Monday.\n\nPaolo Ardoino said the company had been involved in discussions about the U.S. rules on stablecoins and that it may create a token just for the U.S, depending on how these discussions unfold, the FT reported, citing an interview with the Tether CEO.\n\nArdoino said that if new rules are brought in\"make [U.S.] stablecoins competitive, there could be an interest from Tether to create a domestic stablecoin,\" which would be \"basically a settlement currency.\"\n\nHe added that the Trump administration views stableoins as \"an important instrument in the United States.\"\n\nStablecoins are digital tokens pegged to the value of a traditional financial asset, most commonly the U.S dollar.\n\nRegulations being considered by President Donald Trump's administration include plans to force foreign issuers trading crypto to comply with U.S. laws.\n\nTether did not immediately respond to CoinDesk's request for further comment.",
+    "url": "https://www.coindesk.com/policy/2025/04/07/tether-may-develop-u-s-only-stablecoin-under-new-regulations-ft",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paolo Ardoino",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Tether CEO",
+                "President"
+            ],
+            "companies": [
+                "Tether",
+                "Financial Times",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates potential regulatory acceptance and expansion of stablecoins in the US market, which suggests positive market development and institutional confidence."
+    }
+}

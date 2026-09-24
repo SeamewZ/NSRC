@@ -1,0 +1,35 @@
+{
+    "title": "Brazil Set to Launch World’s First Spot XRP ETF",
+    "time": "2025-02-19T16:16:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The Hashdex Nasdaq XRP fund is currently in a pre-operational phase, but does not yet have an official start date.",
+    "content": "The world’s first spot XRP exchange-traded fund (ETF) is set to soon debut in Brazil after being approved by the country’s securities regulator, the Comissão de Valores Mobiliários.\n\nThe regulator’s website shows that the fund, the HASHDEX NASDAQ XRP FUNDO DE ÍNDICE, is currently in a pre-operational phase after being set up on Dec. 10, 2024. The fund’s administrator is Genial Investmentos, a local investment brokerage firm.\n\nThe fund managder Hashed has confirmed to local news outlet Portal do Bitcoin that the fund has been approved by the CVM. While it doesn’t have an official date to start trading on Brazil’s B3 exchange, Hashed said it soon release more information.\n\nIn the U.S., the Securities and Exchange Commission has received numerous numerous spot XRP ETF applications from major asset managers, including CoinShares, Bitwise, 21Shares and Grayscale.\n\nThe launch of these funds, which allow investors to gain regulated exposure to the underlying asset without going through crypto exchanges or dealing with private keys, could draw billions to the space according to JPMorgan analysts.\n\nThe impact of a spot XRP ETF in Brazil is likely to have will likely be dwarfed by the launch of a similar fund in the US.\n\nCoinDesk reached out to Hashdex but hasn't heard back by press time.",
+    "url": "https://www.coindesk.com/markets/2025/02/19/brazil-set-to-launch-world-s-first-spot-xrp-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Hashdex",
+                "Genial Investmentos",
+                "CoinShares",
+                "Bitwise",
+                "21Shares",
+                "Grayscale",
+                "JPMorgan"
+            ],
+            "organizations": [
+                "Comissão de Valores Mobiliários",
+                "Portal do Bitcoin",
+                "Securities and Exchange Commission",
+                "B3 exchange",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The approval of the world's first spot XRP ETF and potential US approvals are described as events that could draw billions to the cryptocurrency space according to analysts."
+    }
+}

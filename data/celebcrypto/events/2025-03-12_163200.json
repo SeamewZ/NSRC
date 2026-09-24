@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Miner Bitdeer Increases BTC Holdings by 75% to 1,039 BTC in Two Months",
+    "time": "2025-03-12T16:32:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The company redirected mining rigs to self-mining as customer delayed payments during bitcoin's price drop..",
+    "content": "Bitdeer Technologies (BTDR) boosted its bitcoin\nBTC\n$104,347.87\nholdings by almost 75% in two months by redirecting some of its mining rigs to self production after customers asked to delay payments for the SEALMINER A2 units during the largest cryptocurrency's price decline.\n\nThe Singapore-based company's holdings rose to 1,039 BTC as of February 2025, up from 594 BTC in December, it said in a release. The increased holdings position it among the top bitcoin miners when it comes to BTC treasuries. Still, it trails behind the largest holders: MARA Holdings with 46,374 BTC and Riot Platforms with 18,692 BTC.\n\nBitdeer's main focus is the development of its bitcoin mining chips, and says its new A3 miner achieved significant energy efficiency in recent tests. It posted a $531.9 million net loss for the fourth quarter, attributed to investments in the development of its mining rigs.\n\nThe mining firm produced 110 BTC in February, down from 126 BTC in January, in part because of the shorter month. Its total proprietary hash rate increased to 9.4 exahashes per second (EH/s), up from 8.9 EH/s in December.\n\nThe company's shares rose 0.85% to $10.66 in Nasdaq trading.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/bitcoin-miner-bitdeer-increases-btc-holdings-by-75-to-1-039-btc-in-two-months",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitdeer Technologies",
+                "BTDR",
+                "MARAHoldings",
+                "Riot Platforms"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows a major bitcoin miner significantly increasing its BTC holdings by 75% and expanding mining capacity, indicating strong institutional confidence in bitcoin despite market volatility."
+    }
+}

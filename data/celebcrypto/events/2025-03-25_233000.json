@@ -1,0 +1,32 @@
+{
+    "title": "Now Is 'Really Good Time' to Buy Bitcoin, Says Trillion Dollar Investment Manager",
+    "time": "2025-03-25T23:30:00",
+    "author": "Helene Braun",
+    "summary": "Global investment firm T. Rowe Price’s global technology portfolio manager, Dominic Rizzo, spoke at the Exchange conference in Las Vegas on Tuesday.",
+    "content": "In a conversation at the Exchange conference in Las Vegas, which has brought together about 2,000 investment advisors and asset managers, Dominic Rizzo, global technology portfolio manager at T. Rowe Price—the firm that handles over $1 trillion in assets—said that now is a good time to have exposure to bitcoin.\n\nHe likened the price of bitcoin to a commodity and how investors should think about investing in it. “Bitcoin itself has traded very close to its average cost to mine. So if you think about it like a traditional commodity, that's actually historically a really good time to have exposure to it when it's close to its cost of mine,” he said.\n\nIn traditional commodity investing, when the cost of mining or extracting a commodity is close to the spot price, it often signals that the commodity's price might have found the floor or has a limited downside. This is something contrarian investors look for when investing in commodities, as the bearish sentiment could be priced in when such an event occurs. Rizzo seems to be alluding to such a dynamic in play for bitcoin as well if one compares commodity cycles to bitcoin price.\n\nAccording to MacroMicro blog, the current average price of mining bitcoin is around $84,770, while the spot price is hovering near $87,000.\n\nRizzo also said that he sees blockchain and digital payments as an integral part of fintech and artificial intelligence (AI).\n\n“The world is getting more global, we're moving from cash to digital payments … so, I think digital payments is really at the nexus of moving money cheaply and taking a software-driven approach to areas that have historically been not software-driven,” according to Rizzo.\n\nHe said part of this movement is blockchain, which he believes every investor should have some exposure to, whether through holding stocks of companies like Coinbase (COIN) or Robinhood (HOOD).\n\nCORRECTION (March 26, 14:20 UTC): Corrects T. Rowe Price spelling and clarifies the last sentence to remove mention of miners.",
+    "url": "https://www.coindesk.com/business/2025/03/25/now-is-really-good-time-to-buy-bitcoin-says-trillion-dollar-investment-manager",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dominic Rizzo"
+            ],
+            "positions": [
+                "global technology portfolio manager"
+            ],
+            "companies": [
+                "T. Rowe Price",
+                "Coinbase",
+                "Robinhood"
+            ],
+            "organizations": [
+                "Exchange conference",
+                "MacroMicro blog"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "A trillion-dollar investment manager explicitly states 'now is a really good time to buy bitcoin' and compares current price levels to traditional commodity investment opportunities when prices are near mining costs."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Why Web3 Doesn't Have More Users",
+    "time": "2025-01-29T16:36:00",
+    "author": "William Herkelrath",
+    "summary": "Tools and better user experience are key if we want Web3 to see the fast growth we saw at the inception of the internet, says K3 Labs’s William Herkelrath.",
+    "content": "The year is 2025. It’s more than 16 years since the Bitcoin whitepaper was published and 10 years since the launch of Ethereum, and the programmable smart contract layer that came with it. With billions of dollars invested in the industry, and tens of thousands of developers contributing thousands of applications, primitives, and protocols, surely there would be plentiful turnkey Web3 toolsets available to broaden adoption?\n\nUnfortunately the answer is a resounding “No.”\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nYet, crucial toolsets that made technology easy and enjoyable to use sprung up quickly in the early days of the internet. It’s hard to pin down the exact year the web became large enough to start impacting peoples’ lives, but I’ll suggest it occurred sometime in the late 1990s. By 1995, AOL had crossed the 3 million user mark and Yahoo! had just launched as a secondary default gateway to the web. Google was founded three years later and basic search became a feature that opened the door to new users around 1999.\n\nThe Web2 era, starting in the early 2000s, was dominated by easy-to-use, template driven tools to bring a broad user base to that revolution. Within one year, Amazon Marketplace (2000) brought a turnkey e-commerce solution to market. Less than five years after Google wrote its first line of code, Wordpress (2003), MySpace (2003) and Facebook (2004) were already allowing people to share their own personal profiles and stories on the web.\n\nWas it the wild success of the internet that encouraged multiple companies to quickly offer easy-to-use, less-technical tools to expand the industry’s reach? Or, was it the existence of those better user experiences themselves that made it possible for the industry to soar? Probably a bit of both.\n\nNonetheless, here we are in 2025 and the number of Web3 platforms that resemble those which helped drive the internet’s rise are very few. The majority of projects or protocols that go live are targeted explicitly to either developers or other hardcore crypto natives. Can an industry that continually suggests it wants to aggressively expand its reach do so without actually building tools for a broader user base?\n\nWe have to understand the incentives. Web3 participants are frequently incentivized, through tokens, to get involved early on in a given project, regardless of how usable it is. Priority is often given to projects with robust social media followings that might respond well to a token launch. But unless that early version of the product plugs a critical hole, users are rarely incentivized to continue working with it over longer periods of time.\n\nIn fact, it's actually worse than that. Many crypto-native participants are often encouraged to switch to whatever new early-stage operation is in vogue. In other words, ease-of-use and long-term adoption aren’t crucial to “success” in Web3, so it’s not surprising that they are frequently overlooked.\n\nFor Web3 to transition past being perennially “early” and instead parallel the explosive growth of Web2, we need to re-focus our attention to tools and UI/UXs that broaden both our user base and our underlying use cases. To hold attention long term, Web3 products themselves must seamlessly solve common, genuine problems for users and keep adding value for the long run.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/29/why-web3-doesn-t-have-more-users",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "William Herkelrath"
+            ],
+            "positions": [],
+            "companies": [
+                "AOL",
+                "Yahoo!",
+                "Google",
+                "Amazon Marketplace",
+                "Wordpress",
+                "MySpace",
+                "Facebook",
+                "K3 Labs"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses challenges with Web3 adoption and user experience but does not suggest immediate positive or negative market price impacts."
+    }
+}

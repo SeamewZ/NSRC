@@ -1,0 +1,26 @@
+{
+    "title": "XRP Price Outlook Grim as Traders Go Short, Exchange Inflows Increase",
+    "time": "2025-02-06T08:33:00",
+    "author": "Shaurya Malwa",
+    "summary": "XRP's perpetual funding rates remain negative, show a bias for bearish short positions.",
+    "content": "Net inflows to spot XRP tokens turned positive early Thursday after days of outflows, putting the token in focus following a record-breaking month for its native decentralized exchange (DEX).\n\nOver $15 million in XRP flowed to centralized exchanges on Thursday led by deposits to Bybit and Kraken, Coinglass data shows. Spot inflows to exchanges may mark an intention to sell tokens on the open market, dampening chances of a rally.\n\nMeanwhile, 8-hour funding rates in the XRP perpetual futures markets stood at -0.0065% as of Thursday morning, implying a bias for short positions that profit from price drops. Notably, XRP's funding rates were more negative than ETH and BTC.\n\nNegative funding rates mean traders holding short positions are willing to pay a small fee to those with long positions to keep their bearish bets open.\n\nXRP trades below several key moving averages, with the 10-day exponential moving average (EMA) at $2.84 and 21-day EMA at $2.88. Trading below these moving averages suggests a bearish short-term outlook.\n\nHowever, the 100-day simple moving average (SMA) is just above $2, and the 200-day SMA is at $1.30, both below the current price, indicating a bullish longer-term trend. Moving averages help identify trends by smoothing out price data, and the period readings used above are popularly used by retail traders.\n\nMeanwhile, immediate resistance at $2.49, followed by the $2.60 level. A move past these levels would revive the bullish outlook, setting the stage for a run to the $3 mark, which it breached in January for the first time since 2018.\n\nXRP's 14-day relative strength index (RSI) — which measures magnitude of price changes — was just over 36 in Asian hours, placing it in the neutral zone. Traditionally, RSI values above 70 indicate overbought conditions, while values below 30 suggest oversold conditions. An RSI around 50 is considered neutral.",
+    "url": "https://www.coindesk.com/markets/2025/02/06/xrp-net-inflows-turn-positive-as-token-eyes-usd3-but-resistance-at-usd2-60",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bybit",
+                "Kraken"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "ETH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes negative funding rates indicating bearish short positions, exchange inflows suggesting selling pressure, and XRP trading below key moving averages with a bearish short-term outlook."
+    }
+}

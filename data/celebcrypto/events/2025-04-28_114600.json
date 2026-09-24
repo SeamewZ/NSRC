@@ -1,0 +1,36 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Price Returns to Positive for the Year",
+    "time": "2025-04-28T11:46:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for April 28, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nBitcoin (BTC) was little changed Monday, adding less than 1% amid renewed trade tensions and concerns of geopolitical instability that spread into the Indian subcontinent, where India and Pakistan are exchanging small-arms fire.\n\nThe cryptocurrency rose 0.75% in the past 24 hours, turning positive for the year and decoupling from traditional risk assets as investors questioned the durability of the U.S.’s role as the global financial anchor. The broader market, measured through the CoinDesk 20 (CD20) index, rose 2.2%.\n\nStock-index futures in the U.S. are pointing to a slight drop and gold fell over 1% with investors likely taking profit from the precious metal’s 25% year-to-date rally. Equities endured a sell-off after China denied talks with the U.S. to reach a tariff deal.\n\n“Bitcoin has acted less like a liquid levered version of levered US equity beta and more like the non-sovereign issued store of value that it is,” Greg Cipolaro, the global head of research at NYDIG, wrote in a note.\n\nWhile the cryptocurrency’s longer-term correlation to U.S. equities remains high, the short-term price action points to a market starting to treat BTC less like a tech stock proxy and more like a non-sovereign safe haven, according to NYDIG’s report.\n\nOptions and futures data suggest bitcoin’s rally, which saw it rise 9% last week, is still in its early stages. Funding rates for offshore perpetual swaps only recently turned positive, and call overwriting remains more popular than aggressive bullish positioning.\n\nBitcoin’s appeal as a politically neutral asset appears to be growing. The note shows that since President Donald Trump’s April 2 \"Liberation Day,\" bitcoin has outperformed U.S. Treasuries, the Swiss franc and gold.\n\nThe broader backdrop remains volatile. Measures of equity (VIX), bond (MOVE), and currency (CVIX) volatility have jumped in recent weeks. While they are expected to recede slightly, the outlook is for them to remain elevated for the foreseeable future, the note said.\n\nDespite bitcoin’s growing appeal, macro and geopolitical events remain “the primary drivers of flow,” according to Jake O., an OTC trader at Wintermute who flagged in an email that bitcoin call calendar spreads targeting $110,000 in June remain “the preferred structure for those reaching for topside.\"\n\nThis week investors will see an inflow of major corporate earnings reports, as well as the latest consumer income and expenditure report and April's nonfarm payrolls on Friday. The data could provide further insights into a potential earlier-than-expected interest-rate cut, which Trump has been calling for. Stay alert!\n\nCoinDesk's Consensus is taking place in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/26/crypto-daybook-americas-bitcoin-price-returns-to-positive-for-the-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Greg Cipolaro",
+                "Donald Trump",
+                "Jake O.",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "global head of research",
+                "OTC trader"
+            ],
+            "companies": [
+                "NYDIG",
+                "Wintermute",
+                "CoinDesk",
+                "Farside Investors"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin turned positive for the year, rose 0.75% in 24 hours and 9% last week, with options and futures data suggesting the rally is still in early stages and growing appeal as a politically neutral safe haven asset."
+    }
+}

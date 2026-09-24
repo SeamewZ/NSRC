@@ -1,0 +1,33 @@
+{
+    "title": "Crypto Custody Firms BitGo and Copper Deliver Off-Exchange Settlement for Deribit",
+    "time": "2025-02-20T12:00:00",
+    "author": "Ian Allison",
+    "summary": "Clients of BitGo and Copper can now trade spot and derivatives on Deribit while assets are secured off-exchange.",
+    "content": "Qualified cryptocurrency custodian BitGo and Copper, the firm behind the ClearLoop settlement system, are providing off-exchange settlement for traders using options exchange Deribit, the firms said on Thursday.\n\nClients of BitGo and Copper can now trade spot and derivatives on Deribit while assets are secured off-exchange in qualified custody with BitGo Trust, and automatically settled leveraging Copper ClearLoop and the Go Network, according to a press release.\n\nIn a post-FTX world traders are looking to reduce the risks associated with leaving assets on exchanges where possible. BitGo and Copper announced a partnership two years ago to trade on exchanges while assets are held within a regulated custody ring-fenced environment.\n\nA simple function of the combined BitGo and Copper ClearLoop networks is delivery versus payment (DvP), so any BitGo client can instantaneously settle with any other BitGo client in an atomic swap of the assets without ever needing to bring those assets on chain, said Brett Reeves, head of BitGo’s Go Network.\n\n“We can do this DvP settlement from cold storage, and there's no fees for it,” Reeves said in an interview with CoinDesk. “So we're really looking at eliminating that settlement risk, or Herstatt risk, and moving it towards the traditional finance space.”\n\nUnder the hood, assets are held with qualified or regulated custody at BitGo, and then at pre-defined intraday settlement periods, the assets that are owed to Deribit are removed from a BitGo account into the Copper ecosystem through to Deribit, Reeves explained. If these assets are owed to the client, it comes back the other way, he said.\n\n“The bulk of the client's assets remain within Bitgo custody, apart from a settlement time when they move to exchange,” Reeves said. “At settlement time, that's the P&L that they owe on the transactions, or the variation margin on their positions.”\n\n\"The synergies between our companies will unlock new opportunities for investors and will completely change the landscape of trading,\" said Luuk Strijers, CEO of Deribit in a statement.",
+    "url": "https://www.coindesk.com/business/2025/02/20/crypto-custody-firms-bitgo-and-copper-deliver-off-exchange-settlement-for-deribit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brett Reeves",
+                "Luuk Strijers"
+            ],
+            "positions": [
+                "head of BitGo’s Go Network",
+                "CEO of Deribit"
+            ],
+            "companies": [
+                "BitGo",
+                "Copper",
+                "Deribit",
+                "FTX"
+            ],
+            "organizations": [
+                "BitGo Trust",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes reduced settlement risk and enhanced security for traders through off-exchange custody, which increases market confidence and institutional adoption."
+    }
+}

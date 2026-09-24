@@ -1,0 +1,38 @@
+{
+    "title": "MoonPay's Ivan Soto-Wright Bets on a Non-Custodial, API-First Future for Crypto",
+    "time": "2025-04-22T14:12:00",
+    "author": "Will Canny",
+    "summary": "“Cryptocurrency wallets will eventually replace bank accounts,\" the Consensus 2025 speaker told CoinDesk.",
+    "content": "As the crypto space consolidates, MoonPay is quietly becoming the infrastructure layer for the next wave of Web3.\n\nWith over 30 million verified users across 160 countries and a fully licensed global stack, the company is enabling everything from fiat onramps to embedded DeFi experiences.\n\nOriginally launched to make wallet top-ups seamless via Apple Pay and debit cards, MoonPay now powers API-first solutions used by nearly every major DeFi app.\n\n“We started with a simple question, how do you top up your wallet?” MoonPay's CEO and co-founder Ivan Soto-Wright told CoinDesk in an interview. Now it’s about giving developers the tools to bring crypto into everyday life.\n\nIvan Soto-Wright is speaking on the main stage at Consensus 2025, in Toronto on May 15.\n\nThe company is pushing toward a fully API-driven, \"headless\" infrastructure model, where developers can plug MoonPay into their products just like Stripe.\n\nHelio, one of MoonPay’s recent acquisitions, underscores this trajectory. Moonpay acquired the Solana-powered crypto payment processor in January, for a reported $175 million.\n\nDespite its size and reach, MoonPay still operates with a startup mentality. With only 300 employees, the team is \"execution-first\" and relentlessly focused on efficiency. The company saw 112% year-on-year growth, with Q1 2025 marking its strongest quarter ever.\n\nMoonPay primarily earns via transaction fees on crypto purchases through debit cards, Venmo, and Apple Pay. But it’s experimenting with zero-fee trading products like “Balance,” which allows users to deposit cash and trade instantly.\n\nSoto-Wright is a well-known entrepreneur and investor, and is a member of the Milken Institute Fintech Advisory Council.\n\nPrior to MoonPay, he was CEO and co-founder of smart money app Saveable. He started his career at London-based investment firm Redington.\n\nCoinDesk: What trends do you see emerging in crypto?\n\nSoto-Wright: “DEXs will overtake CEXs, with users demanding control over their assets but expecting the smooth UX of a centralized platform.\"\n\n\"MoonPay’s ethos is that more crypto transactions should be peer-to-peer, taking advantage of decentralized exchanges. We’re seeing a general shift from CeFi to DeFi, with decentralized exchanges currently dominating 30% of the market. I see this trend continuing to shift over time – DeFi is global and ultimately reduces friction and costs by cutting out the middleman.”\n\nHow do you expect the wallet market to develop?\n\n“Cryptocurrency wallets will eventually replace bank accounts. Users will have multiple wallets, like you and I have a number of bank accounts now. MoonPay provides the mission-critical infrastructure to power these wallet experiences, both from our MoonPay Widget product and APIs.”\n\nDoes MoonPay plan to make more acquisitions in the near term?\n\n“M&A is a huge growth driver to our business. We view it as an accelerator to help us move quickly and bring more products to market. A big part of our M&A strategy is identifying the right companies to help achieve our vision for the future of payments. An example of this is Helio, which unlocked our ability to power crypto commerce for merchants.\"\n\n“We’re always open to M&A,” Soto-Wright said, noting that past acquisitions have been cash-flow positive from day one. “It’s about speed, scaling by acquiring great teams with a sharp founder mindset.”\n\nWhat features do customers want, better UX?\n\nA central theme for MoonPay is the shift from custodial to non-custodial finance. “We believe crypto should be non-custodial first,” said the company's CEO.\n\nTo facilitate this shift, MoonPay is developing what it calls the “CEX experience in a DeFi environment.” That means abstracting away the complexity of DeFi —wallets, UTXOs, compliance — into easy-to-integrate SDKs and widgets. “Think of it like packaging up the convenience of a centralized exchange and putting it into your own wallet.”\n\nWhat does the future have in store for MoonPay?\n\nWhile not yet confirmed, a MoonPay stablecoin could be in the pipeline.\n\n“We’re taking our time, but you can see the early signs in Balance. Eventually, there could be a stablecoin.”\n\nREAD MORE: Why MoonPay and PayPal Partnered to Expand Crypto Adoption in the U.S.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/04/22/moonpays-ivan-soto-wright-bets-on-a-non-custodial-api-first-future-for-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ivan Soto-Wright"
+            ],
+            "positions": [
+                "CEO and co-founder",
+                "member of the Milken Institute Fintech Advisory Council",
+                "entrepreneur and investor"
+            ],
+            "companies": [
+                "MoonPay",
+                "Helio",
+                "Stripe",
+                "Saveable",
+                "Redington",
+                "CoinDesk",
+                "PayPal"
+            ],
+            "organizations": [
+                "Milken Institute Fintech Advisory Council",
+                "Consensus 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights MoonPay's strong growth (112% year-on-year), expansion into non-custodial infrastructure, and positive outlook on DeFi adoption, indicating market confidence and development momentum."
+    }
+}

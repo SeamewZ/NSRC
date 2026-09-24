@@ -1,0 +1,35 @@
+{
+    "title": "Trump Tariff Promise Snuffs Out Bitcoin Rally for Second Consecutive Day",
+    "time": "2025-01-31T18:59:00",
+    "author": "Stephen Alpher",
+    "summary": "The White House confirmed sizable tariffs on Mexico, Canada and China will go into effect tomorrow.",
+    "content": "It's deja vu all over again in crypto after a hopeful report on a tariff delay was refuted by the White House.\n\nTo review, President Trump on Thursday promised to impose 25% tariffs on Mexico and Canada beginning Saturday Feb. 1. Having rallied over $106,000 prior to that news, bitcoin\nBTC\n$103,774.29\nquickly reversed 2% lower to around the $104,000 level. U.S. stocks gave up a chunk of earlier gains, though still finished the session in the green.\n\nFriday then brought a report from Reuters suggesting the tariffs would be delayed until March 1 as a process was put in place to allow countries to seek exemptions for certain exports.\n\nThe White House, though, called that report \"false,\" with Trump's Press Secretary Karoline Leavitt minutes ago telling reporters the tariffs — including a 10% levy on China — will go into effect tomorrow.\n\nSimilar to Thursday, bitcoin earlier had climbed above $106,000 and seemed set on a challenge of a new record above $109,000. The tariff news, however, once again sent prices careening lower, with bitcoin trading just below $103,000 at press time, down 2.3% over the past 24 hours.\n\nThe broader CoinDesk 20 Index was off 1.3% over the same time frame, outperforming mostly due to ether's\nETH\n$3,482.75\n1.2% advance.\n\nA check of traditional markets find U.S. stocks still modestly higher, but well off their best levels of the session.",
+    "url": "https://www.coindesk.com/markets/2025/01/31/trump-tariff-promise-snuffs-out-bitcoin-rally-for-second-consecutive-day",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Karoline Leavitt"
+            ],
+            "positions": [
+                "President",
+                "Press Secretary"
+            ],
+            "companies": [
+                "Reuters"
+            ],
+            "organizations": [
+                "White House",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin prices reversing lower and careening down after the tariff confirmation, with bitcoin trading down 2.3% over 24 hours."
+    }
+}

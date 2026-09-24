@@ -1,0 +1,43 @@
+{
+    "title": "Ethereum Backers Respond to Critics: ‘Markets Will Catch Up’",
+    "time": "2025-05-16T19:01:00",
+    "author": "Sam Kessler",
+    "summary": "Ethereum insiders pushed back on criticism of the network’s leadership and roadmap, arguing that the ecosystem is built for long-term value.",
+    "content": "TORONTO — Ethereum just completed its most significant upgrade in more than a year, but the milestone comes after a turbulent stretch for the blockchain. The price of ether\nETH\n$3,496.50\nhas declined, developers have migrated to rival platforms, and the Ethereum Foundation — a nonprofit steward of the project — has faced criticism for a lack of coordination and vision.\n\nSpeaking on a panel at CoinDesk’s Consensus conference in Toronto, Paul Brody — global blockchain leader at EY and chairman of the Enterprise Ethereum Alliance — and Josh Stark of the Ethereum Foundation, offered a more optimistic view of the road ahead.\n\nThere are two things the community is looking for, Stark said. First, “the ecosystem needs stronger leadership … Stronger leadership on the roadmap, on executing that roadmap, and really help coordinating the ecosystem to tackle the big challenges.”\n\nSecond, the network needs better messaging. “Ethereum's fundamentals are incredibly strong, but few people are standing up to tell the story of that ecosystem and to boost the incredible stuff being built,” Stark said.\n\nFor all its recent struggles, Stark and Brody maintained that Ethereum remains the most innovative and forward-focused project in crypto.\n\nBrody suggested that concerns about the foundation’s leadership are particularly overblown, giving the Ethereum Foundation’s former executive director, Aya Miyaguchi, top marks for her tenure, which began in 2018 and ended this year.\n\n“Ethereum is a proof-of-stake chain with more than 120 layer-2 networks,” said Broday. Network capacity, he added, is near \"300 and 450 million transactions a day.\" Additionally, \"transaction fees at the L2 level — they average under one penny per transaction for the last three months,\" said Brody. \"If I step back and look at [Miyaguchi's] tenure very objectively in terms of the results, I would say A plus.”\n\nMiyaguchi transitioned to Ethereum Foundation president in March 2025, installing Hsiao-Wei Wang and Tomasz Stańczak as its new co-executive directors — part of a leadership restructuring aimed at enhancing the foundation's strategic focus.\n\nSome critics have argued Ethereum’s roadmap has relied too heavily on layer-2 rollups — independent blockchains that process transactions cheaply and quickly before \"settling\" their history on Ethereum’s main chain. Brody defended the network's rollup-centric roadmap: “I'm delighted,” he said.\n\nWhile layer-2s like Optimism, Arbitrum and Coinbase's Base network have lowered users' fees — generally considered the main headwind to wider network adoption — skeptics say they also introduce new security risks and fragmentation hurdles that threaten Ethereum's fundamental value proposition.\n\n“Ethereum is being Ethereum,” Brody said. “Which is, identify a problem, fix it, and move on to the next problem. In terms of the biggest problem that we were dealing with over the last few years, it was scale, right? Going from being able to do a million transactions a day to 450 million network capacity is great.”\n\n“All ecosystems are going to end up with something like an L2 roadmap with modularity and specialization,” Stark added. “We're just the ones that have gone furthest down this path, and we found the twists and the turns and the challenges on that road, and we're dealing with them.”\n\nEther\nETH\n$3,515.90\n, the network’s native token, has long been considered a blue-chip crypto asset. But in recent months, it has underperformed relative to some competitors. Network tokens are often viewed as a proxy for an ecosystem’s overall health.\n\nBitcoin, Stark noted, has successfully positioned itself as a reliable store of value, helping it weather the market more favorably than Ethereum. “Ethereum has a more complicated narrative,” he said.\n\nStill, Stark expressed confidence that the market would eventually reflect Ethereum’s deeper value.\n\n“The world's not going to stop learning about these technologies and these systems,” he said. “The world is going to have an appetite for a slightly more complicated, but just as real value proposition. And I think we're starting to see that now. So I think that markets eventually price value. And I think that Ethereum is the most important project in crypto and always has been.”",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/16/ethereum-backers-respond-to-critics-markets-will-catch-up",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Brody",
+                "Josh Stark",
+                "Aya Miyaguchi",
+                "Hsiao-Wei Wang",
+                "Tomasz Stańczak"
+            ],
+            "positions": [
+                "global blockchain leader at EY",
+                "chairman of the Enterprise Ethereum Alliance",
+                "Ethereum Foundation president",
+                "co-executive directors"
+            ],
+            "companies": [
+                "EY",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Enterprise Ethereum Alliance",
+                "CoinDesk",
+                "Consensus conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Ethereum insiders express strong confidence in the network's fundamentals and future value, arguing that markets will eventually recognize Ethereum's importance and price it accordingly."
+    }
+}

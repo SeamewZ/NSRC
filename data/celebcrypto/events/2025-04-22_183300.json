@@ -1,0 +1,43 @@
+{
+    "title": "Strategy, Coinbase, Miners Among Crypto Stocks Rallying as Bitcoin Surges Above $90K",
+    "summary": "Beaten down crypto miners snapped back after weeks of underperformance with bitcoin catching momentum.",
+    "time": "2025-04-22T18:33:00",
+    "author": "Krisztian Sandor",
+    "content": "Crypto-related stocks surged on Tuesday, riding the momentum of a broader crypto rally that has reignited risk appetite across digital assets with bitcoin\nBTC\n$101,998.62\ncrossing above $90,000.\n\nShares of Strategy (MSTR), the largest corporate BTC holder, and crypto exchange Coinbase (COIN) were up 8% to 9% during the session.\n\nLeading the move higher were bitcoin miners, with many of them posting double-digit gains, outpacing BTC's 5% advance. Bitdeer Technologies (BTDR) rallied some 20%, while Bitfarms (BITF), CleanSpark (CLSK), Cipher Mining (CIFR), MARA Holdings (MARA), and Riot Platforms (RIOT) soared between 10% and 15% during the session.\n\nMeanwhile, the broader stock market also rebounded from yesterday's decline, with the Nasdaq and S&P 500 up 2% and 1.7%, respectively. The rally in the TradFi market came as reports of potential de-escalation of U.S.-China tariff tension lifted investor sentiment.\n\nThe bounce in mining stocks comes after months of underperformance, weighed down by compressed margins, rising hashrate competition, and tariff-induced difficulties, all of which are combined with broader market weakness for risk assets. Most, if not all, publicly traded miners are still trading near multi-month lows.\n\nAt issue for U.S.-based mining operations is the Trump administration's tariff policy, which threatens to make ASICs (the machines used to mine bitcoin) much more expensive to import. That means that mining operations in the U.S. will probably grow at a much slower rate or even stop growing altogether.\n\nThe tariffs “will materially affect future spending and CapEx in the U.S.,” Taras Kulyk, co-founder and CEO of mining hardware provider Synteq Digital, told CoinDesk recently.\n\n“Other jurisdictions that had previously looked higher cost [will] become sought after targets for new infra and capex deployment. Canada in particular, will likely be a benefactor to the implementation of the global tariff regime that’s been put in place by the White House.”\n\nRelatedly, one of the reasons behind Bitdeer’s outperformance may be because the company is developing its own ASIC manufacturing business and recently took the decision to build out its self-mining capacities instead of selling its rigs in a slower market. Stablecoin giant Tether has also been on a buying spree of BTDR shares; as of last Thursday, the company had invested $32 million in Bitdeer.\n\nEven so, most miner stocks have been on the downtrend since December, long before the White House unveiled its new tariff policy. Now, with BTC climbing above key technical levels and liquidity flowing back into the space, miners are probably catching a bid as a leveraged proxy for BTC's upside.\n\nRegardless of the outperformance today, tariffs will continue to play a key role in miners and most crypto-related stocks, along with other risk assets. With earnings season starting soon, all eyes will be on comments from CEOs about how the tariff situation will change the corporate outlook. Notably, Elon Musk's Tesla, which also holds bitcoin in its treasury, will report its earnings post-market on Tuesday, potentially providing some insight into how traders should price in the trade war uncertainties.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/strategy-coinbase-miners-among-crypto-stocks-rallying-as-bitcoin-surges-above-90k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Taras Kulyk",
+                "Elon Musk"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Strategy (MSTR)",
+                "Coinbase (COIN)",
+                "Bitdeer Technologies (BTDR)",
+                "Bitfarms (BITF)",
+                "CleanSpark (CLSK)",
+                "Cipher Mining (CIFR)",
+                "MARA Holdings (MARA)",
+                "Riot Platforms (RIOT)",
+                "Synteq Digital",
+                "Tether",
+                "Tesla"
+            ],
+            "organizations": [
+                "Trump administration",
+                "White House",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto-related stocks surging, bitcoin crossing above $90,000 with a 5% advance, and renewed risk appetite across digital assets."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Why Is the Crypto Market Down Today? Bitcoin Drops to $82K as Traders Flee Risk Assets Amid Macro Worries",
+    "time": "2025-03-29T13:51:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Crypto markets see over $300M in liquidations as investors flee risk ahead of April policy changes and over concerning macroeconomic data.",
+    "content": "Cryptocurrency prices have experienced a sharp decline over the last few hours, with bitcoin\nBTC\n$103,904.89\nnow being down around 3% over the last 24 hours, while major altcoins including XRP, BNB, and SOL are down between 4% and 5% over the same period.\n\nThe broader cryptocurrency market, represented by the CoinDesk 20 Index (CD20), lost around 3.3% of its value over the period. The sharp drop brings BTC’s performance down 1.7% for the week, while CD20 is down nearly 5%.\n\nOver the last 24 hours, over $300 million worth of long positions were liquidated on centralized cryptocurrency exchanges, while $38.8 million worth of shorts were liquidated on these platforms, according to CoinGlass data.\n\nThe drop appears to be part of a wider derisking move among traders, as investors are anticipating the impact of President Donald Trump’s reciprocal tariffs that are set to come into effect on April 2. The move heightened after core Personal Consumption Expenditures (PCE) data came in hotter than expected on Friday.\n\nJust this week, consumer confidence data dipped further than expected, while the index for future expectations came in at a 12-year low, and well below levels associated with an incoming recession.\n\nThis confluence of factors has seen investors reduce their exposure to risk assets and triggered a flight to safety. CoinDesk Data’s latest stablecoin report shows that gold-backed cryptocurrencies have benefitted from the risk-off move, as their market capitalization climbed above $1.4 billion in March.\n\nGold-backed cryptocurrencies are, in fact, countering the market’s bearish trend. While the CD20 is down over 3% in the last 24-hour period, tokens including PAXG and XAUT are up 0.7% to over $3,100. These tokens are up more than 18% year-to-date, while BTC is down 12.5% and the CD20 index 28% so far this year.",
+    "url": "https://www.coindesk.com/markets/2025/03/29/why-is-the-crypto-market-down-today-bitcoin-drops-to-usd82k-as-traders-flee-risk-assets-amid-macro-worries",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "BNB",
+            "SOL",
+            "PAXG",
+            "XAUT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes sharp price declines, significant liquidations, and investors fleeing risk assets due to macroeconomic worries."
+    }
+}

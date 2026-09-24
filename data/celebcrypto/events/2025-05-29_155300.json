@@ -1,0 +1,30 @@
+{
+    "title": "Rain Expands Stablecoin Visa Cards to Solana, Tron and Stellar as Digital Payment Gains Momentum",
+    "time": "2025-05-29T15:53:00",
+    "author": "Krisztian Sandor",
+    "summary": "The crypto card provider said demand is growing to make stablecoins spendable at merchants that accept Visa payments.",
+    "content": "Rain, a crypto card platform that lets users spend stablecoins anywhere Visa (V) is accepted, said it has added support for Solana\nSOL\n$162.31\n, Tron\nTRX\n$0.2849\nand Stellar\nXLM\n$0.2809\nnetworks.\n\nThe update makes it easier for companies building on those chains to launch their own branded cards, backed by either custodial or non-custodial wallets, that work across borders and payment use cases. Users can then pay with stablecoins in real-world scenarios like buying groceries, sending business payouts or receiving funds overseas.\n\nThe move underscores the growing trend of using blockchain rails for everyday payments, primarily in the form of stablecoins, a special subset of digital tokens tied to fiat currencies. Stablecoin payment volume taken in February of this year amounted to an annualized $72.3 billion, a fresh report from Artemis showed.\n\nRain raised $24.5 million in a Series A round in March and says demand for card programs tied to stablecoins is accelerating, especially among platforms looking to bridge digital assets and everyday spending.\n\nThe startup claims it's the only Visa Principal Member offering multi-chain card issuance out of the box, meaning developers can tap into one API to roll out global payments using stablecoins. The firm already supports Arbitrum, Optimism and Polygon, but the new additions bring in networks known for speed (Solana), remittances (Stellar) and high stablecoin volume (Tron).\n\nApplications including KAST and Offramp are already putting the platform to use, the company said. KAST, built on Solana, issues cards that connect directly to users’ wallets, enabling real-time spending. Offramp, based on Tron, is rolling out cards in Latin America to expand access to dollar-based payments.\n\nRead more: Tether, Tron Dominate Fast-Growing Stablecoin Payments Arena, Survey Shows",
+    "url": "https://www.coindesk.com/business/2025/05/29/rain-expands-stablecoin-visa-cards-to-solana-tron-and-stellar-as-digital-payment-gains-momentum",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Rain",
+                "Visa",
+                "KAST",
+                "Offramp"
+            ],
+            "organizations": [
+                "Artemis"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "TRX",
+            "XLM"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes expansion of stablecoin payment infrastructure, growing demand for crypto cards, and increasing stablecoin payment volume, all indicating positive market adoption and confidence."
+    }
+}

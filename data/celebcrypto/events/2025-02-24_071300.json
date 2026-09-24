@@ -1,0 +1,29 @@
+{
+    "title": "Raydium’s RAY Dives 25% as Pump.Fun Appears to Test Own AMM Exchange",
+    "time": "2025-02-24T07:13:00",
+    "author": "Shaurya Malwa",
+    "summary": "Crypto watchers noticed the popular Solana tool apparently testing its own AMM in early Monday hours, dampening sentiment for tokens of its existing exchange.",
+    "content": "Solana-based token issuance platform Pump.Fun may soon be launching its own automated market maker (AMM), according to a URL connected to the site. However, there has been no public announcement yet.\n\nAMM is a exchange system in crypto markets that makes trading easy by using a liquidity pool of usually, and at least, two tokens. Instead of matching buyers and sellers like a traditional exchange, smart contracts set the prices based on supply and demand and allow trades to be processed without a counterparty.\n\nThe “amm.pump.fun” shows a swap product in the making with a sell and buy option alongside a deposit and withdrawal function. That’s a first for Pump.Fun, which lets anyone issue a token for less than $2 in capital, after which they choose the number of tokens, theme, and meme picture to accompany it.\n\nWhen the market capitalization of any token reaches $69,000, a portion of liquidity is deposited to the Solana-based exchange Raydium and burned (or when tokens are taken out of supply permanently).\n\nPump.Fun’s own AMM would mean tokens are no longer migrated to Raydium, or at least that’s what the market thinks, dampening sentiment for the latter’s RAY tokens. RAY is down 25% in the past 24 hours on the apparent development.\n\n“It seems they are planning to have pump tokens graduate to their own pools instead of Raydium,” trader @trenchdiver101, who first flagged the development, said. “They can either extract more fees on Solana or have some mechanism to reward token holders.”\n\nThough a part of Raydium's total trading activity is derived from Pump.Fun tokens, the exchange supports several other top markets — such as Solana\nSOL\n$161.11\nto stablecoins and others — contributing to its $500 million in average daily trading volumes.\n\nAs such, the product could further bump the revenues and profits of Pump.Fun, which has no token but is among the most profitable crypto applications in the past year — a rare feat in a market where businesses heavily rely on token sales to generate income.\n\nPump.Fun has pocketed over $550 million in total fees since March 2024, data shows, with $2.4 billion in trading volumes over just the past two weeks. Over 8 million tokens have been issued on the platform since its 2024 launch, with a few, such as fartcoin (FART), reaching billions of dollars in market capitalization.",
+    "url": "https://www.coindesk.com/markets/2025/02/24/raydium-s-ray-dives-25-as-pump-fun-appears-to-test-own-amm-exchange",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "@trenchdiver101"
+            ],
+            "positions": [
+                "trader"
+            ],
+            "companies": [
+                "Pump.Fun",
+                "Raydium"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "RAY",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "RAY token plunged 25% due to concerns that Pump.Fun's potential AMM launch would reduce migration of tokens to Raydium, dampening sentiment for RAY tokens."
+    }
+}

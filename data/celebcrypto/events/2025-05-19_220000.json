@@ -1,0 +1,44 @@
+{
+    "title": "StraitsX Launches Its Singapore-Dollar Pegged Stablecoin, XSGD, on XRP Ledger",
+    "time": "2025-05-19T22:00:00",
+    "author": "Omkar Godbole",
+    "summary": "StraitsX has launched its Singapore dollar-pegged stablecoin, XSGD, on the XRP Ledger to meet the rising demand for regulated multi-chain stablecoins in cross-border payments.",
+    "content": "Crypto infrastructure provider StraitsX debuted its Singapore dollar-pegged stablecoin, XSGD, on the XRP Ledger (XRPL) to cater to growing demand for regulated multi-chain stablecoins supporting real-time cross-border payments.\n\nDigital asset developers, fintechs firms and financial institutions can use XSGD to conduct cross-border transactions, settle transactions on-chain and create programmable financial flows.\n\nStraitsX, a major payment institution licensed by the Monetary Authority of Singapore, began issuing XSGD in 2020. The stablecoin pegged to the Singapore dollar is fully backed 1:1 by reserves held with DBS Bank and Standard Chartered.\n\nAs of writing, XSGD had a total supply of 14.12 million, with an onchain transaction count exceeding 8 billion. The stablecoin is available on Arbitrum, Avalanche, Ethereum, Polygon, Hedera and Zilliqa.\n\n\"At StraitsX, we’ve always approached stablecoins not just as digital representations of fiat, but as critical infrastructure for the future of financial markets. Launching XSGD on the XRP Ledger is a meaningful step toward that vision – an expansion of interoperability, programmability, and access across networks that were purpose-built for real-world value exchange,\" Co-Founder and deputy CEO of StraitsX, Liu Tianwei, told CoinDesk.\n\nRegulated stablecoins like XSGD are better positioned to see increased adoption in the expected boom in cross-border economic activity in the coming years. For instance, per some estimates, cross-border e-commerce in Asia is expected to surpass $4 trillion by 2030. Meanwhile, global cross-border payments are projected to hit $250 trillion by 2027, according to a report published by Infosys Finacle last year.\n\nThe report mentioned Ripple while discussing various methods fintechs employ for money transfer. The report said that Ripple's real-time settlement of funds \"eliminates the need for pre-funding destination accounts and supports low-cost payments within seconds.\"\n\nThe debut of XSGD on the XRP Ledger marks the beginning of a series of upcoming rollouts outlined under the strategic partnership, the press release said.\n\nIn June, StraitsX plans to introduce a second phase focused on institutional applications, including programmable payouts, merchant settlements, and seamless compliance integrations for various financial workflows.\n\n\"StraitsX's launch of XSGD on the XRP Ledger underscores that digital assets, including stablecoins, could play a pivotal role in payments\" said Fiona Murray, managing director of APAC at Ripple.\n\n\"We are seeing a growing appetite for stablecoins like XSGD to support enterprise-grade use cases across payments, liquidity, and compliance-first infrastructure. Our collaboration with StraitsX to bring XSGD to the XRP Ledger supports our commitment to delivering regulated assets that can reshape cross-border payments and unlock value for financial institutions,\" Murray added.\n\n3:00 UTC: Correction: The previous version erroneously said XSGD is powered by XRPL, a decentralized public blockchain by Ripple. It has been removed.",
+    "url": "https://www.coindesk.com/business/2025/05/20/straitsx-launches-its-singapore-dollar-pegged-stablecoin-xsgd-on-xrp-ledger",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Liu Tianwei",
+                "Fiona Murray"
+            ],
+            "positions": [
+                "Co-Founder and deputy CEO of StraitsX",
+                "managing director of APAC at Ripple"
+            ],
+            "companies": [
+                "StraitsX",
+                "DBS Bank",
+                "Standard Chartered",
+                "CoinDesk",
+                "Infosys Finacle",
+                "Ripple"
+            ],
+            "organizations": [
+                "Monetary Authority of Singapore"
+            ]
+        },
+        "cryptocurrencies": [
+            "XSGD",
+            "XRP Ledger",
+            "XRPL",
+            "Arbitrum",
+            "Avalanche",
+            "Ethereum",
+            "Polygon",
+            "Hedera",
+            "Zilliqa"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a regulated stablecoin on XRP Ledger for cross-border payments indicates growing institutional adoption and positive infrastructure development for cryptocurrency markets."
+    }
+}

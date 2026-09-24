@@ -1,0 +1,23 @@
+{
+    "title": "Deribit Launches Block RFQ System to Improve Liquidity for Large Over-the-Counter Trades",
+    "time": "2025-03-06T10:37:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The new system, tailored for high-volume traders, enables direct negotiation of block trades with improved efficiency and liquidity.",
+    "content": "Deribit, the leading crypto options exchange, has launched a Block Request-For-Quote (RFQ) interface, allowing traders to execute large over-the-counter (OTC) trades with improved efficiency and liquidity.\n\nThe feature, available to all users but tailored for high-volume traders, enables direct negotiation of block trades without impacting public order books, according to a press release.\n\nThe Block RFQ system supports complex trading structures, allowing users to combine options, futures, and spot pairs with up to 20 legs in a single trade, yet using the system is subject to a higher minimum trade size.\n\nThe platform uses a multi-maker model that allows multiple liquidity providers to offer partial quotes rather than requiring all-or-nothing fills, while allowing third-party platforms to connect to the Block RFQ system to pool liquidity from multiple sources, per the release.\n\nDeribit announced the new system shortly after Sygnum Bank expanded its custody platform to include the derivatives exchange. The trading platform, it’s worth noting, is reportedly in talks with Kraken for a potential acquisition.",
+    "url": "https://www.coindesk.com/markets/2025/03/06/deribit-launches-block-rfq-system-to-improve-liquidity-for-large-over-the-counter-trades",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Deribit",
+                "Sygnum Bank",
+                "Kraken"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a Block RFQ system improves liquidity and efficiency for large trades, which typically indicates positive market infrastructure development that could boost institutional participation."
+    }
+}

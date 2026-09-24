@@ -1,0 +1,31 @@
+{
+    "title": "Grayscale Files for Spot Avalanche ETF on Nasdaq",
+    "time": "2025-03-28T13:07:00",
+    "author": "Francisco Rodrigues",
+    "summary": "If approved, the ETF would provide investors with a path to access AVAX through conventional brokerage accounts.",
+    "content": "Nasdaq submitted a 19b-4 filing with the U.S. Securities and Exchange Commission (SEC) to approve the listing of a spot Avalanche exchange-traded fund (ETF) managed by Grayscale.\n\nGrayscale already manages an Avalanche Trust that carries a 2.5% management fee. The filing could lead to a cheaper, more flexible investment vehicle with exposure to the AVAX token, and reflects an industry trend toward developing regulated vehicles for altcoin trading. The SEC, however, has yet to approve any spot altcoin ETFs beyond those offering exposure to ether\nETH\n$3,508.28\n.\n\nIf approved, Grayscale’s fund would offer another path for traditional investors to access crypto assets through conventional brokerage accounts. The ETF’s custodian would be Coinbase Custody, according tot he filing.\n\nThe ETF would hold AVAX directly, tracking the market price of the Avalanche network’s native token. The cryptocurrency is at the time of writing trading at $20.5 after losing 6.6% of its value in the last 24 hours amid a wider market drawdown that has seen the broader CoinDesk 20 Index (CD20) drop by over 4%.\n\nOther companies are also looking at Avalanche. Earlier this month, VanEck filed an S-1 form for an Avalanche ETF.\n\nLast month, Grayscale also filed for a Cardano ETF, which would become the company’s first standalone ADA investment vehicle.",
+    "url": "https://www.coindesk.com/markets/2025/03/28/grayscale-files-for-spot-avalanche-etf-on-nasdaq",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Grayscale",
+                "Coinbase Custody",
+                "VanEck"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "SEC",
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "AVAX",
+            "ETH",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple ETF filings for AVAX and ADA, indicating growing institutional adoption and regulated access to altcoins, which typically signals market confidence and positive momentum."
+    }
+}

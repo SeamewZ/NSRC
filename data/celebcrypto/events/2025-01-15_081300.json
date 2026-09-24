@@ -1,0 +1,28 @@
+{
+    "title": "Stalled Stablecoin Supply Casts Doubt on BTC's Bullish Recovery as U.S. Inflation Report Looms",
+    "time": "2025-01-15T08:13:00",
+    "author": "Omkar Godbole",
+    "summary": "The combined supply of top four stablecoins has stabilized with barely any change over the 30-day period.",
+    "content": "Bitcoin's\nBTC\n$104,608.94\nrapid recovery from below $90,000 since Monday hints at bullish prospects. However, one factor casts doubt on the sustainability of these gains, indicating scope for significant downside volatility if the impending U.S. inflation data comes in hotter-than-expected on Wednesday.\n\nThat factor is the supply of major stablecoins, which has stalled, indicating the absence of fresh capital inflows into the market. Data tracked by Glassnode shows that the supply of the top four stablecoins by market value – USDT, USDC, BUSD and DAI – has stabilized around $189 billion, representing a 30-day net change of just 0.37%.\n\nStablecoins are cryptocurrencies with values pegged to an external reference like the U.S. dollar. These tokens are widely used to fund cryptocurrency purchases and acted as a safe haven during the 2022 bear market.\n\nThe latest slowdown in new liquidity via stablecoins, which suggests a weakened buying environment while heading into the U.S. consumer price index (CPI) release, starkly contrasts the expansion of stablecoin liquidity observed during the November-December rally and early last year.\n\n\"The fact that the late-2024 rally required almost 2x the capital inflow for a smaller price gain underscores the speculative demand and liquidity-driven momentum that has since cooled,\" Glassnode said in a Telegram note.\n\nThe data due at 13:30 UTC Wednesday is expected to show the cost of living rose 0.3% month-on-month in December, matching November's pace. The year-on-year figure is seen printing at 2.9%, up from November's 2.75. The core figure, which strips out the volatile food and energy component, is forecast to have risen 0.2% month-on-month and 3.3% year-on-year.\n\nAn above-forecast headline/core figure will likely bolster recent concerns about the central bank being less aggressive in cutting interest rates than expected. These concerns, bolstered by Friday's blowout jobs report, were partly responsible for BTC falling below $90,000 on Monday.\n\nThe latest drying up of stablecoin liquidity, often touted as dry powder waiting to be deployed for crypto purchases, starkly contrasts the $27.3 billion in inflows registered in November and December that partly greased the BTC bull run from $70,000 to over $108,000.\n\nMeanwhile, a much lesser stablecoin inflow of $14.68 billion was seen during the first quarter of 2024, when prices rose nearly 70% to over $70,000.",
+    "url": "https://www.coindesk.com/markets/2025/01/15/stalled-stablecoin-supply-casts-doubt-on-btcs-bullish-recovery-as-u-s-inflation-report-looms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "USDT",
+            "USDC",
+            "BUSD",
+            "DAI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights stalled stablecoin supply indicating absence of fresh capital inflows, potential downside volatility from hot inflation data, and contrasts current liquidity conditions with previous bull runs."
+    }
+}

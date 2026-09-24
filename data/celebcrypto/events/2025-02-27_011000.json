@@ -1,0 +1,41 @@
+{
+    "title": "Stablecoins Take Center Stage at Senate's First Digital Assets Subcommittee Hearing",
+    "summary": "Legislators convened a panel to discuss what stablecoin and market structure bills need to address.",
+    "time": "2025-02-27T01:10:00",
+    "author": "Nikhilesh De",
+    "content": "Stablecoins and the role of Congress in addressing future digital assets legislation took center stage during one of the Senate Banking Committee's first hearings to focus on what a regulatory framework for crypto may look like.\n\nThe Wednesday hearing, framed as the jumping-off point for further Congressional action on digital asset regulations, was the first hosted by the banking committee's new digital assets subcommittee and chaired by Wyoming Republican Cynthia Lummis, a longtime crypto proponent.\n\n\"We're on the precipice of finally creating a bipartisan legislative framework for both stablecoins and market structure,\" Lummis said in her opening statement, referring to draft legislation she introduced with New York Democrat Kirsten Gillibrand as a natural counterpart to the House's Financial Innovation and Technology for the 21st Century Act.\n\nStablecoins will be first on the committee's agenda though, she said, echoing statements made by White House Crypto and AI Czar David Sacks and South Carolina Republican Tim Scott, who chairs the overall Senate Banking Committee.\n\nFormer CFTC Chair Timothy Massad, one of the hearing's four witnesses, told the lawmakers to focus on stablecoin legislation for the moment and defer any market structure efforts \"for several years.\"\n\n\"For four years, the crypto industry has called on the SEC and CFTC to develop rules and guidance and to stop regulating by enforcement; that is now happening,\" he said. \"The SEC has dropped enforcement cases and launched a crypto task force to tackle these issues. We should let these regulatory issue initiatives make progress before rushing to rewrite the securities law.\"\n\nExisting proposals to update market structure regulations to address crypto have the potential to \"create more confusion than clarity,\" he added, particularly around defining how a digital asset might be a security, commodity or something else.\n\nThese proposals could potentially undermine existing securities laws, especially if they address decentralized finance.\n\n\"That term is used to describe a lot of things that aren't decentralized,\" Massad continued. \"There are almost always some vectors of control. And even if a process is decentralized or automated, that does not mean it should be exempt from regulation.\"\n\nVirginia Democrat Mark Warner asked the panelists to discuss the possibility of stablecoin users conducting know-your-customer processes, noting that an issuer may conduct KYC but that a stablecoin may be transferred between wallets without those intermediate transfers going through a KYC process.\n\n\"I want to get to a regulatory framework that works, but I have seen — echoing what others have said from the classified side — oh my gosh, a whole bunch of bad stuff,\" Warner said. \"So help me figure out, and I recognize [for] some people, the anonymity and and the disintermediation role the blockchain plays, but how do we put some minimum protections from issuer all the way back to conversion to fiat?\"\n\nLightspark co-founder and Chief Legal Officer Jai Massari noted that even though self-custodied wallets don't conduct KYC, \"there is an immutable on-chain record of those transactions that can be monitored, not only by the issuer, but [by] third parties, including law enforcement.\"\n\nWhile mixers and other tools can obfuscate transactions, custodial wallets still conduct KYC at the end of a chain of transfers, she noted.\n\n\"I agree that we need to continue, as the industry has done, to develop new tools to address these issues,\" said Massari.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/stablecoins-take-center-stage-at-senate-s-first-digital-assets-subcommittee-hearing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cynthia Lummis",
+                "Kirsten Gillibrand",
+                "David Sacks",
+                "Tim Scott",
+                "Timothy Massad",
+                "Mark Warner",
+                "Jai Massari"
+            ],
+            "positions": [
+                "Wyoming Republican",
+                "New York Democrat",
+                "White House Crypto and AI Czar",
+                "South Carolina Republican",
+                "Former CFTC Chair",
+                "Virginia Democrat",
+                "Lightspark co-founder and Chief Legal Officer"
+            ],
+            "companies": [
+                "Lightspark"
+            ],
+            "organizations": [
+                "Senate Banking Committee",
+                "CFTC",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The hearing shows ongoing regulatory discussions with mixed perspectives - some calling for immediate stablecoin legislation while others advocate for delaying market structure changes, indicating continued uncertainty rather than clear positive or negative direction."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Milei Closes Down LIBRA Investigative Unit After It Shares Findings With Prosecutors",
+    "summary": "The country's Department of Justice claims the investigative unit has fulfilled its purpose.",
+    "time": "2025-05-20T15:54:00",
+    "author": "Tom Carreras",
+    "content": "The unit in charge of investigating President Javier Milei's connection to the LIBRA memecoin has been dissolved after it shared its findings with the public prosecutor's office.\n\nThe Unidad de Tareas de Investigación (UTI) has accomplished its objective, stated a decree issued by the ministry of justice on Monday. The document was signed by Milei and Justice Minister Mariano Cúneo Libarona.\n\nThe unit received assistance from a series of government agencies in the course of its investigation, including the Argentinian central bank and the anti-corruption office.\n\nIn February Milei tweeted about LIBRA, a Solana-based memecoin; the coin's market capitalization rose to $4.5 billion before tanking more than 80% in a couple of hours.\n\nLIBRA's co-creator, Hayden Davies, had previously claimed to that he could \"control\" Milei because of payments he'd made to the President's sister, Karina, herself an important figure of Milei's government.",
+    "url": "https://www.coindesk.com/policy/2025/05/20/milei-closes-down-libra-investigative-unit-after-it-shares-findings-with-prosecutors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei",
+                "Mariano Cúneo Libarona",
+                "Hayden Davies",
+                "Karina"
+            ],
+            "positions": [
+                "President",
+                "Justice Minister"
+            ],
+            "companies": [],
+            "organizations": [
+                "Department of Justice",
+                "Unidad de Tareas de Investigación (UTI)",
+                "Argentinian central bank",
+                "anti-corruption office",
+                "public prosecutor's office"
+            ]
+        },
+        "cryptocurrencies": [
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a memecoin that tanked more than 80% in a couple of hours and involves allegations of political corruption, indicating negative market impact."
+    }
+}

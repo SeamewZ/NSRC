@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Posts Worst Q1 in a Decade, Raising Questions About Where the Cycle Stands",
+    "time": "2025-04-06T17:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "BTC fell 11.7% in Q1 2025, its weakest first quarter since 2015, as investors sold into economic uncertainty.",
+    "content": "Bitcoin just notched its worst first quarter in a decade, falling 11.7% as markets struggled to understand the new administration’s economic agenda.\n\nThe performance ranked 12th out of the past 15 first quarters, according to NYDIG Research's data.\n\nThe drawdown invites a familiar question in crypto circles: is the cycle over? The last time bitcoin started the year this poorly was in 2015, during a prolonged slump following the 2013 peak and after the collapse of Mt. Gox, according to NYDIG. Back then, prices recovered modestly over the rest of the year before surging in 2016.\n\nIn the first quarter of 2020, amid a market sell-off tied to fears surrounding the COVID-19 pandemic, BTC saw a 9.4% drawdown but then recovered to end the year up over 300%. In other years with negative Q1 returns—like 2014, 2018 and 2022—bitcoin ended the year down sharply, coinciding with the tail ends of previous bull cycles, the research note said.\n\nThis time around, the backdrop is murky. Cryptocurrency prices surged after Donald Trump won the U.S. election in November after running a pro-crypto campaign. While under the Trump administration, the sector has been gaining greater regulatory clarity, and the U.S. Securities and Exchange Commission (SEC) backed off a number of lawsuits against crypto firms, it isn’t all bullish.\n\nTrump unveiled his reciprocal tariffs against nearly every country in the world last week, leading to a massive $5.4 trillion U.S. equities market wipeout in just two days. This led to the S&P 500 index's lowest level in 11 months and the Nasdaq 100's entry into bear market territory. While bitcoin has outperformed so far, what will happen after Monday’s opening bell is unclear.\n\nHistorically, a weak Q1 doesn’t always spell doom for BTC, NYDIG’s data shows. The asset has bounced back in half of the years when it started in the red. The recent macroeconomic backdrop has seen analysts raise recession odds, which could test BTC’s role as a “U.S. isolation hedge.”\nRead more: Chart of The Week: Will April Bring Good Luck or Fool's Hope for Bitcoin?",
+    "url": "https://www.coindesk.com/markets/2025/04/06/bitcoin-posts-worst-q1-in-a-decade-raising-questions-about-where-the-cycle-stands",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Mt. Gox"
+            ],
+            "organizations": [
+                "NYDIG Research",
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin fell 11.7% in Q1 2025, marking its worst first quarter performance in a decade amid economic uncertainty and market sell-offs."
+    }
+}

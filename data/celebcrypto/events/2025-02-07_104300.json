@@ -1,0 +1,46 @@
+{
+    "title": "ConsenSys Twice Hit by Operation Chokepoint, CEO Lubin Credits Bank for Fighting Back",
+    "time": "2025-02-07T10:43:00",
+    "author": "Ian Allison",
+    "summary": "The MetaMask creator survived by having redundant backup accounts, said Lubin, who was also personally targeted.",
+    "content": "Consensys, the Ethereum software developer best known for its MetaMask wallet, has twice been hit by U.S. authorities' attempts to exclude it from the financial system, despite the best efforts of its bank the second time around, founder and CEO Joe Lubin said in an interview.\n\nThe company survived what's known as Operation Chokepoint 2.0 by holding redundant backup accounts to avoid getting into any operational difficulties. Lubin also said he was personally hit during the purge.\n\nChokepoint 2.0 refers specifically to the debanking of crypto businesses and executives as result of pressure exerted during President Joe Biden’s administration by regulatory authorities like the Federal Deposit Insurance Corp (FDIC). Consensys' bank, which Lubin declined to identify, resisted lots of pressure to close its account, he said.\n\n“The bank indicated to us they were getting a lot of pressure to shut down our account: a $7 billion company, always been an excellent customer for them,” Lubin said. “They basically said, 'We like you guys. We don't want to do this. We're going to try to delay the process as long as possible, and we'll let you know if we have to do something.’”\n\nThe initial Chokepoint, launched by the Department of Justice during the Obama administration, aimed to cut off access to banking services for legal but politically disfavored businesses, such as payday lenders and firearms dealers.\n\nCrypto debanking has become a talking point in recent months, with leaders including Andreessen Horowitz boss Marc Andreessen and Ripple CEO Brad Garlinghouse discussing it in public. This week, it has come under Congressional scrutiny in a series of hearings, marking a further advance in the digital assets industry's reversal of policy resistance in Washington under President Donald Trump's administration.\n\nLubin's comment shows that some banks deserve credit for trying to resist the pressure being exerted by U.S. authorities. Eventually, however, the pressure became too much and the bank caved.\n\n“The bank finally said, ‘We can’t do anything more. We’re going to have to shut down your account. We’re very sorry,’” Lubin said.\n\nA person familiar with the matter said the U.S. bank in question was Well Fargo. Wells Fargo declined to comment.\n\nThis was not the end of the story, however. After Trump's election victory in November, the bank’s relationship manager reached out to the Consensys chief financial officer.\n\n“Day after the election, the bank contacted one of our people in finance and said, ‘Hey, can we take you to a basketball game?’” Lubin said.\n\nAn earlier experience of Chokepoint was more brief and clinical.\n\n“That was a previous banking partner,” Lubin said without naming the bank. “They closed my personal account and they closed the company account. They just wrote a very vanilla sounding letter. That was it.”",
+    "url": "https://www.coindesk.com/business/2025/02/07/consensys-twice-hit-by-operation-chokepoint-ceo-lubin-credits-bank-for-fighting-back",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Lubin",
+                "Marc Andreessen",
+                "Brad Garlinghouse",
+                "Donald Trump",
+                "Joe Biden",
+                "Obama"
+            ],
+            "positions": [
+                "founder and CEO",
+                "boss",
+                "CEO",
+                "President",
+                "President"
+            ],
+            "companies": [
+                "Consensys",
+                "MetaMask",
+                "Andreessen Horowitz",
+                "Ripple",
+                "Well Fargo",
+                "Wells Fargo"
+            ],
+            "organizations": [
+                "U.S. authorities",
+                "Department of Justice",
+                "Federal Deposit Insurance Corp (FDIC)",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes U.S. authorities' attempts to exclude crypto companies from the financial system through Operation Chokepoint 2.0, which represents regulatory pressure and debanking of crypto businesses."
+    }
+}

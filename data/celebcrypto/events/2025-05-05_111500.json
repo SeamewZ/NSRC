@@ -1,0 +1,40 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Dips, but ETF Inflows, Fed Week Keep Bulls Interested",
+    "time": "2025-05-05T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for May 5, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe outlook for bitcoin\nBTC\n$104,850.17\nlooks bullish even after the largest cryptocurrency pulled back to $95,000 from Friday's highs above $98,000 and the total crypto market capitalization dropped under $3 trillion\n\nAmong the signals, U.S.-listed spot bitcoin ETFs are rapidly absorbing supply. Last week, the 11 ETFs registered a cumulative net inflow of $1.8 billion, equating to over 18,500 BTC, six times more than the 3,150 BTC mined, according to data sources Farside Investors and HODL15Capital. (See Chart of the Day)\n\nOn-chain activity has also picked up, suggesting a bullish outlook. According to data source IntoTheBlock, the number of active BTC addresses topped 800,000 on Sunday, \"While it is still far from its highs, the rebound signals a clear pickup in on-chain engagement; often a sign of renewed market demand,\" the firm said on X.\n\nAs for DeFi, the number of on-chain transactions involving wrapped bitcoin (WBTC) continues to rise, having doubled since January, indicating investor interest in bitcoin-backed decentralized finance.\n\nStill, long-term holders may step up their selling as the price nears $100,000, potentially slowing rate of increase, analysis from Glassnode shows.\n\nIn ether's (ETH) case, data from CryptoQuant show that the number of ETH held by the so-called accumulation addresses increased by 22% to 19.04 million ETH in two months. Ethereum is set to implement the Pectra upgrade on Wednesday to boost scalability, usability and validator efficiency, doubling the blob data capacity per block and lowering the costs for layer-2 protocols.\n\nOn the macro front, the Federal Reserve interest-rate decision is due this Wednesday. According to ING, the near-term inflation concerns, highlighted by survey data, limit the Fed's ability to ease and the central bank is likely to push back against the calls for rate cuts. The bank, however, said that the recent softening of the GDP suggests scope for easing in the second half.\n\n\"Volatility is coming,\" PowerTrade said, pointing to the Fed decision, U.S. ISM services PMI and the Bank of England rate decision as catalysts this week. Stay alert!\n\nCoinDesk's Consensus is taking place in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/05/crypto-daybook-americas-bitcoin-dips-but-etf-inflows-fed-week-keep-bulls-interested",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Shaurya Malwa"
+            ],
+            "positions": [],
+            "companies": [
+                "Farside Investors",
+                "HODL15Capital",
+                "IntoTheBlock",
+                "Glassnode",
+                "CryptoQuant",
+                "ING",
+                "PowerTrade",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Bank of England"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "WBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights strong ETF inflows, increased on-chain activity, and positive developments for both Bitcoin and Ethereum, outweighing the mention of potential selling pressure."
+    }
+}

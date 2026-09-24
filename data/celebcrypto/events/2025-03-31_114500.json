@@ -1,0 +1,46 @@
+{
+    "title": "It's Back to Bitcoin for Darknet Markets After Monero's Binance Delisting: Chainalysis",
+    "time": "2025-03-31T11:45:00",
+    "author": "Sam Reynolds",
+    "summary": "Privacy tokens have been suffocated as governments around the world fight darknet markets – so it's back to bitcoin for purchasers of illicit goods.",
+    "content": "Darknet markets are increasingly returning to bitcoin (BTC) as their primary cryptocurrency because of rising liquidity and accessibility challenges associated with privacy-focused coins like monero (XMR), according to Eric Jardine, cybercrime research lead at Chainalysis.\n\n\"After major exchanges delisted XMR, we observed a significant increase in bitcoin inflows,\" Jardine said in an interview with CoinDesk. \"Reduced accessibility is steering users back toward bitcoin.\"\n\nMany Western markets on the darknet — a part of the internet hosted within an encrypted network and accessible only through specialized anonymity-providing tools — had either fully moved to monero or operated with it in parallel with bitcoin before the delistings. XMR dropped off after it was removed from major exchanges.\n\nOKX removed XMR and other privacy-focused tokens including\nDASH\n$136.69\nand ZCash (ZCH) at the end of 2023. Binance announced in February 2024 that it planned to de-list monero.\n\n\"When a coin or token no longer meets this standard, or the industry changes, we conduct a more in-depth review and potentially delist it,\" Binance said at the time.\n\nOn-chain data from BitInfoCharts shows that the daily number of monero transactions has halved from this time last year.\n\n\"In order to be an effective kind of medium of exchange, you need a certain amount of liquidity and a certain amount of accessibility,\" Jardine said.\n\nJardine emphasized that illicit cryptocurrency transactions represent only a minor share of total crypto activity.\n\n\"Typically, illicit transactions constitute at or below 1% of total crypto activities. While addressing these issues is essential, broadly labeling crypto negatively is inaccurate and counterproductive.\"\n\nChainalysis data shows that about 0.14% of all transactions in crypto, some $50 billion, involve illicit activity, with a rise in stablecoins as an illicit payment mechanism.\n\nThe stablecoin issuers are fighting back, with the Tron-led T3 Financial Crime Unit, a group comprising of Tron, USDT-issuer Tether and TRM Labs freezing over $100 million in illict funds.\n\nJardine also noted that law-enforcement agencies prioritize darknet markets primarily based on their scale and involvement in the fentanyl trade.\n\nIts presence significantly escalates the likelihood of a darknet market attracting law enforcement attention, he said, because fighting the drug is a priority for international law enforcement.\n\n\"Markets have sort of varying levels of sensitivity to fentanyl-related sales,\" he said. \"Some claim they don't do it, then don't police vendors; some claim they don't do it, but then they do. Some will be selling precursor products but not finished products.\"\n\nIndeed, one of the most recent darknet market busts was the Nemesis online market. The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) specifically cited the market's role in the fentanyl trade as a reason for the bust.\n\nAnd, as a result, OFAC sanctioned a number of crypto wallets tied to its operator, Behrouz Parsarad: 44 BTC addresses and 5 XMR wallets.",
+    "url": "https://www.coindesk.com/markets/2025/03/31/it-s-back-to-bitcoin-for-darknet-markets-after-monero-s-binance-delisting-chainalysis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Jardine",
+                "Behrouz Parsarad"
+            ],
+            "positions": [
+                "cybercrime research lead"
+            ],
+            "companies": [
+                "Chainalysis",
+                "CoinDesk",
+                "OKX",
+                "Binance",
+                "BitInfoCharts",
+                "Tron",
+                "Tether",
+                "TRM Labs"
+            ],
+            "organizations": [
+                "U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC)",
+                "T3 Financial Crime Unit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Monero",
+            "XMR",
+            "DASH",
+            "ZCash",
+            "ZCH",
+            "stablecoins",
+            "USDT"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses regulatory actions against privacy coins and illicit activity, but emphasizes that illicit transactions represent only a minor share (0.14%) of total crypto activity, suggesting limited overall market impact."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Strategy's STRK Hits Record Proceeds, Has Outperformed Bitcoin, S&P 500 Since Debut",
+    "summary": "STRK has risen more than bitcoin and the S&P 500 index while offering an attractive yield and differentiated market exposure.",
+    "time": "2025-05-20T12:08:00",
+    "author": "James Van Straten",
+    "content": "Disclaimer: The analyst who wrote this report owns shares of Strategy (MSTR).\n\nStrategy’s (MSTR) perpetual preferred stock, STRK, achieved the largest proceeds from its weekly at-the-market (ATM) issuance since the program started in February, according to X account DogCandles, raising $59.7 million that was used to buy more bitcoin\nBTC\n$101,731.44\n, according to a Monday SEC filing.\n\nThat amount corresponds to the issuance of approximately 621,555 STRK shares. Strategy has about $20.79 billion still available in the STRK ATM facility.\n\nThe company led by Executive Chairman Michael Saylor is plowing ahead with its bitcoin-buying strategy even as the price of the largest cryptocurrency holds above $100,000, with an eye on its January record of $109,000. Strategy's Monday BTC purchase took its total holdings to 576,230 BTC.\n\nThis represents a 16.3% BTC yield, a key performance indicator (KPI) that reflects the year-to-date percentage increase in the ratio of MSTR’s bitcoin holdings to its assumed diluted shares outstanding, effectively measuring the growth in BTC exposure on a per-share basis.\n\nThe recent STRK issuance represents just under 9% of the total proceeds generated from the ATM program for the common stock, which has raised $705.7 million to date. This highlights the increasing role STRK is playing in Strategy’s bitcoin acquisition model.\n\nSTRK features a fixed 8% annual dividend, which is based on the $100 per share liquidation preference, resulting in an annual payout of $8.00 per share.\n\nThat gives it an effective yield, annual dividend divided by STRK share price, of 8.1%. Importantly, this yield is inversely related to the share price. As STRK trades higher, the yield decreases, and vice versa.\n\nSince its launch on Feb. 10, STRK has risen by 16%, outperforming both bitcoin, which has added 10%, and the S&P 500, which has declined by 2% over the same period.\n\nAccording to data from the Strategy dashboard, STRK exhibits the lowest correlation with MSTR common stock, sitting at just 44%. In contrast, STRK maintains relatively higher correlations with broader market benchmarks: 71% with bitcoin and 72% with the SPY exchange-traded fund.\n\nThis suggests that STRK trades with a unique profile, potentially appealing to investors seeking differentiated exposure due to its hybrid nature as a preferred equity instrument with bitcoin-tied capital deployment.",
+    "url": "https://www.coindesk.com/markets/2025/05/20/strategys-strk-hits-record-proceeds-has-outperformed-bitcoin-sp-500-since-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor"
+            ],
+            "positions": [
+                "Executive Chairman"
+            ],
+            "companies": [
+                "Strategy",
+                "MSTR"
+            ],
+            "organizations": [
+                "SEC",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights record proceeds for STRK, continued bitcoin buying by Strategy, and STRK outperforming both bitcoin and S&P 500 since launch, indicating strong market confidence and positive momentum."
+    }
+}

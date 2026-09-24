@@ -1,0 +1,42 @@
+{
+    "title": "Crypto Outperforms Nasdaq as BTC Becomes 'U.S. Isolation Hedge' Amid $5T Equities Carnage",
+    "time": "2025-04-05T14:47:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The cryptocurrency market is showing resilience as U.S. equities plunge and investors look to bitcoin as a potential hedge",
+    "content": "President Donald Trump’s reciprocal tariff unveiling had led to a $5.4 trillion U.S. equities market wipeout in just two days as the S&P 500 index dropped to its lowest level in 11 months and the Nasdaq 100 entered bear market territory.\n\nYet, amidst the chaos, cryptocurrency prices are showing resiliency, with bitcoin (BTC) dropping roughly 6% since the tariffs were unveiled, compared to the Nasdaq’s 11% drop. The broader crypto market, as measured by the CoinDesk 20 (CD20) index, dropped by roughly 4.9% over the same period.\n\nTo put the sell-off figures into perspective, the total crypto market cap is around $2.65 trillion, according to data from TheTie. In the last 24-hour period, bitcoin dropped 0.3% to $82,619.77, while the broader CD20 went up by roughly 0.2%. At the market close on Friday, most crypto-related stocks fell as well, but some actually moved up.\n\nBitcoin miner MARA Holdings (MARA) rose 0.6%, while Core Scientific (CORZ) saw a 0.4% upward move. Strategy (MSTR), the largest corporate holder of bitcoin with 528,185 BTC on its balance sheet, rose 4%. It significantly outperformed the Nasdaq on Friday, which plunged 5.8%.\n\nCryptocurrency prices are likely to remain resilient. Given their accessibility through traditional investment products, including exchange-traded funds (ETFs), and their performance, they could be “useful as a TradFi hedge,” according to Standard Chartered’s Geoffrey Kendrick.\n\n“Over the last 36 hours I think we can also add 'US isolation' hedge to the list of bitcoin uses,” Kendrick wrote in an email dated April 4, adding in a chart showing that among the Magnificent 7 stocks, only Microsoft outperformed BTC during the sell-off.\n\nThe resilience is also coming as the crypto community celebrated the purported birthday of bitcoin creator Satoshi Nakamoto. The date is based on the bitcoin creator’s profile with the P2P Foundation.\n\nThe date, some speculate, isn’t real but instead symbolic. It coincides with the anniversary of Executive Order 6102, signed by President Franklin D. Roosevelt on April 5, 1933. The order required Americans to turn in their gold to the Federal Reserve.\n\nRead more: Bitcoin Begins to Decouple From Nasdaq as U.S. Stocks Crumble",
+    "url": "https://www.coindesk.com/markets/2025/04/05/crypto-outperforms-nasdaq-as-btc-becomes-u-s-isolation-hedge-amid-usd5t-equities-carnage",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Geoffrey Kendrick",
+                "Satoshi Nakamoto",
+                "Franklin D. Roosevelt"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "MARA Holdings",
+                "Core Scientific",
+                "Strategy",
+                "Microsoft"
+            ],
+            "organizations": [
+                "CoinDesk 20",
+                "TheTie",
+                "Standard Chartered",
+                "P2P Foundation",
+                "Federal Reserve",
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes cryptocurrency prices showing resilience with smaller drops than traditional markets and analysts suggesting bitcoin could serve as a 'US isolation hedge' during equities carnage."
+    }
+}

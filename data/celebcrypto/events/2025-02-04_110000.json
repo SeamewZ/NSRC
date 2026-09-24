@@ -1,0 +1,36 @@
+{
+    "title": "Galaxy and BitGo Buddy Up for Crypto Staking Despite Legal Spat",
+    "time": "2025-02-04T11:00:00",
+    "author": "Ian Allison",
+    "summary": "The firms are driven by compelling mutual benefits: Galaxy gains extra staking business and BitGo customers are able to use staked assets as collateral for loans and trading.",
+    "content": "Galaxy Digital (GLXY), the cryptocurrency trading company helmed by Mike Novogratz, is bringing its blockchain staking capabilities to regulated custody specialist BitGo Trust, despite the legal spat between the two firms.\n\nIt makes sense to play nice: The deal brings Galaxy’s staking and validator services, which handle over $4 billion billion in staked crypto assets, to BitGo’s institutional custody clientele, enabling investors to earn staking rewards while also using the assets as collateral for loans and trading on Galaxy’s platform.\n\nGalaxy abandoned a deal to acquire BitGo in early 2023, which saw the custody firm file a $100 million lawsuit alleging that Galaxy intentionally breached its May 2021 merger agreement. In light of that lawsuit and the new staking partnership, the firms provided a joint statement:\n\n“Galaxy and BitGo both see an incredible opportunity to further drive adoption of digital assets and remain committed to strategic collaboration despite ongoing legal proceedings, which are a separate matter.”\n\nStaking, which involves locking up crypto tokens to support the running of blockchain in return for rewards, is a fundamental part of crypto, and there are already signs it will be vitalized in the U.S. under President Donald Trump’s pro-crypto administration.\n\nGalaxy has been building non-custodial staking infrastructure, buying blockchain node operator CryptoManufaktur, known as CMF, in July of last year. Inclusion in BitGo’s list of staking providers means being fully integrated and attached to ultra-secure, custodial services, and the best of both worlds, said Zane Glauber, head of Galaxy’s Blockchain Infrastructure team.\n\n“Galaxy’s key differentiator is the enhanced products that can be made available to customers whose assets are sitting in a custodial relationship,” Glauber said in an interview. “With some documentation, these assets can be accepted as collateral within our trading environment. So as well as sitting there staking, assets can be used to borrow cash, or as collateral to engage in some sort of derivative strategy.”\n\nThe arrival of a crypto-friendly U.S. government raises the question of when, not if, staking will be included in exchange-traded funds (ETFs) for underlying proof-of-stake tokens like the Ethereum blockchain's ether (ETH).\n\nAssuming that staking will be enabled in ETF products, the managers of these funds need to think carefully about the balance of liquidity risk, Glauber said.\n\n“Staking locks up your assets for a predetermined amount of time, in Ethereum in particular, and un-bonding queues can be dynamic; they expand and contract based on supply and demand and on-chain dynamics,” Glauber said. “An overlay of financial product helps ameliorate some of those issues, providing in kind liquidity is something that is enabled by access to this collateral product suite.”",
+    "url": "https://www.coindesk.com/business/2025/02/04/galaxy-and-bitgo-buddy-up-for-crypto-staking-despite-legal-spat",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Novogratz",
+                "Zane Glauber"
+            ],
+            "positions": [
+                "head of Galaxy's Blockchain Infrastructure team"
+            ],
+            "companies": [
+                "Galaxy Digital",
+                "BitGo Trust",
+                "CryptoManufaktur",
+                "CMF"
+            ],
+            "organizations": [
+                "U.S. government",
+                "Trump's pro-crypto administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership enables institutional investors to earn staking rewards while using assets as collateral, and the article mentions a crypto-friendly administration and potential ETF inclusion, indicating positive market development."
+    }
+}

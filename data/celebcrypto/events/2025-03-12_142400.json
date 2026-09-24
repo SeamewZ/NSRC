@@ -1,0 +1,35 @@
+{
+    "title": "The SEC's Retreat From Crypto Enforcement May Invite More Private Lawsuits",
+    "summary": "Policy change at the regulator does not bind courts from analyzing the key question of whether certain crypto transactions are covered by federal securities laws. Private plaintiffs may take advantage, say Sydney Johnson and Calvin Koo, lawyers at Kobre & Kim.",
+    "time": "2025-03-12T14:24:00",
+    "author": "Sydney Johnson",
+    "content": "Until the new presidential administration took office, the digital asset industry was embroiled in an existential showdown with the U.S. Securities and Exchange Commission. For years, the SEC waged a scorched-earth regulation-by-enforcement campaign against the digital asset industry and its most-used platforms for failing to adhere to confusing — or non-existent — rules about what constitutes a security and who must register to buy and sell them. Now, under new leadership, the SEC has confirmed the end of its regulation-by-enforcement era.\n\nWhile this shift has dramatically reduced (though not eliminated) exposure to regulatory suits by the agency, the industry must prepare for private plaintiffs to exploit the enforcement void and perpetuate, at least in the near term, ambiguities in the application of federal securities laws by bringing suits in U.S. courts alleging that particular digital assets are securities and seeking to hold businesses and their leaders responsible for withholding material information or other alleged misconduct, in violation of the securities laws.\n\nThe SEC’s Enforcement U-Turn\n\nUnder its new leadership, the SEC has confirmed the end of the regulation-by-enforcement era and taken significant steps to progress its policy goals, including a focus on prosecuting bad actors and fraud in the digital asset space. The most significant regulatory shifts include:\n\nThese changes indicate that SEC enforcement in the digital asset space will undoubtedly decline, given that the agency will no longer use its enforcement arm as the primary means to create regulatory policy and its associated reduction in staff focused on blockchain and crypto matters. According to the SEC, its staff remains committed to prosecuting bad actors and fraud-based claims, with Commissioner Hester Peirce clarifying that the shift in priorities and resources is not an end to SEC enforcement and that “statutes already on the books do not allow a free-for-all.”\n\nUnsettled Law is an Opportunity for Litigation\n\nIn the face of the SEC’s enforcement retreat, individuals and firms should be prepared for private plaintiffs to exploit the enforcement void. Historically, the private plaintiffs’ bar has stepped in to pursue litigation in the wake of decreased regulatory enforcement (or at least the perception of it), whether it be suits alleging violation of the federal antitrust laws or financial misconduct in violation of the securities laws following the 2008 crisis. Such private suits, often brought as class actions, can be an expensive nuisance for businesses and their founders (often named as defendants themselves) — even for those who prevail at an early stage.\n\nIn the digital asset space, private plaintiffs may still use the federal securities laws as a basis to bring a variety of allegations, including:\n\nPrivate plaintiffs may also pursue alleged violations of state securities laws and other common law causes of action.\n\nAlthough the SEC’s new interpretation of the securities laws is more aligned with industry thinking, it does not bind courts analyzing the question of whether a digital asset is a security. For instance, private plaintiffs pursued the TRON Foundation and its founders, alleging that they misled investors by promoting, offering, and selling TRX — an alleged security — in violation of the federal and state securities laws. Late last year, the U.S. District Court for Southern District of New York denied in part the defendants’ motion to dismiss, and in doing so, explained that the SEC's previous framework for determining whether crypto assets were securities was a “nonbinding interpretation of a legal standard.”\n\nAnd while decisions from appellate courts are binding on the courts below them, the SEC recently dismissed a suit (involving Coinbase) that was pending appellate review on the issue of whether crypto asset transactions qualify as securities. Another similar suit is rumored to be dismissed soon. This means, for now, that lower courts will continue to lack guidance from a higher court on that issue, leaving private plaintiffs free to argue that the federal securities laws apply.\n\nAs a result, companies should expect an increase in private litigation. One area to watch is meme coins. While there are persuasive arguments for why meme coins should not be considered securities, private plaintiffs are sure to argue that the circumstances of a particular meme coin bring it within the ambit of the federal securities laws.\n\nThis year has been mostly positive for the digital asset industry. It has escaped the grip of an agency that was seemingly determined to crush it. But businesses and their founders re-evaluating their legal risk should confer with their legal teams on whether they may be targets of increased private litigation, so they can create strategies to mitigate such exposure.",
+    "url": "https://www.coindesk.com/opinion/2025/03/12/the-sec-s-retreat-from-crypto-enforcement-may-invite-more-private-lawsuits",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sydney Johnson",
+                "Calvin Koo",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "Commissioner"
+            ],
+            "companies": [
+                "Kobre & Kim",
+                "TRON Foundation",
+                "Coinbase"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "U.S. District Court for Southern District of New York"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news indicates increased private litigation risk for crypto companies despite reduced SEC enforcement, creating legal uncertainty and potential financial burdens."
+    }
+}

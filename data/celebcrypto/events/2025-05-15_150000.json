@@ -1,0 +1,45 @@
+{
+    "title": "0x Acquires Competitor Flood in Push to Boost Share of $2.3B DEX Aggregator Market",
+    "time": "2025-05-15T15:00:00",
+    "author": "Tim Craig",
+    "summary": "The acquisition is 0x’s first since the firm’s founding in 2017.",
+    "content": "0x, a decentralized exchange infrastructure firm, announced the acquisition of rival Flood, a move the firm says will help it compete in the hyper competitive aggregation market.\n\nDecentralized exchanges — or DEXs — are a cornerstone of the DeFi ecosystem. They let blockchain users swap between assets without the need for an intermediary or middleman such as a centralized exchange.\n\nAggregators like 0x’s act as a one-stop-shop for traders, searching all the DEXs out there to find the one that offers the most cost-efficient trades, for a small fee. Competition is fierce and often exists on razor-thin margins.\n\nIt was Flood’s proprietary aggregation software that motivated the acquisition, Amir Bandeali, CEO of 0x, told CoinDesk in an exclusive interview.\n\n0x uses its own trade simulation technology to check how well its aggregation software works compared with its competitors, Bandeali said. “We were able to take a look at Flood as well and run similar types of tests and we were very impressed with the data that we saw.”\n\n“Everything got made from scratch,” Francesco Baccetti, co-founder and CEO of Flood, told CoinDesk. “We rewrote the whole stack to get this level of performance that we now have.”\n\nThe acquisition is 0x’s first since the firm’s founding in 2017. A spokesperson for 0x declined to share how much it paid for Flood, citing contractual obligations. Flood raised $5.2 million from investors in a February 2024 seed funding round.\n\nDEX aggregators are a big business. Over the past week, the top 12 aggregators facilitated almost $10 billion worth of swap volume, around 10% of all on-chain trading, according to data compiled by Fredrik Haga, co-founder of Dune Analytics.\n\nAggregators with tradable tokens are valued at a combined $2.3 billion, according to data from CoinGecko.\n\n0x is one of the oldest DEX aggregators. But it’s not the largest.\n\nOn Ethereum and other compatible blockchains, 1inch and CoW Swap consistently handle the most trading volume among aggregators, while on Solana, Jupiter dominates.\n\nBandeali said he’s hopeful that by combining the two companies' technologies, 0x will be able to win market share from larger aggregators on both Ethereum and Solana.\n\nAnother motivation for the acquisition was Flood’s team of developers.\n\n“This is a pretty niche domain,” Bandeali said, explaining that it's very difficult for his firm to find talented developers who specialize in aggregation and trade routing.\n\nHaving the right developers therefore is crucial to an aggregator’s continued success.\n\n“It sounds simple but it’s really complicated,” he said. “It gets more complicated as new chains and new tokens launch.”\n\nThe reward for proving the best swaps is great. CoW Swap is set to bring in almost $11 million in revenue this year, according to DefiLlama data. (It’s unclear how much revenue 1inch makes, while Jupiter’s projected $162 million in revenue comes from more than just its aggregation services).\n\n0x has also expanded into other areas, such as providing APIs that integrate its aggregator into other products, and trading analytics.\n\nBut improving its core aggregation product, which powers swaps in apps like Coinbase Wallet, Robinhood, Phantom and Farcaster, is still the main focus.\n\nAnd with DeFi getting more complex by the day, the demand for aggregators is likely to keep increasing.\n\n“We’re just trying to abstract away the complexity faster than it’s created for our customers,” Bandeali said.\n\nRead more: DEX Aggregator 1inch Integrates ZKsync to Boost Cross-Chain Swaps",
+    "url": "https://www.coindesk.com/business/2025/05/15/0x-acquires-competitor-flood-in-push-to-boost-share-of-usd2-3b-defi-aggregator-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Amir Bandeali",
+                "Francesco Baccetti",
+                "Fredrik Haga"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder",
+                "co-founder and CEO",
+                "spokesperson"
+            ],
+            "companies": [
+                "0x",
+                "Flood",
+                "CoinDesk",
+                "Coinbase Wallet",
+                "Robinhood",
+                "Phantom",
+                "Farcaster",
+                "1inch",
+                "CoW Swap",
+                "Jupiter",
+                "Dune Analytics",
+                "CoinGecko",
+                "DefiLlama"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition represents strategic consolidation in the growing $2.3B DEX aggregator market and aims to improve swap efficiency for major platforms like Coinbase Wallet and Robinhood."
+    }
+}

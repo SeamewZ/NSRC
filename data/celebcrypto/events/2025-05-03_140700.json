@@ -1,0 +1,26 @@
+{
+    "title": "CME Group Crypto Derivatives Volume Soars 129% in April With ETH Leading the Charge",
+    "summary": "The exchange saw its crypto derivatives volumes rise sharply to $8.9 billion in April, led by ether futures growth.",
+    "time": "2025-05-03T14:07:00",
+    "author": "Francisco Rodrigues",
+    "content": "CME Group’s cryptocurrency derivatives market posted a steep increase in trading activity in April, reaching a new average daily volume (ADV) of 183,000 contracts worth $8.9 billion in notional terms, the firm reported.\n\nThat marks a 129% jump compared to the same month last year, suggesting growing institutional interest in crypto markets.\n\nEther led the growth. CME’s ether futures ADV surged 239% to 14,000 contracts, while micro ether futures climbed 165% to 63,000. Micro bitcoin futures followed with a 115% increase to 78,000 contracts.\n\nThe CME’s bitcoin and ether futures contracts have a larger notional value, of 5 BTC and 50 ETH, respectively. Micro contracts, meanwhile, enable more precise trading, representing just 0.1 of each cryptocurrency.\n\nThe exchange operator had already reported record cryptocurrency derivatives volumes in the first quarter of the year. For the month of April, its overall ADV reached a record 35.9 million contracts, rising 36% year-over-year.\n\nEther, after significantly underperforming the wider cryptocurrency market, rose just 1.1% over the past 30 days, while the price of bitcoin rose 15.8%. The broader crypto market, measured through the coinDesk 20 (CD20) index, saw a 12.1% rise.",
+    "url": "https://www.coindesk.com/markets/2025/05/03/cme-group-crypto-derivatives-volume-soars-129-in-april-with-eth-leading-the-charge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CME Group"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "ether",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a 129% surge in crypto derivatives volume with institutional interest growth and significant increases in ether and bitcoin futures trading."
+    }
+}

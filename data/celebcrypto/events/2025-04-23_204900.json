@@ -1,0 +1,43 @@
+{
+    "title": "The Protocol: Will ETH Developers Swap Out the EVM for RISC-V?",
+    "summary": "Also: Matter Labs Sued; Scroll’s Euclid Upgrade; EigenLayer Adds ‘Slashing’ Feature",
+    "time": "2025-04-23T20:49:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, the Ethereum protocol reporter on CoinDesk’s Tech team.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nSWAPPING THE EVM FOR RISC-V?: Ethereum co-founder Vitalik Buterin shared a new proposal that would radically overhaul the system that powers its smart contracts. Buterin's suggestion, which he posted on Ethereum's primary developer forum, involves replacing the Ethereum Virtual Machine, the software engine that powers programs on the network, with RISC-V, a popular open-source framework that offers built-in encryption and other benefits. The EVM has long played an essential role in Ethereum's development. Other chains that use it can seamlessly connect with apps on Ethereum, and developers on EVM-based networks can transition more smoothly to building applications directly within the Ethereum ecosystem. Buterin argued that transitioning Ethereum to a RISC-V architecture will “greatly improve the efficiency of the Ethereum execution layer, resolving one of the primary scaling bottlenecks, and can also greatly improve the execution layer’s simplicity.” — Margaux Nijkerk Read more.\n\nMATTER LABS SUED FOR ALLEGED INTELLECTUAL PROPERTY THEFT: Matter Labs, the company behind layer-2 blockchain ZKSync, has been sued by BANKEX, a defunct digital asset banking platform, for intellectual property theft. According to a complaint filed Mar. 19 with the New York State Supreme Court, former BANKEX employees Alexandr Vlasov and Petr Korolev allegedly stole the company's technology to start Matter Labs, which received over $450 million in venture capital funding and has become a major player in the blockchain industry. The complaint, which names BANKEX CEO Igor Khmel and the BANKEX Foundation as plaintiffs, alleged BANKEX was approached by Ethereum co-founder Vitalik Buterin in 2017 to build operational software for \"Plasma,\" a technology that was seen at the time as a way to make Ethereum cheaper to use. — Margaux Nijkerk Read more.\n\nSCROLL EUCLID UPGRADE BRINGS IN STAGE-1 DECENTRALIZATION ERA : Scroll, the Ethereum layer-2 network, shared that it has launched its Euclid upgrade, which the team called its most significant protocol transformation to date.According to Scroll Labs, a key consequence of the upgrade is that it transitions Scroll from a \"stage 0\" to a “stage 1” rollup, meaning the network will retire some centrally-controlled safety features in an effort to become more decentralized. “Euclid represents the biggest leap forward for Scroll since its inception,” the team wrote in a blog post shared with CoinDesk. “It's a statement about Scroll's future and its commitment to pushing the boundaries of what's possible in the ZK Rollup arena.” — Margaux Nijkerk Read more.\n\nEIGENLAYER ‘SLASHING’ FEATURE FINALLY GOES LIVE: Almost one year to the day after Ethereum protocol EigenLayer launched its “restaking” network to unprecedented industry fanfare, the network is finally adding a core feature that was, until now, glaringly absent: “slashing.”Eigen Labs hopes slashing — EigenLayer’s system for keeping “restakers” honest by revoking collateral if they act maliciously — will finally realize the year-old protocol’s original pitch. “We are happy to say now that the whole promise has been delivered,” said EigenLayer founder Sreeram Kannan. — Sam Kessler Read more.",
+    "url": "https://www.coindesk.com/tech/2025/04/23/the-protocol-will-eth-developers-swap-out-the-evm-for-risc-v",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin",
+                "Margaux Nijkerk",
+                "Alexandr Vlasov",
+                "Petr Korolev",
+                "Igor Khmel",
+                "Sreeram Kannan",
+                "Sam Kessler"
+            ],
+            "positions": [
+                "Ethereum protocol reporter",
+                "CEO",
+                "founder"
+            ],
+            "companies": [
+                "Matter Labs",
+                "BANKEX",
+                "Scroll Labs",
+                "Eigen Labs"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Ethereum",
+                "BANKEX Foundation",
+                "New York State Supreme Court"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news covers technical developments and legal disputes without clear indications of immediate market price movements or investor sentiment shifts."
+    }
+}

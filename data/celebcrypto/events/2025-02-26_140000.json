@@ -1,0 +1,42 @@
+{
+    "title": "Delta Blockchain Founder Kavita Gupta Unveils Cross Chain Interoperability Startup",
+    "time": "2025-02-26T14:00:00",
+    "author": "Ian Allison",
+    "summary": "Inclusive Layer aims to abstract away technical friction and create liquidity aggregation between the Ethereum, Solana, Base, Polygon and Arbitrum blockchains.",
+    "content": "Delta Blockchain Fund founder Kavita Gupta is fronting a new startup called Inclusive Layer, designed to help people build blockchain applications on multiple chains without deep coding expertise.\n\nThe product aims to abstract away technical friction and create liquidity aggregation between Ethereum, Solana, Base, Polygon or Arbitrum, according to a press release. The first app on Inclusive Layer is a cross-chain trading service called Caishen.\n\nSo-called picks and shovels offerings to take the headache out of blockchain development can be a smart play, especially if timed to meet a wave of new entrants to the space. Despite the existence of incumbents such as Alchemy and Swing, there appears to be a need for more help in making the development of cross-chain decentralized applications (dapps) easier.\n\nIn the past couple of years, Gupta says she was frequently asked about how create cross-chain options, perps or simply memecoins, which provided the impetus to fill the gap.\n\n“Everybody really wants to build between Base and Solana,” Gupta said in an interview. “But building between those two and having them integrated is not at all easy. I started to see a huge gap: Why are people not able to build a robust white label cross-chain solution?”\n\nGupta, who previously worked at ConsenSys Ventures, is joined by Blas Rodríguez Irizar, formerly CTO of Composable Foundation and a software engineer at ConsenSys, in the new project.\n\nBoth Inclusive Layer and Caishen have been incubated by Delta Blockchain Fund, with support from GSR and Borderless.",
+    "url": "https://www.coindesk.com/business/2025/02/26/delta-blockchain-founder-kavita-gupta-unveils-cross-chain-interoperability-startup",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kavita Gupta",
+                "Blas Rodríguez Irizar"
+            ],
+            "positions": [
+                "founder",
+                "CTO",
+                "software engineer"
+            ],
+            "companies": [
+                "Delta Blockchain Fund",
+                "Inclusive Layer",
+                "Caishen",
+                "Alchemy",
+                "Swing",
+                "ConsenSys Ventures",
+                "Composable Foundation",
+                "GSR",
+                "Borderless"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Solana",
+            "Base",
+            "Polygon",
+            "Arbitrum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a new startup that aims to reduce technical friction and increase liquidity aggregation across multiple major blockchains, which typically indicates positive market development and increased accessibility."
+    }
+}

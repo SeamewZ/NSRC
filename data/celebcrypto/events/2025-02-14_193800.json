@@ -1,0 +1,35 @@
+{
+    "title": "SafeMoon to Launch Memecoin on Solana After Burning Most of SFM Supply",
+    "time": "2025-02-14T19:38:00",
+    "author": "Tom Carreras",
+    "summary": "SFM holders will have an opportunity to sell their tokens despite current low liquidity levels.",
+    "content": "The SafeMoon team is planning on launching a memecoin on Solana\nSOL\n$159.80\non Saturday at 1:00 AM UTC.\n\nThe team has burned 2.2 trillion SFM tokens across the Ethereum, Polygon and Binance Smart Chain networks, the VGX Foundation told CoinDesk.\n\nIn total, almost the entirety of the Ethereum and Polygon supplies have been eliminated, as well as roughly 60% of the Binance Smart Chain supply.\n\nSFM holders will be given the opportunity to exchange their SFM tokens for the SafeMoon memecoin through the VGX wallet.\n\n“We are going to allow the community to swap their tokens so people can get out of their positions,” VGX said.\n\nThe hope, the firm said, is for the new token to be listed on exchanges again and for liquidity to increase sufficiently for community members to recuperate some of their funds.\n\nSafeMoon was one of the most popular projects of the 2021 crypto bull market. Its token rose to a $17 billion market capitalization at its highest point, but now floats at roughly $41 million in market cap, according to CoinGecko, and has been delisted from almost every exchange.\n\nSafeMoon’s old executive team was charged by the Department of Justice with perpetrating fraud on its investors in 2023. They were notably accused of withdrawing more than $200 million from supposedly locked funds to buy luxury cars and homes.\n\nThe company declared bankruptcy in December 2023 and was subsequently acquired by the VGX Foundation.",
+    "url": "https://www.coindesk.com/markets/2025/02/14/safemoon-to-launch-memecoin-on-solana-after-burning-most-of-sfm-supply",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "SafeMoon",
+                "VGX Foundation",
+                "CoinDesk",
+                "CoinGecko",
+                "Department of Justice"
+            ],
+            "organizations": [
+                "VGX Foundation",
+                "Department of Justice"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Ethereum",
+            "Polygon",
+            "Binance Smart Chain",
+            "SFM"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a token migration and supply burn that could help existing holders exit positions, but also mentions the project's history of fraud, bankruptcy, and massive market cap decline, creating mixed signals."
+    }
+}

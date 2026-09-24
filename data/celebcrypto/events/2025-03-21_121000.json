@@ -1,0 +1,34 @@
+{
+    "title": "This Indicator Supports Bullish Case in Bitcoin and Nasdaq, for Now",
+    "time": "2025-03-21T12:10:00",
+    "author": "Omkar Godbole",
+    "summary": "The relief could be short-lived per some observers.",
+    "content": "A key gauge of economic sentiment and corporate credit health has receded from its recent multi-month highs in a positive development for risk-taking in stocks and crypto markets. The relief, however, could be short-lived, per some observers.\n\nThe indicator in consideration is the ICE/BofA U.S. High Yield Index Option-Adjusted Spread (OAS), which measures the average yield difference (spread) between U.S. dollar-denominated high-yield corporate bonds and U.S. Treasury securities, adjusted for embedded optionality in the bonds.\n\nIt's widely tracked as a credit risk barometer, with the widening spread representing growing investor concern about corporate defaults or economic weakness, often leading to investors lightening their exposure to riskier assets such as technology stocks and cryptocurrencies.\n\nThe OAS, representing the premium investors demand for holding high-yielding bonds over the relatively safer Treasury notes, has dropped to 3.2% from the six-month high of 3.4% early this month.\n\nThe decline in the spread supports a renewed upswing in bitcoin\nBTC\n$104,412.24\nand Nasdaq.\n\nThe spread surged by 100 basis points in four weeks to mid-March as President Donald Trump's tariffs raised the recession spectre. During that time, both BTC and Nasdaq took a beating, with the cryptocurrency falling to lows under $80K.\n\nAnalysts expect the OAS spread to widen further in the coming weeks as the negative impact of Trump's tariffs becomes clear, according to Mint and Reuters.\n\n\"We think this is just getting started and will get worse before it gets better,\" Hans Mikkelsen, managing director of credit strategy at TD Securities, said in a recent client note.\n\nApplying technical analysis principles to the OAS chart suggests the same.\n\nThe spread has moved past the three-year descending trendline, warranting high alert from risk asset investors.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/this-indicator-supports-bullish-case-in-bitcoin-and-nasdaq-for-now",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Hans Mikkelsen"
+            ],
+            "positions": [
+                "President",
+                "managing director of credit strategy"
+            ],
+            "companies": [
+                "TD Securities",
+                "Mint",
+                "Reuters"
+            ],
+            "organizations": [
+                "ICE/BofA"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The decline in the OAS spread supports a renewed upswing in bitcoin and Nasdaq according to the news content."
+    }
+}

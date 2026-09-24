@@ -1,0 +1,34 @@
+{
+    "title": "Circle to Launch USDC in Japan on March 26 With SBI Partnership",
+    "time": "2025-03-25T05:00:00",
+    "author": "Sam Reynolds",
+    "summary": "Circle and SBI got the green light to launch USDC in the country earlier this month.",
+    "content": "Circle plans to launch USDC in Japan on March 26 through a partnership with local heavyweight SBI Holdings, marking a significant milestone for both the global stablecoin market and Japan’s blockchain ecosystem.\n\n“Japan has long been at the forefront of the adoption of Web3 and blockchain technology, and Japan’s regulatory leadership has similarly been out in front on clear rules for the use of stablecoins in the Japan financial system,” said Jeremy Allaire, co-founder and CEO of Circle said in a release.\n\nThe launch comes weeks after Circle and SBI received regulatory approval from the Japan Financial Services Agency (JFSA) earlier in March under the country's electronics payment framework.\n\nAllaire said in a post on X that Circle had spent two years engaging with regulators in Japan in preparation for the launch.\n\n“We believe this initiative will enhance financial accessibility and drive digital asset innovation, aligning with our broader vision for the future of payments and blockchain-based finance in Japan,” Yoshitaka Kitao, representative director, chairman, president and CEO of SBI Holdings said in a statement.\n\nUSDC currently has a market cap of around $59.7 billion, according to CoinGecko data.\n\nThe Philippines largest digital wallet, GCash, recently added support for USDC.\n\nAccording to a 2024 report from Circle, the Asia-Pacific region accounts for 29% of global digital currency transaction volume, ahead of Western Europe at 22% and North America at 19%.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/circle-launches-usdc-in-japan-with-sbi-partnership",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire",
+                "Yoshitaka Kitao"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "representative director, chairman, president and CEO"
+            ],
+            "companies": [
+                "Circle",
+                "SBI Holdings",
+                "CoinGecko",
+                "GCash"
+            ],
+            "organizations": [
+                "Japan Financial Services Agency (JFSA)"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes USDC's regulatory approval and launch in Japan as a 'significant milestone' that will 'enhance financial accessibility and drive digital asset innovation', indicating positive market expansion and adoption."
+    }
+}

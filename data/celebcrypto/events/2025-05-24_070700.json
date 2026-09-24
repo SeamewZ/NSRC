@@ -1,0 +1,33 @@
+{
+    "title": "Polygon Co-Founder Mihailo Bjelic Exits Layer 2",
+    "summary": "Polygon, initially known as Matic, was founded by Jaynti Kanani, Sandeep Nailwal, Mihailo Bjelic, and Anurag Arjun.",
+    "time": "2025-05-24T07:07:00",
+    "author": "Parikshit Mishra",
+    "content": "Mihailo Bjelic, one of the four co-founders of Polygon, is exiting the network.\n\nBjelic made the announcement on X, \"After much thought and reflection, I’ve decided to step down from the board of the Polygon Foundation, and wind down my day-to-day involvement with Polygon Labs,\" he said.\n\nWith Bjelic's exit, co-founder Sandeep Nailwal becomes the last remaining member of the original founding team.\n\nNailwal acknowledged Bjelic's contributions to the network and wished him luck for the future.\n\nThe layer 2 network, which was original known as Matic, was formed by Jaynti Kanani, Sandeep Nailwal, Mihailo Bjelic and Anurag Arjun.\n\nAs of writing, Polygon's POL is down 5% in the last 24 hours, trading over 23 cents.",
+    "url": "https://www.coindesk.com/markets/2025/05/24/polygon-co-founder-mihailo-bjelic-exits-layer-2",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mihailo Bjelic",
+                "Jaynti Kanani",
+                "Sandeep Nailwal",
+                "Anurag Arjun"
+            ],
+            "positions": [
+                "co-founder",
+                "board member"
+            ],
+            "companies": [
+                "Polygon Labs"
+            ],
+            "organizations": [
+                "Polygon Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "POL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that Polygon's POL token is down 5% in the last 24 hours following the co-founder's exit announcement."
+    }
+}

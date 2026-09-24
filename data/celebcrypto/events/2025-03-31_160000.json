@@ -1,0 +1,41 @@
+{
+    "title": "AI-Infused Blockchain Ambient to 'Replace Bitcoin,' Says Co-Founder",
+    "time": "2025-03-31T16:00:00",
+    "author": "Danny Nelson",
+    "summary": "Ambient raised $7.2 million in seed funding from a16z, Delphi Digital and Amber Group.",
+    "content": "A new artificial intelligence-infused blockchain with Andreseen Horowitz's backing is \"ultimately designed as a replacement for Bitcoin,\" according to its co-founder Travis Good.\n\nThe far-fetched claim is rooted in what Good prognosticates as unvarnished reality: Bitcoin's encryption mechanisms are \"getting really stale\" and could be \"completely obsolete within five years,\" creating a business conundrum for the miners behind it.\n\n\"You've got people who've invested billions of dollars in hash power for securing a network in ASICs,\" he told CoinDesk at this year's ethDenver conference. \"And the question is like, where do they all go?\"\n\nHis answer is Ambient, a blockchain with deep capabilities in the AI space – the \"future economy,\" as Good puts it – that could become a \"decentralized competitor to OpenAI.\" The network operates on a proof-of-work mechanism with familiar appeal to bitcoin miners, he said, making it an easy switch.\n\n\"It's a useful proof of work network, which we don't think anyone has ever done well in crypto,\" Good said.\n\nMany crypto projects have attempted to fuse the two buzzy tech trends on the belief that blockchains and decentralized crowdsourcing can steer AI better toward delivering for humanity than singular, private corporations possibly could.\n\nOne of the biggest and best-funded is Bittensor. But Good claims the market leader is woefully deficient because it doesn't actually run AI models on blockchain, despite its original intention to \"be this global computer.\" His alternative, Ambient, cooks AI into its core.\n\nWhether Bitcoin miners – let alone users – would actually embrace a radically new and different network likely hinges on Ambient's economic success. Good seeks for Ambient to deliver super-intelligent AI fast, cheap, and critically, in the open, so that users get the answers they paid for.\n\nWhile Ambient's security rhymes with Bitcoin's, the network itself runs like Solana.\n\nAmbient raised $7.2 million in seed funding from a16z's crypto accelerator program as well as Delphi Digital, one of the VC world's hungriest funds for crypto-AI crossover tech.\n\n\"Everyone in crypto is currently using centralized AI to power their apps, to power their frontend,\" said Alex Golding, a venture associate at Delphi. He thinks that's a big issue because it deprives users of understanding what the models are trained on and exposes them to getting hoodwinked with answers derived from inferior models.\n\n\"Verified inference\" by miners (the heart of their rewards mechanism) acts as a provenance fact-checker, ensuring that answers spat out by Ambient originate from the model people paid to use.\n\n\"If you don't have verified inference, you're guaranteed to get rugged,\" Good said, adding a hyperbolic warning: \"Nation state actors are going to poison your model and just do fun stuff, like we saw with Lazarus,\" North Korea's hackers.",
+    "url": "https://www.coindesk.com/business/2025/03/31/ai-infused-blockchain-ambient-to-replace-bitcoin-says-co-founder",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Travis Good",
+                "Alex Golding"
+            ],
+            "positions": [
+                "Co-Founder",
+                "Venture Associate"
+            ],
+            "companies": [
+                "Andreseen Horowitz",
+                "Amber Group",
+                "OpenAI",
+                "CoinDesk",
+                "Solana",
+                "Bittensor"
+            ],
+            "organizations": [
+                "a16z",
+                "Delphi Digital",
+                "ethDenver",
+                "Lazarus",
+                "North Korea"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ambient"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a new blockchain project's ambitions and funding but makes no claims about current market price movements or immediate market effects."
+    }
+}

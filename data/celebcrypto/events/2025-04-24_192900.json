@@ -1,0 +1,41 @@
+{
+    "title": "El Salvador's Top Crypto Regulator Meets With U.S. SEC: 'It Was Very Refreshing'",
+    "summary": "El Salvador’s CNAD met up with the SEC’s Crypto Task Force on April 22.",
+    "time": "2025-04-24T19:29:00",
+    "author": "Tom Carreras",
+    "content": "El Salvador’s Comisión Nacional de Activos Digitales (CNAD), the agency in charge of regulating digital assets in the Central American nation, is seeking to establish a cross-border regulatory sandbox with the U.S. Securities and Exchange Commission (SEC).\n\n“We want to create international collaboration,” Juan Carlos Reyes, president of the CNAD, told CoinDesk in an interview. “Our biggest message is that digital assets don’t have any geographical barriers. Collaboration with regulators should not have international barriers either.”\n\nEl Salvador is in a unique situation in that it did not boast of strong financial institutions, or even of an existing ecosystem of developers, when President Nayib Bukele made bitcoin legal tender in 2021. That means the CNAD was able to start with a blank slate when it introduced a regulatory framework tailored to crypto.\n\nAlmost two years later after Reyes took over the agency, El Salvador’s advanced regulatory framework has incentivized crypto giants such as Tether, Bitfinex and Binance to open shop in the country.\n\nThe idea, Reyes said, is for the U.S. SEC to now use El Salvador as a live, real-world case study to evaluate streamlined regulatory approaches for digital assets — in other words, for the SEC to learn from El Salvador’s experience as it revamps its own regulatory framework in a post-Gensler world.\n\nThe pilot program proposed by the CNAD involves different scenarios: a U.S.-licensed traditional finance broker obtaining a digital asset license under CNAD regulations, and the development of two small-scale tokenization offerings facilitated by a CNAD-licensed tokenization company. Each scenario would be capped at $10,000.\n\nThese initiatives would support some of the objectives laid out by SEC Commissioner Hester Peirce in February, when she wrote that the SEC Crypto Task Force, which she now leads, would take a very different approach towards crypto regulation from here on out.\n\n“CNAD really looked at [Pierce’s document] with a critical eye as to how we can help,” Erica Perkin, owner of The Perkin Law Firm and a member of CNAD’s advisory group, told CoinDesk. “We’re here. There's data [the SEC] might want to collect. It's difficult to collect in the U.S. … We've built a framework that's nimble enough to work on the exact issues that the SEC is looking at, and we're here to help and collect information on how we can best do that.”\n\nThe CNAD met with the SEC’s Crypto Task Force on April 22 to discuss the initiative. The meeting was constructive, according to Reyes and Perkin. “They asked good questions,” Perkin said. “They're in an information-gathering phase. They were engaged and open to discussion.”\n\nReyes has already signed regulatory cooperation agreements with countries such as Argentina and Paraguay. In his view, the SEC seems to be ahead of the curve when it comes to understanding the regulatory needs of digital assets, whereas regulators in other jurisdictions have tended to see crypto regulation from a traditional finance perspective.\n\n“The quality of people that make up the SEC Crypto Task Force is quite impressive. They get it. They understand the technology,” Reyes said. “We were able to have discussions that were on point about what’s needed in order to regulate the technology… It was very refreshing.”",
+    "url": "https://www.coindesk.com/policy/2025/04/24/el-salvador-s-top-crypto-regulator-meets-with-u-s-sec-it-was-very-refreshing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Juan Carlos Reyes",
+                "Nayib Bukele",
+                "Hester Peirce",
+                "Erica Perkin"
+            ],
+            "positions": [
+                "president of the CNAD",
+                "President",
+                "SEC Commissioner",
+                "owner of The Perkin Law Firm and a member of CNAD's advisory group"
+            ],
+            "companies": [
+                "Tether",
+                "Bitfinex",
+                "Binance",
+                "The Perkin Law Firm"
+            ],
+            "organizations": [
+                "Comisión Nacional de Activos Digitales (CNAD)",
+                "U.S. Securities and Exchange Commission (SEC)",
+                "SEC Crypto Task Force",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes constructive regulatory collaboration between El Salvador and the U.S. SEC, with El Salvador's advanced framework attracting major crypto companies and being positioned as a case study for streamlined regulation, indicating positive regulatory developments and market confidence."
+    }
+}

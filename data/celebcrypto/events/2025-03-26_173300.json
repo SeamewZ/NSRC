@@ -1,0 +1,28 @@
+{
+    "title": "Banks' Spot Crypto Holdings Continue to Collapse as Firms Move to ETPs",
+    "summary": "Global banks held $367 billion in crypto assets under custody in Q2 last year, data from the Basel Committee on Banking Supervision showed.",
+    "time": "2025-03-26T17:33:00",
+    "author": "Camomile Shumba",
+    "content": "Banks across the globe held a total of 341.5 billion euros ($368.3 billion) in crypto assets under custody in the second quarter of 2024 but spot crypto assets now make up less than 3% of banks' holdings — down significantly from a few years ago, data by standard setter Basel Committee on Banking Supervision (BCBS) showed on Wednesday.\n\nBCBS, which focuses on setting measures to ensure the stability of banks, gathered voluntary and confidential submissions from 176 banks — of which 115 are internationally active — in June 2024. The data showed that just 29 banks contributed to the 341.5 billion euro figure, and the vast majority hold exchange-traded products tracking crypto over cryptocurrencies.\n\nGlobal watchdogs have been keeping a close eye on how interlinked the financial sector is with crypto following the collapse of crypto-friendly banks like Signature Bank and Silicon Valley Banks in 2023. The BCBS also recommended that banks' spot crypto exposure should not exceed 2% in December 2022.\n\nBanks appear to be following through on this; their exposure to spot crypto holdings fell 44% between 2021 to 2022. As of the June 2024 survey, banks held almost no spot crypto, at 2.46%, instead preferring exchange-traded products. About 92.5% of banks' holdings are now in these more regulated products tracking crypto prices, rather than crypto assets themselves, the BCBS survey showed.\n\nRead more: Blackrock to List Bitcoin ETP in First Crypto Foray Outside of U.S.",
+    "url": "https://www.coindesk.com/policy/2025/03/26/banks-spot-crypto-holdings-continue-to-collapse-as-firms-move-to-etps",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Signature Bank",
+                "Silicon Valley Banks",
+                "Blackrock"
+            ],
+            "organizations": [
+                "Basel Committee on Banking Supervision",
+                "BCBS"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news shows banks are dramatically reducing their direct crypto holdings and shifting to regulated ETPs instead, indicating reduced institutional confidence in direct cryptocurrency exposure."
+    }
+}

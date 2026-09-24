@@ -1,0 +1,29 @@
+{
+    "title": "‘Like Spitting on a Fire’: Tether CEO Slams EU Deposit Protections Amid Bank Failure Warnings",
+    "summary": "Paolo Ardoino criticizes EU rules that could force stablecoin issuers to rely on fragile banks and warned about potential bank failures in the future.",
+    "time": "2025-05-03T15:35:00",
+    "author": "Francisco Rodrigues",
+    "content": "Tether CEO Paolo Ardoino is sounding the alarm on Europe’s financial system, warning that a wave of bank failures could hit the continent in the near future due to the intersection of risky lending and new cryptocurrency rules.\n\nArdoino, during an interview with the Less Noise More Signal podcast, took aim at the European Union’s regulatory framework for stablecoins, which he said pushes companies like Tether to keep the bulk of their reserves—up to 60%—in uninsured bank deposits.\n\nIn his scenario, that could mean holding 6 billion euros of a 10 billion euros-pegged stablecoin in small banks with minimal protection. “The bank insurance in Europe is only 100,000 euros,” he said. “If you have 1 billion euros, that’s like spitting on a fire.”\n\nEuropean banks, like every other bank, operate on a fractional reserve, Ardoino added. “They can lend out 90% of it to people that want to buy a house, start a business, and all of that.” In his hypothetical 6 billion euros scenario, this would mean 5.4 billion euros would be lent out by the bank.\n\nHe likened the setup to the lead-up to Silicon Valley Bank's collapse in 2023, when a flood of redemptions exposed the mismatch between deposits and actual liquidity. Ardoino warned that European banks operate under similar fractional reserve models that could unravel under pressure. A 20% redemption event, he estimated, could leave banks short billions.\n\n\"As a stablecoin issuer, you go bankrupt — not because of you, but because of the bank. So the bank goes bankrupt and you go bankrupt, and the government would say, ‘Told you so, stablecoins are very dangerous,” Ardoino said.\n\nRegulations in Europe, he added, are made to try to help banks in the bloc and bring them liquidity, but this created “huge systemic risk.” The largest banks in Europe, like UBS, would “not bank stablecoins,” pushing stablecoin issuers to use smaller banks, furthering the risk.\n\nThe comments come as Tether plans to launch a U.S.-based stablecoin product, and as the stablecoin issuer keeps investing in various projects outside of the ecosystem, having recently raised its stake in Latin American producer Adecoagro.",
+    "url": "https://www.coindesk.com/markets/2025/05/03/like-spitting-on-a-fire-tether-ceo-slams-eu-deposit-protections-amid-bank-failure-warnings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paolo Ardoino"
+            ],
+            "positions": [
+                "Tether CEO"
+            ],
+            "companies": [
+                "Tether",
+                "UBS",
+                "Adecoagro"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The Tether CEO warns that EU regulations create 'huge systemic risk' for stablecoins and could lead to bank failures and stablecoin issuer bankruptcies."
+    }
+}

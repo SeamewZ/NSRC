@@ -1,0 +1,31 @@
+{
+    "title": "Galaxy Digital Reaches $200M Settlement Agreement With NYAG Over LUNA Investments",
+    "time": "2025-03-28T12:16:00",
+    "author": "Jamie Crawley",
+    "summary": "Galaxy reported profit of $174 million and $365 million for Q4 and the full year of 2024, respectively",
+    "content": "Galaxy Digital (GLXY), the Mike Novogratz-led digital asset financial services firm, will pay $200 million as a settlement with the New York Attorney General's (NYAG) office relating to the collapse of the Terra-Luna ecosystem in 2022.\n\nThe firm will pay $200 million to the State of New York for matters relating to its investment, trading and public statements of LUNA, which collapsed in May 2022, wiping out around $60 billion in value, Galaxy announced on Friday.\n\nGalaxy disclosed the settlement as part of its latest earnings statement, which reported profit of $174 million and $365 million for Q4 and the full year of 2024 respectively, when the accrued legal provision for the settlement with NYAG is included.\n\nThe company has also has entered a 15-year lease agreement with cloud-computing firm CoreWeave, through which it supply 133 MW of electricity for artificial intelligence and high-performance computing at its Helios data center in West Texas. Galaxy expects to generate around $4.5 billion in revenue throughout the lease.\n\nThe company's profit amount to $1.02 per diluted share.\n\nGLXY shares closed 3.54% lower on Thursday.",
+    "url": "https://www.coindesk.com/markets/2025/03/28/galaxy-digital-reaches-usd200m-settlement-agreement-with-nyag-over-luna-investments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Novogratz"
+            ],
+            "positions": [
+                "New York Attorney General"
+            ],
+            "companies": [
+                "Galaxy Digital",
+                "CoreWeave"
+            ],
+            "organizations": [
+                "NYAG",
+                "State of New York"
+            ]
+        },
+        "cryptocurrencies": [
+            "LUNA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a $200 million regulatory settlement related to the Terra-Luna collapse and shows Galaxy Digital shares closing lower, indicating negative market impact."
+    }
+}

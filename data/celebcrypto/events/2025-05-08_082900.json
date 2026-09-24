@@ -1,0 +1,53 @@
+{
+    "title": "Dogecoin, Cardano’s ADA Lead Market Gains as Bitcoin Traders Eye Next Fed Meeting",
+    "time": "2025-05-08T08:29:00",
+    "author": "Shaurya Malwa",
+    "summary": "Analysts say they expect a 100 basis-point cut in 2025, with easing likely to start after July.",
+    "content": "Bitcoin (BTC) flirted with $100,000 Thursday as major cryptocurrencies including dogecoin (DOGE) and Cardano’s ADA led crypto market gains, boosted by dovish signals from the Federal Reserve and a pending trade deal teased by U.S. President Donald Trump.\n\nDOGE added 5% and ADA jumped 4%, while ether (ETH), BNB Chain’s BNB, xrp (XRP) and Solana’s SOL gained 2%-3%. The broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens, rose 2.2%.\n\nIn a social media post late Wednesday, Trump said the U.S. will unveil a “big” trade deal with a “highly respected country” at a press conference slated for 10 a.m. ET. Bloomberg, the Financial Times and New York Times all identified the country as the U.K.\n\nThe announcement would mark the start of “many” such deals, Trump added, raising speculation that months of tariff-fueled uncertainty is set to ease, possibly reviving risk appetite across global markets.\n\nTariff concerns have rocked equities and commodities in recent weeks. Any resolution that improves cost dynamics for U.S. businesses could serve as a tailwind for risk assets, including crypto.\n\nMeanwhile, the Federal Reserve’s decision to hold interest rates steady on Wednesday was no surprise, though it left markets divided on when cuts might begin.\n\nThe CME FedWatch Tool shows probabilities for a July cut to the 4.00%-4.25% range at 55%, even as traders priced in a cumulative 100 basis points of easing by year-end.\n\n“Bitcoin is inching back up to $100k with the steady Fed rate decision and the topic of future rate cuts having more consideration by traders,” said Semir Gabeljic, head of Pythagoras Investments. “Based on the current administration’s pressure on the Fed chair, anything is a possibility—uncertainty is the only certainty.”\n\nOther observers warned that policymakers could be walking into a period of stagflation, which occurs when high inflation, stagnant economic growth and rising unemployment occur simultaneously — considered highly detrimental for a healthy economy.\n\n“The Federal Reserve faces an intensifying policy dilemma that threatens both sides of its dual mandate,” said Gabe Selby, head of research at CF Benchmarks, told CoinDesk in a message.\n\n“With businesses largely passing rising tariff costs onto consumers ... inflation is expected to reaccelerate over the next six months, while labor market indicators point to a deteriorating employment outlook,” Selby said.\n\nSelby added that while CF Benchmarks still anticipates “around 100bps of rate cuts by year-end,” the Fed could err by acting too late, risking further economic pain.\n\n“In this volatile macro backdrop, bitcoin has clearly emerged as a key beneficiary,” Selby noted, citing record inflows into U.S. spot bitcoin ETFs, including BlackRock’s IBIT, which has seen $4.3 billion in inflows over the past month.\n\nMeanwhile, Jupiter Zheng, a partner at HashKey Capital, said BTC's recent price moves are part of a broader structural shift.\n\n“Bitcoin's rise is a testament to its hedge against macroeconomic and geopolitical volatility,” Zheng said. “Investors increasingly view crypto as a core part of resilient portfolios.”\n\nRead more: Fed Stagflation Risk Signal Could Be Bullish for Bitcoin, Analyst Says",
+    "url": "https://www.coindesk.com/markets/2025/05/08/dogecoin-cardanos-ada-lead-market-gains-as-bitcoin-traders-eye-next-fed-meeting",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Semir Gabeljic",
+                "Gabe Selby",
+                "Jupiter Zheng",
+                "Donald Trump"
+            ],
+            "positions": [
+                "head of Pythagoras Investments",
+                "head of research at CF Benchmarks",
+                "partner at HashKey Capital",
+                "U.S. President"
+            ],
+            "companies": [
+                "BlackRock",
+                "Bloomberg",
+                "Financial Times",
+                "New York Times"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "CME FedWatch Tool",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "dogecoin",
+            "DOGE",
+            "Cardano's ADA",
+            "ADA",
+            "ether",
+            "ETH",
+            "BNB Chain's BNB",
+            "BNB",
+            "xrp",
+            "XRP",
+            "Solana's SOL",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple cryptocurrencies gaining 2-5%, Bitcoin approaching $100,000, and analysts citing dovish Fed signals and potential trade deals as positive catalysts for risk assets including crypto."
+    }
+}

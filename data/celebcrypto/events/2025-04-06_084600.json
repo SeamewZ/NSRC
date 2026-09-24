@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin's Price Stability at Risk From Potential 'Basis Trade Blowup' That Catalyzed the COVID Crash",
+    "time": "2025-04-06T08:46:00",
+    "author": "Omkar Godbole",
+    "summary": "Market volatility poses risk to $1 trillion Treasury basis trades. A potential blowup could trigger a global dash for cash.",
+    "content": "Bitcoin's\nBTC\n$104,608.94\nrecent stability amid Nasdaq turmoil driven by tariffs has generated excitement among market participants regarding the cryptocurrency's potential as a haven asset.\n\nStill, the bulls might want to keep an eye on the bond market, where dynamics that characterized the COVID crash of March 2020 may be emerging.\n\nNasdaq, Wall Street's tech-heavy index known to be positively correlated to bitcoin, has dropped 11% since President Donald Trump on Wednesday announced reciprocal tariffs on 180 nations, escalating trade tensions and drawing retaliatory levies from China.\n\nOther U.S. indices and global markets have also taken a beating alongside sharp losses in the risk currencies like the Australian dollar and a pullback in gold.\n\nBTC has largely remained stable, continuing to trade above $80,000, and its resilience is being viewed as a sign of its evolution into a macro hedge.\n\n\"The S&P 500 is down roughly 5% this week as investors brace for trade-driven earnings headwinds. Bitcoin, meanwhile, has shown impressive resilience,\" David Hernandez, crypto investment specialist at 21Shares, told CoinDesk in an email. \"After briefly dipping below $82,000, it rebounded quickly, reinforcing its status as a macro hedge in times of macroeconomic stress. Its relative strength could continue to attract institutional inflows if broad market volatility persists.\"\n\nThe perception of stability could quickly transform into a self-fulfilling prophecy, solidifying BTC's position as a haven asset for years to come, as MacroScope noted on X.\n\nHowever, sharp downside volatility in the short term cannot be ruled out, especially as the \"Treasury market basis trade\" faces risks due to heightened turbulence in bond prices.\n\nThe basis trade involves highly leveraged hedge funds, reportedly operating at leverage ratios of 50-to-1, exploiting minor price discrepancies between Treasury futures and securities. This trade blew up in mid-March 2020 as coronavirus threatened to derail the global economy, leading to a \"dash for cash\" that saw investors sell almost every asset for dollar liquidity. On March 12, 2020, BTC fell by nearly 40%.\n\n\"When market volatility spikes - as it is now - it unearths highly leveraged carry trades vulnerable to big market moves. The blowup in the US Treasury market in March 2020, which disrupted basis carry trades, is a recent example. Risk of leveraged carry trade blowups is high...,\" Robin Brooks, managing director and chief economist at the International Institute of Finance,\" said on X.\n\nThe risk is real because, the size of the basis trade as of March end was $1 trillion, double the tally in March 2020. The positioning is such that a one basis point move in Treasury yields (which move opposite to prices) would lead to a $600 million shift in the value of their bets, according to ZeroHedge.\n\nSo, increased volatility in the Treasury yields could cause a COVID-like blowup, leading to a widespread selling of all assets, including bitcoin, to obtain cash.\n\nOn Friday, the MOVE index, which represents the options-based implied or expected 30-day volatility in the U.S. Treasury market, jumped 12% to 125.70, the highest since Nov. 4, according to data source TradingView.\n\nThe gravity of the situation is underscored by a recent Brookings Institution paper, which advises the Federal Reserve to consider targeted interventions in the U.S. Treasury market, specifically supporting hedge funds engaged in basis trading during times of severe market stress.\n\nLet's see how things unfold in the week ahead.",
+    "url": "https://www.coindesk.com/markets/2025/04/06/bitcoin-s-strength-amid-nasdaq-drop-is-impressive-but-the-risk-of-a-basis-trade-blowup-that-spurred-the-covid-crash-looms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Hernandez",
+                "Robin Brooks"
+            ],
+            "positions": [
+                "crypto investment specialist",
+                "managing director and chief economist"
+            ],
+            "companies": [
+                "21Shares",
+                "CoinDesk",
+                "International Institute of Finance"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "S&P 500",
+                "Federal Reserve",
+                "Brookings Institution",
+                "ZeroHedge",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article warns that a potential blowup in the $1 trillion Treasury basis trade could trigger widespread selling of all assets including bitcoin, similar to the COVID crash where BTC fell nearly 40%."
+    }
+}

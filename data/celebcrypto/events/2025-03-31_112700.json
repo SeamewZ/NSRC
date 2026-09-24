@@ -1,0 +1,45 @@
+{
+    "title": "Archax Buys FINRA-Regulated Broker Dealer to Offer Tokenized Assets in the U.S.",
+    "time": "2025-03-31T11:27:00",
+    "author": "Krisztian Sandor",
+    "summary": "The firm plans to offer tokenized real-world assets and equities in the U.S. building on its existing partnerships across blockchains such as Ethereum, Polygon, Hedera Hashgraph and XRP Ledger.",
+    "content": "Archax, a U.K.-regulated crypto exchange and custodian focusing on tokenized assets, has acquired a U.S. broker-dealer in an effort to enter the booming institutional market in the country after recent positive changes on the regulatory environment.\n\nGlobacap Private Markets Inc, a broker-dealer and alternative trading system (ATS) regulated by FINRA and the Securities and Exchanges Commission (SEC), is being bought by Archax and being renamed to Archax Markets US.\n\nThe new entity will serve as the company's foothold on American soil and serve the institutions and professional investors in the country, two Archax executives told CoinDesk.\n\nAsset tokenization is a fast-growing sector in crypto as global banks, asset managers and digital asset firms are increasingly using blockchain rails to move traditional financial instruments. They do so to achieve operational efficiencies and speedier,around-the-clock settlements.\n\nJust in the past weeks, asset manager Fidelity Investments filed to launch a tokenized money market fund and is reportedly working on issuing a stablecoin.\n\nDerivatives exchange CME Group started tokenization tests with Google Cloud with plans to launch new services next year, while the New York Stock Exchange's parent company partnered with Circle to explore services built on USDC stablecoin and tokenized fund USYC.\n\nArchax specializes in the issuance, custody, and trading of tokenized real-world assets (RWAs), including money market funds, corporate bonds, carbon credits and uranium. For example, Archax's recently-issued tokenized Treasury fund on XRP Ledger with asset manager Abrdn saw $45 million in deposits to become a top 10 product by assets under management, rwa.xyz data shows.\n\nArchax has been exploring entering the U.S. market over the past years, but stayed on the sideline due to regulatory uncertainty, Graham Rodford, CEO of Archax, said in an interview with CoinDesk.\n\n\"Under this new administration, which seems to be more crypto positive, we are getting more interest from the U.S. as well, which obviously we can't easily serve from the UK, so it makes sense for us strategically to go there,\" Rodford said.\n\nArchax also plans to expand its offerings to tokenized U.S. equities and bonds, building on its existing partnerships across several blockchains including Ethereum, Polygon, Solana, Hedera Hashgraph and XRP Ledger.\n\nThe firm's U.S. entrance follows the recent purchase of a Spanish brokerage firm to expand services to the European Union, pending regulatory approvals.",
+    "url": "https://www.coindesk.com/business/2025/03/31/archax-buys-finra-regulated-broker-dealer-to-offer-tokenized-assets-in-the-u-s",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Graham Rodford"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Archax",
+                "Globacap Private Markets Inc",
+                "Archax Markets US",
+                "Fidelity Investments",
+                "CME Group",
+                "Google Cloud",
+                "New York Stock Exchange",
+                "Circle",
+                "Abrdn"
+            ],
+            "organizations": [
+                "FINRA",
+                "SEC",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Polygon",
+            "Hedera Hashgraph",
+            "XRP Ledger",
+            "Solana",
+            "USDC",
+            "USYC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Archax's expansion into the U.S. market with regulatory approval, increased institutional adoption of tokenized assets, and positive regulatory environment changes, all indicating growing market confidence and expansion."
+    }
+}

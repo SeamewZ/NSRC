@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: NEAR Drops 7.4% as Index Declines Over Weekend",
+    "summary": "Avalanche (AVAX) joined Near Protocol (NEAR) as an underperformer, also falling 7.4%.",
+    "time": "2025-05-05T13:11:00",
+    "author": "CoinDesk Indices",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2699.5, down 2.9% (-80.53) since 4 p.m. ET on Friday.\n\nThree of 20 assets are trading higher.\n\nLeaders: SUI (+0.7%) and LTC (+0.7%).\n\nLaggards: NEAR (-7.4%) and AVAX (-7.4%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/05/coindesk-20-performance-update-near-drops-74-as-index-declines-over-weekend",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "AVAX",
+            "SUI",
+            "LTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index declined 2.9% with more assets falling than rising, and two major cryptocurrencies dropping 7.4% each."
+    }
+}

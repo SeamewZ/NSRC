@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Hashprice Hits One Month Highs, A Bullish Signal for Miners",
+    "time": "2025-01-22T12:21:00",
+    "author": "James Van Straten",
+    "summary": "A combination of rising transaction fees and a buoyant bitcoin price has given miners some relief.",
+    "content": "Hashprice, a metric coined by Luxor that gauges mining profitability, estimates the daily income of miners relative to their estimated contribution to the Bitcoin network's hash power. In other words, it is the expected value miners can expect from 1 TH/s of hashing power per day.\n\nAccording to Glassnode, hashprice is hovering above $62 PH/s, around the highest level since mid-December.\n\nWhat's driving the increase in hashprice? Well bitcoin\nBTC\n$104,524.89\nhas surged to well over $100,000, a 56% increase in three months and has given the miners some relief. The network has also seen a slight increase in miner fees of late, roughly 12 BTC per day, the highest amount for over a month, partly driven by the network's inscription activity.\n\nDue to the halving in April 2024, where the mining rewards get cut in half, the hashprice had dropped from around $115 PH/s.\n\nAs a result of the halving, miners struggled in share price appreciation on average last year; while mining revenue for much of 2024 was below the rolling 365-simple moving average (SMA). Only since November has it reclaimed this moving average, which is a historically bullish signal.\n\nWhile the hash rate, the computational power in order to mine on a proof-of-work blockchain, recently hit all-time highs, as a result sent the network difficulty to all-time highs, which eats into mining profitability, as it becomes harder for miners to receive rewards.\n\nEuropean head of research at Bitwise, Andre Dragosch, told CoinDesk exclusively about miners being in a healthier position than last year.\n\n\"We have recently seen a decline in network hash rate since the all-time highs in early January. Meanwhile, the price of bitcoin has increased, and the overall transaction count has picked up again. This has led to a recovery in hash price, which should technically incentivize miners to continue ramping up their hash rate\".\n\nDragosch says, \"overall, bitcoin miners appear to be well capitalized judging by the continued increase in bitcoin miner holdings since the beginning of the year which implies that miners are selling less than they are mining on a daily basis\".",
+    "url": "https://www.coindesk.com/markets/2025/01/22/bitcoin-hashprice-hits-one-month-highs-a-bullish-signal-for-miners",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andre Dragosch"
+            ],
+            "positions": [
+                "European head of research"
+            ],
+            "companies": [
+                "Luxor",
+                "Glassnode",
+                "Bitwise",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes rising Bitcoin prices, increased mining profitability, higher transaction fees, and analysts describing miners as being in a healthier position with bullish signals."
+    }
+}

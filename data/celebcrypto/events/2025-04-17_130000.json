@@ -1,0 +1,33 @@
+{
+    "title": "EigenLayer Adds Key ‘Slashing’ Feature, Completing Original Vision",
+    "summary": "A year after its launch, the Ethereum restaking protocol is rolling out the critical accountability measure meant to address lingering security concerns.",
+    "time": "2025-04-17T13:00:00",
+    "author": "Sam Kessler",
+    "content": "Almost one year to the day after Ethereum protocol EigenLayer launched its “restaking” network to unprecedented industry fanfare, the network is finally adding a core feature that was, until now, glaringly absent: “slashing.”\n\nEigen Labs hopes slashing — EigenLayer’s system for keeping “restakers” honest by revoking collateral if they act maliciously — will finally realize the year-old protocol’s original pitch.\n\n“We are happy to say now that the whole promise has been delivered,” said EigenLayer founder Sreeram Kannan.\n\nEigenLayer became one of the buzziest protocols in Ethereum history when it introduced investors to the concept of restaking, an evolution of “proof-of-stake” on Ethereum.\n\nEthereum's \"proof-of-stake\" system lets users \"stake\" ether\nETH\n$3,340.48\ncollateral with the chain to help run and secure it in exchange for interest. EigenLayer lets users stake ETH on Ethereum and then restake it again with other protocols for even more interest.\n\nDespite launching its main network last year, slashing, a primary component of EigenLayer’s shared security technology, was missing until Thursday. This led to criticism that EigenLayer’s ambitious pitch didn’t match its technical reality.\n\nToday, EigenLayer boasts more than $7 billion in restaked assets, making it one of the largest decentralized finance (DeFi) apps. It also supports an ecosystem of 39 actively validated services (AVSs) that use its security model.\n\nThe new slashing system will roll out on Thursday, but AVS teams will need to opt-in, meaning it may take some time before slashing is live in any applications. Eigen Labs announced April 17 as the launch date for slashing earlier this month.\n\nEigenLayer users restake ether\nETH\n$3,340.48\nand other tokens through third-party “operators” — infrastructure providers who delegate their pooled EigenLayer deposits across different AVSs.\n\nOperators that delegate stake to an AVS help run it in exchange for rewards: the more they stake, the higher the rewards.\n\nIn theory, slashing ensures these operators are running AVSs correctly. If operators “are proven to be malicious according to an on-chain Ethereum contract, then they may lose their stake or a portion of their stake,” explained Kannan.\n\nWhen slashing goes live on Thursday, AVSs will have the option to set slashing conditions and begin penalizing bad actors.\n\n“Other than Ethereum and Cosmos, most proof-of-stake systems, including Solana, are running live without any slashing,” said Kannan. “Even though it is the core accountability mechanism, it’s not like every proof of stake system already has this—that’s not true. That’s what we’re building.”\n\nAs for why EigenLayer received so much blowback compared to other incomplete proof-of-stake systems: “We’ve talked a lot about slashing, so we are held to that bar,” said Kannan.\n\nEigenLayer’s slashing system was redesigned last year to address fears that the protocol introduced an unsafe form of leverage to the Ethereum ecosystem.\n\n“I think we completely cured that problem with this redesign,” said Kannan.\n\nThe entire idea behind EigenLayer is to allow new protocols to immediately tap into a large security pool — the total pool of restaked assets.\n\nIn proof-of-stake systems, the amount of assets staked with a protocol roughly corresponds to how secure it is. In general, attacking a protocol like Ethereum requires controlling half or more of the assets staked, which can run into billions of dollars.\n\nEigenLayer’s pooling model has led to fears that a poorly built slashing system could expose the entire protocol to new risks, where a single bad actor on one AVS could harm every operator.\n\nThe version of EigenLayer going live Thursday, which has been tested on Ethereum’s developer networks since December, was designed so operators can limit their exposure to a given AVS, meaning bad actors on one won’t necessarily impact another.\n\n“You have unique attributability of stake to a particular AVS,” explained Kannan. “As an AVS, I know I have, like, 10 million of ‘slashable’ stake that is not double counted — so there is no leverage.”\n\nAdditionally, the system has been configured so that “even if my AVS has a small amount of slashable stake, it is still protected in some sense, by the large amount of capital,” said Kannan, since there are still systems in place to ensure the cost of attacking a system increases with the total value of the pool of restaked assets.",
+    "url": "https://www.coindesk.com/tech/2025/04/17/eigenlayer-adds-key-slashing-feature-completing-original-vision",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sreeram Kannan"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Eigen Labs"
+            ],
+            "organizations": [
+                "EigenLayer",
+                "Ethereum",
+                "Cosmos",
+                "Solana"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The addition of the critical slashing feature completes EigenLayer's original vision, addresses security concerns, and strengthens the protocol's shared security model for its $7+ billion ecosystem."
+    }
+}

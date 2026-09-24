@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "celebcrypto"
+version = "0.1.0"
+description = "Event-aligned benchmark code for celebrity-associated cryptocurrency forecasting with NSRC."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Litong Sun"},
+  {name = "Peizong Yang"},
+  {name = "YangTian Mi"},
+  {name = "Xiapu Luo"},
+  {name = "Weigang Wu"}
+]
+license = {text = "MIT"}
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "pyyaml>=6.0",
+  "scikit-learn>=1.3",
+  "torch>=2.0",
+  "tqdm>=4.66",
+  "requests>=2.31",
+  "matplotlib>=3.7",
+  "seaborn>=0.13"
+]
+keywords = [
+  "cryptocurrency",
+  "event-aware forecasting",
+  "web mining",
+  "time series",
+  "neuro-symbolic residual correction"
+]
+
+[project.optional-dependencies]
+models = [
+  "transformers>=4.44",
+  "huggingface_hub>=0.24",
+  "safetensors>=0.4"
+]
+collection = [
+  "apify-client>=1.7",
+  "python-binance>=1.0"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+[tool.setuptools.packages.find]
+include = ["celebcrypto*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

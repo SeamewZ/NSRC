@@ -1,0 +1,33 @@
+{
+    "title": "U.S. March Jobs Growth of 228K Blows Through 135K Forecast",
+    "time": "2025-04-04T12:33:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin has been showing very faint signs of resilience as markets tumble in response to tariffs.",
+    "content": "The U.S. employment situation continued to roll along in strong fashion in March, adding another piece to the puzzle as the Federal Reserve contemplates the path of short-term interest rates in a world that's markedly changed in the last 48 hours.\n\nNonfarm payrolls rose by 228,000 last month, the Bureau of Labor Statistics reported Friday morning. Economists had expected a gain of just 135,000 following February’s increase of 117,000 jobs (revised from an originally reported 151,000).\n\nThe unemployment rate for March, however, rose a tick to 4.2% against economist consensus of 4.1% and February's 4.1%.\n\nThe price of bitcoin\nBTC\n$104,608.94\nwas little-changed in the minutes following the report at $82,600.\n\nAhead of the jobs report, the CME FedWatch Tool — which gauges market expectations for Federal Reserve policy — had priced in four rate cuts for 2025, which would bring the federal funds rate down to a target range of 3.25%–3.50%. While the Fed is still expected to hold rates steady at its May meeting, market participants are increasingly betting on a cut in June, with current odds showing a 60% probability.\n\nAll this comes, of course, as Trump's Wednesday evening tariff announcements threw markets into an historic tizzy. The Nasdaq plunged 6% on Thursday and the S&P 500 just shy of 5%. Hopes for some sort of Friday bounce were dashed a few hours ago when China announced retaliatory tariffs. Prior to the jobs data, Nasdaq and S&P futures were pointing to opening declines of around 3%.\n\nTo no surprise, gold is among the assets where investors have been hiding out. Though it's down a bit since the tariff announcement, it remains very close to its record high of around $3,200 per ounce. Also to no surprise, U.S. Treasury bonds have seen a strong bid, with the yield on the 10-year tumbling to 3.89% just ahead of this morning's jobs news, now lower by nearly 100 basis points since President Trump's inauguration.\n\nBitcoin bulls may have been disappointed by the crypto's behavior over the past weeks, with the price seemingly moving tick for tick with the struggling Nasdaq. Signs of a decoupling may be emerging though. Bitcoin on Thursday managed to hold the $80,000 level even as the Nasdaq tumbled throughout the day. Prior to this morning's numbers, BTC was roughly flat in the $82,000 area even as futures pointed to a continuation of the Nasdaq plunge.\n\nNext up is March inflation data to be reported next week, with both core and headline CPI still seen hovering around 3%.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/u-s-march-jobs-growth-of-228k-blows-through-135k-forecast",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "Federal Reserve",
+                "Bureau of Labor Statistics",
+                "CME FedWatch Tool",
+                "Nasdaq",
+                "S&P 500",
+                "U.S. Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Bitcoin showed resilience by holding steady around $82,000 despite major stock market declines, indicating potential decoupling from traditional markets rather than clear bullish or bearish momentum."
+    }
+}

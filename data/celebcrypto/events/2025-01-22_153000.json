@@ -1,0 +1,30 @@
+{
+    "title": "The Taxman Is Watching: Staying Ahead of the New Rules",
+    "summary": "The IRS recently introduced a new rule stating that investors must use wallet-based cost tracking. And it’s likely the first of many such changes around the world, says Robin Singh, founder and CEO of crypto tax platform Koinly.",
+    "time": "2025-01-22T15:30:00",
+    "author": "Robin Singh",
+    "content": "Tax. The word may make you cringe, but it's also one you probably don’t want to ignore.\n\nBitcoin\nBTC\n$101,755.60\nhit $100,000 for the first time in December 2024, and while you’ve probably had your fair share of “I told you so” moments with the crypto skeptics over the holidays, now is the time to make sure you’re clued in on the tax side of things if you’re planning to cash in on profits.\n\nIt’s not just about keeping track of your own jurisdiction; you should stay aware of global rules as well, as your jurisdiction may adopt them in the future.\n\nWith the average long-term Bitcoin holder having paid around $24,543 for their Bitcoin, it’s clear that many hodlers are now sitting on profits nearly four times that amount.\n\nFor those who’ve hodled through the ups and downs, it’s been a rewarding payoff.\n\nBut let’s not kid ourselves — tax authorities worldwide are getting a lot better at tracking these gains. The days of thinking crypto profits fly under the radar are long gone.\n\nWhether you like it or not, the taxman is catching up, and he’s getting more savvy by the day.\n\nFor instance, the United States Internal Revenue Service (IRS) recently introduced a new rule stating that investors must use wallet-based cost tracking for crypto assets from 2025 onward.\n\nPreviously, crypto users could group all their assets together to calculate their cost-basis for taxes under the Universal tracking method. But now, the IRS requires each wallet or account to be treated as its own separate ledger.\n\nThis isn’t exactly great news for crypto investors, as it limits them on what counts as their cost-basis for sold assets — everything has to be tied to the same crypto wallet.\n\nAs a crypto tax software platform, Koinly has had to move quickly to keep up with the changes, just like the investors that use our platform.\n\nOne of the updates we’ve made is allowing users to adjust their cost-basis settings from a certain date, without affecting previous tax calculations.\n\nI wouldn’t be surprised if this wallet-tracking rule starts spreading to other parts of the world in the coming years.\n\nAustralia, the United Kingdom, Ireland, and many other countries all apply a fairly similar tax treatment to cryptocurrencies as the United States. While they haven’t introduced anything like this yet, it shouldn’t be ruled out.\n\nIt was clear from the start that tougher crypto tax laws were on the way, and the IRS made no secret of it. Earlier in 2024, it ramped up their efforts by bringing in private-sector experts from the crypto world to help bolster their approach to taxing crypto.\n\nIt’s not unusual for countries to adopt tax rules that have already been implemented elsewhere, and this has happened with crypto in a few cases already.\n\nTake the approach of taxing short-term crypto gains while leaving long-term gains tax-free — something countries like Germany and Malta have already adopted.\n\nPortugal, for example, had no crypto taxes until 2023. Then, it added a 28% tax on short-term gains, while long-term holders still get a break.\n\nAs crypto continues to grow and gain traction worldwide, staying on top of tax laws around the world is becoming more and more important.\n\nOver the next couple of years, I expect we’ll see a lot of changes in how governments handle crypto taxes.",
+    "url": "https://www.coindesk.com/opinion/2025/01/22/the-taxman-is-watching-staying-ahead-of-the-new-rules",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robin Singh"
+            ],
+            "positions": [
+                "founder and CEO"
+            ],
+            "companies": [
+                "Koinly"
+            ],
+            "organizations": [
+                "IRS"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes stricter tax regulations requiring wallet-based cost tracking, which limits investors' flexibility and indicates increased regulatory scrutiny that could negatively impact crypto markets."
+    }
+}

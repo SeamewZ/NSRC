@@ -1,0 +1,42 @@
+{
+    "title": "U.S CFTC Withdraws 2 Crypto Staff Advisories Citing ‘Market Growth and Maturity,’ Need for Fair Treatment",
+    "summary": "The agency is determined to treat crypto derivatives the same way it treats everything else.",
+    "time": "2025-03-31T17:39:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Commodity Futures Trading Commission (CFTC) withdrew two pieces of crypto-related staff guidance on Friday, further streamlining its approach to crypto regulation.\n\nThe first advisory rescinded on Friday was Staff Advisory No. 18-14, Advisory with Respect to Virtual Currency Derivative Product Listings. Originally published in May 2018, the advisory established guidelines for crypto-related derivatives, including requiring reporting firms to maintain “close coordination with [the] CFTC surveillance group” and establishing a large trader reporting threshold of five bitcoins (or the equivalent value for other cryptocurrencies), among other suggestions. On Friday, the CFTC published a letter saying that “additional staff experience” and “increasing market growth” had rendered the guidance unnecessary.\n\nThe second advisory, Staff Advisory No. 23-07, Review of Risks Associated with Expansion of DCO Clearing of Digital Assets, from May 2023, “emphasize[d] compliance” with CFTC regulations due to the “hieghtened cyber and other operational risks that may be associated with digital assets.” This guidance was withdrawn for another reason — to clearly treat crypto-related derivatives and their issuers fairly, the CFTC suggested. In a separate letter on Friday, the CFTC said it was rescinding Staff Advisory No. 23-07 “to ensure that it does not suggest that its regulatory treatment of digital asset derivatives will vary from its treatment of other products.”\n\nThe CFTC’s sister regulatory agency, the U.S. Securities and Exchange Commission (SEC), has overhauled its approach to crypto regulation since President Donald Trump took office in January. Under the new leadership of Acting Chair Mark Uyeda, the SEC has created a Crypto Task Force that has spearheaded its transformation, engaging with the industry and backing down from a host of lawsuits and investigations into crypto companies that began under the leadership of former Chair Gary Gensler.\n\nThough the SEC’s rapid transformation may be flashier, the CFTC is currently undergoing a transformation of its own, streamlining its regulatory strategy as part of Acting Chair Caroline Pham’s plan for the agency “get back to the basics.” In addition to the two pieces of dropped crypto-related guidance, the agency has rescinded other non-crypto-related staff advisories and overhauled its enforcement division, slashing a multitude of specialized enforcement teams down to just two, pledging that a simplified enforcement division would be more efficient and “stop regulation by enforcement.”\n\nLiz Davis, a Washington, D.C.-based partner at Davis Wright Tremaine LLP and a former chief trial attorney in the CFTC’s Division of Enforcement, told CoinDesk she sees the two pieces of rescinded crypto guidance as in line with Pham’s “back to basics” approach to running the agency.\n\nBut Davis also suggested that the changes could be tied to a larger restructuring going on at the CFTC.\n\n“They’re probably undergoing a reorganization with everything that's going on with [the Department of Government Efficiency (DOGE)],” Davis said, adding that Pham’s ongoing efforts to “centralize” the CFTC’s operations could help facilitate a reorganization.",
+    "url": "https://www.coindesk.com/policy/2025/03/31/u-s-cftc-withdraws-2-crypto-staff-advisories-citing-market-growth-and-maturity-need-for-fair-treatment",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Mark Uyeda",
+                "Gary Gensler",
+                "Caroline Pham",
+                "Liz Davis"
+            ],
+            "positions": [
+                "President",
+                "Acting Chair",
+                "former Chair",
+                "Acting Chair",
+                "partner",
+                "former chief trial attorney"
+            ],
+            "companies": [
+                "Davis Wright Tremaine LLP"
+            ],
+            "organizations": [
+                "U.S. Commodity Futures Trading Commission (CFTC)",
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Crypto Task Force",
+                "Division of Enforcement",
+                "Department of Government Efficiency (DOGE)"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The CFTC's withdrawal of crypto-specific guidance to treat crypto derivatives the same as other products and streamline regulation indicates regulatory normalization and fair treatment, which typically boosts market confidence."
+    }
+}

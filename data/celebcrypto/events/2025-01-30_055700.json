@@ -1,0 +1,32 @@
+{
+    "title": "Long-Term Bitcoin Holders Are Spending Their BTC, A Bullish Signal, Analysts Say",
+    "time": "2025-01-30T05:57:00",
+    "author": "Omkar Godbole",
+    "summary": "Analysts observing previous BTC bull market said the outlook remains constructive while long-term holders continue to distribute their coins.",
+    "content": "If someone told you that stock market investors are offloading their cherished holdings, you will most likely interpret it as a sign of an impending market downturn.\n\nThe narrative, however, differs in the crypto market, where such selling indicates bullishness, according to analysts observing historical trends in the supply held by long-term investors or wallets holding coins for at least 155 days or over five months.\n\n\"Based on our analysis, sharp declines in long-term holder supply (purple line) have frequently coincided with strong bitcoin rallies (white line), as seen in Q1 and Q4 of 2024. As long as long-term holders continue reducing their balances, Bitcoin remains at risk of a short squeeze to the upside,\" Markus Thielen, founder of 10x Research, said in a report shared with CoinDesk.\n\nThe total supply held by these wallets has dropped to roughly 13 million BTC. According to analytics firm Glassnode, over 1 million BTC have changed hands during the recent price rise above $100,000 as short-term traders snapped up the long-term holder distribution.\n\n\"During the recent rally above $100K, 1.1M BTC have transferred from long-term to short-term holders, representing an impressive inflow of demand to absorb this supply at prices above $90K,\" Glassnode said in its weekly report.\n\nNote, however, that the pace at which long-term holders are selling has slowed. This slowdown is evident from the monthly rate of change in the long-term to short-term holder supply ratio. It's no longer as intense as it was earlier this month, indicating a more measured approach to selling by long-term holders.\n\nThe number of BTC held in wallets tied to centralized exchanges has declined to 2.7 million BTC from over three million about six months ago, according to Glassnode.\n\nThe exodus of BTC from exchanges, which results in reduced availability of coins for quick sales, is widely viewed as a bullish indicator. The dynamics, however, have changed since the debut of spot ETFs in the U.S. a year ago.\n\n\"While many interpret this as a form of supply shock caused by a mass of coins being withdrawn by individual investors—potentially creating upward price pressure—we believe the majority of this decline stems from coins reshuffling into ETF wallets managed by custodians like Coinbase,\" Glassnode said.\n\nIn other words, these coins have ended up in an ETF, an alternative investment vehicle that is liquid or active and can be bought and sold just as quickly as actual coins.\n\nPer Glassnode, the exchange balance adjusted for coins that have been moved to alternative vehicles is over 3 million BTC.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/long-term-bitcoin-holders-are-spending-their-btc-a-bullish-signal-analysts-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Markus Thielen"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "10x Research",
+                "Glassnode",
+                "Coinbase"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news explicitly states that long-term holders spending BTC is interpreted as a bullish signal by analysts and coincides with strong Bitcoin rallies."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin Long-Term Holders Show Commitment, Buy More BTC Than Short-Term Holders Sell",
+    "summary": "As BTC climbs back above $90K, LTHs continue to hold while millions of coins still sit at a loss.",
+    "time": "2025-04-24T07:44:00",
+    "author": "James Van Straten",
+    "content": "For every 1 bitcoin (BTC) sold by short-term holders, long-term holders (LTHs) have accumulated 1.38 BTC in a clear sign of their commitment as the largest cryptocurrency continues to recover.\n\nSince bottoming out in January, LTHs have amassed 635,340 BTC, bringing their total holdings to 13,755,722 BTC, according to Glassnode data. Defined as those who have held bitcoin for at least 155 days, this cohort tends to accumulate during periods of market weakness and sell into strength.\n\nIn contrast, short-term holders (STHs) — those who acquired BTC within the last 155 days — have distributed 460,896 BTC, often through profit-taking or selling at a loss. Their holdings now sit at 3,516,265 BTC.\n\nThe 155-day threshold dates back to around Nov. 20, a period when bitcoin’s price climbed to $95,000 from $65,000 . Many of the investors who bought during that surge have now transitioned into long-term status, reinforcing the strength of conviction behind that move. Despite a 30% drawdown from bitcoin’s all-time high of $109,000 reached in January, LTHs on average have continued to hold.\n\nAlthough bitcoin has rebounded above $90,000 after holding below that level since early March, a substantial number of coins remain underwater. Some 2.6 million BTC sit at a loss, about half the over 5 million BTC peak from earlier this month, but still indicative of heavy unrealized losses. Many of these coins were purchased during the euphoric run-up past $100,000.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/long-term-bitcoin-holders-show-commitment-buy-more-btc-than-short-term-holders-sell",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Long-term holders accumulating more BTC than short-term holders are selling indicates strong market confidence and commitment during price recovery."
+    }
+}

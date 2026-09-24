@@ -1,0 +1,27 @@
+{
+    "title": "Australia Warns Crypto ATM Providers on Missing Anti-Money Laundering Checks",
+    "summary": "Australia has the highest number of crypto ATMs in the Asia Pacific region.",
+    "time": "2025-03-31T11:13:00",
+    "author": "Camomile Shumba",
+    "content": "AUSTRAC, Australia's anti-money laundering watchdog, put crypto ATM providers on notice for not complying with required standards.\n\n\"AUSTRAC’s cryptocurrency taskforce has found that some crypto ATM providers may not have the right anti-money laundering and counter-terrorism (AML/CTF) checks in place,\" the financial intelligence agency said in a release on Monday.\n\nCrypto ATM providers need to register with the regulator, monitor transactions and complete know your customer checks to comply with the country's Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) Act 2006.\n\nAustralia has the highest numbers of crypto ATMs in the Asia Pacific region, and the number is growing. The nation has some 1,600 in use, up from just 23 in 2019, AUSTRAC said.\n\nA task force set up in December \"identified worrying trends and indicators of suspicious activity, including transactions that may be linked to scams or fraud,” CEO Brendan Thomas said.\n\nThe watchdog has been following in the footsteps of U.K. regulators in trying to clamp down on illegal crypto ATM activity. In the U.K. only approved crypto ATMS can operate, and none have been. The Financial Conduct Authority last month secured a four year sentence against Olumide Osunkoya, 46, for illegally operating a crypto ATM network.",
+    "url": "https://www.coindesk.com/policy/2025/03/31/australia-warns-crypto-atm-providers-on-missing-anti-money-laundering-checks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brendan Thomas",
+                "Olumide Osunkoya"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [],
+            "organizations": [
+                "AUSTRAC",
+                "Financial Conduct Authority"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory crackdowns on crypto ATM providers for missing anti-money laundering checks and links to suspicious activity including scams and fraud."
+    }
+}

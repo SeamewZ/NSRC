@@ -1,0 +1,5 @@
+criterion,dataset,method,selection_seeds,validation_mae,validation_mape,validation_mse,validation_window_days
+"equal-seed event-origin validation MAE, then MSE",celebrity,P+ARM10,"2026,2027,2028",0.016997676767749787,1.685689019680779,0.0006972534103497291,30
+"equal-seed event-origin validation MAE, then MSE",news,P+ARM10,"2026,2027,2028",0.013159940725689585,1.287334563158054,0.00037411175987275244,30
+"equal-seed event-origin validation MAE, then MSE",macro_crypto,Persistence,"2026,2027,2028",0.018854848626587126,1.9488152184977612,0.0006928408060519962,30
+"equal-seed event-origin validation MAE, then MSE",macro_equities,Persistence,"2026,2027,2028",0.008929218300896833,0.8941359842590332,0.00014065566254686777,30

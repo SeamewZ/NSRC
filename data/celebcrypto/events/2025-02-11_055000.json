@@ -1,0 +1,42 @@
+{
+    "title": "Grayscale ETF Application Helps Cardano's ADA Outshine Bitcoin and Ether",
+    "time": "2025-02-11T05:50:00",
+    "author": "Omkar Godbole",
+    "summary": "The CME has not yet listed ADA futures, which is widely considered a prerequisite for gaining approval for a spot ETF",
+    "content": "Cardano's ADA token surged 11%, outperforming bitcoin\nBTC\n$103,962.30\nand ether\nETH\n$3,494.92\n, after Grayscale Investments applied for the first-ever spot ADA exchange-traded fund (ETF) in the U.S.\n\nADA jumped to 80 cents, with the move starting late Wednesday, according to CoinDesk data. However, the ninth-largest cryptocurrency by market value, is still down 36% from its December high of around $1.37.\n\nGrayscale, a prominent crypto asset manager, filed to list the first ever spot ADA fund on the New York Stock Exchange. A spot ETF would enable investors to gain exposure to the cryptocurrency without having to own it directly.\n\nBitcoin and ether spot ETFs began trading in the U.S. last year, attracting billions in investor funds since their inception and bolstering the narrative of institutional adoption.\n\nNote that the U.S. SEC's approval of spot BTC and ETH ETFs was primarily based on the assumption that the CME's surveillance system for bitcoin and ether futures would mitigate concerns about price manipulation. In other words, CME futures have been a prerequisite for obtaining spot ETF approval. The global derivatives giant is yet to list ADA futures.\n\nThe market doesn't seem worried about that, as evidenced by ADA's price spike.\n\nThe cryptocurrency and its Layer 1 peers like BTC, ETH, SOL and others could remain well supported in days ahead as social media chatter suggests a shift in investor bias from memecoins to layer 1 coins, according to analytics firm Santiment.\n\n\"The crypto community has largely shifted their attention to Bitcoin and other Layer 1 assets like Ethereum, Solana, Toncoin, and Cardano. Collectively, the top Layer 1 assets are getting 44.2% of discussions among specific coins. Meanwhile, top meme coins like Dogecoin, Shiba Inu, and Pepe are being discussed less and less across social media,\" Santiment said on X.\n\n\"A shift in trader attention from meme coins to Bitcoin and Layer 1 assets is generally a sign of a more stable and sustainable market environment,\" Santiment added.\n\nBitcoin continues to trade lacklustre between $95,000 to $100,000, with upside likely capped by trade war fears and rising inflation expectations in the U.S. Ether, the second-largest token by market value, has been locked between $2,500-$2,900 since recovering from last Monday's crash to $2,000 on several exchanges.\n\nMacro traders have recently pivoted to gold, sending the yellow metal's price to all time highs above $2,900 per ounce.\n\nSome analysts said bitcoin will have the last laugh.\n\n\"The recent decrease in volatility, coupled with the rising price of gold, should highlight Bitcoinʼs growing appeal as an alternative store of value. Despite short-term fluctuations, Bitcoinʼs fundamental narrative remains intact, with increasing institutional interest and its positioning as a potential hedge against inflation and currency devaluation continuing to support its long-term potential,\" analysts at Bitfinex said.\n\n\"A shift [away from gold] may be underway. Over $196 billion worth of Bitcoin is now held by ETFs, public and private companies, and even nation states. With central banks expanding money supply and fiat devaluation risks rising, Bitcoinʼs fixed-supply narrative is becoming increasingly attractive,\" analysts added.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/grayscale-etf-application-helps-cardano-s-ada-outshine-bitcoin-and-ether",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Grayscale Investments",
+                "CoinDesk",
+                "Santiment",
+                "Bitfinex"
+            ],
+            "organizations": [
+                "CME",
+                "SEC",
+                "New York Stock Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "SOL",
+            "Toncoin",
+            "Cardano",
+            "Ethereum",
+            "Solana",
+            "Dogecoin",
+            "Shiba Inu",
+            "Pepe"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ADA surging 11% after Grayscale's ETF application and mentions a shift in investor attention from meme coins to Layer 1 assets, indicating positive market momentum and confidence."
+    }
+}

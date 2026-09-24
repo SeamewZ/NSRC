@@ -1,0 +1,32 @@
+{
+    "title": "Arbitrum Rises 12% Amid Robinhood Listing",
+    "time": "2025-03-05T15:39:00",
+    "author": "Oliver Knight",
+    "summary": "The surges comes 24 hours after ARB hit an all-time low of $0.35.",
+    "content": "U.S.-based trading app Robinhood (HOOD) listed\nARB\n$0.2633\non Wednesday, leading to a 12% rise in the layer 2 network's native token.\n\nARB is currently trading at $0.42 having slumped to an all-time low of $0.35 on Tuesday. Trading volume is also up by 10% to $400 million over the past 24 hours.\n\nTotal value locked (TVL) has remained steady on Arbitrum of late, standing at $2.8 billion having risen from $2.5 billion at the start of November, according to DefiLlama.\n\nBut that relative success has not equated to success in terms of token price, with ARB now 82% down from 2024's record high of $2.41.\n\nThis is partly due to token emissions; since March 2024 circulating supply has increased from 1.5 billion to 4.4 billion, which means that the market cap has remained more stable than the price itself. Market cap is worked out by multiplying circulating supply with asset price.\n\nARB was not the only token to be listed on Robinhood, it joins XRP,\nSHIB\n$0.0₅9107\n, and\nBONK\n$0.0₄1177\n, all of which rose between 4.5% and 7% on Wednesday.\n\nThe extended rise of ARB compared to the other listed tokens could be due to the fact that it is the leading layer-2 network in terms of total value secured (TVS) and user operations per second (UOPS), according to L2Beat.\n\nXRP, meanwhile, despite being named in Donald Trump's U.S. strategic reserve plans, has just $80 million locked up in its solitary XRPL decentralized exchange, while SHIB and BONK and retail-focused memecoins.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/arbitrum-rises-12-amid-robinhood-listing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Robinhood",
+                "HOOD"
+            ],
+            "organizations": [
+                "DefiLlama",
+                "L2Beat"
+            ]
+        },
+        "cryptocurrencies": [
+            "ARB",
+            "XRP",
+            "SHIB",
+            "BONK"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports price increases of 12% for ARB and 4.5-7% for other tokens following their Robinhood listing, indicating positive market momentum."
+    }
+}

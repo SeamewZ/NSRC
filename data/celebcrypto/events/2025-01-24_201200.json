@@ -1,0 +1,42 @@
+{
+    "title": "Congressional Republicans in Hot Pursuit of Biden-Era's Crypto Debanking",
+    "summary": "The House Oversight and the Senate Banking committees are probing accusations that U.S. regulators blocked crypto insiders from banking.",
+    "time": "2025-01-24T20:12:00",
+    "author": "Jesse Hamilton",
+    "content": "An investigation in the U.S. House of Representatives and a hearing in the Senate will examine whether financial regulators during the administration of former President Joe Biden deliberately cut off crypto industry leaders and others from the banking system in an inappropriate use of authority.\n\n“Debanking is un-American — every legal business deserves to be treated the same regardless of their political beliefs,\" said Senate Banking Committee Chair Tim Scott, a South Carolina Republican who took over the gavel earlier this month and has scheduled a February 5 hearing on debanking. \"Unfortunately, under Operation Chokepoint 2.0, Biden regulators abused their power and forced financial institutions to cut off services to digital asset firms, political figures, and conservative-aligned businesses and individuals.\"\n\nOperation Chokepoint 2.0 is the name Republican lawmakers and the digital assets industry have been using for the systemic severing of crypto insiders from U.S. banks, in reference to an earlier era's Operation Chokepoint — a government-sanctioned effort to reduce risk in banking by encouraging the lenders to back away from legal but otherwise risky businesses.\n\nDelving into the struggle of crypto executives and businesses to maintain banking relationships, the House Oversight Committee is \"investigating whether this debanking practice originates from the financial institutions themselves or from either implicit or explicit pressure from government regulators,\" according to a letter the committee chairman, Representative James Comer, sent on Friday to founders and CEOs of several crypto companies and organizations, including Coinbase, Lightswap and Uniswap Labs.\n\nThe challenge of pinning the lack of banking options entirely on the government is that some financial institutions may have made decisions based on their own risk appetites or business plans that deliberately steered clear of crypto interests. And banking regulators such as the Federal Deposit Insurance Corp. and the Office of the Comptroller of the Currency were public in their guidance that regulated banks seeking to do crypto business would face restrictions and additional scrutiny from the agencies.\n\nHowever, a Coinbase pursuit of private FDIC communications with banks demonstrated that the agency directed them to stop pursuing digital assets services until the regulator had specific rules in place, which it wasn't developing.\n\n\"We are grateful to assist in the thorough investigation of this pernicious practice,” said Kristin Smith, CEO of the Blockchain Association, which also received the House committee's letter probing the trend.\n\nMeanwhile, congressional Democrats have been focusing their own investigation requests on President Donald Trump's recently launched meme coin, $TRUMP. He's been accused of using the presidency to rack up billions of dollars, and they cite the token as a potential risk for dangerous conflicts of interest.\n\nThe House Financial Services Committee announced a hearing on the issue late Friday, scheduled for Thursday, Feb. 6.\n\nUPDATE (Jan. 24, 2024, 21:25 UTC): Adds House hearing.",
+    "url": "https://www.coindesk.com/policy/2025/01/24/congressional-republicans-in-hot-pursuit-of-biden-era-s-crypto-debanking",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Biden",
+                "Tim Scott",
+                "James Comer",
+                "Kristin Smith",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Senate Banking Committee Chair",
+                "House Oversight Committee chairman",
+                "CEO"
+            ],
+            "companies": [
+                "Coinbase",
+                "Lightswap",
+                "Uniswap Labs"
+            ],
+            "organizations": [
+                "House Oversight Committee",
+                "Senate Banking Committee",
+                "Federal Deposit Insurance Corp.",
+                "Office of the Comptroller of the Currency",
+                "Blockchain Association",
+                "House Financial Services Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "$TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The investigation into debanking practices and potential regulatory overreach could lead to improved banking access for crypto companies, which would be positive for the market."
+    }
+}

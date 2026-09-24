@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Trade Volume Wednesday Was One of the Largest Ever",
+    "time": "2025-01-23T17:19:00",
+    "author": "James Van Straten",
+    "summary": "Across ETFs, spot and futures trade, bitcoin combined for $130 billion volume yesterday.",
+    "content": "Bitcoin continues to trade at record levels.\n\nAccording to checkonchain data, Wednesday's $130 billion bitcoin\nBTC\n$104,196.21\nvolume was one of the highest in its history. Trade volume has soared since President Trump won the U.S. election at the start of November, doubling from a daily average of $65 billion.\n\nThe futures market (the total traded in futures contracts) yesterday saw $110 billion worth of volume. This was the fifth-highest futures trade volume recorded, only bettered on a handful of days in November and December last year.\n\nThe spot market saw roughly $15 billion of traded volume, which is approaching an all-time high. Meanwhile, bitcoin ETFs saw around $5 billion worth of trade volume, which is around half the all-time high seen in March 2024.\n\nIt is worth noting that options volume has not been included in the $130 billion daily volume figure, but it too is growing rapidly. According to Glassnode data, the total amount of options contracts traded in the last 24 hours is more than $3 billion.\n\nWith bitcoin is vying to be a global settlement layer, the more volume and liquidity that can be generated, the greater the asset's chance of onboarding institutions that want to settle in billions of dollars at a moment's notice.",
+    "url": "https://www.coindesk.com/markets/2025/01/23/bitcoin-total-trade-volume-yesterday-was-one-of-the-largest-in-years",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": [
+                "checkonchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights record-breaking trade volumes across multiple markets and mentions growing institutional interest, indicating strong market confidence and positive momentum."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Quantum Startup BTQ Proposes More Energy Efficient Alternative to Crypto's Proof of Work",
+    "summary": "A new paper proposes using a method called \"coarse-grained boson-sampling\" to validate the proof of work process and reward successful miners.",
+    "time": "2025-01-28T16:39:00",
+    "author": "Sam Reynolds",
+    "content": "A recently published journal article by researchers at BTQ, a startup working to build blockchain technology that can withstand attacks from quantum computers, has proposed an alternative to the Proof of Work (PoW) algorithm involving quantum technology.\n\nProof of Work is a blockchain consensus mechanism that secures the Bitcoin network. Participants crunch through vast amounts of math problems to validate transactions. Some have criticized the process as being too energy-intensive, while others have argued the opposite.\n\nQuantum computing involves moving away from a process reliant on binary code, ones and zeros, which open and close transistor gates. Quantum bits (qubits) exist in multiple states simultaneously, vastly increasing computational power to the point where modern-day encryption built by classical computers – reliant on transistors and binary code – is threatened.\n\nIn its paper, BTQ researchers propose a quantum-based alternative called Coarse-Grained Boson Sampling (CGBS). This method uses light particles (bosons) to generate unique patterns—samples—that reflect the blockchain’s current state instead of hash-based mathematical puzzles.\n\nThe random sampling of these patterns would create encryption, in the same way that random numbers form the backbone of encryption made by classical computers.\n\nBoson-sampling was initially created to demonstrate something called quantum supremacy, a test that determines when a mathematical equation is too complex for a classical computer.\n\nThese samples are grouped into categories, called bins, which make it easier to validate the results and confirm the miner’s work.\n\nThis approach replaces traditional cryptographic puzzles of PoW with quantum sampling tasks, significantly reducing energy consumption while ensuring the network remains secure and decentralized.\n\nWhile BTQ's proposal is theoretically interesting, achieving it would require a hard fork of the Bitcoin network with miners and nodes replacing their existing ASIC-based hardware (computers solely made for the PoW consensus mechanism) with quantum-ready infrastructure.\n\nThis would certainly be a herculean effort and might result in a fork as seen with the Blocksize Wars of years past.\n\nRead more: The Blocksize Wars Revisited: How Bitcoin’s Civil War Still Resonates Today",
+    "url": "https://www.coindesk.com/tech/2025/01/28/btq-proposes-quantum-alternative-to-crypto-s-proof-of-work",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BTQ"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a theoretical quantum computing proposal that would require a major network fork and hardware replacement, presenting significant implementation challenges without immediate market implications."
+    }
+}

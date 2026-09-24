@@ -1,0 +1,30 @@
+{
+    "title": "What the Collapse of the U.S. Bitcoin ETF Cash-and-Carry Trade Means for Investors",
+    "time": "2025-03-21T09:40:00",
+    "author": "James Van Straten",
+    "summary": "Inflows into U.S. spot bitcoin ETFs have stagnated this year compared with 2024.",
+    "content": "Over the past 30 days a net $180 million has flowed out of U.S. spot bitcoin (BTC) ETFs, among the highest rates of withdrawals since they started trading at the beginning of 2024.\n\nThe ETFs have disappointed in 2025, with sluggish inflows largely driven by bitcoin’s weak price performance, which is down roughly 10%. While there has been a brief uptick over the past five days — bringing in some $700 million in net inflows — total net inflows since startup now stand at $36.1 billion, according to Farside data.\n\nThere are two main drivers for the past month's exit: heightened volatility in the price of bitcoin and the unwinding of what's known as the basis trade.\n\nThe bitcoin price has been particularly volatile this year, shooting up to a record $109,000 in January at the start of President Donald Trump's administration in anticipation of a crypto-friendly regulatory environment and then tumbling to as low as $76,000 at the beginning of March on concerns related to Trump's tariff-based trade policy.\n\nRetail investors tend to sell during periods of heightened volatility, reacting emotionally as they would with any risk asset.\n\nAs for institutions, they are unwinding the basis — or cash-and-carry — trade, which is a strategy that involves taking a long position in the ETF while simultaneously shorting CME bitcoin futures. A short is a bet that the price will drop, and the position is delta neutral trade that capitalizes on the futures pricing trading at a premium to spot.\n\nA delta neutral trade offsets price movements in the underlying asset by balancing positions, minimizing directional risk and maintaining market neutrality.\n\nCurrently, this arbitrage yields only around 2%, among the least since the ETFs were first approved. With U.S. Treasuries, among the safest investments available, offering higher yields, many investors are opting for the lower-risk alternative.\n\nETF inflows and outflows often signal market turning points. When outflows become particularly aggressive, they tend to coincide with local bottoms in bitcoin’s price, especially when viewed on a 30-day moving average. This pattern was observed recently when bitcoin hit its low in March, as well as during similar pullbacks in August 2024 and April 2024.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/what-the-collapse-of-the-u-s-bitcoin-etf-cash-and-carry-trade-means-for-investors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Farside"
+            ],
+            "organizations": [
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes net outflows from bitcoin ETFs, bitcoin's weak price performance down 10%, heightened volatility, and institutional unwinding of profitable trades due to low arbitrage yields."
+    }
+}

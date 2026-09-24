@@ -1,0 +1,35 @@
+{
+    "title": "Tom Lee Calls Monday's Market Plunge a Great Buying Opportunity After AI, Crypto-Led Rout",
+    "time": "2025-01-28T10:56:00",
+    "author": "James Van Straten",
+    "summary": "On Monday, NVIDIA had the largest single-day market cap loss in history, erasing $465 billion in market cap.",
+    "content": "Tom Lee, head of Fundstrat Research, discussed Monday's market sell-off as an \"overreaction\". On CNBC, Lee said that the double-digit drawdown in NVIDIA (NVDA) is the biggest opportunity since the covid outbreak and will prove to be a great buying moment.\n\n\"Markets don't like uncertainty, to me, it's an overreaction, and this overreaction will be a great opportunity for investors,\" Lee said.\n\nLee's call seems good so far. After Nasdaq sold off 3% and NVIDIA dropped 17%, ,Nasdaq futures are up 1% while NVDA is 5% higher in pre-market trading.\n\nMonday's sell-off in NVDA was the biggest single-day market cap loss in history, with NVIDIA losing $465 billion in market cap, according to Bloomberg Data.\n\nBitcoin\nBTC\n$104,080.77\nfell as far as $97,500 on Monday and is already back above $103,000; but was as high as $105,000 before the news came out on the AI China's DeepSeek; this will be a level bulls will look to reclaim in the short-term.\n\nAI bitcoin miners also saw massive drawdowns, as much as 30%, including Core Scientific (CORZ), which is now slightly higher in pre-market.\n\nLee also alludes to a healthy market structure in U.S. equities and notes that bitcoin has outperformed small caps and financials year to date.\n\nWednesday turns to a Federal Reserve policy meeting which is largely expected for the federal funds rate to be paused at the 4:25-4:50 rate. Lee says there is some uncertainty going into the meeting as markets are currently too hawkish and believe the market is putting too much emphasis on a potential rate hike in 2025.",
+    "url": "https://www.coindesk.com/markets/2025/01/28/tom-lee-calls-monday-s-market-plunge-a-great-buying-opportunity-after-ai-crypto-led-rout",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tom Lee"
+            ],
+            "positions": [
+                "head of Fundstrat Research"
+            ],
+            "companies": [
+                "NVIDIA",
+                "NVDA",
+                "Core Scientific",
+                "CORZ"
+            ],
+            "organizations": [
+                "CNBC",
+                "Bloomberg Data",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Monday's market plunge as an 'overreaction' and 'great buying opportunity', with Bitcoin already rebounding from $97,500 to above $103,000 and AI bitcoin miners showing recovery in pre-market trading."
+    }
+}

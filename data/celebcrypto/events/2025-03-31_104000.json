@@ -1,0 +1,36 @@
+{
+    "title": "CoinShares' Bitcoin Mining ETF Is the Worst Performing Fund of This Year",
+    "time": "2025-03-31T10:40:00",
+    "author": "James Van Straten",
+    "summary": "IREN, the ETF’s top holding at 15%, is down more than 40% year-to-date.",
+    "content": "CoinShares' Valkyrie Bitcoin Mining (WGMI) exchange-traded fund (ETF) is the worst-performing ETF of 2025, down 43% year-to-date, according to Senior Bloomberg ETF analyst Eric Balchunas.\n\nThe ETF is made up of several publicly traded bitcoin\nBTC\n$103,944.46\nminers. IREN (IREN) is the largest holding at 15%, which is down 42%. Core Scientific (CORZ) follows with a 14% weighting and a 48% decline, while Cipher Mining (CIFR), the third-largest holding at 9.6%, is down 52%. Even NVIDIA (NVDA), the sixth-largest holding at 5%, has dropped over 20% this year.\n\nAccording to its investment strategy, \"The ETF will invest in companies that derive at least 50% of their revenue or profits from bitcoin mining operations and/or from providing specialized chips, hardware, software, or other services to companies engaged in bitcoin mining.\" WGMI consists of 21 holdings and manages $147.2 million in total assets.\n\nIn contrast, metals ETFs have been the top performers of 2025, according to justETF. Several gold mining ETFs rank in the top five, with the Equity World Basic Materials DAXglobal Gold Miners ETF up 38% year-to-date.\n\nBitcoin miners have faced significant challenges this year, as the network hash rate—representing the computational power required to mine bitcoin—continues to climb, hovering near all-time highs around 832 EH/s. This has created a notable divergence between bitcoin’s price and the hash rate.\n\nAs a result, mining difficulty has also remained close to its peak, making it harder for miners to successfully mine new bitcoins. At the same time, transaction fees are extremely low, further squeezing miner profitability as rewards from processing transactions remain minimal.",
+    "url": "https://www.coindesk.com/markets/2025/03/31/coinshares-s-bitcoin-mining-etf-is-the-worst-performing-fund-of-this-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "Senior Bloomberg ETF analyst"
+            ],
+            "companies": [
+                "CoinShares",
+                "IREN",
+                "Core Scientific",
+                "Cipher Mining",
+                "NVIDIA",
+                "justETF"
+            ],
+            "organizations": [
+                "Valkyrie Bitcoin Mining",
+                "Equity World Basic Materials DAXglobal Gold Miners ETF"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant declines in bitcoin mining ETFs and mining company stocks, coupled with challenges like rising hash rates and low transaction fees squeezing miner profitability."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Sinks to $100K as Trump Imposes Tariffs on Canada, Mexico, China",
+    "summary": "Altcoins fared far worse than bitcoin as the new U.S. president seemingly ignited a trade war.",
+    "time": "2025-02-01T23:41:00",
+    "author": "Stephen Alpher",
+    "content": "Following through on threats made throughout his campaign and repeated in the opening days of his presidency, Donald Trump has imposed 25% tariffs on nearly all imports from Mexico and Canada and a 10% tariff on goods from China.\n\nThe tariffs are effective beginning Tuesday.\n\n\"The sustained influx of illicit opioids and other drugs has profound consequences on our Nation, endangering lives and putting a severe strain on our healthcare system, public services, and communities,\" said the president in his Executive Order authorizing the levies.\n\nWith traditional markets closed for the weekend, crypto is bearing the brunt of the risk-off reaction to the tariffs. Bitcoin\nBTC\n$101,926.60\nis lower by 2% and just hanging on above $100,000 after rising as high as $106,000 only a bit more than 24 hours ago.\n\nAltcoins are faring worse, with ether\nETH\n$3,324.80\n, XRP, and solana\nSOL\n$157.20\nlower by 6%-8%. The broad market gauge CoinDesk 20 Index is down 4.8%.\n\nThere will be no exemptions to the tariffs, a senior White House official told the WSJ, and they will remain in place until the president is satisfied the named countries have stopped the flow of fentanyl into the U.S.\n\n\"No one — on either side of the border — wants to see American tariffs on Canadian goods,\" wrote outgoing Canadian Prime Minister Justin Trudeau on X yesterday. \"If the United States moves ahead, Canada’s ready with a forceful and immediate response.\"",
+    "url": "https://www.coindesk.com/policy/2025/02/01/bitcoin-sinks-to-usd100k-as-trump-imposes-tariffs-on-canada-mexico-china",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Justin Trudeau"
+            ],
+            "positions": [
+                "U.S. president",
+                "outgoing Canadian Prime Minister",
+                "senior White House official"
+            ],
+            "companies": [],
+            "organizations": [
+                "WSJ",
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin and altcoins declining in price following the tariff announcement, with bitcoin down 2% and altcoins down 6%-8%, indicating negative market impact."
+    }
+}

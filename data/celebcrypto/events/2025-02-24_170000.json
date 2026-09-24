@@ -1,0 +1,32 @@
+{
+    "title": "Chintai Tokenizes $570M Real Estate Cash-Flow for RealNOI",
+    "time": "2025-02-24T17:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The platform gives investors access to cash flows of nearly 1,900 apartments, while helping property owners access capital.",
+    "content": "RealNOI, a company focused on transforming real estate income into a tradable asset, has rolled out its blockchain-powered rental income platform build on top of real-world asset (RWA) tokenization service Chintai.\n\nThe platform gives investors access to cash flows worth $570 million from nearly 1,900 apartments with projected annual returns exceeding 5%. Unlike traditional real estate tokenization, which involves fractional property ownership, RealNOI focuses solely on rental income, eliminating the need for title transfers, notaries, or direct property management. Rental cash flows are recorded on-chain for real-time transparency and can be traded on secondary markets.\n\nRealNOI’s launch represents a significant jump from the $124 million initially projected when the company announced its partnership with Chintai in December.\n\n\"We have been flooded with inquiries [since the announcement],\" Connor Gallic, chief blockchain officer at RealNOI, said in an interview with CoinDesk. Citing a report from commercial real estate intelligence service CRED iQ, he said that 40% of multi-family property owners' loans have trouble getting refinancing because higher interest rates diminished property valuations and needed additional capital. Tokenizing the rental cashflows can help bridge the capital needs.\n\n\"There is a big dislocation in the market,\" Gallic said. \"Our solution fixes that. And it gives the crypto community an opportunity to show the finance markets the power of the crypto markets to transform the finance industry in a meaningful way.\n\nChintai describes its services as \"Shopify\" for asset tokenization with its layer-1 blockchain and native token CHEX powering the network. Chintai Network Services Pte Ltd, the network's ecosystem development firm, is regulated and licensed by the Monetary Authority of Singapore (MAS) to act as a Capital Markets Services provider and a Recognized Market Operator for primary issuance and secondary market trading in digital securities, according to the project's white paper.\n\nIn this case, RealNOI sources and curates the properties for the platform, while the Chintai handles all tokenization processes, including creating RentStream tokens representing rental income that investors can buy, automated rent payouts through smart contracts and compliance with regulations.\n\n\"RealNOI going live is super exciting, but the wider story as well is that this model can be replicated across various industries,\" a spokesperson for Chintai said. \"You could have countless versions of RealNOI launching with Chintai, powering everything.\"",
+    "url": "https://www.coindesk.com/business/2025/02/24/chintai-tokenizes-usd570m-real-estate-cash-flow-for-realnoi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Connor Gallic"
+            ],
+            "positions": [
+                "chief blockchain officer"
+            ],
+            "companies": [
+                "RealNOI",
+                "Chintai",
+                "Chintai Network Services Pte Ltd"
+            ],
+            "organizations": [
+                "Monetary Authority of Singapore (MAS)",
+                "CRED iQ"
+            ]
+        },
+        "cryptocurrencies": [
+            "CHEX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $570M real estate tokenization platform launch that demonstrates blockchain's power to transform traditional finance and create new investment opportunities for the crypto community."
+    }
+}

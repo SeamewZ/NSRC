@@ -1,0 +1,38 @@
+{
+    "title": "Helium Issuer Nova Labs Agrees to Pay SEC $200K to Settle Allegations It Lied to Investors",
+    "summary": "As part of the settlement agreement, the SEC agreed to drop its claims that three of Nova Labs’ tokens, including the native HNT token, were securities.",
+    "time": "2025-04-10T22:16:00",
+    "author": "Cheyenne Ligon",
+    "content": "Nova Labs, the parent company behind the Helium blockchain, has agreed to pay the U.S. Securities and Exchange Commission (SEC) $200,000 to settle civil securities fraud charges the regulator filed against the firm in January, a court filing said Thursday.\n\nWithout admitting or denying any wrongdoing, Nova Labs agreed to pay the fine to settle accusations that it misled institutional investors during a funding round from late 2021 to early 2022, during which it raised $200 million in fresh capital at a $1 billion valuation. In its complaint, the SEC accused Nova Labs of lying to prospective investors about a number of big-name enterprise customers — including Nestle, Salesforce and Lime — it claimed were using the Helium technology.\n\nThe SEC accused Nova Labs of repeatedly exaggerating the nature of its relationships with these three corporations in order to secure investments, touting them as customers and “users” of its tech. According to the complaint, Nova Labs’ actual contact with Lime, Salesforce and Nestle was limited and primarily occurred before the launch of the Helium network in mid-2019.\n\nFor example, according to the SEC, the extent of Nestle’s relationship with Nova Labs was a small-scale test of some of the company’s component hardware in its water-delivery business in 2018, before Nova Labs was even in the crypto business. Its relationship with scooter company Lime was limited to two in-person demonstrations of Nova Labs’ component hardware to an audience of just two Lime employees — at least one of whom left the company shortly afterwards —in early 2019, the SEC said.\n\nBoth Nestle and Lime eventually sent Nova Labs cease-and-desist orders, according to the SEC, threatening the company with legal action if it continued to use their trademarks and otherwise claiming to have an ongoing relationship with them, the complaint alleged.\n\nAs part of Nova Labs’ settlement agreement with the SEC, the regulator agreed to drop two other claims that the company violated federal securities laws, including through the sale of three of its tokens — the Helium Network Token (HNT), the Helium Mobile Network Token (MOBILE) and the Helium IoT Network Token (IOT) — which the SEC alleged in January to be securities, according the settlement agreement. Those claims were dropped with prejudice, meaning the SEC is barred from bringing a future case under the same allegations.\n\nNova Labs celebrated the settlement in a Thursday blog post, calling it a “major win for Helium and the People’s Network.”\n\n“With this dismissal, we can now definitively say that all compatible Helium Hotspots and the distribution of HNT, IOT and MOBILE tokens through the Helium Network are not securities,” the blog post said. “The outcome establishes that selling hardware and distributing tokens for network growth does not automatically make them securities in the eyes of the SEC.”\n\nThe blog post made no mention of the $200,000 settlement or the claim that Nova Labs misled investors.\n\nWhen reached for comment, Nova Labs Chief Legal Officer Sarah Aberg told CoinDesk that while the settlement agreement prohibits the company from either admitting or denying the claims, “we can point out that, both at the time of those statements and today, data usage on the Helium Network has always been publicly available.”\n\nThe settlement agreement, filed in the Southern District of New York (SDNY) on Thursday, is subject to approval by a federal judge.",
+    "url": "https://www.coindesk.com/policy/2025/04/10/helium-issuer-nova-labs-agrees-to-pay-sec-usd200k-to-settle-allegations-it-lied-to-investors-about-brand-partnerships",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sarah Aberg"
+            ],
+            "positions": [
+                "Chief Legal Officer"
+            ],
+            "companies": [
+                "Nova Labs",
+                "Nestle",
+                "Salesforce",
+                "Lime"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Southern District of New York",
+                "SDNY",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "HNT",
+            "MOBILE",
+            "IOT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC dropped claims that Helium's tokens were securities, which Nova Labs celebrated as a major win and establishes that their token distribution model is not considered securities by regulators."
+    }
+}

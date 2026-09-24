@@ -1,0 +1,45 @@
+{
+    "title": "Bitcoin Slumps, ADA, SOL, XRP Drop 5% as 'Buy the Dip' Sentiment Persists",
+    "time": "2025-03-17T07:52:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders say the current sell-off could have been caused by an unwinding of ETF and spot linked traders.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nstarted Monday in the red with a 2% drop over the past 24 hours, according to CoinDesk Indices data, leading to heaviness in the broader market as major tokens fell as much as 5%.\n\nBTC touched resistance at $84,000 on Sunday, making it a key level to cross for chances of a run to the upside and trading at just over $83,300 in Asian afternoon hours Monday.\n\nMajors such as XRP, Solana’s\nSOL\n$156.85\n, Cardano’s\nADA\n$0.5346\nand\nDOGE\n$0.1623\ntanked as much as 5%, while BNB Chain’s\nBNB\n$943.32\nstood out as the only major in green with a 3% rise.\n\nThe crypto market has plateaued since last week's sell-off due to the U.S. tariffs and deteriorating macroeconomic conditions. Concerns over a U.S. recession is growing due to Trump's tariffs, traders say, with the likelihood of choppiness ahead as a correlation with U.S. equities staying intact.\n\nStill, some see oncoming volatility in altcoins and memecoins amid a flat market regime.\n\n“Trading volume has increased for altcoins after Trump's World Liberty Financial bought MNT and AVAX, the latter of which was also part of an ETF application by VanEck,” Nick Ruck, director at LVRG Research, said in a Telegram message. “This may be a sign that traders and investors will focus on altcoins in the short term for better gains compared to large-cap coins like Bitcoin or Ethereum.”\n\nTraders say the current sell-off could have been caused by an unwinding of ETF and spot-linked traders.\n\n“The current belief is that the current sell-off is entirely driven by the massive 'multi-strat' hedge fund strategies that have dominated the macro space,” Augustine Fan, Head of Insights at SignalPlus, told CoinDesk in a Telegram message.\n\nMulti-strategy (multi-strat) trades involve hedge funds using diverse tactics — like arbitrage, long-short positions, and leverage — to maximize returns across asset classes.\n\nIn bitcoin’s case, a popular multi-strat approach is the basis trade where funds buy spot BTC(often via ETFs) and short BTC futures to profit from price differences. This locks in low-risk gains when the spread is favorable.\n\nWhen profits from basis trades shrink, due to tighter spreads or market shifts , funds exit positions, selling bitcoin and ETF shares en masse. This liquidation pressure likely amplified the sell-off, especially amid tariff-related volatility in the past week.\n\nHowever, the “buy-the-dip” mentality persists among bulls.\n\n“Equity valuations outside of the major large caps are relatively contained vs historical averages, and economic hard data is likely to outperform the rapid deterioration in soft data, so market consensus is that this remains a 'buy the dip' market while we work through the tariff volatility,” Fan added.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bitcoin-slumps-ada-sol-xrp-drop-5-as-buy-the-dip-sentiment-persists",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Ruck",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "director",
+                "Head of Insights"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "VanEck",
+                "LVRG Research",
+                "SignalPlus"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "Solana",
+            "SOL",
+            "Cardano",
+            "ADA",
+            "DOGE",
+            "BNB",
+            "Ethereum",
+            "MNT",
+            "AVAX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin and major cryptocurrencies dropping 2-5%, attributing the sell-off to ETF unwinding, hedge fund liquidations, and deteriorating macroeconomic conditions."
+    }
+}

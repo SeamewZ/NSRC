@@ -1,0 +1,28 @@
+{
+    "title": "Ethereum Developers Finally Schedule ‘Pectra’ Upgrade",
+    "summary": "Pectra is a \"hard fork\" of Ethereum encompassing an array of wallet, staking, and efficiency improvements.",
+    "time": "2025-01-17T16:49:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum's developers have finally delivered a timeline for the chain's next big upgrade, Pectra, which promises to introduce an array of speed and efficiency improvements to the second-largest blockchain. At a developer meeting held virtually on Thursday, Ethereum's core team set the upgrade's target release date for March 2025.\n\nPectra combines together eight major upgrades, or \"Ethereum improvement proposals\" (EIPs), into one package.\n\nAmong the most anticipated upgrades is EIP-7702, aimed at improving the user-experience of wallets. The upgrade, which was reportedly sketched out by Ethereum co-founder Vitalik Buterin in a mere 22 minutes, enables user wallets to be programmed like smart contracts. It's part of a broader strategy to bring account abstraction to Ethereum — a series of features that make setting up and using wallets a lot less clunky.\n\nAnother highly-anticipated upgrade, EIP-7251, increases the maximum amount validators can stake from 32 to 2,048 ETH. The change addresses a massive nuisance faced by the validators who stake ETH to keep the chain running today: Those who want to invest more than 32 ETH with the network must split their stake between dozens — or sometimes, hundreds — of separate nodes. This isn't just burdensome. It has also resulted in weeks-long lines for setting up new nodes.\n\nPectra was originally on track to be Ethereum’s biggest hard fork to date, and it's the first major improvement to the chain since 2024's Dencun upgrade. A blockchain hard fork is a particularly major kind of software upgrade that, in essence, moves a network over to an entirely new chain.\n\nWhile still significant, the upgrades included in Pectra are stripped-down from some earlier plans. Developers decided in September that earlier plans for Pectra were too ambitious, and they agreed to split the original package into two.\n\nDevelopers plan to test Pectra on Ethereum's Sepolia and Holesky test networks throughout February. If all goes well, developers will proceed to bring Pectra to mainnet in early or mid-March.\n\nRead more: Ethereum Developers Confirm Plan to Split 'Pectra' Upgrade In Two",
+    "url": "https://www.coindesk.com/tech/2025/01/17/ethereum-developers-finally-schedule-pectra-upgrade",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ethereum's Pectra upgrade as introducing speed and efficiency improvements, wallet enhancements, and staking improvements that address current limitations, all of which are positive developments for the network."
+    }
+}

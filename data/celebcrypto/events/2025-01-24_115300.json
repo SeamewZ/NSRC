@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin Whales in ‘Accumulation Phase’ After Trump Inauguration: CryptoQuant",
+    "time": "2025-01-24T11:53:00",
+    "author": "Shaurya Malwa",
+    "summary": "Selling pressure for Bitcoin has been reduced greatly after realizing daily profits as high as $10 billion as the asset approached $100,000 in December.",
+    "content": "Large bitcoin\nBTC\n$104,196.21\nholders, commonly known as whales, are back purchasing more of the asset after a lull period in early January and a bout of profit-taking, CryptoQuant data shows.\n\nThe monthly percentage growth of the bitcoin holdings of large investors has accelerated from -0.25% on January 14 to +2% on January 17, the highest monthly rate since mid-December.\n\nSuch growth comes on the back of Donald Trump becoming U.S. president, where traders expect him to introduce pro-crypto policies and build a strategic bitcoin reserve, both events that may fuel institutional capital into the asset in the near term.Large bitcoin holders are a key driver of BTC demand and price. Prominent recent buyers include Bitcoin development company MicroStrategy and energy management systems firm KULR.\n\nAs such, selling pressure for Bitcoin has been reduced greatly after realizing daily profits as high as $10 billion as the asset approached $100,000 in December. Long-term bitcoin holders, seen as \"smart money,\" have sold more than 1 million BTC since September, and the behavior appears to have bottomed, as a CoinDesk analysis noted on Wednesday.\n\nMeanwhile, the unrealized profit margins for traders are now close to zero. In crypto terms, this often acts like a price floor during a bull market, suggesting we might be at a stable point before the next move.\n\nHowever, retail spot demand for bitcoin appears to be cooling off, per CryptoQuant.\n\n“Bitcoin’s apparent demand has continued in expansion territory (green area in the chart to the left). However, the rate of expansion has declined from 279K Bitcoin in early December 2024 to 75K Bitcoin today,” the firm said in its Friday report.\n\nApparent demand is an on-chain metric used to gauge the balance between Bitcoin's production (newly minted coins through mining) and changes in its inventory (coins that have been inactive for over a year).\n\n“Demand growth must accelerate again for prices to rally significantly,” it added.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/bitcoin-whales-in-accumulation-phase-after-trump-inauguration-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. president"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "KULR"
+            ],
+            "organizations": [
+                "CryptoQuant",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin whales entering an accumulation phase, reduced selling pressure, and expectations of pro-crypto policies under Trump that may fuel institutional capital into Bitcoin."
+    }
+}

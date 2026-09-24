@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Traders Eye Long Term BTC Accumulation by Selling Put Options",
+    "summary": "There is a notable increase in cash-secured put selling using stablecoins, Deribit's Lin Chen told CoinDesk.",
+    "time": "2025-04-24T08:03:00",
+    "author": "Omkar Godbole",
+    "content": "Would you offer insurance when expecting low odds of a claim being made? Most likely, you would, while pocketing the premium without a second thought. Bitcoin\nBTC\n$101,998.62\ntraders are doing something similar in the Deribit-listed BTC options market, hinting at bullish price expectations.\n\nRecently, an increasing number of traders have been selling (writing) BTC put options, likened to providing insurance against price drops in exchange for a small upfront premium.\n\nThey are implementing this strategy in a cash-secured manner by holding a corresponding amount in stablecoins, ensuring they can buy BTC if the market declines and the put buyer decides to exercise his right to sell BTC at the predetermined higher price.\n\nThis strategy enables traders to collect premiums (paid by put buyers) while potentially accumulating bitcoin if the options are exercised. In other words, it's the expression of a long-term bullish sentiment.\n\n\"There is a notable increase in cash-secured put selling using stablecoins—another sign of a more mature, long-term approach to BTC accumulation and a continued expression of bullish sentiment,\" Deribit's Asia Business Development Head Lin Chen told CoinDesk.\n\nChen said BTC holders are also selling higher strike call options to collect premiums and generate additional yield on top of their coin stash, which is weighing over Deribit's DVOL index, which measures the 30-day BTC implied volatility. The index has dropped from 63 to 48 since the April 7 panic selling in BTC to $75K, according to data from the charting platform TradingView.\n\n\"We observe that investors remain long-term bullish on BTC, particularly among crypto-native “holders” who are willing to hold through market cycles,\" Chen said.\n\nBitcoin's price has risen to over $92,000 since the early month slide to $75,000, supposedly on the back of haven demand and renewed institutional adoption narrative.\n\nThe sharp price recovery has seen BTC options risk reversals reset to suggest a bias for call options across time frames, according to data source Amberdata. Over the past two days, traders have specifically snapped up calls at strike $95,000, $100,000 and $135,000 via the over-the-counter tech platform Paradigm. As of writing, the $100,000 strike call was the most popular option play on Deribit, with a notional open interest of over $1.6 billion.\n\nJust how important it is to track flows in the options market can be explained by the fact that the cumulative delta in Deribit's BTC options and options tied to the U.S.-listed BlackRock spot bitcoin ETF (IBIT) and its peers was $9 billion as of Wednesday, according to data tracked by Volmex.\n\nThe data indicates heightened sensitivity of options to changes in BTC's price, suggesting potential for price volatility.\n\nDelta, one of the metrics used by sophisticated market participants to manage risk, measures how much the price (premium) of an options contract is likely to change in response to the $1 chance in the price of the underlying asset, in this case, BTC.\n\nSo, the cumulative delta of $9 billion represents the total sensitivity of all outstanding BTC and bitcoin ETF options to changes in the spot price. As of Wednesday, the total notional value of all outstanding options contracts was $43 billion.\n\nSuch large data or sensitivity to price swings in the underlying asset means market makers and traders actively engage in hedging strategies to mitigate their risks. Market makers, or those mandated to provide order book liquidity, are known to add to price volatility through their constant effort to maintain a net directional neutral exposure.\n\n\"Option deltas have increased to record levels as open interest grew and strike deltas shifted significantly. Option market makers are actively hedging this delta exposure, driven by substantial new positions and notable shifts in strike pricing,\" Volmex noted on X.\n\nAccording to Volmex, crypto-native options traders over Deribit are positioned more bullishly than those trading options tied to IBIT.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/bitcoin-traders-eye-long-term-btc-accumulation-by-selling-put-options",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lin Chen"
+            ],
+            "positions": [
+                "Asia Business Development Head"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk",
+                "TradingView",
+                "Amberdata",
+                "Paradigm",
+                "Volmex",
+                "BlackRock"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased cash-secured put selling indicating long-term bullish sentiment, price recovery from $75K to over $92K, and traders positioning bullishly with call options at higher strikes."
+    }
+}

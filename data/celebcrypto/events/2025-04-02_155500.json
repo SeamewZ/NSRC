@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin ETFs Could See $3B in Q2 Inflows Even Without Price Recovery, Says Analyst",
+    "time": "2025-04-02T15:55:00",
+    "author": "Helene Braun",
+    "summary": "The spot funds managed net inflows in the first quarter despite declining prices, but how much was true demand and how much was arbitrage remains in question.",
+    "content": "The spot bitcoin ETFs saw sizable inflows in the first quarter despite the lame price action and at least one analyst sees the next three months as even bigger even if the prices don't recover.\n\n“Even if current market conditions persist in the second quarter, we are seeing strong traction from financial advisors and institutional investors,\" said Juan Leon, senior investment strategist at Bitwise (whose BITB is among the bitcoin ETFs).\n\n\"While retail interest is weak due to the fixation on price action, professional investors are recognizing the global adoption momentum spurred by the Trump administration’s embrace of bitcoin, and many are seeing these market conditions as an opportunity to start or increase an allocation,\" Leon added.\n\nThe ETFs saw over $1 billion in inflows in the first quarter of the year despite a challenging macro situation that sent the S&P 500 Index into its biggest quarterly loss since 2022 and bitcoin's 13% plunge.\n\nLeon expects inflows to be even stronger in the second quarter — as much as $3 billion or even more as wirehouse platforms unlock and legislative policy progresses.\n\nETF inflows possibly less than meets the eye\n\nThe $1 billion in first quarter net flows — and whatever the second quarter brings — doesn't necessarily reflect investor interest in buying the bitcoin dip. That's because of the so-called basis trade (also known as cash-and-carry). In this, institutional players buy the spot bitcoin ETF while shorting CME bitcoin futures, picking up yield without exposure to price movement.\n\nThat yield was well into the double-digits in late 2024 and remained nicely above the risk-free rate throughout much of the first quarter. It's collapsed to the 5% area of late, suggesting arbitrage-related ETF inflows may dry up.\n\nBack to bull case: It's still early\n\n“While a favorable price environment would certainly be a boost, it's important to remember that adoption of spot bitcoin ETFs by these groups is still in its infancy,\" said Nate Geraci, president of the ETF Store, who is also bullish on the outlook for inflows throughout the rest of the year.. \"As they grow more comfortable allocating to bitcoin, this should provide a meaningful tailwind for inflows,” he added..,\n\nWhile many institutions have indeed already made their first allocations into bitcoin in the past year, it represents only a small fraction of ETF investment, with most of the money still coming from retail investors — something recently noted by BlackRock CEO Larry Fink, whose IBIT is the asset-gathering leader among the spot ETFs. The more favorable regulatory stance toward the industry, not to mention the government’s own potential allocation into bitcoin, however, means that ratio could soon shift significantly.\n\nDuring an ETF conference in Las Vegas earlier this month, a survey showed that 57% of advisors plan on increasing their allocations into crypto ETFs this year as crypto has lost its “reputational risk” attribute among advisors.\n\nThe view that bitcoin could serve as a “safe haven” in times of an economic decline, which investors remain anxious about, could also boost confidence in the asset, especially as fears of a potential recession grow.\n\n“If we see continued rate cut expectations, signs of economic uncertainty, or deepening fears of a potential recession in the US, Bitcoin’s role as 'digital gold' will likely support additional inflows,” said David Siemer, CEO of Wave Digital Assets. “While some short-term traders may rotate out if price weakness persists, long-term players will continue to keep inflows strong, especially as institutional adoption takes off and drives demand throughout the year.\"",
+    "url": "https://www.coindesk.com/markets/2025/04/02/bitcoin-etfs-could-see-usd3b-in-q2-inflows-even-without-price-recovery-says-analyst",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Juan Leon",
+                "Nate Geraci",
+                "Larry Fink",
+                "David Siemer"
+            ],
+            "positions": [
+                "senior investment strategist",
+                "president",
+                "CEO"
+            ],
+            "companies": [
+                "Bitwise",
+                "ETF Store",
+                "BlackRock",
+                "Wave Digital Assets"
+            ],
+            "organizations": [
+                "Trump administration",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights strong institutional inflows, positive analyst projections of $3B+ Q2 inflows, growing adoption by financial advisors, and bitcoin's potential role as 'digital gold' during economic uncertainty."
+    }
+}

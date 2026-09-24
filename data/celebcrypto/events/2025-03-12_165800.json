@@ -1,0 +1,46 @@
+{
+    "title": "Crypto ETFs Likely Won't Be Approved Until New SEC Chair Is Sworn In",
+    "summary": "President Donald Trump named Paul Atkins as his pick to lead the agency but no hearing has been scheduled yet to confirm him.",
+    "time": "2025-03-12T16:58:00",
+    "author": "Helene Braun",
+    "content": "Despite recent acknowledgements by the Securities and Exchange Commission (SEC) on several spot crypto exchange-traded fund (ETF) applications, the agency is unlikely to make any decisions approving these products until its leadership is settled.\n\n“I would have been very very surprised if they approved any of these filings before [Paul] Atkins was confirmed at their first deadlines,” said James Seyffart, an ETF analyst at Bloomberg Intelligence. “It’s been our assumption that anything that can be pushed until Atkins is officially at the SEC, will be pushed back.”\n\nA person familiar with the matter told CoinDesk that they agree with that view. “This administration has shown an ability to break precedent, so I guess it’s within the realm of possibility to see an early approval. I’d be surprised, but you never know,” the person said.\n\nPresident Donald Trump named former SEC commissioner and current CEO of Patomak Global Partners Paul Atkins as his pick to lead the agency. Former SEC Chair Gary Gensler resigned from the position in January ahead of the inauguration of Trump. No hearing has been scheduled yet for the confirmation of Atkins, however.\n\nThe agency delayed decisions on several spot crypto ETFs on Tuesday, including XRP, Solana\nSOL\n$157.36\n,\nDOGE\n$0.1623\nand\nLTC\n$86.10\n, a move that while not completely expected, wasn’t shocking either, according to Seyffart.\n\nIt took issuers years to receive the SEC’s green lights on launching spot bitcoin\nBTC\n$101,988.00\nand ether\nETH\n$3,328.10\nETFs, even despite the fact that there had been a well-established regulated futures market for both assets. While this is not a legal requirement in order to launch ETFs based on an asset, it was an important criteria for the SEC in launching ETFs tied to BTC and ETH.\n\nNone of the currently outstanding ETF applications fulfil that criteria. Nevertheless, Seyffart and his colleagues see odds for an approval for several altcoin ETFs by the end of the year at 65% or higher. While some of the applications that are due for a decision in May and June are more likely to see an approval then, it all depends on the confirmation of the new chair.\n\nIn its reviews of past spot Bitcoin and Ether ETF applications, the SEC usually took advantage of the procedural delays it's allowed to use to extend deadlines to close to 240 days — the longest amount of time it has to approve or reject an application.\n\n“Theoretically we should have a chair by then but I wouldn’t necessarily say it’s guaranteed that these things will be approved immediately then either. Certainly more possible than the March and April deadline for these different spot crypto assets,” Seyffart said.",
+    "url": "https://www.coindesk.com/policy/2025/03/12/xrp-sol-doge-etfs-likely-won-t-be-approved-until-new-sec-chair-is-sworn-in",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Atkins",
+                "James Seyffart",
+                "Donald Trump",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "SEC commissioner",
+                "CEO of Patomak Global Partners",
+                "ETF analyst at Bloomberg Intelligence",
+                "SEC Chair",
+                "President"
+            ],
+            "companies": [
+                "Patomak Global Partners",
+                "Bloomberg Intelligence",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission (SEC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Solana",
+            "SOL",
+            "DOGE",
+            "LTC",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news indicates ETF approvals are delayed until new SEC leadership is confirmed, creating uncertainty and waiting period rather than immediate positive or negative market movement."
+    }
+}

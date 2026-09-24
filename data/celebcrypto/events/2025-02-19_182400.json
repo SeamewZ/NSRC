@@ -1,0 +1,51 @@
+{
+    "title": "The Protocol: Story Protocol Launches Its IP-Focused Blockchain",
+    "summary": "Also: Ethereum developers release “Open Intents Framework,’ Monad & Orderly Join Forces, and Crypto’s Most Influential Investor?",
+    "time": "2025-02-19T18:24:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Margaux Nijkerk, CoinDesk’s Ethereum reporter, filling in for Ben Schiller.\n\nIn this issue:\n\nSTORY PROTOCOL GOES LIVE: Story Protocol launched its intellectual property-focused blockchain and associated IP token last week. The blockchain is positioned as the \"world's intellectual property network,\" providing users with a way to register their IP and track how others use it. The aptly named \"$IP\" token, which Story announced earlier this month, is used for transaction fees and offers users a vote in the platform's governance system. So far, the IP focused blockchain seems to have had legs — at least with investors. PIP Labs, the chain's primary developer, raised $80 million in a Series B venture funding round led by Andreessen Horowitz (a16z), bringing the project's total funding to $140 million. PIP has sought to position Story at the intersection of blockchain and artificial intelligence, a way for people to track and get paid for data used to train AI models. The Story mainnet launch accompanies the first unlock event for the just-announced IP token. \"Story is unlocking 25% of the initial 1 billion $IP, with 58.4% devoted to the ecosystem and community, foundation, and initial incentives,\" according to the project. — Sam Kessler Read more.\n\nETHEREUM DEVELOPERS RELEASE NEW OPEN INTENTS FRAMEWORK: A group of top Ethereum developers and leaders released Wednesday a new framework that would simplify and standardize cross-chain token transfers.\n\nThe initiative, called the Open Intents Framework (OIF), was kickstarted by contributors from the Ethereum Foundation and is supported by 25 projects including teams building layer-2s like Arbitrum, Optimism, ZKsync, and Scroll, according to a press release shared with CoinDesk.The goal of the initiative is to bring “intents” to all corners of the Ethereum ecosystem, which is a technological feature that lets a blockchain user accomplish a specific goal by asking an intermediary to fulfill that goal (like a trade or transaction they want to make.) There are some standards out there that are already trying to make cross-chain transactions easier by using intents. ERC-7683, which was introduced by the team behind the decentralized exchange Uniswap and the Across protocol, is one of those standards circulating the Ethereum space lately, and is supposed to address fragmentation and allow more chains in the Ethereum ecosystem to interoperate. But the OIF team claims that they will build on that standard through their framework allowing intents to function at scale. “By offering shared infrastructure and execution coordination, OIF makes intent-based transactions permissionless, efficient, and accessible for all projects,” the press release said. — Margaux Nijkerk Read more.\n\nMONAD AND ORDERLY JOIN FORCES: Monad, an Ethereum Virtual Machine (EVM) layer-1 blockchain about to launch its testnet, has joined forces with Orderly Network, a decentralized exchange (DEX) infrastructure supporting a range of other chains, as the platforms spread their nets wide in anticipation of a second decentralized finance (DeFi) summer. The arrival of the Monad testnet on Wednesday will provide traders with a fast EVM-compatible building site and the possibility of airdrops on the L1. Orderly’s band of 20 or so market makers includes Wintermute, Selini and Riverside, according to a press release. Firms in the decentralized trading industry, which includes major exchanges like Coinbase (COIN), are hoping for surge of DeFi activity in the coming months as the crypto-friendly administration of President Donald Trump gives crypto a regulatory tailwind. The first DeFi summer, in 2020, came hot on the heels of Federal Reserve interest-rate cuts in response to the Covid outbreak. Orderly already offers users a shared order book across multiple blockchains, including Arbitrum, Optimism, Polygon, Base, Mantle and Near. — Ian Allison Read more.\n\nTRUMP - CRYPTO’S MOST INFLUENTIAL INVESTOR?: Crypto isn't all that different from politics. According to Rushi Manche, the founder of blockchain company Movement, \"Crypto is an attention game.\"It's fitting, then, that Donald Trump — the master of all things attention — is so at home selling memecoins. But it's not just Trump's inner circle that's managed to capitalize on his crypto ventures, which include the $TRUMP coin and World Liberty Financial. Once a vocal crypto skeptic, the president has become the industry's largest \"key opinion leader\" — or KOL, in blockchain industry parlance: a trader whose portfolio is closely watched by other investors deciding what to buy and sell. Trump's foray into crypto has created a new go-to-market playbook for ambitious token peddlers like Manche — blockchain founders who realize pumping the price of a token can be as simple as elbowing into a sitting president's crypto portfolio. The president's primary vehicle for blockchain trades is\nWLFI\n$0.1193\n, a decentralized finance (DeFi) venture he announced with his sons over the summer. After accruing more than $400 million by selling a token, the company, which does not yet have a product, has built up a portfolio containing millions of dollars in the assets of other crypto projects. On Wednesday, it announced it was launching an official \"strategic reserve\" of crypto investments. The trades have already raised serious concerns about conflicts of interest, insider dealing, and the very nature of how influence is leveraged in the digital asset space. Trump's political opponents are calling for investigations into his growing blockchain empire. But crypto founders like Manche see World Liberty's crypto investments as something different: a once-in-a-generation marketing opportunity. \"You need to have a product roadmap that makes sense,\" said Manche. \"But you also need to have a strategy for your token.\" And what better way to boost the price of your cryptocurrency than by publicly tying it to the leader of the free world? — Sam Kessler Read more.",
+    "url": "https://www.coindesk.com/tech/2025/02/19/the-protocol-story-protocol-launches-its-ip-focused-blockchain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Ben Schiller",
+                "Sam Kessler",
+                "Rushi Manche",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Ethereum reporter",
+                "founder",
+                "president"
+            ],
+            "companies": [
+                "CoinDesk",
+                "PIP Labs",
+                "Andreessen Horowitz",
+                "a16z",
+                "Uniswap",
+                "Across protocol",
+                "Monad",
+                "Orderly Network",
+                "Wintermute",
+                "Selini",
+                "Riverside",
+                "Coinbase",
+                "World Liberty Financial",
+                "Movement"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "$IP",
+            "$TRUMP",
+            "WLFI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including major funding rounds ($80M for Story Protocol), new technical frameworks (Open Intents Framework), platform launches, and political support that collectively suggest growing market confidence and expansion."
+    }
+}

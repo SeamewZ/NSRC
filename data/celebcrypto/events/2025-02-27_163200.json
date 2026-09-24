@@ -1,0 +1,31 @@
+{
+    "title": "Illicit Crypto Volume in 2024 Hit a Record $40B in 2024: Chainalysis",
+    "time": "2025-02-27T16:32:00",
+    "author": "Oliver Knight",
+    "summary": "Criminals are no longer using BTC, but instead choosing stablecoins, the report revealed.",
+    "content": "Crypto crime was rife in 2024 despite it being a landmark year for institutional adoption. A report by blockchain security firm Chainalysis reveals that $40 billion was received by illicit addresses.\n\nThe $40 billion is an estimate that will rise throughout 2025 as more details around historical crimes emerge. The illicit crypto in question can be attributed to scams, malware, fraud or dark net activities.\n\n2023's figure ended at $46.1 billion, although Chainalysis expects 2024's total to exceed that when all crime is accounted for with an estimated total of $51.3 billion.\n\nThe total also excludes revenue from non-crypto native crime such as drug trafficking or money laundering, where crypto is used as a means of payment, the report added.\n\nThe approval of spot bitcoin ETFs in 2024 prompted a wave of institutional volume, this brings down the ratio of crypto crime volume to industry-wide volume, with illicit transactions accounting for 0.14% of all crypto transactions compared to 0.61% in 2023.\n\nCriminals are also changing their habits when it comes to sending illicit funds; in 2021 around 70% of all illicit transactions involved bitcoin\nBTC\n$107,143.68\n, that has now flipped to be dominated by stablecoins. BTC now accounts for around 20% of all illicit transactions whilst stablecoins occupy the majority with 63%.\n\nPrivacy coin\nXMR\n$341.39\nis also a notable inclusion on the list due to its prevalence on dark net markets, altcoins account for around 10% of all illicit transactions in total.\n\nIt's worth noting that the 2025 figures may be skewed to include ether\nETH\n$3,648.29\ndue to February's $1.5 billion hack on Bybit, which is the largest single crypto theft to date.",
+    "url": "https://www.coindesk.com/business/2025/02/27/illicit-crypto-volume-in-2024-hit-usd40b-a-record-year-for-stablecoin-crime-chainalysis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Chainalysis",
+                "Bybit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "XMR",
+            "ETH",
+            "Ether",
+            "stablecoins",
+            "privacy coin",
+            "altcoins"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports record illicit crypto volume of $40 billion in 2024, with expectations to rise to $51.3 billion, and details the largest single crypto theft to date of $1.5 billion from Bybit."
+    }
+}

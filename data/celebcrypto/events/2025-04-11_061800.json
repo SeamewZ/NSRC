@@ -1,0 +1,31 @@
+{
+    "title": "Gold Rally Makes Tether’s XAUT Top-Performing Digital Asset as Crypto Markets Remain Flat",
+    "summary": "Equities markets are giving mixed results on trade war deescalations.",
+    "time": "2025-04-11T06:18:00",
+    "author": "Sam Reynolds",
+    "content": "Tokenized gold, such as Tether’s XAUT and Paxos’ PAXG continued to be a favorite of crypto investors in Asia as investors seek a safe haven despite a de-escalation in trade war tensions.\n\nOn-chain data shows that Tether’s XAUT was a top-10 market performer out of all digital assets. Tether’s tokenized gold, the largest by market cap, is up 3.4% in the last 24 hours.\n\nCoinGecko data shows the sector is up 4.3% in the last 24 hours, compared to the CoinDesk 20, an index of the performance of the largest digital assets, which is down 2%.\n\nThe price of gold initially moved down during the early hours of the Asia trading day, after breaching an all-time high during the end of U.S. hours. It’s currently trading for $3218 in Hong Kong.\n\nEquity markets in Asia showed mixed performance in the morning session, with Hong Kong’s Hang Seng down 0.2%, Shanghai’s SSE up 0.12%, Taipei’s TAIEX up 1.6%, and Tokyo’s Nikkei 225 down 3.5%.\n\nGold typically rallies during periods of heightened economic or geopolitical uncertainty, as investors seek safety in assets seen as stores of value amid volatility. While trade tensions have calmed, investors are concerned about the lack of predictability in policy from the White House.\n\nGold also benefits from an inverse relationship with interest rates: lower rates reduce the opportunity cost of holding non-yielding gold, making it more attractive.\n\nInvestors are also concerned about the surging U.S. budget deficit.\n\nHalfway through fiscal year 2025, the U.S. Budget deficit increased by $1.3 trillion. So we are up to a $2.6 trillion annual rate. That rounds up to an incredible 9% of GDP. The fit is hitting the shan.\n\nChina state media is also reporting that stimulus measures are in the works for the country, with interest rate cuts and government spending to the tune of $136 billion proposed.\n\nOther market leaders include Curve DAO's CRV, up 18% on-day after news that the U.S. plans to significantly relax rules and enforcement pertaining to Decentralized Finance (DeFi).",
+    "url": "https://www.coindesk.com/markets/2025/04/11/gold-rally-makes-tether-s-xaut-top-performing-digital-asset-as-crypto-markets-remain-flat",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tether",
+                "Paxos",
+                "CoinGecko",
+                "Curve DAO"
+            ],
+            "organizations": [
+                "White House",
+                "China state media"
+            ]
+        },
+        "cryptocurrencies": [
+            "XAUT",
+            "PAXG",
+            "CRV"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news shows mixed market performance with tokenized gold assets rising while the broader crypto index is down and equity markets show mixed results."
+    }
+}

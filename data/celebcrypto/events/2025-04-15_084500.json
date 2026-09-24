@@ -1,0 +1,26 @@
+{
+    "title": "Binance, KuCoin, and Other Crypto Firms Hit by Amazon Web Service Issue",
+    "summary": "Binance opened withdrawals just over five minutes after the issue was first reported. Users are still reportedly facing issues placing trades on both Binance and KuCoin, X posts show.",
+    "time": "2025-04-15T08:45:00",
+    "author": "Shaurya Malwa",
+    "content": "Crypto exchanges Binance and KuCoin temporarily suspended withdrawals amid reported issues with their data center provider Amazon Web Services (AWS).\n\n\"We are aware of an issue impacting some services on the #Binance platform due to a temporary network interruption in the AWS data center,\" Binance said in an X post.\n\n\"Some orders are still successful, but some are failing. If users failed, they may keep retrying.\"\n\nBinance opened withdrawals just over five minutes after the issue was first reported. Users are still reportedly facing issues placing trades on both Binance and KuCoin, X posts show.\n\nCrypto wallet Rabby and on-chain analytics tool DeBank reported issues in separate X posts as well, with all services unavailable.\n\nAWS is a cloud computing platform providing services like storage, computing power to all kinds of businesses. An outage may disrupt these services and impact companies relying on AWS for websites, applications, or data storage.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/binance-kucoin-and-other-crypto-firms-hit-by-amazon-web-service-issue",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance",
+                "KuCoin",
+                "Amazon Web Services",
+                "AWS",
+                "Rabby",
+                "DeBank"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The AWS outage caused multiple major crypto exchanges and services to suspend withdrawals and experience trading issues, indicating negative operational disruption."
+    }
+}

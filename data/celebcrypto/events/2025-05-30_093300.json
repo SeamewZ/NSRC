@@ -1,0 +1,35 @@
+{
+    "title": "U.S. Sanctions Funnull for Role in Pig Butchering Scam, Huione-Linked Crypto Wallets",
+    "time": "2025-05-30T09:33:00",
+    "author": "Oliver Knight",
+    "summary": "The wallets received payments directly from Huione Pay, a subsidiary of Huione Group.",
+    "content": "The U.S. Department of the Treasury Office of Foreign Assets Control (OFAC) imposed sanctions on Funnull Technology, a provider of technology for websites allegedly involved in so-called pig butchering scams, and two cryptocurrency wallets said to be linked to Huione Group.\n\nPhilippines-based Funnull also directly facilitated a scam involving virtual currencies resulting in over $200 million in victim losses, OFAC said in a Thursday press release. In addition, the company is alleged to have acquired several IP addresses from mainstream cloud service providers to sell to cybercriminals. The sanctions also cover a Funnull administrator, Liu Lizhi.\n\nThe majority of cryptocurrency investment scam websites reported to the FBI are linked to Funnull,\" Blockchain security firm Elliptic said in a blog post, which also identified the sanctioned wallets as being linked to Huione.\n\nThe wallets on Ethereum and Tron received funds directly from Huione Pay, part of Huione Group, Elliptic said. Huione was labeled as a \"primary money laundering concern\" by FinCEN earlier this month.\n\nThe two addresses received more than $4 million in total, according to Elliptic.",
+    "url": "https://www.coindesk.com/business/2025/05/30/u-s-sanctions-funnull-for-role-in-pig-butchering-scam-huione-linked-crypto-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Liu Lizhi"
+            ],
+            "positions": [
+                "Funnull administrator"
+            ],
+            "companies": [
+                "Funnull Technology",
+                "Huione Group",
+                "Huione Pay",
+                "Elliptic"
+            ],
+            "organizations": [
+                "U.S. Department of the Treasury Office of Foreign Assets Control (OFAC)",
+                "FBI",
+                "FinCEN"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Tron"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes U.S. sanctions on crypto wallets linked to scams and money laundering, which represents regulatory crackdown and negative market sentiment."
+    }
+}

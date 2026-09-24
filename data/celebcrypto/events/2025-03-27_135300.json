@@ -1,0 +1,33 @@
+{
+    "title": "Possible Blow to Crypto as CoreWeave Reportedly Slashes Valuation to $23B",
+    "time": "2025-03-27T13:53:00",
+    "author": "Helene Braun",
+    "summary": "A separate report said the AI-related firm is also cutting the size of its IPO to just $1.5 billion.",
+    "content": "CoreWeave is looking to downsize its initial public offering just one day before hitting the market, Semafor reported.\n\nThe AI infrastructure firm was previously expected to raise $3 billion at a $30 billion valuation, according to the story, but the size has been cut and the valuation lowered to just $23 billion.\n\nA separate story from Bloomberg said CoreWeave is now looking to raise only $1.5 billion.\n\nCoreWeave is in close partnership with bitcoin miner Core Scientific (CORZ), which was expected to profit from the IPO if the results are positive and sustain strong revenue growth over the next few years.\n\nIn early U.S. trading, CORZ is up fractionally, but down sharply over the past month and for 2025 as a whole. AI-related tokens NEAR, ICP, RENDER have added modestly to earlier losses.\n\nCoreWeave saw $1.9 billion in revenue in 2024 amid surging demand for AI services. However, some believe that CoreWeave’s new $12 billion deal with AI giant OpenAI could have bigger implications for the company than its IPO plan.\n\nCoreWeave’s pullpack comes as tech stocks have lagged other market sectors since the start of this year, partially as a result of on-and-off tariffs imposed by U.S. President Donald Trump and concerns about the spending of AI companies.\n\nCoreWeave will debut on the Nasdaq on Friday, becoming the first AI company to hit the stock market. A representative from the company could not be reached for comment at time of publication.",
+    "url": "https://www.coindesk.com/markets/2025/03/27/possible-blow-to-crypto-as-coreweave-reportedly-slashes-valuation-to-usd23b",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "CoreWeave",
+                "Core Scientific",
+                "OpenAI",
+                "Nasdaq"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "NEAR",
+            "ICP",
+            "RENDER"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports CoreWeave slashing its IPO valuation and size, which negatively affects its partner Core Scientific (a bitcoin miner), and mentions AI-related tokens adding to losses."
+    }
+}

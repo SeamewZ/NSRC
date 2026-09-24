@@ -1,0 +1,38 @@
+{
+    "title": "Uniswap Labs Officially Launches Layer-2 ‘Unichain’",
+    "summary": "Powered by Optimism's OP stack, Unichain—like other layer-2s on Ethereum—offers faster and cheaper transactions compared to Ethereum's mainnet.",
+    "time": "2025-02-11T14:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Uniswap Labs, the primary developer behind one of the largest decentralized exchanges (DEX), Uniswap, shared Tuesday that its long-awaited layer-2 network, Unichain, is now live.\n\nPowered by Optimism's OP stack, Unichain—like other layer-2s on Ethereum—offers faster and cheaper transactions compared to Ethereum's mainnet. Developers can deploy apps onto the network, which has been optimized specifically for decentralized finance (DeFi) and aims to serve as \"the home for liquidity across chains,\" according to Uniswap Labs.\n\nFor Uniswap Labs, the benefit of launching a layer-2 is twofold: it will provide a better experience for users of Uniswap and similar platforms, and it will create a new revenue opportunity in the form of network fees. A representative for Uniswap Labs told CoinDesk that \"around 20%\" of the chain's revenue will go directly to the company.\n\nUnichain has been in testing since October 2024 and is classified by Uniswap Labs as a \"stage-1\" rollup, meaning it has elements of decentralization but retains some centrally-controlled safeguards at this early phase.\n\nThe network is built on the OP Stack, a modular framework that lets developers build interoperable layer-2 chains based on Optimism’s optimistic rollup technology. Several well-known teams have come out with their own OP Stack-based layer-2’s, including Coinbase's ‘Base’, Kraken’s ‘Ink,’ World’s ‘World chain,’ and Sony’s ‘Soneium.’\n\nDozens of layer-2 chains have popped up over the last few years, and Uniswap co-founder Hayden Adams believes that most of them will ultimately be used for specific use cases rather than serve as general-purpose blockchains. “We are anticipating a world of many, many different use cases, of which trading is a small subset,” Adams told CoinDesk in an interview.\n\nIn collaboration with Ethereum research and development firm Flashbots, the Uniswap team said it has created a Trusted Execution Environment (TEE) on Unichain. The TEE is a secure area for more sensitive transactions and is meant to optimize the chain for DeFi by allowing for more advanced trades and faster transaction finality.\n\n“Essentially, we want Unichain to be a chain that is good for liquidity creation, good for trading, good for applications that need to be co-located with them, and then good for applications that essentially want access to liquidity but should not be co-located,” Adams said.\n\nAs part of its integration with Optimism’s \"Superchain\" ecosystem, Uniswap Labs has agreed to give 2.5% of Unichain’s gross revenue—or 15% of Unichain’s net revenue, whichever is greater—to the Optimism Collective, a consortium of people and companies that steward Optimism's rollup tech. Many of the chains in the Optimism Superchain ecosystem have agreed to similar setups, including Coinbase and Kraken.\n\nIn exchange for building on Optimism, both Coinbase and Kraken received grants of Optimism's OP governance tokens from the Optimism Foundation, which controls a treasury of tokens earmarked to help grow the ecosystem. Coinbase agreed to receive up to 118 million OP tokens, while Kraken agreed to 25 million. Uniswap Labs declined to comment on whether it had its own deal with the Optimism Foundation.\n\nAhead of Unichain’s mainnet launch, Uniswap Labs announced that 65% of the chain’s net revenue will go to the Unichain Validation Network—a group of validators and stakers securing the blockchain.\n\nUVN will act as “another layer of transparency and validation of the network,” Adams said.\n\n“Part of the uniqueness about us as a project that has always been decentralized first, is that we are actually reducing the role and the power of sequencer relative to other things that are running more centralized sequencers,” Adams added.\n\nRead more: Uniswap Developer Unveils Own Layer-2 Network, Unichain, Built on Optimism Tech",
+    "url": "https://www.coindesk.com/tech/2025/02/10/uniswap-labs-officially-launches-layer-2-unichain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hayden Adams"
+            ],
+            "positions": [
+                "co-founder",
+                "representative"
+            ],
+            "companies": [
+                "Uniswap Labs",
+                "Coinbase",
+                "Kraken",
+                "Sony",
+                "Flashbots"
+            ],
+            "organizations": [
+                "Optimism Collective",
+                "Optimism Foundation",
+                "Unichain Validation Network",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "OP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of Unichain layer-2 network by Uniswap Labs represents technological advancement and expansion in decentralized finance, creating new revenue opportunities and improving user experience."
+    }
+}

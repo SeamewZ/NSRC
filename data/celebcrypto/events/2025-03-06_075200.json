@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Could Move $5K After White House Crypto Summit; ETH and SOL Volatility Likely: STS Digital",
+    "time": "2025-03-06T07:52:00",
+    "author": "Omkar Godbole",
+    "summary": "Options pricing on Deribit suggests BTC could swing by nearly $5K following the crypto summit, according to analysis by STS Digital",
+    "content": "If you plan to disconnect from trading screens this weekend, think twice. Analysis from digital assets trading firm STS Digital suggests that Friday's White House crypto summit could lead to heightened activity, with a $5K price swing in BTC.\n\nU.S. President Donald Trump, who promised a strategic crypto reserve in the lead-up to the November election, will host top players from the industry, including Coinbase, Chainlink and Exodus.\n\nThe latest rumor suggests that at the summit, Trump may announce the creation of a strategic bitcoin\nBTC\n$104,608.94\nreserve, shifting away from the Sunday disclosure that hinted at the basket of altcoins like XRP, Cardano\"s ADA and Solana\nSOL\n$160.77\nalong with BTC and ether\nETH\n$3,485.22\nas the core.\n\nThe pricing of BTC, ETH and SOL options on Deribit suggests traders are bracing for a volatile weekend in the aftermath of the summit.\n\n\"Options markets are showing the nerves (and illiquidity) going into the weekend and the raft of potentials. The Friday vs Saturday IV [implied volatility] Spread is nearly 25 vols wide across the board with Friday expiries missing the expected variance,\" Jeff Anderson, head of Asia at STS Digital, told CoinDesk.\n\nImplied volatility, a metric derived from the pricing of options, indicates how much traders expect the asset's price to fluctuate over a specific period. Options are derivative contracts that give the purchaser the right to buy or sell the underlying asset at a predetermined price at a later date.\n\nEarly Thursday, bitcoin options expiring Friday suggested an annualized implied volatility of 56%, while those expiring on Saturday traded at 80% volatility. The 24-point gap indicates expectations for increased price turbulence following Friday's summit.\n\nA similar pattern was seen in ether and solana options.\n\nThe table shows implied and forward volatilities for BTC, ETH, and SOL and straddle breakevens (expected price swings).\n\nForward volatility is calculated by comparing the implied volatility of options with different maturities and indicates the expected volatility over the period between the two specified expiration dates, in this case, Friday and Saturday.\n\nThe 105% BTC forward volatility translates to a 5.5% price movement expected between Friday 08:00 UTC and Saturday 08:00 UTC. (Deribit options expire at 08:00 UTC).\n\nIn other words, BTC could swing nearly $5K in either direction following the summit. ETH and SOL volatilities are pricing a move of $135 and $13, respectively.\n\nPer Anderson, expectations for large volatility often end up in disappointment.\n\n\"Quite often, large expected volatility like this is a disappointment in crypto as expectations > reality. That said, the breakevens do not feel large and options are by far the safest play for directional views in this environment,\" Anderson said, pointing to risks involved in taking directional bets in options expiring Mar. 14.\n\n\"We would expect option prices further out in tenor to come lower after the event as fears subside and volatility decays,\" Anderson noted.",
+    "url": "https://www.coindesk.com/markets/2025/03/06/bitcoin-could-move-usd5k-after-white-house-crypto-summit-eth-and-sol-volatility-likely-sts-digital",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jeff Anderson"
+            ],
+            "positions": [
+                "head of Asia at STS Digital"
+            ],
+            "companies": [
+                "STS Digital",
+                "Coinbase",
+                "Chainlink",
+                "Exodus",
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "ether",
+            "Solana",
+            "SOL",
+            "XRP",
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news indicates expectations for high volatility and potential price swings in either direction following the summit, with analysts noting that such expectations often result in disappointment and that options are the safest play for directional views."
+    }
+}

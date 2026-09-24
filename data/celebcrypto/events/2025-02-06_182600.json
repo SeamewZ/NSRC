@@ -1,0 +1,29 @@
+{
+    "title": "Ethereum’s Pectra Upgrade to Begin Testing in February",
+    "summary": "Should a pair of major tests go well, developers expect the upgrade to hit Ethereum's mainnet in April.",
+    "time": "2025-02-06T18:26:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum developers have officially set test dates for Pectra, the network's first upgrade in 11 months, putting it on track for a potential April release date.\n\nPectra will contain an array of improvements — with a special focus on wallets and validators — but it comes at a period of heightened scrutiny for Ethereum, which has recently faced pressure from its community to refocus and catch up with competitors.\n\nEthereum's core builders decided on Thursday during their bi-weekly \"All Core Developers\" call to begin testing Pectra on Feb. 26 on the Holesky testnet, with a follow-up test on the network's Sepolia testnet slated for Mar. 5.\n\nShould those tests succeed, the developers will reconvene on Mar. 6 to determine when to launch the upgrade officially. According to Tim Beiko, the protocol support lead at the Ethereum Foundation, developers expect the upgrade to hit mainnet in early April.\n\nPectra — a portmanteau representing two separate upgrades, Prague and Electra — includes eight major improvements to the second-largest blockchain. Among the most-anticipated is EIP-7702, which is supposed to improve the user experience of crypto wallets. The idea is part of a broader blockchain trend called account abstraction, which encompasses a series of features meant to make using wallets less clunky (for instance, by allowing users to pay gas fees in currencies other than ETH). In this case, addresses on Etheruem known as externally owned account (EOAs) — which includes most user-controlled crypto wallets — will be reconfigured to support smart contract functionality, opening the door for wallet developers to offer a range of quality-of-improvements to their users.\n\nAnother major Pectra feature, EIP-7251, will let validators increase the amount they can stake — from 32 to 2,048 ETH. The change is supposed to help large validators consolidate their node operations (currently, staking more than 32 ETH requires using multiple nodes). It will also help speed up the process of setting up a new node — today's system has led to weeks-long queues for validators to spin up new infrastructure.\n\nThe Ethereum community has been facing an identity crisis over the last few weeks. Its native token, ether\nETH\n$3,340.48\n, is underperforming against other cryptocurrencies, and competitor networks like Solana have drawn attention and talent from the Ethereum ecosystem — the first-ever programmable blockchain and still the most trafficked. Amid the controversy — much of it directed at the Etheruem Foundation, which coordinates chain upgrades and is currently undergoing a major leadership shuffle — developers are hoping that Pectra will help put the network on steadier footing.\n\nRead more: Ethereum Developers Finally Schedule ‘Pectra’ Upgrade",
+    "url": "https://www.coindesk.com/tech/2025/02/06/ethereum-s-pectra-upgrade-to-hit-testnets-in-february-and-march",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tim Beiko"
+            ],
+            "positions": [
+                "protocol support lead"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Pectra as containing major improvements focused on wallets and validators that are expected to help put Ethereum on steadier footing amid current challenges."
+    }
+}

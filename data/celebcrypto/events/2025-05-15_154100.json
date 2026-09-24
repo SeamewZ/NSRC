@@ -1,0 +1,46 @@
+{
+    "title": "U.S. Senate's Stablecoin Push Still Alive as Bill May Return to Floor: Sources",
+    "summary": "The legislation to regulate stablecoin issuers hit a big bump a week ago, but negotiations continued and the latest version may move again.",
+    "time": "2025-05-15T15:41:00",
+    "author": "Nikhilesh De",
+    "content": "After a suddenly rocky road for the U.S. legislative effort to regulate stablecoin issuers, the Senate is poised to move forward again with newly polished language in the bill that may see some procedural movement as soon as Thursday.\n\nThe Senate's stablecoin push veered off course a week ago when Democrats objected, primarily to President Donald Trump's personal crypto business interests, but the lawmakers continued negotiations and are said to be close to an agreement on updated text to the \"Guiding and Establishing National Innovation for U.S. Stablecoins\" (GENIUS) Act, according to people familiar with the talks.\n\nThe bill would establish a federal regulatory framework for cryptocurrencies pegged to the value of another asset, such as Tether's\nUSDT\n$1.0004\nand Circle's\nUSDC\n$1.0002\n, and there's a similar one grinding its way through the House of Representatives.\n\nA previous version of the bill advanced out of the Senate Banking Committee with bipartisan support earlier this year, giving the crypto sector confidence that it would probably meet with little resistance on the Senate floor. However, the text was updated and the Senate failed to advance the bill into its final stage, a process known as cloture in which 60 senators need to agree to move legislation to an open floor debate.\n\nEvery Democrat and two Republicans voted against it (a third Republican, Senate Majority Leader John Thune, originally supported the cloture motion but flipped his vote at the last minute in a procedural move to keep the legislation alive). That left the stablecoin bill in legislative limbo, but people familiar with the negotiation told CoinDesk that it may soon be back on track. The next vote would likely be a procedural action to buy lawmakers more time to negotiate specifics of the bill than a cloture motion, two of the people said.\n\nOne of the central points of contention for Democrats was President Trump's increasing forays into crypto, particularly after Abu Dhabi-based investment firm MGX announced it would close its purchase of a stake in global exchange Binance using USD1, a stablecoin issued by World Liberty Financial, which in turn is linked to Trump and his children.\n\nHowever, the bill's text, which hasn't yet been released publicly, is unlikely to include any provisions addressing this potential conflict of interest. Senator Gillibrand, the New York Democrat who has been working on crypto legislation for years, suggested at a Stand With Crypto event on Wednesday that the latest version still doesn't focus directly on Trump.\n\n\"This bill does have some ethics requirements that I think are really strong and very good, but it's not an ethics bill per se, and if we were dealing with all President Trump's ethics problems, it would be a very long and detailed bill,\" she said.\n\nShe said she's \"very optimistic we will have a vote soon enough.\"\n\nAt the same event, Senator Cynthia Lummis, the Republican chair of a digital assets subcommittee in the Senate and a frequent partner to Gillibrand on crypto regulation, argued against lawmakers being distracted by the \"shiny object that's out in the corner.\"\n\n\"I don't want the fact that President Trump's name comes up in relation to this to distract us from the important goal of having a clear regulatory structure in the United States that can onshore this industry that is being used to provide a new market for US Treasuries that helps the dollar stay the world reserve currency,\" Lummis said.\n\nBo Hines, Trump's executive director for the President's Council of Advisers on Digital Assets, said at CoinDesk's Consensus 2025 conference in Toronto on Wednesday that \"negotiations are ongoing\" when asked about a possible vote on Thursday. He indicated that he thinks the legislation will keep moving.\n\n\"We shall see,\" he said.",
+    "url": "https://www.coindesk.com/policy/2025/05/15/u-s-senate-s-stablecoin-push-still-alive-as-bill-may-return-to-floor-sources",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "John Thune",
+                "Gillibrand",
+                "Cynthia Lummis",
+                "Bo Hines"
+            ],
+            "positions": [
+                "President",
+                "Senate Majority Leader",
+                "Republican chair of a digital assets subcommittee",
+                "executive director for the President's Council of Advisers on Digital Assets"
+            ],
+            "companies": [
+                "Tether",
+                "Circle",
+                "MGX",
+                "Binance",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "Senate Banking Committee",
+                "House of Representatives",
+                "Stand With Crypto",
+                "CoinDesk",
+                "CoinDesk's Consensus 2025 conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates renewed momentum for stablecoin regulation with bipartisan negotiations continuing and senators expressing optimism about an upcoming vote, which suggests positive regulatory clarity for the crypto market."
+    }
+}

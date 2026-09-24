@@ -1,0 +1,36 @@
+{
+    "title": "DOJ Crypto Enforcement Memo Has No Bearing on Do Kwon’s Criminal Case, Prosecutors Say",
+    "summary": "Prosecutors told a New York judge on Thursday that they don’t plan to change the charges against Kwon in light of the memo.",
+    "time": "2025-04-10T17:05:00",
+    "author": "Cheyenne Ligon",
+    "content": "NEW YORK, NY — A recent U.S. Department of Justice staff memo dismantling the DOJ’s crypto unit and narrowing the scope of its crypto-related enforcement priorities will have no impact on the prosecution of Terraform Labs co-founder and former CEO Do Kwon, prosecutors said Thursday.\n\nThe memo, sent Monday evening by U.S. Deputy Attorney General Todd Blanche, informed staff that the DOJ would no longer be pursuing prosecution against crypto exchanges, mixing services, or offline wallets for the acts of their end users. Blanche told staff not to criminally charge any violations of federal securities or commodities laws, except under specific circumstances, in cases where the charges would “require the [DOJ] to litigate whether a digital asset is a ‘security’ or a ‘commodity’” and there is an adequate alternative criminal charge.\n\nDuring a hearing on Thursday, U.S. District Court Judge Paul Engelmayer of the Southern District of New York (SDNY) asked prosecutors whether Blanche’s memo would have any impact on the charges against Kwon, which include two counts of commodities fraud and two counts of securities fraud, as well as five other charges including wire fraud and conspiracy to defraud.\n\nThe prosecution told Engelmayer that they have “no plans” to change their charges against Kwon at this time.\n\nDavid Patton, Kwon’s lead attorney and a partner at Hecker Fink LLP, told Engelmayer that the contents of Blanche’s memo could — at least indirectly — lead to some pre-trial motions from the defense.\n\n“I do think it could potentially be the subject of some pre-trial motions,” Patton said. “It may or may not be directly related to the memo.” Patton specified that the questions of whether the cryptocurrencies involved in the case were securities or not could be relevant.\n\nIn a separate civil case brought by the U.S. Securities and Exchange Commission (SEC) against Kwon and Terraform Labs last year, in which Kwon and his company were found to be liable for fraud, another SDNY judge found that the tokens involved in the case were, in fact, securities.\n\nDuring Thursday’s hearing, Engelmayer told both the prosecution and the defense to inform him well in advance of the trial if they planned to request that he adhere to any of the rulings or findings made by the court in the SEC case.\n\nThe next batch of pre-trial motions are expected to hit the docket in July, and a third status conference has been scheduled for June 12 at 11 a.m. in New York.\n\nDue to scheduling challenges, the start date for Kwon’s criminal trial has been pushed back three weeks from January 26, 2026 to February 17, 2026.\n\nRead more: Do Kwon’s Criminal Trial Set for 2026 as Lawyers Deal With ‘Massive’ Trove of Evidence",
+    "url": "https://www.coindesk.com/policy/2025/04/10/doj-crypto-enforcement-memo-has-no-bearing-on-do-kwon-s-criminal-case-prosecutors-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Do Kwon",
+                "Todd Blanche",
+                "Paul Engelmayer",
+                "David Patton"
+            ],
+            "positions": [
+                "U.S. Deputy Attorney General",
+                "U.S. District Court Judge",
+                "lead attorney",
+                "partner"
+            ],
+            "companies": [
+                "Terraform Labs",
+                "Hecker Fink LLP"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "Southern District of New York",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes procedural developments in a specific criminal case with no clear indication of broader market impact or price direction."
+    }
+}

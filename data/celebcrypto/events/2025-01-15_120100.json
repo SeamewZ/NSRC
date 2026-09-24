@@ -1,0 +1,43 @@
+{
+    "title": "Crypto Daybook Americas: XRP, AI Coins Eye Big Moves While Bitcoin in Stasis Ahead of CPI",
+    "time": "2025-01-15T12:01:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 15, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe market is about to be hit with the first big U.S. economic event of 2025: December CPI data.\n\nWith hawkish Fed fears in the air and bitcoin strengthening its correlation with tech stocks, Wednesday's report becomes even more significant for the digital assets market. The stalled liquidity inflows through stablecoins have also raised question marks on the sustainability of price recovery from under $90K, and traders are preparing for potential downside volatility by adding short-dated puts.\n\nHere’s what experts are saying about the upcoming event:\n\nQCP Capital\n\n\"In crypto, cautious sentiment is evident in BTC options flows, with puts rolled below the key $90k support. Front-end vols and flies remain elevated, while the VIX stays high at 18.68 – suggesting volatility to persist through January.\"\n\nGeoffrey Chen, author of the Fidenza Macro blog\n\n\"The rising markets in November and the lifting of election uncertainty pushed business confidence higher, resulting in stronger data. The frontloading of goods imports and the raising of prices to get ahead of tariffs may have also contributed to higher PMIs. On top of that, oil has woken up and rallied over 10% from its December levels, reinforcing the stagflation regime. None of this bodes well for CPI tomorrow [Jan. 15] and the FOMC later this month. These risk events may surprise towards hawkish and stagflationary outcomes, putting more pressure on risk assets.”\n\nMarkus Thielen, founder of 10x Research\n\n\"Bitcoin continues to trade within a narrowing wedge, with several critical catalysts on the horizon. Expectations for a higher CPI number have risen, creating a scenario where a softer-than-expected inflation reading could trigger a bitcoin rally.\"\n\nFocus on XRP and AI\n\nXRP surged to $2.90 early today, matching the December high with technical analysis suggesting a continued run higher. Meanwhile, according to Wintermute, dip buyers have been active in AI coins, namely FAI, GRASS, VIRTUAL, Ai16z and TAO.\n\nThese coins, therefore, could chalk out bigger gains in case the CPI spurs renewed risk-taking in financial markets.\n\nBy Oliver Knight\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors, as of Jan. 14",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/15/crypto-daybook-americas-xrp-ai-coins-eye-big-moves-while-bitcoin-in-stasis-ahead-of-cpi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Geoffrey Chen",
+                "Markus Thielen",
+                "Oliver Knight"
+            ],
+            "positions": [
+                "author",
+                "founder"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Wintermute",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "FOMC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "FAI",
+            "GRASS",
+            "VIRTUAL",
+            "Ai16z",
+            "TAO",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes cautious market sentiment with traders preparing for potential downside volatility ahead of CPI data, while also noting potential for rallies if inflation data surprises positively."
+    }
+}

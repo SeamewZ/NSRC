@@ -1,0 +1,33 @@
+{
+    "title": "Thailand to Block OKX, Bybit and Others, Citing Lack of License",
+    "summary": "OKX, Bybit, 1000x, and XT are among the exchanges that will be blocked in Thailand by the end of June.",
+    "time": "2025-05-30T06:52:00",
+    "author": "Sam Reynolds",
+    "content": "Thai crypto traders will be blocked from accessing Bybit, CoinEx, OKX, 1000X, and XT.com, from June 28, according to a recent announcement from Thailand's Securities and Exchange Commission.\n\nThe Thai SEC has filed charges against these exchanges with the country's Economic Crime Suppression Division, citing violations of the Digital Asset Business Act, and has requested that the nation's Ministry of Digital Affairs block access to the platforms.\n\n\"Investors are urged to promptly secure their assets on these platforms before the impending access restrictions,\" the SEC advised.\n\nThe regulator further emphasized the importance of using licensed platforms to ensure investor protection and prevent inadvertent participation in criminal activities such as money laundering.\n\n\"As a firm, we are fully committed to engaging with governments and law enforcement agencies to prevent illicit activities such as money laundering,\" an OKX spokesperson said in a statement to CoinDesk.\n\n\"We believe that constructive engagement with regulators is essential to the sustainable development of the digital asset industry.\"\n\nThai authorities announced their intention to block access to unlicensed exchanges in April 2024.",
+    "url": "https://www.coindesk.com/policy/2025/05/30/thailand-to-block-okx-bybit-and-others-citing-lack-of-license",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "OKX",
+                "Bybit",
+                "1000x",
+                "XT",
+                "CoinEx",
+                "1000X",
+                "XT.com"
+            ],
+            "organizations": [
+                "Thailand's Securities and Exchange Commission",
+                "Thai SEC",
+                "Economic Crime Suppression Division",
+                "Ministry of Digital Affairs",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a regulatory crackdown where Thailand is blocking multiple cryptocurrency exchanges for lacking proper licenses, which typically creates negative market sentiment and reduces trading access."
+    }
+}

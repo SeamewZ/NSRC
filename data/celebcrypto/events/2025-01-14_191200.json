@@ -1,0 +1,44 @@
+{
+    "title": "Spot Bitcoin ETFs Exceeded Expectations in 2024, but Just Wait for 2025",
+    "time": "2025-01-14T19:12:00",
+    "author": "Helene Braun",
+    "summary": "Gary Gensler has described crypto as the Wild West and one observer said markets are likely to see just that under new leadership in D.C.",
+    "content": "To say that the spot bitcoin exchange traded funds (ETFs) exceeded expectations in their first year on the market is an understatement at best. Instead, it might be more accurate to say that they’ve shocked the industry to its core.\n\n“Just how big was the first year for Bitcoin ETFs?” Bloomberg Intelligence ETF analyst James Seyffart wrote on X. “MASSIVE.”\n\nBlackRock’s iShares Bitcoin Trust (IBIT) had the most successful launch in the history of U.S. ETFs, accumulating more than $52.3 billion worth of assets in its first year (a combination of large inflows and the sharp rise in the price of bitcoin), according to Seyffart.\n\nThree of the other spot bitcoin ETFs, the Fidelity Wise Origin Bitcoin Fund (FBTC), the ARK 21Shares Bitcoin ETF (ARKB) and the Bitwise Bitcoin ETF (BITB) — were also among the top 20 U.S. ETF launches of all time.\n\nThe last twelve months in crypto were “momentous,” said Matt Horne, head of digital asset strategists at Fidelity Investments. Indeed, FBTC is the fund management giant's largest exchange-traded product at nearly $19 billion in assets under management, according to the company website.\n\n“While we were optimistic for the launch of the bitcoin ETPs, demand exceeded our expectations across all client segments including retail investors, advisors, institutions and beyond,” Horne said. “Given these products have seen tremendous asset growth and now have a year of performance, we expect to see continued adoption across both the advisor and institutional client segments.”\n\nWhile some hedge funds or pension funds allocated modest money into the spot ETFs, the majority of inflows came from nonprofessional investors. That, however, could change.\n\n“The record flows occurred despite the foot dragging by some wire houses, financial advisors and some U.S. financial firms prohibiting employees from even owning bitcoin or altcoins in their personal portfolios,” Mark Connors, founder and chief investment strategist at Risk Dimensions, told CoinDesk.\n\n“With more support from the RIA/Advisors and wire houses likely and the tailwind of price, 2025s flows will easily surpass 2024s,\" he added.\n\nAccording to Nate Geraci, president of the ETF Store, 2025 could be the “Year of Crypto ETFs.” He predicts that over 50 more crypto ETFs will be approved under new leadership at the U.S. Securities and Exchange Commission, including spot Solana and XRP funds, as well as options-based and equities-based products.\n\n“Gary Gensler always referred to crypto as the “Wild West,” Geraci wrote in a post on The ETF Educator. “Under the Trump administration, I think that is exactly what we’ll get from an ETF perspective.”",
+    "url": "https://www.coindesk.com/markets/2025/01/14/spot-bitcoin-etfs-exceeded-expectations-in-2024-but-just-wait-for-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "James Seyffart",
+                "Matt Horne",
+                "Mark Connors",
+                "Nate Geraci"
+            ],
+            "positions": [
+                "Bloomberg Intelligence ETF analyst",
+                "head of digital asset strategists at Fidelity Investments",
+                "founder and chief investment strategist at Risk Dimensions",
+                "president of the ETF Store"
+            ],
+            "companies": [
+                "BlackRock",
+                "Fidelity Investments",
+                "ARK 21Shares",
+                "Bitwise",
+                "Risk Dimensions",
+                "ETF Store"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Solana",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes spot bitcoin ETFs as exceeding expectations with massive inflows, predicts continued adoption and even greater flows in 2025, and anticipates approval of many more crypto ETFs under new SEC leadership."
+    }
+}

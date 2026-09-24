@@ -1,0 +1,22 @@
+{
+    "title": "Bitcoin Mining Difficulty Is Set to Reach Record High Amid Surging Hashrate",
+    "summary": "Bitcoin’s difficulty is projected to rise over 4% to a record 126.95T as hashrate nears an all-time high despite low transaction fees.",
+    "time": "2025-05-30T13:14:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin\nBTC\n$101,723.18\nmining difficulty is on track to reach a new all-time high sometime around midnight UTC in a sign of increased participation by miners that makes the blockchain more secure.\n\nThe adjustment is likely to finalize within the next 100 blocks, with projections showing the measure will rise about 4% to 126.95 trillion (T), eclipsing the current 123 T record. Difficulty was 109 T at the start of the year, according to Coinwarz.\n\nThe increase reflects growing long-term confidence in bitcoin’s value, even as on-chain activity and transaction fees remain low.\n\nDifficulty is adjusted every 2,016 blocks, and is driven by the network hashrate, which measures the total computational power dedicated to securing the network. The hashrate's seven-day moving average is now 918 exahashes per second (EH/s), having risen from 840 (EH/s) over the past two weeks. With previous peaks at 925 EH/s, any further increase would mark a new record high in hashrate.\n\nDespite the increase in mining activity, transaction fees remain exceptionally low. A high-priority transaction currently requires only 2 satoshis per virtual byte (sat/vB), equating to roughly $0.30. The higher the fee, the faster a transaction will be confirmed, as miners prioritize transactions that pay more.\n\nThese figures suggest that while transaction demand on the Bitcoin network is subdued, mining power continues to scale to new heights, highlighting a divergence between usage and infrastructure growth.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/bitcoin-mining-difficulty-is-set-to-reach-record-high-amid-surging-hashrate",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that the record high mining difficulty and hashrate reflect growing long-term confidence in bitcoin's value, indicating positive market sentiment."
+    }
+}

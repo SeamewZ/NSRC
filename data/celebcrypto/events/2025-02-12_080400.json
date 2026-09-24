@@ -1,0 +1,26 @@
+{
+    "title": "Bitcoin's Coinbase Premium Indicator Shows Overseas BTC Buyers Taking the Lead Ahead of CPI Release",
+    "time": "2025-02-12T08:04:00",
+    "author": "Omkar Godbole",
+    "summary": "BTC buyers over Binance seem to be leading the BTC price action ahead of the CPI release.",
+    "content": "Bitcoin's\nBTC\n$103,930.55\nCoinbase premium indicator, which measures the spread between BTC's dollar-denominated price on the Coinbase exchange and tether-denominated price on Binance, has flipped negative for the first time since the Feb. 3 crash, according to data source Coinglass.\n\nIt's a sign that traders over the Nasdaq-listed exchange have turned cautious ahead of Wednesday's U.S. CPI release, and their offshore counterparts have led the price recovery from overnight lows near $94,900 to $96,000.\n\nHistorically, bull runs have been marked by prices trading at a premium on Coinbase, indicating strong leadership from U.S. investors. The premium soared to two-month highs in early November as BTC rose into its the-then uncharted territory above $70,000.",
+    "url": "https://www.coindesk.com/markets/2025/02/12/bitcoin-s-coinbase-premium-indicator-shows-overseas-btc-buyers-taking-the-lead-ahead-of-cpi-release",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Binance",
+                "Nasdaq"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news shows mixed signals with U.S. traders turning cautious while offshore buyers lead a price recovery, creating uncertainty ahead of the CPI release."
+    }
+}

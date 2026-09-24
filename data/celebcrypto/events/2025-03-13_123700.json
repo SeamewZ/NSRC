@@ -1,0 +1,30 @@
+{
+    "title": "Solana Proposal, Which Could Cut SOL Inflation by 80%, Gains Limited Validator Support",
+    "time": "2025-03-13T12:37:00",
+    "author": "Omkar Godbole",
+    "summary": "If approved, the proposal could lead to a sharp reduction in the SOL inflation rate, potentially boosting the token's value.",
+    "content": "The Solana proposal, called SIMD-0228, which could cause a drastic drop in SOL's inflation rate, had the support of 37.8% of the network validators at press time.\n\nPer Dune Analytics, 746 validators, equating to nearly 58% of the total active validators of 1334 have voted on the proposal. 37.8% voted in favor of the proposal, 18.5% were against, and 1.2% abstained from voting. Overall, the proposal seemed headed for a failure as of writing. Voting ends at Epoch 755 scheduled to be reached in about 11 hours.\n\nThe proposal bats for a market-based token emission mechanism to ensure the network doesn't overpay for security and is expected to have positive effects on Solana-based decentralized finance and boost liquid onchain SOL markets.\n\n\"Since 2023, the Solana network has transformed significantly. Back then, on-chain volumes were often below $100 million daily, reflecting limited activity. Today, the ecosystem consistently achieves billions in daily on-chain volume, marking a dramatic shift. Given this progress, we believe now is the opportune moment to reduce the inflation rate in line with SIMD-228,\" Logan Jastremski, co-founder and managing partner at frictionless Capital, said on X.\n\nPer some estimates, the proposal could see SOL's inflation rate slide from 4.5% to around 0.87%, an 80% reduction.\n\nTagus Capital expects that to have a positive impact on SOL's price.\n\n\"If approved, it would significantly reduce staking rewards and fresh SOL supply, potentially boosting its value. However, lower rewards could force smaller validators out, raising concerns about network decentralization,\" the firm said in the newsletter Thursday.\n\n\"However, lower rewards could force smaller validators out, raising concerns about network decentralization,\" the firm added.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/solana-proposal-which-could-cut-sol-inflation-by-80-gains-limited-validator-support",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Logan Jastremski"
+            ],
+            "positions": [
+                "co-founder and managing partner"
+            ],
+            "companies": [
+                "frictionless Capital",
+                "Tagus Capital"
+            ],
+            "organizations": [
+                "Dune Analytics"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal is expected to significantly reduce SOL inflation and boost the token's value according to multiple sources in the news content."
+    }
+}

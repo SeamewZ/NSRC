@@ -1,0 +1,38 @@
+{
+    "title": "Citi, Switzerland’s SDX Join Forces to Tokenize $75B Pre-IPO Shares Market",
+    "time": "2025-05-06T10:45:00",
+    "author": "Ian Allison",
+    "summary": "Citi will act as a custodian and issuer agent for tokenized assets on SDX’s digital Central Securities Depository (CSD) platform.",
+    "content": "Banking giant Citi and SIX Digital Exchange (SDX), the digital assets-focused arm of Switzerland's main stock exchange, are teaming up to tokenize non-publicly traded shares in a move to streamline a $75 billion market that's littered with PDFs and paper documents.\n\nCiti will act as a custodian and issuer agent for tokenized versions of late stage, pre-IPO equities on SDX’s regulated blockchain-based Central Securities Depository (CSD) platform, the companies said on Tuesday.\n\nCiti said the platform, which is expected to go live in the third quarter, will exclude U.S. investors, but is otherwise global with an initial focus on Switzerland, Singapore and other parts of Asia.\n\nPrivate shares in high-growth, venture-backed companies are a large and appealing subset of an alternative asset class that’s valued in the trillions of dollars.\n\nFirms with valuations of a billion dollars and more are remaining private for longer as market conditions dictate delays in IPOs for many. That means the companies are looking to secondary markets to help investors and employees get liquidity. But there’s an access problem, and the transactions themselves are manual and cumbersome.\n\n“The most notable characteristic of private markets is that there is no infrastructure, at least nothing scalable,” Nisha Surendran, digital asset emerging solutions lead at Citi Ventures, said in an interview.\n\nInvestors are typically faced with a daunting set of PDFs and paper documents to get through, and the settlement of a transaction can take from five to eight weeks — a process that has to be repeated when the investor wants to exit the position, Surendran explained.\n\n“These investments are also hampered by the fact they don't flow into investors’ wealth statements like other public securities do. Rather, they end up encapsulated in PDFs or paper documents or on other platforms,” she said.\n\nWhile recent years have seen many traditional financial institutions looking at the tokenization of real-world assets, the very early days of this trend saw lots of attention focused on blockchain-enabled private markets, but with little actually delivered.\n\nSDX CEO David Newns said many hopeful Web3 projects, which saw blockchain rails as a way to streamline outdated processes and enable easy access and distribution for private markets, came up against regulatory hurdles.\n\n“There's a very mature digital-securities regulatory environment in Switzerland where we've been doing this now since 2021,” Newns said in an interview. “That isn't the case elsewhere. The technology may have looked like it could address all the challenges, but problems around distribution, holding the instrument, and what that instrument represents legally from an investment perspective were not really solved.”\n\nSDX’s blockchain-based securities depository is built on R3’s Corda distributed ledger technology. Investors get access through the dematerialized securities legal construct in Switzerland, via their broker and custodian, Newns said.\n\n“It means effectively, they turn up in your bank account in the same way that a normal security does,” he said. “It doesn't require that you as an investor do anything special to access these investment instruments.”\n\nThe announcement also marks Citi becoming a custodian on SDX, a move that reflects the bank's strategy to provide clients with access to new digital asset markets globally including to private market assets, said Nadine Teychenne, Citi’s global head of digital assets, investor services and issuer services.\n\n“This is part of a joined-up project across multiple businesses at Citi,” Teychenne said in an interview.\n\nDigital asset banking group Sygnum and Singapore-based financial institution SBI Digital Markets will help with access to the pre-IPO equities that Citi will bring onto the SDX platform, according to a press release.\n\nRead more: Citigroup Unveils Token Services for Institutional Clients",
+    "url": "https://www.coindesk.com/business/2025/05/06/citi-switzerland-s-sdx-join-forces-to-tokenize-usd75b-pre-ipo-shares-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nisha Surendran",
+                "David Newns",
+                "Nadine Teychenne"
+            ],
+            "positions": [
+                "digital asset emerging solutions lead at Citi Ventures",
+                "CEO",
+                "global head of digital assets, investor services and issuer services"
+            ],
+            "companies": [
+                "Citi",
+                "SIX Digital Exchange (SDX)",
+                "Citi Ventures",
+                "R3",
+                "Sygnum",
+                "SBI Digital Markets",
+                "Citigroup"
+            ],
+            "organizations": [
+                "Switzerland's main stock exchange",
+                "digital Central Securities Depository (CSD)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership between major financial institutions Citi and SDX to tokenize a $75 billion pre-IPO market represents significant institutional adoption of blockchain technology for real-world assets."
+    }
+}

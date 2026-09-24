@@ -1,0 +1,37 @@
+{
+    "title": "Correlation Between Bitcoin and U.S. Stocks Reemerges: Van Straten",
+    "time": "2025-01-07T16:08:00",
+    "author": "James Van Straten",
+    "summary": "The renewed correlation poses a short-term risk for bitcoin prices, according to an analyst.",
+    "content": "Since the November 5 election of Donald Trump to the U.S. presidency, bitcoin\nBTC\n$104,608.94\nis up around 47%, sharply outperforming the S&P 500's 4% advance.\n\nThe incoming president, of course, has made clear his friendliness towards bitcoin and crypto. Also worth consideration is the Republican sweep of the Senate and House of Representatives, where laws that might affect crypto will ultimately be passed.\n\nAndre Dragosch, Head of Research at Bitwise in Europe, spoke exclusively with CoinDesk about other factors affecting the divergence between bitcoin and stocks.\n\n\"My view on bitcoin versus S&P 500 is that the stock market has been negatively affected by the Fed's hawkish rate cut in December,\" said Dragosch. \"The Fed revised its planned rate cuts for 2025 to 2 rate cuts only, less than previously telegraphed and also less than previously anticipated by traditional financial markets\".\n\nAt the same time, the DXY index, which measures the value of the U.S. dollar against a basket of the major currencies, is up 5%, putting further pressure on risk assets. That might typically include a hurt on bitcoin, but Dragosch explains that it held up relatively well thanks to other factors, the ongoing bitcoin supply deficit on exchanges being among them. \"Bitcoin exchange balances have continued to drift lower despite profit-taking,\" he continued.\n\nOf late though, bitcoin and the S&P 500 have again begun moving closely together, their correlation hitting 0.88 (with 0 being no correlation and 1 begin absolute correlation) over the most recent 20-day moving average, TradingView data shows.\n\n\"While on-chain factors will likely provide a significant tailwind at least until mid-2025, the deterioration in the macro picture could pose short-term risks for bitcoin as well, especially on account of the still relatively high correlation with the S&P 500,\" Dragosch concluded.",
+    "url": "https://www.coindesk.com/markets/2025/01/07/correlation-between-bitcoin-and-u-s-stocks-reemerges",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Andre Dragosch"
+            ],
+            "positions": [
+                "Head of Research at Bitwise in Europe",
+                "incoming president"
+            ],
+            "companies": [
+                "Bitwise",
+                "CoinDesk",
+                "TradingView"
+            ],
+            "organizations": [
+                "Republican",
+                "Senate",
+                "House of Representatives",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While the article mentions positive factors like Trump's crypto friendliness and bitcoin's strong performance, it also highlights short-term risks from renewed correlation with stocks and deteriorating macro conditions, creating a mixed outlook."
+    }
+}

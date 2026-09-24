@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Mining Profitability Fell in April as Network Hashrate Rose: Jefferies",
+    "summary": "U.S.-listed miners also produced fewer bitcoin last month than in March.",
+    "time": "2025-05-21T12:53:00",
+    "author": "Will Canny",
+    "content": "Bitcoin\nBTC\n$101,731.44\nmining profitability fell in April as the network hashrate rose, investment bank Jefferies said in a research report Tuesday.\n\n\"BTC mining profitability decreased by 6.6% in April, driven by a 6.7% increase in the network hashrate,\" analysts Jonathan Petersen and Jan Aygul wrote.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nU.S. publicly listed mining companies produced 3,277 bitcoin in April, a drop from the 3,534 coins that were mined in March, the report noted, and these firms accounted for 24.1% of the total network last month, versus 24.8% in the month previous.\n\nMARA Holdings (MARA) mined the most bitcoin, with 705 tokens, followed by CleanSpark (CLSK), which produced 633 BTC, Jefferies said.\n\nMARA's installed hashrate remained the highest at 57.3 exahashes per second (EH/s), with CleanSpark second with 42.4 EH/s, the bank noted.\n\nIREN (IREN) had the highest implied uptime at around 97%, followed by HIVE Digital Technologies (HIVE) at about 96%, the report added.\n\nRead more: Bitcoin Network Hashrate Rose Slightly in First Two Weeks of May: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-mining-profitability-fell-in-april-as-network-hashrate-rose-jefferies",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jonathan Petersen",
+                "Jan Aygul"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "MARA Holdings",
+                "CleanSpark",
+                "IREN",
+                "HIVE Digital Technologies"
+            ],
+            "organizations": [
+                "Jefferies",
+                "JPMorgan"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports decreased Bitcoin mining profitability and reduced production by U.S.-listed miners, indicating negative market conditions for mining operations."
+    }
+}

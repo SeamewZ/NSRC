@@ -1,0 +1,33 @@
+{
+    "title": "Volatility Shares Files for 3 XRP ETFs",
+    "time": "2025-03-08T16:36:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The filings add to a growing list of firms seeking to launch XRP-focused ETFs in the U.S.",
+    "content": "Volatility Shares, an asset manager known for launching innovative exchange-traded funds (ETFs), has filed for three new products centered on XRP. These include a spot XRP ETF, a 2x leveraged XRP ETF and an inverse -1x XRP ETF.\n\nThe spot XRP ETF is designed to track the price of the cryptocurrency directly, while the 2x XRP ETF aims to amplify daily price movements by a factor of two. The -1x XRP ETF offers investors a way to bet against XRP’s price, reflecting the reverse of its daily performance.\n\nThis latest move comes as expectations rise for regulatory approval of a spot XRP ETF. Traders on Polymarket are currently weighing a 77% chance that a spot XRP ETF will receive approval this year. However, the perceived odds of approval before July 31 are lower, at 35%.\n\nVolatility Shares’ filings see it join various other asset managers looking to launch XRP ETFs in the United States, including Grayscale, WisdomTree, Bitwise, 21Shares, CoinShares and Canary Capital.\n\nLast month, the U.S. Securities and Exchange Commission (SEC) kicked off its clock for making a decision on one XRP ETF filing by acknowledging a 19b-4 filing by the New York Stock Exchange and Grayscale. The world’s first spot XRP ETF, however, is set to soon debut in Brazil after being approved by the country’s securities regulator.",
+    "url": "https://www.coindesk.com/markets/2025/03/08/volatility-shares-files-for-3-xrp-etfs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Volatility Shares",
+                "Grayscale",
+                "WisdomTree",
+                "Bitwise",
+                "21Shares",
+                "CoinShares",
+                "Canary Capital"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "New York Stock Exchange",
+                "Polymarket"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple asset managers filing for XRP ETFs with high market expectations for approval (77% chance this year), indicating growing institutional interest and regulatory progress."
+    }
+}

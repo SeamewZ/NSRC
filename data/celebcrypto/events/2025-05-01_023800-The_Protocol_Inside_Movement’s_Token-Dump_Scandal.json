@@ -1,0 +1,47 @@
+{
+    "title": "The Protocol: Inside Movement’s Token-Dump Scandal",
+    "summary": "Also: ETH Gas Limit Ceiling Proposal, Bitcoin Data Limits Debate, and Base Becomes a Stage 1 Rollup",
+    "time": "2025-04-30T18:38:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, the Ethereum protocol reporter on CoinDesk’s Tech team.\n\nIn this issue:\n\nMOVEMENT’S TOKEN DUMP SCANDAL: Movement, a buzzy crypto startup supported by Trump’s World Liberty Financial, was rumored to be closing a $100M series B round. Instead, following a CoinDesk investigation, the network is now at the center of an insider-dealing scandal that has exposed a seedy corner of crypto deal-making. Movement Labs is investigating whether it was misled into signing a market-making agreement that granted an obscure middleman control over 66 million MOVE tokens, triggering a $38 million selloff after the token’s debut. Internal contracts show Rentech, a firm with no digital footprint, appearing on both sides of the deal, once as a Web3Port subsidiary and once as an agent of Movement Foundation, raising questions about self-dealing. Foundation officials initially flagged the Rentech deal as “possibly the worst agreement” they had ever seen; experts warned it created incentives to pump MOVE’s price before dumping tokens onto retail investors. The incident has exposed a rift within the Movement's top leadership: executives, legal counsel and advisors are all under scrutiny for their roles in facilitating the arrangement despite internal objections. — Sam Kessler Read more.\n\nETH PROPOSAL AIMS TO RAISE GAS LIMIT CEILING: Ethereum Foundation researcher Dankrad Feist filed EIP-9698, a plan to let the blockchain’s gas limit grow on autopilot over the next four years. The EIP introduces a deterministic “exponential” schedule baked into client defaults, which nudges the gas limit upward by a tiny preset amount every epoch. These predictable gas limit increases allow current validators to keep their machines up to speed, cutting the need for sudden upgrades. If approved and implemented, the gas limit ceiling would climb from 36 million units to roughly 3.6 billion, allowing an estimated 6,000 simple transfers per block and over 2,000 transactions per second (TPS). Ethereum's current TPS is around 15-20 TPS. — Shaurya Malwa Read more.\n\nBITCOIN BLOCKCHAIN DATA DEBATES REIGNITES AS DEVELOPERS WEIGH DATA LIMITS: Bitcoin developers are again at odds over how the world’s oldest and largest blockchain should handle storing information on-chain, with a proposal to relax long-standing limits on the size of data held sparking fierce debate reminiscent of 2023's battles over Ordinals. The blockchain's OP_RETURN feature allows people to attach a small piece of extra data to a transaction. It is often used for things like notes, timestamps or digital records. The proposed change would remove the 80-byte cap on such data, a limit originally designed to discourage spam and preserve the blockchain’s financial integrity. Supporters argue the current limit is pointless because users are already bypassing it by using Taproot transactions, to hide data inside parts of the transaction meant for cryptographic signatures. Bitcoin Core developer Luke Dashjr called the proposal “utter insanity” and warned that loosening data restrictions would accelerate what he sees as the degradation of Bitcoin’s financial-first purpose. — Sam Reynolds Read more.\n\nBASE REACHES STAGE 1 ROLLUP STATUS: Base, the popular layer-2 network from cryptocurrency exchange Coinbase (COIN), is now a “stage 1” rollup, said the company, setting up its path towards full decentralization. The transition to a “stage 1” rollup comes as other layer-2s have also reached that milestone, making these networks less reliant on centralized entities. The move means that Base will now have a security council, a network of ten “independent entities, which we chose from all around the globe,” said Tom Vieira, the head of product at Base, in an interview with CoinDesk. — Margaux Nijkerk Read more.",
+    "url": "https://www.coindesk.com/tech/2025/04/30/the-protocol-inside-movement-s-token-dump-scandal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Dankrad Feist",
+                "Sam Kessler",
+                "Shaurya Malwa",
+                "Sam Reynolds",
+                "Luke Dashjr",
+                "Tom Vieira"
+            ],
+            "positions": [
+                "Ethereum protocol reporter",
+                "Ethereum Foundation researcher",
+                "Bitcoin Core developer",
+                "head of product"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Movement Labs",
+                "World Liberty Financial",
+                "Rentech",
+                "Web3Port",
+                "Movement Foundation",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Base"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Bitcoin",
+            "MOVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $38 million token dump scandal involving insider dealing and market manipulation of MOVE tokens, which creates negative sentiment and exposes seedy crypto deal-making practices."
+    }
+}

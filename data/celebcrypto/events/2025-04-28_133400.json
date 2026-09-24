@@ -1,0 +1,38 @@
+{
+    "title": "Prediction Markets Traders Bet Big on Easy Liberal Win as Canadians Head to the Polls",
+    "summary": "Political betting platforms show Mark Carney leading with a 78% chance of becoming Canada's next Prime Minister, while Pierre Poilievre has a 22% chance.",
+    "time": "2025-04-28T13:34:00",
+    "author": "Sam Reynolds",
+    "content": "Political bettors on Polymarket and other platforms are paying attention to Canada as the nation heads to the polls.\n\nAs the country's 45th election comes to a close, a contract asking bettors to predict who will be Canada's next Prime Minister gives the Liberal Party's Mark Carney a 78% chance, and the Conservatives' Pierre Poilievre a 22% shot.\n\nPolitical bettors are slightly more skeptical of Carney's chances of winning than the polls, but both are pointing in the same direction. A poll aggregator from public broadcaster CBC puts Carney's chances at 89%.\n\nMyriad Markets, another prediction market, is giving Carney similar odds to Polymarket.\n\nFanDuel, a licensed betting platform open only to residents of Ontario, Canada, initially gave the Conservatives a sharp, contrarian lead of 70%, according to a report from the National Post. Still, odds have fallen in line with prediction markets, and it now gives the Liberals a roughly 80% chance of winning.\n\nUnlike the U.S. election, there isn't a crypto angle up north with leaders' campaigns focused on the trade war and inflation.\n\nA growing narrative in certain corners of the internet is that Polymarket is prone to manipulation and its numbers aren't reliable, criticisms that echo what was said in the last weeks of the U.S. election when the site gave Donald Trump a commanding lead as polls showed a tight race.\n\nCritics say Poilievre's chances are being suppressed and do not reflect the political sentiment of the populace.\n\nHowever, manipulating prediction markets would be expensive, and there's no credible evidence that this is happening even as Polymarket is banned in Canada's largest province after a settlement with its securities regulator.\n\nData portal Polymarket Analytics shows that the Canadian election contract leads the platform in open interest, which is the total value of active, unsettled bets and a good measure of market engagement.\n\nMarket data also shows that position holding is quite distributed, with the largest holder of the Poilivere—No side of the contracting holding 6% of all shares and the largest holder of the Carney—Yes side holding 5%.\n\nOne bettor, who is betting big on Carney with a six-figure position, who spoke to CoinDesk, said their motives are non-partisan, and said that the quality of Canadian polling makes him confident that the Liberals will win.\n\n\"Poilievre needs a 7-point polling error to win and I think the probability of that is closer to 7% than his current market price of 23c,\" trader Tenadome told CoinDesk via an X DM. \"The pool of Poilievre bettors seems to largely be very dumb money that believes in things like China is rigging the polls.\"\n\nCurrently, the trader with the largest winnings on the contract is \"ball-sack\" with a profit of $124,890, thanks to bets on Carney. On the other side of the trade is \"biden4prez,\" who lost just over $98,000 – the most out of any trader – betting on Poilievre and against Carney.\n\nRead more: Previewing the Canadian Election's Crypto Angle",
+    "url": "https://www.coindesk.com/markets/2025/04/28/prediction-markets-traders-bet-big-on-easy-liberal-win-as-canadians-head-to-the-polls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Carney",
+                "Pierre Poilievre",
+                "Donald Trump",
+                "Tenadome",
+                "ball-sack",
+                "biden4prez"
+            ],
+            "positions": [
+                "Prime Minister"
+            ],
+            "companies": [
+                "Polymarket",
+                "Myriad Markets",
+                "FanDuel",
+                "CoinDesk",
+                "National Post"
+            ],
+            "organizations": [
+                "Liberal Party",
+                "Conservatives",
+                "CBC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article explicitly states there is no crypto angle to this Canadian election and focuses entirely on political betting markets rather than cryptocurrency markets."
+    }
+}

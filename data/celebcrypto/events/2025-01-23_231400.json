@@ -1,0 +1,35 @@
+{
+    "title": "SEC Withdraws Controversial Crypto Financial Reporting Bulletin",
+    "summary": "The SEC published a new staff accounting bulletin rescinding SAB 121, which set certain rules for financial firms wanting to hold crypto.",
+    "time": "2025-01-23T23:14:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Securities and Exchange Commission published a new Staff Accounting Bulletin Thursday withdrawing its controversial SAB 121.\n\nSAB 121 directed banks and other public companies that they had to mark any customers' crypto assets on their own balance sheets. SAB 122 \"rescinds the interpretive guidance\" and instead directs firms to use Financial Accounting Standards Board rules or International Accounting Standard provisions.\n\n\"The staff reminds entities that they should continue to consider existing requirements to provide disclosures that allow investors to understand an entity’s obligation to safeguard crypto-assets held for others,\" Thursday's notice said.\n\nThe guidance it rescinds, SAB 121, was supported by former SEC Chair Gary Gensler, who said it would protect investors in the event of bankruptcies.\n\n\"What we have found actually in bankruptcy court, time and again, many times now, that indeed, bankruptcy courts have said that crypto assets are not bankruptcy remote,\" he told Reuters in 2023.\n\nHowever, SAB 121 drew ire from much of the crypto industry, and was the subject of a Congressional Review Act resolution passed by both the House and Senate, though that resolution was vetoed by former President Joe Biden.\n\nSEC Commissioner Hester Peirce, who was recently named the head of a new crypto task force, has long opposed the guidance, saying after its adoption in 2022 that the guidance did not account for the SEC not issuing any guidance about how securities laws apply to crypto and that an accounting bulletin might not be the right vehicle for the type of guidance contained in SAB 121.\n\nPeirce announced the withdrawal on Thursday.\n\nBye, bye SAB 121! It's not been fun: https://t.co/cIwUc0isUE | Staff Accounting Bulletin No. 122\n\nUPDATE (Jan. 24, 2024, 00:00 UTC): Adds additional detail.\nUPDATE (Jan. 24, 13:27 UTC): Changes headline to say measure financial reporting, not tax accounting.",
+    "url": "https://www.coindesk.com/policy/2025/01/23/sec-withdraws-controversial-crypto-tax-accounting-bulletin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Joe Biden",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "former SEC Chair",
+                "former President",
+                "SEC Commissioner",
+                "head of a new crypto task force"
+            ],
+            "companies": [],
+            "organizations": [
+                "SEC",
+                "Financial Accounting Standards Board",
+                "House",
+                "Senate",
+                "Congressional Review Act",
+                "Reuters"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's withdrawal of controversial SAB 121, which was opposed by the crypto industry and required banks to hold customer crypto on their balance sheets, removes regulatory burden and is viewed positively by market participants."
+    }
+}

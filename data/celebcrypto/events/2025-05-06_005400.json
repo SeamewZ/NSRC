@@ -1,0 +1,45 @@
+{
+    "title": "SEC Further Delays Litecoin ETF, Requests Public Comments",
+    "summary": "Experts predict Litecoin to have the best chances of approval by the end of this year.",
+    "time": "2025-05-06T00:54:00",
+    "author": "Helene Braun",
+    "content": "The U.S. Securities and Exchange Commission (SEC) has further delayed making a decision on Canary Capital’s proposal for a spot\nLTC\n$87.32\nexchange-traded fund (ETF).\n\nThis comes after the agency delayed several other applications for spot crypto ETFs last week, including XRP, Hedera, and Dogecoin but hadn’t done so for the Canary Litecoin ETF, sparking hopes that the regulator might have different plans for this fund.\n\nBut on Monday, the official deadline, the regulator announced the delay and asked for public comments regarding the proposal’s compliance with regulatory requirements.\n\n\"In particular, the Commission seeks comment on whether the proposal to list and trade Shares of the Trust, which would hold LTC, is designed to prevent fraudulent and manipulative acts and practices or raises any new or novel concerns not previously contemplated by the Commission,\" the agency wrote in a filing.\n\nCanary Capital, which was founded by former Valkyrie Funds co-founder Steven McClurg last year, had submitted initial paperwork for the fund in October.\n\nLTC, which stands at a $6.6 billion market cap, is the native cryptocurrency of Litecoin, an open-source blockchain project whose code is copied from Bitcoin’s\nBTC\n$102,205.43\n.\n\nETF experts at Bloomberg Intelligence had predicted that the token would be the next to be wrapped up in an ETF amid chatter that Canary Capital had received comments back from the SEC regarding its application back in January.\n\nIssuers have yet to receive the first major decision on crypto ETFs made by recently appointed SEC chair Paul Atkins, who took the position in April.\n\nAtkins' replacement of former Chair Gary Gensler has been characterized as a “huge variable” by Bloomberg senior ETF analyst Eric Balchunas.",
+    "url": "https://www.coindesk.com/policy/2025/05/05/sec-further-delays-litecoin-etf-requests-public-comments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Steven McClurg",
+                "Paul Atkins",
+                "Gary Gensler",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "former Valkyrie Funds co-founder",
+                "SEC chair",
+                "former Chair",
+                "Bloomberg senior ETF analyst"
+            ],
+            "companies": [
+                "Canary Capital",
+                "Valkyrie Funds",
+                "Bloomberg Intelligence"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Litecoin",
+            "LTC",
+            "XRP",
+            "Hedera",
+            "Dogecoin",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The SEC delaying approval of the Litecoin ETF and requesting public comments represents regulatory uncertainty and obstacles for cryptocurrency adoption."
+    }
+}

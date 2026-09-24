@@ -1,0 +1,31 @@
+{
+    "title": "Wobble in Bitcoin, Ether, XRP Prices Cause Crypto Bulls and Bears to See $450M Liquidations Each",
+    "time": "2025-04-03T05:47:00",
+    "author": "Shaurya Malwa",
+    "summary": "Bitcoin and other cryptocurrencies experienced sharp declines after initial gains, reflecting market uncertainty.",
+    "content": "Higher-than-usual market volatility affected bulls and bears alike as crypto futures racked up $450 million in liquidations in the past 24 hours as U.S. tariffs went into play.\n\nPresident Donald Trump officially levied a 25% tariff on auto imports and a minimum 10% tariff on all exporters to the U.S. Additional duties were imposed on the nation’s biggest trading partners in Asia and the European Union, with China facing a 50% hike on several goods and a 26% fee on some Indian goods.\n\nTurmoil in markets ensued with gains from the past three days wiped out in U.S. indices and cryptocurrencies. Asian markets tumbled early Thursday and U.S. 10-year Treasury yields slumped to the lowest level in more than five months. Gold set yet another record high.\n\nBitcoin inched above $87,000 as investors hoped for leaner long-term effects of the economic changes, with signs of a risk-on environment emerging at the start of the week. Majors ether\nETH\n$3,514.58\nand\nXRP\n$2.2747\ntraded above $1,900 and $2.15, respectively, with technical analysis suggesting higher moves in the near term.\n\nBut the euphoria was short-lived as crypto majors dipped as much as 5% from Wednesday’s highs before gradually stabilizing.\n\nIn Asian morning hours on Thursday, bitcoin traded just above $83,500 while ether traded slightly over $1,800 — effectively reversing all gains from Tuesday after a sudden drop following the Tokyo open.\n\nThat caused over $230 million in liquidations on both bullish and bearish bets, data shows, in an unusual move. BTC-tracked futures registered over $172 million in long and short liquidations alone, followed by ETH futures at $120 million and smaller altcoins at $50 million.\n\nLiquidation refers to when an exchange forcefully closes a trader’s leveraged position due to a partial or total loss of the trader’s initial margin. It happens when a trader is unable to meet the margin requirements for a leveraged position (fails to have sufficient funds to keep the trade open).\n\nSingle-sided large liquidations can signal the local top or bottom of a steep price move, which may allow traders to position themselves accordingly. However, Thursday’s liquidations can be considered a sign of market uncertainty.",
+    "url": "https://www.coindesk.com/markets/2025/04/03/wobble-in-bitcoin-ether-xrp-prices-cause-crypto-bulls-and-bears-to-see-usd230m-liquidations-each",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes sharp price declines, $450 million in liquidations, wiped-out gains, and market uncertainty following tariff implementations."
+    }
+}

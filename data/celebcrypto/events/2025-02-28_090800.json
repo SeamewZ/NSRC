@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin Set for Worst Month Since June 2022, Worst Week Since November That Year",
+    "time": "2025-02-28T09:08:00",
+    "author": "James Van Straten",
+    "summary": "This year's average purchase price is around $97,880, leaving investors facing an almost 20% unrealized loss at current prices.",
+    "content": "Bitcoin (BTC) is on track for its worst month in three years, falling 22% as President Donald Trump's tariffs on major U.S. trading partners raise concerns of faster inflation, reduced chance of interest-rate cuts and lowered appetite for risky investments.\n\nThe last time the largest cryptocurrency fell as much as June 2022, when it fell by more than a third. This week alone, BTC has dropped almost 18%, the steepest slide since the week ended Nov. 13 of the same year.\n\nThe slide leaves investors who've bought bitcoin this year severely underwater. The average purchase price is since the start of January $97,880, and BTC dropped below $80,000 earlier Friday, leaving average buyer some 18% worse off.\n\nHistorically, this isn't entirely unusual. Investors often face some unrealized losses at the start of the year. It happens when the price of bitcoin falls below the cost basis of the recipients before recovering later in the year.\n\nOn-chain data indicates that realized losses escalated as the price fell. Over the past three days, about $1 billion in realized losses have been recorded daily — the most since August’s yen carry trade unwind, when bitcoin fell to $49,000.\n\nAdditionally, a whopping $1.1 trillion has been wiped off the crypto market cap, taking the total to $2.59 trillion, according to TradingView metric, Total.",
+    "url": "https://www.coindesk.com/markets/2025/02/28/bitcoin-set-for-worst-month-since-june-2022-worst-week-since-november-that-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin's worst monthly and weekly performance in years with significant price drops, investor losses, and massive market cap declines."
+    }
+}

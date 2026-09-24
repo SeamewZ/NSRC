@@ -1,0 +1,36 @@
+{
+    "title": "U.S. Prosecutors Charge Canadian Man With $65M Hacks of Indexed Finance, KyberSwap",
+    "summary": "Andean “Andy” Medjedovic, 22, has been on the run from authorities since 2021.",
+    "time": "2025-02-04T03:12:00",
+    "author": "Cheyenne Ligon",
+    "content": "U.S. prosecutors have charged a 22-year-old Canadian man with stealing a combined $65 million in crypto through two separate decentralized finance (DeFi) hacks — the 2021 Indexed Finance exploit and the 2023 KyberSwap hack.\n\nIn a newly-unsealed indictment filed in the Eastern District of New York (EDNY), prosecutors say Andean “Andy” Medjedovic was the mastermind behind both exploits. Though Medjedovic’s alleged role in the KyberSwap exploit was previously unknown, he has publicly admitted to being the Indexed Finance attacker, wiping $16 million from the DeFi platform when he was still a teenager.\n\nRead more: After Stealing $16M, This Teen Hacker Seems Intent on Testing ‘Code is Law’ in the Courts\n\nMedjedovic did little to hide his identity as the Indexed Finance hacker because he professed to believe he wasn’t actually doing anything illegal. Another DeFi hacker, Avraham “Avi” Eisenberg, took a similar “code is law” position after his 2022 Mango Markets exploit, claiming that siphoning $110 million from the decentralized exchange was fair game. A New York jury disagreed, finding Eisenberg guilty of fraud and market manipulation. He will be sentenced later this year, and faces up to 20 years in prison.\n\nMedjedovic has been on the run since December 2021, when a Canadian court issued a warrant for his arrest. In 2023, he told a DeFi Llama reporter that it was “exhausting” living as a fugitive, saying that he had been bouncing around through Europe, South America and an unnamed island nation while on the lam. A spokesperson for the Eastern District of New York (EDNY) told CoinDesk that Medjedovic remains “at large” and is not believed to be in the U.S.\n\nEight months after telling the same reporter that he was now a whitehat hacker, prosecutors say Medjedovic stole about $50 million from KyberSwap. According to the indictment, Medjedovic planned the KyberSwap hack for months before acting, writing to himself “Find time to Strike!” and creating a “POST-EXPLOITATION” plan for himself.\n\nIn one file, Medjedovic allegedly mused on his past mistakes, writing “Going On the run / Yes / Chance of getting caught<Payoff for not getting caught / (NA) / Risk is typically underpriced in modern world.”\n\nMedjedovic has been charged with one count of wire fraud, one count of unauthorized damage to a protected computer, one count of attempted Hobbs Act extortion, one count of money laundering conspiracy and one count of money laundering. He faces a maximum penalty of 90 years in prison.",
+    "url": "https://www.coindesk.com/policy/2025/02/03/u-s-prosecutors-charge-canadian-man-with-usd65m-hacks-of-indexed-finance-kyberswap",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andean \"Andy\" Medjedovic",
+                "Avraham \"Avi\" Eisenberg"
+            ],
+            "positions": [
+                "spokesperson",
+                "reporter"
+            ],
+            "companies": [
+                "Indexed Finance",
+                "KyberSwap",
+                "Mango Markets",
+                "CoinDesk",
+                "DeFi Llama"
+            ],
+            "organizations": [
+                "U.S. prosecutors",
+                "Eastern District of New York (EDNY)",
+                "Canadian court",
+                "New York jury"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes major security breaches and theft of $65 million from DeFi platforms, which typically creates negative sentiment and concerns about security in the cryptocurrency market."
+    }
+}

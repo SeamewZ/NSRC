@@ -1,0 +1,32 @@
+{
+    "title": "U.S. Bitcoin ETFs Post Year's 2nd-Biggest Outflows as Basis Trade Drops Below 5%",
+    "time": "2025-02-25T08:42:00",
+    "author": "James Van Straten",
+    "summary": "On Monday, U.S. spot-listed bitcoin ETF outflows rose to $516 million as bitcoin tumbled toward $90,000.",
+    "content": "U.S. spot-listed bitcoin\nBTC\n$103,749.01\nexchange-traded funds (ETFs) experienced the second-biggest outflows of the year on Monday, dropping $516.4 million, Farside data shows.\n\nThe withdrawals, the ninth net outflow in 10 days, reflect a growing discomfort with the largest cryptocurrency, which has traded in a narrow price range between $94,000 and $100,000 for most of this month.\n\nOn Tuesday, bitcoin broke out of its three-month channel, falling below $90,000 and sliding to as low as $88,250.\n\nAccording to Velo data, the bitcoin CME annualized basis — the difference between the spot price and futures — has dropped to 4%. This is the lowest since the ETFs started trading in January 2024. This is also known as the cash-and-carry trade, which is a market-neutral strategy that seeks to profit from the mispricing between the two markets.\n\nThe strategy involves taking a long position in the spot market and a short position in the futures market. Velo data shows a one-month futures forward contract. Investors collect a premium between the spread of the spot and futures pricing until the futures contract expiry date closes.\n\nAt the current level, the basis trade is less than the so-called risk-free rate, the yield on the U.S. 10-year Treasury of 5%. The difference may persuade investors to close their positions in favor of the greater return. That could see further outflows from the ETFs. Because this is a neutral strategy, investors will also have to close their short position in the futures market.\n\nArthur Hayes, the co-founder of Bitmex, alludes to the basis trade unravelling in a post on X.\n\n\"Lots of IBIT holders are hedge funds that went long ETF short CME future to earn a yield greater than where they fund, short term US treasuries,\" he wrote. \"If that basis drops as bitcoin falls, then these funds will sell IBIT and buy back CME futures. These funds are in profit, and given basis is close to UST yields they will unwind during US hours and realise their profit. $70,000 I see you mofo!\"",
+    "url": "https://www.coindesk.com/markets/2025/02/25/u-s-bitcoin-etfs-post-year-s-2nd-biggest-outflows-as-basis-trade-drops-below-5",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arthur Hayes"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Bitmex",
+                "Farside",
+                "Velo"
+            ],
+            "organizations": [
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant ETF outflows, bitcoin price declines below $90,000, and the unwinding of basis trades which could lead to further selling pressure."
+    }
+}

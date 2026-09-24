@@ -1,0 +1,36 @@
+{
+    "title": "Warlock Labs Raises $8M to Shake Up On-Chain Order Flow",
+    "time": "2025-03-27T13:04:00",
+    "author": "Danny Nelson",
+    "summary": "The company caught checks from Polychain, Reciprocal and others.",
+    "content": "Market-making on-chain trades is mysterious and important — and lucrative, too. The problem, according to pseudonymous trader Grug, is that crypto protocols with valuable order flow are leaving money on the table.\n\nGrug's company Warlock Labs just raised $8 million in venture funding for what he believes is the solution: a proprietary trading firm that uses on-chain data to prove it is processing order flow responsibly.\n\nThe two-year old company is set to enter the complex blockchain pipes that facilitate trading on Ethereum. Here, an army of savvy operators offer kickbacks to protocols in exchange for the chance to process their order flow, which they can squeeze for tens of millions of dollars a year.\n\nBut there's no guarantee those players aren't giving protocols a raw deal, says Grug. The world of maximal extractable value (MEV) creates myriad opportunities to manipulate yet-to-settle trades in ways detrimental to the protocol and its traders.\n\n\"We're building out order flow tooling and a builder with some zero-knowledge guarantees where we can essentially prove after the fact that none of the order flow that gets submitted to us, whether it's via users or searchers, has ever been tampered with,\" Grug said.\n\nWarlock Labs will start with a focus on on-chain activity but Grug says he sees opportunities to scale the business to market make for CEXes too. He pointed to the recent controversy within Binance over a market maker that took illicit profits from MOVE tokens — at traders' expense.\n\n\"We're going to live in a future where order flow is alpha, and proving you didn't abuse it is as valuable as actually receiving it,\" said Grug. \"If you can prove that you will never tamper with order flow, it's more and more likely that more and more people will submit their order flow to you.\"\n\nHe called Warlock Labs a \"venture scale business\" whose main competitor was Wintermute, the market making giant. Venture companies are paying attention: Polychain Capital led the round with participation from Greenfield Capital, Reciprocal ventures, Symbolic Capital, Ambush Capital and TRGC.",
+    "url": "https://www.coindesk.com/business/2025/03/27/warlock-labs-raises-usd8m-to-shake-up-on-chain-order-flow",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Grug"
+            ],
+            "positions": [
+                "pseudonymous trader"
+            ],
+            "companies": [
+                "Warlock Labs",
+                "Polychain Capital",
+                "Greenfield Capital",
+                "Reciprocal Ventures",
+                "Symbolic Capital",
+                "Ambush Capital",
+                "TRGC",
+                "Wintermute",
+                "Binance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "MOVE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $8M funding round for Warlock Labs to improve on-chain trading transparency and prevent MEV manipulation, which indicates market confidence and positive development in cryptocurrency infrastructure."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Facebook-Developed MoveVM Gets Closer to Ethereum Deployment With Public Mainnet Beta Launch",
+    "summary": "The mainnet launches with over $233 million worth of BTC, ETH and native asset MOVE in liquidity raised through Movement's Cornucopia program",
+    "time": "2025-03-10T15:00:00",
+    "author": "Jamie Crawley",
+    "content": "Blockchain firm Movement's public mainnet is set to launch in beta, continuing the progress toward deploying Movement Virtual Machine (MoveVM) on Ethereum.\n\nThe mainnet will roll out Monday with over $233 million worth of BTC, ETH, and native assets, MOVE, in liquidity raised through Movement's Cornucopia program.\n\nRead more: Movement Labs Unveils Developer Mainnet Ahead of February's Public Launch\n\nMovement's mainnet will allow smart contract deployment and allows anyone to build on and use the network for the first time, the Movement Network Foundation announced via email on Monday.\n\nMove was developed by Facebook as part of its plans to develop its own digital currency, which was abandoned in early 2022.\n\nThe technology was subsequently used to create layer-1 networks Sui and Aptos, as well as Movement Labs extending the programming language to develop an Ethereum layer 2.\n\nRead More: Ethereum Developers Postpone Pectra Upgrade Following Buggy Tests",
+    "url": "https://www.coindesk.com/tech/2025/03/10/facebook-developed-movevm-gets-closer-to-ethereum-deployment-with-public-mainnet-beta-launch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Facebook",
+                "Movement Labs"
+            ],
+            "organizations": [
+                "Movement Network Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH",
+            "MOVE",
+            "Ethereum",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major mainnet launch with over $233 million in liquidity and new deployment capabilities, indicating market expansion and confidence."
+    }
+}

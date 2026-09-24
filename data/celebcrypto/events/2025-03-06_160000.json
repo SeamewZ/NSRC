@@ -1,0 +1,43 @@
+{
+    "title": "Crypto for Advisors: Crypto Investment Misconceptions",
+    "time": "2025-03-06T16:00:00",
+    "author": "Christopher Jensen",
+    "summary": "Despite having been around for over a decade, cryptocurrencies still remain largely misunderstood. In this article, we dispel a few of the biggest crypto myths.",
+    "content": "In today’s issue, Christopher Jensen from Franklin Templeton cuts through some of the noise and misconceptions about crypto investing in today’s myth-busting article.\n\nThen, Pablo Larguia from SenseiNode answers questions about staking rewards in Ask an Expert.\n\n–Sarah Morton\n\nYou’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.\n\nCryptocurrencies have been around for over a decade but remain largely misunderstood by the investment community. In this article, we dispel a few of the biggest myths about crypto to help you assess the opportunities and risks.\n\nMyth #1: “Investing in crypto is complicated and confusing.”\n\nThe prospect of dealing with digital wallets, private keys and unregulated crypto exchanges has led many traditional investors to believe that investing in crypto is beyond them. However, the advent of crypto exchange-traded products (ETPs) in 2024 presents investors with a new avenue to access digital assets in a familiar investment vehicle.\n\nWith crypto ETPs, investing in digital assets such as bitcoin has become as simple as buying shares of a stock. Investors can purchase bitcoin and ether ETPs through their regular brokerage accounts, just like any other security. This eliminates the need to set up and manage cryptocurrency wallets on an exchange, making crypto accessible to a wider audience. Moreover, these ETPs are regulated financial products, providing an additional layer of security for investors. While there is certainly a lot of truth behind the old crypto adage, “Not your keys, not your crypto,” the popularity of crypto ETPs proves that self-custody doesn’t have to be the only way to gain crypto exposure.\n\nMyth #2: “It’s too late to invest in bitcoin – I missed the run-up.”\n\nWhile bitcoin has seen substantial price appreciation, the idea that it’s “too late” to invest is misguided. In reality, bitcoin remains in the early stages of institutional and mainstream adoption, with significant potential for future growth.\n\nAt approximately $1.7 trillion, bitcoin’s market capitalization is less than 9% of gold’s (~$19.4 trillion) and an even smaller fraction of the stock, bond and real estate markets. If bitcoin continues gaining traction as a store of value, medium of exchange or reserve asset, its market cap could expand significantly.\n\nBitcoin’s hard-capped supply of 21 million makes it inherently scarce — 94% of all BTC has already been mined, and as much as 20% may be permanently lost. Meanwhile, bitcoin’s issuance rate, otherwise known as its “block rewards,” halves roughly every four years, meaning new supply is continually shrinking while demand grows, particularly from institutional investors.\n\nThe launch of BTC exchange-traded products just over a year ago has shattered records, with cumulative inflows exceeding $35 billion — the fastest-growing ETP launch in history. These products provide institutions and retail investors alike with regulated, seamless access to bitcoin, accelerating mainstream adoption.\n\nThe recent presidential change in the U.S. has ushered in a markedly more favorable stance on digital assets. Policies that once hindered adoption are being reevaluated, opening the door for broader institutional participation. On March 2, the administration announced it was moving forward on the creation of a crypto strategic reserve that would include five major coins — bitcoin\nBTC\n$107,661.53\n, ether\nETH\n$3,518.71\n, Ripple (XRP), Solana\nSOL\n$176.58\nand\nADA\n$0.5791\n. Additionally, 18 U.S. states are actively reviewing Bitcoin reserve adoption, while a total of 33 states are considering legislation to establish their own Bitcoin reserves. This underscores Bitcoin’s growing recognition as a legitimate financial asset.\n\nAnother major shift is the recent repeal of SAB 121, which removes a key regulatory hurdle to crypto adoption by paving the way for banks to more easily custody bitcoin and digital assets. This could unlock significant institutional demand and further integrate bitcoin into the financial system.\n\nBitcoin is still in the early innings of adoption. Its small market size relative to traditional assets, supply constraints, institutional momentum and evolving regulatory landscape all suggest that the opportunity to invest is far from over. While past price appreciation does not guarantee future returns, the narrative that bitcoin’s best days are behind it ignores the broader macroeconomic and institutional trends at play.\n\nTo read the full article on Franklin Templeton’s website, click here.\n\nAll investments involve risks, including possible loss of principal.\n\nBlockchain and cryptocurrency investments are subject to various risks, including inability to develop digital asset applications or to capitalize on those applications, theft, loss, or destruction of cryptographic keys, the possibility that digital asset technologies may never be fully implemented, cybersecurity risk, conflicting intellectual property claims, and inconsistent and changing regulations. Speculative trading in bitcoins and other forms of cryptocurrencies, many of which have exhibited extreme price volatility, carries significant risk; an investor can lose the entire amount of their investment. Blockchain technology is a new and relatively untested technology and may never be implemented to a scale that provides identifiable benefits. If a cryptocurrency is deemed a security, it may be deemed to violate federal securities laws. There may be a limited or no secondary market for cryptocurrencies.\n\n-Christopher Jensen, head of research, Franklin Templeton Digital Assets\n\nQ. Why are staking rewards often seen as a type of investment?\n\nA: Many perceive staking as passive income since returns are often expressed using Annual Percentage Yield (APY). However, its source of income isn’t from interest; instead, it's generated by revenue earned for performing critical network security tasks.\n\nQ: Why is staking a security function, not an investment?\n\nA: The U.K. Treasury recently clarified that staking is not an investment scheme but instead a core security and cryptographic service essential for validating transactions on a Proof-of-Stake (PoS) blockchain. Staking is a security function in that the participants secure decentralized networks and are rewarded for doing it effectively. Protocols like Ethereum define validator rewards through publicly available mechanisms, such as EIP-2917.\n\nWhile staking rewards can be predictable, they fluctuate based on validator performance and network conditions. Recognizing staking as the backbone of blockchain security ensures a policy framework that aligns with its true role.\n\n-Pablo Larguia, founder and CEO, SenseiNode",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/05/crypto-for-advisors-crypto-investment-misconceptions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Christopher Jensen",
+                "Pablo Larguia",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "head of research, Franklin Templeton Digital Assets",
+                "founder and CEO"
+            ],
+            "companies": [
+                "Franklin Templeton",
+                "SenseiNode",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.K. Treasury",
+                "U.S. administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Ripple",
+            "XRP",
+            "Solana",
+            "SOL",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights positive developments including institutional adoption, favorable regulatory changes, record ETP inflows, and Bitcoin's early adoption stage with significant growth potential."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Miners With HPC Exposure Underperformed in First Two Weeks of April: JPMorgan",
+    "summary": "MARA Holdings and CleanSpark outperformed BTC, while miners with exposure to high-performance computing, such as Bitdeer, TeraWulf, IREN and Riot Platforms underperformed.",
+    "time": "2025-04-16T15:09:00",
+    "author": "Will Canny",
+    "content": "The performance of bitcoin (BTC) mining stocks was mixed in the first two weeks of April, with pure play operators outperforming those with exposure to high-performance computing (HPC), JPMorgan (JPM) said in a research report Wednesday.\n\nOnly MARA Holdings (MARA) and CleanSpark (CLSK) outperformed the largest cryptocurrency during the period, while miners with exposure to HPC, which is used in applications including AI, such as Bitdeer (BTDR), TeraWulf (WULF), IREN (IREN) and Riot Platforms (RIOT) underperformed.\n\nThe bank noted that March was a good month for the U.S.-listed miners. They added 15 exahashes per second of capacity, and mined more tokens. The first two weeks of April were not as positive.\n\n\"Network hashrate growth outpaced U.S. operator expansion, and average bitcoin price declined over the first half of April, which has pressured mining economics,\" analysts Reginald Smith and Charles Pearce wrote.\n\nThe bank estimated that U.S.-listed miners are currently trading around 1.2 times their proportional share of the four-year block reward opportunity, which is the lowest level in more than 2 years.\n\nMiners earned about $41,500 in daily block reward revenue per EH/s in the first two weeks of the month, a 12% decline from March, the report said.\n\nThe network hashrate has risen 85 EH/s month-to-date to an average of 900 EH/s, the bank noted. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nThe total market cap of the 13 U.S.-listed bitcoin miners that the bank tracks fell 2% to $16.9 billion in April.\n\nRead more: Bitcoin Mining Profitability Down 7.4% in March as Prices, Transaction Fees Fell: Jefferies",
+    "url": "https://www.coindesk.com/markets/2025/04/16/bitcoin-miners-with-hpc-exposure-underperformed-in-first-two-weeks-of-april-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "MARA Holdings",
+                "CleanSpark",
+                "Bitdeer",
+                "TeraWulf",
+                "IREN",
+                "Riot Platforms",
+                "JPMorgan",
+                "Jefferies"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports declining bitcoin prices, pressured mining economics, falling mining profitability, and underperformance of mining stocks in the first two weeks of April."
+    }
+}

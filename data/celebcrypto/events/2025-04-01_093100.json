@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Put Option Trade With $1M Premium Highlights Concern Over Declining BTC Price",
+    "time": "2025-04-01T09:31:00",
+    "author": "Omkar Godbole",
+    "summary": "Puts trade pricier than calls out to the May-end expiry reflecting concerns of a price drop.",
+    "content": "A large bitcoin (BTC) options bet crossed the tape on Deribit as the first quarter drew to a close on Monday, revealing bearish sentiment from the trader behind the move.\n\nThe so-called block trade carried a premium of more than $1 million for 1,180 contracts of the $70,000 put option expiring April 25, according to data tracked by Amberdata.\n\nA put option gives the purchaser the right, but not the obligation, to sell the underlying asset at a predetermined price at a later date. A put buyer is essentially bearish on the market, in this case, anticipating a price drop to below $70,000 from the current $84,000.\n\nA block trade is a large, privately negotiated transaction executed outside the public market, typically by institutions, to avoid affecting the going market rate.\n\nOther notable trades included a put ratio spread, featuring long positions in the $75,000 strike put and double short positions in the $70,000 put; and a risk reversal, involving a long position in the $90,000 call and a short position in the $70,000 put, as Pelion Capital founder Tony Stewart noted.\n\nThe bearish flow in the $70,000 put follows purchases of put options expiring April 4 in the $78,000 to $85,000 range last week and increased demand for the $76,000 put option expiring on April 25.\n\nBroadly speaking, BTC puts are trading at a premium to calls, exhibiting downside sentiment out to the May-end expiry, as evident from the negative values in risk reversals.\n\nThe bias for puts offering downside protection likely reflects investor anxiety surrounding President Donald Trump's expected reciprocal tariffs announcement on Wednesday. An aggressive move could weigh on risk assets, including cryptocurrencies.",
+    "url": "https://www.coindesk.com/markets/2025/04/01/bitcoin-put-option-trade-with-usd1m-premium-highlights-concern-over-declining-btc-price",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tony Stewart"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "Pelion Capital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes large put option trades with $1M premiums, bearish sentiment from traders, puts trading at a premium to calls, and investor anxiety about potential tariffs weighing on risk assets."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "The SEC Can Learn From the IRS in Making Regulation Simpler for Crypto",
+    "summary": "The IRS has relied on voluntary disclosure programs to bring taxpayers into compliance rather than imposing punitive actions upfront. A similar model should be applied to crypto regulation as well, says Miles Fuller, Director of Government Solutions, TaxBit.",
+    "time": "2025-05-02T17:17:00",
+    "author": "Miles Fuller",
+    "content": "In February, the Department of Government Efficiency (DOGE) began soliciting public input pertaining to the U.S. Securities and Exchange Commission (SEC) — a move suggesting reform at the agency is imminent.\n\nSince then, the SEC, in line with President Trump, has taken a far less adversarial stance towards the cryptocurrency industry, as evidenced by the appointment of crypto-friendly personnel and the abandonment of numerous lawsuits and investigations into crypto companies. But DOGE has the potential to implement further change, and interest in the SEC signals growing pressure towards regulators to reassess their approach to digital assets.\n\nIn response to the request for public input, Paul Grewal, Chief Legal Officer at Coinbase — one of the companies no longer facing a lawsuit from the SEC — proposed a policy requiring the SEC to reimburse legal costs for companies that successfully challenge enforcement efforts. The motivation for his suggestion is obvious, but the impact of DOGE on crypto will likely be a bit broader.\n\nAs Joel Khalili summarized in Wired, the SEC’s recent retreat from lawsuits represents “an early signal of the agency’s intent to work arm in arm with the industry to come up with a set of rules to govern crypto transactions and products.”\n\nAs things currently stand, the SEC’s lack of proactive guidance makes it difficult for businesses to plan long-term compliance strategies, and their enforcement actions often come after years of operation, leaving companies and their investors exposed to unforeseen legal risks. Going forward, this will likely change.\n\nRelying on enforcement instead of proactive guidance has forced companies like Coinbase, Ripple, and Celsius to spend millions in litigation to clarify their regulatory standing. But in one case against Debt Box, the SEC admitted to inaccuracies in its statements, leading a court to order the SEC to cover the company’s legal expenses — a preview of Coinbase’s suggestion. The ruling cast doubt on the agency’s credibility and highlighted concerns over its enforcement practices.\n\nIn the future, expect to see regulatory agencies – including the SEC – under increased pressure to align with the U.S. Treasury’s approach, which prioritizes clear compliance pathways over reactive enforcement. The Treasury’s digital asset guidelines are far more structured and address key areas like tax reporting, compliance and AML measures. Standardized definitions of what constitutes a security in the crypto space are essential for helping companies structure their products appropriately from the outset.\n\nIn addition to taking notes from the Treasury, the SEC can also look to the IRS for inspiration. A “safe harbor” provision for early-stage projects could encourage innovation while ensuring compliance over time, similar to proposals previously discussed by SEC Commissioner Hester Peirce. The IRS already embraced this approach, issuing temporary transitional relief for crypto taxpayers in January 2025.\n\nThe IRS historically relied on voluntary disclosure programs to bring taxpayers into compliance rather than imposing punitive actions upfront. A similar model should be applied to crypto regulation as well.\n\nWhile some people assume regulation inherently hinders innovation, the opposite can be true. This is because clearly defined guardrails will entice more risk-averse entities to enter the ecosystem and help it grow. A light regulatory touch requires robust backend enforcement and can lead to unnecessary friction between regulators and businesses.\n\nAltogether, better coordination between the SEC, Treasury, and IRS would help prevent regulatory conflicts and streamline compliance obligations for digital asset companies and stakeholders. The Treasury’s digital asset guidelines already offer a strong foundation for this type of cross-agency alignment. The current regulatory uncertainty and the SEC’s reactive enforcement approach stifles growth, while a clearer, more coordinated framework would benefit the entire ecosystem.\n\nBetween the DOGE’s request for input, the new administration's broader commitment to digital asset reform, and Coinbase’s proposal, the stage is set for reforms aiming to make regulatory oversight more predictable. While we are in the early stages of the new administration, changes are already occurring at a staggering pace. It’s clear that DOGE’s influence on SEC policies will make an impact – especially with public discourse on these issues further strengthening the case for clearer guidelines rather than regulation by enforcement.\n\nOf course, it’s worth noting that DOGE’s plans for the SEC will likely extend beyond crypto, just as efforts to regulate the industry extend beyond the SEC. Ultimately, it would be beneficial for the new administration, in conjunction with Congress, to create a legislative framework for the industry, so enterprises and individual taxpayers alike understand what constitutes a commodity, security, and digital asset. In other words, we must learn to walk before we run. In the meantime, the SEC should adopt a strategy that can foster growth while maintaining investor protections.",
+    "url": "https://www.coindesk.com/opinion/2025/05/02/the-sec-can-learn-from-the-irs-in-making-regulation-simpler-for-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Miles Fuller",
+                "Paul Grewal",
+                "Joel Khalili",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "Director of Government Solutions, TaxBit",
+                "Chief Legal Officer at Coinbase",
+                "SEC Commissioner"
+            ],
+            "companies": [
+                "Coinbase",
+                "Ripple",
+                "Celsius",
+                "Debt Box",
+                "TaxBit"
+            ],
+            "organizations": [
+                "SEC",
+                "IRS",
+                "DOGE",
+                "U.S. Treasury",
+                "Department of Government Efficiency",
+                "Wired",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes regulatory reforms that would reduce enforcement actions, provide clearer guidelines, and foster industry growth through better coordination between agencies."
+    }
+}

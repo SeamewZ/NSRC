@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Mining Economics Expected to Be Stable, Profitable in 2025, Canaccord Says",
+    "time": "2025-01-22T09:32:00",
+    "author": "Will Canny",
+    "summary": "Mining fundamentals are strong with the cost to mine around $27,000 per bitcoin for larger participants, the report said.",
+    "content": "Bitcoin\nBTC\n$104,524.89\nmining is likely to remain profitable this year with the economics of production holding steady, Canaccord Genuity said in a research report Tuesday.\n\nThe broker said mining fundamentals are strong, \"with cost-to-mine sitting somewhere in the ~$26,000-$28,000 range per bitcoin for most leading players.\"\n\nThe world's largest cryptocurrency was trading around $105,000 at publication time.\n\nManagement and investor attention is also increasingly being drawn toward alternative uses for these companies' sizable power supplies, especially artificial intelligence (AI) data center hosting.\n\nBitcoin miner Core Scientific (CORZ) signed a 12-year contract with AI hyperscaler CoreWeave in June last year. The deal was viewed as a game changer for the sector.\n\n\"Early demand forecasts point toward AI dwarfing the traditional cloud hosting market over time,\" analysts led by Joseph Vafi wrote.\n\nMore co-hosting deals are expected to be announced early this year, with potential news from Galaxy Digital (GLXY) and Applied Digital (APLD), the report said.\n\nMany of the larger publicly traded miners are using their access to capital to upgrade their fleets following last April's reward halving event, and this is strengthening their competitive position and share of the network hashrate, Canaccord said.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain and is a proxy for competition in the industry and mining difficulty.\n\nRead more: Bitcoin Miners Have Started 2025 on a Strong Footing, JPMorgan Says",
+    "url": "https://www.coindesk.com/markets/2025/01/22/bitcoin-mining-economics-expected-to-be-stable-profitable-in-2025-canaccord-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joseph Vafi"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Canaccord Genuity",
+                "Core Scientific",
+                "CoreWeave",
+                "Galaxy Digital",
+                "Applied Digital",
+                "JPMorgan"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The report indicates strong mining fundamentals with profitability expected to remain stable, mining costs favorable compared to current prices, and positive developments in alternative revenue streams like AI hosting."
+    }
+}

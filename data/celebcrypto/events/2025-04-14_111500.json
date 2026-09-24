@@ -1,0 +1,56 @@
+{
+    "title": "Crypto Daybook Americas: A Bizarre $5.4B Loss Has Left Investors Devastated",
+    "time": "2025-04-14T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for April 14, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe new week is off to a silent start as bitcoin looks to establish a foothold above the trendline, characterizing the downtrend line from record highs, with $86K emerging as resistance over the weekend. FLR, TRX and SOL beat the broader market, while the RWA protocol Mantra's OM token tanked during the Asian hours.\n\nMantra blamed the 90% crash to 70 cents on forced liquidations on crypto exchanges, while blockchain sleuth Spot On Chain pointed to a significant movement of coins to crypto exchange OKX three days before the crash. Meanwhile, OKX's CEO Star Xu called the OM token collapse a major scandal for the entire crypto industry, stressing that all on-chain data is publicly available for scrutiny across major exchanges.\n\nIn other news, data tracked by IntoTheBlock showed a renewed uptick in transaction volumes on Virtuals Protocol, a blockchain project enabling the creation, ownership, and deployment of AI agents. Data tracking platform Arkham Intelligence said that Mechanism's Capital Andrew Kang doubled his bullish bet on BTC, now holding a long worth $200 million.\n\nNew York Digital Investment Group (NYDIG) discussed the relative stability of the crypto market and its orderly behavior during last week's carnage in the traditional markets, saying it could become a self-reinforcing virtuous cycle.\n\nStill, some investors anticipate a range-bound trading pattern for bitcoin\nBTC\n$104,850.17\ndue to concerns that the U.S.-China trade tensions will not be resolved quickly. This follows President Trump's late Friday decision to exempt certain products from Chinese tariffs, a gesture perceived as a willingness to negotiate.\n\n\"BTC continues to consolidate within the $80k-$90k range and could continue trading sideways, adopting a \"wait and see\" approach to the tariff situation,' QCP Capital said in a Telegram broadcast, noting the weekend demand for the $100K calls.\n\nPer Bloomberg's Lisa Abramovicz, there is deep skepticism in cheering Trump's late Friday pivot. \"This is still a sell rallies environment. Tariff uncertainty, growth weakness, a Fed risking policy errors in both directions and fund outflows all suggest wider spreads ahead,\" Abramovic quoted Deutsche Bank's Credit Analyst Steve Caprio as saying.\n\nSome market participants expressed concerns about the dwindling demand for the spot bitcoin ETFs, which registered an outflow of over $700 million last week, according to data source Farside Investors. \"ETF demand is cooling. A sharp drop in bitcoin spot ETF assets signals institutional outflows. Watch this trend closely,\" blockchain analytics firm CryptoQuant said on X.\n\nLastly, major U.S. equity indexes, the S&P 500 and the Nasdaq, appeared headed for the death cross, a bearish technical pattern involving the 50-day simple moving average's (SMA) move below the 200-day SMA and the dollar index looked oversold as per the 14-day relative strength index. Both observations called for caution in risk assets.\n\nThe key events and data to watch out for the week ahead are Monday's stock market reaction to Trump's tariff exclusions, Wednesday's U.S. retail sales and Fed Chairman Jerome Powell's speech and earnings reports on Wall Street on Friday. Stay Alert!\n\nBy Shaurya Malwa\n\nWho dropped the price of $OM?\n\nBefore the $OM crash(since Apr 7), at least 17 wallets deposited 43.6M $OM($227M at the time) into exchanges, 4.5% of the circulating supply.\n\nAccording to Arkham’s tag, 2 of these addresses are linked to Laser Digital.\n\nLaser Digital is a strategic… pic.twitter.com/zB8yAPRPSO\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/14/crypto-daybook-americas-a-bizarre-usd5-4b-loss-has-left-investors-devastated",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Star Xu",
+                "Andrew Kang",
+                "Lisa Abramovicz",
+                "Steve Caprio",
+                "Jerome Powell",
+                "Shaurya Malwa",
+                "Trump"
+            ],
+            "positions": [
+                "CEO",
+                "Credit Analyst",
+                "Fed Chairman"
+            ],
+            "companies": [
+                "OKX",
+                "Mechanism's Capital",
+                "New York Digital Investment Group (NYDIG)",
+                "QCP Capital",
+                "Deutsche Bank",
+                "Bloomberg",
+                "Farside Investors",
+                "CryptoQuant",
+                "IntoTheBlock",
+                "Arkham Intelligence",
+                "Spot On Chain",
+                "Laser Digital"
+            ],
+            "organizations": [
+                "Virtuals Protocol",
+                "Mantra"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "FLR",
+            "TRX",
+            "SOL",
+            "OM",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple bearish factors including a $5.4B loss, forced liquidations causing a 90% crash in OM token, dwindling spot bitcoin ETF demand with $700M outflows, range-bound trading concerns, and technical bearish patterns in equity markets."
+    }
+}

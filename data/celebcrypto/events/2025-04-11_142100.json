@@ -1,0 +1,30 @@
+{
+    "title": "1 in 5 Cross-Chain Crypto Investigations Involve More Than 10 Blockchains, Elliptic Finds",
+    "summary": "Hopping from chain to chain is a common obfuscation tactic for criminals trying to cover their tracks, Elliptic CTO Jackson Hull said.",
+    "time": "2025-04-11T14:21:00",
+    "author": "Cheyenne Ligon",
+    "content": "Crypto criminals are taking increasing pains to evade detection, moving assets between a multitude of blockchain ecosystems in an effort to throw investigators off their trail. A full 20% of complex cross-chain investigations now span more than 10 different blockchains, according to new data from blockchain analytics firm Elliptic.\n\nElliptic found that a third of complex cross-chain investigations involved four or more blockchains, and 27% involved more than five.\n\nJackson Hull, Elliptic’s chief technology officer, told CoinDesk that though cross-chain crime has existed as long as there have been multiple blockchains, the volume of cross-chain crime has increased “pretty dramatically” over the last five years as the cost of switching ecosystems has gone down and the number of options to switch to has gone up.\n\nThough there are plenty of non-criminal reasons why someone would want to move assets between crypto ecosystems, Hull said that it’s also a very common obfuscation tactic for hackers and other criminals who want to launder money and cover their tracks.\n\nHull said that Elliptic has recently expanded its coverage to support 50 blockchains, meaning that investigators who use Elliptic’s software are able to easily trace funds that move between any of the covered blockchains, or pass through any of the “300-plus” bridges Elliptic’s software supports. Hull added that Elliptic is able to add a new blockchain to its coverage in as little as three weeks.\n\n“The most important, risky, high-stakes investigations are the ones where the [bad] actor is trying to launder or hide or obfuscate the funds so they pop more and more across these blockchains,” Hull said. “So that's really what drives it.”\n\nElliptic aided U.S. law enforcement in their recent takedown of sanctioned Russian crypto exchange Garantex, which was popular with ransomware gangs and Russian oligarchs looking to evade sanctions. Following the takedown, the exchange has attempted to rebrand as Grinex.",
+    "url": "https://www.coindesk.com/policy/2025/04/11/1-in-5-cross-chain-crypto-investigations-involve-more-than-10-blockchains-elliptic-finds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jackson Hull"
+            ],
+            "positions": [
+                "chief technology officer"
+            ],
+            "companies": [
+                "Elliptic",
+                "CoinDesk",
+                "Garantex",
+                "Grinex"
+            ],
+            "organizations": [
+                "U.S. law enforcement"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses criminal activity and law enforcement efforts in the crypto space, which presents a neutral picture of market regulation without clear positive or negative price implications."
+    }
+}

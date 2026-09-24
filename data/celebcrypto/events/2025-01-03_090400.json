@@ -1,0 +1,36 @@
+{
+    "title": "Cardano’s ADA Zooms Above $1 as Bitcoin Remains Rangebound",
+    "time": "2025-01-03T09:04:00",
+    "author": "Shaurya Malwa",
+    "summary": "ADA’s bump came on no immediate catalyst, but the protocol is set to see several fundamental developments in the coming months.",
+    "content": "Programmable blockchain Cardano’s ADA token jumped 12% in the past 24 hours to lead gains among crypto majors, with rangebound trading in bitcoin\nBTC\n$104,608.94\ninfluencing the broader market.\n\nADA crossed $1, a three-week high, as BTC, ether\nETH\n$3,495.36\n, Solana’s SOL and\nDOGE\n$0.1623\nadded under 2%. The broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market cap, rose 1.57%.\n\nTraders expect bitcoin price-action to remain rangebound until late January, with gains expected from February onward as President-elect Donald Trump takes office, as a CoinDesk analysis previously noted.\n\nADA’s bump came on no immediate catalyst, but the protocol is set to see several fundamental developments in the coming months. These include a bitcoin-centric decentralized financial ecosystem and ongoing efforts to improve Cardano’s scalability, network performance and interoperability with other networks.\n\nPrice-chart analysis suggests further gains of as much as 30% for the token ahead.\n\n“ADA's three-day rise has lifted prices above a trendline characterizing the four-week pullback from early December highs,” CoinDesk analyst Omkar Godbole said. “The breakout and a renewed bullish crossover on the momentum indicator MACD suggest the potential for a re-test of the Dec. 3 high of $1.32.”\n\n“The widely-tracked 14-day RSI is looking to cut through a descending trendline, validating the bullish price action,” Godbole added.\n\nIn technical analysis, MACD (Moving Average Convergence Divergence) indicates momentum using average prices over a period, with a bullish crossover meaning a potential price increase. RSI (Relative Strength Index) measures the speed and change of price movements; and cutting through a trendline suggests continued upward movement.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/cardano-s-ada-zooms-above-1-as-bitcoin-remains-rangebound",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump"
+            ],
+            "positions": [
+                "President-elect",
+                "CoinDesk analyst"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ADA's 12% price jump, technical breakout indicators suggesting further 30% gains, and positive market momentum across major cryptocurrencies."
+    }
+}

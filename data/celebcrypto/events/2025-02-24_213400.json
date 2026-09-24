@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Slips Under $94K as Stocks Try to Shake Last Week's Jitters",
+    "time": "2025-02-24T21:34:00",
+    "author": "Tom Carreras",
+    "summary": "Macro uncertainty combined with carnage in most of the rest of crypto is weighing bitcoin down.",
+    "content": "Bitcoin\nBTC\n$103,737.28\ncontinued to slide on Monday, hurt by not just by massive bearish price action in most of the rest of crypto, but also as U.S. stocks struggle to pull out of their recent downturn.\n\nFalling to about $93,900 as stocks closed, bitcoin is down 1.9% in the last 24 hours. Ether\nETH\n$3,493.10\nis lower by 5.9% over the same time frame. The broader CoinDesk 20 Index is down 5.1%.\n\nFollowing last week's major declines, an attempted rally by the major U.S. stock averages failed Monday afternoon, with the Nasdaq closing down another 1.2% and the S&P 500 0.5%.\n\nThe worst performer among the major cryptos was solana's\nSOL\n$160.63\n, down nearly 10% over the past 24 hours and a whopping 41% over the past month. In addition to its role in what appears to be a fading memecoin craze, SOL is also facing token unlocks in March and a 30% increase in SOL inflation due to the recent implementation of SIMD-96, which adjusted the network’s fee structure. At $151 at press time, SOL has now more than given up its post-election gains.\n\n“Trying to communicate to folks who may be feeling complacency/denial that $95,000 is still not a bad exit price relative to where I think we could trade in 6-12 months,” Quinn Thompson, founder of Lekker Capital, a crypto hedge fund that specializes in using macroeconomic data for its trades, posted on social media.\n\nThompson estimated that there was an 80% chance that bitcoin won’t make new highs over the next three months and a 51% chance we won't see new highs for even the next 12 months.\n\nTurning to the U.S. economy, Neil Dutta, head of economic research at Renaissance Macro Research, said that risks to the labor market are growing. Real incomes are slowing down, the housing market is getting worse, state and local governments are pulling back on spending. Worryingly, market consensus sees no economic slowdown in sight, with GDP median forecast at roughly 2.5%.\n\n“If 2023 was about being surprised to the upside, there is more risk in 2025 of being surprised to the downside,” Dutta wrote.\n\n“A passive tightening of monetary policy is the dominant risk and that has important implications for financial market investors,\" Dutta continued. \"I would anticipate a decline in longer-term interest rates and a selloff in equity prices as risk appetite wanes. For the economy, expect conditions to deteriorate in the jobs market.”",
+    "url": "https://www.coindesk.com/markets/2025/02/24/bitcoin-slips-under-usd94k-as-stocks-try-to-shake-last-week-s-jitters",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Quinn Thompson",
+                "Neil Dutta"
+            ],
+            "positions": [
+                "founder of Lekker Capital",
+                "head of economic research at Renaissance Macro Research"
+            ],
+            "companies": [
+                "Lekker Capital"
+            ],
+            "organizations": [
+                "Renaissance Macro Research"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin and other cryptocurrencies sliding in price, with negative performance across major cryptos and bearish analyst predictions about future price movements."
+    }
+}

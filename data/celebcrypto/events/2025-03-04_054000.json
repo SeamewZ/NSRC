@@ -1,0 +1,38 @@
+{
+    "title": "THORChain Sees Record $4.6B Volume After Bybit's $1.4B Hack",
+    "time": "2025-03-04T05:40:00",
+    "author": "Omkar Godbole",
+    "summary": "THORChain was one of the platforms Bybit hackers used to launder funds, according to observers.",
+    "content": "THORChain, a decentralized protocol enabling users to swap cryptocurrencies across various blockchains, has seen what can be described as an unwanted windfall after the Bybit hack.\n\nThe protocol processed $4.66 billion in swaps in the week ended March 2, the highest tally on record, according to data source DefiLlama. The tally exceeded the $1 billion mark on Sunday alone.\n\nThe surge in activity follows the hack of the crypto exchange Bybit on Feb. 22, which saw the North Korean malicious entity walk away with $1.4 billion in ether. Per observers, the entity used THORChain to swap and launder funds, resulting in a record activity on the platform.\n\n\"Starting from the initial Bybit Exploiter wallet, funds were sent across a further stretching net of wallets. With each 'hop' further from the main wallet, there was an increasing amount of intermediary wallets and the value transfers became smaller and smaller,\" blockchain analytics firm Nansen said in a report shared with CoinDesk.\n\n\"From hop 2, the hacker started interacting with third-party entities to start swapping and laundering the funds. Entities with the most inflow volume from the hack include THORChain, Paraswap, Mantle, OK DEX and DODO,\" Nansen added.\n\nCoinDesk reached out to THORChain for a comment on the matter.\n\nPer onchain analyst EmberCN, hackers have laundered the entire ETH balance in ten days, generating record revenue for THORChain.\n\n\"Hackers have laundered all 499,000 ETH ($1.39 billion) stolen from Bybit, a process that took 10 days. The ETH price has fallen by 23% in the process (from $2,780 to $2,130 today). THORChain, the main channel used by hackers to launder money, also earned $5.9 billion in transaction volume and $5.5 million in handling fees due to hackers' money laundering,\" EmberCN said on X.",
+    "url": "https://www.coindesk.com/markets/2025/03/04/thorchain-sees-record-usd4-6b-volume-after-bybit-s-usd1-4b-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "EmberCN"
+            ],
+            "positions": [
+                "onchain analyst"
+            ],
+            "companies": [
+                "Bybit",
+                "CoinDesk",
+                "Paraswap",
+                "Mantle",
+                "OK DEX",
+                "DODO",
+                "X"
+            ],
+            "organizations": [
+                "THORChain",
+                "DefiLlama",
+                "Nansen"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach where $1.4 billion was stolen from Bybit exchange and the stolen ETH price fell 23% during the laundering process, indicating negative market impact."
+    }
+}

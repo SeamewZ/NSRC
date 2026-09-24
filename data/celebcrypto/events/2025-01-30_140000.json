@@ -1,0 +1,28 @@
+{
+    "title": "Elastos Raises $20M to Build Native Bitcoin DeFi Protocol",
+    "time": "2025-01-30T14:00:00",
+    "author": "Jamie Crawley",
+    "summary": "Another project looking to turn Bitcoin into a more fruitful base for DeFi has raised $20 million in funding toward that goal",
+    "content": "Elastos, a project looking to turn Bitcoin into a more fruitful base for decentralized finance (DeFi), has raised $20 million towards that goal.\n\nElastos, a decentralized infrastructure provider, aims to scale its Bitcoin DeFi protocol BeL2 as a utility layer for the world's original blockchain.\n\nThe firm has raised $20 million from private investment company Rollman Management, with which it plans to expand its merge-mined ELA token as a Bitcoin reserve asset, Elastos told CoinDesk in an email on Thursday.\n\nMerge mining is the process of mining two or more cryptocurrencies simultaneously.\n\nBeL2 is built to allow bitcoin holders to collateralize BTC in their wallets and access Ethereum smart contract services, such as minting stablecoins and peer-to-peer borrowing.\n\nElastos is one of a large number of projects looking to capitalize on the roughly $2 trillion stored in bitcoin by building DeFi services that BTC's deep wells can fund.\n\nDeFi requires liquidity and security, both of which Bitcoin can provide with a stronger track record than any other blockchain. However, historically, the network has lacked the utility for DeFi projects to be able to harness it, which is what Elastos and others are aiming to address.\n\nRead More: Bitcoin-Based Stablecoin USDh Secures $3M in Liquidity",
+    "url": "https://www.coindesk.com/business/2025/01/30/elastos-raises-usd20m-to-build-native-bitcoin-defi-protocol",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Elastos",
+                "Rollman Management",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ELA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a $20 million funding round for building Bitcoin DeFi infrastructure, indicating market confidence and investment in expanding cryptocurrency utility."
+    }
+}

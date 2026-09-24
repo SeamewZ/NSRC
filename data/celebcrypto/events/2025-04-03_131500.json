@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Declines 6.8% as All Assets Trade Lower",
+    "time": "2025-04-03T13:15:00",
+    "author": "CoinDesk Indices",
+    "summary": "Solana (SOL) fell 12.5% and Sui (SUI) dropped 10.1%, leading index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2425.32, down 6.8% (-176.31) since 4 p.m. ET on Wednesday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BCH (-3.5%) and BTC (-4.7%).\n\nLaggards: SOL (-12.5%) and SUI (-10.1%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/03/coindesk-20-performance-update-index-declines-6-8-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "SUI",
+            "BCH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index declined 6.8% with all 20 assets trading lower, led by significant drops in SOL (-12.5%) and SUI (-10.1%)."
+    }
+}

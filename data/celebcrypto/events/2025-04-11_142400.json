@@ -1,0 +1,32 @@
+{
+    "title": "BlackRock Bitcoin and Ether ETF Inflows Declined 83% in Q1 to $3B",
+    "summary": "Total digital asset AUM rose to more than $50 billion, a large number but a relatively minor proportion of BlackRock's more than $10 trillion under management.",
+    "time": "2025-04-11T14:24:00",
+    "author": "Helene Braun",
+    "content": "In no surprise given the lame crypto price action in the first quarter of 2025, BlackRock (BLK) posted a sizable slump in net inflows into its spot bitcoin\nBTC\n$101,961.05\nand ether\nETH\n$3,330.42\nETFs.\n\nIn all, investors put $3 billion into BlackRock’s digital asset-focused ETFs in the first three months of the year, according to the company's first quarter earning report. That's an 83% drop from what was a big inflow number in the fourth quarter as prices and sentiment shot higher alongside the Trump election victory.\n\nTaken alone, the first quarter number still signals strong demand for crypto-linked funds, even as prices deteriorated.\n\nThat $3 billion represents 2.8% of the total inflows into BlackRock’s mammoth iShares ETFs in the first quarter, which also include active, core equity, and strategic funds, among smaller categories. BlackRock at quarter's end managed roughly $50.3 billion in digital assets, or about 0.5% of its total assets of more than $10 trillion.\n\nDigital asset ETFs accounted for $34 million in base fees, or less than 1% of the company’s long-term revenue.\n\nThe decline in bitcoin and ether ETF inflows last quarter came alongside a 70% quarterly fall in iShares' overall inflows to $84 billion from $281 million as global markets attempted to navigate the changing macroeconomic environment under President Trump.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/inflows-into-blackrock-digital-asset-products-declined-83-in-q1-to-usd3b",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "iShares"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports an 83% decline in BlackRock's Bitcoin and Ether ETF inflows alongside deteriorating crypto prices and falling overall iShares inflows."
+    }
+}

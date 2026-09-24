@@ -1,0 +1,50 @@
+{
+    "title": "Cboe Files Several Amended Documents to Allow Ether Staking in ETFs",
+    "time": "2025-03-11T15:49:00",
+    "author": "Helene Braun",
+    "summary": "The exchange filed amended 19b-4 documents with the Securities and Exchange Commission asking to allow staking of the ETFs.",
+    "content": "National securities exchange Cboe is asking the U.S. Securities and Exchange Commission (SEC) to allow staking in several spot ether\nETH\n$3,517.88\nexchange-traded funds (ETFs), sending the price of token 2% higher over the past 24 hours.\n\nBefore the funds launched in July, several issuers included staking in their applications. However, the SEC later required them to remove the feature, as the Commission was not allowing it at the time.\n\nCboe, which is associated with five of the issuers of an ether ETF, including Fidelity, Franklin Templeton, VanEck, and Invesco/Galaxy, on Tuesday, filed amended 19b-4 documents for the Fidelity Ethereum Fund (FETH) and the Franklin Ethereum ETF (EZET), to allow staking.\n\nThe move comes after former SEC chair Gary Gensler left the Commission; he resigned shortly before the inauguration of crypto-friendly President Donald Trump in January.\n\nTrump's nominee to run the SEC, Paul Atkins, hasn't been scheduled for a hearing or confirmation vote in the Senate yet. Commissioner Mark Uyeda is the acting chair until Atkins is sworn in. Under Uyeda's watch, the SEC has made several positive moves in regards to other crypto-related ETF applications, spurring hope that staking might see a positive response from Commissioners.\n\nCboe’s request to stake will likely be approved, said James Seyffart, ETF analyst at Bloomberg Intelligence. “There’s still things that need to be sorted but we expect the SEC will allow staking in the ETFs this year,” he said.\n\nBeyond adding staking, companies have filed to launch ETF products for a range of digital assets. In the last week, companies set up Delaware companies for\nSUI\n$1.9965\nand\nAPT\n$2.7796\n, and the SEC is already reviewing several applications for Solana\nSOL\n$161.49\nand\nXRP\n$2.2916\n, among others.\n\nCorrection (March 11, 2025, 16:40 UTC): Corrects Cboe descriptor.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/cboe-files-several-amended-documents-to-allow-staking-in-etfs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Donald Trump",
+                "Paul Atkins",
+                "Mark Uyeda",
+                "James Seyffart"
+            ],
+            "positions": [
+                "former SEC chair",
+                "President",
+                "SEC nominee",
+                "acting chair",
+                "ETF analyst"
+            ],
+            "companies": [
+                "Cboe",
+                "Fidelity",
+                "Franklin Templeton",
+                "VanEck",
+                "Invesco/Galaxy",
+                "Bloomberg Intelligence"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "SUI",
+            "APT",
+            "Solana",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that Cboe's filing to allow ether staking in ETFs sent the price of ETH 2% higher and analysts expect SEC approval, indicating positive market reaction and confidence."
+    }
+}

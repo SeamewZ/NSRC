@@ -1,0 +1,41 @@
+{
+    "title": "Dave Portnoy Says Meme Coins Are 'Gambling' and Not Built to Last",
+    "time": "2025-05-15T21:39:00",
+    "author": "Helene Braun",
+    "summary": "The Barstool founder opened up about the risks and rush of meme coins at a fireside chat with Bullish CEO Tom Farley.",
+    "content": "“I don’t think it’s here to stay,” Dave Portnoy said, referring to meme coins—the same corner of crypto he’s often poured fuel on through his social media antics.\n\nSpeaking on stage at Consensus 2025 with Tom Farley, CEO of crypto exchange Bullish, the Barstool Sports founder peeled back the layers of his short, chaotic stint in the meme coin world. With his usual brash candor, Portnoy described a journey of sudden windfalls, legal landmines, and the kind of public backlash that might make even the most hardened internet provocateur think twice.\n\n“I love the rush, I’m a gambler at heart,” he admitted. “But then the smart part of me is like, is it worth the hate?” The conversation was part of a broader discussion about crypto’s culture of speculation and hype, where meme coins — tokens created more for jokes than utility — have captured the imagination of young, risk-hungry traders. Portnoy, who built Barstool into a media empire on viral content and sports gambling, found himself swept into the same digital fever.\n\nIt started with SafeMoon, one of the earliest viral tokens of the COVID-era crypto boom. Portnoy saw social media posts about traders making “9,000,000,000%” gains, bought in, made a video mocking its lack of real value — and got sued anyway.\n\n“They basically said SafeMoon paid me to promote them. Total lie. Cost me $20k to get out of the lawsuit.” he said.\n\nUndeterred, he pushed further. Inspired by the idea of launching a Barstool coin and skipping the hassle of going public, Portnoy began researching how meme coins are made. That led him to a developer who pitched a token called Libra, allegedly backed by the president of Argentina.\n\nPortnoy bought $4.5 million worth.\n\n“I was at SNL with Lady Gaga. I was just typing. I'm like, what the hell is going on here?” he said. The developer had told him Elon Musk would tweet about it. Instead, the president disavowed any involvement. “I lost all my money.”\n\nPortnoy says he got lucky — the developer later reimbursed him in full, though he isn’t sure why. “I'm one of the lucky ones, but you know, I'm not going to not take that money back.”\n\nDespite the losses, Portnoy kept dabbling. He launched coins called Greed and Greed 2, leaning into the satire. Another coin, JailStool, emerged from public outrage at his meme coin experiments. Someone else created the token, but Portnoy embraced the name and posted about it. At one point, he claims, a $1,000 investment ballooned to $7 million — within an hour.\n\n“It took me 13 years to make that kind of money at Barstool,” he said.\n\nBut what goes up almost always crashes back down. Portnoy says he’s lost track of how many times he’s been accused of “rug pulls,” a term for when insiders dump a coin and leave latecomers with worthless tokens.\n\nHe described meme coins as a rigged game, dominated by a core group of early buyers with trading bots and algorithms who know when to exit. “It's the same group of winners and it's the same group of losers.”\n\nThat realization seems to have changed his appetite. While he teased the possible launch of Greed 3, he admitted the backlash is harder to stomach in real life. One man confronted him in a Las Vegas casino, claiming he lost $200,000. “It’s all fun and games behind the computer but that reinforces people are losing and making real money, and they're not always taking responsibility for the risk, even though I think they should.”\n\nDespite the money and the memes, he says the meme coin scene is ultimately unsustainable.\n\n“I get why people like it,” he said. “It’s a form of gambling, it’s a Ponzi scheme, I don’t mean that in a negative way.”\n\nPortnoy doesn’t claim to have the answers. But if he’s a weathervane for where meme coin mania might be heading, the forecast looks grim. “I can't imagine it's here to stay. I think it's here to stay for the next four years. What happens after that? I don't know.”",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/15/dave-portnoy-says-meme-coins-are-gambling-and-not-built-to-last",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dave Portnoy",
+                "Tom Farley",
+                "Lady Gaga",
+                "Elon Musk"
+            ],
+            "positions": [
+                "CEO",
+                "founder",
+                "president"
+            ],
+            "companies": [
+                "Barstool Sports",
+                "Bullish",
+                "SafeMoon"
+            ],
+            "organizations": [
+                "SNL",
+                "Consensus 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "SafeMoon",
+            "Libra",
+            "Greed",
+            "Greed 2",
+            "JailStool"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Dave Portnoy describes meme coins as gambling, unsustainable, and a rigged game dominated by early buyers who profit at the expense of latecomers."
+    }
+}

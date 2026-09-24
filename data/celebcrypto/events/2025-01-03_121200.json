@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin Buyers Saw 40% Gain on Average Last Year, Realized Price Shows",
+    "time": "2025-01-03T12:12:00",
+    "author": "James Van Straten",
+    "summary": "The average realized price of 2024 buyers in bitcoin was $65,901.",
+    "content": "The bitcoin\nBTC\n$104,608.94\nprice may have more than doubled last year, but investors who bought the largest cryptocurrency during 2024 saw, on average, only a fraction of that according to a measure known as the realized price.\n\nThe realized price is the average value of all bitcoin calculated at the price at which the tokens last moved on-chain. While that value is around $41,000 for BTC since its inception in 2009, for coins bought last year it was around $65,901 by Dec. 31. With the market price closing around $93,000, 2024's buyers were, on average, looking at unrealized profit of around 40%.\n\nMonitoring the realized price is important to understanding individual participants' overall profit or loss and cost basis. It means bitcoin would have to slump some 31% for last year's investors to return to break-even price levels. The U.S. spot-listed exchange-traded funds (ETFs) debuted on Jan. 11, close enough to the start of the year that this is a good approximation of their cost basis.\n\nThere's another reason to monitor the level. When the bitcoin price dropped below the 2024 realized price, it has tended to mark a local bottom in bitcoin price. That occurred once in January, after the launch of the ETFs, and several times in the middle of the year. Monitoring the cost basis of the 2024 cohort would have been a profitable trading strategy.\n\nAs we enter 2025, the average cost basis is around $95,500, which puts the buyer at a slight profit as we start the year. As of press time, bitcoin is trading at over $96,000.\n\nIn addition, historically, the realized price offers a great support level for bitcoin in bear markets and rarely trades below it.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/bitcoin-buyers-saw-40-gain-on-average-last-year-realized-price-shows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "U.S. spot-listed exchange-traded funds (ETFs)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights that 2024 bitcoin buyers achieved 40% average gains, the realized price provides strong market support, and bitcoin is currently trading above the average cost basis indicating profitability."
+    }
+}

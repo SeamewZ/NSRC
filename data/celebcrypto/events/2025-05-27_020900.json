@@ -1,0 +1,38 @@
+{
+    "title": "Asia Morning Briefing: Thai Banks May Soon Hold Crypto, SCB 10X CEO Signals Sandbox Push",
+    "summary": "PLUS: SCB 10X's new CEO, Kaweewut Temphuwapat, predicts clearer regulations and fintech innovation in Thailand will drive stronger crypto deal flow across Southeast Asia.",
+    "time": "2025-05-27T02:09:00",
+    "author": "AI Boost",
+    "content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.\n\nUniswap's UNI token surged from $6.00 to $6.65 over the past 24 hours, pushing the token up 5%, while the broader market gauge CoinDesk20 Index fell 1.8% in the last 24 hours.\n\nThis momentum coincides with Uniswap recording its highest monthly transaction volume since February, processing over $73 billion in trades and generating more than $380 million in revenue this year, as institutional interest grows and a notable whale re-entered the market by acquiring nearly $4 million worth of UNI.\n\nKaweewut Temphuwapat, the new CEO of SCB 10X, the venture arm of Thailand's SCB bank, sees significant opportunities emerging at the intersection of AI, crypto, and Web3. \"We definitely [are] going more on AI and also crypto and AI plus crypto,\" Temphuwapat told CoinDesk, highlighting these hybrid investments as firmly \"under our radar.\"\n\nHe predicts clearer crypto regulation in the U.S. will fuel increased deal flow into resilient Asian markets, noting SCB 10X's early success investing in Ripple: \"We are an early investor in Ripple of 10 years ago… we've used that technology for the last five to six years in our SCB App.\"\n\nTemphuwapat praised Thailand’s proactive and innovative regulators, highlighting the country's robust payments infrastructure. He expects Thai banks, including SCB, could soon directly hold crypto tokens on their balance sheets, initially through regulatory sandboxes.\n\nPseudonymous trader \"James Wynn,\" known for high-stakes crypto bets on decentralized platform Hyperliquid, has shifted focus from billion-dollar bitcoin positions to memecoins, recently placing a leveraged $1 million bet on Pepe (PEPE), CoinDesk reported earlier.\n\nPreviously, Wynn closed a massive $1.2 billion bitcoin long position at a $17.5 million loss, before pivoting to a $1 billion short position at 40x leverage, effectively wagering their entire $50 million wallet balance on bitcoin’s downside. That short briefly netted Wynn about $3 million in profit before closing, marking one of the largest trades ever executed fully on-chain.\n\nWynn announced stepping back from perpetual trading after securing a cumulative profit of $25 million, earned from an initial investment of just over $3 million. The trader’s latest high-leverage PEPE position has already gained $500,000 amid a nearly 6% rise in the memecoin's value.\n\nStrategy (MSTR), the largest corporate holder of bitcoin, purchased an additional 4,020 BTC between May 19 and May 25 for roughly $427 million, bringing its total holdings to 580,250 BTC, CoinDesk previously reported. The acquisition was funded through three separate at-the-market equity programs, including sales of common and preferred stock totaling approximately $427 million.\n\nThese latest bitcoin purchases were executed at an average price of $106,237 per coin, pushing Strategy’s total investment in bitcoin to over $40.6 billion, at an average cost basis of $69,979 per coin. The acquisitions reflect the company’s ongoing commitment to expanding its sizable bitcoin holdings through regular capital raises and share issuances.",
+    "url": "https://www.coindesk.com/markets/2025/05/26/asia-morning-briefing-thai-banks-may-soon-hold-crypto-scb10x-ceo-signals-sandbox-push",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kaweewut Temphuwapat",
+                "James Wynn"
+            ],
+            "positions": [
+                "CEO",
+                "trader"
+            ],
+            "companies": [
+                "SCB 10X",
+                "SCB",
+                "Ripple",
+                "Hyperliquid",
+                "Strategy"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "UNI",
+            "Bitcoin",
+            "BTC",
+            "PEPE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights multiple positive developments including UNI token surging 5%, institutional interest growth, major corporate bitcoin purchases, and predictions of clearer regulations driving deal flow into Asian markets."
+    }
+}

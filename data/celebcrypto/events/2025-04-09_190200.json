@@ -1,0 +1,36 @@
+{
+    "title": "Strategy's 25% Gain Leads as Crypto Stocks Soar on Trump Tariff Pause",
+    "summary": "The president earlier Wednesday announced a pause in his punitive reciprocal tariffs for all countries except China.",
+    "time": "2025-04-09T19:02:00",
+    "author": "Helene Braun",
+    "content": "Under far heavier pressure than the rather modest decline in bitcoin\nBTC\n$104,608.94\nover the past few days would suggest, crypto stocks are posting outsized gains as markets surge higher on the Trump tariff pause.\n\nAmong the movers are Strategy (MSTR), which rose 25%, while Coinbase (COIN) climbed 21%. Marathon Digital (MARA) and Riot Platforms (RIOT) were among the bitcoin miners posting gains in the teens.\n\nOther movers included Semler Scientific (SMLR) and Fold (FLD), with advances closer to 10%.\n\nThe strong uptick was in line with the big move in other U.S. stocks — the Nasdaq rocketing more than 10% higher and the S&P 500 8%.\n\nBitcoin climbed above $82,000, up more than 6% over the past 24 hours.\n\nThe big gains come after a panicky few days in markets that nearly turned into a free fall on Monday and again overnight following President Trump's punitive tariff plan announced last Wednesday.\n\n“I have authorized a 90 day PAUSE,\" said the president in a Truth Social posting midday today that set off the major rally.",
+    "url": "https://www.coindesk.com/markets/2025/04/09/us-crypto-stocks-soar-as-trump-announces-temporary-pause-on-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "president"
+            ],
+            "companies": [
+                "Strategy",
+                "Coinbase",
+                "Marathon Digital",
+                "Riot Platforms",
+                "Semler Scientific",
+                "Fold"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto stocks posting outsized gains, bitcoin climbing above $82,000 with a 6% increase, and a major market rally following Trump's tariff pause announcement."
+    }
+}

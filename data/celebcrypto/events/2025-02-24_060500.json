@@ -1,0 +1,37 @@
+{
+    "title": "Solana Whales Increase Engagement in Bearish Options Plays on Deribit Amid SOL Meltdown and Impending Unlock",
+    "time": "2025-02-24T06:05:00",
+    "author": "Omkar Godbole",
+    "summary": "SOL put options accounted for most of the block trades that crossed the tape on Deribit last week.",
+    "content": "Deribit's options market for Solana's SOL token has become active, with whales engaging in bearish bets as the token's price continues to decline ahead of an impending multi-billion dollar unlock.\n\nLast week, SOL block trades totaling $32.39 million in notional value crossed the tape on Deribit, representing nearly 25% of the total options activity of $130.74 million. The remainder of the activity comprised screen trades, according to Amberdata. That's the second-highest proportion of block trades to total activity on record.\n\nA \"block trade\" in options refers to a significant, privately negotiated options transaction between two parties involving a large number of contracts. Such trades, typically associated with whale activity, are executed over-the-counter and outside the regular order book and then booked on the exchange, allowing for a minimal impact on the market prices.\n\nOptions are derivative contracts that give the purchaser the right but not the obligation to buy or sell the underlying asset, in this case, SOL, at a preset price on or before a specific date. A call option gives the right to buy, while a put option provides the right to sell. On Deribit, which accounts for over 85% of the global crypto options activity, one options contract represents 1 SOL.\n\nLast week's spike in SOL block trades featured a preference for put options, which traders use to hedge against or profit from a potential price slide.\n\n\"Nearly 80% of the block-trade volume was concentrated in put contracts. Compared to only 40% puts for BTC and 37.5% puts for ETH during the same timeframe,\" Greg Magadini, director of derivatives at Amberdata, said.\n\nThe whale demand for put options comes as SOL's outlook appears grim following the 46% price slide to $160 in just over five weeks. The activity on the Solana blockchain, which became a go-to-place for memecoin traders last year, peaked with the launch of the TRUMP token on Jan. 17, three days before Donald Trump was inaugurated as the President of the U.S.\n\nSince then, the number of daily transactions on Solana and the cumulative daily volume on the Solana-based decentralized exchanges has declined significantly, according to data source Artemis. That has weakened the bullish case for SOL.\n\nPlus, the impending SOL token unlock on March 1 presents a significant headwind, per Deribit's Asia Business Development Head Lin Chen.\n\n\"Solana\nSOL\n$160.95\nwill have a major token unlock event on March 1, releasing 11.2 million SOL tokens, valued at approximately $2.07 billion. This represents 2.29% of the total supply. A significant portion of the unlock comes from the FTX estate and a foundation sale,\" Chen said.\n\nChen explained that the large unlock could breed market volatility as it accounts for nearly 59% of SOL's daily spot trading volume. Hence, its natural to see a lot of hedging flow in put options in anticipation of a potential extended SOL price slide.\n\n\"Many traders would also take this opportunity to long Vol[atility] to generate good yield,\" Chen noted.",
+    "url": "https://www.coindesk.com/markets/2025/02/24/solana-whales-increase-engagement-in-bearish-options-plays-on-deribit-amid-sol-meltdown-and-impending-unlock",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Greg Magadini",
+                "Donald Trump",
+                "Lin Chen"
+            ],
+            "positions": [
+                "director of derivatives at Amberdata",
+                "Asia Business Development Head"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "FTX"
+            ],
+            "organizations": [
+                "Artemis"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "BTC",
+            "ETH",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes whales increasing bearish put options, SOL price declining 46%, reduced blockchain activity, and a major token unlock creating selling pressure."
+    }
+}

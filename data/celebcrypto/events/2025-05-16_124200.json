@@ -1,0 +1,33 @@
+{
+    "title": "Ripple-SEC Bid for XRP Settlement Rejected by Judge Citing 'Procedural Flaws'",
+    "summary": "Judge Analisa Torres rejected the proposed $50 million settlement, saying the joint request was filed improperly and lacked required legal justification.",
+    "time": "2025-05-16T12:42:00",
+    "author": "Shaurya Malwa",
+    "content": "A federal judge has rejected a joint request by Ripple Labs and the U.S. Securities and Exchange Commission (SEC) to approve a proposed $50 million settlement.\n\nIn a ruling issued Thursday, U.S. District Judge Analisa Torres said the parties' motion was not only outside her jurisdiction, as the case is currently on appeal, but also “procedurally improper.”\n\nEven if she did have authority to act, Torres wrote, the request failed to meet the standards required for modifying a final judgment. The case is already under appeal\n\nThe lawsuit, first filed in December 2020, accused Ripple of raising $1.3 billion through unregistered XRP sales.\n\nMeanwhile, Ripple Chief Legal Officer Stuart Alderoty said in an X post that \"nothing in today’s order changed Ripple’s wins.\"\n\n\"This is about procedural concerns with the dismissal of Ripple’s cross-appeal. Ripple and the SEC are fully in agreement to resolve this case and will revisit this issue with the Court, together,\" he said.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/ripple-sec-bid-for-xrp-settlement-rejected-by-judge-citing-procedural-flaws",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Analisa Torres",
+                "Stuart Alderoty"
+            ],
+            "positions": [
+                "Judge",
+                "Chief Legal Officer"
+            ],
+            "companies": [
+                "Ripple Labs"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "U.S. District Court"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The rejection of the $50 million settlement and procedural flaws in the Ripple-SEC case creates regulatory uncertainty that negatively impacts market confidence."
+    }
+}

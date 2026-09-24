@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin's Computing Power May Hit a Major Milestone Long Before Next Halving",
+    "time": "2025-01-03T10:39:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin's hashrate increased by approximately 50% in 2024, and it is currently on course to rise for the eighth consecutive time.",
+    "content": "Bitcoin's (BTC) hashrate, the computational energy needed to mine a block in a proof-of-work blockchain, is on track to reach 1 zettahash per second before the next halving event in about 3.5 years, putting miners under pressure to secure cheap power deals and more efficient equipment.\n\nThe average hashrate could reach that level, equivalent to 1,000 exahash per second (EH/s), by 2027 even if it rises at the rather sedate pace of 20% a year. It's grown an average of 65% a year since 2020 and is currently around 787 EH/s on a seven-day moving average basis, according to Glassnode data.\n\nThe hashrate is an important component of bitcoin miners' profitability. The higher the hashrate, the higher the energy costs, which is why it's so important for miners to optimize their business operations. It also plays into network security, which has appreciated 56% in the past year.\n\nThe pace of growth accelerated in the second half of 2024 after April's halving, when the block rewards dropped 50% to 450 BTC per day, reducing the revenue miners receive. The squeeze became so intense that some miners couldn't survive by mining bitcoin alone. They had to pivot some of their operations to artificial intelligence (AI) computing and some even opted out to buy bitcoin in the open market.\n\nAt 1 ZH/s miners will need to find more creative ways to stay afloat and adjust to a more challenging market.\n\nIn fact, the hashrate may have already touched 1 ZH/s for a single block, according to a post on X on Thursday. A reading off one block, though, is inaccurate due to the probabilistic nature of mining, block time variability and short-term network fluctuations. The industry standard is usually at least a seven-day moving average to account for outliers and reliability.\n\nIt's not only hashrate that's increasing, so is the difficulty of mining a block. Since October, the blockchain has seen seven consecutive positive difficulty adjustments, currently at 109.78 trillion (T). Difficulty adjusts every 2,016 blocks and recalibrates for blocks to be mined on a 10-minute basis. The last time the network saw seven consecutive positive adjustments was after China banned mining in 2021, when the hashrate dropped 50%.\n\nThis time, however, hashrate and difficulty are moving in tandem.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/bitcoins-computing-power-may-hit-a-major-milestone-long-before-next-halving",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes both positive aspects (hashrate growth, network security appreciation) and negative pressures on miners (profitability squeeze, operational challenges), creating a mixed impact scenario."
+    }
+}

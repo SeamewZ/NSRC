@@ -1,0 +1,38 @@
+{
+    "title": "U.S. House Republicans Officially Introduce Crypto Market Structure Bill",
+    "summary": "The legislation is expected to become the second major congressional effort toward establishing U.S. regulations for the crypto industry.",
+    "time": "2025-05-29T21:10:00",
+    "author": "Jesse Hamilton",
+    "content": "Leading Republicans in the House of Representatives have formally introduced their latest version of the bill to establish a regulatory structure for digital assets markets, something the industry has clamored for for years.\n\nThe successor to the previous session's Financial Innovation and Technology for the 21st Century Act (FIT21), the new bill called the Digital Asset Market Clarity Act is being pushed by top Republicans in the House Financial Services and the House Agriculture committees. Stablecoin legislation is still the frontrunner to be the first major piece of U.S. crypto law, but Thursday's introduction pushes the ball forward on the more important and complex of the two companion efforts.\n\n\"America should be the global leader in the digital assets marketplace, but we can’t do that without establishing a clear regulatory framework,\" said Representative Dusty Johnson, the South Dakota Republican who leads the agriculture subcommittee focused on digital assets, in a statement on the bill's introduction.\n\nThe hefty 236-page Clarity Act — likely a starting point for lengthy negotiations between the parties in the House and eventually their Senate counterparts — gives the Commodity Futures Trading Commission \"exclusive regulatory jurisdiction over digital commodity cash or spot markets that occur on or with new CFTC registered entities,\" which represents the bulk of crypto activity according to the current thinking of U.S. regulators.\n\nThe legislation would set up a regime in which crypto platforms would have options for registration with the CFTC and the Securities and Exchange Commission, depending on whether they're trading in digital assets commodities such as bitcoin\nBTC\n$102,205.43\n, securities or both. Those seeking registration with the CFTC as a digital commodity exchange, broker or dealer could get provisional registrations while the agency is working on rules.\n\nThe bill also requires crypto platforms to be regulated as financial firms under the Bank Secrecy Act; exempts certain decentralized finance (DeFi) operations and wallet providers from SEC oversight; bans future efforts of regulators to force custody firms to hold their customers' assets on their own balance sheets as the SEC staff sought to do under a now-scrapped accounting stance; and puts some transactional authorities over payment stablecoins — which are clearly stated to not be securities — in the hands of whichever regulator already oversees the firm involved in the activity.\n\nThe Clarity Act additionally delved into so-called \"qualified digital asset custodians\" — previously a controversial point when the SEC sought to allow only a narrow array of regulated custodians to handle the assets of investment advisers' clients. The new bill sets the standard for such a custodian as one under \"adequate supervision and appropriate regulation by certain federal, state, or foreign authorities\" — a bar the CFTC will be called to define.\n\nDeFi is kicked down the road, with the bill demanding the SEC, CFTC and Treasury Department study that arena of digital assets and come back with a report in a year on how to proceed. The Government Accountability Office would also be asked to write a report on DeFi and on non-fungible tokens (NFTs).\n\nThe involved regulators would have a year to put the Clarity Act's market structure rules into effect if the law were enacted. That's a tight timeframe for complex financial regulation, which can often take more than a year — or even several years — for the agency staffs to write rules and seek public input. Despite similar timelines in the Dodd-Frank Act of 2010, for instance, there are still a few provisions that haven't yet been completed.\n\nThe Senate will return to a floor debate next week on its stablecoin bill, which has already cleared several procedural hurdles with bipartisan support, despite loud Democratic misgivings about President Donald Trump's personal business connections to the crypto sector his government is seeking to regulate. But it's unclear whether that legislation will mesh with whatever version of stablecoin oversight the House eventually votes on, leaving uncertainty about exactly how crypto legislation will proceed in this session.\n\nSome discussion remains about whether the stablecoin and market structure bills should be combined as a single crypto push in Congress. Trump has called for both to land on his desk by the August congressional break, though many crypto insiders in Washington see that as a highly ambitious goal.\n\nThe relevant House committees are set to hold digital assets hearings next week that will give members a chance to publicly discuss the details of the legislation.\n\nRead More: Market Structure Rules for Crypto Could End Up Governing Core of U.S. Finance: Le",
+    "url": "https://www.coindesk.com/policy/2025/05/29/u-s-house-republicans-officially-introduce-crypto-market-structure-bill",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dusty Johnson",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Representative",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. House Republicans",
+                "House of Representatives",
+                "House Financial Services",
+                "House Agriculture committees",
+                "Commodity Futures Trading Commission",
+                "Securities and Exchange Commission",
+                "Treasury Department",
+                "Government Accountability Office",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The legislation establishes clear regulatory frameworks that the crypto industry has been seeking for years, which typically boosts market confidence and institutional adoption."
+    }
+}

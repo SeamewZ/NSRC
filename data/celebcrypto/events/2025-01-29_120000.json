@@ -1,0 +1,40 @@
+{
+    "title": "Crypto Daybook Americas: Trump Exports Bitcoin Enthusiasm as Price Rebounds, Investors Eye FOMC",
+    "time": "2025-01-29T12:00:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for Jan. 29, 2025",
+    "content": "By James Van Straten (All times ET unless indicated otherwise)\n\nEach new day under the Trump administration is as intriguing as the next, and Wednesday is shaping up to be no different.\n\nFor one, the president's enthusiasm for bitcoin is spurring other countries to take a look at the asset. Most recently, Czech National Bank Governor Aleš Michl said he will present a plan to add billions of euros worth of bitcoin to the bank's reserves. If approved, the institution would become the first Western central bank to hold BTC as a reserve asset. Michl intends to present the plan to the bank's board on Thursday.\n\nThere's also the Federal Open Market Committee meeting later today, where the benchmark fed funds rate is expected to be held at 4.25%-4.50%. The question is whether Fed Chair Jerome Powell will give a hawkish or dovish outlook, with a knock-on effect on asset prices.\n\nMarkets seem to have shaken off concerns over the Chinese DeepSeek AI program, with bitcoin back over $102,000. U.S. equities are shy of a new all-time high as Nvidia (NVDA) stormed back with an almost double-digit increase.\n\nAfter the market closes, we could see some further volatility, with major tech companies including Tesla (TSLA) reporting earnings.\n\nBy Shaurya Malwa\n\nETF Flows\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/29/crypto-daybook-americas-trump-exports-bitcoin-enthusiasm-as-price-rebounds-investors-eye-fomc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Trump",
+                "Aleš Michl",
+                "Jerome Powell",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "president",
+                "Czech National Bank Governor",
+                "Fed Chair"
+            ],
+            "companies": [
+                "Nvidia",
+                "Tesla"
+            ],
+            "organizations": [
+                "Trump administration",
+                "Czech National Bank",
+                "Federal Open Market Committee",
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin price rebounding over $102,000 and mentions potential central bank bitcoin adoption, indicating positive market momentum."
+    }
+}

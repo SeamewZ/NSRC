@@ -1,0 +1,26 @@
+{
+    "title": "Ether's Record Leverage Ratio of 0.57 Is Over Double That of Bitcoin",
+    "time": "2025-01-03T11:13:00",
+    "author": "Omkar Godbole",
+    "summary": "Ether stands out relative to BTC as the go-to major currency for traders looking to amplify returns with the use of leverage",
+    "content": "While bitcoin\nBTC\n$104,608.94\ngrabs all the eyeballs from institutional narratives, Ethereum's ether\nETH\n$3,495.36\nstands out as the go-to major token for traders looking to maximize returns through leverage.\n\nEther's estimated leverage ratio, which measures the degree of leverage employed by traders, climbed to a new high of 0.57 on Wednesday, marking a significant increase from 0.37 at the start of the final quarter of 2024, data tracked by analytics firm CryptoQuant shows.\n\nThe ratio is calculated by dividing the cumulative open interest in standard futures and perpetual future contracts listed worldwide by the total number of ETH in wallets tied to exchanges offering futures trading.\n\nA rising ratio suggests that traders are increasingly using leverage, indicating a surge in risk-taking and market speculation. Leverage enables traders to control bigger positions in the market with a relatively small pool of capital.\n\nFor instance, if an exchange offers a leverage ratio of 10:1, a trading entity can control a position worth $10,000 with just $1,000 in margin deposit. Using leverage magnifies both profits and losses and increases the risk of liquidations – forced closure due to margin shortages – when the market moves against leveraged positions, a dynamic that often breeds volatility.\n\nEther's leverage ratio of over 0.5 means a significant amount of leverage trading is happening in the futures market relative to the availability of actual coins in the exchange wallets.\n\nEther's leverage ratio of over 0.5 indicates that a substantial amount of leverage trading is happening in the futures market compared to the actual coins available in exchange wallets.\n\nThis level of leverage is considerably higher than that of Bitcoin, which has an estimated leverage ratio of 0.269 at press time, the highest since early 2023, but still well below the record high of 0.36 seen in October 2022.\n\nSo, don't be surprised if ether experiences twice the price volatility of bitcoin in the near future.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/ethers-record-leverage-ratio-of-0-57-is-over-double-that-of-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CryptoQuant"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights record leverage levels in Ether futures trading, indicating increased risk-taking and potential for liquidations and volatility when markets move against leveraged positions."
+    }
+}

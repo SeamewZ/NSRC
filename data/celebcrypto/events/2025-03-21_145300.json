@@ -1,0 +1,44 @@
+{
+    "title": "U.S. Government Removes Tornado Cash Sanctions",
+    "summary": "Tornado Cash was sanctioned multiple times over allegations of helping Lazarus Group launder funds.",
+    "time": "2025-03-21T14:53:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Treasury Department's sanctions watchdog removed Tornado Cash from its global blacklist Friday.\n\nThe crypto mixing tool has been accused of helping North Korea's Lazarus Group launder stolen funds from its various hacks and thefts, and the U.S. Treasury Department's Office of Foreign Asset Control sanctioned it — meaning no U.S. person or anyone doing business with the U.S. could engage with it financially — multiple times. However, a federal appeals court ruled last November that OFAC couldn't sanction Tornado Cash's smart contracts because they weren't the \"property\" of any foreign national.\n\n\"We remain deeply concerned about the significant state-sponsored hacking and money laundering campaign aimed at stealing, acquiring, and deploying digital assets for the Democratic People’s Republic of Korea (DPRK) and the Kim regime,\" a press release from the U.S. Treasury Department said.\n\nAnother release from OFAC lists over 100 Ethereum\nETH\n$3,327.59\naddresses that are being removed from the Specially Designated Nationals list, which is the record Treasury uses for maintaining its blacklist.\n\nRoman Storm, one of the co-founders of Tornado Cash, faces a criminal trial this July over his alleged role developing the smart contracts and protocols. Another developer was charged but has not yet been arrested. After the Fifth Circuit's November ruling, Storm's lawyers filed a motion requesting the court reconsider its earlier decision to deny the dismissal of charges against him. That motion was smacked down in February, with Judge Katherine Polk Failla of the Southern District of New York (SDNY) arguing that, whether or not Tornado Cash itself was subject to sanctions \"does not affect the sanctions Defendant allegedly conspired to violate (those on the Lazarus Group).\"\n\nStorm's lawyer, Brian Klein of Waymaker LLP, told CoinDesk that he was \"very pleased\" to see the sanctions against Tornado Cash removed.\n\n\"Now the SDNY prosecutors should similarly reconsider their unfortunate decision to charge our client, and dismiss their case against him,\" Klein added.\n\nIn a statement, Treasury Secretary Scott Bessent said the U.S. needs to \"secure the digital asset industry from abuse by North Korea and other illicit actors.\"\n\nIn a Monday court filing, referenced by the Treasury in Friday's statement, the Treasury Department suggested it might not go so far as to remove the sanctions entirely.\n\n\"Vacating the designation of Tornado Cash in its entirety could have significantly 'disruptive consequences' for national security and law enforcement,\" the filing said.\n\nThe TORN token jumped 40% in the minutes after Treasury's statement.\n\nStephen Alpher and Cheyenne Ligon contributed reporting.\n\nUPDATE (March 21, 2025, 15:05 UTC): Adds additional detail.",
+    "url": "https://www.coindesk.com/policy/2025/03/21/u-s-government-removes-tornado-cash-sanctions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Storm",
+                "Brian Klein",
+                "Scott Bessent",
+                "Stephen Alpher",
+                "Cheyenne Ligon",
+                "Katherine Polk Failla"
+            ],
+            "positions": [
+                "Treasury Secretary",
+                "Judge"
+            ],
+            "companies": [
+                "Waymaker LLP",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Treasury Department",
+                "Office of Foreign Asset Control",
+                "Lazarus Group",
+                "Fifth Circuit",
+                "Southern District of New York",
+                "Democratic People’s Republic of Korea",
+                "Kim regime"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "TORN"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The TORN token jumped 40% immediately following the removal of sanctions against Tornado Cash, indicating positive market reaction to the regulatory development."
+    }
+}

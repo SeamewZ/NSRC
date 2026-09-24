@@ -1,0 +1,33 @@
+{
+    "title": "Japanese Bonds Stir Unease as Bitcoin Recovers From Last Week's Tariff Panic",
+    "summary": "The yield on 30-year Japanese government bonds has surged to its highest level since 2004, raising concerns among investors.",
+    "time": "2025-04-15T06:57:00",
+    "author": "Omkar Godbole",
+    "content": "Trading in financial markets feels like dodging a barrage of stones, each demanding constant vigilance and agility. Just as bitcoin\nBTC\n$101,827.26\nand traditional risk assets stabilize after last week's Trump tariff-led panic, unsettling movements in Japanese bonds emerge, throwing a spanner into the mix.\n\nThe yield on the 30-year Japanese government bonds rose to 2.88% early Tuesday, the highest since 2004, registering a nearly 60 basis point increase in one week, according to data source charting platform TradingView.\n\nThe yield differential between the 30- and five-year bonds, representing the premium investors demand to hold ultra-long bonds over five-year bonds, has widened to a nearly two-decade high. The 10-year yield has bounced roughly 30 basis points to 1.37% in one week but stays well below the recent high of 1.59%.\n\nThese moves in the ultra-long bonds have raised the alarm in the investor community, and rightfully so, as Japan has long been an international creditor and the top holder of the U.S. Treasury notes. As of January, Japan held $1.079 trillion in Treasuries. Besides, for almost two decades, Japan has been an anchor for low bond yields, especially across the advanced world, supporting increased risk-taking in financial markets.\n\nSo, the ongoing increase in the ultra-long JGBs could incentivize Japanese funds to sell international bond holdings and yen-funded risk-on carry trades and move capital back home. The resulting volatility in the U.S. Treasury market and the strengthening yen could add to risk aversion.\n\n\"Japanese have the largest international investment position in the world [and] they have a lot of money in various different markets. If that money starts to get repatriated to Japan, that would clearly be a negative,\" Garry Evans, Chief Strategist for Global Asset Allocation at BCA Research, said Monday in an interview with CNBC.\n\nBitcoin, too, could come under pressure as it did in August last year when the first round of the yen carry unwind supposedly happened.\n\nBTC is an asset with several appeals, ranging from emerging technology to a haven to a store of value. The narrative strengthened last week as the escalating tariff war between the Trump administration and China led to broad-based risk aversion. BTC, however, fell less than the Nasdaq and the S&P 500.\n\nThe relative resilience has been hailed as a sign of the cryptocurrency's evolution as low beta play by some while a hedge by others, while effectively ignoring the fact that the cryptocurrency has been trending lower since early February, likely pricing a trade war that triggered sharp losses in the U.S. stock market last week.\n\nSo, stay alert!",
+    "url": "https://www.coindesk.com/markets/2025/04/15/japanese-bonds-stir-unease-as-bitcoin-recovers-from-last-week-s-tariff-panic",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Garry Evans"
+            ],
+            "positions": [
+                "Chief Strategist for Global Asset Allocation"
+            ],
+            "companies": [
+                "BCA Research",
+                "CNBC",
+                "TradingView"
+            ],
+            "organizations": [
+                "Trump administration",
+                "U.S. Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that Bitcoin could come under pressure from Japanese bond yield increases potentially triggering capital repatriation and yen carry trade unwinds, similar to negative impacts seen in August last year."
+    }
+}

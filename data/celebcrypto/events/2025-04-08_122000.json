@@ -1,0 +1,37 @@
+{
+    "title": "XRP Could Hit $12.5 Before President Trump's Term Ends: Standard Chartered",
+    "time": "2025-04-08T12:20:00",
+    "author": "Will Canny",
+    "summary": "XRP is uniquely positioned at the heart of of cross-border payments, the report said.",
+    "content": "XRP could rise to $12.50 before President Trump leaves office, investment bank Standard Chartered (STAN) said in a report on Tuesday initiating coverage of the Ripple-related token.\n\nStandard Chartered predicts that XRP will reach $5.50 by the end of this year, $8 by 2026 year-end, $10.40 by the end of 2027, and $12.50 by end-2028. At the time of writing, XRP was up over 7% at $1.93.\n\nThe bank noted that XRP rose sixfold following Donald Trump's election victory in November, reflecting expectations that the Securities and Exchange Commission (SEC) would drop its appeal against Ripple, and because of the potential approval of XRP exchange-traded funds (ETFs).\n\nSuch gains are sustainable, the bank said, in part due to leadership changes at the SEC, but also because \"XRP is uniquely positioned at the heart of one of the fastest-growing use cases for digital assets - facilitation of cross-border and cross-currency payments.\"\n\n\"XRPL is similar to the main use case for stablecoins such as Tether: blockchain-enabled financial transactions that have traditionally been done through traditional financial (TradFi) institutions,\" wrote Geoffrey Kendrick, head of digital assets research at Standard Chartered Bank.\n\nStablecoin transactions are expected to increase tenfold in the next four years, the report said.\n\nStablecoins are cryptocurrencies whose value is tied to another asset, such as the U.S. dollar or gold. They play a major role in cryptocurrency markets and are also used for to transfer money internationally.\n\nRipple is also planning to push XRPL into the tokenization space, the bank noted. XRPL is XRP's decentralized public blockchain, and is used for payments.\n\nThese positive factors mean that XRP should keep up with its larger peer bitcoin\nBTC\n$103,966.57\n, in terms of price appreciation, the bank said.\n\nXRPL suffers from two flaws, the small number of developers and its limited value capture, but these are more than offset by positive tailwinds, the report added.\n\nRead more: First XRP ETF in the U.S. to Go Live on Tuesday With Launch of Teucrium’s Leveraged Fund",
+    "url": "https://www.coindesk.com/markets/2025/04/08/xrp-could-hit-usd12-5-before-president-trump-s-term-ends-standard-chartered",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Geoffrey Kendrick"
+            ],
+            "positions": [
+                "President",
+                "head of digital assets research"
+            ],
+            "companies": [
+                "Standard Chartered",
+                "Ripple",
+                "Teucrium"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "Standard Chartered Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Tether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports Standard Chartered's positive price predictions for XRP, citing sustainable gains due to leadership changes at the SEC and XRP's unique position in cross-border payments."
+    }
+}

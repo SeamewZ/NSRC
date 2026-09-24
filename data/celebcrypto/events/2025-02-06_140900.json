@@ -1,0 +1,28 @@
+{
+    "title": "Mining Giant Foundry Supercharges Bitcoin Layer-2 Rootstock’s Security",
+    "time": "2025-02-06T14:09:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The move enhances Rootstock’s security while generating new revenue for Foundry.",
+    "content": "Foundry, the world’s largest Bitcoin mining pool by hashrate, announced it’s diversifying its operations and bolstering the security Bitcoin layer-2 network Rootstock through merge mining.\n\nMerged mining allows miners to simultaneously mine two or more cryptocurrencies that employ the same hashing algorithm without compromising the overall mining efficiency.\n\nThe move injects 200 exahashes per second to bring Rootstock's total to 740 EH/s — roughly 80% of the total computing power currently securing the Bitcoin network — to secure Rootstock transactions.\n\nFor Foundry, this represents a new revenue opportunity, as Bitcoin mining pools choosing to merge mine earn 79% of Rootstock’s transaction fees paid in rBTC, while leveraging their existing Bitcoin mining infrastructure.\n\nBy merge mining, Foundry enhances Rootstock’s security without additional energy costs, contributing to a more robust and innovative Bitcoin ecosystem. Rootstock is a Bitcoin layer-2 network that leverages the network’s security while bringing in smart contract functionality and Ethereum Virtual Machine compatibility.\n\nCORRECT (Feb. 6, 16:10 UTC): Corrects amount injected by Foundry to 200 EH/s, taking Rootstock's total to 740 EH/s throughout. An earlier version of this story said Foundry added 740 EH/s.",
+    "url": "https://www.coindesk.com/business/2025/02/06/mining-giant-foundry-supercharges-bitcoin-layer-2-rootstock-s-security",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Foundry"
+            ],
+            "organizations": [
+                "Rootstock"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "rBTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes enhanced security for Bitcoin's layer-2 network Rootstock through merge mining by the world's largest mining pool, which strengthens the Bitcoin ecosystem and creates new revenue opportunities."
+    }
+}

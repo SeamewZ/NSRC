@@ -1,0 +1,37 @@
+{
+    "title": "Apple, Tesla Among Stocks to Get Tokenized Via DigiFT's New On-Chain Index Fund",
+    "time": "2025-03-24T19:49:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The funds, available to accredited and institutional investors, aim to change portfolio management with smart contracts and stablecoins.",
+    "content": "A Singapore-regulated cryptocurrency exchange, DigiFT, has announced it will launch what it says is the first index fund in which the shares and underlying stocks are tokenized and traded on-chain.\n\nThe platform, licensed by Singapore’s Monetary Authority, is partnering with investment firm Hash Global to debut two index funds: one tracking top artificial intelligence (AI) stocks and another tracking leading crypto assets, according to a statement.\n\nThe move, it says, replaces the traditional infrastructure behind portfolio management—brokers, banks, custodians—with smart contracts and stablecoins. Investors will subscribe to and redeem from the funds using USDT or USDC and view fund holdings in real time on the blockchain.\n\n“By bringing real-world equities fully on-chain, we remove inefficiencies, enhance accessibility, and set a new standard for how portfolios are structured, traded, and managed in a blockchain-native environment,” Henry Zhang, CEO of DigiFT, said.\n\nThe artificial intelligence-focused DigiFT Hash Global AI Index Fund will offer exposure to companies like Apple, Tesla, and Microsoft, tokenized to reflect their real-world stock values. A second fund will track major cryptocurrencies, including bitcoin, ether and Solana.\n\nThe structure gives investors round-the-clock access to the funds, greater transparency, and increased liquidity. Hash Global called tokenized equities “the most important” real-world asset to bring on-chain.\n\nThe funds will only be available to accredited and institutional investors at launch.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/apple-tesla-among-stocks-to-get-tokenized-via-digift-s-new-on-chain-index-fund",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Henry Zhang"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Apple",
+                "Tesla",
+                "Microsoft",
+                "Hash Global"
+            ],
+            "organizations": [
+                "DigiFT",
+                "Singapore's Monetary Authority"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether",
+            "Solana",
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption of blockchain technology for traditional finance, increased accessibility to crypto assets, and enhanced liquidity through tokenized funds, all of which are positive developments for the cryptocurrency market."
+    }
+}

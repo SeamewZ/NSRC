@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin Miners Sold Record Amount of BTC Ahead of May's Price Surge",
+    "summary": "With hashprice hovering near break-even levels, miners liquidated 115% of April production.",
+    "time": "2025-05-21T19:13:00",
+    "author": "Tom Carreras",
+    "content": "Bitcoin\nBTC\n$101,731.44\nnotched a new all-time high of $109,000 on Wednesday, but that's small consolation for bitcoin miners, who last month were forced to cash in a record number of their BTC reserves, according to mining news outlet TheMinerMag.\n\nThe firm’s latest research report reveals that public miners sold 115% of their bitcoin production in April — meaning they sold more than they produced. That is the highest ratio since the tail end of the 2022 bear market.\n\nEven today, with bitcoin breaking to a new record high above $109,000, hashprice (what miners earn per unit of computational power) has failed to follow suit. It stands at just $55 per petahash per second (PH/s), well below the $63/PH/s level it briefly reached the last time bitcoin crossed $100,000 in December. Elevated network difficulty and weak transaction fees have kept revenues under pressure.\n\nTop players in the mining space are expanding regardless. CleanSpark’s (CLSK) hashrate surpassed 40 EH/s, and IREN (IREN), which recently overtook Riot Platforms (RIOT) as the third largest public miner in terms of realized hashrate, posted a 25% jump in hash power and is now targeting a total of 50 EH/s by June. Cango (CANG), meanwhile, is eyeing another 18 EH/s by July.\n\nMARA Holdings' (MARA) installed hashrate is still the highest at 57.3 EH/s, according to a Tuesday report by investment bank Jefferies. IREN had the highest implied uptime at around 97%, followed by HIVE Digital Technologies (HIVE) at about 96%, the report added.\n\nMeanwhile, a shift is taking place in how miners are securing new hardware. Several public firms have inked deals with Bitmain that allow them to pay for mining rigs in bitcoin while retaining the right to repurchase their coins at a predetermined price — a hedge against further price rallies.\n\nMining stocks, battered in the first quarter, have bounced back — some by more than 60% in April alone — though most remain down year-to-date. Only CleanSpark and MARA Holdings are in positive territory for the year.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-miners-sold-record-amount-of-btc-ahead-of-mays-price-surge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CleanSpark",
+                "CLSK",
+                "IREN",
+                "Riot Platforms",
+                "RIOT",
+                "Cango",
+                "CANG",
+                "MARA Holdings",
+                "MARA",
+                "HIVE Digital Technologies",
+                "HIVE",
+                "Bitmain",
+                "Jefferies"
+            ],
+            "organizations": [
+                "TheMinerMag"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin miners sold a record 115% of their production in April, indicating forced liquidations due to poor mining profitability despite Bitcoin's price surge."
+    }
+}

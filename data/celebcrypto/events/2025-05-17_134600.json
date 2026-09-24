@@ -1,0 +1,31 @@
+{
+    "title": "Alabama Man Sentenced for Hacking SEC’s Social Media to Post Fake Bitcoin ETF News",
+    "summary": "The hack in January 2024 briefly sent bitcoin’s price surging $1,000 before crashing back down minutes later.",
+    "time": "2025-05-17T13:46:00",
+    "author": "Francisco Rodrigues",
+    "content": "A 26-year-old man from Alabama has been sentenced to more than a year in prison for his role in a social media hack that briefly sent the price of bitcoin\nBTC\n$102,205.43\nsoaring.\n\nEric Council Jr. of Huntsville pleaded guilty to charges tied to the January 2024 hack of the U.S. Securities and Exchange Commission’s X account, according to a U.S. Department of Justice press release.\n\nPosing as a telecom customer using a fraudulent ID, Council used a SIM-swap technique to hijack a phone number tied to the SEC’s account. His co-conspirators then used it to falsely post that the agency had approved spot bitcoin exchange-traded funds (ETFs), a long-awaited regulatory milestone.\n\nWithin minutes, the price of bitcoin surged by more than $1,000. It crashed soon after, losing more than $2,000 in value once the post was revealed as fake. The SEC did later that month approve the launch of spot bitcoin ETFs.\n\nAuthorities say Council was paid in bitcoin for his role. He will serve 14 months in prison followed by three years of supervised release.\n\nFederal prosecutors called the attack a calculated attempt to manipulate financial markets. “The deliberate takeover of a federal agency’s official communications platform was a calculated criminal act meant to deceive the public and manipulate financial markets,” said Acting FBI Assistant Director Darren Cox. “By spreading false information to influence the markets, Council attempted to erode public trust and exploit the financial system”",
+    "url": "https://www.coindesk.com/policy/2025/05/17/alabama-man-sentenced-for-hacking-secs-social-media-to-post-fake-bitcoin-etf-news",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Council Jr.",
+                "Darren Cox"
+            ],
+            "positions": [
+                "Acting FBI Assistant Director"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "U.S. Department of Justice",
+                "FBI"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The hack caused bitcoin's price to surge briefly then crash, losing more value than it gained, and was described as market manipulation that eroded public trust."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Gold-Backed Tokens Underperform While Wall Street Calls for Dip Buying in Precious Metal",
+    "time": "2025-02-15T17:57:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Gold’s price dropped while risk assets rose amid speculation Trump’s reciprocal tariffs are no more than a negotiating tool.",
+    "content": "Cryptocurrencies backed by gold have underperformed over the week as the price of the precious metal saw a significant drop after moving up more than 10% so far this year. The decline came as speculation surrounding Trump’s tariffs being a negotiating tool.\n\nGold-backed tokens, including Paxos gold (PAXG) and\nXAUT\n$3,986.37\n, have declined roughly 1% over the past week to trade around $2,900 while the wider crypto market rallied. The CoinDesk 20 Index rose 5.7% over the same period, and the broader MarketVector Digital Assets 100 Index (MVDA) rose 3.4%.\n\nThe precious metal saw its price drop amid growing speculation that the new tariffs threatened by U.S. President Donald Trump are meant to be a negotiating tool. This hit the price of safe-haven assets, including the commodity and the U.S. dollar.\n\nTrump announced reciprocal tariffs were on the table to match the tariff imposed by other countries on U.S. imports. Reciprocal tariffs could take months to implement, leading to speculation these are meant to allow the U.S. to negotiate with other countries.\n\nHowever, according to a recent Morgan Stanley report, gold's recent dip could still present an “opportunity for those looking for hedges” amid global reflation, geopolitical tensions, and growing fiscal spending. Wall Street giants have recently raised their gold price forecasts, which would also help the price of gold-backed digital assets rise as these are backed by bullion stored in vaults.\n\nCiti strategists recently raised their short-term gold price target to $3,000 and their average forecast for the year to $2,900. Meanwhile, UBS has hiked its 12-month gold target to $3,000 an ounce.",
+    "url": "https://www.coindesk.com/markets/2025/02/15/gold-backed-tokens-underperform-while-wall-street-calls-for-dip-buying-in-precious-metal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Morgan Stanley",
+                "Citi",
+                "UBS"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "MarketVector"
+            ]
+        },
+        "cryptocurrencies": [
+            "PAXG",
+            "XAUT"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While gold-backed tokens declined 1%, the broader crypto market rallied with the CoinDesk 20 Index up 5.7% and MarketVector Digital Assets 100 Index up 3.4%, showing mixed performance across different crypto segments."
+    }
+}

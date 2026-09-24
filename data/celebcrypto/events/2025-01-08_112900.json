@@ -1,0 +1,34 @@
+{
+    "title": "MicroStrategy’s Trading Volume Rivals That of the Top 7 U.S. Tech Stocks",
+    "time": "2025-01-08T11:29:00",
+    "author": "James Van Straten",
+    "summary": "MicroStrategy has the highest 30-day implied volatility of any magnificent seven stocks.",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of MicroStrategy (MSTR)\n\nThe bitcoin\nBTC\n$104,184.99\ndevelopment company MicroStrategy (MSTR) is one of the most volatile and traded equities on the market.\n\nVolatility within an equity can be beneficial as it allows for high-volume trading. Even though MicroStrategy has a market cap of less than $100 billion, its trading volume rivals that of the magnificent seven technology companies.\n\nAll the seven magnificent tech stocks have a market cap of at least $1 trillion, well over ten times the market capitalization of MicroStrategy, with Apple (APPL), NVIDIA (NVDA), and Microsoft (MSFT) having market caps of over $3 trillion.\n\nData from Market Chameleon shows that between Dec. 2, 2024, to Jan. 7, 2025, an average of nearly 24 million MSTR shares were traded daily. This would place MicroStrategy sixth out of the other tech stocks, above Microsoft (MSFT), which trades 20 million shares daily, and META (META), which trades 12.2 million shares daily. The clear winner is NVIDIA, with Tesla (TSLA) in second place.\n\nMicroStrategy is up around 14% year to date, with a 30-day implied volatility (IV) of 104; IV determines the market's expectation of future price movements for the asset over the next 30-day period.\n\nThe IV comes from options pricing, and considering that iShares Bitcoin Trust (IBIT) has an IV of around 60, this would make MSTR 1.7 times more volatile than IBIT. As of Jan. 7 data, MicroStrategy has the highest IV30 of 105, the highest out of all seven magnificent tech stocks, with Tesla as its closest rival with an IV30 of 71.0, according to market chameleon data.",
+    "url": "https://www.coindesk.com/markets/2025/01/08/micro-strategy-s-trading-volume-rivals-that-of-the-top-7-u-s-tech-stocks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "Apple",
+                "NVIDIA",
+                "Microsoft",
+                "Tesla",
+                "META",
+                "iShares Bitcoin Trust"
+            ],
+            "organizations": [
+                "Market Chameleon"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights MicroStrategy's high trading volume and implied volatility exceeding major tech stocks, indicating strong market interest and confidence in Bitcoin-related equities."
+    }
+}

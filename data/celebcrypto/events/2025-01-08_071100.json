@@ -1,0 +1,42 @@
+{
+    "title": "Dogecoin Slumps 10% Amid Bitcoin's Slide to $96K, $560M Long Positions Liquidated",
+    "time": "2025-01-08T07:11:00",
+    "author": "Shaurya Malwa",
+    "summary": "“History shows these dips often pave the way for bigger bullish movements, especially with where we are in the market cycle now,” one market watcher said, as some foresee a shaky period in January.",
+    "content": "DOGE\n$0.1623\nled losses among crypto majors as bitcoin\nBTC\n$104,245.66\nslid to nearly $96,000, a dump attributed to fresh economic data that sent U.S. treasury yields soaring.\n\nDOGE plunged 10%, with Solana’s SOL, Cardano’s ADA, BNB Chain’s BNB and ether\nETH\n$3,483.74\ndown at least 7%. Bitcoin fell 5.5%, while the broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market cap, fell 7.1%.\n\nCrypto-tracked futures betting on higher prices saw liquidation of $560 million, data shows, setting a relatively high level at the start of the year.\n\nLosses in crypto tracked those in U.S. stocks. The latest Institute for Supply Management (ISM) report on U.S. service providers was stronger than anticipated, with the prices-paid measure reaching its highest point since early 2023.\n\nConcurrently, U.S. job openings rose more than forecasted. These developments led to a decline in Treasury securities across various maturities, pushing the 10-year Treasury yield to its highest since May.\n\nA liquidation occurs when an exchange forcefully closes a trader's leveraged position due to the inability to meet the margin requirements. When many traders are forced to sell at the same time due to long liquidations, it creates a cycle where falling prices lead to more liquidations, which in turn causes prices to drop more.\n\nAs such, market watchers consider Tuesday’s drop to be a blip in the long term.\n\n“Markets took a hit yesterday, with Bitcoin and Ethereum dropping hard, mostly because stronger-than-expected U.S. job data dimmed hopes for more rate cuts this year,” shared Vince Yang, CEO and cofounder of zkLink in a Telegram message. “It’s the kind of broader sentiment shift we’ve seen before, nothing unusual for crypto.”\n\n“That said, we are still optimistic. History shows these dips often pave the way for bigger bullish movements, especially with where we are in the market cycle now, and with a more crypto-friendly administration in the US coming in, there’s every reason to believe we’re heading for some exciting times ahead,” Yang added.\n\nSingapore-based QCP Capital, however, sticks to their view of a shaky period for crypto markets in January.\n\n“It won’t be smooth sailing into January, as structural risks loom,” QCP said in a Telegram broadcast on Wednesday. “The U.S. Treasury debt ceiling reinstatement is projected to be reinstated mid-month, requiring the Treasury to adopt \"extraordinary measures\" to fund government expenditures.”\n\n“This could trigger market volatility as discussions around the issue intensify,” QCP added.",
+    "url": "https://www.coindesk.com/markets/2025/01/08/dogecoin-slumps-10-amid-bitcoins-slide-to-96-k-560-m-long-positions-liquidated",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vince Yang"
+            ],
+            "positions": [
+                "CEO and cofounder"
+            ],
+            "companies": [
+                "zkLink",
+                "QCP Capital"
+            ],
+            "organizations": [
+                "Institute for Supply Management (ISM)",
+                "U.S. Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "Cardano",
+            "ADA",
+            "BNB Chain",
+            "BNB",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price drops across major cryptocurrencies, $560 million in long position liquidations, and attributes the decline to negative economic data and market volatility."
+    }
+}

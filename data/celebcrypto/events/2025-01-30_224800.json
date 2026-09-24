@@ -1,0 +1,36 @@
+{
+    "title": "Coinbase Files Paperwork To List Solana, Hedera Futures",
+    "time": "2025-01-30T22:48:00",
+    "author": "Helene Braun",
+    "summary": "Coinbase is looking to list the futures as soon as Feb. 18, it said in the filing.",
+    "content": "Coinbase Derivatives, a subsidiary of the crypto exchange, has filed documents with the Commodity Futures Trading Commission (CFTC) to list Solana\nSOL\n$159.89\nand Hedera (HBAR) futures.\n\nThe exchange plans to launch the product on Feb 18., with new contracts being cash-settled on a monthly basis, according to the filing.\n\nThe contract size for the Solana futures would be 100 SOL, currently worth roughly $24,000, if approved. It would also offer \"nano\" Solana contracts with five SOL. Hedera futures would be sized at 5,000 tokens.\n\nThe move comes after several players in crypto have taken steps to launch new products following the inauguration of crypto-friendly President Donald Trump. Just last week, futures and options exchange CME accidentally posted the futures page for XRP and SOL in their \"staging subdomain.\"\n\nCME told CoinDesk that the leak was an error and that no decision had been made on whether it would launch SOL or XRP futures.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/coinbase-files-paperwork-to-list-solana-hedera-futures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Coinbase",
+                "Coinbase Derivatives",
+                "CME"
+            ],
+            "organizations": [
+                "Commodity Futures Trading Commission",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Hedera",
+            "HBAR",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Coinbase filing to list new cryptocurrency futures products, which typically indicates institutional adoption and market confidence in these assets."
+    }
+}

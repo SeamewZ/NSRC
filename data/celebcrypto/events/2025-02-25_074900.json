@@ -1,0 +1,48 @@
+{
+    "title": "Bitcoin Slides Below $87K to 3-Month Low as Nasdaq Futures Dip, Yen Sparks Risk-Off Fears",
+    "time": "2025-02-25T07:49:00",
+    "author": "Omkar Godbole",
+    "summary": "BTC hits three-month as Nasdaq futures point to continued risk aversion in stocks and the anti-risk Japanese yen strengthens against the U.S. dollar.",
+    "content": "Bitcoin (BTC) dropped below $87,000 while the broader crypto market slumped as a Monday sell-off extended into Tuesday. U.S. equity indexes fell and a strengthening yen sparked fears of an August-like surge in risk aversion.\n\nThe largest cryptocurrency fell to as low as $86,100, a level last seen in mid-November, CoinDesk data shows. Ether (ETH), the second largest, dropped 10% over 24 hours to $2,400. Solana's SOL fell as much as 14% — bringing 7-day losses to over 20% — while dogecoin (DOGE) and xrp (XRP) lost 11%. The CoinDesk 20 Index (CD20), a measure of the broader crypto market, was recently 5.6% lower.\n\n\"Despite U.S. President Donald Trump’s recent pro-Bitcoin stance, three state-level proposals for Bitcoin reserves failed in Montana, North Dakota, and Wyoming. The reluctance to adopt state-run Bitcoin reserves underscores the political risks, as policymakers avoid accusations of speculating with taxpayer funds,\" said Valentin Fournier, analyst at BRN.\n\n\"A nationwide reserve strategy—potentially backed by a bond issuance or a partial sale of U.S. gold reserves—could be a more viable path for future adoption,\" Fournier added.\n\nAccording to some observers, BTC's weakness is consistent with the decline in the global money supply early this year. \"There appears to be a lag between global money supply and BTC,\" Andre Dragosch, Bitwise's head of research in Europe, said on X, noting the price drop. Note that the money supply has bottomed out recently, meaning BTC's price swoon may not last for long.\n\nIn traditional markets the Nasdaq 100, a measure of technology stocks, fell more than 1%, extending three-day losing streak. The tech-heavy index has dropped more than 4% since Feb. 18.\n\nThe yen, a haven in turbulent times, traded at 148.9 per dollar and looked set to challenge the near three-month high of 148.84 hit Monday. The JPY has strengthened nearly 6% in six weeks on bets that the Bank of Japan (BOJ) will raise rates.\n\nThe BOJ rate hike talk and the yen strength has revived memories of July when the yen surged on the central bank's rate hike, eventually leading to a broad-based risk aversion that saw bitcoin crash from roughly $65,000 to $50,000 within days.\n\n\"Massive Yen strengthening - sometimes occurs with big risk off,\" Joseph Wang, operator of the research portal fedguy.com said last week.\n\nFurther declines in bitcoin may be on the cards, according to the Glassnode metric, UTXO Realized Price Distribution (URPD). The measure shows the prices at which the current set of Bitcoin UTXOs, or unspent transaction outputs, were created.\n\nEach bar shows the number of existing bitcoin that last moved within that specified price bucket. Very little supply sits between $70,000 and $90,000, compared with other ranges, if bearish sentiment continues the bottom of the range could be visited.\n\nJames Van Straten contributed reporting.\n\nUPDATE (Feb. 25, 09:12 UTC): Adds additional details.\n\nUPDATE (Feb. 25, 12:54 UTC): Updates prices, adds broader crypto market in second paragraph.\n\nCORRECT (Feb. 25, 16:00 UTC): Correct spelling of Bitwise in fifth paragraph; updates prices, adds outlook in last two paragraphs.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/bitcoin-slides-below-usd89k-to-3-month-low-as-nasdaq-futures-dip-japanese-yen-sparks-risk-off-fears",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Valentin Fournier",
+                "Andre Dragosch",
+                "Joseph Wang",
+                "James Van Straten"
+            ],
+            "positions": [
+                "analyst",
+                "head of research",
+                "operator"
+            ],
+            "companies": [
+                "Bitwise",
+                "fedguy.com"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "BRN",
+                "Bank of Japan",
+                "BOJ",
+                "Glassnode"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "dogecoin",
+            "DOGE",
+            "xrp",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping to a three-month low, broader crypto market slumping with double-digit losses for major cryptocurrencies, and risk aversion fears driving the sell-off."
+    }
+}

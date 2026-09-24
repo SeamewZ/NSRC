@@ -1,0 +1,36 @@
+{
+    "title": "Stablecoin Giant Circle Files for IPO on NYSE",
+    "time": "2025-05-27T11:27:00",
+    "author": "Parikshit Mishra",
+    "summary": "The company's shares will trade under the ticker \"CRCL.\"",
+    "content": "Circle Internet Group, the firm behind stablecoin USDC, has filed for an initial public offering on the New York Stock Exchange, the firm said on Tuesday.\n\nCircle is offering 24 million of its class A shares, 9.6 million of which are being offered by the firm and 14.4 million shares by selling stakeholders. It also expects to grant the underwriters a 30-day option to buy up to 3.6 million shares.\n\nThe IPO price is expected to be between $24 and $26 per share. Based on the higher end of the range, Circle could raise almost $250 million, while the selling stakeholders could get nearly $375 million for their stake.\n\nCathie Wood's ARK has expressed interest in buying $150 million worth of shares from the IPO, the USDC-issuer said in a filing.\n\nCathie Wood's ARK Investment have indicated an interest in buying $150 million shares of the USDC-issuer from the IPO, Circle said in a filing.\n\nJ.P. Morgan, Citigroup, and Goldman Sachs & Co. LLC are acting as joint lead active bookrunners for the offering. The stablecoin giant will trade under the ticker 'CRCL.\"\n\nThe Jeremy Allaire-led firm has been trying to go public for almost 4 years. In 2021, Circle tried to go public through a special purpose acquisition company (SPAC), which later fell through.\n\nIn April, the firm filed for an S-1 form with the Securities and Exchange Commission (SEC) in order to get listed. However, it was later reported that the USDC-issuer was looking to delay its IPO.\n\nLast week, Fortune reported that Circle also explored a $5 billion sale instead of going through the IPO route. It was also reported that listed crypto exchange Coinbase (COIN) and payments firm Ripple, which also has its RLUSD stablecoin, were among the suitors.\n\nRead more: Circle Has Explored Potential $5B Sale to Coinbase or Ripple Instead of IPO: Report\n\nUPDATE (May 27, 11:47 UTC): Adds additional details on Circle's IPO history.\nUPDATE (May 27, 12:50 UTC): Adds details on ARK\n\nUPDATE (May 27, 12:53 UTC): Adds details on ARK expressing interest in buying Circle shares from the IPO.",
+    "url": "https://www.coindesk.com/business/2025/05/27/stablecoin-giant-circle-files-for-ipo-on-nyse",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire",
+                "Cathie Wood"
+            ],
+            "positions": [],
+            "companies": [
+                "Circle Internet Group",
+                "ARK Investment",
+                "J.P. Morgan",
+                "Citigroup",
+                "Goldman Sachs & Co. LLC",
+                "Coinbase",
+                "Ripple"
+            ],
+            "organizations": [
+                "New York Stock Exchange",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "RLUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "A major stablecoin issuer filing for IPO with institutional interest from ARK Investment and major banks indicates growing mainstream adoption and market confidence in cryptocurrency infrastructure."
+    }
+}

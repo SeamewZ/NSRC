@@ -1,0 +1,37 @@
+{
+    "title": "What Is TAO, the Bittensor Token Causing Friction Between Barry Silbert and Bitcoiners?",
+    "time": "2025-04-22T15:57:00",
+    "author": "Oliver Knight",
+    "summary": "TAO has a 21 million fixed token supply and goes through block reward halvings, like BTC.",
+    "content": "TAO, the native token of AI-focused blockchain Bittensor, has been causing tension on X between Digital Currency Group founder Barry Silbert and staunch supporters of bitcoin (BTC), the original and largest cryptocurrency.\n\nAuthor and bitcoin supporter Parker Lewis called Silbert and Raoul Pal, the presenter of The Journey Man podcast, a group of \"affinity scammers\" for promoting TAO on a recent episode.\n\nSilbert responded by writing: \"calling $TAO a scam is such a lazy attack. do better\"\n\nGrayscale Investments, one of Digital Currency Group's subsidiaries, runs a Bittensor Trust that currently has around $8 million in assets under management. It also has a spot bitcoin exchange-traded fund (GBTC) with $16.6 billion under management as well as a bitcoin mini trust ETF.\n\nSilbert sparked the bitcoiners' ire by comparing Bittensor to the Bitcoin blockchain.\n\n\"It's just like bitcoin, there was a white paper that turned into code then launched and it has the same token economics,\" he said in the podcast.\n\nWhile there are some similarities to BTC in that TAO's supply is capped at 21 million tokens and it goes through block reward halving events, there are also stark differences in terms of the project's ethos and use case.\n\nBittensor is a decentralized network that merges blockchain technology with machine learning. It was designed to become a peer-to-peer AI market, where users can share and monetize AI models.\n\nBitcoin was spawned out of the Libertarian cypherpunk era and designed primarily as a peer-to-peer payment method that avoided government-issued currency. In recent years has also emerged a store of value, becoming a mainstay on company balance sheets to mitigate rising inflation.\n\nThe TAO token was released two years ago and has experienced extreme volatility, rising to above $700 on two occasions in 2024 before cratering to around $200 both times. It was trading recently around $339.\n\nBitcoin, meanwhile, has risen from $22,000 since the start of 2023 to as high as $109,000 in January. While it's had its ups and downs, they're not as marked as the plunges typically seen across the altcoin market. Bitcoin is currently priced around $90,000 with a market cap about $1.8 trillion. TAO has a market cap around $2.98 billion, according to data on CoinMarketCap.",
+    "url": "https://www.coindesk.com/business/2025/04/22/what-is-tao-the-bittensor-token-causing-friction-between-barry-silbert-and-bitcoiners",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Barry Silbert",
+                "Parker Lewis",
+                "Raoul Pal"
+            ],
+            "positions": [
+                "founder",
+                "presenter",
+                "supporter"
+            ],
+            "companies": [
+                "Digital Currency Group",
+                "Grayscale Investments"
+            ],
+            "organizations": [
+                "Bitcoin blockchain",
+                "The Journey Man podcast"
+            ]
+        },
+        "cryptocurrencies": [
+            "TAO",
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes market tension and debate between parties but does not indicate clear positive or negative market movement, with mixed price performance mentioned for both TAO and Bitcoin."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "BlackRock’s Bitcoin ETF Reaches Record Low Volatility, Draws Billions in Flows",
+    "summary": "As IBIT attracts institutional capital, Strategy sees one of its lowest volatility readings, dampening speculative interest.",
+    "time": "2025-05-30T08:15:00",
+    "author": "James Van Straten",
+    "content": "BlackRock’s iShares Bitcoin Trust exchange-traded fund (IBIT) is experiencing record-low volatility, according to Senior Bloomberg ETF analyst Eric Balchunas, which is attracting more interest from larger investors looking for a \"digital gold\" rather than speculative tech-like behavior.\n\nThe 90-day rolling volatility of 47.64 is the lowest since the ETF was introduced in January 2024, Balchunas posted on X, a degree of stability that can be self-reinforcing. As volatility drops, larger and more risk-averse investors tend to enter, which in turn further suppresses volatility.\n\n\"The thing with volatility is it can become self-fulfilling,\" Balchunas said in his post. \"The lower the volatility gets, the more bigger investors will bite who will help lower volatility even more. The same 'should' happen with correlation too. This is a direct result of the ‘suitcoiners.’”\n\nThe trend is already underway, Balchunas said, citing IBIT’s outsized inflows in recent weeks. Since its debut, IBIT has pulled in $49 billion in net inflows, more than four times the amount invested into the second-ranked Fidelity Wise Origin Bitcoin Fund (FBTC), which has attracted less than $12 billion, data from Farside Investors show.\n\nIn contrast, Strategy (MSTR), the software company that has made buying bitcoin\nBTC\n$101,723.18\na strategic priority, operates on a different appeal. MSTR attracts speculators and options traders who thrive on higher implied volatility (IV). However, even MSTR’s IV has dipped recently to 60%, with historical volatility at 49%, contributing to its muted price action.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/blackrocks-bitcoin-etf-reaches-record-low-volatility-draws-billions-in-flows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "Senior Bloomberg ETF analyst"
+            ],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "Strategy (MSTR)"
+            ],
+            "organizations": [
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record-low volatility attracting larger institutional investors and billions in net inflows to BlackRock's Bitcoin ETF, indicating growing market confidence and stability."
+    }
+}

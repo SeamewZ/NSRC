@@ -1,0 +1,25 @@
+{
+    "title": "Centrifuge Taps Wormhole to Launch Multichain Tokenization Platform",
+    "summary": "Centrifuge V3 aims to unify real-world asset tokenization across blockchains, and is starting with the $230 million Janus Henderson Anemoy Treasury Fund.",
+    "time": "2025-04-10T15:27:00",
+    "author": "Francisco Rodrigues",
+    "content": "Real-world asset tokenization platform Centrifuge has launched its latest upgrade, Centrifuge V3, in partnership with multichain messaging protocol Wormhole.\n\nThe new system is designed to facilitate fund managers' and investors' management of tokenized assets across multiple blockchains using a single interface.\n\nThe roll-out begins with a $230 million fund from Anemoy, a crypto-native asset manager powered by Centrifuge. The fund invests in U.S. Treasury securities managed by Janus Henderson and marks one of the larger real-world asset tokenizations to date.\n\nCentrifuge V3 introduces “full chain abstraction,” which allows users to invest, administer, and issue tokenized assets without directly interacting with blockchain infrastructure, according to a press release shared with CoinDesk.\n\nWormhole, a popular cross-chain bridge, powers the interoperability. Its role in the partnership is to ensure that tokenized assets on Centrifuge are fully composable — usable in decentralized finance and institutional platforms alike.\n\nCentrifuge has been expanding over time. Last year, it raised $15 million in an “oversubscribed” fundraising round as it expanded to Coinbase’s layer-2 network Base.",
+    "url": "https://www.coindesk.com/markets/2025/04/10/centrifuge-taps-wormhole-to-launch-multichain-tokenization-platform",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Centrifuge",
+                "Wormhole",
+                "Anemoy",
+                "Janus Henderson",
+                "Coinbase"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a major multichain tokenization platform with a $230 million fund represents institutional adoption and expansion of real-world asset tokenization, indicating positive market development."
+    }
+}

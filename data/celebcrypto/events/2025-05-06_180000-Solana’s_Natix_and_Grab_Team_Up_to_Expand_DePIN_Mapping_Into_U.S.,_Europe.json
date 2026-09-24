@@ -1,0 +1,32 @@
+{
+    "title": "Solana’s Natix and Grab Team Up to Expand DePIN Mapping Into U.S., Europe",
+    "summary": "The collaboration will enhance mapping accuracy by combining Natix’s network with Grab’s mapmaking technology.",
+    "time": "2025-05-06T10:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "NATIX, a decentralized physical infrastructure network (DePIN) focused on mapping data on Solana, shared Tuesday that it is teaming up with taxi service Grab to provide more accurate mapping technologies.\n\nGrab, which is known for its taxi services in southeast Asia but also crowdsources mapping data for its technological mapping arm, will be using its collaboration with NATIX to expand its footprint into the U.S. and Europe.\n\nThe partnership consists of the NATIX team using Grab’s hardware and software technologies for mapmaking. “We take care of the data collection side, and we essentially monetize this together,” said Alireza Ghods, the co-founder of NATIX to CoinDesk in an interview. “They're buying the data that we generate to build their pipeline for the U.S. and for Europe. And on the other side, they're giving us both their hardware technology as well as the AI technology that basically analyzes the images to build maps and map services like navigation.”\n\n“We’re starting in the markets of the EU and US, where [Grab] is not present. So this is us combined with Grab, going for global expansion,” Ghods added.\n\nDePIN is a blockchain-based system that crowdsources real-world infrastructure, like data collection, and verifies them through decentralized technologies. DePIN projects often appear in the Solana ecosystem thanks to the blockchain’s fast transaction speeds and low transaction costs.\n\nNATIX is a project within Solana’s DePIN ecosystem that enables users to contribute street data and mapping visuals via smartphones. The crowdsourced data is then used to build decentralized maps, which can be leveraged by AI models, especially for autonomous driving and smart city applications. Users are also rewarded NATIX’s native token, $NATIX, for their contributions as a way to incentivize them to participate in the network.\n\n“The reason that we actually did the collaboration is due to the power of DePIN combined with a very well established enterprise grade technology, \" said Ghods. “I think it's one of the few sectors in crypto that really, really makes sense.”\n\nRead more: DePIN 2.0: What the Next Generation of DePINs Is Doing Differently",
+    "url": "https://www.coindesk.com/tech/2025/05/06/solanas-natix-and-grab-team-up-to-expand-depin-mapping-into-us-europe",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alireza Ghods"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "NATIX",
+                "Grab",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Solana"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "$NATIX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The collaboration between NATIX and Grab represents expansion and technological advancement in the Solana DePIN ecosystem, indicating positive market development and growth potential."
+    }
+}

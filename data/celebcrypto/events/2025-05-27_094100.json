@@ -1,0 +1,35 @@
+{
+    "title": "The '$300K Bitcoin Lottery' Grows Even Bigger as Traders Chase Upside – Time to Step Back?",
+    "summary": "The popularity of the June expiry $300K call reflects aggressive speculative positioning by traders anticipating continued upside, Deribit's Lin Chen said.",
+    "time": "2025-05-27T09:41:00",
+    "author": "Omkar Godbole",
+    "content": "Earlier this month, CoinDesk highlighted the rising demand for the Deribit-listed $300,000 bitcoin\nBTC\n$101,860.90\ncall option, noting it as one of the most popular bullish plays for the all-important June quarter expiry.\n\nNow, this bet has become the most popular in the impending quarterly expiry, reinforcing its appeal as a \"lottery ticket\" for traders anticipating a bitcoin price rally above $300,000 by the end of the next month.\n\nAt press time, the $300,000 call option was the most popular bet in the June 27 expiry, with a notional open interest of over $600 million, up from $484 million three weeks ago, according to data source Deribit. Notional open interest represents the dollar value of the number of active or open contracts at a given time. On Deribit, one options contract represents one BTC.\n\n\"The June $300K BTC call options have emerged as the strike with the highest open interest [in June expiry], reflecting aggressive speculative positioning by traders anticipating continued upside,\" Deribit's Asia Business Development Head Lin Chen told CoinDesk.\n\n\"The combination of record-breaking volumes and concentrated options bets signals elevated market confidence—and the potential for heightened volatility ahead,\" Chen added.\n\nDeribit's notional options open interest hit a record high of $42.5 billion last week. The momentum is mirrored in the platform’s newly launched block RFQ (Request for Quote) system, registering a historic record of nearly $1 billion in daily volume.\n\nA call option gives the purchaser the right but not the obligation to buy the underlying asset, BTC, at a predefined price on or before a specific date. A call buyer is implicitly bullish on the market.\n\nThe $300,000 call expiring on June 27 represents a bet that bitcoin's price will rise three times from the present $110,000 to over $300,000 by the end of the first half.\n\nThe bet sounds outlandish, as the first half will end in roughly four weeks. But that's been the case lately on Deribit, with traders increasingly targeting upside potential through short-term options.\n\nThat is evidenced by front-end risk reversals, measuring the demand for calls relative to puts over short-term, being pricier than those with longer maturities.\n\nThe chart by Amberdata shows risk reversals are positive across the board, indicating a bias for bullish call options. However, short-duration calls are pricer than longer-duration ones. Usually, the opposite is the case.\n\nThe trend indicates a heightened appetite for quick-paced bullish bets among market participants.\n\n\"The three-day Bitcoin Conference 2025 is all set to start in Las Vegas today, and so people are speculating on what new bullish announcements will be released at the event,\" Chen explained.\n\nThe growing demand for short-duration calls could be a contrarian signal suggesting that speculative excess is often seen near market tops, according to Markus Thielen, founder of 10x Research.\n\nThielen said the options market is flashing a warning, with the seven-day calls trading at a 10% premium to puts.\n\n\"The options market is flashing a warning: Bitcoin’s skew, measuring the difference in implied volatility between puts and calls, has dropped to nearly -10%, indicating calls are pricing in significantly more volatility than puts,\" Thielen said in a note to clients.\n\n\"This suggests traders are aggressively chasing upside rather than hedging downside risk. In our experience, such extreme skew levels often reflect peak bullish sentiment, a classic contrarian signal,\" Thielen added.",
+    "url": "https://www.coindesk.com/markets/2025/05/27/the-usd300k-bitcoin-lottery-grows-even-bigger-as-traders-chase-upside-time-to-step-back",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lin Chen",
+                "Markus Thielen"
+            ],
+            "positions": [
+                "Asia Business Development Head",
+                "founder"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk",
+                "Amberdata",
+                "10x Research"
+            ],
+            "organizations": [
+                "Bitcoin Conference 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record-breaking options volumes, concentrated bullish bets, elevated market confidence, and traders aggressively chasing upside potential through short-term call options."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "HyperLiquid Delists JELLY After Vault Squeezed in $13M Tussle",
+    "time": "2025-03-26T16:00:00",
+    "author": "Oliver Knight",
+    "summary": "HyperLiquid ended the dispute by delisting JELLY and forcibly closing all positions.",
+    "content": "Hyperliquidity Provider (HLP), a market making vault that is a part of derivatives exchange HyperLiquid, faced a grueling loss after a trader allegedly manipulated the price of the JELLY token.\n\nHyperLiquid's native token (HYPE) fell by 20% after HLP's unrealized PNL temporarily stood at negative $13.5 million.\n\nAccording to Lookonchain, a trader that held $4.85 million of the JELLY token combined a short trader on HyperLiquid with on-chain spot buys, this liquidated the position on HyperLiquid and essentially meant HLP inherited that short position.\n\nHLP is an automated market making bot that ties in with the exchanges liquidation engine.\n\nThe trader then aggressively bought JELLY on spot exchanges, pushing the price up and temporarily causing HLP's unrealized loss to stand at $13.5 million. Liquidity on decentralized exchanges is minimal, so moving price is relatively easy compared to HyperLiquid.\n\nThen, in an attempt to minimize losses HyperLiquid appeared to force close the JELLY market, settling it at $0.0095 as opposed to $0.50 that was being fed to oracles via decentralized exchanges.\n\n\"After evidence of suspicious market activity, the validator set convened and voted to delist JELLY perps,\" HyperLiquid wrote on X. \"All users apart from flagged addresses will be made whole from the Hyper Foundation. This will be done automatically in the coming days based on onchain data.\"\n\nNewfound Research CEO Corey Hoffstein questioned the legality of HyperLiquid's actions as social media descended into outrage. The trader who manipulated the JELLY market ended up with a small loss.\n\nHyperLiquid's delisting led to another player entering the mix: Binance. The largest cryptocurrency exchange by trading volume saw an opportunity and announced that it was listing futures tied to JELLY, causing spot prices to skyrocket by 560%.\n\nThe case draws similarities to an exploit that occurred on Mango Markets in 2022, where a trader called Avraham Eisenberg created a \"highly profitable trading strategy\" that involved manipulating oracle prices to secure a gain on derivative markets.",
+    "url": "https://www.coindesk.com/markets/2025/03/26/hyperliquid-delists-jellyjelly-after-vault-squeezed-in-usd13m-tussle",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Corey Hoffstein",
+                "Avraham Eisenberg"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "HyperLiquid",
+                "Newfound Research",
+                "Binance",
+                "Mango Markets"
+            ],
+            "organizations": [
+                "Hyper Foundation",
+                "Lookonchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "JELLY",
+            "HYPE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The event describes significant losses ($13.5 million), price manipulation, forced delisting, and a 20% drop in HyperLiquid's native token, indicating negative market consequences."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "WazirX Creditors Back Restructuring Plan to Payback $230M Hack Victims",
+    "time": "2025-04-08T07:59:00",
+    "author": "Shaurya Malwa",
+    "summary": "The scheme would trigger an initial payout within 10 business days, followed by phased resumptions of withdrawals and trading, subject to regulatory compliance.",
+    "content": "Crypto exchange WazirX has bagged over 93% approval votes from creditors for its proposed Scheme of Arrangement, bringing victims of its $230 million July hack closer to a partial asset recovery.\n\nThe voting process, conducted on the Kroll Issuer Services platform from March 19 to March 28, involved over 141,000 creditors representing $195.65 million in approved claims.\n\nOf those, 131,659 creditors, holding $184.99 million, voted in favor, equating to 93.1% by count and 94.6% by value. This exceeded the requirements of Singapore’s Companies Act, where parent Zettai is based, which mandated a majority by count and 75% by value for approval.\n\nIf the scheme was not approved, the process would have shifted towards liquidation under Singapore's Companies Act, likely resulting in lower asset recovery for creditors with an estimated date of 2030, WazirX said in February.\n\nWith the voting results now in hand, Zettai plans to seek a sanction from the Singapore Court. If approved, the scheme would trigger an initial payout within 10 business days, followed by phased resumptions of withdrawals and trading, subject to regulatory compliance.\n\nPart of the refund plan is to launch a decentralized exchange (DEX), Issue recovery tokens that can be traded, and perform a periodic buyback of recovery tokens using platform profits and new revenue streams.\n\nWazirX users lost over $230 million in a Lazarus Group-led security breach in July 2024 after an apparent private key interception, which the exchange attributed to its custody provider, Liminal, a claim the latter rejected, pointing instead to vulnerabilities on WazirX’s end.\n\nThe hacker laundered all the stolen funds to various addresses using Tornado Cash to obscure the transactions, as CoinDesk reported in September, dampening hopes of a full recovery. WazirX has since worked to recover the funds with limited success.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/wazirx-creditors-back-restructuring-plan-to-payback-usd230m-hack-victims",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "WazirX",
+                "Zettai",
+                "Liminal",
+                "Kroll Issuer Services",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "Singapore Court"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $230 million security breach and hack that resulted in significant user losses, which represents a negative security event for the cryptocurrency market."
+    }
+}

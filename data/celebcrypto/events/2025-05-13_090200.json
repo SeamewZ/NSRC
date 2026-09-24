@@ -1,0 +1,32 @@
+{
+    "title": "Cardano to Directly Feature Blockchain and Assets on Brave Browser",
+    "time": "2025-05-13T09:02:00",
+    "author": "Shaurya Malwa",
+    "summary": "The browser's native wallet will expand to support ADA, governance features and Cardano-based tokens.",
+    "content": "Brave Wallet, the crypto wallet integrated into the privacy-focused Brave web browser, will soon support the Cardano blockchain, allowing users to send, receive and swap ADA\nADA\n$0.5492\nand Cardano-native assets directly.\n\nThe move comes as Brave deepens its multichain functionality beyond existing support for networks like Ethereum and Solana, according to a release from Input Output (IO), which develops applications for and supports the Cardano network.\n\nOnce the integration is complete, users will be able to access Cardano governance features, sign transactions and manage assets without relying on third-party browser extensions.\n\nCharles Hoskinson, CEO of IO, described the rollout as part of a broader effort to support secure and private on-chain participation. He emphasized its relevance as Cardano enters the Voltaire era, a phase focused on decentralized governance.\n\nBrave Wallet’s upcoming support also lays the groundwork for future work involving Midnight, IO’s privacy-focused blockchain project built around confidential smart contracts and data protection.",
+    "url": "https://www.coindesk.com/markets/2025/05/13/cardano-to-directly-feature-blockchain-and-assets-on-brave-browser",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charles Hoskinson"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Input Output (IO)",
+                "Brave"
+            ],
+            "organizations": [
+                "Cardano"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of Cardano into Brave Browser expands accessibility and functionality, indicating positive market development and increased adoption potential."
+    }
+}

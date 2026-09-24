@@ -1,0 +1,44 @@
+{
+    "title": "Bitcoin Fades From Highs After No Crypto Mentions During Trump's Inauguration Speech",
+    "time": "2025-01-20T17:46:00",
+    "author": "Stephen Alpher",
+    "summary": "The president has promised — and seems intent on delivering — policies embracing what possibly could become transformative technology.",
+    "content": "A possible U.S. strategic bitcoin reserve will have to wait at least a bit longer as President Donald Trump didn't bring the subject up at his inauguration speech on Monday afternoon.\n\nIn addition to that disappointment, a report showing GOP congressional priorities didn't include mention of bitcoin or crypto.\n\nAlready on a wild ride both higher and lower over the past days, the price of bitcoin\nBTC\n$104,608.94\nfell during the speech, now testing the $100,000 level and down from an overnight high above $109,000.\n\nWhile the previous administration chose to focus on the negative in its unrelenting attacks on crypto over the past years, Trump has promised — and seems intent on delivering — policies embracing what possibly could become transformative technology.\n\nAmong his moves prior to today, Trump appointed venture capitalist and former PayPal COO David Sacks as the White House's so-called \"A.I. & Crypto Czar.\" He has also nominated longtime D.C. veteran and crypto advocate Paul Atkins to lead the Securities and Exchange Commission.\n\nTrump's crypto embrace — at least to some — hasn't been without missteps. Just over the weekend, the president ignited a speculative frenzy with the Friday evening launch of the Trump memecoin, that was shortly followed by a memecoin associated with his wife Melania.\n\n\"It’s absolutely preposterous that he would do this,\" said Nic Carter of crypto investment firm Castle Island Ventures and an otherwise major supporter of Trump. \"They’re plumbing new depths of idiocy with the memecoin launch.\"\n\nA check of Polymarket finds the betting odds of a strategic bitcoin reserve being created in Trump's first 100 days in office have dipped to 45% from a high of 60% earlier in the day.",
+    "url": "https://www.coindesk.com/markets/2025/01/20/bitcoin-fades-from-highs-after-absence-from-trump-inauguration-speech",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "David Sacks",
+                "Paul Atkins",
+                "Nic Carter",
+                "Melania"
+            ],
+            "positions": [
+                "President",
+                "venture capitalist",
+                "former PayPal COO",
+                "White House's so-called \"A.I. & Crypto Czar\"",
+                "longtime D.C. veteran",
+                "crypto advocate",
+                "Securities and Exchange Commission leader"
+            ],
+            "companies": [
+                "PayPal",
+                "Castle Island Ventures",
+                "Polymarket"
+            ],
+            "organizations": [
+                "GOP",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Trump memecoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin price fell during Trump's speech and tested lower levels after no crypto mentions, with betting odds for a strategic bitcoin reserve dropping from 60% to 45%."
+    }
+}

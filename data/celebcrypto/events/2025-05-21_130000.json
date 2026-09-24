@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Mining Startup Sangha Sees $42M Revenue as It Breaks Ground on West Texas Pilot Project",
+    "summary": "The firm expects its 19.9 MW bitcoin mine to be running by the end of July.",
+    "time": "2025-05-21T13:00:00",
+    "author": "Tom Carreras",
+    "content": "Sangha Renewables, a bitcoin\nBTC\n$101,731.44\nmining firm that aims to enable renewable energy companies to mine bitcoin, broke ground Wednesday on its flagship 19.9 megawatt (MW) solar facility in West Texas.\n\n“We have been extremely pleased with the development so far,” Spencer Marr, the firm’s president, told CoinDesk in a statement. “We made the decision to use our own funds to buy long lead time electrical infrastructure last November, even prior to the deal closing, to ensure we could be mining as soon as possible, and that has paid off.”\n\n“We also have a great team of partners and suppliers, including CSD Energy, EcoDigital, Moonshot Electrical, Fusion Industries, Greenhash and Pro Mining Solutions that have all pitched in to make this a success,” Marr added.\n\nWhereas most mining companies focus on acquiring mining rigs and seeking the cheapest electricity contracts possible to produce bitcoin, Sangha’s approach is markedly different: to convince large renewable energy companies to incorporate bitcoin mining into their own business models.\n\nThe pitch is simple. Green energy projects often suffer from a mismatch in production and demand. A wind farm, for example, may generate a lot of electricity on a windy night — right when everyone is asleep and consumption is lowest. Instead of selling that surplus electricity at a loss, the affected company could potentially switch on bitcoin mining machines and turn a profit.\n\nThe West Texas project is Sangha’s pilot program. For now, Sangha itself owns the miner through a series of subsidiaries, and purchases electricity from the energy company, though the energy company may eventually integrate the operation.\n\nThe project is expected to generate $42 million in revenue in the first 12 months and mine roughly 900 bitcoin over the next 10 years. It will have access to electricity for anywhere between 2.8 cents and 3.2 cents per kilowatt-hour on a 30-year lease, meaning that investors will be able to acquire bitcoin at a 25% to 50% discount.\n\nConstruction is projected to close in the second half of July, though unforeseen events may push that back a month, Marr said. Bitcoin mining should begin soon as construction is complete.\n\n“We expect to commission the project over the summer and use that time to iron out any initial kinks,” Marr said. “We purposely ordered 2% more ASICs than we needed to give us a margin of error for faulty machines.”\n\nWith $14 million raised so far through equity — partially thanks to Plural Energy, which enables mid-sized renewable energy projects to raise funds from investors on-chain — Sangha has secured 82% of its $17 million equity round target for the West Texas project.\n\n“By the fall, we expect to be a well-oiled machine and to be utilizing Plural Energy’s smart contract capabilities to stream distributions to our equity investors, who are excited by the idea of receiving distributions natively in bitcoin,” Marr said.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-mining-startup-sangha-breaks-ground-on-west-texas-pilot-project",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Spencer Marr"
+            ],
+            "positions": [
+                "president"
+            ],
+            "companies": [
+                "Sangha Renewables",
+                "CSD Energy",
+                "EcoDigital",
+                "Moonshot Electrical",
+                "Fusion Industries",
+                "Greenhash",
+                "Pro Mining Solutions",
+                "Plural Energy"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $42 million bitcoin mining project with significant revenue projections and institutional investment, indicating growing market confidence and adoption."
+    }
+}

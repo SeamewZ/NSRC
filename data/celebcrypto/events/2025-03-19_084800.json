@@ -1,0 +1,30 @@
+{
+    "title": "The Man Who Stabbed CEO of South Korean Crypto Firm Haru Invest Could Face Decade in Prison",
+    "summary": "The CEO of South Korea’s Haru Invest was stabbed in court during his fraud trial in August 2024.",
+    "time": "2025-03-19T08:48:00",
+    "author": "Sam Reynolds",
+    "content": "A South Korean man who attacked the CEO of collapsed crypto firm, Haru Invest, is now facing a potential decade behind bars, according to local media reports.\n\nProsecutors in Seoul have requested a 10-year prison sentence for someone local media is only identifying by his last name Kang, a man in his 50s who stabbed Haru Invest CEO Lee Hyung-soo during a court hearing last year.\n\nHaru Invest paused withdrawals in 2023, citing partner issues, without giving a specific reason, before its executives were arrested in 2024 for allegedly stealing $828 million in customer funds.\n\nKang’s defense argued that he had no intent to kill, noting that he did not target a fatal area and acted in a moment of extreme emotional distress after losing 100 BTC (worth $8.3 million) due to Haru Invest’s collapse.\n\nHis lawyers pushed for a reduced charge of aggravated assault rather than attempted murder, citing his severe financial and psychological hardship.\n\nAhead of the hearing, the local media reported that Haru Invest Victims’ Association held a press conference demanding Kang’s release, arguing that fraud victims like him were being treated unfairly while executives accused of embezzling hundreds of millions of dollars walked free on bail.\n\nKang is due back in court on April 4 for sentencing.",
+    "url": "https://www.coindesk.com/policy/2025/03/19/the-man-who-stabbed-ceo-of-south-korean-crypto-firm-haru-invest-could-face-decade-in-prison",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lee Hyung-soo",
+                "Kang"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Haru Invest"
+            ],
+            "organizations": [
+                "Haru Invest Victims' Association"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a crypto firm collapse, $828 million in alleged customer fund theft, and significant investor losses, which erodes market confidence and highlights security risks in the cryptocurrency space."
+    }
+}

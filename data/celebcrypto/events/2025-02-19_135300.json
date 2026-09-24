@@ -1,0 +1,36 @@
+{
+    "title": "Wingbits to Launch Satellite to Boost Flight Tracking Accuracy",
+    "time": "2025-02-19T13:53:00",
+    "author": "Benjamin Schiller",
+    "summary": "The Swedish DePIN startup is taking on incumbents like FlightAware and Flightradar24 with a decentralized approach that rewards hobbyist data collectors.",
+    "content": "HONG KONG — Wingbits, a blockchain-powered aviation data network, is set to add satellite-tracking capabilities as it looks to make further inroads into the $22 billion aviation data industry. The Swedish company is launching a satellite with Spire Global, which operates a low-orbit satellite constellation. The satellite will be carried by SpaceX’s Transporter-13 mission in late February from Vandenburg Space Force Base in California.\n\nDiscussing the launch during Consensus Hong Kong, Robin Wingardh, Wingbits' CEO and co-founder, said the satellite complements the startup’s 2,200-strong on-the-ground node network managed by flight enthusiasts around the world.\n\nThe decentralized physical infrastructure network, or DePIN, project rewards data providers with Solana testnet tokens. The existing flight-tracking industry also relies on flight enthusiasts to supply data on airplane movements. Companies such as FlightAware and Flightradar24 sell data to aviation analytics companies, airlines, insurers and others, but don’t reward the enthusiasts for their work, Wingardh said.\n\nWingbits already has data contributors from over 90 countries tracking some 120,000 unique flights daily. It plans to create a worldwide network through the reward system, which allows tokens to be exchanged for air miles, airport lounge access and other services.\n\nWingardh said the satellite, when launched, will allow the company to verify data from the ground, providing protection against “spoofing” by cross checking flight data from the DePIN against data from the satellite, Wingbits hopes to ensure its information is more accurate than its competitors’.\n\nThe company recently closed a second seed round for $5.6 million from Borderless Capital, Bullish Capital (part of the Bullish Group that also owns CoinDesk) and others.\n\nRead more: Alex Lungu - Taking off: Rewarding Flight Trackers in the Age of Web3",
+    "url": "https://www.coindesk.com/business/2025/02/19/wingbits-to-launch-satellite-to-boost-flight-tracking-accuracy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robin Wingardh",
+                "Alex Lungu"
+            ],
+            "positions": [
+                "CEO and co-founder"
+            ],
+            "companies": [
+                "Wingbits",
+                "Spire Global",
+                "SpaceX",
+                "FlightAware",
+                "Flightradar24",
+                "Borderless Capital",
+                "Bullish Capital",
+                "Bullish Group",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $5.6 million funding round and expansion of blockchain-powered aviation data network, indicating positive development and investment in the crypto/DePIN space."
+    }
+}

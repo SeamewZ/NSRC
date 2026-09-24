@@ -1,0 +1,55 @@
+\begin{table}[!t]
+\centering
+\fontsize{9}{9.8}\selectfont
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{1.04}
+\caption{NSRC vs. DLinear. $\Delta=\mathrm{DLinear}-\mathrm{NSRC}$ in Table~1 units; seed-averaged 24-step paired origin losses use 49,999 circular 7-day bootstrap replicates. Brackets: unadjusted 95\% CIs; $p_{\rm H}$: Holm-adjusted two-sided $p$ over 12 tests. Positive $\Delta$ favors NSRC.}
+\label{tab:significance}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}p{0.86in}c p{1.48in}r@{}}
+\toprule
+Dataset & Metric & $\Delta$ [95\% CI] & $p_{\rm H}$\\
+\midrule
+\multirow{3}{*}{Celebrity} & MSE & 0.144 [0.017,0.307] & 0.194\\
+ & MAE & 0.218 [0.109,0.335] & \textbf{0.0016}\\
+ & MAPE & 0.213 [0.106,0.325] & \textbf{0.0008}\\
+\midrule
+\multirow{3}{*}{News} & MSE & 0.117 [0.065,0.177] & \textbf{0.0021}\\
+ & MAE & 0.250 [0.170,0.336] & \textbf{0.00024}\\
+ & MAPE & 0.246 [0.166,0.330] & \textbf{0.00024}\\
+\midrule
+\multirow{3}{*}{Macro crypto} & MSE & 0.071 [-0.033,0.159] & 0.361\\
+ & MAE & 0.120 [-0.029,0.274] & 0.361\\
+ & MAPE & 0.123 [-0.029,0.278] & 0.361\\
+\midrule
+\multirow{3}{*}{Macro equities} & MSE & 0.072 [0.029,0.118] & \textbf{0.0090}\\
+ & MAE & 0.311 [0.129,0.510] & \textbf{0.0091}\\
+ & MAPE & 0.309 [0.126,0.508] & \textbf{0.0091}\\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+\begin{table}[!t]
+\centering
+\fontsize{9}{9.8}\selectfont
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{1.04}
+\caption{Stability vs. DLinear (Table~1 units): $\Delta$=pooled MSE/MAE/MAPE gains; $H^+$=horizon wins (MSE/MAE/MAPE); E/L=early/late test-half MAE gains; V=low/mid/high-volatility MAE gains (pre-test tertiles); ---=empty bin.}
+\label{tab:stability}
+\begin{tabular}{@{}p{0.88in}p{2.22in}@{}}
+\toprule
+Dataset & Stability summary\\
+\midrule
+\multirow{2}{*}{\textbf{Celebrity}} & $\Delta$ .144/.218/.213; $H^+$ 24/24/24\\
+& E/L .264/.175; V .262/.465/-.101\\
+\midrule
+\multirow{2}{*}{\textbf{News}} & $\Delta$ .117/.250/.246; $H^+$ 24/24/24\\
+& E/L .275/.222; V .261/.164/---\\
+\midrule
+\multirow{2}{*}{\textbf{Macro crypto}} & $\Delta$ .071/.120/.123; $H^+$ 20/17/17\\
+& E/L .001/.213; V .202/.154/.040\\
+\midrule
+\multirow{2}{*}{\textbf{Macro equities}} & $\Delta$ .072/.311/.309; $H^+$ 24/24/24\\
+& E/L .119/.459; V .231/.301/.415\\
+\bottomrule
+\end{tabular}
+\end{table}

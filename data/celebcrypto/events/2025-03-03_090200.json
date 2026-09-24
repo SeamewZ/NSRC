@@ -1,0 +1,33 @@
+{
+    "title": "CME Bitcoin March Futures Gap Jumps By Over $9K",
+    "time": "2025-03-03T09:02:00",
+    "author": "Omkar Godbole",
+    "summary": "March futures opened at $95K early today, gapping higher by over $9K from Friday's high.",
+    "content": "Bitcoin's\nBTC\n$103,891.83\nspot price rose 9.5% from roughly $84,100 to over $94,000 on Sunday after President Donald Trump named BTC and four other coins – ETH, XRP, SOL and ADA – for U.S. strategic crypto reserve.\n\nThat has led to a gap-up opening for the March futures listed on the CME, as shown by data source CME and charting platform TradingView. The contract opened at $95,000 early today, up $9,280 from Friday's high of $85,720.\n\nThe gap represents a non-traded zone, indicating a price level where no transactions occurred between consecutive trading sessions. This absence of trading suggests an abrupt change in the market sentiment, which, in this case, is bullish following the past week's sell-off.\n\nGaps are often filled as market participants tend to re-establish a balance after the disruption. The best example is the past week's sell-off below $80,000, which filled the gap from November.\n\nSo, the emergence of a new gap between $84K and $94K means prices could revisit this window once.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/cme-bitcoin-march-futures-gap-higher-by-over-usd9k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CME",
+                "TradingView"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "XRP",
+            "SOL",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's spot price rising 9.5% and a gap-up opening in futures following positive policy announcement about strategic crypto reserves, indicating bullish market sentiment."
+    }
+}

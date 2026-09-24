@@ -1,0 +1,42 @@
+{
+    "title": "Figure Markets Offers SEC-Registered Yield-Bearing Stablecoin as Tokenized Asset Demand Soars",
+    "time": "2025-02-20T16:29:00",
+    "author": "Krisztian Sandor",
+    "summary": "The YLDS stablecoin, backed by prime money market funds, offers daily interest and 24/7 peer-to-peer transfers.",
+    "content": "Digital asset marketplace Figure Markets has launched YLDS, the first yield-bearing stablecoin registered as a public security offering with the U.S. Securities and Exchange Commission (SEC), the company said Thursday.\n\nThe YLDS stablecoin, issued through Figure Certificate Corporation, operates on the Provenance Blockchain and accrues interest daily, paid out every month in either U.S. dollars or YLDS tokens. It is backed by the same securities as prime money market funds and pays holders a return at an annual rate of the Secured Overnight Financing Rate (SOFR) less 50 basis points.\n\nThe token can be transferred peer-to-peer and exchanged for dollars or other stablecoins around the clock, with fiat off-ramps available during U.S. banking hours.\n\nStablecoins mushroomed to a $200 billion asset class and are increasingly popular for payments and cross-border transactions. However, market-leading stablecoins like USDT and USDC don't generally pay out holders the yield earned on reserve assets, predominantly U.S. Treasuries. That's where tokenized versions of money-market funds or investment strategies like BlackRock's BUIDL, Franklin Templeton's BENJI or Ethena's USDE enter the market: They are increasingly used as collateral or to park on-chain cash to earn a yield.\n\nRead more: Tokenized Treasuries: A Game-Changer for Collateral in Crypto Markets\n\nFigure Markets is the digital asset arm of Figure Technologies, a company co-founded by Mike Cagney, the former CEO of SoFi. The firm has played a key role in blockchain-based real-world asset (RWA) tokenization, processing over $41 billion in transactions and originating $11 billion in home equity line of credit using the Provenance Blockchain. Figure filed paperwork to the SEC to launch a yield-bearing stablecoin offering in October 2023.\n\nThe company expects YLDS to attract interest from developers looking to integrate stable, yield-bearing digital assets into decentralized finance (DeFi) and payment applications.\n\n“We see tremendous applications for YLDS,” Figure Markets CEO Mike Cagney said in a statement. “Exchange collateral, cross-border remittances and payment rails are immediate opportunities, but this is just the beginning of a larger shift of traditional finance to blockchain.”\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/02/20/figure-markets-launches-sec-registered-yield-bearing-stablecoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Cagney"
+            ],
+            "positions": [
+                "CEO",
+                "former CEO"
+            ],
+            "companies": [
+                "Figure Markets",
+                "Figure Technologies",
+                "Figure Certificate Corporation",
+                "SoFi",
+                "BlackRock",
+                "Franklin Templeton",
+                "Ethena"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Provenance Blockchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "YLDS",
+            "USDT",
+            "USDC",
+            "BUIDL",
+            "BENJI",
+            "USDE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of the first SEC-registered yield-bearing stablecoin represents institutional adoption and regulatory progress, which typically boosts market confidence."
+    }
+}

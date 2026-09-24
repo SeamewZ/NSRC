@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Rally to $93K Sees Bears Lose $550M in Big Sunday Liquidations",
+    "time": "2025-03-03T08:37:00",
+    "author": "Shaurya Malwa",
+    "summary": "Futures tracking ADA, XRP and SOL registered over $70 million in liquidations each, their highest such levels since September 2024, Coinglass data shows.",
+    "content": "Bearish bets on major tokens lost nearly $600 million on Sunday as traders were caught offside following President Donald Trump’s announcement of a U.S. strategic reserve for several tokens.\n\nSundays are typically marked with relatively lower liquidity, making for unusually high price jumps as it takes comparatively less money to move assets. Cardano’s ADA was up 60% in the past 24 hours, with XRP and Solana’s SOL up 25% and bitcoin\nBTC\n$103,891.83\nhigher by 9%.\n\nBTC-tracked futures took on over $344 million in losses across longs and shorts, leading losses in the market, followed by $170 million in liquidations on ETH-tracked futures.\n\nFutures tracking ADA, XRP and SOL registered over $70 million in liquidations each, their highest such levels since September 2024, Coinglass data shows.\n\nLiquidations occur when an exchange forcefully closes a trader's leveraged position due to a partial or total loss of the trader's initial margin. It happens when a trader cannot meet the margin requirements for a leveraged position, that is, they don't have enough funds to keep the trade open.\n\nUnusually high liquidations can be used in confluence with other market indicators in trading strategies. Assets can be considered overbrought and ripe for a reversal or profit-taking — making it a contrary dataset to watch for.\n\nAs such, open interest (or the amount of unsettled futures bets) has risen as much as 40% higher for XRP, ADA, and SOL as traders expect volatility to continue further.\n\nBitcoin\nBTC\n$103,891.83\nzoomed to over $93,000 in early Asian hours Monday, reversing a chunk of losses from last week when it dropped to as low as $83,500 on macroeconomic headwinds such as U.S. tariffs and strength in haven assets yen and gold.\n\nSome expected the largest cryptocurrency to fall to the mid-$ $70,000 price levels, with a bump in short trades and open interest with a bias to the downside.\n\nBut Trump’s comments have brought back bullish expectations, atleast in the short-term, though traders remain cautious of a continual rally until the reverse plans are more concrete. As such, BTC plays to the $100,000 level are back in demand, as a CoinDesk analysis noted earlier Monday.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/bitcoin-rally-to-usd93k-sees-bears-lose-usd550m-in-big-sunday-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Coinglass",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ADA",
+            "XRP",
+            "SOL",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price increases for major cryptocurrencies (Bitcoin up 9%, ADA up 60%, XRP and SOL up 25%) and bullish expectations returning following Trump's announcement."
+    }
+}

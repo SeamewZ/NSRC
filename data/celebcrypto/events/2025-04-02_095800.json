@@ -1,0 +1,31 @@
+{
+    "title": "Google Warns Solana Projects That North Koreans Are Increasingly Targeting European Projects",
+    "time": "2025-04-02T09:58:00",
+    "author": "Shaurya Malwa",
+    "summary": "The report reveals that one such worker juggled 12 fake personas across the U.S. and Europe and sought employment by fabricating references",
+    "content": "North Korean “IT workers” are increasing illicit cyber activity across Europe with an eye on blockchain projects, Google Cloud warned in a Wednesday report.\n\nProjects built on the popular Solana network, including applications and job boards, are getting hit by the rising attacks. Democratic People's Republic of Korea (DPRK) operatives pose as legit remote workers to infiltrate companies, take over critical systems and steal sensitive data which is likely sold to “generate revenue for the regime.”\n\nThe increased threat in Europe is a shift from a U.S.-heavy focus as DPRK-linked entities faced heat from DOJ indictments and tighter hiring scrutiny stateside.\n\nThe report reveals that one such worker juggled 12 fake personas across the U.S. and Europe and sought employment by fabricating references, building a rapport with job recruiters, and using additional personas they controlled to vouch for their credibility.\n\nIt’s not like the workers lack coding chops either: Workers were found taking projects ranging from token hosting platform using Next.js, React and CosmosSDK, and Golang, and even created an entire Solana-based job marketplace.\n\nMore blockchain-related projects involved Anchor and Rust smart contract development. One worker even developed an artificial intelligence (AI) web application using Electron, Next.js, and blockchain applications.\n\nA key culprit may be workplaces that let employees use their own devices.\n\n“(Google Cloud) believes that IT workers have identified BYOD environments as potentially ripe for their schemes, and in January 2025, IT workers are now conducting operations against their employers in these scenarios,” the report said.\n\n“Global expansion, extortion tactics, and the use of virtualized infrastructure all highlight the adaptable strategies employed by DPRK IT workers.”\n\nDPRK entities and hacking groups are one of the biggest threat actors in the crypto ecosystem, stealing an estimated $1.3 billion from projects in 2024 and conducting a $1.5 billion hack on crypto exchange Bybit in February alone.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/google-warns-solana-projects-that-north-koreans-are-increasingly-targeting-european-projects",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "IT workers",
+                "remote workers",
+                "job recruiters"
+            ],
+            "companies": [
+                "Google Cloud",
+                "Bybit"
+            ],
+            "organizations": [
+                "Democratic People's Republic of Korea (DPRK)",
+                "DOJ"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes North Korean cyber attacks targeting Solana projects, security breaches, and significant cryptocurrency thefts totaling billions of dollars, which creates negative market sentiment."
+    }
+}

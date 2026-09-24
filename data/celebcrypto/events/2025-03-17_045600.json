@@ -1,0 +1,34 @@
+{
+    "title": "Crypto Whale Shorts $445M in Bitcoin While Taking Bullish Bet on MELANIA Token, Hyperliquid Data Show",
+    "time": "2025-03-17T04:56:00",
+    "author": "Omkar Godbole",
+    "summary": "A group of traders looked to liquidate the giant short position in BTC but the operation failed, per observers.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nhas steadied since last Tuesday, bouncing to its 200-day average above $84,000 over the weekend. Still, a crypto whale has taken a contrarian stance by raising a leveraged bearish bet on BTC worth millions on Hyperliquid while betting bullish on the MELANIA token.\n\nAs of writing, the whale held a short position in BTC perpetual futures worth over $445 million, generating an unrealized gain of $1.3 million. The position employed a 40x leverage and a liquidation price of $86,000, according to data source Hyperliquid and Lookonchain.\n\nThe outsized short anticipating a bitcoin price slide made waves on social media X on Sunday as pseudonymous trader CBB invited other market participants for a consortium of bulls aimed at liquidating the whale.\n\n\"11 hours ago, @Cbb0fe publicly formed a team to hunt this whale who shorted $BTC with 40x leverage. Just one hour later, the team was in action, driving $BTC above $84,690 in a short period,\" blockchain sleuth Lookonchain said on X.\n\n\"The whale was forced to deposit $5M USDC to increase margin and avoid liquidation. But the hunt ultimately failed,\" Lookonchain added.\n\nAs of writing, the crypto whale also held a 5x leveraged long position in the MELANIA perpetual futures, anticipating a price rise in the memecoin reportedly marketed by MKT World LLC, a Florida-registered company owned by Melania Trump, the wife of U.S. President Donald Trump.\n\nHyperliquid cheered the whole episode on X, saying the transparency of trading positions on its platform has redefined trading.\n\n\"When a whale shorts $450M+ BTC and wants a public audience, it's only possible on Hyperliquid. When headlines say \"Bitcoin Market on Edge,\" they are equating \"Hyperliquid\" with the \"market.\" Anyone can photoshop a PNL screenshot. No one can question a Hyperliquid position, just like no one can question a Bitcoin balance. The decentralized future is here,\" Hyperliquid said.\n\nThe platform was in the news last week after an influential whale executed the so-called \"liquidation arbitrage\" by extracting floating profits, leading to a margin shortage. That induced liquidation and transferred the risk to the decentralized exchange's HLP vault.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/crypto-whale-shorts-usd445m-in-btc-while-taking-bullish-bet-on-melania-token-hyperliquid-data-show",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "CBB",
+                "Melania Trump",
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "MKT World LLC",
+                "Hyperliquid"
+            ],
+            "organizations": [
+                "Lookonchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes both bearish (large BTC short) and bullish (MELANIA long) positions by the same whale, with Bitcoin showing steadiness and a failed liquidation attempt, indicating mixed market activity without clear directional bias."
+    }
+}

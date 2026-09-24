@@ -1,0 +1,37 @@
+{
+    "title": "U.S. Derivatives Watchdog Weighs 24/7 Action With Crypto Oversight on Horizon",
+    "summary": "The Commodity Futures Trading Commission has opened a public-comment period for around-the-clock derivatives activity, as seen in the digital assets space.",
+    "time": "2025-04-21T23:43:00",
+    "author": "Jesse Hamilton",
+    "content": "Bitcoin is the crypto sector's top asset and is also universally defined by U.S. regulators and courts as a commodity, putting it under the jurisdiction of the Commodity Futures Trading Commission. That agency is now seeking public comments on whether it should open the wider world of derivatives to around-the-clock trading, as already executed for bitcoin and other digital assets.\n\nThough the CFTC is expected to be established as a crypto market regulator in Congress' ongoing effort to establish industry rules, the agency's invitation for comments issued on Monday doesn't explicitly discuss digital assets oversight. The request notes that \"technological advancements and market demand\" are pushing CFTC-regulated firms toward being able to handle transactions at all times.\n\n“As I have long said, the CFTC must take a forward-looking approach to shifts in market structure to ensure our markets remain vibrant and resilient while protecting all participants,” said Acting Chairman Caroline Pham, in a statement. She was tapped by President Donald Trump to run the agency while it awaits the Senate confirmation of its chairman nominee, Brian Quintenz.\n\nTrading without downtime presents a host of challenges for U.S. markets unaccustomed to it, according to the request, including \"what governance frameworks, exchange staffing models and technologies would be necessary to ensure market integrity and operational resilience, as well as compliance with all core principles, under a continuous trading model.\" Such an expansion would require firms to handle live maintenance and technology patches and human monitoring of the systems and markets during the extended hours, which are issues already long wrestled with by digital assets operations.\n\nThe CFTC would still need a change in law before it could have direct authority over actual spot-market trading of bitcoin and other tokens that aren't eventually categorized as securities, which would get Securities and Exchange Commission oversight. If the agency is ultimately a major regulator of trading and of the platforms and firms that handle customers' transactions, that's a space in which 24-hour, seven-days-a-week activity is already the model.",
+    "url": "https://www.coindesk.com/policy/2025/04/21/u-s-derivatives-watchdog-weighs-24-7-action-with-crypto-oversight-on-horizon",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Caroline Pham",
+                "Donald Trump",
+                "Brian Quintenz"
+            ],
+            "positions": [
+                "Acting Chairman",
+                "President",
+                "chairman nominee"
+            ],
+            "companies": [],
+            "organizations": [
+                "Commodity Futures Trading Commission",
+                "CFTC",
+                "Congress",
+                "Senate",
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes regulatory consideration of 24/7 trading models that already exist in crypto markets, but does not indicate clear positive or negative market implications."
+    }
+}

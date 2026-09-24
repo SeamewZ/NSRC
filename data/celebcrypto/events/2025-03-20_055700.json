@@ -1,0 +1,36 @@
+{
+    "title": "Kraken to Buy NinjaTrader for $1.5B to Enter U.S. Crypto Futures Market",
+    "time": "2025-03-20T05:57:00",
+    "author": "Parikshit Mishra",
+    "summary": "The deal could be a way for the crypto exchange to move into another asset class and increase its users.",
+    "content": "Crypto exchange Kraken said it agreed to buy U.S. futures platform NinjaTrader for $1.5 billion to add crypto futures and derivatives trading in the U.S.\n\nNinjaTrader, a CFTC-licensed platform founded in 2003, provides futures trading tools to almost 2 million customers. Kraken has 15 million clients globally, it said in a Thursday release. Kraken's U.K, EU and Australian licenses will allow Chicago-based NinjaTrader to expand in those regions.\n\nKraken is looking to carve out a bigger slice of the crypto derivatives market. The exchange's 24-hour derivatives trading volume sits at around $1.2 billion, well behind exchanges like Binance and OKX, which are both well into the 10s of billions, according to CoinMarketCap data. Last month, CoinDesk, citing people familiar with the plan, reported that Kraken was in talks to buy options exchange Deribit at value of as much as $5 billion.\n\n\"This transaction is the first step in our vision of an institutional-grade trading platform where any asset can be traded, anytime,” said Arjun Sethi, Kraken’s co-CEO.\n\nEarlier this month the U.S. Securities and Exchange Commission (SEC) dropped a November 2023 lawsuit that alleged the San Francisco-based exchange comingled customer and corporate funds and acted as an unregistered securities broker.\n\nKraken reintroduced staking for U.S. customers in January, which in conjunction with acquiring a CFTC-licensed trading platform in NinjaTrader, may be indicative of a greater focus on the U.S. market in light of a developing regulatory regime under the Trump administration.\n\nThe transaction, which is subject to closing conditions, is expected to be complete by the end of the first half of 2025.\n\nThe Wall Street Journal reported the transaction earlier, citing people familiar with the matter.\n\nUPDATE (March 20, 12:37 UTC): Adds derivatives trading volume, Deribit talks in third paragraph, SEC lawsuit in fifth.",
+    "url": "https://www.coindesk.com/business/2025/03/20/kraken-buys-ninjatrader-for-usd1-5b-to-enter-u-s-crypto-futures-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arjun Sethi"
+            ],
+            "positions": [
+                "co-CEO"
+            ],
+            "companies": [
+                "Kraken",
+                "NinjaTrader",
+                "Binance",
+                "OKX",
+                "Deribit"
+            ],
+            "organizations": [
+                "CFTC",
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "CoinDesk",
+                "CoinMarketCap",
+                "The Wall Street Journal"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition expands Kraken's market presence and derivatives capabilities in the U.S., indicating growth and institutional focus in a developing regulatory environment."
+    }
+}

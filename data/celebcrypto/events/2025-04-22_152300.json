@@ -1,0 +1,35 @@
+{
+    "title": "ECB, European Commission Clash on MiCA Changes Over U.S. Crypto Policies: Report",
+    "summary": "The European Central Bank said U.S. support for crypto could result in damage to the European Union's financial stability.",
+    "time": "2025-04-22T15:23:00",
+    "author": "Camomile Shumba",
+    "content": "The European Central Bank is seeking changes to the European Union's Markets in Crypto Assets legislation (MiCA) just months after the regulation took effect because it's concerned U.S. support for crypto could lead to economic damage in the 27-nation bloc, Politico reported Tuesday.\n\nThe bank is demanding a rewrite of MiCA, whose stablecoin provisions came into force last June and which took full effect at the end of last year, a position that brings it into conflict with the European Commission, Politico reported, citing a policy paper. Neither the ECB nor the commission responded to a CoinDesk request for comment.\n\nThe central bank is concerned U.S. legislation currently working through Congress, such as the Stablecoin Transparency and Accountability for a Better Ledger Economy Act (STABLE) and the Guiding and Establishing National Innovation for US Stablecoins Act (GENIUS) could see the influence of dollar-backed stablecoins growing further. The stablecoin sector could surge 10-fold to reach $2 trillion within three years following the passage of the legislation, Standard Chartered forecast.\n\nAt an April 14 meeting with top officials from EU governments to discuss U.S. support for crypto, the ECB circulated a document that argued that MiCA needed a serious re-think, Politico said, citing two diplomats and an EU official who were not identified. It was not a popular position.\n\n\"Not very many [countries] supported the idea that we should now jump the gun and start making quick changes in [the rules] based on this alone,” one of the diplomats said.\n\nThe Commission argued that it was still “too early” to judge the effect the U.S. crypto environment would have on EU financial stability and only one global stablecoin has been authorized under the new rules. Circle, issuer of USDC, the second-largest stablecoin, snagged the first stablecoin license under MiCA in July last year.\n\n“The risks arising from such global stablecoins seem to be overstated and are manageable under the existing legal framework,” the Commission said in a document distributed at the meeting.\n\nRead more: EU's Restrictive Stablecoin Rules Take Effect Soon and Issuers Are Running Out of Time",
+    "url": "https://www.coindesk.com/policy/2025/04/22/ecb-european-commission-clash-on-mica-changes-over-us-crypto-policies-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "diplomats",
+                "EU official",
+                "top officials"
+            ],
+            "companies": [
+                "Circle",
+                "Standard Chartered"
+            ],
+            "organizations": [
+                "European Central Bank",
+                "European Commission",
+                "European Union",
+                "U.S. Congress",
+                "Politico",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The ECB is seeking regulatory changes due to concerns that U.S. crypto policies could damage EU financial stability, indicating potential regulatory headwinds."
+    }
+}

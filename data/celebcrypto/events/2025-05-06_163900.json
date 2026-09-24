@@ -1,0 +1,40 @@
+{
+    "title": "Stabledollars: The Third Act of Dollar Reinvention",
+    "summary": "Blockchain-based dollar infrastructure holds enormous opportunities for the U.S. But only if it treats the technology wisely, says John deVadoss.",
+    "time": "2025-05-06T16:39:00",
+    "author": "John deVadoss",
+    "content": "Eight decades of dollar history can be read as a three-act play.\n\nAct I was the Eurodollar—off-shore bank deposits that sprang up in 1950s London so the Soviet bloc, European exporters, and eventually every multinational could hold dollars outside U.S. regulation, spawning a multi-trillion-dollar shadow banking base.\n\nAct II was the Petrodollar. After 1974, OPEC’s decision to price crude in dollars hard-wired global energy demand to U.S. currency and gave Washington an automatic bid for its Treasury bills.\n\nJohn deVadoss will appear in the “IEEE x Consensus Research Symposium: What's next in Agentic AI?” at Consensus 2025 on May 16 at 11:00am-12:30pm.\n\nAct III is unfolding now. USD-backed Stabledollars (a.k.a. stablecoins)—on-chain tokens fully collateralized by T-bills and cash—have leapt past $230 billion in circulating supply and, on many days, settle more value than PayPal and Western Union combined. The dollar has reinvented itself again—this time as a monetary API: a permissionless, programmable unit that clears in seconds for a fraction of a cent.\n\nFollow the incentives and the shape of the future appears. A Lagos merchant can accept USDC on her phone, skip 20% naira slippage, and restock inventory the same afternoon. A Singapore hedge fund parks cash in tokenized T-bill vaults yielding 4.9%, then routes those dollars into a swap at 8 a.m. New-York time without a correspondent bank. A Colombian gig worker converts weekend wages to digital dollars, bypasses capital controls, and withdraws pesos at a neighborhood ATM—no Friday-to-Monday lag, no 7% remit fee.\n\nStablecoins haven’t replaced the banking system; they have tunneled around its slowest, most expensive choke points.\n\nScale begets legitimacy. The GENIUS Act moving through the U.S. Senate would charter stable-coin issuers nationally and, for the first time, open a path to Fed master accounts. Treasury staff already model a $2 trillion stable-coin float by 2028—enough to rival the entire Eurodollar stock of the early 1990s.\n\nThat projection is plausible: Tether and Circle command over 90% share with reserves lodged almost entirely in short-dated U.S. debt, meaning foreigners are effectively holding digitized T-bills that settle in 30 seconds. The dollar’s network-effect is migrating from SWIFT messages to smart-contract calls, extending hegemony without printing a single new note.\n\nYet, the Stabledollar epoch is no risk-free triumph. Private tokens that wrap sovereign money raise hard questions. Who conducts monetary policy when a third of the offshore float lives in smart contracts? What recourse does a Venezuelan family have if an issuer black-lists its wallet? Will Europe—or the BRICS—tolerate a rails-level dependence on a U.S.-regulated asset? These are governance puzzles, but they are solvable if policymakers treat stablecoins as critical dollar infrastructure, not as speculative irritants.\n\nThe playbook is straightforward:\n\nDo that, and the United States creates a digital-dollar moat wider than any rival’s CBDC, including China’s. Shrug, and issuance will migrate offshore, leaving Washington to police a shadow system it no longer controls.\n\nDollar hegemony has always advanced by hitching itself to the dominant trade flow of the age: Eurodollars financed post-war reconstruction; petrodollars lubricated the fossil-fuel century; Stabledollars are wiring the high-velocity, software-eaten economy.\n\nTen years from now, you won’t see them; they will simply be the water we swim in. Your local café will quote prices in pesos or pounds but settle in tokenized dollars under the hood. Brokerages will sell “notes” that are really bearer instruments programmable for collateral calls. Payroll will arrive in a wallet that auto-routes savings, investments, and charitable gifts the instant it clears.\n\nThe only open question is whether the United States will steward the upgrade it accidentally birthed. Stablecoins are already the fastest-growing quasi-sovereign asset class. Harness them with serious rules and the dollar’s third great reinvention writes itself. Ignore them, and that future still arrives—just without the U.S. in the driver’s seat.",
+    "url": "https://www.coindesk.com/opinion/2025/05/06/stabledollars-the-third-act-of-dollar-reinvention",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John deVadoss"
+            ],
+            "positions": [
+                "Treasury staff"
+            ],
+            "companies": [
+                "PayPal",
+                "Western Union",
+                "Tether",
+                "Circle"
+            ],
+            "organizations": [
+                "Soviet bloc",
+                "OPEC",
+                "U.S. Senate",
+                "Fed",
+                "SWIFT",
+                "BRICS",
+                "United States",
+                "Europe",
+                "China"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes stablecoins as the fastest-growing quasi-sovereign asset class with $230+ billion circulating supply and projects growth to $2 trillion by 2028, indicating strong market confidence and expansion."
+    }
+}

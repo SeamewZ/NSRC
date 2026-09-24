@@ -1,0 +1,48 @@
+{
+    "title": "Crypto for Advisors: Bitcoin Mining Will Be Different in 2025",
+    "time": "2025-02-06T16:05:00",
+    "author": "Ben Harper",
+    "summary": "ETFs, hashrate markets and AI have fundamentally reshaped the bitcoin mining industry, reducing miners' dependence on bitcoin’s price.",
+    "content": "In today’s issue, Ben Harper from Luxor Technology provides an update on what’s happening with bitcoin mining this year.\n\nThen, Colin Harper from Blockspace Media answers questions on the topic of mining and AI in Ask and Expert.\n\n– Sarah Morton\n\nYou’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.\n\nThe bitcoin mining investment thesis used to be simple — miners thrived when bitcoin’s price soared, and when it fell, they suffered. But in 2024, that equation changed. Bitcoin ETFs, hashrate markets and AI have fundamentally reshaped the industry, reducing miners' dependence on bitcoin’s price. Here’s why mining is no longer just a bet on bitcoin, and what this means for investors.\n\n2024: The Year Bitcoin Mining Diverged From Bitcoin’s Price\n\nIn 2023, Bitcoin mining stocks behaved like a high-beta proxy for Bitcoin, amplifying its moves — soaring higher when bitcoin rallied and crashing harder when it fell. But in 2024, this pattern broke down. Despite bitcoin reaching new all-time highs, mining stocks failed to reclaim their previous peaks.\n\nThe table below illustrates the shifting correlation between Hashrate Index’s Crypto Mining Index and bitcoin’s price, comparing weekly prices and returns before and during 2024:\n\nSource: Hashrate Index, June 2020 - December 2024\n\nThe takeaway is clear: Bitcoin mining stocks are no longer just a straightforward bet on bitcoin’s price. This divergence stems from four key trends shaping the sector:\n\n1. Institutional Bitcoin Adoption: The Advent of Spot ETFs\n\nThe launch of spot bitcoin ETFs in January 2024 reshaped institutional investment in bitcoin. With ETFs amassing over 1.3 million BTC and surpassing $100 billion in assets under management, the appeal of mining stocks as a bitcoin proxy faded. Instead of using miners as an indirect exposure, capital flowed directly into Bitcoin via ETFs, fundamentally shifting market dynamics.\n\n2. The Halving and Its Aftermath: A Squeeze on Miner Economics\n\nBitcoin’s fourth halving in April 2024 cut the block subsidy from 6.25 BTC to 3.125 BTC per block, slashing miners’ primary revenue source in half. Historically, post-halving bitcoin price surges have helped offset lower rewards, but this time, miners faced additional headwinds:\n\nWhile bitcoin’s price soared 120% throughout the year, miners struggled to maintain profitability, leading to consolidation and strategic pivots within the industry.\n\nSource: Hashrate Index\n\n3. The Rise of Hashrate Derivatives: A Game-Changer for Miners\n\nOne of the most significant financial developments in bitcoin mining in 2024 was the rapid expansion of the hashrate derivatives market. This emerging market allowed miners to hedge future revenue streams and reduce exposure to bitcoin price volatility, fundamentally changing how they manage risk.\n\nTraditionally, mining revenues were at the mercy of bitcoin’s daily price swings, making it difficult for operators to forecast cash flows or secure financing. However, with the rise of hashrate forward markets, miners could sell future hashrate production at a fixed price, locking in revenue months in advance. This financial instrument functions similarly to commodity futures in the energy sector, where electricity producers pre-sell power contracts to stabilize income.\n\nIn 2024, these once-nascent markets saw explosive growth. Over-the-counter (OTC) volumes surged more than 500% year-over-year on Luxor’s hashrate forward market, with contract durations extending up to 12 months. Meanwhile, regulated exchange trading took a major step forward with Bitnomial launching hashrate futures, making it the first regulated exchange to offer a bitcoin mining derivative product.\n\nThe maturation of hashrate forward markets signals a new era in mining finance — one where miners have greater control over their revenue streams, better access to capital, and improved resilience against bitcoin price volatility.\n\n4. Bitcoin Mining Meets AI & HPC: A Convergence of Industries\n\nWith mining profits under pressure, many firms are pivoting to AI and high-performance computing (HPC) to diversify revenue. Bitcoin mining infrastructure shares key similarities with AI data centers — both require vast power and cooling capacity. However, the shift isn’t easy: AI infrastructure is more expensive per megawatt (millions vs. hundreds of thousands for bitcoin mining), requiring significant capital investment.\n\nSome miners are embracing hybrid models, allocating some of their computing power to AI workloads while maintaining bitcoin mining operations. Firms like HIVE Digital Technologies, Hut 8, Core Scientific, and Bit Digital have already made the leap, securing lucrative AI contracts to grow and stabilize their cash flows.\n\nFinal Thoughts\n\nBitcoin mining in 2025 is no longer just about bitcoin’s price. Institutional capital, hashrate derivatives and AI-driven diversification are reshaping the industry, giving miners new tools to manage risk and optimize revenue. At the same time, post-halving pressures, rising competition and infrastructure costs have made efficiency and adaptability more critical than ever.\n\nFor investors and advisors, understanding these shifts is essential. Mining stocks no longer move in lockstep with bitcoin, and new financial instruments are changing how miners operate. As the industry continues to mature, those who recognize these structural changes will be better positioned to navigate the opportunities ahead.\n\n- Ben Harper, director, Luxor Technology\n\nAre bitcoin miners actually serious about breaking into the AI market?\n\nAbsolutely. Since 2022, bitcoin miners have been increasingly exploring AI and high-performance compute (HPC) business lines. Some of the earliest movers in this shift were Hut 8, Hive, IREN, Core Scientific and Bit Digital. More recently, Riot put its 600 MW expansion at Corsicana on pause to evaluate the site for AI load, Cipher received a $50 million investment from SoftBank for its own AI project, and Lancium and Crusoe Energy are building a multi-gigawatt campus for AI as part of Project Stargate.\n\nHow will bitcoin miners tackle their AI transitions? Is there a one-size-fits-all approach?\n\nAI/HPC strategies vary from miner to miner. Hut 8 and Bit Digital, for example, have opted to acquire existing data center businesses rather than build their own data centers from scratch or retrofit existing infrastructure. Core Scientific, on the other hand, is converting the massive power assets and infrastructure it has on hand for AI/HPC load in its partnership with CoreWeave (Riot could follow a similar model should it decide to convert portions of its Corsicana campus into an AI data center). And others, like Hive and IREN, have purchased GPUs to operate AI/HPC cloud services within their existing facilities. Each of these strategies have tradeoffs (the Hut 8 and Bit Digital model are low risk, low reward, while Core Scientific’s approach is high risk, high reward), and we will have a better idea of which approach is the most successful over the next few years.\n\nWith strong market demand for AI, will bitcoin miners still mine bitcoin?\n\nFor now, plenty of bitcoin miners — including MARA, Cleanspark and Bitfarms — are still focusing on bitcoin mining instead of chasing the AI/HPC golden rabbit. Even if bitcoin miners convert parts of their infrastructure into AI/HPC load, they will likely still mine bitcoin, even if they reduce their focus on this pursuit. Ultimately, bitcoin mining and AI/HPC are more complementary than competitive, as miners can use bitcoin mining to monetize energy that they have already paid for when AI/HPC demand is low.\n\n- Colin Harper, editor-in-chief, Blockspace Media",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/05/crypto-for-advisors-bitcoin-mining-will-be-different-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Harper",
+                "Colin Harper",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "director",
+                "editor-in-chief"
+            ],
+            "companies": [
+                "Luxor Technology",
+                "Blockspace Media",
+                "CoinDesk",
+                "Hashrate Index",
+                "HIVE Digital Technologies",
+                "Hut 8",
+                "Core Scientific",
+                "Bit Digital",
+                "IREN",
+                "Riot",
+                "Cipher",
+                "Lancium",
+                "Crusoe Energy",
+                "CoreWeave",
+                "MARA",
+                "Cleanspark",
+                "Bitfarms",
+                "SoftBank"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes structural changes in bitcoin mining that reduce dependence on bitcoin's price and create more stable revenue streams, suggesting a maturing industry rather than clear directional market impact."
+    }
+}

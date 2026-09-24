@@ -1,0 +1,38 @@
+{
+    "title": "TransCrypts Wins Pitchfest at Consensus Hong Kong",
+    "time": "2025-03-06T23:44:00",
+    "author": "Benjamin Schiller",
+    "summary": "The on-chain credential verification service beat out a host of promising startups at CoinDesk’s PitchFest at Consensus Hong Kong.",
+    "content": "Four and half years ago, when Zain Zaidi was applying to grad school, he submitted his academic transcripts. But, through an administrative error, the documents were lost, and he almost lost his place.\n\nUnderstanding how someone’s life could be altered by not being able to prove something like an academic credential, Zaidi set out to try and make it easier.\n\nInstead of going to grad school, Zaidi started TransCrypts, which helps companies verify employment information. The blockchain-powered startup recently won CoinDesk’s Pitchfest at Consensus Hong Kong.\n\nZaidi says if we’re not able to prove data about ourselves, we give up something important about who we are. “We as consumers can’t actually verify who we are, own who we are,” Zaidi told CoinDesk Live after walking off stage.\n\nTransCrypts gives individuals “self-sovereignty” over their ID information, proving their information on-chain.\n\nZaidi told us the business already generates about $5 million in annual revenue. After employment information, the startup is now expanding into medical records and academic records.\n\nTransCrypts picked up $5,000 in tokens, a trophy and ten coaching sessions.\n\nIn the runner-up spot was CredShields, an automated auditing platform that scans, manages, and fixes vulnerabilities in Solidity smart contracts.\n\nTen other teams competed at Pitchfest at Hong Kong, including Oneverse Technology and Liquidium (both finalists) and semi-finalists Apillon, Domi Chain, GoSats, iBTC, NettyWorth, Tokenyze, Vanilla Finance, and Zypher Network.\n\nThe event was presented by Dimitra, a token and toolkit for smallholder farmers.\n\nUPDATE: This story was corrected to say that TransCrypts received $5,000 in tokens for winning Pitchfest.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/03/06/transcrypts-wins-pitchfest-at-consensus-hong-kong",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Zain Zaidi"
+            ],
+            "positions": [],
+            "companies": [
+                "TransCrypts",
+                "CredShields",
+                "Oneverse Technology",
+                "Liquidium",
+                "Apillon",
+                "Domi Chain",
+                "GoSats",
+                "iBTC",
+                "NettyWorth",
+                "Tokenyze",
+                "Vanilla Finance",
+                "Zypher Network",
+                "Dimitra"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Consensus Hong Kong"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a blockchain startup winning a prestigious pitch competition and generating $5 million in annual revenue, indicating positive development and adoption in the cryptocurrency space."
+    }
+}

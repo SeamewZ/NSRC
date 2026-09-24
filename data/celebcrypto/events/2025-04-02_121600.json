@@ -1,0 +1,28 @@
+{
+    "title": "CME Crypto Derivatives Average Volume Hit Record $11.3B in Q1",
+    "time": "2025-04-02T12:16:00",
+    "author": "Francisco Rodrigues",
+    "summary": "A surge in micro futures trading pushed CME’s crypto derivatives volume to the new quarterly record.",
+    "content": "CME Group (CME) saw record activity in its cryptocurrency derivatives markets during the first quarter of the year, driven by increased interest in micro-sized contracts.\n\nThe company reported average daily volume of 198,000 contracts for crypto products, representing $11.3 billion in notional value. It pointed to record highs across its micro ether futures, with 76,000 contracts being traded, as well as its BTC and ETH futures contracts with a volume of 18,000 and 13,000 contracts, respectively.\n\nTrading in micro bitcoin futures also stood out with a 113% year-over-year increase, hitting 77,000 average daily volume (ADV).The company’s cryptocurrency contracts were already at a record back in January.\n\nThe exchange’s bitcoin and ether futures contracts have a notional value of 5 BTC and 50 ETH, respectively, their micro contracts represent only 0.1 of each cryptocurrency. This smaller size enables more precise trading and risk management.\n\nThe record-setting crypto activity came as part of broader momentum across the derivatives giant’s business. CME posted an all-time quarterly average daily volume of 29.8 million contracts in the first quarter, with records also set in U.S. Treasury futures, energy options, and agricultural contracts.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/cme-crypto-derivatives-average-volume-hit-record-usd11-3b-in-q1",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CME Group",
+                "CME"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "ETH",
+            "Ether",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports record crypto derivatives volume and significant year-over-year growth in trading activity, indicating strong market confidence and institutional interest."
+    }
+}

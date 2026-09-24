@@ -1,0 +1,25 @@
+{
+    "title": "Bitcoin Whales Return in Force, Buy the BTC Price Rally, On-Chain Data Show",
+    "summary": "Glassnode data shows significant accumulation by entities holding over 10,000 BTC.",
+    "time": "2025-04-25T09:30:00",
+    "author": "Omkar Godbole",
+    "content": "The price of bitcoin (BTC) price has recovered to $94,000 since hitting lows under $75,000 early this month. The surge is characterized by crypto whales, large investors with substantial capital, snapping up coins from the market, in activity seen as confirming the rally.\n\nThe renewed demand from whales is evident in Glassnode's proprietary Accumulation Trend Score, which reflects the relative size of entities actively soaking up new coins on-chain. A score of 1 indicates that, on aggregate, the entities are accumulating, while a value close to zero suggests otherwise.\n\nAs of Thursday, wallets holding over 10,000 BTC had an accumulation score of 0.90, and those with 1,000 BTC to 10,000 BTC scored 0.7. Smaller wallets were pivoting to accumulation with a trend score 0.5.\n\n\"So far, large players have been buying into this rally,\" Glassnode noted on X.\n\nMeanwhile, data from CryptoQuant revealed the highest BTC outflow from centralized exchanges in two years when analyzed using the 100-day moving average.\n\n\"A review of historical patterns suggests that this could imply re-accumulation of assets by investors,\" commentators at CryptoQuant said.\n\nOutflows from centralized exchanges are taken to represent investor preference for direct custody of their coins, a sign of long-term holding strategy.",
+    "url": "https://www.coindesk.com/markets/2025/04/25/bitcoin-whales-return-in-force-buy-the-btc-price-rally-on-chain-data-show",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode",
+                "CryptoQuant"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant accumulation by Bitcoin whales, exchange outflows indicating long-term holding, and price recovery from $75,000 to $94,000, all signaling strong market confidence and buying pressure."
+    }
+}

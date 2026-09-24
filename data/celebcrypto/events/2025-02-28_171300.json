@@ -1,0 +1,33 @@
+{
+    "title": "BlackRock Adds Its IBIT Bitcoin ETF to Alternative Asset Model Portfolio",
+    "time": "2025-02-28T17:13:00",
+    "author": "Helene Braun",
+    "summary": "The world’s biggest asset manager added a 1% to 2% allocation to its target allocation portfolios.",
+    "content": "BlackRock has added the iShares Bitcoin Trust (IBIT), the fund issued by the asset manager that holds bitcoin\nBTC\n$103,696.84\n, to one of its model portfolios.\n\nThese models suggest portfolios and rebalances which are then followed by advisors and platforms who can also request adjustments to the models based on their investment needs.\n\nBlackRock added a 1% to 2% allocation to IBIT in its target allocation portfolio that allows for alternative assets, according to James Seyffart, ETF analyst at Bloomberg Intelligence.\n\nIn a report from Thursday, Michael Gates, lead portfolio manager for BlackRock’s Target Allocation ETF models, wrote that there are “several substantive arguments that support bitcoin’s long-term investment merit.”\n\nAccording to Gates, this includes the crypto asset’s novel store of value and global monetary alternative, as well as hedge to the U.S. dollar hegemony and political instability, and proxy play on the “offline” to “online” digital transition of goods and services.\n\n“Collectively, these features may help provide unique and additive sources of risk premia and diversification to traditional multi-asset portfolios,” Gates wrote.\n\nThe model represents one of IBIT’s smaller portfolios, however, the step is significant given that it is the first time BlackRock had made the decision to add IBIT to any of their models.\n\n“This is a big deal because this is the first of those models to add bitcoin,” said Seyffart. “It probably won’t be the last but bitcoin is also a lightning rod for many — some will hate this while others will love it — so I don’t know if or when they would add IBIT to their primary models that have a lot more money tracking them.”\n\nBlackRock’s model portfolios manage around $150 billion in assets as of December 31, 2024.\n\nCORRECTION (February 28, 2025, 14:56 UTC): Adds that BlackRock's model portfolios manage $150 billion in assets as opposed to $130 billion which the article incorrectly stated previously.",
+    "url": "https://www.coindesk.com/markets/2025/02/28/blackrock-adds-bitcoin-etf-to-alternative-asset-model-portfolio",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Seyffart",
+                "Michael Gates"
+            ],
+            "positions": [
+                "ETF analyst at Bloomberg Intelligence",
+                "lead portfolio manager for BlackRock’s Target Allocation ETF models"
+            ],
+            "companies": [
+                "BlackRock",
+                "iShares Bitcoin Trust"
+            ],
+            "organizations": [
+                "Bloomberg Intelligence"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "BlackRock adding its Bitcoin ETF to model portfolios with positive statements about bitcoin's long-term investment merit represents institutional adoption and market confidence."
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "runs": 12,
+  "all_checks_pass": true,
+  "checks": [
+    "future_target_intervention",
+    "no_event_identity",
+    "mature_memory_only"
+  ],
+  "route": "validation-frozen fixed candidate",
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Swiss National Bank President Reportedly Dismisses Bitcoin as Reserve Asset",
+    "time": "2025-03-01T18:31:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Despite Switzerland’s growing acceptance of cryptocurrencies, SNB's President dismissed them as a \"niche phenomenon.\"",
+    "content": "Swiss National Bank (SNB) President Martin Schlegel has rejected the idea of holding bitcoin as part of Switzerland’s central bank reserves, citing a lack of stability, liquidity, and security, according to local media.\n\nSpeaking to the Tamedia group, Schlegel cited three primary concerns surrounding cryptocurrencies. The first one is their volatility, which he said makes them unsuitable for long-term value preservation.\n\n“Second, our reserves need to be highly liquid so that they can be used quickly for monetary policy purposes if needed,” Schlegel told Tamedia before pointing to a lack of security inherent in being software-based assets. “We all know that software can have bugs and other weak points.”\n\nThe Swiss National Bank President’s words come amid a growing debate in Switzerland over the nascent asset class. A recent initiative is pushing for a constitutional amendment requiring the SNB to hold bitcoin in its reserves alongside gold, the article said.\n\nThe initiative, launched in December and led by entrepreneur Yves Bennaim, does not go into details when it comes to the bitcoin allocations but specifies it should be built up from the bank’s earnings. It has 18 months to collect 100,000 signatures in a bid to trigger a nationwide vote on the topic.\n\nDespite Switzerland’s growing acceptance of cryptocurrencies, with various Swiss banks offering customers cryptocurrency-related services, Schlegel dismissed the asset class as a “niche phenomenon.” Currencies, he told Tamedia, have already been in competition, and Schlegel maintained the bank is “not afraid of competition from cryptocurrencies,” citing the continued strength of the Swiss franc.",
+    "url": "https://www.coindesk.com/markets/2025/03/01/swiss-national-bank-president-reportedly-dismisses-bitcoin-as-reserve-asset",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Martin Schlegel",
+                "Yves Bennaim"
+            ],
+            "positions": [
+                "Swiss National Bank President"
+            ],
+            "companies": [
+                "Tamedia group"
+            ],
+            "organizations": [
+                "Swiss National Bank (SNB)"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The SNB President explicitly rejected bitcoin as a reserve asset citing volatility, illiquidity, and security concerns while dismissing cryptocurrencies as a 'niche phenomenon'."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Amanu: Bringing Apple-Like Simplicity to Crypto Wallets",
+    "time": "2025-01-16T18:24:00",
+    "author": "Sunny Chen",
+    "summary": "Founder Gianlua Minoprio is hoping to dramatically increase wallet adoption by eliminating the use of seed phrases, among other innovations.",
+    "content": "Born in 2001 in Argentina just as the country began to experience a devastating economic crisis, Amanu founder Gianluca Minoprio saw firsthand how traditional banking systems can fail their users. This experience shaped his mission to create a new type of crypto wallet, one that aims to bridge the gap between traditional finance and blockchain technology.\n\nFresh off multiple wins at the Consensus 2024 hackathon in Texas last May, Amanu is now challenging conventional notions of what a crypto wallet should be (if you’d like to apply for the EasyA Hackathon at Consensus Hong Kong 2025, please go here). The startup is developing a suite of features that extend far beyond traditional wallet functionality: users will soon be able to send crypto payments through their keyboard via any messaging app, make contactless transfers via ultrasound technology and manage transactions without dealing with gas fees or having to choose a blockchain.\n\nOne of the biggest hurdles in crypto wallet adoption remains the complexity of seed phrases — the string of random words users must safely store to recover their funds. This fundamental challenge has led Amanu to reimagine wallet security beyond the non-custodial core. Amanu’s wallet uses biometric signatures, eliminating seed phrases entirely.\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\n\"The only way to trigger the signature is through your authorization,\" Minoprio explains. \"The exciting part about Amanu is that it could be closed source and you'd still know how the key is managed because every time we want to trigger the key, you need to accept it.\"\n\nThis represents a significant departure from traditional wallets like MetaMask in which private keys are stored at the software level. However, questions remain about crucial features such as wallet recovery if a device is lost or damaged — an essential consideration for any hardware-based biometric system.\n\nThe expansion beyond core wallet features raises questions about the future of crypto payments. Is Amanu's experimental approach — combining messaging, contactless payments and simplified key management — a sign that crypto's unique properties require us to rethink digital wallets entirely? Or will these features eventually converge back to more traditional wallet interfaces?\n\nThe project's name offers a clue to its ambitions. Derived from \"amanuensis,\" the name for a medieval monk that preserved knowledge by copying texts, Amanu is meant to serve as a bridge between complex blockchain technology and everyday users. \"Today's modern amanuenses are the blockchain builders because we are the few who know how to read and write inside [the blockchain],\" explains Minoprio.\n\nIn the crowded crypto wallet space, where established players already command significant user bases, Amanu's success will depend on whether its innovative features truly solve user pain points, or just add unnecessary complexity. As a result, the company's development approach is ruthlessly user-focused. \"If you pitch the feature to people and they don't get excited about it, you can quickly decide what to focus on or not,\" notes Minoprio.\n\nSeven months into development, Amanu's vision of making crypto payments \"as easy as sending a text\" is about to face its first major test with the upcoming launch of its feature enabling users to send crypto via text message. Whether this reimagining of the crypto wallet will resonate with mainstream users remains to be seen, but it represents a bold experiment in pushing the boundaries of digital payment systems.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/16/amanu-bringing-apple-like-simplicity-to-crypto-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gianluca Minoprio"
+            ],
+            "positions": [
+                "Founder"
+            ],
+            "companies": [
+                "Amanu",
+                "MetaMask"
+            ],
+            "organizations": [
+                "Consensus 2024 hackathon",
+                "EasyA Hackathon at Consensus Hong Kong 2025",
+                "Consensus Hong Kong",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes innovative wallet technology that aims to dramatically increase crypto adoption by eliminating seed phrases and simplifying user experience, which could positively impact the broader cryptocurrency market."
+    }
+}

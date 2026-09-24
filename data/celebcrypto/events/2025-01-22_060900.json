@@ -1,0 +1,29 @@
+{
+    "title": "Deribit's Crypto Trading Volume Nearly Doubled to Over $1T in 2024",
+    "time": "2025-01-22T06:09:00",
+    "author": "Omkar Godbole",
+    "summary": "Total trading volume surged 95%, with options accounting for a giant share of the total platform activity.",
+    "content": "Need evidence of the crypto market's maturation? Look no further than Deribit, the crypto exchange that registered record trading volumes in 2024.\n\nTotal trading volume in Deribit's product suite, which comprises crypto options, perpetual futures, volatility futures, and spot market, rose 95% from $608 billion in 2023 to $1.185 trillion in 2024.\n\nOptions alone registered a trading volume of $743 billion, a 99% year-on-year growth, accounting for a giant share of the total exchange activity. Deribit listed BTC options in 2016 and has since cemented its position as the world's leading crypto options exchange.\n\n“Deribit saw an increase in activity throughout the year, particularly in Q4 as institutional investors demonstrated heightened optimism around the U.S. presidential election, as well as the $100k Bitcoin bull run that followed,\" Deribit's Chief Commercial Officer Luuk Strijers, said in a note shared with CoinDesk.\n\n\"The rise in total platform volume and across our offered products indicates that Deribit continues to be the go-to derivatives exchange, particularly as more professional traders enter the space,\" Strijers added.\n\nThis impressive boom in trading activity on Deribit reflects a maturation of the market, mainly as spot ETFs and options tied to those ETFs went live in the U.S., accelerating institutional participation. It is a sign of a growing shift toward more sophisticated multi-legged trading strategies involving options, futures, and volatility bets.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/deribits-crypto-trading-volume-nearly-doubled-to-over-1-t-in-2024",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers"
+            ],
+            "positions": [
+                "Chief Commercial Officer"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record trading volumes, institutional investor optimism, a Bitcoin bull run, and market maturation with increased professional participation."
+    }
+}

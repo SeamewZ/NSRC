@@ -1,0 +1,32 @@
+{
+    "title": "Bearish Bets on Strategy Look Alluring, Says 10X Research as MSTR Diverges From Bitcoin's Bull Run",
+    "summary": "Despite bitcoin reaching record highs, MSTR's stock price has stalled, indicating waning investor enthusiasm.",
+    "time": "2025-05-26T07:57:00",
+    "author": "Omkar Godbole",
+    "content": "10x Research, led by Markus Thielen, likes bearish options bets on Strategy (MSTR) as the Nasdaq-listed bitcoin\nBTC\n$101,754.63\nholder's share price diverges from the upward trending BTC price.\n\nIn a report sent to clients Friday, Thielen recommended a bear put spread on MSTR, involving a long position in the $370 put option and a short position in the $300 put, both expiring on June 27.\n\nThis strategy will yield maximum profit if MSTR drops to $300 or lower by June 27, representing a bearish bet on the stock price. Put option insures the buyer against potential price drops in return for a small upfront premium payment.\n\nThe maximum loss for the put spread buyers if MSTR's price embarks on a new uptrend is limited to the initial cost of the strategy, which was $13.89 on Friday.\n\nMSTR, however, fell 7% to $369 on Friday, according to data source TradingView. MicroStrategy holds 576,230 BTC, the largest for any publicly-listed company, having steadily accumulated coins since August 2020 through debt financing.\n\nOver the years, it has emerged as a preferred instrument for institutions looking to take exposure to BTC without having to actually own the cryptocurrency.\n\nThe stock price has recently diverged from the upward-trending BTC price, raising alarm bells on crypto social media.\n\nWhile BTC hit a record high of over $110K last week, MSTR's rise stalled at around $440, falling well short of its lifetime peak of $543 reached in November.\n\n\"This trade captures the growing disconnect between Bitcoin’s strength and MicroStrategy’s fading momentum and volatility. Despite Bitcoin reaching all-time highs, MSTR remains significantly below its peak, suggesting investor enthusiasm is waning,\" Thielen said, explaining the bear put spread.\n\nThielen correctly predicted BTC's recent rise into six figures.\n\nNote that a similar divergence between MSTR and bitcoin marked BTC's November 2021 top.\n\nPast data does not guarantee future results, and the latest divergence between MSTR and BTC does not necessarily mean that bitcoin's bull run is over.\n\nThat said, its does suggest waning enthusiasm about BTC among tradfi investors. In addition, the MSTR bear put spread could offer a hedge against a potential weakness in BTC.\n\n\"Bitcoin is breaking records, but Strategy is stalling—and that divergence matters. Retail is still chasing the dream, unaware that the right-tail upside may be gone. This is where the game changes: when the middleman runs out of premium and the engine stalls,\" Thielen said.\n\n\"Buying a Strategy put spread can be profitable, but it is also an effective hedge against a long Bitcoin position,\" Thielen added.",
+    "url": "https://www.coindesk.com/markets/2025/05/26/bearish-bets-on-strategy-look-alluring-says-10x-research-as-mstr-diverges-from-bitcoin-s-bull-run",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Markus Thielen"
+            ],
+            "positions": [],
+            "companies": [
+                "MicroStrategy",
+                "Strategy",
+                "MSTR",
+                "TradingView"
+            ],
+            "organizations": [
+                "10x Research",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights a bearish options strategy on MSTR due to its divergence from Bitcoin's price, suggesting waning investor enthusiasm and potential market weakness."
+    }
+}

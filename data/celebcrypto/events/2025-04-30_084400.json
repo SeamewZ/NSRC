@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Debate on Looser Data Limits Brings to Mind the Divisive Ordinals Controversy",
+    "summary": "Removing the blockchain's OP_RETURN size controls would allow more data to be embedded in transactions. Critics say this will only be used for spam.",
+    "time": "2025-04-30T08:44:00",
+    "author": "Sam Reynolds",
+    "content": "Bitcoin developers are again at odds over how the world’s oldest and largest blockchain should handle storing information on-chain, with a proposal to relax long-standing limits on the size of data held sparking fierce debate reminiscent of 2023's battles over Ordinals.\n\nThe blockchain's OP_RETURN feature allows people attach a small piece of extra data to a transaction It is often used for things like notes, timestamps or digital records. The proposed change, put forward by developer Peter Todd, would remove the 80-byte cap on such data, a limit originally designed to discourage spam and preserve the blockchain’s financial integrity.\n\nSupporters argue the current limit is pointless because users are already bypassing it by using Taproot transactions, to hide data inside parts of the transaction meant for cryptographic signatures. This is how Ordinals and Inscriptions work (and why they have their critics): They embed images or text into Taproot transactions that are often unspendable, turning the Bitcoin blockchain into a kind of data storage system.\n\nBitcoin Core developer Luke Dashjr, a vocal critic of Ordinals, which he has long labeled a “spam attack” on the blockchain, called the proposal “utter insanity” and warned that loosening data restrictions would accelerate what he sees as the degradation of Bitcoin’s financial-first purpose.\n\n“It should be needless to say, but this idea is utter insanity,” Dashjr posted. “The bugs should be fixed, not the abuse embraced.”\n\nCritics of the proposal also have another concern. The change could normalize illegal content storage, degrade the chain’s fungibility, and turn node operators into unwitting hosts of malware and copyright violations.\n\nTo demonstrate the potential maelstrom this may bring, one Ordinals team inscribed a whole Nintendo 64 emulator onto the blockchain, which may get the attention of Nintendo, a company known for being protective of its intellectual property.\n\nSupporters of the change, including Pieter Wuille and Sjors Provoost, argued that relaxing OP_RETURN limits may actually reduce what's known as UTXO (unspent transaction output) bloat, a phenomenon that slows down the blockchain when the network gets cluttered with non-financial transactions, and mempool fragmentation.\n\nUTXO bloat is a documented side effect of Ordinals and Inscriptions using Taproot transactions. For example, in May 2023, at the height of Ordinals' popularity, the Bitcoin blockchain became so congested Binance had to suspend bitcoin\nBTC\n$102,205.43\nwithdrawals for a number of hours.\n\n“The demand exists,” Wuille wrote. “And pushing it outside the public relay network only causes greater harm.”\n\nFor now, the proposal remains under review. One thing is for certain: The intensity of debate on GitHub and blockchain developer mailing lists shows the battle for Bitcoin's identity is far from over.",
+    "url": "https://www.coindesk.com/tech/2025/04/30/bitcoin-debate-on-looser-data-limits-brings-to-mind-the-divisive-ordinals-controversy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Peter Todd",
+                "Luke Dashjr",
+                "Pieter Wuille",
+                "Sjors Provoost"
+            ],
+            "positions": [
+                "Bitcoin Core developer",
+                "developer"
+            ],
+            "companies": [
+                "Nintendo",
+                "Binance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing developer debates about technical changes with mixed opinions and no clear market direction indicated."
+    }
+}

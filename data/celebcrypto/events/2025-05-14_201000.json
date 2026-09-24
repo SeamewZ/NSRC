@@ -1,0 +1,42 @@
+{
+    "title": "The Protocol: Lido Avoids Major Hack",
+    "summary": "Also: Bitcoin DeFi Blossoms, Fusaka Planning Begins, and Telegram Cracks Down on Crypto Crime Marketplace",
+    "time": "2025-05-14T20:10:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. This is Margaux Nijkerk and Sam Kessler, CoinDesk’s Tech team.\n\nIn this issue:\n\nLIDO AVOIDS MAJOR SECURITY BREACH: Lido, Ethereum’s largest liquid staking protocol, avoided a major security incident after one of its nine oracle keys was compromised in what appears to be a low-impact but serious breach involving validator operator Chorus One. Lido secures over 25% of all ether\nETH\n$3,340.48\nstaked on Ethereum, making it one of the most systemically important protocols in the Ethereum ecosystem. The compromised key was tied to a hot wallet used for oracle reporting, leading to the theft of just 1.46 ETH ($4,200) in gas fees. No user funds were affected, and no broader compromise was detected, per X posts from both Lido and Chorus One. — Tim Craig Read more.\n\nBITCOIN DEFI BLOSSOMING: Decentralized finance (DeFi) on the Bitcoin blockchain may still be in its infancy relative to Ethereum, but Bitcoin DeFi (BTCFi) is becoming safer and cheaper, crypto analytics firm Messari said in a new report. A central participant is Rootstock, one of the oldest Bitcoin layer-2 projects, crypto analytics firm Messari said in its \"State of Rootstock\" report. Rootstock is now secured by 81% of Bitcoin's total hashrate, meaning miners that account for amount the hashrate are also approving transactions on the layer 2. The figure was just 56% before the the onboarding of Foundry and Spiderpool, the world's largest and sixth-largest mining pools, respectively, in February. — Jamie Crawley Read more.\n\nFUSAKA PLANNING BEGINS: After the successful deployment last week of Pectra, Ethereum's biggest upgrade in more than a year, the network's core developers are already shifting focus to the next major chain upgrade: Fusaka. Pectra, the biggest code change to Ethereum since the Merge in 2022, introduced key changes aimed at making staking easier for institutions, improving wallet accessibility, and boosting transaction efficiency. Developers have already begun planning for Fusaka, the network’s next upgrade, and have thus far agreed to include an Ethereum Improvement Proposal (EIP) called \"PeerDAS\" that could help the network support larger \"blobs\" of transaction data. — Margaux Nijkerk Read more.\n\nTELEGRAM CRACKS DOWN ON CRYPTO CRIME MARKETPLACE: Messaging app Telegram has closed thousands of channels belonging to suspected Chinese crypto-crime marketplaces after new research shed light on the situation, according to Elliptic. The closure follows a report published by the blockchain analytics firm on Tuesday into the fast-growing Telegram-based marketplace called Xinbi Guarantee. The Colorado-incorporated marketplace has processed over $8.4 billion worth of transactions using Tether’s USDT stablecoin since 2022. It facilitates services relating to money laundering, operating crypto scam compounds and other illicit services, such as intimidation and sex trafficking, according to Elliptic. — Tim Craig Read more.",
+    "url": "https://www.coindesk.com/tech/2025/05/14/the-protocol-lido-avoids-major-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Sam Kessler",
+                "Tim Craig",
+                "Jamie Crawley"
+            ],
+            "positions": [],
+            "companies": [
+                "CoinDesk",
+                "Lido",
+                "Chorus One",
+                "Messari",
+                "Rootstock",
+                "Foundry",
+                "Spiderpool",
+                "Telegram",
+                "Elliptic",
+                "Xinbi Guarantee",
+                "Tether"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "USDT"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed developments including a security breach that was contained, positive Bitcoin DeFi growth, routine network upgrades, and a crackdown on criminal activity, resulting in no clear directional market impact."
+    }
+}

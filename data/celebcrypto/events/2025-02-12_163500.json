@@ -1,0 +1,43 @@
+{
+    "title": "Franklin Templeton Expands $594M Market Money Fund to Solana",
+    "time": "2025-02-12T16:35:00",
+    "author": "Helene Braun",
+    "summary": "The move comes after Securitize linked to Solana to bring tokenized real-world assets to the network.",
+    "content": "Franklin Templeton has made the OnChain U.S. Government Money Market Fund (FOBXX), the third-largest tokenized money market fund, available on Solana in another signal of growing interest in the blockchain.\n\nThe fund is already available on Ethereum, Coinbase’s Base, Aptos and Avalanche, which were all added last year. The Stellar network functions as the primary blockchain. The asset manager announced the expansion on Wednesday.\n\nSolana has emerged as the leading venue for new tokens (mostly memecoins) and decentralized trading. It now accounts for over 90% of all new tokens appearing on decentralized exchanges (DEX), according to a Pantera Capital report. That's up from 1% in late 2023.\n\n“Even when innovation doesn’t start on Solana, it eventually finds its way there,” Cosmo Jiang and Eric Wallach wrote in the report.\n\nFOBXX, which started in 2021, has grown to a $594 million market capitalization, according to data by rwa.xyx. It lags behind Hashnote’s Short Duration Yield Coin (USYC) and BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL).\n\nTokenization is one of the fastest-growing sectors in crypto adoption as institutions increasingly bring traditional financial assets like bonds, commodities and funds into the blockchain economy for more efficient operations and faster settlement. It's a multitrillion dollar market opportunity, reports from BCG, McKinsey and Brevan Howard have forecast.\n\nSmart-contract network Ethereum leads ecosystem for tokenization efforts with a 52% market share representing $3.8 billion worth of tokenized real-world assets. It is followed by Ethereum layer-2 ZKsync Era, rwa.xyz data shows. Solana, at $135 million, ranks seventh.\n\nFranklin Templeton's expansion to Solana is the latest sign of increasing interest in the network for tokenization efforts. Real-world asset platform Securitize expanded its offerings, including BUIDL, to the network in late January.\n\nAnthony Scaramucci, the founder and managing partner of hedge fund SkyBridge, in a Tuesday interview touted Solana's speed and efficiency, saying that it will \"win the race\" in the tokenization world.",
+    "url": "https://www.coindesk.com/business/2025/02/12/franklin-templeton-expands-usd594m-market-money-fund-to-solana",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Anthony Scaramucci",
+                "Cosmo Jiang",
+                "Eric Wallach"
+            ],
+            "positions": [
+                "founder and managing partner"
+            ],
+            "companies": [
+                "Franklin Templeton",
+                "Securitize",
+                "Coinbase",
+                "Pantera Capital",
+                "Hashnote",
+                "BlackRock",
+                "BCG",
+                "McKinsey",
+                "Brevan Howard",
+                "SkyBridge"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Ethereum",
+            "Base",
+            "Aptos",
+            "Avalanche",
+            "Stellar"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Franklin Templeton expanding its $594M tokenized money market fund to Solana, signaling growing institutional interest in blockchain tokenization which represents a multitrillion dollar market opportunity."
+    }
+}

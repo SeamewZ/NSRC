@@ -1,0 +1,35 @@
+{
+    "title": "SEC, Binance Ask Judge to Extend Pause in Ongoing Case",
+    "summary": "The parties previously asked a judge to pause the case for 60 days.",
+    "time": "2025-04-11T21:05:00",
+    "author": "Nikhilesh De",
+    "content": "Attorneys for the U.S. Securities and Exchange Commission and Binance asked a federal judge on Friday to continue a pause in the regulator's case against the crypto exchange for another two months, citing \"productive discussions.\"\n\nThe SEC sued Binance in 2023, alleging the exchange — alongside its U.S. affiliate and executives such as former CEO Changpeng Zhao — violated federal securities laws by operating as an unlicensed clearing agency, broker and exchange. The SEC also alleged commingling and that Binance.US's trading volume was manipulated. In February, after U.S. President Donald Trump retook office and appointed Commissioner Mark Uyeda as acting agency chair, the regulator asked for a 60-day pause in the case, which was set to expire on Monday. The SEC pointed to a newly created crypto task force aiming to draft clearer guidance around how securities law might apply to digital assets as part of its explanation for the requested pause.\n\nIn Friday's filing, the attorneys involved said the discussions included \"how the efforts of the crypto task force may impact the SEC's claims,\" and requested another 60 days' pause.\n\n\"In light of these continued discussions and the time required for the staff to seek authorization from the Commission as necessary to approve any resolution or changes to the scope of this litigation, the SEC requested that the Defendants agree to continue the current stay for an additional 60 days, and the Defendants agreed that continuing the stay is appropriate and in the interest of judicial economy,\" the filing said.",
+    "url": "https://www.coindesk.com/policy/2025/04/11/sec-binance-ask-judge-to-extend-pause-in-ongoing-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Changpeng Zhao",
+                "Donald Trump",
+                "Mark Uyeda"
+            ],
+            "positions": [
+                "former CEO",
+                "U.S. President",
+                "acting agency chair",
+                "Commissioner"
+            ],
+            "companies": [
+                "Binance",
+                "Binance.US"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "crypto task force"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing regulatory discussions and case pauses, indicating uncertainty and waiting rather than clear positive or negative market direction."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Dogecoin Leads Losses Among Majors; BTC, ETH, XRP Slump on Profit-Taking",
+    "summary": "Bitcoin’s safe-haven narrative has been growing in the past week on its relevant resilience, mirroring gold’s price rise, even as bond yields and U.S. equities corrected amid the ongoing tariff wars.",
+    "time": "2025-04-24T05:41:00",
+    "author": "Shaurya Malwa",
+    "content": "Major tokens fell as much as 5% on Thursday as traders took profits on a steady move higher from earlier this week, with memecoin\nDOGE\n$0.1656\nleading losses among the largest assets.\n\nBitcoin\nBTC\n$101,998.62\nclung to the $93,000 zone in the past 24 hours, but XRP, Solana’s SOL, BNB Chain’s BNB and DOGE showed losses above 2%. Ether\nETH\n$3,341.49\nfared relatively better with a 1.5% slump.\n\nOverall market cap decreased 2.5%. The broad-based CoinDesk 20, a liquid index tracking the largest tokens by market cap, fell over 3%.\n\nSpot bitcoin exchange-traded funds (ETFs) in the U.S. bagged over $916 million in inflows on Wednesday. Some traders point to the asset’s growing safe haven as a catalyst underpinning this surge in flows.\n\n“The inflows are driven by a declining U.S. dollar index, and Bitcoin’s growing safe-haven appeal amid equity market volatility,” Vugar Usi Zade, COO at Bitget, told CoinDesk in an email. “The massive ETF inflows reflect Bitcoin’s strengthening position as a leading crypto asset, with growing institutional adoption.\n\n“Its reduced correlation with equities and safe-haven narrative position it as a diversification tool, though short-term challenges like weak investment signals require sustained macro catalysts,”\n\nBitcoin’s safe-haven narrative has been growing in the past week on its relevant resilience, mirroring gold’s price rise, even as bond yields and U.S. equities corrected amid the ongoing tariff wars.\n\nEarlier this week, President Donald Trump said he had no intention to fire Federal Reserve Chair Powell and that a deal with China (which is facing tariffs as high as 245% on some items) would significantly reduce some of its levies.\n\nThe mixed signals and frequent tone shift are jading traders, however, who continue to monitor comments for further cues on positioning.\n\n“Macro risks remain, but one critical overhang appears to be cleared. Trump is signaling no intention to replace Fed Chair Powell for now. The reassurance has prompted a modest pullback in long-end yields, helping reduce a key tail risk,” Singapore-based QCP Capital said in a broadcast message Thursday.\n\n“The broader outlook, however, is anything but simple. Trade frictions, geopolitical jitters, and regulatory opacity continue to cast long shadows,” the firm added.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/dogecoin-leads-losses-among-majors-btc-eth-xrp-slump-on-profit-taking",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Vugar Usi Zade"
+            ],
+            "positions": [
+                "COO",
+                "Federal Reserve Chair",
+                "President"
+            ],
+            "companies": [
+                "Bitget",
+                "QCP Capital"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "Solana",
+            "SOL",
+            "BNB Chain",
+            "BNB",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Major tokens fell as much as 5% with Dogecoin leading losses and overall market cap decreasing 2.5%, indicating widespread price declines across the cryptocurrency market."
+    }
+}

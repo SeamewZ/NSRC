@@ -1,0 +1,43 @@
+{
+    "title": "The Protocol: Solana to Get Major Design Overhaul",
+    "summary": "Also: New Eth Nodes Proposal, Solana Seeker Phone, World Token Sale",
+    "time": "2025-05-21T18:57:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, the Ethereum protocol reporter on CoinDesk’s Tech team.\n\nIn this issue:\n\nSOLANA TO GET MAJOR DESIGN OVERHAUL: Solana developers are planning what could be the blockchain’s most ambitious core upgrade to date — one that replaces its current technology stack with a redesigned consensus protocol built for near-instant finality and responsiveness. The new system, called Alpenglow, was unveiled on Monday by infrastructure firm Anza, a Solana Labs spinout. It proposes replacing Proof of History — Solana’s famously unique “pre-recorded clock” system — and Tower BFT, its existing voting mechanism for reaching consensus. — Shaurya Malwa Read more.\n\nPROPOSAL FOR NEW ETHEREUM NODES TO MAKE THEM EASIER TO RUN: Ethereum co-founder Vitalik Buterin has proposed a new design to reduce the hardware burden for running a network node, framing it as a step toward a fully decentralized network that doesn’t require sophisticated infrastructure to help maintain. In a blog post, Buterin introduced the concept of “partially stateless nodes,” allowing users to store only a subset of Ethereum’s data, rather than the entire blockchain that clocks in at over 1.3 terabytes (TB).— Shaurya Malwa Read more.\n\nWORLD $135M TOKEN SALE TO A16Z, BAIN CAPITAL CRYPTO: Sam Altman’s blockchain project World Network has raised $135 million in a private token sale of its WLD token. The sale was to venture capital giants a16z and Bain Capital Crypto and will be used to fund network expansion. The funding comes as the group behind the blockchain announced the project's in-app functionalities as well as the WLD token have become available as of earlier this month to U.S. users. — Margaux Nijkerk Read more.\n\nSolana Labs' mobile team plans to ship its Seeker phone starting Aug. 4, in addition to sharing new information about some of its infrastructure framework as well as a new SKR token for its mobile users. The news comes as the new iteration of Solana’s mobile has been in the works for months, with over 150,000 units so far, according to a press release. Seeker was introduced after the phone's first model, Saga, was originally having a hard time selling, creating some uncertainty for its future. But Saga did eventually sell out after crypto users realized they could collect certain token airdrops.",
+    "url": "https://www.coindesk.com/tech/2025/05/21/the-protocol-solana-to-get-major-design-overhaul",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Shaurya Malwa",
+                "Vitalik Buterin",
+                "Sam Altman"
+            ],
+            "positions": [
+                "Ethereum protocol reporter",
+                "co-founder"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Anza",
+                "Solana Labs",
+                "a16z",
+                "Bain Capital Crypto",
+                "World Network"
+            ],
+            "organizations": [
+                "Tech team"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Ethereum",
+            "ETH",
+            "WLD",
+            "SKR"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including major technical upgrades for Solana and Ethereum, significant funding for World Network, and successful product launches that indicate growing adoption and innovation in the cryptocurrency space."
+    }
+}

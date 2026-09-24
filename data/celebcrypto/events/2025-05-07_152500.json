@@ -1,0 +1,43 @@
+{
+    "title": "Why One of Uniswap DAO’s Most Outspoken Members Just Walked Away in Frustration",
+    "summary": "The situation highlights the struggle of balancing DeFi protocol interests.",
+    "time": "2025-05-07T15:25:00",
+    "author": "Tim Craig",
+    "content": "One of the Uniswap DAO’s top contributors walked away in frustration on Monday amid concerns that other stakeholders wield too much power over the decentralised protocol.\n\nPepo, a pseudonymous delegate whom other token holders entrusted to vote on their behalf, had participated in Uniswap’s governance since 2023. He wielded 455,000 UNI tokens, making him one of the top 20 largest delegates.\n\nThe reason for the departure? Other organisations involved in the running of Uniswap — primarily the nonprofit Uniswap Foundation — have pushed aside the opinions of DAO members and have been unreceptive to feedback, Pepo said in an X post.\n\n“The Foundation’s behavior seems to have prioritized insulation over collaboration, and in doing so, may have actively harmed Uniswap,” Pepo said.\n\nDevin Walsh, Executive Director of the Uniswap Foundation, didn't provide direct comment to CoinDesk when asked about the accusation. However, she did provide a rebuttal on social media.\n\n“Delegate participation is essential to the success of the Uniswap ecosystem,” she said on X. “The Uniswap Foundation takes their feedback seriously.”\n\nUniswap is the biggest decentralized exchange with some $4 billion worth of deposits, down 60% from its peak of nearly $10 billion total-value-locked during 2021-2022, according to DefiLlama data.\n\nLike many DeFi protocols, Uniswap is controlled and managed through a somewhat byzantine structure.\n\nThe protocol was created by Uniswap Labs, a for-profit company which is also responsible for its continued development. The Uniswap Foundation, a nonprofit, is tasked with supporting Uniswap and its community, while protocol changes and allocation of resources is controlled by the Uniswap DAO, a type of crypto collective governed by holders of the UNI token.\n\nIn March, the DAO granted the foundation $165 million to boost Uniswap ecosystem growth and development. This gave the foundation a mandate to do certain things in pursuit of its goals without directly consulting the DAO.\n\nSome, like Pepo, feel the Uniswap Foundation’s actions are putting the DAO’s interests behind those of itself and Uniswap Labs.\n\nThis situation highlights the persistent struggle to balance the interests of DeFi protocol token holders with those of other stakeholders.\n\nPepo isn’t the only one to highlight a perceived lack of DAO control at Uniswap.\n\nIn October, Billy Gao, vice president of Stanford Blockchain Club, a Uniswap delegate, said Uniswap Labs’ sudden decision to launch its own blockchain “raised serious questions about DAO governance.”\n\nGao argued that the Uniswap DAO should have been told about the blockchain ahead of time and allowed to weigh in on key decisions in its implementation. “It calls to question (once again) how decentralized [Uniswap’s] governance actually is,” he said.\n\nUniswap Labs did not immediately respond to a request for comment.\n\nOthers have questioned how the Uniswap Foundation uses the funds granted to it, and have complained that it isn’t transparent enough about its spending and decision making.\n\n“Transparency and communication are values that many delegates agree with,” Doo Wan Nam, Co-founder of DAO governance solutions provider StableLab, a Uniswap delegate, told CoinDesk. “There have been improvements.”\n\nOn May 1, the Uniswap Foundation responded to criticism by creating a Foundation Feedback Group, intended to ensure effective communication and strengthen accountability between the foundation and the DAO.\n\nAdditionally, as a nonprofit company, the foundation must legally publish its finances.\n\nBut the problem is that for some delegates, it’s not enough.\n\n“It’s a loss for any DAO whenever a delegate feels the only way to make an impact is through stepping down,” PaperImperium, Governance Liaison at Uniswap DAO delegate GFX Labs, told CoinDesk.\n\nSome governance participants also complained that a lot of Uniswap DAO communication and decision-making happens privately, instead of publicly on the Uniswap governance forums.\n\nThis has led to complaints that major decisions are all agreed on by large delegates behind closed doors before going to a public vote.\n\nIt’s necessary for proposals to receive a degree of feedback before being presented publicly, Nam said.\n\nIt’s not unlike traditional governance. “Congressmen won't just blindly write bills without talking to relevant stakeholders or other Congressmen,” Nam said.\n\nBut it’s a double-edged sword. As DAOs mature, there’s also a sense that they are becoming more about politics and appearances rather than pursuing what’s best for the protocol.\n\nMultiple Uniswap delegates declined to comment to CoinDesk when asked about the complaints highlighted by Pepo.\n\nRead more: Uniswap Passes $165M Funding Plan After DAO Vote",
+    "url": "https://www.coindesk.com/tech/2025/05/07/why-one-of-uniswap-dao-most-outspoken-members-just-walked-away-in-frustration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pepo",
+                "Devin Walsh",
+                "Billy Gao",
+                "Doo Wan Nam",
+                "PaperImperium"
+            ],
+            "positions": [
+                "Executive Director",
+                "vice president",
+                "Co-founder",
+                "Governance Liaison"
+            ],
+            "companies": [
+                "Uniswap Labs",
+                "CoinDesk",
+                "StableLab",
+                "GFX Labs"
+            ],
+            "organizations": [
+                "Uniswap DAO",
+                "Uniswap Foundation",
+                "Stanford Blockchain Club",
+                "Foundation Feedback Group",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "UNI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes governance conflicts, delegate departures, and concerns about decentralization at Uniswap, which could undermine confidence in one of the largest DeFi protocols."
+    }
+}

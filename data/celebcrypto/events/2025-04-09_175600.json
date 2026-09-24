@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Jumps 6% to $81K as Crypto Prices Surge on Trump's Tariff Pause",
+    "time": "2025-04-09T17:56:00",
+    "author": "Krisztian Sandor",
+    "summary": "President Trump said he authorized a 90-day pause on tariffs on countries that haven't retaliated against the U.S.",
+    "content": "Cryptocurrencies jumped on Wednesday on news that Donald Trump stepped back some tariff burdens on countries — except for China.\n\nAccording to Trump's post on Truth Social, he issued a 90-day delay on tariffs and a substantially lowered 10% rate of reciprocal tariff for this period against all countries except China. Meanwhile, he said he raised tariffs for China to 125%, \"effective immediately.\"\n\nBitcoin\nBTC\n$103,966.57\n, treading water around $77,000 during most of the U.S. session, surged above $81,000 on the news, up 5.5% over the past 24 hours.\n\nAltcoin majors rallied even more, with XRP, Solana's SOL, Avalanche's AVAX, Chainlink's LINK, Hedera's HBAR and SUI posting over 10% gains in the broad-market CoinDesk 20 Index. Ethereum's ETH rallied to $1,600, up 8% during the same period.\n\nU.S. stocks also reacted positively, with the Nasdaq and the tech-heavy S&P 500 indexes up 7% and 8.8% through the day's session.\n\nEarlier Wednesday, Trump had posted that it was \"a great time to buy.\"",
+    "url": "https://www.coindesk.com/markets/2025/04/09/bitcoin-jumps-6-above-usd80k-as-cryptos-surge-on-trump-s-tariff-pause",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S."
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "Solana's SOL",
+            "Avalanche's AVAX",
+            "Chainlink's LINK",
+            "Hedera's HBAR",
+            "SUI",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes cryptocurrencies jumping with Bitcoin surging 5.5% and altcoins posting over 10% gains following Trump's tariff pause announcement."
+    }
+}

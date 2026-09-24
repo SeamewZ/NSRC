@@ -1,0 +1,33 @@
+{
+    "title": "XRP Downside Fears Persist Despite ETF Optimism, Options Data Show",
+    "summary": "XRP's recent price movement suggests a possible re-test of lows around $1.6, despite its strong order book depth.",
+    "time": "2025-04-17T11:35:00",
+    "author": "Omkar Godbole",
+    "content": "XRP might be the next cryptocurrency to get a spot ETF listing in the U.S. after bitcoin\nBTC\n$101,998.62\nand ether\nETH\n$3,341.49\n, analysts argued this week. However, the Deribit-listed options market,doesn't share this optimism.\n\nAs of the time of writing, Deribit's put options tied to XRP were pricier than calls across several timeframes, according to data source Amberdata. That's a sign of persistent downside fears.\n\nA put option provides insurance against price drops, and traders purchase the same when looking to hedge or profit from an expected price drop.\n\nThe bias for puts was evident from negative skews across the timeframes. Options skew measures the implied volatility premium (demand) for calls relative to puts.\n\nXRP dived out of an ascending wedge early Wednesday, signaling a possible re-test of recent lows at around $1.6.\n\nEarlier this week, analysts said that XRP has a relatively better order book depth, implying ease in trading large orders at stable prices, compared to Solana's SOL and other tokens. This meant that the payments-focused coin used by Ripple to facilitate cross-border transactions could be the next digital asset to get a spot ETF approval in the U.S.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/xrp-downside-fears-persist-despite-etf-optimism-options-data-show",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Ripple",
+                "Deribit",
+                "Amberdata"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights persistent downside fears for XRP with put options being pricier than calls and a technical breakdown signaling possible re-test of recent lows at $1.6, despite some ETF optimism."
+    }
+}

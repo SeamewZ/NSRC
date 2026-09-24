@@ -1,0 +1,31 @@
+{
+    "title": "Terraform Labs to Open Claims Portal for Investors on March 31",
+    "time": "2025-03-29T17:14:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Creditors must file claims by May 16, 2025, to seek potential recovery.",
+    "content": "Terraform Labs, the firm behind the collapsed Luna token and the TerraUSD stablecoin, will open a portal on March 31 to allow investors to file claims for crypto losses tied to the company’s downfall and subsequent bankruptcy.\n\nThe online system, operated by claims administrator Kroll, is part of the company's court-supervised wind-down process. Investors have until May 16 at 11:59 p.m. ET to submit claims through claims.terra.money. Late submissions will not be considered, meaning those who miss the deadline forfeit their right to any recovery, according to a Medium post.\n\nEligible claims must be tied to specific cryptocurrencies listed in the case documents and held during the period surrounding the Terra ecosystem's collapse. Notably, assets with less than $100 in on-chain liquidity and certain others—like Terra 2.0's Luna—will not qualify.\n\nClaimants must also submit proof of ownership. The preferred method is read-only API keys from exchanges, which the administrator considers more reliable than screenshots or manually uploaded documents. The post adds that those using manual evidence may face extended review periods or risk their claims being denied altogether.\n\nOnce filed, claims will be reviewed and verified. Initial decisions will be shared within 90 days after the deadline and approved claims will be eligible for pro rata distributions once processing concludes.\n\nThe Terra ecosystem collapsed in 2022, leading to the largest destruction of wealth in just three days in the cryptocurrency space’s history. LUNA’s market capitalization plunged from over $41 billion to $6 million in that period.\nRead more: Terraform Labs, Do Kwon Agree to Pay SEC a Combined $4.5B in Civil Fraud Case\n\nUPDATE: This article has been updated to reflect the deadline has been extended to May 16.",
+    "url": "https://www.coindesk.com/markets/2025/03/29/terraform-labs-to-open-claims-portal-for-investors-on-march-31",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Do Kwon"
+            ],
+            "positions": [],
+            "companies": [
+                "Terraform Labs",
+                "Kroll"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Luna",
+            "TerraUSD",
+            "LUNA",
+            "Terra 2.0's Luna"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes the aftermath of Terra's catastrophic collapse that destroyed massive wealth and continues to negatively impact investors through bankruptcy proceedings."
+    }
+}

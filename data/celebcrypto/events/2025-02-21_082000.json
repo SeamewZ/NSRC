@@ -1,0 +1,44 @@
+{
+    "title": "Ye, Self-Proclaimed 'Nazi' Who Said 'Coins Prey on Fans,' Plans YZY Token",
+    "summary": "Seventy percent of YZY tokens will go to Ye (a.k.a. Kanye West), personally.",
+    "time": "2025-02-21T08:20:00",
+    "author": "Sam Kessler",
+    "content": "HONG KONG—Ye, the artist formerly known as Kanye West who has repeatedly called himself a \"Nazi\" in recent weeks, plans to launch a crypto token, according to three sources close to the project.\n\nThe token, YZY, is designed to help Ye side-step platforms like Shopify that have cut ties with him in response to his hateful rhetoric.\n\nCrypto, with its censorship-resistant ethos, offers Ye an alternative avenue for cashing in on his celebrity status: Seventy percent of the YZY token, named after Ye's Yeezy clothing brand, will be reserved for Ye personally, with just 10% allocated for liquidity provisioning and 20% for investors.\n\nYe's foray into crypto comes on the heels of years of public controversy that have strained his business empire. In 2022, Ye was dropped by Adidas, Balenciaga and his talent agency after making a series of antisemitic comments, including praising Adolf Hitler in a live interview and tweeting inflammatory rhetoric about Jewish people and other groups.\n\nThe fallout continued this year when Ye, after again calling himself a Nazi on X, listed a T-shirt bearing a swastika on the Yeezy website, leading e-commerce platform Shopify to shut down his online store. (Ye claimed on X this week that he was no longer a Nazi, thanking Adam Sandler \"for the love.\" He made a similar reversal in 2022, crediting Jonah Hill.)\n\nYZY is being packaged as the official currency of Yeezy and will be accepted as payment on his website.\n\nCoinDesk learned about the token through an email from Hussein Lalani, a person with a yeezy.com email address who identified himself as Yeezy's chief financial officer. After sending a document describing the token unsolicited, Lalani requested that CoinDesk hold off on publication and agree to an \"embargo.\" CoinDesk did not agree to the embargo, and three sources close to the project authenticated the document.\n\nLalani did not respond to further requests for comment.\n\nThe YZY token was initially set to go for sale on Yeezy's website on Thursday at 6:00 p.m., but the launch was delayed to Friday, according to a team member who asked not to be identified for fear of associating publicly with the project.\n\nThere have been murmurings of a potential Ye token since earlier this month, after the rapper teased that he had tried to contact Coinbase CEO Brian Armstrong.\n\nYe later posted that he was “not doing a coin” despite someone offering him $2 million to do so. He added: “Coins prey on the fans with hype.”\n\nSources close to the YZY team told CoinDesk that Ye aimed to emulate Donald Trump’s TRUMP meme coin, which the president launched two days before his second inauguration. Trump raised eyebrows for his similarly massive insider-ownership distribution: 80% of TRUMP is currently held by CIC Digital, a company with ties to the president.\n\nYe, too, wanted an 80% ownership stake but was negotiated down to 70%, an additional source close to the project who asked not to be identified told CoinDesk. Should Ye's token achieve even a fraction of TRUMP's success, his stake could still be worth many millions of dollars.\n\nYZY enters an already saturated market of celebrity-driven crypto projects, many of which have been accused of exploiting fan loyalty without offering tangible utility. In many cases, these tokens see a short-lived price surge driven by hype before crashing, leaving retail investors holding the bag.\n\nCentralized ownership allocation only adds to the risk of sudden price drops. According to the unsolicited YZY press release, Ye’s 70% YZY stake is structured through a multi-phase vesting schedule — some coins are locked for up to 12 months, meaning they cannot be sold until then — though critics argue that such insider-heavy allocations still favor founders over retail investors.\n\nJust this week, Argentina became enmeshed in a political crisis after a meme coin endorsed by President Javier Milei, LIBRA, turned out to be a \"pump-and-dump\" scheme, triggering public outrage and calls for impeachment.\n\nThe source close to YZY told CoinDesk that the token's delay comes as its team ponders whether it's still \"too close to the Milei thing.\"",
+    "url": "https://www.coindesk.com/tech/2025/02/21/kanye-west-self-proclaimed-nazi-who-said-coins-prey-on-fans-plans-yzy-token",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ye",
+                "Kanye West",
+                "Adolf Hitler",
+                "Adam Sandler",
+                "Jonah Hill",
+                "Hussein Lalani",
+                "Brian Armstrong",
+                "Donald Trump",
+                "Javier Milei"
+            ],
+            "positions": [
+                "chief financial officer",
+                "CEO",
+                "president"
+            ],
+            "companies": [
+                "Shopify",
+                "Adidas",
+                "Balenciaga",
+                "Yeezy",
+                "Coinbase",
+                "CIC Digital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "YZY",
+            "TRUMP",
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes celebrity-driven crypto projects as exploiting fan loyalty, mentions insider-heavy allocations favoring founders over retail investors, and references recent pump-and-dump schemes that triggered public outrage."
+    }
+}

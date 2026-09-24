@@ -1,0 +1,24 @@
+{
+    "title": "Whales Buy the Bitcoin Dip: First Meaningful Accumulation in 8 Months",
+    "time": "2025-04-03T12:27:00",
+    "author": "James Van Straten",
+    "summary": "Another indicator, though, continues to point to downward price pressure.",
+    "content": "Prices remain under pressure and sentiment is so weak one would think it's 2022 all over again, but for the first time in nearly a year, bitcoin\nBTC\n$104,030.61\nwhales are buying.\n\nFollowing months of distribution as bitcoin surged to a record high above $109,000, so-called whales — wallets holding 10,000 BTC or more — are meaningfully accumulating as prices dip to just above $80,000, according to Glassnode data.\n\nThe last time whales were buying so aggressively was in August 2024 with bitcoin in the $50,000-$60,000 range as the yen carry trade was unwinding.\n\nOften considered “smart money,” whales tend to buy during deep corrections and sell into strength — a pattern that has played out consistently over the past eight months.\n\nDespite this renewed whale activity, broader market behavior remains bearish, with bitcoin currently down 25% from its all-time high. Glassnode’s Accumulation Trend Score, which tracks the behavior of different wallet cohorts over a 15-day window, shows that most other investor groups are still in distribution mode.\n\nA score closer to 1 signals accumulation, while a score near 0 indicates distribution. With an overall market score of just 0.15, selling pressure remains dominant. This suggests that while whales are starting to buy the dip, broader market sentiment continues to lean bearish, potentially putting further downward pressure on price—at least in the short term.",
+    "url": "https://www.coindesk.com/markets/2025/04/03/whales-buy-the-bitcoin-dip-first-meaningful-accumulation-in-8-months",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While whales are accumulating Bitcoin during the price dip, broader market sentiment remains bearish with most investor groups still in distribution mode and selling pressure dominant."
+    }
+}

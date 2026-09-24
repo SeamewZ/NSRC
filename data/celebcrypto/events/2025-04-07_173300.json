@@ -1,0 +1,33 @@
+{
+    "title": "BlackRock CEO Larry Fink Says Further 20% Market Drop Is Possible",
+    "time": "2025-04-07T17:33:00",
+    "author": "Helene Braun",
+    "summary": "Fink, who spoke at the The Economic Club of New York on Monday, said that he still sees the current drawdown as a “buying opportunity.”",
+    "content": "BlackRock CEO Larry Fink said the market could see another 20% drop, but that the current drawdown is a buying opportunity in the long term as the current situation doesn’t pose systematic risk.\n\n“I see it more as a buying opportunity than a selling opportunity, but that doesn’t mean we can’t go down further,” Fink said during an appearance at the Economic Club of New York on Monday.\n\nHe noted that inflationary pressure is higher than market participants expect and that many already believe the U.S. to be in a recession. As a result, he does not anticipate the Federal Reserve to cut interest rates this year.\n\nLast month, Fink published a letter to shareholders, warning about Bitcoin’s\nBTC\n$103,869.95\nthreat to the U.S. dollar, which could weaken if Americans believe the cryptocurrency to be a safer asset than the dollar.\n\nMarkets, including the crypto market, have been in turmoil since U.S. President Donald Trump announced a host of tariffs on goods imported to the U.S. BTC is currently trading 5% lower over the past five days and 11% lower in the past month. Stocks were hit even worse with the S&P 500 and Nasdaq down 13% and 15%, respectively.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/blackrock-ceo-larry-fink-says-further-20-market-drop-is-possible",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Larry Fink",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "The Economic Club of New York",
+                "Federal Reserve",
+                "U.S."
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes market turmoil with BTC trading 5% lower over five days and 11% lower over the past month, while the BlackRock CEO warns of potential further 20% market drops."
+    }
+}

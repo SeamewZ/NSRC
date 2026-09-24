@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Miner IREN Upgraded to Overweight, Cipher Mining Cut to Neutral: JPMorgan",
+    "time": "2025-03-13T13:47:00",
+    "author": "Will Canny",
+    "summary": "",
+    "content": "Wall Street bank JPMorgan (JPM) updated its bitcoin\nBTC\n$104,523.82\nminer price targets and estimates following fourth-quarter 2024 results and to account for changes in the bitcoin price and the network hashrate.\n\nJPMorgan raised IREN (IREN), its top pick in the sector, to overweight from neutral, and cut its price target to $12 from $15. The shares were 2.7% higher at $7.23 in early trade.\n\nCipher Mining (CIFR) was downgraded to neutral from overweight, while the bank withdrew its $8 price target. The stock fell 3% to $3.10.\n\nThe bank reiterated its overweight ratings on Riot Platforms (RIOT) and CleanSpark (CLSK), and reduced their respective price targets to $13 and $12. Riot slipped 0.5% to $7.82. CleanSpark gained 0.6% to $8.15.\n\nIt reiterated its neutral rating on MARA Holdings (MARA), and cut the company's price target to $18 from $23. The shares rose 0.5% to $13.14.\n\nMiner's price targets were slashed by 19%-29% to reflect a 10% reduction to the bank's bitcoin price assumption and an 80% increase to the bank's network hashrate growth estimate.\n\nThe total market cap of the five mining stocks that the bank covers has slumped more than 20% year-to-date versus a 11% decline in the bitcoin price, the report noted.\n\nMining stocks have come under pressure as high performance computing (HPC) deals have taken longer than expected to come to fruition, and mining economics have deteriorated, the bank said.\n\nThe pullback in these stocks offers an attractive entry point for investors, the report added.\n\nRead more: Bitcoin Mining Economics Weakened in February: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/03/13/bitcoin-miner-iren-upgraded-to-overweight-cipher-mining-cut-to-neutral-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "IREN",
+                "Cipher Mining",
+                "CIFR",
+                "Riot Platforms",
+                "RIOT",
+                "CleanSpark",
+                "CLSK",
+                "MARA Holdings",
+                "MARA"
+            ],
+            "organizations": [
+                "JPMorgan",
+                "Wall Street bank JPMorgan"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that JPMorgan slashed bitcoin miner price targets by 19%-29% due to reduced bitcoin price assumptions and deteriorating mining economics, with mining stocks underperforming bitcoin's decline."
+    }
+}

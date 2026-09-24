@@ -1,0 +1,48 @@
+{
+    "title": "Crypto Miners Soar on OpenAI-CoreWeave Deal; Galaxy Jumps in Nasdaq Debut",
+    "summary": "Asset prices across markets largely shrugged off surging Inflation expectations, with crypto prices consolidating sideways.",
+    "time": "2025-05-16T19:15:00",
+    "author": "Krisztian Sandor",
+    "content": "While cryptocurrencies put in a flattish performance on Friday with bitcoin\nBTC\n$101,914.13\nchurning around $104,000, crypto-related stocks were having a moment to shine.\n\nCrypto mining and data center firms such as Cipher Mining (CIFR), Hive Digital (HIVE), Hut 8 (HUT) and TeraWulf (WULF) booked 10%-20% gains on optimism about artificial intelligence (AI) computing demand, jolted by CoreWeave (CRWV) signing a $4 billion deal with ChatGPT-developer OpenAI. These firms are often seen as proxies for AI-linked infrastructure bets due to their data center assets.\n\nFor its part, CoreWeave soared more than 26%.\n\nThe rally extended to Galaxy Digital (GLXY), which rose 8% on its first day of trading on the Nasdaq, marking the firm’s long-awaited U.S. market debut. The company, previously only listed in Toronto, manages crypto investments and trades digital assets and also has a data center business.\n\nCrypto exchange Coinbase (COIN) rebounded 9% after a sharp drop Thursday triggered by customer data breach and ongoing regulatory scrutiny by the U.S. Securities and Exchange Commission (SEC).\n\nRead more: Market Reaction to Coinbase Hack ‘Overblown,’ Say Analysts as SEC Probe Sinks COIN\n\nDeFi Development (DFDV), the real estate tech firm with a Solana\nSOL\n$157.94\ntreasury strategy, surged 45% to fresh record highs on news of striking a validator operation deal with memecoin BONK\nBONK\n$0.0₄1193\nand adding more SOL tokens to its balance sheet.\n\nMeanwhile, BTC held just above $104,000, up 1.3% over the 24 hours, while ether\nETH\n$3,335.91\ngained 2.3% to $2,580. The broad-market CoinDesk 20 Index was flat, with XRP\nXRP\n$2.2584\nunderperforming as a U.S. judge rejected the settlement proposal between Ripple and the SEC.\n\nOn the macro front, the University of Michigan’s latest inflation survey showed consumers expect 1-year inflation to rise to 7.3%, up from 6.5%, the highest since the 1980s, while expectations for 5-10 years ticked up to 4.6%, a multi-decade high.\n\n\"It's so high it doesn't make sense,\" Louis Navellier, chief investment officer of money management firm Navellier said in a market note.\n\nResponses showed staggering divergence in outlooks by political affiliations, with the Republican outlook for far tamer inflation. Traditional markets, consequently, shrugged off the data, with major U.S. stock indices climbing higher towards the latter hours of the session.\n\nHowever, rising inflation expectations may have a second-order impact on markets by discouraging Fed policymakers from cutting rates in the next months.\n\n\"The concern here is that the Fed has expressed interest in consumer expectations on inflation, and with their concern about the potential of tariff-fueled inflation, it may give them further reason to pause,\" Navellier said.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/crypto-miners-soar-on-openai-coreweave-deal-galaxy-jumps-in-nasdaq-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Louis Navellier"
+            ],
+            "positions": [
+                "chief investment officer"
+            ],
+            "companies": [
+                "Cipher Mining",
+                "Hive Digital",
+                "Hut 8",
+                "TeraWulf",
+                "CoreWeave",
+                "Galaxy Digital",
+                "Coinbase",
+                "DeFi Development",
+                "Navellier"
+            ],
+            "organizations": [
+                "OpenAI",
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "University of Michigan",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "ether",
+            "ETH",
+            "XRP",
+            "BONK"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price gains for crypto-related stocks and positive developments like the OpenAI-CoreWeave deal and Galaxy Digital's Nasdaq debut, while major cryptocurrencies showed modest gains."
+    }
+}

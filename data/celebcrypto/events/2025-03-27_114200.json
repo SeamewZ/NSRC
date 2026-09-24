@@ -1,0 +1,26 @@
+{
+    "title": "Bitcoin Whales Bought $11B of BTC in Two Weeks as Confidence Grew, Glassnode Says",
+    "time": "2025-03-27T11:42:00",
+    "author": "Omkar Godbole",
+    "summary": "Whales are boosting their coin stashes, showing confidence in BTC's prospects despite lingering macroeconomic uncertainty.",
+    "content": "While macroeconomic uncertainty and technical indicators raise doubts about bitcoin's (BTC) recent gains, purchasing activity by some of the largest investors indicates a more optimistic outlook.\n\nSince March 11, so-called bitcoin whales have snapped up over 129,000 BTC, worth $11.2 billion at the market price of $87,500, according to data tracked by blockchain analytics firm Glassnode.\n\nThat's the most significant accumulation rate since August 2024, indicating growing confidence in the largest cryptocurrency among the biggest market participants, Glassnode commented on X.\n\nBTC has regained some poise, since reaching lows under $78K roughly two weeks ago. The recovery has been led by dovish comments from Federal Reserve and optimism that impending Trump tariffs on April 2 will be more measured than expected.\n\nGlassnode's analysis revealed that crypto whale addresses with over 10,000 BTC compensating for continued selling by small holders.\n\nOther indicators, such as the \"Bitcoin 1Y+ HOLD wave,\" tracked by Bitbo Charts show a renewed upswing, indicating a shift to a holding strategy, as Wednesday's edition of the Crypto Daybook Americas noted.",
+    "url": "https://www.coindesk.com/markets/2025/03/27/bitcoin-whales-bought-usd11b-of-btc-in-two-weeks-as-confidence-grew-glassnode-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant whale accumulation of Bitcoin worth $11.2 billion, indicating growing confidence and the most significant accumulation rate since August 2024."
+    }
+}

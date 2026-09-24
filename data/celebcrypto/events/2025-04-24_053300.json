@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin’s April Rally Driven by Institutions, While Retail Flees ETFs: Coinbase Exec",
+    "summary": "Patient pools of capital are behind BTC's recent rally.",
+    "time": "2025-04-24T05:33:00",
+    "author": "Sam Reynolds",
+    "content": "Bitcoin’s\nBTC\n$101,998.62\nbreakout to $93,000 is being driven by deep-pocketed institutions, not retail exchange traded-fund (ETF) buyers, said Coinbase Institutional's John D’Agostino on CNBC.\n\nThe rally began in early April, as institutional investors, and sovereign wealth funds quietly accumulated BTC with their \"patient pools of capital\" while retail investors were still pulling capital from spot ETFs.\n\n“Institutions, sovereigns, patient pools of capital were piling in,” he said. “Retail via the ETF were exiting. So you’ve got to ask yourself, what do the institutions know?”\n\nThat institutional conviction is now being formalized. Earlier this week, Strike CEO Jack Mallers and Cantor Fitzgerald’s Brandon Lutnick unveiled Twenty One Capital, a new bitcoin investment company backed by Tether, Bitfinex, and SoftBank.\n\nThe company will launch with more than 42,000 BTC and is expected to trade publicly under the ticker “XXI” after merging with Cantor Equity Partners, a $200 million SPAC.\n\nD’Agostino has a three-part thesis as to why this is happening. First is de-dollarization: sovereigns and institutions reduce USD exposure as trade weakens. Second, decoupling from tech: Bitcoin shedding its Nvidia-adjacent identity. Third, hedge basket theory: Bitcoin ranks in the top five in inflation hedge models used by veteran commodities traders.\n\n\"Bitcoin is trading on its core characteristics, which again are similar to gold. You've got scarcity, immutability, and non-sovereign asset portability,\" he continued. \"So it's trading the way people who believe in Bitcoin would like it to trade.\"\n\nMeanwhile, major altcoins like ether\nETH\n$3,341.49\n, Solana's SOL, and Cardano's ADA have yet to make similar technical moves. The CoinDesk 20 (CD20), a measure of the performance of the world's largest digital assets, is down 3% over the last month while BTC is up 7%.\n\nThis recent move in prices might have pushed back up retail interest in BTC ETFs. Data from SoSoValue put ETF inflow over $900 million for the second day in a row for Wednesday, putting ETF inflow over $2.2 billion between April 21 and 23. There were 9 days in this month where Bitcoin ETFs saw net outflows, totaling approximately $1.21 billion",
+    "url": "https://www.coindesk.com/markets/2025/04/24/bitcoin-s-april-rally-driven-by-institutions-as-retail-flees-etfs-coinbase-exec",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John D’Agostino",
+                "Jack Mallers",
+                "Brandon Lutnick"
+            ],
+            "positions": [
+                "Coinbase Institutional's",
+                "Strike CEO",
+                "Cantor Fitzgerald's"
+            ],
+            "companies": [
+                "Coinbase Institutional",
+                "Strike",
+                "Cantor Fitzgerald",
+                "Twenty One Capital",
+                "Tether",
+                "Bitfinex",
+                "SoftBank",
+                "Cantor Equity Partners",
+                "SoSoValue"
+            ],
+            "organizations": [
+                "CNBC",
+                "CoinDesk 20"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's breakout rally driven by institutional buying, sovereign wealth fund accumulation, and the launch of a major new bitcoin investment company with significant BTC holdings."
+    }
+}

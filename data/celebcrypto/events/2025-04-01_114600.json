@@ -1,0 +1,38 @@
+{
+    "title": "Some Crypto Tokens Plunge 50% Within Minutes on Binance Amid Suspected Trading Bot Glitch",
+    "time": "2025-04-01T11:46:00",
+    "author": "Shaurya Malwa",
+    "summary": "Low liquidity and massive sell orders likely led to the market imbalance.",
+    "content": "Multiple tokens cratered as much as 50% within 30-minutes on crypto exchange Binance on Tuesday, with market watchers wondering if a misconfigured trading bot could have caused the declines.\n\nAct I, the Prophecy (ACT) slumped 50%,\nDEXE\n$6.5886\ndropped 30% and\nDF\n$0.01613\nfell nearly 20% within minutes after 1031 UTC on Tuesday, data from Binance shows, with no immediate catalyst or explanation behind the sudden fall.\n\nThe drop led to $6.28 million worth of longs being liquidated on ACT-tracked futures across exchanges, Coinglass data shows, with a single trader hit with a $3.2 million liquidation.\n\nMeanwhile, HIPPO, BANANA31, TST and LUMIA posted similar declines shortly after 1100 UTC, though not as large as ACT, with dips in some tokens like KAVA getting quickly purchased by fast-fingered traders.\n\nThe tokens are not related or in the same sector. Data showed a surge in selling volumes roughly around the same time, with no other tokens on Binance seeing similar spikes in selling volumes.\n\nThe stage for volatility was likely set by Binance's announcement at 10:30 UTC, which introduced changes in leverage requirements and margin tiers for perpetual contracts for several tokens, including ACT/USDT.\n\nThe announcement said the new rules will be applicable to existing positions. That likely spurred position adjustments by trading bots, leading to price volatility in perpetuals, which quickly spilled over to spot prices.\n\nThe cascade spread over to other exchanges, with these tokens down equivalent amounts on other centralized exchanges as well as on decentralized exchanges.\n\nEarly reactions on X ranged from surprise to speculations of a market-making bot possibly causing the declines due to a misconfiguration on how they trade, though CoinDesk could not independently confirm the allegations as of writing time.\n\n\"Seems someone has been hacked or banned or idk,\" Andrei Grachev, founder at DWF Labs said on X. \"Otherwise I cannot explain why too many unrelated assets dumped.\"\n\n\"Even though the update was on perps, the impact spilled into spot. Traders using cross-margin setups or running arb strategies were likely forced to unwind both sides. Panic from the perp cascade also spread, algos and discretionary players alike started exiting spot just to stay ahead of the move,\" pseudonymous observer Game said in an X post.\n\nUPDATE (April 1, 12:00 UTC): Adds additional details and background.\n\nUPDATE (April 1, 12:18 UTC): Adds details on Binance changing leverage requirements.",
+    "url": "https://www.coindesk.com/markets/2025/04/01/some-crypto-tokens-plunge-50-within-minutes-on-binance-amid-suspected-trading-bot-glitch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrei Grachev",
+                "Game"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Binance",
+                "DWF Labs",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ACT",
+            "DEXE",
+            "DF",
+            "HIPPO",
+            "BANANA31",
+            "TST",
+            "LUMIA",
+            "KAVA",
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple tokens plunging 50%, massive liquidations totaling $6.28 million, and widespread panic selling across both spot and perpetual markets."
+    }
+}

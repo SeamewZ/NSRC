@@ -1,0 +1,27 @@
+{
+    "title": "Singapore Blocks Polymarket, Following Taiwan and France",
+    "summary": "The city-state's Gambling Regulatory Authority tells local ISPs to stop access to the leading prediction market.",
+    "time": "2025-01-13T08:16:00",
+    "author": "Sam Reynolds",
+    "content": "Another jurisdiction has Polymarket in its crosshairs. Over the weekend, Singapore's Gambling Regulatory Authority (GRA) ordered local internet service providers to block access to the prediction market platform, according to reports from users in the city-state.\n\n\"You have attempted to access an illegal gambling site hosted by an unlicensed gambling service provider,\" the announcement reads, warning that those found guilty of gambling with unlicensed service providers are liable for a fine of up to SGD 10,000 ($7200) or a jail sentence of up to 6 months.\n\nThe GRA has yet to make a public announcement on the issue, nor have they launched an enforcement action against Polymarket according to a public directory.\n\nTaiwan was the first jurisdiction to actively block its nationals from using the prediction market platform, and local law enforcement arrested 17 people on the island for betting on its most recent presidential election.\n\nLocal Taiwanese election law specifically prohibits betting on the outcome of elections.\n\nPolymarket has also been the target of gaming authorities in France, and has blocked users in the country from accessing the platform.\n\nRecently, the U.S. Commodity Futures Trading Commission subpoenaed Coinbase looking for information about U.S. nationals trading on Polymarket as part of an ongoing investigation.",
+    "url": "https://www.coindesk.com/policy/2025/01/13/singapore-blocks-polymarket-following-taiwan-and-france",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Polymarket",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Singapore's Gambling Regulatory Authority",
+                "GRA",
+                "U.S. Commodity Futures Trading Commission",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory crackdowns and blocking of a cryptocurrency-based prediction market platform across multiple jurisdictions including Singapore, Taiwan, and France, indicating negative regulatory pressure on crypto services."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Red-Hot DeFi Platform Usual Faces Backlash as Protocol Update Triggers Sell-Off",
+    "time": "2025-01-10T22:26:00",
+    "author": "Krisztian Sandor",
+    "summary": "An unexpected change in the redemption mechanism of the protocol's yield-generating token caught investors off-guard, throwing the DeFi community into disarray.",
+    "content": "Usual Protocol, an up-and-coming decentralized finance (DeFi) protocol that has seen a remarkable rise over the past months, faced community backlash on Friday after a tweak in the protocol's yield-generating token triggered a sell-off on secondary markets.\n\nAmid the turmoil, the protocol's USD0++ token, which represents a locked-up – or staked – version of its $1-anchored stablecoin USD0, fell briefly below 90 cents from $1 on decentralized marketplace Curve. The protocol's governance token, USUAL, plummeted as much as 17% through the day before recovering some of the losses.\n\nThe selloff was caused by a change in the redemption mechanism of USD0++ token introduced by the team on Thursday that caught investors and liquidity providers off-guard.\n\nBy design, USD0 is backed by short-term government securities to keep its price at $1. Stakers on Usual receive USD0++ that comes with a four-year lock-up period, meaning that investors are locking up their funds without being able to redeem in exchange for rewards earned in the form of the protocol's USD0 and USUAL tokens. Yield farmers rushed in, catapulting the protocols total value locked (TVL), a key DeFi metric, to $1.87 billion earlier this week from less than $300 million in October.\n\nHowever, the new feature called \"dual-path exit\" will allow investors to redeem the locked-up tokens early at a 0.87 USD0 floor price, or at par, by giving up a part of the rewards earned, calling the 1:1 exchange rate into question.\n\nThe abrupt implementation drew criticism across DeFi users for changing the design without warning. In certain liquidity pools, the token's price was hardcoded to worth $1, causing havoc among borrowers and liquidity providers.\n\n\"Did they just allow degens to jump in at 1:1 and then rug the USD0++?,\" prominent DeFi analyst Ignas said in an X post. \"They pushed for the largest USD0/USD0++ pool on Curve knowing all well that USD0++ shouldn't trade at 1:1.\"\n\n\"DeFi continues learning the most important truth about pegs: a peg is a story about why two things that are not the same are interchangeable for each other,\" noted Patrick McKenzie, advisor to payments firm Stripe.\n\nThe Usual team said in a statement that the design change with the early unstaking mechanism was communicated in advance from October. The protocol will also activate the revenue switch starting on Monday and start distributing the protocol's earnings to governance token holders who stake their coin for longer-term (USUALx).\n\n\"The current situation regarding USD0++ stems from a misunderstanding of the protocol’s mechanisms along with a communication that should have been better articulated,\" the statement reads. \"We apologize and we’ll continue to do our best to communicate transparent information to users.\"\n\nThe episode is another lesson for crypto investors about the potential risks of DeFi products that entice users with high-yields via token incentives and rewards flywheels.\n\n\"Users who are taking risk need to know what the exact rules are and be able to trust that they won't change, otherwise it can result in market panic,\" Rob Hadick, general partner at venture capital firm Dragonfly, told CoinDesk. \"We should be thankful this happened now, before the protocol became a risk to the broader DeFi ecosystem.\"\n\nStill, USD0++ traded recently at 0.91 USD0 in the Curve pool, while the protocol's total value locked, a key DeFi metric, dropped below $1.6 billion.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/red-hot-de-fi-platform-usual-faces-backlash-as-protocol-update-triggers-sell-off",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ignas",
+                "Patrick McKenzie",
+                "Rob Hadick"
+            ],
+            "positions": [
+                "prominent DeFi analyst",
+                "advisor to payments firm Stripe",
+                "general partner at venture capital firm Dragonfly"
+            ],
+            "companies": [
+                "Stripe",
+                "Dragonfly",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Usual Protocol",
+                "Curve"
+            ]
+        },
+        "cryptocurrencies": [
+            "USD0",
+            "USD0++",
+            "USUAL",
+            "USUALx"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a protocol update that triggered a sell-off, caused token prices to plummet, and resulted in market panic among investors and liquidity providers."
+    }
+}

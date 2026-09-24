@@ -1,0 +1,32 @@
+{
+    "title": "Strategy Treads Water on BTC Bet, While Metaplanet, Semler Reel from Heavy Losses",
+    "time": "2025-04-07T08:15:00",
+    "author": "James Van Straten",
+    "summary": "Strategy’s cushion is narrowing, with an average bitcoin cost basis of $67,458.",
+    "content": "Disclosure: The author of this story owns shares in Strategy (MSTR).\n\nAs the crypto market's correction kicks off, days after traditional financial markets started reacting to President Donald Trump's tariffs, bitcoin (BTC) slumped to its lowest level in five months, dropping to as low as $74,500 and marking a full one-third drop from the record high it hit Jan. 20.\n\nThis slide has left Strategy (MSTR) marginally in the green on its bitcoin acquisition strategy. At a total cost of $35.6 billion, the company currently holds an unrealized profit of about 10%, or roughly $3.9 billion on its BTC investment.\n\nStrategy owns 528,185 BTC, now valued at $39.5 billion, giving it an average cost basis of $67,458 per bitcoin. The company’s mNAV multiple — market cap divided by the value of the holdings — sits just under 2, indicating the stock still trades at a premium.\nAccording to CoinDesk research, MSTR faces no liquidation risk even if bitcoin falls below its cost basis.\n\nAs of April 2, Metaplanet (3350) disclosed bitcoin holdings of 4,206 BTC purchased at an average price of 12,925,027 yen ($88,800) per coin. That puts the Japanese company about 15% underwater on its bitcoin strategy. The stock dropped 20% on Monday alone, reflecting mounting pressure from the downturn.\n\nSemler Scientific (SMLR) has also seen losses on its bitcoin holdings, with an average acquisition cost of $87,854 per BTC, according to the most recent filing in February.\n\nWith bitcoin down 20% this year, Semler has lost 38%, Metaplanet 15% and Strategy 2%.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/strategy-treads-water-on-btc-bet-while-metaplanet-semler-reel-from-heavy-losses",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Strategy (MSTR)",
+                "Metaplanet (3350)",
+                "Semler Scientific (SMLR)"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin slumping to its lowest level in five months with significant price drops, companies facing heavy losses on their bitcoin holdings, and mounting pressure from the market downturn."
+    }
+}

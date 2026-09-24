@@ -1,0 +1,29 @@
+{
+    "title": "ATOM Surges More Than 4% With Broader Market as Cosmos Ecosystem Attracts Institutions",
+    "summary": "Cosmos-based projects gain institutional attention with BlackRock CEO highlighting tokenization revolution",
+    "time": "2025-05-01T16:32:00",
+    "author": "AI Boost",
+    "content": "The Cosmos ecosystem is gaining significant institutional attention amid broader market volatility, with ATOM showing remarkable resilience after recovering from a drop to $4.23 on April 30th to stabilize above $4.38.\n\nThe price of ATOM rose more than 4% in the last 24 hours, while the broader market gauge CoinDesk 20 Index climbed nearly the same amount.\n\nThis recovery comes as Canary Capital files for the first spot Sei ETF built on Cosmos SDK, featuring staking capabilities that could set a precedent for similar products across the ecosystem.\n\nMeanwhile, Figure's Provenance blockchain, also built with Cosmos SDK, has emerged as the leader in tokenized private credit with $9.9 billion in active loans, validating BlackRock CEO Larry Fink's vision that \"every asset can be tokenized.\"\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.\n\nReferences:",
+    "url": "https://www.coindesk.com/markets/2025/05/01/atom-surges-3-5-as-cosmos-ecosystem-attracts-institutional-giants",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Larry Fink"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "BlackRock",
+                "Canary Capital",
+                "Figure"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ATOM"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ATOM price rising 4%, institutional attention, ETF filings, and validation of tokenization vision as positive market developments."
+    }
+}

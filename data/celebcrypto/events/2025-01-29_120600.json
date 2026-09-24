@@ -1,0 +1,26 @@
+{
+    "title": "Cardano Will Transition to Full Decentralized Governance After Wednesday's Hard Fork, Cardano Foundation Says",
+    "summary": "A hard fork is a non-backwards compatible change to the blockchain's programming.",
+    "time": "2025-01-29T12:06:00",
+    "author": "Omkar Godbole",
+    "content": "Proof-of-stake blockchain Cardano will switch to decentralized governance later Wednesday after the Plomin hard fork takes effect, Cardano Foundation, a non-profit organization backing the project, said on X.\n\n\"The Plomin hard fork takes effect, marking the transition to full decentralized governance. ADA holders gain real voting power – on parameter changes, treasury withdrawals, hard forks, and the blockchain’s future,\" Cardano Foundation said. \"[It's] A milestone in blockchain governance.\"\n\nCardano's ADA token changed hands at 93 cents at press time, up 1.4% on the day, according to data from CoinDesk and TradingView. A hard fork is a non-backwards compatible change to the blockchain's programming.\n\nThe Plomin hard fork needs Stake Pool Operators to upgrade their nodes and approve the upgrade with a 51% vote. As of last week, nearly 80% of nodes had elevated to the new version.",
+    "url": "https://www.coindesk.com/tech/2025/01/29/cardano-will-transition-to-full-decentralized-governance-after-wednesday-s-hard-fork-cardano-foundation-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Cardano Foundation",
+                "CoinDesk",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a milestone transition to full decentralized governance with ADA holders gaining real voting power, accompanied by a 1.4% price increase for ADA."
+    }
+}

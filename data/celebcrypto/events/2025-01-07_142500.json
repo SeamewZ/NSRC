@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: POL and LINK Each Fall 3.1% as Index Declines",
+    "time": "2025-01-07T14:25:00",
+    "author": "CoinDesk Indices",
+    "summary": "Bitcoin (BTC) was also among the underperformers, dipping 1.4%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3701.1, down 1.1% (-39.29) since 4 p.m. ET on Monday.\n\nFour of 20 assets are trading higher.\n\nLeaders: APT (+4.6%) and ADA (+2.2%).\n\nLaggards: POL (-3.1%) and LINK (-3.1%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/07/coin-desk-20-performance-update-pol-and-link-each-fall-3-1-as-index-declines",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "POL",
+            "LINK",
+            "APT",
+            "ADA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index declined 1.1% with most assets trading lower and only four of twenty assets trading higher."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Fastex Expands U.S. Presence With Los Angeles Office",
+    "summary": "In an interview with CoinDesk, Fastex’s chief legal officer said that the crypto regulatory shift under President Donald Trump has made it possible for the exchange to expand in the U.S.",
+    "time": "2025-05-30T03:21:00",
+    "author": "Cheyenne Ligon",
+    "content": "Fastex, a Dubai-based crypto exchange, is expanding its presence in the U.S., building out an office in Los Angeles, California.\n\nAccording to a Thursday announcement, Fastex will offer spot crypto trading services of tokens including bitcoin\nBTC\n$102,205.43\n, ether\nETH\n$3,340.48\n, Cardano\nADA\n$0.5362\n, Solana\nSOL\n$158.23\nand its native utility token, Fasttoken\nFTN\n$1.9050\n, to both retail and institutional investors in the U.S.\n\nFastex’s American expansion comes as the U.S. continues to overhaul its approach to crypto regulation under President Donald Trump’s administration. Since Trump took office in January, the U.S. Securities and Exchange Commission (SEC) has retreated from the so-called regulation-by-enforcement approach to crypto it took under former Chair Gary Gensler, dropping a host of open investigations and closing ongoing litigation against crypto exchanges.\n\nIn an interview with CoinDesk at Bitcoin 2025 in Las Vegas, Fastex’s Chief Legal Officer and board member Vardan Khachatryan said that the SEC’s softened stance toward crypto regulation played a major role in the exchange’s decision to expand in the U.S., though he acknowledged that there is still no concrete legal framework for crypto in the country.\n\n“There has been enough of a policy change, at least in terms of [how the U.S. government is] viewing things, that allowed us to go for this,” Khachatryan said. “It’s still kind of a risk, but it’s a lower risk.”\n\nWith a host of crypto companies returning to the U.S. due to the Trump Administration's crypto-friendly policies, cities like New York are hoping to attract companies expanding to the U.S. to set up shop in their jurisdictions.\n\nBut, while Khachatryan said New York would be “the right place to be in terms of headquarters,” he said that, for now, the prospect of obtaining a BitLicense — the notoriously difficult-to-obtain crypto license issued by the New York Department of Financial Services (NYDFS) — is prohibitive.\n\n“I hope that things will change a bit,” Khachatryan said.\n\nNew York City Mayor Eric Adams, who has branded himself the “Bitcoin Mayor” in an attempt to lure crypto companies to New York, called for the end to the BitLicense regime during a speech at Bitcoin 2025 in Las Vegas on Wednesday.\n\nRead more: NYC Mayor Eric Adams Calls for End of the NYDFS BitLicense, Proposes BitBond\n\nFastex is currently headquartered in Dubai, in the Dubai International Financial Centre (DIFC). Khachatryan said the exchange is currently working on obtaining a license from Dubai’s Virtual Assets Regulatory Authority (VARA).\n\nAfter expanding in the U.S., Khachatryan said the exchange also has its eyes on a Latin American expansion, starting with Brazil, followed by Argentina and Mexico.",
+    "url": "https://www.coindesk.com/policy/2025/05/29/fastex-expands-u-s-presence-with-los-angeles-office",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Vardan Khachatryan",
+                "Gary Gensler",
+                "Eric Adams"
+            ],
+            "positions": [
+                "chief legal officer",
+                "board member",
+                "President",
+                "former Chair",
+                "Mayor"
+            ],
+            "companies": [
+                "Fastex",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "New York Department of Financial Services",
+                "NYDFS",
+                "Dubai International Financial Centre",
+                "DIFC",
+                "Virtual Assets Regulatory Authority",
+                "VARA"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL",
+            "Fasttoken",
+            "FTN"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto-friendly regulatory shifts under the Trump administration and multiple crypto companies expanding in the U.S., indicating positive market conditions and increased institutional participation."
+    }
+}

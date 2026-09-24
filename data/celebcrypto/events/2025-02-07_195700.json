@@ -1,0 +1,37 @@
+{
+    "title": "Decentralized AI Opportunity Is 'Bigger than Bitcoin,' Says DCG's Barry Silbert",
+    "time": "2025-02-07T19:57:00",
+    "author": "Danny Nelson",
+    "summary": "Barry Silbert thinks deAI is a generational opportunity. DCG's betting on it.",
+    "content": "Crypto investment magnate Barry Silbert is betting big on decentralized AI, calling it \"the next big era of crypto\" that could be bigger than even bitcoin.\n\nIn a letter to shareholders of his crypto conglomerate Digital Currency Group, Silbert went long on deAI: the crypto industry's effort to fuse AI innovations with blockchain tech. He believes the tech mashup may pay better dividends for humanity than the closed-off systems being developed by OpenAI and other giants.\n\n\"We’re moving from the digital ownership of assets to the decentralized ownership of intelligence and the availability of vast decentralized compute resources,\" Siblert wrote in the Q4 letter reviewed by CoinDesk.\n\nThe setup reminded Silbert of bitcoin, the best-known and by far biggest cryptocurrency, and the one where he first made his crypto fortune. But instead of a money revolution, deAI could herald a power revolution with crypto as the mechanism to distribute ownership of and governance over powerful AI models.\n\nDCG certainly thinks so. The company has already invested $105 million into over a dozen deAI projects, \"and we're excited to ramp this up in 2025,\" Silbert wrote.\n\nHe highlighted DCG's investment in Bittensor – a crypto network that specializes in machine learning and AI applications – as the portfolio company closest to \"escape velocity.\" Bittensor's TAO token has many similarities to bitcoin, he wrote.\n\nNotably, TAO's market cap is $2.7 billion, a rounding error against bitcoin's nearly $2 trillion valuation.\n\nDCG plans to invest mightily in supporting the Bittensor ecosystem. Silbert pointed out that in November, it spun up a company called Yuma that incubates Bittensor infrastructure projects. And Grayscale, another DCG company, now offers investment products that give exposure to TAO.\n\nSilbert's Q4 letter capped a year of \"rebuilding\" at DCG after a long period of tumult spawned by the FTX implosion, which felled its lending business, Genesis. DCG is also a former owner of CoinDesk, having sold to Bullish in late 2023. All five of DCG's wings had a \"successful 2024,\" he said.\n\n\"The discipline required over the last couple of years has resulted in enhanced infrastructure and more mature processes, improved governance, and a stronger organization focused on executing on our growth initiatives,\" Silbert wrote.",
+    "url": "https://www.coindesk.com/business/2025/02/07/decentralized-ai-opportunity-is-bigger-than-bitcoin-says-dcg-s-silbert",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Barry Silbert"
+            ],
+            "positions": [
+                "crypto investment magnate"
+            ],
+            "companies": [
+                "Digital Currency Group",
+                "DCG",
+                "OpenAI",
+                "Bittensor",
+                "Yuma",
+                "Grayscale",
+                "Genesis",
+                "CoinDesk",
+                "Bullish",
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "TAO"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant investment in decentralized AI projects and expresses strong optimism about the future growth potential of this sector within crypto."
+    }
+}

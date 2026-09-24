@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin Slumps Below $94K, but One Analyst Says $500K Forecast Remains in Play",
+    "time": "2025-02-18T18:52:00",
+    "author": "Stephen Alpher",
+    "summary": "Recent U.S. regulatory filings are show a broadening in the base of buyers for bitcoin ETFs.",
+    "content": "The desultory price action in crypto continued on Tuesday, helping to drag bitcoin\nBTC\n$103,804.63\ncloser to its lowest level in several months.\n\nIn early afternoon trading hours, bitcoin was trading at $93,600, lower by 2% over the past 24 hours and off 10% over the past week.\n\nThe broader crypto market as defined by the CoinDesk 20 Index was down 4% over the past 24 hours. Hitting that index was a 16% decline in solana\nSOL\n$160.60\n, which is feeling the pain as the memecoin market may finally have reached peak grift and/or outright criminality over the weekend with the rugpull involving Argentine President Javier Millei. Solana is now down 35% over the past month and has given back all of its post-Trump election gains.\n\nStandard Chartered's Geoff Kendrick has previously said he expects bitcoin to eclipse $500,000 by the time Donald Trump leaves office.\n\nLooking past the lame short-term price action, Kendrick — in a morning note on Tuesday — said the recent slate of 13F filings regarding institutional ownership of spot bitcoin ETFs gave him hope.\n\nThe type of buyer has evolved from retail to hedge funds and now to banks and sovereigns, said Kendrick, noting a boosted ETF stake from the likes of Goldman Sachs and the initial purchase of a bitcoin ETF by Abu Dhabi.\n\nKendrick: \"Going forward, we would expect more very long-term-long-only money to buy bitcoin and would expect the Abu Dhabi position to be the start of much greater participation by sovereigns.\"\n\nNative tokens of protocols tied to the Solana trading environment weren't spared either. Tokens of decentralized exchanges Raydium (RAY), Jupiter (JUP) posted double-digit losses today, while liquid staking service Jito (JTO) slid 7% lower, with all of them down over 30% from their Friday highs.\n\nThe Solana ecosystem, which is benefitted generously as a hub for memecoin trading and launching tokens, is grappling with the fallout from LIBRA, the latest scandalous pump-and-dump token launch that put several key figures in the Solana space and even Argentina's President Javier Milei in the hot seat.\n\nLIBRA was released on Friday and zoomed to $4 billion market capitalization after Milei's X post saying the project would support small and mid-sized businesses in the country. The token then lost nearly all its market value as insiders cashed in $100 million and Milei backpedalled his support. Milei now faces fraud charges and a possible impeachment, and Solana-based DEX Meteora co-founder Ben Chow resigned after being implicated in the token launch.\n\n\"This is the latest sordid episode emanating from Solana’s memecoin complex,\" Alex Thorn, head of firmwide research at Galaxy, said in a Tuesday note. The report pointed out that sentiment towards memecoins began to erode since the TRUMP token\n\nIf sentiment weren't at rock bottom, the upcoming SOL unlock event increasing the token's circulating supply injects an additional dose of uncertainty in the markets. Estimates vary on the exact amount of tokens to be released into circulation, but one hedge fund analyst forecasted that some 15.725 million SOL, worth roughly $2.5 billion at current prices, will be unlocked over the next three months, with much of the tokens coming from the FTX estate holdings.\n\n\"If an unlock of this scale occurs, it could increase the circulating supply of $SOL and potentially impact market dynamics,\" Tokenomist analysts said in an X post. \"Historical examples of large token unlocks have often led to heightened price volatility. However, it’s essential to note that the precise size of the unlock and the final date are still not publicly disclosed by any official entity.\"",
+    "url": "https://www.coindesk.com/markets/2025/02/18/bitcoin-slumps-below-usd94k-but-one-analyst-says-usd500k-forecast-remains-in-play",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Geoff Kendrick",
+                "Javier Millei",
+                "Alex Thorn",
+                "Ben Chow",
+                "Donald Trump"
+            ],
+            "positions": [
+                "head of firmwide research at Galaxy",
+                "co-founder of Meteora",
+                "President",
+                "analyst"
+            ],
+            "companies": [
+                "Standard Chartered",
+                "Goldman Sachs",
+                "FTX",
+                "Galaxy",
+                "Meteora"
+            ],
+            "organizations": [
+                "Abu Dhabi",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "RAY",
+            "JUP",
+            "JTO",
+            "LIBRA",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin slumping to multi-month lows, Solana dropping 35% over the past month, multiple tokens posting double-digit losses, and a major rugpull scandal involving fraud charges and impeachment proceedings."
+    }
+}

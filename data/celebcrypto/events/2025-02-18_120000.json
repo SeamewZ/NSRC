@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Daybook Americas: LIBRA Fallout Weighs on Crypto Markets While FTX Repayments Are Set to Start",
+    "time": "2025-02-18T12:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for Feb. 18, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nWhile bitcoin\nBTC\n$104,850.17\nis little changed over the past 24 hours, down just 0.7%, the broader market is in a bearish mood following the Libra token debacle, which has led to accusations of fraud and calls for the impeachment of Argentina's President Javier Milei.\n\nThe CoinDesk 20 Index is down around 2.3% over the past day, and the near- to medium-term market movement probably hinges on how the U.S.-Russia negotiations in Riyadh go. The talks are focusing not only on ending the conflict in Ukraine, but also on “normalization” of ties between the countries.\n\nAn additional layer of uncertainty comes from FTX Digital Markets, the Bahamas-based subsidiary of FTX, which starts repaying creditors today. In total, FTX’s repayment program will be around $16 billion.\n\nThe liquidity injection will come in the form of stablecoins. First up are creditors with claims under $50,000, who will receive roughly 119% of their adjudicated claim value, with 9% annual interest accrued since November 2022.\n\nThe effect the repayments will have is unclear. While some analysts say the amount being repaid now is “too small to move the needle,” others suggest that FTX’s historic interest in the Solana ecosystem means some of these funds will flow toward it.\n\nInvestors have recently turned their attention to ether. U.S.-listed spot ETFs offering exposure to the second-largest cryptocurrency by market capitalization are seeing a cumulative net inflow of $393 million this month. That compares with a net outflow of $376 million for spot bitcoin ETFs.\n\nThese inflows come ahead of Ethereum’s Pectra upgrade entering its testing phase on the Holesky testnet. Pectra should bring a number of improvements to scalability and security and will let users pay for gas fees with tokens other than ether.\n\nElsewhere, individual investors are bearish amid trade-war threats, reduced interest-rate cut expectations, and consistent inflationary surprises. A survey from the American Association of Individual Investors found that bearishness among investors is at a two-year high, the Wall Street Journal reports.\n\nThis pessimism, however, is often a contrarian indicator. Institutional investors’ risk appetite has also dropped this month over the potential effects of a potential trade war amid the lowering odds of a Fed rate cut. Stay alert!\n\nCoinDesk's Consensus to take place in Hong Kong on Feb. 18-20 and in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Francisco Rodrigues\n\nThe data below is as of Feb. 14. U.S. markets were closed on Feb. 17.\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/18/crypto-daybook-americas-libra-fallout-weighs-on-crypto-markets-while-ftx-repayments-are-set-to-start",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Javier Milei"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "FTX Digital Markets",
+                "FTX",
+                "Wall Street Journal"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "American Association of Individual Investors",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "Solana",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The broader market is described as being in a bearish mood due to the Libra token debacle and broader economic uncertainties including trade-war threats and reduced rate cut expectations."
+    }
+}

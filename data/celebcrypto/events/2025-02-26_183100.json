@@ -1,0 +1,39 @@
+{
+    "title": "U.S. House Committee Advances Effort to Erase IRS' DeFi Tax Rule",
+    "summary": "A joint resolution in Congress seeks to reverse a December move by the IRS to impose a tax regime in DeFi, and the House has taken the first steps to do that.",
+    "time": "2025-02-26T18:31:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. House of Representatives has taken the first significant move to erase the work of the Internal Revenue Service to impose a tax regime on decentralized financial (DeFi) platforms in the final days of former President Joe Biden's administration.\n\nThe House Ways and Means Committee — the panel responsible for overseeing the Treasury Department's IRS — advanced a resolution in a 26-16 vote to reverse the IRS transaction-reporting policy under the Congressional Review Act. Such an effort requires majority approval in both the House and Senate before a presidential signature would make the move final, and the matter now moves to the overall House.\n\nIn December, the IRS had approved a system that the crypto industry says forces DeFi protocols into a reporting regime designed for brokers, threatening the way that such protocols work and also potentially including a wide range of entities that aren't brokers at all. Nearly every major name in the crypto sector signed onto a Blockchain Association letter last week calling for the elimination of this rule.\n\nRead More: Crypto Industry Asks Congress to Scrap IRS's DeFi Broker Rule\n\nSenator Ted Cruz, a Texas Republican, has fielded a Senate version of the CRA resolution to cut the IRS rule.\n\n\"We must pass this resolution to avoid this nightmare for American taxpayers and for the IRS,\" said Rep. Mike Carey, an Ohio Republican who has pressed for Congress to cut to rule, which he argued would overwhelm the tax agency.\n\nDemocrat Rep. Richard Neal from Massachusetts countered the Republican push.\n\n\"The bill before us today would repeal sensible and important Treasury regulations ensuring that taxpayers meet their tax filing obligations and do not skirt the law by selling crypto currency without reporting the gains,\" he said. \"It's really that simple.\"\n\nEliminating the specific tax approach to decentralized crypto platforms would cut U.S. revenue by an estimated $3.9 billion over a decade.\n\nRep. Jason Smith, the Republican chairman of the committee from Missouri, accused the IRS of going behind \"the letter of the law\" when it approved the rule during Biden's final days in office.\n\n\"Not only is it unfair, but it's unworkable,\" he said.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/u-s-house-committee-advances-effort-to-erase-irs-defi-tax-rule",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Biden",
+                "Ted Cruz",
+                "Mike Carey",
+                "Richard Neal",
+                "Jason Smith"
+            ],
+            "positions": [
+                "former President",
+                "Senator",
+                "Rep.",
+                "Rep.",
+                "Republican chairman of the committee"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. House of Representatives",
+                "Internal Revenue Service",
+                "House Ways and Means Committee",
+                "Congress",
+                "Treasury Department",
+                "Blockchain Association",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The House committee's advancement of a resolution to reverse IRS tax reporting requirements for DeFi platforms represents regulatory relief that would benefit the cryptocurrency industry."
+    }
+}

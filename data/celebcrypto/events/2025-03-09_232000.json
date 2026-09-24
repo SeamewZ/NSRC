@@ -1,0 +1,40 @@
+{
+    "title": "Sunday Blues for Bitcoin as It Tumbles Back to $80K",
+    "time": "2025-03-09T23:20:00",
+    "author": "Stephen Alpher",
+    "summary": "President Trump acknowledged that some of his policies will cause pain in the short term.",
+    "content": "lt's yet another Sunday selloff in crypto, with bitcoin\nBTC\n$104,209.47\nlooking set to retest its 2025 low of just about $78,000.\n\nAt just past 7:00 pm ET, bitcoin had slumped to exactly $80,000, down 7% over the past 24 hours. The world's largest crypto did manage the most modest of bounces from there, trading at $80,700 at press time. Ether\nETH\n$3,513.84\n, solana\nSOL\n$161.87\nand\nXRP\n$2.2845\nwere lower by similar amounts, while\nADA\n$0.5465\nand\nDOGE\n$0.1667\nhad plunged closer to 12%.\n\n\"There could be a little disruption,\" said U.S. President Donald Trump in a Fox News appearance on Sunday when asked about the impact of his tariff and budget-cutting policies. \"If you look at China, they have a 100-year perspective … we go by quarters,\" he continued. \"What we’re doing is building a foundation for the future.\"\n\nTrump's comments were dubbed \"Volckering\" by some on social media — a reference to former Federal Reserve Chairman Paul Volcker. Shortly after being appointed to the position by Jimmy Carter in 1979, Volcker moved to break the back of a decade-long inflation by jacking up short term rates to unheard of levels, knowing that by doing so, the U.S. would surely have to experience a brutal recession.\n\nBy the time Volcker had finished tightening policy roughly 18 months later, the Fed funds rate had hit 20% and the economy indeed had gone through a difficult contraction. Inflation, however, was broken and the stage was set for growth throughout most of the following decade.\n\nIn early Sunday evening action, U.S. stock index futures were lower by about 0.85% across the board.",
+    "url": "https://www.coindesk.com/markets/2025/03/09/sunday-blues-for-bitcoin-as-it-tumbles-below-usd80k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Paul Volcker",
+                "Jimmy Carter"
+            ],
+            "positions": [
+                "U.S. President",
+                "former Federal Reserve Chairman"
+            ],
+            "companies": [
+                "Fox News"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "solana",
+            "SOL",
+            "XRP",
+            "ADA",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin and other cryptocurrencies experiencing significant price declines, with bitcoin down 7% and some altcoins plunging closer to 12%, indicating negative market sentiment."
+    }
+}

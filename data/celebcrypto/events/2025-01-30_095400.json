@@ -1,0 +1,36 @@
+{
+    "title": "Ether's Worst Showing Versus Bitcoin Highlights Cycle of Diminishing Returns: Van Straten",
+    "time": "2025-01-30T09:54:00",
+    "author": "James Van Straten",
+    "summary": "The two tokens' relative performance is more a sign of bitcoin strength than ether's weakness, one observer said.",
+    "content": "Ether (ETH), the second-largest cryptocurrency, has fallen out of favor relative to bitcoin (BTC), returning the worst bull-cycle performance against its larger rival since the Ethereum blockchain's inception in 2015.\n\nA comparison of the ether to bitcoin ratio across past cycles from the tokens' respective lows shows consistent underperformance. The black line in the chart above represents the current cycle that started in November 2022, when bitcoin bottomed at around $15,500 during the collapse of crypto exchange FTX. With each cycle, ether's return against bitcoin has diminished.\n\nOn Wednesday, the ratio dropped below 0.0300 to touch 0.02993, a four-year low. The previous low was recorded on Jan. 19, a day before President Trump's inauguration. This month, the ratio — the exchange rate between the two largest cryptocurrencies — is down 15%. It has declined 44% over the past year.\n\nBitcoin is currently trading around $105,000, having recovered from the slump to $98,000 caused by the release of DeepSeek, a Chinese artificial intelligence (AI) program. Ether, currently at $3,202, would need to reach roughly $3,360 to undo the DeepSeek damage.\n\n\"My general take is that the ether to bitcoin ratio underperformance is more due to a strength of bitcoin rather than a weakness of ether,\" said Andre Dragosch, head of research at Bitwise's European desk. \"Ether tends to suffer from 'middle child syndrome,' it is not as scalable as smart contract competitors like solana (SOL) while it is not really competing with bitcoin as the prime store-of-value.\"",
+    "url": "https://www.coindesk.com/markets/2025/01/30/ether-s-worst-showing-versus-bitcoin-highlights-cycle-of-diminishing-returns-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Van Straten",
+                "Andre Dragosch",
+                "Trump"
+            ],
+            "positions": [
+                "head of research"
+            ],
+            "companies": [
+                "Bitwise",
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ether's worst performance against bitcoin in history, with the ratio hitting four-year lows and declining 44% over the past year, indicating negative market sentiment toward ether relative to bitcoin."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "U.S. Treasury Market Most Volatile in 4 Months May Slow Any Bitcoin Price Recovery After CPI",
+    "time": "2025-03-12T14:45:00",
+    "author": "Omkar Godbole",
+    "summary": "Increased volatility in the Treasury market often leads to reduced risk taking in financial markets.",
+    "content": "The U.S. Treasury market is experiencing its highest volatility in four months, potentially jeopardizing an expected bitcoin (BTC) price recovery.\n\nU.S. inflation data for February came in softer-than-expected, strengthening the case for Federal Reserve interest-rate cuts. The reading encouraged some analysts to forecast a bitcoin price recovery to $90,000 and higher. It's currently around $82,000.\n\n\"With inflation cooling and recession fears still looming but not worsening, Bitcoin could be on the verge of its next major breakout, pushing past the stubborn sub-$90K range,\" Matt Mena, Crypto Research Strategist at 21Shares, said in an email.\n\nAny upswing, however, could unfold slower than expected as the Merrill Lynch Option Volatility Estimate Index (MOVE), which measures the expected 30-day volatility in the U.S. Treasuries market, has risen to 115, the highest since Nov. 6, according to data source TradingView. It has jumped 38% in three weeks.\n\nIncreased volatility in the U.S. Treasury notes, which dominate global collateral, securities and finance, negatively impacts leverage and liquidity in financial markets. That often leads to reduced risk-taking in financial markets.\n\nThe MOVE index collapsed following the Nov. 4 election, easing financial conditions that likely aided BTC's surge to as high as $108,000 from $70,000.\n\nThe cryptocurrency's rally peaked in December-January as the MOVE bottomed out.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/u-s-treasury-market-most-volatile-in-4-months-may-slow-any-bitcoin-price-recovery-after-cpi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Matt Mena"
+            ],
+            "positions": [
+                "Crypto Research Strategist"
+            ],
+            "companies": [
+                "21Shares",
+                "Merrill Lynch"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents conflicting signals with positive inflation data supporting bitcoin price recovery but Treasury market volatility potentially slowing any upswing."
+    }
+}

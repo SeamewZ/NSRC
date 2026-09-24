@@ -1,0 +1,45 @@
+{
+    "title": "IntoTheBlock and Trident Merge With $25M Backing to Build Institutional DeFi Gateway",
+    "time": "2025-05-06T10:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The newly formed Sentora aims to offer a compliant DeFi platform for sophisticated investors looking for yield, liquidity and risk management.",
+    "content": "Decentralized finance (DeFi) firms IntoTheBlock and Trident Digital have merged to form Sentora, joining forces to bring institutional investors onchain.\n\nThe new company, helmed by Anthony DeMartino, co-founder of Trident and former head of risk strategies at Coinbase (COIN), is also on track to close a $25 million founding round with New Form Capital leading the investment. Ripple, Tribe Capital, UDHC, Joint Effects also participated in the fundraising round, with further backing from strategic ecosystem investors including Curved Ventures, Flare and Bankai Ventures. While most investors have already closed the investment, two firms will close the process by June, the company told CoinDesk.\n\nThe merger comes at a time when DeFi is maturing from its \"wild west\" beginnings into a blockchain-based financial economy with offerings increasingly catered towards sophisticated investors.\n\nIt also underscores the ongoing trend of consolidation within the crypto industry. There were 88 mergers and acquisitions in the first four months of 2025, according to Architect Partners, putting this year on track to surpass the record years of 2022 and 2024.\n\nSentora combines IntoTheBlock’s track record in DeFi analytics—spanning over $3 billion in institutional deployments—with Trident’s experience structuring liquidity programs and financial products.\n\nThe platform aims to provide a one-stop shop for institutional investors, offering yield strategies, compliance, risk management and access to structured products all under one hood.\n\n\"The vision is to build all the core primitives that are needed for any institution whether it's a crypto institution, DAO foundation, traditional finance investor or individual family office, to interact with DeFi in a way that feels intelligent, that feels safe, that feels secure,\" Jesus Rodriguez, co-founder of IntoTheBlock and now CTO of Sentora, said in an interview with CoinDesk.\n\nA key roadblock that has hindered asset managers entering DeFi at scale is that the space is getting increasingly complex and fragmented across new chains and protocols, DeMartino explained.\n\n\"It shouldn't be this hard,\" he said. \"You shouldn't have to learn about a new chain and learn about a whole bunch of different protocols and understand bridging and different wallets every time you want to go to a new chain.\"\n\nWhat can help bridge this gap and attract even traditional finance firms on-chain, according to DeMartino, is to abstract away from interacting with individual protocols with a single platform that handles all the risk management and liquidity, while keeping transparency about the underlying plumbing.\n\n\"DeFi rails are the future of finance, but it's still a very small market,\" he said. DefiLlama data shows that there are less than $130 billion of assets on DeFi protocols, dwarfed by the the multiple trillions of assets under management at the likes of BlackRock and Fidelity Investments.\n\n\"We're building the rails for the next 130 trillion of assets to come onchain,\" he said.\n\nRead more: Beyond Incentives: How to Build Durable DeFi",
+    "url": "https://www.coindesk.com/business/2025/05/05/intotheblock-and-trident-merge-secure-usd25m-backing-to-build-institutional-defi-gateway",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Anthony DeMartino",
+                "Jesus Rodriguez"
+            ],
+            "positions": [
+                "co-founder of Trident",
+                "former head of risk strategies at Coinbase",
+                "co-founder of IntoTheBlock",
+                "CTO of Sentora"
+            ],
+            "companies": [
+                "IntoTheBlock",
+                "Trident Digital",
+                "Sentora",
+                "Coinbase",
+                "New Form Capital",
+                "Ripple",
+                "Tribe Capital",
+                "UDHC",
+                "Joint Effects",
+                "Curved Ventures",
+                "Flare",
+                "Bankai Ventures",
+                "BlackRock",
+                "Fidelity Investments"
+            ],
+            "organizations": [
+                "Architect Partners",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The merger and $25M funding to build institutional DeFi infrastructure indicates growing institutional adoption and confidence in the crypto market."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "title": "The Next Bridge.xyz? BlindPay's CEO Wants to Revolutionize Global Payments",
+    "time": "2025-01-23T15:16:00",
+    "author": "Sunny Chen",
+    "summary": "Bernardo Moura is looking to upend SWIFT’s dominance of the massive international payments industry, starting with Latin America.",
+    "content": "With payment firm Stripe's recent $1.1 billion acquisition of stablecoin platform Bridge.xyz sending shockwaves through the crypto payments sphere, attention is turning to the next generation of stablecoin payment infrastructure providers.\n\nAmong them is BlindPay, a 2024 Consensus hackathon winner and Y Combinator 2025 (W25) batch company that's taking a distinct approach to the challenge of global payments (if you’d like to apply for the EasyA Hackathon at Consensus Hong Kong 2025, please go here).\n\nWhile Bridge.xyz captured the U.S. and European markets with its enterprise-focused strategy, BlindPay is betting on emerging markets — particularly those in Latin America — as the key to widespread stablecoin adoption. This focus comes at a time when a16z crypto predicts increasing enterprise acceptance of stablecoins for payments, calling them \"the cheapest way to send a dollar.\"\n\n\"What differentiates us from Bridge is our focus on emerging markets,\" says Bernardo Simonassi Moura, BlindPay's 26-year-old CEO. \"We already operate in Argentina, Mexico, Colombia and Brazil, and we have our compliance and regulations in place to onboard customers in those regions.\"\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\nUnlike Bridge's enterprise-centric model that relies on monthly commitment fees, BlindPay takes what Moura calls a \"Shopify approach\" of trying to democratize access to global payment rails for small and medium-sized businesses via a transaction-fee model. This strategy aligns with a16z's prediction that small and medium-sized businesses will be among the first to embrace stablecoin payments in order to avoid the hefty transaction fees levied by traditional finance companies.\n\nSince its launch in July, the approach has proven highly effective, with BlindPay securing 19 customers across gaming, payments, and DAOs, including notable names such as LootRush in gaming and Hifibridge and WalaPay in payments. Monthly payment volumes have grown from $30,000 at launch to over $300,000 recently, and Moura expects that figure to grow to $2.5 million by the addition of new customers.\n\nBlindPay's competitive advantage lies in its deep integration with Latin American markets, particularly Brazil, where crypto adoption ranks top ten globally, according to Chainlysis. In addition, Moura is focusing heavily on developer experience, drawing on his seven years of experience as a software engineer and product designer. \"I always strive to bring the seamless and intuitive developer experience that platforms like Resend, Stripe, Ankey, SVX, and Clerk offer to the Web3 space,\" he says.\n\nBlindPay’s potential market is substantial. The cross-border payment industry, currently dominated by SWIFT, processes approximately $33 trillion annually. Stablecoins, which moved $8.5 trillion in 2024, offer a compelling alternative. \"If I want to send money from Brazil to Argentina using stablecoins, it takes 30 seconds, while SWIFT takes five business days,\" Moura points out.\n\nLooking ahead, BlindPay's ambitions extend beyond stablecoin integrations. \"We have a long-term strategy of leveraging our team's fintech experience to launch banking-as-a-service features powered by stablecoins,\" Moura says. To that end, the company plans to connect with card networks, enable stablecoin spending through card issuance and facilitate buying tokenized stocks from regulated regions.\n\nWith its four co-founders bringing experience from traditional fintech — including Silicon Valley's Lending Club and Brazilian fintech unicorns — BlindPay is well positioned to bridge the gap between traditional finance and crypto-native solutions. As the stablecoin payment landscape evolves, their focus on emerging markets, developer-friendly infrastructure and developing a comprehensive stablecoin-powered banking ecosystem could prove to be a winning strategy in the race to revolutionize global payments.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/23/the-next-bridge-xyz-blindpay-s-ceo-wants-to-revolutionize-global-payments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bernardo Moura",
+                "Bernardo Simonassi Moura"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "BlindPay",
+                "Stripe",
+                "Bridge.xyz",
+                "LootRush",
+                "Hifibridge",
+                "WalaPay",
+                "Lending Club",
+                "Shopify",
+                "Resend",
+                "Stripe",
+                "Ankey",
+                "SVX",
+                "Clerk"
+            ],
+            "organizations": [
+                "Y Combinator",
+                "a16z crypto",
+                "SWIFT",
+                "Chainlysis",
+                "Consensus Hong Kong",
+                "EasyA Hackathon"
+            ]
+        },
+        "cryptocurrencies": [
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights growing enterprise adoption of stablecoins, significant transaction volume growth, and positive market expansion in emerging markets, all indicating increased cryptocurrency usage and market confidence."
+    }
+}

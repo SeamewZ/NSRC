@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin’s Risk-Adjusted Returns Took a Hit in February",
+    "time": "2025-03-05T15:37:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The world's largest crypto is lower so far in 2025 after a number of violent price swings.",
+    "content": "Bitcoin's struggles in February saw its risk-adjusted returns weakening significantly according to data from research service Ecoinometrics.\n\nWhile over the past year, bitcoin’s total returns have matched those of gold, a traditional safe-haven asset, when adjusting for risk, bitcoin is behaving more like a major stock index.\n\nRisk-adjusted returns measure an asset's profitability relative to its price swings. A higher ratio suggests strong returns with lower volatility.\n\nAfter a number of violent price swings of late alongside trade war threats, growing geopolitical tensions and President Trump's sowing confusion over government plans with respect to crypto, bitcoin is modestly lower so far in 2025. Gold, meanwhile, is up more than 11% year-to-date.\n\n\"Bitcoin and gold are completely uncorrelated at the moment, on a 20-day moving average on a five year time frame it is negative,\" said CoinDesk analyst James Van Straten. \"You can typically see when the correlation goes negative this is usually when bitcoin is at a bottom which can be seen in early 2023, summer of 2023, summer of 2024 and now. BTC tends to catch up with gold.\"\n\nThe shift could impact Bitcoin’s appeal to institutional investors, who often prioritize assets with favorable risk-reward profiles. While Bitcoin's long-term narrative as \"digital gold\" remains intact, its short-term performance suggests it may be behaving more like equities than a safe-haven asset.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/bitcoin-s-risk-adjusted-returns-took-a-hit-in-february",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "President Trump"
+            ],
+            "positions": [
+                "CoinDesk analyst"
+            ],
+            "companies": [
+                "Ecoinometrics"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin's risk-adjusted returns weakening significantly, price being lower in 2025 with violent price swings, and behaving more like equities than a safe-haven asset."
+    }
+}

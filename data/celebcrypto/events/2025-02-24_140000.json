@@ -1,0 +1,81 @@
+{
+    "title": "Wall Street-Backed Crypto Exchange EDX Markets Adds 17 New Cryptocurrencies, Including XRP, SOL, Trump Coin",
+    "time": "2025-02-24T14:00:00",
+    "author": "Helene Braun",
+    "summary": "The expansion significantly broadens trading options for users, reflecting a friendlier regulatory environment in the U.S.",
+    "content": "EDX Markets, which is backed by Fidelity Digital Assets, Charles Schwab and Citadel Securities, is adding 17 new cryptocurrencies to its platform, transforming its previously limited selection into a more robust trading platform as it gets ready to absorb growing institutional demand for crypto.\n\n“From the outset, we were designed and built for institutions for exactly what’s happening right now,” EDX Markets CEO Tony Acuña-Rohter, told CoinDesk.\n\nAcuña-Rohter was appointed CEO of the exchange in December after founder and then-CEO Jamil Nazarali moved to the position of executive chair of the EDX Board. “We were quite fortunate because FTX happened, crypto winter followed, which gave us two years to build out our technology,\" said Acuña-Rohter. “Now we have this company that’s ready to absorb all the new entrants from traditional finance.”\n\nThe newly listed tokens include AAVE\nAAVE\n$197.05\n, BCH (Bitcoin Cash), COMP (Compound), LINK (Chainlink), PEPE (Pepecoin), SOL (Solana), UNI (Uniswap), USDC (USD Coin), WIF (Dogwifhat), XRP (Ripple), AVAX (Avalanche), ADA (Cardano), BONK (Bonk Coin), Stellar Lumens (XLM), TRUMP (Trump Coin), XTZ (Tezos), ETC (Ethereum Classic).\n\n“We tend to be very conservative from a regulatory perspective and because we are focused on institutions, we also make sure that we have very clear processes, policies and procedures,” saidAcuña-Rohter. The risk of adding the new tokens decreased significantly with the new administration, which is very focused on providing clarity rather than enforcing actions against crypto companies, he added.\n\nThe exchange, which is available to institutions only, launched in the U.S. in June 2023 and made headlines with investments from major Wall Street firms Fidelity, Schwab, Paradigm, Sequoia Capital and Citadel, the latter being a former employer of Nazarali.\n\nOne key difference between EDX Markets and other crypto exchanges is that it doesn’t hold customers' digital assets. Instead, users trade through financial intermediaries, much like how transactions occur on traditional stock exchanges like the New York Stock Exchange or Nasdaq. This structure appeals to regulators, EDX CEO Jamil Nazarali explained in a previous interview, as it ensures a clear separation between the exchange and broker-dealer functions.\n\nHowever, EDX Markets kept its asset offerings low for the past two years, sticking to bitcoin\nBTC\n$103,737.28\n, ethereum\nETH\n$3,496.07\n, and\nLTC\n$87.18\nand only recently adding Shiba Inn (SHIB) and\nDOGE\n$0.1659\nin November of last year.\n\nBy integrating a basket of new assets, the exchange hopes to grow its client base and be a one-stop-shop for clients, globally.\n\nThe company also plans to introduce a perpetual futures exchange in the second quarter of this year, which will be based out of Singapore but available to jurisdictions all around the world that allow the trading of perpetual futures. This doesn’t include the U.S.\n\nIn the U.S., where the company is based, EDX continues to be focused on expanding its product offerings and onboarding clients from the traditional financial world, said Acuña-Rohter, noting the company is already working with various clients to solidify their plans and map out their integrations in the space.\n\n“This is the moment we’ve been waiting for,” he said.\n\nCORRECTION (February 28, 2025, 14:59 UTC): Adds that EDX also previously listed SHIB and DOGE on its platform in November.",
+    "url": "https://www.coindesk.com/markets/2025/02/21/embargoed-wall-street-backed-crypto-exchange-edx-markets-adds-17-new-cryptocurrencies-including-xrp-sol-trump-coin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tony Acuña-Rohter",
+                "Jamil Nazarali"
+            ],
+            "positions": [
+                "CEO",
+                "Executive Chair of the EDX Board",
+                "founder"
+            ],
+            "companies": [
+                "EDX Markets",
+                "Fidelity Digital Assets",
+                "Charles Schwab",
+                "Citadel Securities",
+                "CoinDesk",
+                "FTX",
+                "Paradigm",
+                "Sequoia Capital",
+                "New York Stock Exchange",
+                "Nasdaq"
+            ],
+            "organizations": [
+                "EDX Board"
+            ]
+        },
+        "cryptocurrencies": [
+            "AAVE",
+            "BCH",
+            "Bitcoin Cash",
+            "COMP",
+            "Compound",
+            "LINK",
+            "Chainlink",
+            "PEPE",
+            "Pepecoin",
+            "SOL",
+            "Solana",
+            "UNI",
+            "Uniswap",
+            "USDC",
+            "USD Coin",
+            "WIF",
+            "Dogwifhat",
+            "XRP",
+            "Ripple",
+            "AVAX",
+            "Avalanche",
+            "ADA",
+            "Cardano",
+            "BONK",
+            "Bonk Coin",
+            "XLM",
+            "Stellar Lumens",
+            "TRUMP",
+            "Trump Coin",
+            "XTZ",
+            "Tezos",
+            "ETC",
+            "Ethereum Classic",
+            "BTC",
+            "bitcoin",
+            "ETH",
+            "ethereum",
+            "LTC",
+            "SHIB",
+            "Shiba Inn",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of trading options and institutional backing reflects growing market confidence and a friendlier regulatory environment."
+    }
+}

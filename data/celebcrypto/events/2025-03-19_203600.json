@@ -1,0 +1,52 @@
+{
+    "title": "Bitcoin Reclaims $85K Following Fed and Stocks Rose, but One Analyst Suggests Caution",
+    "time": "2025-03-19T20:36:00",
+    "author": "Tom Carreras",
+    "summary": "Gold continues to be the star of the cycle, jumping to a new record above $3,050 per ounce.",
+    "content": "Crypto markets are experiencing a modest move to the upside following today’s Federal Open Market Committee (FOMC) meeting, in which the U.S. central bank left interest rates steady at 4.25%-4.50%\n\nBitcoin\nBTC\n$104,558.40\nhas risen 4.5% in the last 24 hours and is now trading for $85,500, its highest point since March 9.\n\nThe CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization except for stablecoins, memecoins and exchange coins — is up 6%. Ether\nETH\n$3,524.11\nand solana\nSOL\n$161.81\nhave both surged by 7%, while Ripple’s XRP token has risen 10% off the back of CEO Brad Garlinghouse’s announcement that the Securities and Exchange Commission (SEC) is planning to drop its case against the company.\n\nCrypto stocks are also doing relatively well, especially bitcoin mining companies like Bitdeer (BTDR) and Core Scientific (CORZ), which are up 10% and 8% on the day, respectively. Bitdeer is likely buoyed from the technological progress it recently made in its ASIC manufacturing process, as well as from the news that stablecoin giant Tether was increasing its stake in the company to 21%.\n\nCore Scientific, meanwhile, is potentially reaping the benefits of AI firm CoreWeave (Core Scientific’s main customer) filing for an initial public offering earlier in the month. Even so, both companies are down more than 61% and 53% since January and November respectively.\n\nFederal Reserve Chair Jerome Powell said that tariff-related inflation was likely to be transitory and that recession risks remained low. And despite the market reacting positively to the meeting — Nasdaq, S&P 500 and Dow Jones all gained 1% or more — market commentators weren’t necessarily convinced.\n\n“The word — ‘transitory’ — is back at the Federal Reserve as Chair Powell characterizes the price effects of tariffs as a one-off,” economist Mohamed A. El-Erian posted on X. “I would have thought that, particularly after the big policy mistake of earlier this decade and given all the current uncertainties, some Fed officials would show greater humility. It’s simply too early to say with any regress of confidence that the inflationary effects will be transitory.”\n\nGold continued to rise after surpassing the $3,000 mark on Tuesday and today hit a new record above $3,050. Callie Cox, chief market strategist at Ritholtz Wealth Management, said that the U.S. central bank was signaling that any additional rate cuts would likely happen at the cost of battering stocks. “The Fed is no longer comfortable gliding to neutral as we get closer to their inflation target. I think you can argue that the soft landing is over,” she posted.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/bitcoin-reclaims-usd85k-following-fed-and-stocks-rose-but-one-analyst-suggests-caution",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Mohamed A. El-Erian",
+                "Brad Garlinghouse",
+                "Callie Cox"
+            ],
+            "positions": [
+                "Federal Reserve Chair",
+                "economist",
+                "CEO",
+                "chief market strategist"
+            ],
+            "companies": [
+                "Bitdeer",
+                "Core Scientific",
+                "CoreWeave",
+                "Tether",
+                "Ritholtz Wealth Management",
+                "Securities and Exchange Commission"
+            ],
+            "organizations": [
+                "Federal Open Market Committee",
+                "U.S. central bank",
+                "Federal Reserve",
+                "CoinDesk 20",
+                "Nasdaq",
+                "S&P 500",
+                "Dow Jones"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "solana",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes cryptocurrency prices rising significantly across multiple assets following the Fed meeting, with Bitcoin up 4.5% to $85,500 and other major cryptocurrencies showing even larger gains."
+    }
+}

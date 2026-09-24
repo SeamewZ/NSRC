@@ -1,0 +1,40 @@
+{
+    "title": "SEC Charges Unicoin, Top Executives With $100M ‘Massive Securities Fraud’",
+    "summary": "Unicoin’s CEO announced last month that he’d rejected the SEC’s offer to negotiate a settlement.",
+    "time": "2025-05-21T01:29:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Securities and Exchange Commission sued crypto company Unicoin and three executives on Tuesday night on fraud charges, saying the company raised over $100 million for tokens that were not actually backed by the real estate its executives claimed.\n\nThe SEC sued Unicoin, CEO Alexander Konanykhin, former board chair Maria Moschini, senior vice president and general counsel Richard Devlin and former chief investment officer and investor relations officer Alejandro Dominguez on securities law violations,\n\nAmong its allegations, the SEC said Unicoin never actually owned the real estate properties it told investors it had acquired, and that those properties' values were inflated.\n\n\"For example, between September 2023 and January 2024, the Promoting Defendants announced acquisitions of properties in Argentina, Thailand, Antigua, and the Bahamas, purportedly with appraised values totaling more than of $1.4 billion; in fact, the majority of those transactions never closed and the actual combined value of the four properties was no more than $300 million,\" the complaint said.\n\nThe defendants also \"overstated the Company's sales\" of its rights certificates, suggesting in social media posts and to investors that it had raised far more funds than it actually had, the SEC alleged. While Unicoin claimed it had made $3 billion in sales by June 2024, it actually never sold more than $110 million in its rights certificates, according to the complaint.\n\nMoreover, Unicoin advertised its rights certificates, including by promising outsized returns of up to 9 million percent, the SEC alleged, pointing to marketing efforts on taxi cabs, ferries, \"office building elevator screens,\" digital billboards, coasters, television programs, news websites and public wi-fi kiosks.\n\n\"Additional examples of the Promoting Defendants’ statements include: (a) social media and website posts that touted potential returns of 9,000,000% based on bitcoin’s 9,000,000% growth in the past 10 years and told investors to 'take advantage of the early days of Unicoin and get them today,' highlighting that 'Bitcoin experienced a tremendous rise in value, transforming early adopters into millionaires, and even billionaires,'\" the filing said.\n\n\"The SEC's allegations are blatantly false,\" Unicoin's CEO said in a statement on Wednesday. \"I intend to prove in court that they constitute yet another case of gross abuse of power.\"\n\nKonanykhin has taken a stance that the SEC has long stacked the deck against crypto and is still doing it, despite a long list of other digital assets enforcement cases being abandoned. And in his company's formal response filed with the SEC, it argued that Unicoin had been treated unfairly and its sophisticated investors not given a chance to make their own decisions.\n\n\"Unicoin seeks one thing and one thing only: to avoid the death penalty,\" the company argued in the filing. \"Its investors deserve an opportunity to achieve value from their purchase of rights to the future unicoins.\"\n\nRead more: Unicoin CEO: Why Are We Still Under the SEC’s Gun?\n\nUnicoin received a Wells notice from the SEC last December, informing the company that the regulator — then under the leadership of former Chair Gary Gensler — intended to file securities fraud charges. Last month, Konanykhin sent a letter to Unicoin’s shareholders, informing them that the company had rebuffed the SEC’s attempt to settle the charges, rejecting what he described as an “ultimatum” to attend a settlement negotiation meeting by April 18.\n\n“We declined to show up,” Konanykhin told CoinDesk in an April interview, adding that the SEC had made certain pre-meeting demands he deemed “unacceptable” and claiming that the SEC’s probe had caused “multi-billion-dollar damages” to the company.\n\nRead more: Unicoin CEO Reject’s SEC’s Attempt to Settle Enforcement Probe\n\nIn a press release shared earlier this year in response to a Wall Street Journal article, a spokesperson said, \"Unicoin, the only fully U.S.-registered, U.S.-regulated, U.S.-audited, and U.S.-publicly reporting cryptocurrency company, has consistently complied with all regulations.\"\n\nAccording to court documents, the SEC is seeking disgorgement and civil penalties.\n\nUPDATE (May 21, 2025, 21:31 UTC): Adds comment from Unicoin CEO and its SEC filing.",
+    "url": "https://www.coindesk.com/policy/2025/05/20/sec-charges-unicoin-top-executives-with-100m-massive-securities-fraud",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alexander Konanykhin",
+                "Maria Moschini",
+                "Richard Devlin",
+                "Alejandro Dominguez",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "CEO",
+                "former board chair",
+                "senior vice president and general counsel",
+                "former chief investment officer and investor relations officer",
+                "former Chair"
+            ],
+            "companies": [
+                "Unicoin"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "CoinDesk",
+                "Wall Street Journal"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The SEC charging a crypto company with $100M securities fraud and alleging false property backing and inflated sales figures represents negative regulatory enforcement that undermines market confidence."
+    }
+}

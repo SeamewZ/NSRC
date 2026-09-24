@@ -1,0 +1,39 @@
+{
+    "title": "Rex Shares and Osprey Funds File for MOVE ETF",
+    "time": "2025-03-10T13:11:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The proposed REX-Osprey MOVE ETF would invest at least 80% of its assets in MOVE or related instruments.",
+    "content": "Investment managers Rex Shares and Osprey Funds have filed to list an exchange-traded fund (ETF) tracking the price performance of Movement Networks' MOVE.\n\nThe Ethereum layer-2 network's mainnet, which is built using MoveVM, is expected to launch on Monday.\n\nThe proposed REX-Osprey MOVE ETF would invest at least 80% of its assets in MOVE or related instruments, using a mix of direct holdings and derivatives, according to a recent filing with the U.S. Securities and Exchange Commission (SEC).\n\nRex Shares, an ETF issuer, has in the past filed to launch funds with crypto asset manager Osprey Funds, including offerings with exposure to memecoins like TRUMP, BONK, and DOGE.\n\nThe filings came after Donald Trump’s second administration started earlier this year, with the new President appointing SEC commissioner Mark Uyeda as acting SEC Chair. The regulator has since dropped a number of lawsuits and investigations into cryptocurrency firms, and has been showing a rather pro-crypto stance.\n\nIt’s unclear whether the REX-Osprey MOVE ETF, or any other ETF filed by the investment managers offering cryptocurrency exposure, will be approved by the regulator.\n\nMOVE is up 5% in the last 24-hours, nearing 50 cents.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/rex-shares-and-osprey-funds-file-for-move-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Mark Uyeda"
+            ],
+            "positions": [
+                "President",
+                "SEC commissioner",
+                "acting SEC Chair"
+            ],
+            "companies": [
+                "Rex Shares",
+                "Osprey Funds",
+                "Movement Networks"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "MOVE",
+            "Ethereum",
+            "TRUMP",
+            "BONK",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ETF filings for cryptocurrency exposure, mentions a pro-crypto regulatory stance, and notes MOVE's 5% price increase."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin May be on 25% of S&P 500 Firms' Balance Sheets by 2030: Architect Partners",
+    "time": "2025-03-30T18:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Strategy pioneered BTC as a treasury asset and so far 90 companies have adopted the cryptocurrency as a treasury reserve asset.",
+    "content": "Bitcoin is making its way from trading desks to corporate treasuries, and by the end of the decade, it could be standard practice, according to one analyst.\n\n“Across all the different strategies and implementations, I anticipate that by 2030, a quarter of the S&P 500 will have BTC somewhere on their balance sheets as a long-term asset,” Elliot Chun, a partner at Architect Partners, wrote in a market snapshot.\n\nThe strategy—holding bitcoin as a treasury reserve asset—was unorthodox when Strategy, formerly known as MicroStrategy, first adopted it in August 2020. The firm framed BTC as a hedge against inflation, a diversification tool, and a way to distinguish itself in the market.\n\nThen CEO Michael Saylor’s highly public embrace of bitcoin transformed the company into a de facto proxy for BTC exposure. Since then, MicroStrategy stock has surged more than 2,000%, far outpacing both the S&P 500 and bitcoin over the same period, Chun pointed out.\n\nGameStop is the latest company to follow suit, announcing this week that it would raise $1.3 billion through a convertible note to acquire bitcoin. Its stock initially surged following the announcement but has since endured a correction, falling nearly 15% for the week.\n\nChun argued that treasurers may soon face career risk not for buying bitcoin, but for ignoring it altogether. “Doing nothing is no longer a defensible strategy,” he wrote.\n\nAccording to BitcoinTreasuries data, publicly listed companies currently hold 665,618 BTC, around 3.17% of the cryptocurrency’s total supply. Strategy holds the lion’s share, 506,137 BTC.\n\nRead more: U.S. Listed Firms Continue Bitcoin\nBTC\n$103,904.89\nTreasury Adoption",
+    "url": "https://www.coindesk.com/markets/2025/03/30/bitcoin-may-be-on-25-of-s-and-p-500-firms-balance-sheets-by-2030-architect-partners",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elliot Chun",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "partner",
+                "CEO"
+            ],
+            "companies": [
+                "Architect Partners",
+                "Strategy",
+                "MicroStrategy",
+                "GameStop"
+            ],
+            "organizations": [
+                "S&P 500",
+                "BitcoinTreasuries"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news discusses growing corporate adoption of Bitcoin as a treasury asset with predictions that 25% of S&P 500 companies will hold BTC by 2030, indicating institutional confidence and potential price support."
+    }
+}

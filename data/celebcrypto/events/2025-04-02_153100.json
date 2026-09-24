@@ -1,0 +1,27 @@
+{
+    "title": "Depositary Receipts: A Critical Direct Bridge Between Crypto and TradFi",
+    "time": "2025-04-02T15:31:00",
+    "author": "Ankit Mehta",
+    "summary": "Crypto-focused ADRs could drive institutional adoption, serving as the key to unlocking the next stage of growth for digital assets, says RDC’s Ankit Mehta.",
+    "content": "Digital assets have grown into a multi-trillion-dollar market, yet they remain largely disconnected from traditional finance. Institutional investors increasingly want to own and monetize digital assets, but most banks, broker-dealers and asset managers operate on infrastructure designed for stocks and bonds — not blockchain-based assets. While spot crypto ETFs are an important step toward integration, they only enable passive exposure to the asset class. For digital assets to fully mature, they need a mechanism that bridges them with the entirety of the existing capital markets infrastructure in a familiar, regulated way.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nEnter American Depositary Receipts (ADRs). For nearly a century, receipts have served as that bridge for international stocks, debt and commodities, enabling U.S. investors to own foreign assets with the same ease as domestic securities. The first ADR—issued in 1927—set the stage for a system that today facilitates trillions in global investment. ADRs work because they provide fungibility, economic and governance rights and U.S. regulatory oversight, all while ensuring efficient settlement through the Depository Trust & Clearing Corporation (DTCC). They enhance local liquidity and market access, as seen in Chinese companies listing on the London Stock Exchange and U.S. stocks trading in Brazil.\n\nCrypto-focused ADRs will play a similar role for digital assets. Just like foreign markets, crypto operates outside the traditional U.S. capital markets, making it difficult for most institutions to engage without specialized infrastructure. ADRs provide a regulated, accessible and familiar framework that enables:\n\nInstitutional demand for digital assets is surging, but most traditional market participants are still tied to DTCC rails and are not set up to directly interact with crypto. ADRs meet these firms where they are today, while also addressing key regulatory, compliance and operational hurdles:\n\nBy linking the $3 trillion crypto market with the $87 trillion securities market in DTCC, ADRs can drive institutional adoption and unlock new opportunities in the traditional markets, including the following:\n\nADRs revolutionized global investing by making foreign stocks seamlessly available to U.S. investors. Now, there is a unique opportunity to continue this legacy of enabling market access. By providing a regulated, efficient and familiar bridge for institutions to engage with digital assets, ADRs could be the key to unlocking crypto’s next stage of growth and ultimately bring new institutional capital on-chain.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/02/depositary-receipts-a-critical-direct-bridge-between-crypto-and-tradfi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ankit Mehta"
+            ],
+            "positions": [],
+            "companies": [
+                "RDC"
+            ],
+            "organizations": [
+                "Depository Trust & Clearing Corporation",
+                "DTCC",
+                "London Stock Exchange"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents ADRs as a mechanism to drive institutional adoption and unlock the next stage of growth for digital assets by bridging crypto with traditional finance."
+    }
+}

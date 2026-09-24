@@ -1,0 +1,28 @@
+{
+    "title": "Gold Leads the Way, Bitcoin Follows; History Suggests a Familiar Pattern",
+    "time": "2025-03-18T10:13:00",
+    "author": "James Van Straten",
+    "summary": "Charlie Morris, founder of ByteTree, likens this gold rally to a \"proper gold rush\".",
+    "content": "Gold has surged to a new all-time high, surpassing $3,025 per ounce to mark an increase of over 15% in since the turn of the year. Meanwhile, bitcoin is lagging\nBTC\n$104,618.07\n, down 10% year-to-date.\n\nSeveral factors have contributed to gold’s rally, including significant inflows into gold ETFs and its traditional role as a safe-haven asset during geopolitical uncertainty.\n\nAdditionally, discussions of new tariffs in the U.S. under President Trump have further fueled demand for U.S. equities. Gold’s historic rally has driven its price up 40% year-over-year, far outpacing Bitcoin's 16% gain.\n\nHistorically, when gold enters a bull market, bitcoin often stagnates or declines. The two assets rarely move in tandem, though there are occasional periods when both rise or fall simultaneously.\nDuring the significant rallies in both gold and bitcoin from early 2019 through 2020, gold led the charge initially. Bitcoin followed suit in Q4 2020, surging into its own bull run while gold took a backseat.\nBy 2022, as global interest rates began to rise, both assets faced pressure before rebounding in 2023 and 2024. Now, in 2025, the market is witnessing a renewed divergence between the two.\n\nByteTree founder Charlie Morris has described this gold rally as a \"proper gold rush\"—something the market hasn’t seen since 2011.\n\n\"Gold above $3,000, silver above $24, and gold stocks gaining momentum—it struck me that the crypto crowd has never witnessed a true gold rush. The last time this happened was in 2011, when Bitcoin was just emerging at $20. They will now.\"",
+    "url": "https://www.coindesk.com/markets/2025/03/18/gold-leads-the-way-bitcoin-follows-history-suggests-a-familiar-pattern",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charlie Morris"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "ByteTree"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states bitcoin is lagging, down 10% year-to-date, and historically stagnates or declines when gold enters a bull market."
+    }
+}

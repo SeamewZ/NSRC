@@ -1,0 +1,41 @@
+{
+    "title": "The Protocol: Self-spreading Malware Found in Privacy Crypto Dero",
+    "summary": "Also: Solana On MetaMask, FIFA Taps Avalanche, Square Pilots Real-Time Bitcoin Payments",
+    "time": "2025-05-28T17:17:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, the Ethereum protocol reporter on CoinDesk’s Tech team.\n\nIn this issue:\n\nSOLANA NOW ON METAMASK: MetaMask announced on Tuesday that its Solana integration was live, meaning that users can now transact on the second-largest smart-contract platform and interact with Solana-based applications through the wallet. The integration is currently only on desktop, but is slated to launch on the MetaMask mobile app in the coming weeks, the company said. MetaMask is the Ethereum network's most popular browser wallet, with over 100 million annual users. — Tom Carreras Read more.\n\nSELF-SPREADING MALWARE FOUND IN PRIVACY CRYPTO DERO: A newly discovered Linux malware campaign is compromising unsecured Docker infrastructure worldwide, turning exposed servers into part of a decentralized cryptojacking network that mines the privacy coin Dero. According to a report by cybersecurity firm Kaspersky, the attack begins by exploiting publicly exposed Docker APIs. In software terms, a docker is a set of applications or platform tools that delivers software in small packages called containers. Once access is gained, the malware spawns malicious containers. It infects already-running ones, siphoning system resources to mine Dero and scan for additional targets without requiring a central command server. As of early May, over 520 Docker APIs were publicly exposed over port 2375 worldwide — each one a potential target. — Shaurya Malwa Read more.\n\nFIFA TAPS AVALANCHE FOR OWN BLOCKCHAIN: FIFA, football’s global governing body, plans to use Avalanche’s network to power its own dedicated layer-1 blockchain. The FIFA Blockchain is an Avalanche L1, a customizable blockchain that uses Avalanche’s technology (previously known as a subnet). The news comes as the Avalanche network recently went through its major Avalanche9000 upgrade, aimed at attracting new developers and encouraging them to create customized L1s. Thursday’s announcement is not FIFA’s first foray into the world of blockchain and crypto. In 2022, the football body released a non-fungible token (NFT) collection on the Algorand blockchain ahead of the Qatar World Cup. — Margaux Nijkerk Read more.\n\nSQUARE PILOTS BITCOIN PAYMENTS: Jack Dorsey’s Square took bitcoin payments a step further at the Bitcoin 2025 conference in Las Vegas this week. For three days, the company is piloting a program where attendees can make purchases with their bitcoin by scanning a barcode. Payments are then settled in near real-time via the Lighting Network while Square handles real-time exchange rate calculations and confirmation notifications, according to a press release. Square hopes to make the feature available to a broader audience later this year and to all customers by 2026, pending regulatory approval. — Helene Braun Read more.",
+    "url": "https://www.coindesk.com/tech/2025/05/28/the-protocol-self-spreading-malware-found-in-privacy-crypto-dero",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Tom Carreras",
+                "Shaurya Malwa",
+                "Jack Dorsey",
+                "Helene Braun"
+            ],
+            "positions": [
+                "Ethereum protocol reporter"
+            ],
+            "companies": [
+                "CoinDesk",
+                "MetaMask",
+                "Kaspersky",
+                "Square"
+            ],
+            "organizations": [
+                "FIFA"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Dero",
+            "Ethereum",
+            "Avalanche",
+            "Bitcoin",
+            "Algorand"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed developments including positive integrations (Solana on MetaMask, FIFA partnership) and negative security issues (malware in Dero), resulting in an overall neutral market impact."
+    }
+}

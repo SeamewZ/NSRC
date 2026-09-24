@@ -1,0 +1,50 @@
+{
+    "title": "Crypto for Advisors: DeFi and On-chain Finance",
+    "time": "2025-02-27T16:05:00",
+    "author": "Marcin Kazmierczak",
+    "summary": "Will 2025 drive growth in the adoption of yield-bearing assets like staking, liquid staking, restaking and liquid restaking in DeFi?",
+    "content": "Recent security breaches have rocked the crypto space, highlighting the fact that security will continue to need to be a key focus for providers.\n\nIn today’s issue, Marcin Kaźmierczak from Redstone Oracles breaks down why 2025 will be a critical year for DeFi and on-chain finance.\n\nThen, Kevin Tam looks at the institutional adoption of bitcoin as seen from the recent 13-F filings and highlights key positions in Ask and Expert.\n\n-Sarah Morton\n\nYou’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.\n\nThe recent hack of ByBit for nearly 401.000 ETH, valued at about $1.5 billion at that time, exposed that security will play a tremendous role in further crypto adoption. Can institutions expand on-chain after such an incident? Undoubtedly. It’s a matter of gradual adoption alongside ensuring top-notch security procedures.\n\nGrowing Adoption of Yield-Bearing Assets: Staking, Liquid Staking, Restaking and Liquid Restaking\n\nIn traditional finance, yield-generating assets are typically seen as stronger long-term investments than non-productive ones since they provide investors with ongoing cash flow and income. This perspective helps explain why some investors prefer ether over bitcoin. Ether is seen as more “productive” because it powers a network supporting a wide range of decentralized applications, benefiting from network effects. Beyond that, ether can be staked to earn consistent yield, aligning well with traditional valuation methods that prioritize ongoing dividends. The rising interest in staking, especially in the context of yield-generating assets, is evident in the growth of liquid staking, which enables frictionless and capital-efficient staking. This trend accelerated further in 2024 with the emergence of liquid restaking — for instance, ether.fi, a leading liquid restaking platform, saw explosive growth last year, with over $8 billion worth of ether staked through its rails.\n\nSource: DeFi Llama, Total Value Locked in Ether.Fi\n\nThe total amount of staked ether is expected to grow and play a significant role in DeFi. Around one-third of all ETH — or $90 billion — is staked, with further inflows anticipated from traditional financial institutions exploring staking. As staking becomes more accessible through FinTech applications, some investors may transition from custodial to non-custodial solutions as they gain a deeper understanding of blockchain technology.\n\nStablecoin Growth\n\nGlobal demand for U.S. dollar exposure is immense, and stablecoins are the most efficient way to meet it. Stablecoins like USDC expand access to dollar-denominated wealth preservation and streamline value exchange. In 2024, venture capital investments have flowed into stablecoin projects, and we anticipate further development in this space. Regulatory frameworks like the EU’s MiCA have provided more explicit guidelines, further legitimizing stablecoins and likely driving higher adoption next year. Additionally, stablecoins are being integrated into traditional financial systems. For example, Visa has begun using USDC on networks like Solana to facilitate faster and more efficient payments. Additionally, PayPal entered the market with PUSD, and Stripe made one of crypto’s most significant acquisitions by purchasing Bridge to expand its stablecoin operations. In 2024, the total stablecoin market capitalization reached an all-time high, exceeding $200 billion dollars, and continuing to set new records in 2025.\n\nSource: DeFi Llama, Total Stablecoins Market Cap\n\nEnhanced Interoperability and User-Friendly Non-Custodial Solutions\n\nA key challenge in DeFi is moving funds across networks to access different investments. By 2025, significant progress is anticipated toward eliminating the necessity of bridging funds by introducing a \"one-click solution.\" This development should simplify the process for new DeFi users, likely attracting more participants to the space. Additionally, wallet providers are expected to improve the security of on-chain finance and streamline the onboarding process by eliminating cumbersome crypto-native setups. This shift, driven by innovations like the Account Abstraction movement, aims to make crypto more accessible and user-friendly for accessing on-chain finance. Currently, the irreversible nature of transactions and the prevalence of sophisticated scams deter many new users. However, improved security features should encourage more individuals to engage with decentralized finance.\n\nBitcoin Reaching $100K\n\nWhile simply holding bitcoin on its native network isn’t inherently linked to on-chain finance, we’re witnessing a growing integration of bitcoin with decentralized financial ecosystems. For example, roughly 0.5% of bitcoin’s total supply through staking protocol Babylon is now locked to secure Proof-of-Stake (POS) chains. The increased acceptance of bitcoin by large banks and some governments is anticipated to create trickle-down effects, changing the public’s perception of digital currencies away from being seen purely as a speculative asset or illicit activities toward being a legitimate financial instrument, bringing new users on-chain.\n\n-Marcin Kaźmierczak, COO, Redstone Oracles\n\nQ: Can banks hold crypto with SEC’s SAB 122?\n\nA: SEC’s Staff Accounting Bulletin 122 may encourage banks to integrate digital assets into the regulated financial system. By opening competition, banks can compete with centralized exchanges. Banks can offer services like bitcoin-backed lending, staking and custodial services, which treat digital assets more like traditional assets.\n\nThis is a positive move into a more flexible regulatory approach and balancing investor protections with the operational realities of financial institutions.\n\nFrom institutional investment to mainstream recognition, this is another major shift in how the world views and interacts with digital assets.\n\nQ: Which Institutions (e.g. sovereign wealth funds, pensions, companies, etc.) are buying bitcoin?\n\nA: The accumulation by sovereign wealth funds, and pension funds is just getting started.\n\nMubadala Investment Company PJSC (the wealth fund owned by the government of Abu Dhabi) holds $436 million in one bitcoin ETF with overall assets under management of $302 billion. Abu Dhabi’s sovereign wealth fund (AIDA) manages a combined $1.7 trillion, indicating that their bitcoin investment is a relatively small portion of the overall portfolio.\n\nAdditionally, this past fall, Mubadala offered to acquire Canadian asset management firm CI Financial Corp. for $4.6 billion.\n\nIn the U.S., the State of Wisconsin Investment Board’s latest report shows its bitcoin ETF holdings have more than doubled from last quarter to over $321 million.\n\nQ: Banking on bitcoin – Which Canadian bank is leading the charge?\n\nA: Recent Q4 2024 SEC filings reveal that Canadian Schedule 1 banks, institutional money managers, pension funds and sovereign wealth funds have disclosed significant bitcoin holdings (see charts).\n\nNotably, Bank of Montreal now tops Canadian banks with $139 million in spot bitcoin ETF investments. And BMO’s bitcoin holdings went from zero to over $100 million in a single year.\n\nCurrently, in North America, there are approximately 1,623 large entities holding over $25.8 billion in bitcoin ETPs.\n\n-Kevin Tam, digital asset research specialist",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/26/crypto-for-advisors-defi-and-on-chain-finance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Marcin Kaźmierczak",
+                "Kevin Tam",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "COO",
+                "digital asset research specialist"
+            ],
+            "companies": [
+                "Redstone Oracles",
+                "ByBit",
+                "CoinDesk",
+                "Visa",
+                "PayPal",
+                "Stripe",
+                "Bridge",
+                "Mubadala Investment Company PJSC",
+                "CI Financial Corp.",
+                "Bank of Montreal",
+                "BMO"
+            ],
+            "organizations": [
+                "SEC",
+                "EU",
+                "State of Wisconsin Investment Board",
+                "Abu Dhabi’s sovereign wealth fund",
+                "AIDA"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "ETH",
+            "USDC",
+            "PUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights institutional adoption, growing stablecoin market cap, technological advancements, and positive regulatory developments that suggest market confidence and growth potential."
+    }
+}

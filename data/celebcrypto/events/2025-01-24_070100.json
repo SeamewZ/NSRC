@@ -1,0 +1,33 @@
+{
+    "title": "RUNE Plunges 30% as THORChain Pauses Bitcoin, Ether Withdrawals",
+    "time": "2025-01-24T07:01:00",
+    "author": "Shaurya Malwa",
+    "summary": "The pause comes amid community concerns around the settlements protocol solvency.",
+    "content": "Interblockchain settlements protocol THORChain paused bitcoin\nBTC\n$104,164.74\nand ether\nETH\n$3,496.30\nwithdrawals on its lending and savers programs to prevent a potential insolvency risk.\n\nNetwork node operators proposed and implemented a 90-day pause in early Asian hours on Friday, to formulate a plan to resolve debts, messages from THORChain's Telegram channels show.\n\nTHORChain's lending program only has BTC and ETH, but its saver vaults support more assets.\n\nA potential insolvency situation could be created if all loans and savers positions were closed and repaid at exactly the same time, and if market sentiment also caused a steep decline in RUNE.\n\nTHORChain meets its lending obligations by minting RUNE and selling it into liquidity pools. As such, deposits had been turned off a year ago as the community became increasingly concerned with the risk at the time.\n\nSome community members allege liabilities of nearly $200 million. Of that, some $107 million is contained in liquidity pools, which could be withdrawn or sold by liquidity providers (LPs) or RUNE holders in case of panic.\n\n.@THORChain is insolvent\n\nIn the event of any large debt redemption and/or savers & synths deleveraging, it is certain that TC cannot meet its bitcoin and eth denominated obligations.\n\nValidators decided to pause the network while they vote a restructuring plan\n\n🔽🧵\n\nTHORChain's cross-chain swaps - its main service - remain unaffected. Users can still perform swaps and utilize liquidity pools without disruptions.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/rune-plunges-30-as-thorchain-pauses-bitcoin-ether-withdrawals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "network node operators",
+                "liquidity providers (LPs)",
+                "RUNE holders",
+                "validators"
+            ],
+            "companies": [],
+            "organizations": [
+                "THORChain",
+                "Telegram"
+            ]
+        },
+        "cryptocurrencies": [
+            "RUNE",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes RUNE plunging 30%, withdrawals being paused due to potential insolvency risk, and community concerns about $200 million liabilities, all indicating negative market sentiment and price pressure."
+    }
+}

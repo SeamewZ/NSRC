@@ -1,0 +1,30 @@
+{
+    "title": "How Web3 Is Disrupting AI Cloud Computing",
+    "time": "2025-01-01T17:35:00",
+    "author": "David Attermann",
+    "summary": "Data security is broken and blockchain holds the key, says David Attermann.",
+    "content": "Centralized data networks, ones that are owned and/or managed by a single entity, have been structurally broken for years. Why? Single points of failure. If one entity (or even a few) has access to a database, then there is only one “point” to compromise in order to gain full access. This is a serious problem for networks holding sensitive data like customer information, government files, and financial records, and those with control of infrastructure like power grids.\n\nBillions of digital records were stolen in 2024 alone, causing an estimated $10 trillion in damages! Notable breaches include nearly all of AT&T’s customer information and call logs, half of America’s personal health information, 700 million end-user records from companies using Snowflake, 10 billion unique passwords stored on RockYou24, and Social Security records for 300 million Americans.\n\nSource: Statista, 2024\n\nThis is not just a private sector issue — governments and crucial national infrastructure also rely on centralized networks. Notable recent breaches include records on 22 million Americans stolen from the U.S. Office of Personnel Management, sensitive government communications from multiple U.S. federal agencies, personal biometric data on 1.1 billion Indian citizens, and the ongoing Chinese infiltration of several U.S. internet service providers.\n\nAlthough hundreds of billions of dollars are spent each year on cyber security, data breaches are getting larger and happening more frequently. It’s become clear that incremental products cannot fix these network vulnerabilities — the infrastructure must be completely rearchitected.\n\nSource: market.us, 2024\n\nRecent advancements in generative AI have made it easier to automate everyday tasks and enhance work productivity. But the most useful and valuable AI applications require context, i.e. access to sensitive user health, financial, and personal information. Because these AI models also require massive computing power, they largely can’t run on consumer devices (computer, mobile), and instead must access public cloud networks, like AWS, to process more complex inference requests. Given the serious limitations inherent in centralized networks illustrated earlier, the inability to securely connect sensitive user data with cloud AI has become a significant hurdle for adoption.\n\nEven Apple pointed this out during their announcement for Apple Intelligence earlier this year, stating the need to be able to enlist help from larger, more complex models in the cloud and how the traditional cloud model isn’t viable anymore.\n\nThey name three specific reasons:\n\nFortunately, Web3 cloud platforms offer the perfect solution.\n\nBOCC networks are like AWS — except built completely on confidential hardware and governed by smart contracts. Though still early days, this infrastructure has been in development for years and is finally starting to onboard Web3 projects and Web2 enterprise customers. The best example of this architecture is Super Protocol, an off-chain enterprise-grade cloud platform managed completely by on-chain smart contracts and built on trustless execution environments (TEEs). These are secure hardware enclaves that keep code and data verifiably confidential and secure.\n\nSource: Super Protocol\n\nThe implications of this technology address all of Apple’s concerns noted earlier:\n\nWhile cloud AI represents an enormous opportunity for Web3 to disrupt, BOCCs can be applied to any type of centralized data network (power grid, digital voting infrastructure, military IT, etc.), to provide superior and verifiable privacy and security, without sacrificing performance or latency. Our digital infrastructure has never been more vulnerable, but blockchain-orchestration can fix it.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/01/how-web3-is-disrupting-ai-cloud-computing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Attermann"
+            ],
+            "positions": [],
+            "companies": [
+                "AT&T",
+                "Snowflake",
+                "Apple",
+                "AWS",
+                "Super Protocol"
+            ],
+            "organizations": [
+                "U.S. Office of Personnel Management",
+                "U.S. federal agencies"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents Web3 and blockchain technology as the solution to critical data security problems in cloud computing and AI infrastructure, positioning it as a disruptive force with significant adoption potential."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin Edges Above $95K, U.S. Stocks Remain Strong as Analyst Warns of 'Blind' Market",
+    "summary": "Secretary of Commerce Howard Lutnick announced that the White House was finalizing a trade deal with an unnamed country.",
+    "time": "2025-04-29T20:11:00",
+    "author": "Tom Carreras",
+    "content": "The crypto market experienced another relatively calm day on Tuesday despite widespread pessimism about the impact of the Trump administration’s tariffs on the economy.\n\nBitcoin\nBTC\n$101,837.96\nis up 1% in the last 24 hours, trading at almost $95,400 and within sight of topping $96,000 for the first time since the second half of February. The CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization except for stablecoins, exchange coins and memecoins — rose 1.1%, with\nBCH\n$489.02\noutshining the rest of the index by surging 6.3%.\n\nCrypto stocks had fairly muted performances Tuesday, with Coinbase (COIN) and Strategy (MSTR) up 0.9% and 3.3%, respectively. Janover (JNVR), continued to benefit from its SOL accumulation strategy, rising another 16%.\n\nThe stock market also continued its recovery from the early April-tariff induced panic, with the S&P 500 and Nasdaq each adding 0.55%.\n\nFor some observers, the market’s performance has seemed unanchored from the wave of economic data coming in that suggests that U.S. economic activity is slowing down due to the tariff policies unleashed by the White House.\n\nConsumer confidence came in at its lowest level since May 2020, according to a Conference Board survey, while the consumer outlook hit its lowest point since 2011. Meanwhile, the JOLTS survey indicated that job openings had fallen to 7.19 million in March versus an expected 7.5 million.\n\nIn fresh tariff news, Secretary of Commerce Howard Lutnick said today that a trade deal had been reached with an unspecified country, though the deal still needed to be ratified with that country’s leaders.\n\n“Hard to fathom how blind the market really is,” Jeff Park, head of Alpha Strategies at Bitwise, posted on X.\n\n“A Fed cut means nothing if U.S. creditworthiness is permanently impaired by the global community as resulted by dollar weaponization,” Park said, referring to recent speculation on whether the U.S. central bank will be forced to lower rates to counter the effect of Trump’s tariffs. “That's the mispricing we are talking about here,\" he continued. \"The myopic focus on whether [we] are getting a fed cut in May/June is completely irrelevant if the notion of the risk-free as we know it is fundamentally challenged forever, which means cost of capital globally is going higher.”",
+    "url": "https://www.coindesk.com/markets/2025/04/29/bitcoin-edges-up-to-usd95k-u-s-stocks-remain-strong-as-analyst-warns-of-blind-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Howard Lutnick",
+                "Jeff Park"
+            ],
+            "positions": [
+                "Secretary of Commerce",
+                "head of Alpha Strategies"
+            ],
+            "companies": [
+                "Coinbase",
+                "Strategy",
+                "Janover",
+                "Bitwise"
+            ],
+            "organizations": [
+                "White House",
+                "Conference Board",
+                "Fed",
+                "U.S. central bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "BCH",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin rose 1% to nearly $95,400 and the CoinDesk 20 index rose 1.1% with BCH surging 6.3%, indicating positive price movement and market gains."
+    }
+}

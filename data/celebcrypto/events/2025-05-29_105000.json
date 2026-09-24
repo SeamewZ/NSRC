@@ -1,0 +1,29 @@
+{
+    "title": "Crypto Exchange Bybit Granted MiCA License in Austria",
+    "summary": "Bybit has been granted a MiCA license in Austria, according to Austria regulator FMA’s website.",
+    "time": "2025-05-29T10:50:00",
+    "author": "Ian Allison",
+    "content": "Crypto exchange Bybit has been granted a license in Austria in compliance with Europe's framework for dealing in digital assets, the Markets in Crypto Assets (MiCA) regime, according to the website of the local regulator FMA.\n\nEurope’s new MiCA rules came into force at the start of this year, prompting firms to select the most appropriate member state to base operations and passport services across the 27-country trading block.\n\nAustria is also the MiCA home base of crypto trading firm Bitpanda which also holds a licence in Germany.\n\nFounded in 2018 by entrepreneur Ben Zhou, Bybit, which has risen to become the second largest exchange by volume according to CoinMarketCap, is based in Dubai having moved its headquarters from Singapore in 2022.\n\nIn February 2025, the exchange was hacked resulting in the loss of $1.5 billion in assets in the largest cryptocurrency theft on record.\n\nBybit did not immediately respond to requests for comment.",
+    "url": "https://www.coindesk.com/policy/2025/05/29/crypto-exchange-bybit-granted-european-mica-license-in-austria",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou"
+            ],
+            "positions": [
+                "entrepreneur"
+            ],
+            "companies": [
+                "Bybit",
+                "Bitpanda"
+            ],
+            "organizations": [
+                "FMA",
+                "CoinMarketCap"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports Bybit receiving regulatory approval under MiCA, which indicates increased regulatory clarity and legitimacy for cryptocurrency exchanges in Europe."
+    }
+}

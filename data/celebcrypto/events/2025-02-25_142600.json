@@ -1,0 +1,51 @@
+{
+    "title": "AI Is Here, but That Doesn’t Mean Bitcoin Miners Are Finished: Blockspace",
+    "summary": "Public bitcoin miners are rushing to build AI business lines, but there’s still room for their original mandate, says this investment bank analyst.",
+    "time": "2025-02-25T14:26:00",
+    "author": "Colin Harper, Blockspace Media",
+    "content": "Anyone paying attention to public bitcoin miner markets will know that artificial intelligence (AI) and business pivots to high performance compute (HPC) are all the rage among bitcoin miners. What started as a gradual trend last year has suddenly become a business strategy that many leading public bitcoin miners are exploring.\n\nThis article first appeared on Blockspace Media, the leading Bitcoin industry publication dedicated to covering Bitcoin tech, markets, mining, and ordinals. Get Blockspace articles directly in your inbox by clicking here.\n\nCore Scientific, Bit Digital, Hut 8, Hive and IREN currently have revenue-generating AI/HPC business lines, while Crusoe Energy and Lancium, Cipher, Terawulf, Riot and Bitfarms are in the development or exploratory phase. With SoftBank, OpenAI and others collectively pledging up to $500 billion to accelerate AI developments in the United States through the Stargate Project, which was announced in January, where does the digital oil rush leave pure-play bitcoin miners?\n\nKevin Dede, a managing director of equity research at investment bank H.C. Wainwright, thinks that there is plenty of room for both. In a recent episode of the Mining Pod’s Bitcoin Stock Show, Dede expressed that while he wouldn’t bet against miners who are serious about AI/HPC, he wouldn’t underestimate the prospects for pure-play bitcoin miners, either.\n\nDoes the launch of Project Stargate change the conversation on AI pivots for bitcoin miners?\n\nI think the conversation changed when Core Scientific announced the CoreWeave deal six to eight months ago. That really shifted the dynamic. Another thing people might not consider is that bitcoin miners can compete at different scales. Project Stargate is about hyperscale facilities, but there are opportunities for smaller-scale implementations.\n\nBit Digital and Applied Digital have shown that you don’t need hyperscale to succeed. There are many customers who want access to compute, and not all of them are hyperscalers.\n\nRiot recently decided to pause its 600-megawatt Corsicana Phase 2 to evaluate it for AI/HPC. Why do you think they did that?\n\nRiot has had activist investors buying stock, which is great for the stock price. The company has always been adamant about sticking to bitcoin mining. At their analyst meeting last June, CEO Jason Les said they wouldn’t do HPC.\n\nRiot’s Corsicana facility is amazing. The question is: is 600MW of HPC worth more than 600MW of bitcoin mining? I think the answer is yes.The demand for HPC is growing, and the applications are evolving; we’re just scratching the surface. The real market is the enterprise market, where companies use AI to optimize production.\n\nLooking at Bit Digital and Core Scientific, which company’s strategy do you think has the most upside?\n\nLet’s start with Bit Digital. They bought GPUs and rented space in northern Iceland to address the needs of one customer, who I believe is based somewhere in Europe, to run models. Now, Iceland and Europe aren’t as close as you might think, which is important if they are running inference compute since mainland Europe would be the primary customer for that.\n\nThe Enovum deal came through and they secured their first site, which is about four megawatts. They’ve also just opened another site that they hope to have energized by this summer, aiming for five megawatts initially with plans to scale up to 35 megawatts in HPC capacity this year. Sam Tabar, their CEO, often points out that this acquisition opened the door to a potential 288 megawatts of HPC capacity.\n\nWhen it comes to assessing the risk, it really comes down to a number of factors. Bit Digital acquired a company with a proven track record of building and operating these sites. But, of course, that adds another layer of risk beyond the baseline execution risk. You’re layering on the risk that they might stumble during the construction and operation of their next set of facilities as the year progresses.\n\nAs for Core Scientific, I’d be the last person to underestimate them. They’ve brought on some really impressive talent. I asked their CEO, Adam Sullivan, about how all their plans are coming together. He said that there are a lot of people in the existing data center world whose employees are seeing limited growth trajectories. So, if you’re an employee at one of those companies and you get an offer from Core Scientific with stock options, you’re thinking, “My current options are priced in double digits, but this could go to high double digits or even triple digits.” That’s how they’ve been able to attract such great talent.\n\nOn the other hand, these new B200 chips they are using are so much more powerful but also significantly more complex, and this might play into delays for CoreWeave’s implementation at Core Scientific’s sites. I think a lot of that will come out in Core Scientific’s next earnings call in March. They’ll likely address whether they’re still on track to energize the first large CoreWeave facility in the second quarter and how they’ve tackled these networking challenges.\n\nDo you think the greater upside of AI/HPC pushes bitcoin mining to the fringes, or can it coexist alongside HPC and AI?\n\nI don’t think bitcoin mining is going away. The concept of a hybrid AI-bitcoin mining data center is interesting. HPC power usage isn’t as consistent as people might assume. It doesn’t run 24/7/365. It depends on what’s happening — are they running a new model? Are they supporting inference? Those power loads will fluctuate.\n\nIt’s not too hard to imagine a host having flexibility in their power purchase agreements (PPAs) to run bitcoin miners when the power isn’t needed for HPC. It’s just a matter of adjusting the load.\n\nWhen you step back, it seems to me there’s room for both. We’ve talked about Corsicana, but there are plenty of other sites like those in West Texas. Mike Novogratz wants to turn Helios into an HPC center, but it’s in the middle of nowhere. You need a private plane to get there, and it’s a long drive from Lubbock. Also, it’s on wind power, so the energy is cheap, but how are you going to run inference from that site?\n\nWhat’s really interesting when you look at business models is the optionality. From the hybrid perspective, you’ve got transparency. You can forecast HPC revenue and assume a certain amount of debt based on those margins. But if you keep bitcoin mining running as well, you have the opportunity to benefit from a rising bitcoin price and improving market dynamics.\n\nI think that optionality is an opportunity some of these newer HPC-focused companies offer investors. You’ve got that steady HPC stream, and then you have the potential upside of Bitcoin hitting $200,000 this year. That’s the intriguing proposition. For that reason, I think many of these companies with experience in both will continue to do both.",
+    "url": "https://www.coindesk.com/tech/2025/02/24/ai-is-here-but-that-doesn-t-mean-bitcoin-miners-are-finished-blockspace",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kevin Dede",
+                "Jason Les",
+                "Sam Tabar",
+                "Adam Sullivan",
+                "Mike Novogratz"
+            ],
+            "positions": [
+                "managing director of equity research",
+                "CEO"
+            ],
+            "companies": [
+                "Core Scientific",
+                "Bit Digital",
+                "Hut 8",
+                "Hive",
+                "IREN",
+                "Crusoe Energy",
+                "Lancium",
+                "Cipher",
+                "Terawulf",
+                "Riot",
+                "Bitfarms",
+                "Applied Digital",
+                "CoreWeave",
+                "Enovum",
+                "SoftBank",
+                "OpenAI",
+                "H.C. Wainwright"
+            ],
+            "organizations": [
+                "Stargate Project",
+                "Mining Pod's Bitcoin Stock Show"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article discusses bitcoin miners diversifying into AI/HPC while maintaining bitcoin mining operations, highlighting continued confidence in Bitcoin's potential with mentions of Bitcoin hitting $200,000 and the concept of hybrid data centers supporting both sectors."
+    }
+}

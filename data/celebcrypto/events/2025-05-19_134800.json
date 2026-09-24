@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Network Hashrate Rose Slightly in First Two Weeks of May: JPMorgan",
+    "summary": "Mining gross margins expanded sequentially this month, which is encouraging, the bank said.",
+    "time": "2025-05-19T13:48:00",
+    "author": "Will Canny",
+    "content": "The Bitcoin network hashrate rose 2% in the first two weeks of May to an average of 885 exahashes per second (EH/s), Wall Street bank JPMorgan (JPM) said in a research report Friday.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nMiner profitability improved in May, as the price of bitcoin\nBTC\n$101,833.97\nrose, and gross margins expanded, the bank said.\n\nThe hashprice, a measure of daily mining profitability, rose 13% from April, which the bank said was \"encouraging.\"\n\n\"We estimate miners earned ~$50,100 in daily block reward revenue per EH/s over the first two weeks of the month, up 13% from last month and 3% y/y,\" analysts Reginald Smith and Charles Pearce wrote.\n\nU.S.-listed miners maintained their share of the network hashrate, and currently account for about 30.5% of the network, a 1.1% increase from April, the bank said.\n\nThe total market cap of the 13 U.S.-listed bitcoin mining stocks that the bank tracks rose 24%, or $4.6 billion, this month.\n\nBitdeer (BTDR) outperformed with a 43% gain, while Greenidge (GREE) underperformed the sector with a 5% decline, the report said.\n\nRead more: Bitcoin Miners With HPC Exposure Underperformed BTC for Third Straight Month: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/05/19/bitcoin-network-hashrate-rose-slightly-in-first-two-weeks-of-may-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Bitdeer",
+                "Greenidge"
+            ],
+            "organizations": [
+                "Wall Street bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports rising Bitcoin network hashrate, improved miner profitability, expanding gross margins, and significant stock price gains for mining companies, all indicating positive market conditions."
+    }
+}

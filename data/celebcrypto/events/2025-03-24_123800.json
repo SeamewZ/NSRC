@@ -1,0 +1,25 @@
+{
+    "title": "DYDX Token Jumps 7% After Derivatives Exchange Protocol dYdX Starts Buyback Program",
+    "time": "2025-03-24T12:38:00",
+    "author": "Francisco Rodrigues",
+    "summary": "DYdX is allocating 25% of protocol fees to the program, with active governance discussions on an increase to 100%.",
+    "content": "DYDX, the token of decentralized derivatives exchange dYdX, jumped nearly 7% to $0.72 after the platform introduced a buyback program, dedicating 25% of its monthly protocol fees to purchasing tokens on the open market.\n\nThe move is part of a broader effort to reinforce the token’s role in the network’s security and economic model amid a prolonged downtrend for DYDX, which has lost more than 78% of its value in the last 12 months.\n\nThe buybacks mark a shift in how dYdX allocates its protocol revenue, with 40% going to stakers, 25% to the new program, 25% to its market-supporting MegaVault and 10% toward treasury initiatives.\n\nThe exchange reported $46 million in net protocol revenue in 2024 from over $270 billion in trading volume, according to a press release. Governance discussions are already exploring the possibility of increasing the buyback share to as much as 100% of protocol fees.\n\nTokens bought as part of the program are set to be staked for “an extended period of time to improve network security,” a dYdX representative told CoinDesk.\n\nThe token's supply dynamics are also shifting, with emissions set to drop by half starting in June. Most DYDX tokens have already been unlocked, with the remainder scheduled to vest by mid-2026, the press release said.\n\nA pending proposal may also remove unbridged Ethereum-based DYDX tokens from circulation if not transferred to the dYdX layer 1 by June.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/dydx-token-jumps-7-after-derivatives-exchange-protocol-dydx-starts-buyback-program",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "dYdX",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "DYDX",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The token jumped 7% following the announcement of a buyback program and positive governance discussions about increasing the buyback share to 100%."
+    }
+}

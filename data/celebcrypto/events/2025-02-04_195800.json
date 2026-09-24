@@ -1,0 +1,44 @@
+{
+    "title": "Trump's Crypto Czar Sacks Says 'Golden Age' Coming",
+    "summary": "David Sacks and the leaders of the congressional committees that will handle crypto legislation outlined their plans at a press conference.",
+    "time": "2025-02-04T19:58:00",
+    "author": "Jesse Hamilton",
+    "content": "WASHINGTON, D.C. — The U.S. House of Representatives and Senate are forming a joint working group to advance crypto legislation, and David Sacks, the crypto czar appointed by President Donald Trump, said his aim is \"ensuring American dominance in digital assets” in an appearance Tuesday at a joint press conference in Washington.\n\nAlongside the chiefs of the congressional committees that will work on digital assets legislation, Sacks laid out a broad pro-crypto agenda.\n\n\"I look forward to working with each of you in creating a golden age in digital assets,\" he said, calling crypto a \"week-one priority for the administration.\"\n\nDavid Sacks spoke with CNBC following the initial press conference, where he was asked about the value proposition of digital assets and blockchain technology, particularly as a hedge against inflation and a store of value.\n\nWhen CNBC questioned about why the U.S. government should focus on this sector, Sacks emphasized Bitcoin's unique position: \"Bitcoin was the first digital currency—the original and the first of its kind. No one has ever hacked it or compromised its security, making it an excellent store of value.\"\n\nA part of the plan was already revealed earlier on Tuesday, when details of a Senate stablecoin bill emerged. Senator Bill Hagerty, a Tennessee Republican, wrote a bill to set up U.S. oversight of stablecoin issuers, splitting regulation between state agencies and federal watchdogs — specifically the Federal Reserve and the Office of the Comptroller of the Currency.\n\nTim Scott, the South Carolina Republican who now chairs the Senate Banking Committee, said the panel would take up stablecoins first.\n\nThe lawmakers, which included House Financial Services Committee Chair French Hill, House Agriculture Committee Chair Glenn \"GT\" Thompson and Senate Agriculture Committee Chair John Boozman, also said market structure legislation would come up, referring back to last year's House passage of the Financial Innovation and Technology for the 21st Century Act (FIT21).\n\nHill said that a bill similar to FIT21 would move forward alongside a stablecoin bill in the House.\n\n\"We want to keep that innovation onshore in the U.S. Financial assets are destined to become digital, just like every analog industry has become digital, and we want that value creation to happen in the United States, rather than giving it away to other countries,\" Sacks said in the press conference, his first since taking the job of AI and crypto czar.\n\nUPDATE (Feb. 4, 2025, 20:17 UTC): Adds additional detail.\n\nUPDATE (Feb. 5, 2025, 09:06 UTC): Adds Sacks comment to CNBC.",
+    "url": "https://www.coindesk.com/policy/2025/02/04/trump-s-crypto-czar-sacks-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Sacks",
+                "Donald Trump",
+                "Bill Hagerty",
+                "Tim Scott",
+                "French Hill",
+                "Glenn \"GT\" Thompson",
+                "John Boozman"
+            ],
+            "positions": [
+                "crypto czar",
+                "President",
+                "Senator",
+                "Senate Banking Committee Chair",
+                "House Financial Services Committee Chair",
+                "House Agriculture Committee Chair",
+                "Senate Agriculture Committee Chair"
+            ],
+            "companies": [
+                "CNBC"
+            ],
+            "organizations": [
+                "U.S. House of Representatives",
+                "U.S. Senate",
+                "Federal Reserve",
+                "Office of the Comptroller of the Currency"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes pro-crypto legislative efforts, government support for digital assets, and positive statements about Bitcoin's security and value proposition from key officials."
+    }
+}

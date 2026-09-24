@@ -1,0 +1,30 @@
+{
+    "title": "Coinbase Institutional Is Close to Offering XRP Futures",
+    "time": "2025-04-04T07:12:00",
+    "author": "Shaurya Malwa",
+    "summary": "The exchange submitted a filing to the CFTC to list XRP futures.",
+    "content": "U.S. crypto giant Coinbase Institutional said on Friday that it had submitted a filing to the Commodity Futures Trading Commission (CFTC) to roll out futures contracts tied to Ripple’s closely related XRP token.\n\n\"We're excited to announce that Coinbase Derivatives has filed with the CFTC to self-certify $XRP futures - bringing a regulated, capital-efficient way to gain exposure to one of the most liquid digital assets,\" it said in an X post. \"We anticipate the contract going live on April 21, 2025.\"\n\nWe're excited to announce that Coinbase Derivatives has filed with the CFTC to self-certify $XRP futures - bringing a regulated, capital-efficient way to gain exposure to one of the most liquid digital assets.\n\nWe anticipate the contract going live on April 21, 2025.\n\nStay tuned… pic.twitter.com/nKUPjjnMKW\n\nAccording to the filing, the XRP futures will operate as a monthly, cash-settled, margined contract, trading under the ticker XRL. Each contract mirrors XRP’s price, settled in USD, and represents 10,000 XRP — roughly $20,000 at the current $2 per token valuation.\n\nTraders will have flexibility, with contracts available for the current month plus the following two, though a safeguard halts trading if XRP’s spot price swings over 10% within an hour.\n\nWhen launched, the product will be the second after Chicago-based Bitnomial's CFTC-regulated XRP futures that went live in March. XRP prices are down 2% in the past 24 hours, in line with a broader market drop.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/coinbase-institutional-is-close-to-offering-xrp-futures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase Institutional",
+                "Coinbase Derivatives",
+                "Ripple",
+                "Bitnomial"
+            ],
+            "organizations": [
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "$XRP",
+            "XRL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Coinbase's filing to offer regulated XRP futures as bringing 'a regulated, capital-efficient way to gain exposure to one of the most liquid digital assets,' which indicates increased institutional access and market confidence."
+    }
+}

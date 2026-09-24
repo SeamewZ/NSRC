@@ -1,0 +1,41 @@
+{
+    "title": "Solana CME Futures Fell Short of BTC and ETH Debuts, but There's a Catch",
+    "time": "2025-03-18T19:59:00",
+    "author": "Krisztian Sandor",
+    "summary": "When adjusted for asset market capitalization SOL's relative futures volume looks better, K33 Research noted.",
+    "content": "If you blinked you may have missed it: Solana's SOL futures started trading on Monday on the Chicago Mercantile Exchange (CME), the go-to marketplace for U.S. institutions, and unlike previous, historic CME debuts for bitcoin\nBTC\n$104,558.40\nand ether\nETH\n$3,524.11\n, it received little fanfare.\n\nThe product booked $12.3 million in notional daily volume on day one and closed with $7.8 million in open interest, well falling short of similar debuts of BTC and ETH products, according to K33 Research data. For context, BTC futures launched in December 2017 with $102.7 million first-day volume and $20.9 million in open interest, while ETH futures debuted in February 2021 with $31 million in volume and $20 million in open interest, per K33.\n\nAlready under pressure by the implosion of speculative memecoin activity, bearish crypto action and even a botched commercial, SOL tumbled roughly 10% from its weekend high, underperforming bitcoin's\nBTC\n$104,558.40\nand ether's\nETH\n$3,524.11\n4.5% and 3.8% declines, respectively.\n\nWhile SOL's debut may seem lackluster in absolute terms, it is more in balance with BTC's and ETH's first-day figures when adjusted to market value, K33 analysts Vetle Lunde and David Zimmerman noted. Solana's market capitalization stood at around $65 billion on Monday, a fraction of ETH's $200 billion and BTC's $318 billion at CME launch.\n\nSolana's CME launch also had unfavorable timing, as market conditions play a crucial role in futures activity, K33 added.\n\nBitcoin’s CME futures arrived at the peak of the 2017 bull market as speculative fervor was pushing to the extremes, and ETH's debut coincided with the early stages of the 2021 altcoin rally and Tesla’s BTC purchase announcement, fueling institutional participation. In contrast, SOL futures started trading as crypto markets turned bearish, without any hype or major catalyst driving immediate demand for the product, according to the K33.\"It would appear that institutional demand for altcoins may be shallow, although we note that SOL’s launch has come in a comparatively risk-off environment,\" K33 analysts said.\n\nRead more: Multicoin's Samani Explains Why SOL ETF Could Trounce ETH's\n\nDerivatives trader Joshua Lim, global co-head of markets at prime broker FalconX, said that the CME product opens up new ways for institutions to manage their exposure to Solana, regardless of the first-day demand. FalconX executed the first SOL futures block trade on CME on Monday with financial services firm StoneX.\n\n\"There's enthusiasm for this new CME product launch,\" Lim said in a Telegram message. Liquid funds will be able to manage around their SOL holdings, including those that bought locked tokens in the FTX liquidation process, he said. Additionally, exchange-traded fund issuers with plans to introduce SOL products could start with CME futures-based ETFs.\n\n\"People are missing the big picture on the new CME products,\" Lim said. \"It's going to change the access that hedge funds have into altcoins.\"",
+    "url": "https://www.coindesk.com/markets/2025/03/18/solana-cme-futures-fall-short-of-btc-and-eth-debut-but-there-s-a-catch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vetle Lunde",
+                "David Zimmerman",
+                "Joshua Lim"
+            ],
+            "positions": [
+                "global co-head of markets"
+            ],
+            "companies": [
+                "K33 Research",
+                "FalconX",
+                "StoneX",
+                "Tesla",
+                "FTX"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes SOL's CME futures debut as lackluster with low volume, occurring during bearish market conditions with SOL underperforming BTC and ETH, and mentions institutional demand for altcoins may be shallow."
+    }
+}

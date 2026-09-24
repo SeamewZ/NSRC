@@ -1,0 +1,42 @@
+{
+    "title": "Tokenized Treasuries Hit Record $4.2B Market Cap as Crypto Correction Fuels Growth",
+    "time": "2025-03-13T18:39:00",
+    "author": "Krisztian Sandor",
+    "summary": "Ondo Finance, BlackRock-Securitize and Superstate gained the most among the larger issuers, while Hashnote's USYC declined.",
+    "content": "As cryptocurrencies have been battered in a broad-market correction over the past weeks, digital asset investors sought refuge in tokenized U.S. Treasury products.\n\nSince late January, the combined market capitalization of Treasury-backed tokens grew $800 million to hit a fresh all-time record of $4.2 billion on Wednesday, data source rwa.xyz shows.\n\nReal-world asset platform Ondo Finance's (ONDO) products, the short-term bond-backed OUSG and USDY tokens, climbed to just shy of $1 billion combined, a 53% surge in market value over the past month. BUIDL, the token issued jointly by asset manager BlackRock and tokenization firm Securitize, gained 25% during the same period to surpass $800 million. Asset manager Franklin Templeton's BENJI token expanded to $687 million, a 16% increase, while Superstate's USTB hit $363 million, up more than 63%.\n\nA notable outlier was Hashnote's USYC, shedding over 20% of its market cap to $900 million, predominantly due to DeFi protocol Usual's decline after investor backlash. The token is the main backing asset of Usual's USD0 stablecoin, which plummeted below $1 billion supply from its January peak of $1.8 billion.\n\n\"We believe the growth of the tokenized treasury market cap during the recent crypto downturn reflects a flight to quality, similar to how traditional investors shift from equities to U.S. Treasuries during economic uncertainty,\" Bryan Choe, head of research at rwa.xyz, told CoinDesk.\n\nChoe based his analysis on comparing the market cap growth of tokenized treasuries with stablecoins between November and January, when crypto markets rallied, and from February when prices corrected.\n\nDuring the recent bearish period, tokenized treasuries grew faster than stablecoins, contrary to the bullish phase, when stablecoin growth outpaced the treasury token market.\n\n\"This signals some investors aren't exiting the ecosystem but rather rotating capital into safer, yield-bearing assets until market conditions improve,\" Choe said.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/tokenized-treasuries-hit-record-usd4-2b-market-cap-as-crypto-correction-fuels-growth",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bryan Choe"
+            ],
+            "positions": [
+                "head of research"
+            ],
+            "companies": [
+                "Ondo Finance",
+                "BlackRock",
+                "Securitize",
+                "Superstate",
+                "Franklin Templeton",
+                "Hashnote"
+            ],
+            "organizations": [
+                "rwa.xyz",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ONDO",
+            "OUSG",
+            "USDY",
+            "BUIDL",
+            "BENJI",
+            "USTB",
+            "USYC",
+            "USD0"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a cryptocurrency market correction where investors are fleeing to safer tokenized treasury products, indicating market uncertainty and capital rotation away from riskier crypto assets."
+    }
+}

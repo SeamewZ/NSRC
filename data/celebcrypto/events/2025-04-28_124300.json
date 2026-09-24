@@ -1,0 +1,30 @@
+{
+    "title": "Ethereum Could Supercharge Transaction Speed to 2,000 TPS Thanks to Bold New Proposal",
+    "summary": "A new proposal hopes to increase gas fee limits by 100-fold, which theoretically would bump transactions per second to 2,000 in the coming years.",
+    "time": "2025-04-28T12:43:00",
+    "author": "Shaurya Malwa",
+    "content": "Ethereum Foundation researcher Dankrad Feist on Sunday filed the Ethereum Improvement Proposal 9698, a plan to let the blockchain’s gas limit grow on autopilot over the next four years.\n\nFeist is best known in crypto circles for his efforts in scaling the Ethereum network. The “danksharding” element of the network’s Dencun update was named after him.\n\nThe EIP introduces a deterministic “exponential” schedule baked into client defaults, which nudges the gas limit upward by a tiny preset amount every epoch. These predictable gas limit increases allow current validators to keep their machines up to speed, cutting the need for sudden upgrades.\n\nIf approved and implemented, the gas limit ceiling would climb from 36 million units to roughly 3.6 billion, allowing an estimated 6,000 simple transfers per block and over 2,000 transactions per second (TPS). Ethereum's current TPS is around 15-20 TPS.\n\nClient teams would still need to ship the code and leave the setting on by default, while operators could manually override it.\n\n“The current gas limit mechanism relies on miner/operator voting, which lacks coordination and predictability,” Feist wrote in a Github post as the motivation behind the proposal. “While flexible, this approach can lead to stagnation or overly cautious increases.”\n\n“By introducing a predictable exponential growth pattern as a client default, this EIP encourages a sustainable and transparent gas limit trajectory, aligned with expected advancements in hardware and protocol efficiency,” Feist added.\n\nThe proposal sets an activation point at Beacon-chain epoch 369017, roughly June 1. An epoch lasts 6.4 minutes and consists of 32 slots, each containing a block, which stores data and adds to the chain.\n\nEIP-9698 now awaits review by client maintainers and core developers. If they flip the switch this June, Ethereum’s throughput curve could look very different by 2029—no hard fork required.\n\nThe proposal comes as Ethereum faces competition from a bloated landscape of blockchains that offer faster settlement times and significantly lower fees. In recent years, this has led to an exodus of financial activity and users to other networks.\nRead more: Vitalik Buterin Proposes Replacing Ethereum’s EVM With RISC-V",
+    "url": "https://www.coindesk.com/tech/2025/04/28/ethereum-researcher-behind-danksharding-proposes-increasing-gas-limits-by-100x",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dankrad Feist",
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "Ethereum Foundation researcher",
+                "client maintainers",
+                "core developers"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal to increase Ethereum's transaction speed from 15-20 TPS to 2,000 TPS represents a major scalability improvement that would enhance network efficiency and competitiveness."
+    }
+}

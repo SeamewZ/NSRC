@@ -1,0 +1,50 @@
+{
+    "title": "Arthur Hayes Floats the Idea of Rolling Back Ethereum Network to Negate $1.4B Bybit Hack, Drawing Community Ire",
+    "time": "2025-02-22T07:09:00",
+    "author": "Omkar Godbole",
+    "summary": "\"I would support it because we already voted no on immutability in 2016,\" Hayes said on X, while Ethereum community strongly criticized it.",
+    "content": "CORRECTION (Feb. 22, 19:16 UTC): Reworks the story throughout to clarify and include more context of the so-called \"rollback\" and the criticism around it. Also removed the percentage of ETH held by hackers in 2016).\n\nArthur Hayes, co-founder of BitMEX and major ether\nETH\n$3,496.07\nholder, asked Ethereum co-founder Vitalik Buterin if he would be willing to entertain the idea of rolling back the network to assist hacked exchange Bybit, which lost nearly $1.4 billion in ether\nETH\n$3,496.07\non Friday.\n\n\"@VitalikButerin will you advocate to roll back the chain to help @Bybit_Official,\" Hayes said in the social media post.\n\n\"My own view as a mega $ETH bag holder is $ETH stopped being money in 2016 after the DAO hack hardfork. If the community wanted to do it again, I would support it because we already voted no on immutability in 2016 [wh]y not do it again?\" he added\n\nButerin was yet to reply as of time of publication.\n\nWhile some, including Unchained's Laura Shin, wondered if Hayes's post was a joke, it did raise a serious question about whether rolling back is even feasible. CoinDesk reached out to Hayes about the post and hasn't received a comment at the time of writing.\n\n\"I wish we could roll back for the Bybit hack, I'm not against the idea. But the DAO hack was 15% of ETH with a clean recovery path. Today, a rollback would break bridges, stablecoins, L2s, RWAs and so much more. ETH ecosystem is just too interconnected now for a clean solution like 2016,\" said Gautham Santhosh, co-founder of Polynomial.fi.\n\nHayes' suggestions of rolling back the blockchain as one of the potential ways to address hacking involves reverting the blockchain to a state before a specific event, in this case, the hack. That way, malicious transactions resulting from the hack can be erased, effectively restoring lost or stolen funds. Implementing a rollback requires consensus from the network participants.\n\nFor instance, in 2016, the Ethereum network saw a controversial revision of the network using a hard fork to reverse a theft of $60 million in ether from The DAO (the percentage the hackers took control of is still up for debate). The hard fork split the chain into two – Ethereum and Ethereum Classic.\n\nHowever, the term \"rollback\" was never used during that revision; it was referred to as an “irregular state transition.” The move still triggered huge and important debates over so-called “immutability” in blockchains.\n\nImmutability is a security feature that prevents data from being changed after it's added to the blockchain, making it trustworthy and tamper-proof.\n\nA similar controversy played out in the Bitcoin community in 2019 when Binance's CEO Changpeng Zhao and his team considered pushing for a \"rollback\" approach (the term was later rephrased by CZ as \"re-org\" and decided not to pursue the approach) on the Bitcoin network following a $40 million hack. However, the Bitcoin mining community criticized the idea of going back against the principle of decentralization and immutability.\n\nSimilarly, the Ethereum community criticized the idea of \"rollback\" in this case, noting that the idea wouldn't even have been considered by the community.\n\nTheoretically, an actual \"rollback\" won't be possible on Ethereum, as the network uses something called \"accounts\" to store the ether, which can be analogous to bank accounts. When the 2016 hack occurred, the nodes upgraded to new software, and the ETH held was moved to new addresses.\n\nHowever, the idea of reversing a transaction in light of a hack isn't a new one; at least one smaller blockchain network, Vericoin, actually executed such a procedure previously.\n\nThe Bybit hack came into light on Friday when on-chain sleuth ZachXBT noted suspicious outflows of over $1.4 billion from the exchange, with the attacker quickly swapping mETH and stETH for ether through a decentralized exchange.\n\nThe hackers were later identified by ZachXBT as the North Korean Lazarus Group.\n\nThe attacker then split 10,000 ETH to 39 different addresses and another 10,000 ETH to nine addresses, Polynomial.fi's Santhosh said on X.\n\nBybit CEO Ben Zhou said that the hacker \"took control of the specific ETH cold wallet and transferred all the ETH in the cold wallet to this unidentified address.\" Zhou confirmed that the exchange \"is solvent even if this hack loss is not recovered.\"\n\nMargaux Nijkerk contributed to the revised story.\nRead more: Ether Price Spikes Further on Reports of Bybit Starting to Buy ETH",
+    "url": "https://www.coindesk.com/markets/2025/02/22/arthur-hayes-proposes-rolling-back-ethereum-network-to-negate-usd1-4b-bybit-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arthur Hayes",
+                "Vitalik Buterin",
+                "Laura Shin",
+                "Gautham Santhosh",
+                "Changpeng Zhao",
+                "ZachXBT",
+                "Ben Zhou",
+                "Margaux Nijkerk"
+            ],
+            "positions": [
+                "co-founder of BitMEX",
+                "co-founder of Polynomial.fi",
+                "CEO"
+            ],
+            "companies": [
+                "BitMEX",
+                "Bybit",
+                "CoinDesk",
+                "Unchained",
+                "Polynomial.fi",
+                "Binance"
+            ],
+            "organizations": [
+                "Ethereum",
+                "The DAO",
+                "North Korean Lazarus Group"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum",
+            "Bitcoin",
+            "Vericoin",
+            "mETH",
+            "stETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major $1.4 billion hack of a cryptocurrency exchange and controversial discussions about rolling back the Ethereum blockchain, which creates uncertainty and negative sentiment in the market."
+    }
+}

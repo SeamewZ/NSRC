@@ -1,0 +1,35 @@
+{
+    "title": "Tether May Have to Sell Some Bitcoin to Comply With U.S. Stablecoin Rules: JPMorgan",
+    "time": "2025-02-13T14:58:00",
+    "author": "Will Canny",
+    "summary": "Company data suggests that Tether's reserves are 66% compliant under the STABLE Act and 83% under the GENIUS Act, the report said.",
+    "content": "USDT issuer Tether could face challenges if proposed U.S. stablecoin regulation is passed, and the company may have to sell some of its reserves to comply with the new rules, Wall Street bank JPMorgan (JPM) said in a research report Wednesday.\n\nThe Senate's Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act mandates federal regulation for stablecoins with a market cap of over $10 billion, the report noted, with the potential for state regulation if it aligns with federal rules. The House of Representatives STABLE Act calls for state regulation without any conditions.\n\n\"Reserve requirements under the STABLE Act are stricter, allowing insured deposits, U.S. T-bills, treasury short-term repo and central banks reserves,\" analysts led by Nikolaos Panigirtzoglou wrote, adding that the Senate bill also permits money market funds and reverse repos.\n\n\"Both bills allow only high quality and liquid assets as reserves,\" the authors wrote.\n\nTether dominates the stablecoin universe with a 60% market share. USDT has a market cap of about $142 billion. JPMorgan said the issuer's reserves are \"only 66% compliant under the STABLE Act and 83% under the GENIUS Act,\" citing the company's reports.\n\nFurthermore, \"both figures suggest a declining compliance ratio since the middle of last year as stablecoin supply surged,\" the bank added.\n\nUnder the proposed regulations, Tether would have to replace non-compliant assets with compliant ones, the report said. This implies \"sales of their non-compliant assets (such as precious metals, bitcoin\nBTC\n$103,797.36\n, corporate paper, secured loans and other investments) and purchases of compliant assets such as T-bills.\"\n\n\"Tether is closely monitoring the evolution of the different U.S. stablecoin bills and also actively engaging with local regulators. Consultation from the industry needs to happen and it’s still unclear which bill will move forward,\" a Tether spokesperson said in emailed comments.\n\n\"Even in the most extreme scenario, JPMorgan discounts the fact the Tether’s Group equity is over $20 billion in other very liquid assets and is generating more than $1.2 billion in profits per quarter through U.S. Treasuries. Adapting new requirements will be straightforward,\" the person added.\n\nTether CEO Paolo Ardoino said in a tweet on X on Thursday following publication of the bank's report that \"JPM analysts are salty because they don't own bitcoin.\"\n\nNew rules calling for increased transparency and more frequent reserve audits could also pose further challenges for Tether, the report added.\n\nRead more: Stablecoin Regulations Could Pose Problems for Tether, JPMorgan Says; USDT Issuer Claims Sour Grapes",
+    "url": "https://www.coindesk.com/markets/2025/02/13/tether-may-have-to-sell-some-reserves-to-comply-with-u-s-stablecoin-rules-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nikolaos Panigirtzoglou",
+                "Paolo Ardoino"
+            ],
+            "positions": [
+                "CEO",
+                "analysts"
+            ],
+            "companies": [
+                "Tether",
+                "JPMorgan",
+                "JPM"
+            ],
+            "organizations": [
+                "Senate",
+                "House of Representatives"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news discusses potential forced selling of Bitcoin and other assets by Tether to comply with stricter U.S. stablecoin regulations, which could create selling pressure in cryptocurrency markets."
+    }
+}

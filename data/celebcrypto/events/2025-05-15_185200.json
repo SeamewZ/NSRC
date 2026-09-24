@@ -1,0 +1,39 @@
+{
+    "title": "Senate's New Stablecoin Draft Doesn't Target Trump's Crypto, Tweaks Big-Tech Approach",
+    "summary": "A legislative draft obtained by CoinDesk shows a marginally revised version despite Democrats citing \"major victories\" in the Senate negotiation.",
+    "time": "2025-05-15T18:52:00",
+    "author": "Jesse Hamilton",
+    "content": "The latest draft of the U.S. Senate's stablecoin legislation includes enough changes that Democratic senators may now have an easier time getting back on board, though consumer advocates say it still falls short.\n\nThe bill to set oversight and standards for stablecoin issuers sailed through the Senate Banking Committee with wide bipartisan support in March, but it hit a wall on the Senate floor last week as many Democrats raised objections. Chief among them were the conflicts that may be presented by President Donald Trump's own crypto interests and the possibility that big technology firms like Meta and social-media site X may be able to issue such tokens.\n\n\"As the result of hard-fought negotiations, Democrats won major victories on a range of critical issues,\" proponents noted in a summary circulated with the draft bill. The question remaining is: Will it be enough to get back to a so-called cloture vote that will advance the bill to a floor debate that would mark its final major stage before the Senate takes a vote.\n\nThe next procedural move on the Senate floor could come by next week, according to people familiar with the talks. Later Thursday, Senate Majority Leader John Thune scheduled a cloture vote for Monday evening.\n\nThe latest changes to the bill represent a mixed bag. The loudest requests from critics, that the president be explicitly stopped from personally benefiting from the crypto industry that his administration will regulate, were not directly addressed in this version of the bill.\n\nBut on the concerns over tech giants sprouting with a field of new dollar-based tokens, the bill dealt with it in part:\n\n\"A public company that is not predominantly engaged in one or more financial activities, and its wholly or majority owned subsidiaries or affiliates, may not issue a payment stablecoin unless the public company obtains a unanimous vote of the Stablecoin Certification Review Committee,\" according to the latest draft. The committee would be a multi-agency group created under the legislation to look at such requests.\n\nThere are major loopholes in that, according to Mark Hays, who focuses on crypto and financial-technology issues for Americans for Financial Reform and Demand Progress. For starters, he said, it affects only public companies and not private ones, such as X and TiKTok.\n\n\"There's already a way that large tech firms that aren't public could become issuers without adhering to these new standards,\" he said. Also, he added, \"it's quite possible under this bill that a public company could secure an interest in a non-public company, and that's another way around it.\"\n\nHe argued that this overall draft gave toothless answers to the concern of consumer advocates.\n\n\"Pushing this through on an arbitrary deadline because the crypto industry is breathing down your neck is not a good way to make policy,\" Hays said. \"And it's especially bad when that policy could further enable and enrich the president.\"\n\nBo Hines, one of Trump's chief advisers on crypto, appeared at Consensus 2025 in Toronto on Wednesday to insist that there's no conflict in the president's business interests or his family's involvement in the industry, including its stake in World Liberty Financial. He said that Trump \"can't be bought.\"\n\nThe White House's Hines, who acts as a liaison to Capitol Hill during the legislative negotiations, expressed continued confidence about the effort staying on track in the Senate.\n\n\"Negotiations are ongoing,\" Hines said at Consensus. \"But I remain steadfast in my optimism that we're going to achieve — the president's desire is to do it — both stablecoin legislation and market structure legislation before the August recess.\"\n\nUPDATE (May 16, 2025, 03:55 UTC): Adds cloture vote information.",
+    "url": "https://www.coindesk.com/policy/2025/05/15/senate-s-new-stablecoin-draft-doesn-t-target-trump-s-crypto-tweaks-big-tech-approach",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "John Thune",
+                "Mark Hays",
+                "Bo Hines"
+            ],
+            "positions": [
+                "President",
+                "Senate Majority Leader",
+                "chief adviser on crypto",
+                "liaison to Capitol Hill"
+            ],
+            "companies": [
+                "Meta",
+                "X",
+                "TiKTok",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Senate Banking Committee",
+                "Americans for Financial Reform",
+                "Demand Progress",
+                "Stablecoin Certification Review Committee"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing legislative negotiations with mixed outcomes - some Democratic concerns addressed but major loopholes remain, creating uncertainty rather than clear positive or negative market direction."
+    }
+}

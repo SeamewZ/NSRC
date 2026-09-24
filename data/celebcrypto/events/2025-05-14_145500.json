@@ -1,0 +1,31 @@
+{
+    "title": "Proven Bitcoin Momentum Indicator Flashes Green, Supporting Analyst $140K-$200K Price Predictions",
+    "time": "2025-05-14T14:55:00",
+    "author": "Omkar Godbole",
+    "summary": "A positive flip in the indicator has preceded every major rally since 2020.",
+    "content": "This is a daily technical analysis by CoinDesk analyst and Chartered Market Technician Omkar Godbole.\n\nA momentum indicator, with a strong track record of forecasting major bitcoin\nBTC\n$104,723.54\nprice moves, has flipped bullish, reinforcing analysts’ recent predictions of a rally to $150K–$200K.\n\nThe technical analysis indicator is called the Moving Average Convergence Divergence (MACD) histogram, which represents the difference between the MACD line and its signal line. The MACD line is calculated by subtracting the 26-period (days or weeks) exponential moving average (EMA) from the 12-period EMA of an asset's price. The signal line is a 9-period EMA of the MACD line itself.\n\nA positive shift in the MACD histogram is interpreted as a transition from bearish to bullish momentum and is widely considered a buy signal by traders.\n\nBTC's weekly chart MACD has crossed above zero, indicating a renewed bullish momentum.\n\nThe latest bullish signal follows bitcoin's bounce from the 50-week simple moving average (SMA), replicating patterns observed in mid-2024 and early 2023. On both occasions, BTC subsequently experienced strong rallies.\n\nNote how the MACD flipped positive in the second half of October, warning of a big move higher. BTC broke above $70K in early November and eventually reached record highs in December.\n\nOver the past five years, the MACD has crossed into positive territory five times, with only one false signal in March 2022, which trapped bulls (marked by circle) on the wrong side of the market.\n\nThe latest signal is consistent with the bullish macro picture and analysts' calls for a rally to higher levels. Early this week, Standard Chartered said that institutional adoption and investment lows could lift bitcoin as high as $200K.\n\nIn a report shared with CoinDesk on Tuesday, analysts at Bitfinex said BTC is evolving into a global macro reserve asset and could rise to $150K-$180K in 2025-26.",
+    "url": "https://www.coindesk.com/markets/2025/05/14/proven-bitcoin-momentum-indicator-flashes-green-supporting-analysts-usd140k-usd200k-price-predictions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole"
+            ],
+            "positions": [
+                "Chartered Market Technician",
+                "analyst"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Standard Chartered",
+                "Bitfinex"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a bullish technical indicator flip, positive momentum signals, and multiple analyst predictions for significant price increases to $140K-$200K."
+    }
+}

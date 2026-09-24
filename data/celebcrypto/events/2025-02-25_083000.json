@@ -1,0 +1,35 @@
+{
+    "title": "Bullish Crypto Bets Lose $1.2B as Bitcoin Fumbles to Under $89K, XRP Down 14%",
+    "time": "2025-02-25T08:30:00",
+    "author": "Shaurya Malwa",
+    "summary": "Liquidations crossed the $1.35 billion level in the past 24 hours as a market slide worsened.",
+    "content": "Crypto bulls nursed at least $1.2 billion in losses over the past 24 hours as the market slump from Monday worsened during the Asian hours on Tuesday, driving bitcoin\nBTC\n$103,795.97\nto under $89,000, its lowest since mid-November.\n\nApart from Bybit, crypto exchanges report only one liquidation per second, meaning the overall losses are much higher than the recorded $1.35 billion across long and short trades.\n\nFutures tracking bitcoin registered over $530 million in liquidations, while ether\nETH\n$3,496.37\nbets saw over $294 million evaporated. Solana\nSOL\n$161.11\nfutures lost $112 million as the token slumped more than 15%, while a 14% dive in XRP and doge (DOGE) led to over $80 million in losses cumulatively.\n\nLiquidations occur when an exchange forcefully closes a trader's leveraged position due to a partial or total loss of the trader's initial margin. It happens when a trader cannot meet the margin requirements for a leveraged position, that is, they don't have enough funds to keep the trade open.\n\nCrypto exchange Bybit — which has fully recovered assets after a $1.4 billion hack last week — led liquidation figures with over $600 million lost on the exchange, followed by Binance at $300 million and OKX at $147 million.\n\nNasdaq futures pointed to continued losses in technology stocks and strength in the Japanese yen sparked fears of an August-like risk aversion.\n\nInvestors tend to flock to the yen during economic uncertainty or market stress as it is seen as a safe haven, much like the U.S. dollar or gold. This risk-off sentiment usually pressures riskier assets — like bitcoin or equities — as investors pull money out of speculative investments and park it in safer bets.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/bullish-crypto-bets-lose-usd1-2b-as-bitcoin-fumbles-to-under-usd89k-xrp-down-14",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bybit",
+                "Binance",
+                "OKX"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "doge",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes massive liquidations totaling over $1.35 billion, significant price declines across major cryptocurrencies, and risk-off sentiment driving investors away from speculative assets."
+    }
+}

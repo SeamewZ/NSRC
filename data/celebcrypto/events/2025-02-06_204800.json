@@ -1,0 +1,44 @@
+{
+    "title": "Crypto's Debanking Worries Hit Another Big Stage in U.S. House",
+    "summary": "The industry's U.S. banking crisis may be retreating as a second congressional committee sheds light on how crypto businesses have been treated by regulators.",
+    "time": "2025-02-06T20:48:00",
+    "author": "Jesse Hamilton",
+    "content": "The chief lawyer of U.S. crypto exchange Coinbase (COIN) testified about the abuse of authority from regulators who erected barriers between banks and crypto firms in a hearing of the House Financial Services Committee on Thursday, marking the latest advance in the digital assets industry's reversal of policy resistance in Washington.\n\nCoinbase Chief Legal Officer Paul Grewal's complaints about \"regulation by exhaustion\" were met with wide agreement from Republican lawmakers eager to criticize the Biden administration's crypto performance. The lawmakers also agreed with Grewal's view that financial regulators such as the FDIC publicly insisted that they weren't against crypto while privately directing banks away from the industry.\n\nThe House hearing, led by the panel's oversight subcommittee, came directly on the heels of a Wednesday Senate Banking Committee hearing that also dug into crypto \"debanking\" in the U.S.\n\n\"Biden regulators resorted to vague, interpretive regulatory letters threatening banks with negative examination scores and fines if they continue their partnership with digital asset companies,\" said Representative Dan Meuser, a Pennsylvania Republican who leads the House subcommittee. \"This is serious overreach, one that not only undermines innovation, but directly harms consumers by restricting their access to new and beneficial financial products.\"\n\nMeanwhile, the panel's Democrats flagged concerns with President Donald Trump's own crypto business efforts and pushed back on the argument that cautioning banks against ties with the volatile, fraud-ladened sector was appropriate.\n\n\"Regulators asking banks to consider the risk associated with the crypto currency industry does not amount to debanking, as my Republican friends are indicating,\" said Representative Al Green, a Texas lawmaker who is the subcommittee's ranking Democrat. \"Regulators simply urged banks to exercise caution when dealing with this emerging and potentially risky industry.\"\n\nAs the issue was placed under the light of congressional scrutiny for the second day running, Coinbase has been basking in a combination of positive court sentiment and an FDIC policy reversal. The company's legal pursuit of FDIC documents under the Freedom of Information Act have not only gone its way, but a judge in the U.S. District Court for the District of Columbia was incensed about the way the FDIC resisted the request for its communications with banks about crypto.\n\nRead More: U.S. Regulator Told Banks to Avoid Crypto, Letters Obtained by Coinbase Reveal\n\nAn FDIC lawyer had asked Judge Ana Reyes to give some extra time while the agency adjusts under new leadership, but the judge refused, saying, \"I don't care who your management is.\" She contended the FDIC's position on the case had been \"laughable,\" according to a court transcript, and that she wanted to not only refuse the delay but to \"speed it up dramatically.\" The judge also demanded answers on accusations that the regulator may have destroyed documents that were related to the case.\n\n\"Do you understand that right now if I find — and there's going to be an investigation — that any documents were destroyed or if we can't figure out whether any documents were destroyed, you guys are going to come in for some serious sanctions?\" the judge asked.\n\nThe FDIC jumped to release more documents before the court's deadline this week, and Acting Chairman Travis Hill, who President Donald Trump elevated as he took office last month, said he ordered the agency's staff to review supervisory communications with banks about crypto. The regulator publicly posted \"a large batch of documents\" in the meantime, he said.\n\n\"Acting Chairman Hill has begun to right this wrong,\" said Coinbase Chief Legal Officer Paul Grewal in a posting on social media site X, adding that \"much more discovery is required.\"\n\nWhile the FDIC has taken much of the heat for the U.S. banking regulators' efforts to limit banks' exposure to crypto clients, Senator Cynthia Lummis revealed an internal Federal Reserve document in a Wednesday hearing that she said provided \"hard proof of Operation Chokepoint.\" That's the name the industry has adopted to characterize the set of informal, behind-the-scenes actions undertaken by regulators to pressure U.S. banks to debank crypto. The Fed's policy seemed to suggest regulatory scrutiny for bankers who engage in controversial speech or activities.\n\nThe interest from the House Financial Services Committee will continue next week with a February 11 hearing entitled \"A Golden Age of Digital Assets: Charting a Path Forward.\" That \"Golden Age\" phrase echoes what Trump's crypto czar, David Sacks, said was coming for the industry in his first press conference.",
+    "url": "https://www.coindesk.com/policy/2025/02/06/crypto-s-debanking-worries-hit-another-big-stage-in-u-s-house",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Grewal",
+                "Dan Meuser",
+                "Al Green",
+                "Ana Reyes",
+                "Travis Hill",
+                "Cynthia Lummis",
+                "David Sacks"
+            ],
+            "positions": [
+                "Chief Legal Officer",
+                "Representative",
+                "Judge",
+                "Acting Chairman",
+                "Senator",
+                "crypto czar"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "U.S. House",
+                "House Financial Services Committee",
+                "FDIC",
+                "Biden administration",
+                "Senate Banking Committee",
+                "U.S. District Court for the District of Columbia",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes positive developments for crypto including congressional hearings supporting the industry, favorable court rulings, and FDIC policy reversals that suggest reduced regulatory resistance."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "U.S.-Listed Bitcoin Miners Shed 25% of Their Market Cap in March: JPMorgan",
+    "time": "2025-04-01T14:02:00",
+    "author": "Will Canny",
+    "summary": "The monthly performance was the third-worst on record, the report said.",
+    "content": "The total market cap of the 14 U.S.-listed bitcoin\nBTC\n$104,067.02\nminers tracked by JPMorgan (JPM) dropped 25% in March, the third-worst monthly performance on record, the Wall Street bank said Tuesday.\n\nOnly one stock, Stronghold Digital Mining (SDIG), outperformed bitcoin (BTC) last month, the report noted. Bitfarms (BITF) completed its acquisition of the company on March 17. Miners with high performance computing (HPC) exposure underperformed pure-play miners for the second month in a row.\n\n\"We note valuations today are at the lowest levels relative to the block reward since the collapse of FTX in the Fall of 2023,\" analysts Reginald Smith and Charles Pearce wrote.\n\nThe average network hashrate inched higher during the month to 816 exahashes per second (EH/s), the report said. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nMining revenue and profitability both fell.\n\n\"We estimate bitcoin miners earned an average of $47,300 per EH/s in daily block reward revenue in March, down 13% from February,\" the bank said. Daily block reward gross profit dropped 22% month-on-month to $23,000 per EH/s.\n\nStronghold Digital outperformed the sector last month with a 2% decline. Cipher Mining (CIFR) underperformed with a 45% slump.\n\nRead more: Bitcoin Network Hashrate Inched Higher in March as Mining Economics Weakened: JPMorgan\n\nUPDATE (April 1, 14:25 UTC): Adds Bitfarms' purchase of Stronghold Digital in second paragraph.",
+    "url": "https://www.coindesk.com/markets/2025/04/01/u-s-listed-bitcoin-miners-shed-25-of-their-market-cap-in-march-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Stronghold Digital Mining",
+                "Bitfarms",
+                "Cipher Mining",
+                "FTX"
+            ],
+            "organizations": [
+                "Wall Street bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant market cap losses for bitcoin miners, declining mining revenue and profitability, and the third-worst monthly performance on record."
+    }
+}

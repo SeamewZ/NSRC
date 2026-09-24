@@ -1,0 +1,30 @@
+{
+    "title": "Sam Altman's World Network and Razer Want to Defeat Gaming's Bot Problem",
+    "summary": "The teams are releasing “Razer ID verified by World ID,” which is a single sign-on mechanism that will verify real human gamers from bots.",
+    "time": "2025-03-17T16:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Sam Altman’s blockchain project, World Network, is teaming up with gaming hardware firm Razer on a suite of features designed to weed out bots from video games.\n\n“Razer ID verified by World ID” is a single sign-on mechanism that will verify real human gamers from bots. It's built atop Razer ID, Razer's existing login service, and will help guarantee there's \"a real person behind every Razer ID account,” according to a statement shared by Razer and World.\n\nThe collaboration between the two firms comes as artificial intelligence (AI) tools are seeping into every corner of online life — including inside of video games, which have been plagued by non-human AI \"bots\" since long before the rise of Altman's ChatGPT.\n\nAccording to a study from Echelon Insights that World shared with CoinDesk, roughly 59% of gamers said that they regularly encountered unauthorized, third-party bots in their games. In addition to posing a general nuisance to players, bot accounts often have tactical advantages over real players, which can ruin the competitiveness of some multiplayer games.\n\n“Game developers now have a tool to build dynamic spaces where real players —not bots— dominate the digital landscape,” World said in its statement.\n\nRazer's integration with World Network builds upon World's existing blockchain-based identity solution, which uses iris scans to differentiate real humans from robots online.\n\nThe new feature will be integrated first into “TOKYO BEAST,” a blockchain-based game set in a version of Tokyo based 100 years in the future. It's an apt pairing: the game's main premise involves humans coexisting with autonomous androids.\n\nWhen users log into TOKYO BEAST, they will be prompted to sign in using a World-authenticated Razer ID, ensuring they can play online with real human players only.\n\n“As AI continues to reshape the gaming world, we want to empower gamers and game developers with the tools they need to navigate this transformation safely and confidently,” said Wei-Pin Choo, the chief corporate officer at Razer. “By teaming up with World, we’re ensuring that real players are the heart of every experience, keeping gaming fair, immersive, and designed for humans.”\n\nRead more: Sam Altman's World Network Unveils New Chat Feature to Connect Real Humans",
+    "url": "https://www.coindesk.com/tech/2025/03/17/sam-altman-s-world-network-and-razer-want-to-defeat-gaming-s-bot-problem",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman",
+                "Wei-Pin Choo"
+            ],
+            "positions": [
+                "chief corporate officer"
+            ],
+            "companies": [
+                "World Network",
+                "Razer",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Echelon Insights"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The collaboration between World Network and Razer to integrate blockchain-based identity solutions for gaming represents positive adoption and utility expansion for cryptocurrency technology."
+    }
+}

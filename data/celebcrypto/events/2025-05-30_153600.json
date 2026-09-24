@@ -1,0 +1,29 @@
+{
+    "title": "Spot Bitcoin ETFs Broke 10-Day Inflow Streak With $358M of Outflows Thursday: JPMorgan",
+    "summary": "",
+    "time": "2025-05-30T15:36:00",
+    "author": "Will Canny",
+    "content": "U.S.-listed spot bitcoin\nBTC\n$101,636.70\nexchange-traded funds (ETFs) recorded their first day of net outflows in 10 trading sessions on Thursday, according to a research report by JPMorgan (JPM).\n\nThe Wall Street bank estimated that spot bitcoin ETFs saw $358 million of redemptions yesterday, according to a Friday report, with just one, BlackRock’s iShares Bitcoin Trust (IBIT) attracting a net inflow. IBIT gathered in a net $125 million, the bank observed.\n\nIn contrast, Fidelity’s FBTC saw net outflows of $166 million, leading the redemptions, the report said. Other major contributors included the Grayscale Bitcoin Trust (GBTC) -$107 million, ARK 21Shares Bitcoin ETF (ARKB) -$89 million and the Bitwise Bitcoin ETF (BITB) -$71 million, the bank said\n\nJPMorgan said smaller outflows were also noted across the remaining issuers.\n\nThe bitcoin price slipped 1.1% on the day, but market activity remained robust with trading volumes of $5.39 billion, well above the 20-day average of $2.81 billion, the report added.\n\nThe world's largest cryptocurrency was trading around $105,656 at publication time.\n\nRead more: U.S. Spot Crypto ETFs Saw Strong Inflows on Wednesday, JPMorgan Says",
+    "url": "https://www.coindesk.com/markets/2025/05/30/spot-bitcoin-etfs-broke-10-day-inflow-streak-with-358m-of-outflows-thursday-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "JPMorgan",
+                "BlackRock",
+                "Fidelity",
+                "Grayscale",
+                "ARK 21Shares",
+                "Bitwise"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports net outflows of $358 million from spot bitcoin ETFs, breaking a 10-day inflow streak, with only one ETF seeing inflows while others experienced significant redemptions."
+    }
+}

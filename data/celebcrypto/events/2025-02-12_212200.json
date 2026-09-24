@@ -1,0 +1,29 @@
+{
+    "title": "Robinhood's Big Earnings Beat Could Bode Well for Coinbase",
+    "time": "2025-02-12T21:22:00",
+    "author": "Aoyon Ashraf",
+    "summary": "The popular trading platform said revenue for fourth quarter rose 115% from last year, mainly driven by crypto.",
+    "content": "Popular trading platform Robinhood (HOOD) beat its fourth-quarter earnings and revenue estimates, which could have positive read-through for peer Coinbase (COIN).\n\nRobinhood said its fourth-quarter revenue rose 115% from the previous year to $1.01 billion, beating Wall Street analysts' estimate of $945.8 million, according to FactSet data. Its transaction-based revenue rose 200% from the previous year, mainly due to a 700% rise in cryptocurrency revenue, the firm said in a statement.\n\nThis could bode well for crypto exchange Coinbase, which reports its earnings on Thursday after the market close. Both platforms share a similar client base and get most of its revenue from trading fees. Wall Street analysts expect COIN to post one of its best quarters in terms of trading volume since Q4 of 2021 as a result of the election of crypto-friendly President Donald Trump which sent crypto prices to new all-time highs in November.\n\nEstimates on FactSet predict Coinbase will report revenue of $1.8 billion, up from $1.26 billion in the third quarter and exchange volume of $195.9 billion, up from $185.3 billion.\n\nRobinhood also reported earnings per share of $1.01, topping the average estimate of $0.42. Shares of the trading app were up more than 5% in post-market trading on Wednesday, while COIN's stock was up about 0.3%.\n\nUPDATE (Feb. 12, 2025, 21:30 UTC): Adds additional information about COIN earnings.\n\nCORRECT (Feb. 13, 14:02 UTC): Corrects year to 2021 in third paragraph.",
+    "url": "https://www.coindesk.com/business/2025/02/12/robinhood-s-big-earnings-beat-could-bode-well-for-coinbase",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Robinhood",
+                "Coinbase",
+                "FactSet"
+            ],
+            "organizations": [
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports strong crypto revenue growth for Robinhood and expects similar positive results for Coinbase, indicating increased market activity and confidence in the crypto sector."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin Drops Below Key 2025 Realized Price Level, Raising Risk of Further Downside: Van Straten",
+    "time": "2025-02-05T13:33:00",
+    "author": "James Van Straten",
+    "summary": "Over 2.6 million bitcoin in supply are currently at a loss, one of the highest levels this year.",
+    "content": "The average withdrawal price of bitcoin\nBTC\n$104,608.94\nfrom exchanges in 2025 currently stands at $100,356. At present, bitcoin is trading just below this level, hovering around $98,000.\n\nThe concern arises when bitcoin falls below the average withdrawal price for a sustained period of time, as this can often trigger continued selling and more downward price pressure. Historically, this metric has served as a strong support level for bitcoin.\n\nBusting below this support, however, does not necessarily indicate a bear market or sustained declines, as bitcoin historically reclaims this price level quickly.\n\nIn 2024, for example, bitcoin repeatedly tested its average withdrawal price just below $60,000. The price indeed did briefly dip below this level multiple times, most notably in August during the yen carry trade unwind when it fell to $49,000. The price, though, managed to reclaim the support level within a few days.\n\nSimilarly, in 2023, the realized price provided key support on multiple occasions, including during the Silicon Valley Bank collapse in March ($20,000) and again in September, just before bitcoin’s Q4 rally.\n\nAccording to Glassnode data, over 2.6 million BTC are sitting at a loss, one of the highest amounts this year. The longer it sustains a price below the 2025 average, the greater the chance further declines could be in order.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/bitcoin-drops-below-key-2025-realized-price-level-raising-risk-of-further-downside-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Van Straten"
+            ],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": [
+                "Silicon Valley Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping below a key support level with over 2.6 million BTC at a loss, raising concerns about continued selling and further downside pressure."
+    }
+}

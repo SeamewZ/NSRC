@@ -1,0 +1,39 @@
+{
+    "title": "Telegram Cracks Down on Suspected $8B Chinese Crypto Crime Marketplace Set Up in Colorado",
+    "time": "2025-05-14T14:32:00",
+    "author": "Tim Craig",
+    "summary": "Illicit marketplaces are a key part of the growing global cyberscams industry, with Southeast Asia being among the hubs for such activity.",
+    "content": "Messaging app Telegram has closed thousands of channels belonging to suspected Chinese crypto-crime marketplaces after new research shed light on the situation, according to Elliptic.\n\nThe closure follows a report published by the blockchain analytics firm on Tuesday into the fast-growing Telegram-based marketplace called Xinbi Guarantee.\n\nThe Colorado-incorporated marketplace has processed over $8.4 billion worth of transactions using Tether’s USDT stablecoin since 2022. It facilitates services relating to money laundering, operating crypto scam compounds and other illicit services, such as intimidation and sex trafficking, according to Elliptic.\n\n“Elliptic is tracking around thirty other such marketplaces, all leveraging Telegram and stablecoin payments,” the report said.\n\nTelegram did not immediately respond to a request for comment.\n\nSuch marketplaces are a key part of the Southeast Asia-based global cyberscam epidemic by providing scammers with the tools needed to conduct fraud on an industrial scale.\n\nOne of the biggest such marketplaces is Huione Guarantee, according to Chainalysis, facilitates similar services to Xinbi. The firm behind it, Huione Group, has ties to Cambodia’s ruling family.\n\nXinbi and Huione, the two largest Telegram-based marketplaces, are responsible for a combined $35 billion in illicit transactions, Elliptic said.\n\nOn May 1, the U.S. Treasury’s Financial Crimes Enforcement Network (FinCEN) designated Huione Group a “primary money laundering concern,” saying it helped launder at least $4 billion worth of illicit proceeds between August 2021 and January 2025.\n\nServices offered on marketplaces like Xinbi and Huione are infamous for enabling industrial-scale scam compounds across Southeast Asia.\n\nThese compounds attract victims with the promise of well-paid IT work. When they arrive they are trafficked, imprisoned and forced to carry out online pig butchering scams to pay off phony debts.\n\nXinbi vendors offer Starlink satellite internet equipment, which is often used by scam compounds, fake IDs and databases of stolen personal information used to target potential fraud victims, Elliptic said.\n\nAnother big driver of business is money laundering services, according to the report. Such services are mostly used to launder the proceeds of pig butchering scams, but funds from North Korean crypto heists are also in the mix.\n\nElliptic found about $220,000 in USDT originating from the $230 million WazirX theft in July was sent to Xinbi, indicating that vendors operating on the marketplace were employed to help launder proceeds of the heist.\n\nIt’s not clear whether North Korean IT workers are interacting with Xinbi vendors directly, though.\n\n“Our hypothesis is that the funds are under the control of Chinese money laundering groups by the time they enter marketplaces such as Xinbi,” Tom Robinson, chief scientist and co-founder at Elliptic, told CoinDesk over email.\n\nWhat sets Xinbi apart from other similar marketplaces, however, is its connection to the U.S.\n\nOn its website, Xinbi describes itself as an “investment and capital guarantee group company” operating as a Colorado-based corporation, Elliptic said.\n\nThe Colorado corporate register shows a company called “Xinbi Co., Ltd” was incorporated in August 2022, with an office in Aurora, Colorado even though the Chinese-language marketplace is primarily used by fraudsters in Asia.\n\n“These marketplaces depend on trust,” Robinson said. “A U.S. incorporation does bring some level of legitimacy.”\n\nRobinson also noted that similar marketplaces have previously conducted exit scams, where a business stops shipping orders while still receiving payments, eventually walking away with the money. “Anything that inspires confidence will help attract customers,” he said.\n\nIn January 2025, the company’s status was updated to delinquent for failing to file a periodic report.\n\nRead more: Cambodian Huione Group Received $98B in Crypto Leading to U.S. Crackdown: Elliptic",
+    "url": "https://www.coindesk.com/business/2025/05/14/telegram-cracks-down-on-suspected-8b-chinese-crypto-crime-marketplace-set-up-in-colorado",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tom Robinson"
+            ],
+            "positions": [
+                "chief scientist and co-founder"
+            ],
+            "companies": [
+                "Telegram",
+                "Elliptic",
+                "Tether",
+                "Xinbi Guarantee",
+                "Huione Guarantee",
+                "Huione Group",
+                "Xinbi Co., Ltd",
+                "Starlink",
+                "WazirX",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Treasury’s Financial Crimes Enforcement Network (FinCEN)",
+                "Colorado corporate register"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major crackdown on an $8.4 billion crypto crime marketplace involving money laundering, scams, and illicit transactions, which creates negative sentiment and regulatory pressure on the cryptocurrency market."
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "source": "runs/nsrc_safe_route_20260922/route_statistics",
+  "ci": "pointwise percentile, not multiplicity-adjusted",
+  "family_size": 12,
+  "files": {
+    "significance.csv": "024cc990975b5996a830aad36d837b97e2c1ffeb95760e25d86d1a6a509a1021",
+    "seed_stability.csv": "8c61eeca7d8b8d44f62751eae7a6224fd90ad016ae6dc88ffb42953df0a11a92",
+    "horizon_stability.csv": "f7ae9551cb77e352d001a3ac9651fc404bf9273bc2d1b8c57e6b35ca75ed3427",
+    "period_stability.csv": "3ebad91c6953b66f3586fd2bfc44f6df3cf1aba7d4a7947a6b84f5d919fa81d2",
+    "volatility_stability.csv": "9621f566638a877a175e609a523e9376de9543bb6dee73181f62477bc30a7a9d"
+  }
+}

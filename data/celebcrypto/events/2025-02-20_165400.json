@@ -1,0 +1,40 @@
+{
+    "title": "New SEC Cyber Unit Closes Chapter on Agency's Crypto Enforcement Emphasis",
+    "summary": "The SEC's Republican leaders have shifted what had been a crypto-focused enforcement squad into a smaller group with a broader responsibility.",
+    "time": "2025-02-20T16:54:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Securities and Exchange Commission unit tasked with chasing bad guys in the crypto space will be smaller and called something significantly different, the agency said Thursday, further cementing its trend away from an aggressive enforcement stance against the industry.\n\nIn three years, the same internal group has transitioned from the \"Cyber Unit\" to the \"Crypto Assets and Cyber Unit\" and now to the \"Cyber and Emerging Technologies Unit,\" seemingly taking some focus off its crypto role. In 2022, then-Chairman Gary Gensler's SEC announced the enforcement squad was almost doubling to 50 people. The latest announcement says it will include \"approximately 30 fraud specialists and attorneys across multiple SEC offices.\"\n\n\"The unit will not only protect investors but will also facilitate capital formation and market efficiency by clearing the way for innovation to grow,\" Acting Chairman Mark Uyeda said in a statement, which also announced Laura D’Allaird as the head of the overhauled group.\"It will root out those seeking to misuse innovation to harm investors and diminish confidence in new technologies.”\n\nThat language sharply contrasts with the crypto-focused rhetoric from Gensler in 2022, when he said the unit would pursue \"those seeking to take advantage of investors in crypto markets.\"\n\nPresident Donald Trump elevated Republican Uyeda from his role as commissioner to run the agency on an interim basis while the U.S. Senate considers the nomination of former Commission Paul Atkins for the permanent job. Uyeda isn't sitting on his hands during the wait and has already been remaking the SEC, especially in relaxing its strong past distrust of crypto.\n\nRead More: SEC Backs Off Crypto Dealer Fight, Continues Resetting Industry Approach\n\nUyeda formed a Crypto Task Force at the SEC, under the watch of fellow Republican Commissioner Hester Peirce, and this enforcement unit is meant to \"complement the work\" of that group. In addition to still hunting for \"fraud involving blockchain technology and crypto assets,\" the unit will watch for unlawful uses of artificial intelligence, hacks and other cybersecurity missteps.",
+    "url": "https://www.coindesk.com/policy/2025/02/20/new-sec-cyber-unit-closes-chapter-on-agency-s-crypto-enforcement-emphasis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Mark Uyeda",
+                "Laura D’Allaird",
+                "Donald Trump",
+                "Paul Atkins",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "Acting Chairman",
+                "commissioner",
+                "former Commission",
+                "head",
+                "fellow Republican Commissioner"
+            ],
+            "companies": [],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Cyber Unit",
+                "Crypto Assets and Cyber Unit",
+                "Cyber and Emerging Technologies Unit",
+                "Crypto Task Force",
+                "U.S. Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC is shifting from an aggressive enforcement stance against crypto to a more balanced approach that will 'facilitate capital formation and market efficiency by clearing the way for innovation to grow'."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin's Price Sell-Off Puts Focus on November's 'Runaway Gap' Below $80K in CME Futures",
+    "time": "2025-02-27T12:48:00",
+    "author": "Omkar Godbole",
+    "summary": "\"Historically, CME gaps are filled eventually,\" one analyst said.",
+    "content": "Bitcoin\nBTC\n$103,816.76\nhas dropped 10% to $86,300 this week, diving out of a prolonged period of trading between $90,000 and $110,000.\n\nThe so-called bearish range breakdown has traders closely examining charts for clues about where the sell-off may drive prices next. One of the key levels under scrutiny is the \"runaway gap\" in CME bitcoin futures below $80,000, which formed three months ago.\n\nA gap is a blank space on a price chart between the closing or high price on a specific day and the next opening price, signifying that there was no trading activity at prices in between. When the gap appears in an established trend, it's called a runaway or continuation gap.\n\nUnlike bitcoin's spot market, which is open 24/7, CME bitcoin futures trade 23 hours a day Sunday through Friday. The market opens at 5 p.m. CT (23:00 UTC) and closes for an hour's maintenance the next day at 4 p.m.\n\nAs the bitcoin rally picked up steam following President Donald Trump's Nov. 4 election victory, a runaway gap appeared in the CME futures on the following day. Prices opened the next day at $81,210, significantly above the election-day high of $77,930.\n\nIt's widely held that price gaps are eventually filled, with traders buying and selling the asset in the previously non-traded zone. The process is often seen as a natural market behavior, reflecting a return to equilibrium.\n\n\"Historically, CME gaps are filled eventually, and it is usually hard to say when,\" Nicolai Sondergaard, a research analyst at Nansen, said in a Telegram message. \"The recent unexpected events are the larger reasons for why we have seen these big downwards movements and without them I think we wouldn't really be looking at the CME gap.\"\n\nThe risk indicators at Nansen have recently \"gone risk-off,\" so it wouldn't be surprising if the CME gap is filled, Sondergaard said\n\nTechnical analysis theory, however, suggests otherwise. It says that common gaps, which often occur during regular trading, and exhaustion gaps, which appear during trend reversals, are typically filled quickly. In contrast, the likelihood of runaway gaps being filled is relatively low.\n\nIt's worth noting that a gap has formed between Feb. 24 and Feb. 25 as prices dropped out of the prolonged consolidation. Which of these gaps will be filled first remains uncertain.\n\nUPDATE (Feb. 27, 12:51 UTC): Adds dropped word in first bullet point.",
+    "url": "https://www.coindesk.com/markets/2025/02/27/bitcoin-s-price-sell-off-puts-focus-on-november-s-runaway-gap-below-usd80k-in-cme-futures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nicolai Sondergaard",
+                "Donald Trump"
+            ],
+            "positions": [
+                "research analyst",
+                "President"
+            ],
+            "companies": [
+                "Nansen",
+                "CME"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping 10% to $86,300, breaking out of a trading range with a 'bearish range breakdown' and discussing potential further price declines to fill the CME gap below $80,000."
+    }
+}

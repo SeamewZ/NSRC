@@ -1,0 +1,28 @@
+{
+    "title": "Solana's SOL Could See Nearly 6% Price Swing as Whales Dump Coins Before U.S. Jobs Data",
+    "time": "2025-04-04T07:44:00",
+    "author": "Omkar Godbole",
+    "summary": "Several whales unstaked and dumped SOL worth $46.3 million into the market.",
+    "content": "Solana's SOL token is poised for a potential price swing of almost 6% after some large investors, or whales, dumped their holdings ahead of the U.S. non-farm payroll (NFP) report due later Friday.\n\nThis estimate comes from Volmex's one-day implied volatility index (IV) for SOL. At press time, the index showed a one-day reading annualized at 109.70%, indicating an expected 24-hour price volatility of 5.74%. (The daily figure is derived by dividing the annualized volatility by the square root of 365, the number of trading days in a year.)\n\nA movement that size represents moderate volatility, especially considering that the cryptocurrency has experienced several days of 6% or higher volatility since early March, according to data from CoinDesk.\n\nIn other words, the market is likely to be volatile, but nothing out of the ordinary.\n\nData tracked by blockchain sleuth Lookonchain shows several whales unstaked and dumped SOL worth $46.3 million into the market.\n\nLarge offloading of coins by whales often leads to bearish price action. However, the amount sold early today equates to 0.97% of the cryptocurrency's 24-hour trading volume of $4.7 billion.\n\nSo, it's no surprise that SOL is trading little changed at around $116, having printed a low of $112 on Thursday. Broadly speaking, the cryptocurrency has been in a downtrend since reaching a high of $295 on Jan. 19.\n\nThe U.S. jobs data, scheduled for release at 12:30 GMT, is forecast to reveal that the economy added 130,000 jobs in March, slowdown from February's 151,000 and well below the 12-month average of 162,300, according to FactSet.\n\nThe median estimate for the jobless rate for March is is 4.2%, the highest since November and up from February's 4.1% reading. Average hourly earnings are forecast to have risen 0.3% month-on-month, matching February's pace.\n\nA weaker-than-expected figure will likely validate renewed pricing for four 25-basis-point interest-rate cuts this year, potentially sending risk assets, including cryptocurrencies, higher.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/solana-s-sol-could-see-nearly-6-price-swing-as-whales-dump-coins-before-u-s-jobs-data",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Volmex",
+                "CoinDesk",
+                "FactSet"
+            ],
+            "organizations": [
+                "Lookonchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes whales dumping $46.3 million worth of SOL ahead of economic data, which often leads to bearish price action according to the content."
+    }
+}

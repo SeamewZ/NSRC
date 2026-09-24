@@ -1,0 +1,32 @@
+{
+    "title": "AI Tokens Fail to Mirror 2024's Epic Surge Despite Bullish Nvidia Conference",
+    "summary": "AI tokens are struggling to perform despite bullish sentiment around AI stocks in traditional markets.",
+    "time": "2025-01-07T18:30:00",
+    "author": "Oliver Knight",
+    "content": "Artificial intelligence (AI) crypto tokens are failing to live up to their lofty 2024 goals despite Nvidia's (NVDA) recent conference sparking bullish sentiment among AI stocks in the traditional markets.\n\nLast March, the NEAR token doubled in the lead-up to Nividia's annual conference, gains that were mirrored across the wider crypto AI market. Fetch.AI (FET), the graph (GRT) and singularityNET (AGIX) all posted significant rallies to the upside in unison with the conference.\n\nThis year, however, AI tokens have shown their fragility. NEAR is down by more than 8% in the past 24 hours while FET slumped nearly 9%. NVDA in contrast began the year trading at $133 and rose by 15% to $153 on Monday as the conference began.\n\nThere are several reasons why AI tokens are no longer getting the attention they once received. One of those is the emergence of AI agent tokens, which share similarities with memecoins due to their volatile nature and cult-like followings. Investors are more inclined to trade these tokens as they have the potential for triple, even quadruple-digit gains compared to regular AI tokens, which are harder to move due to their larger market caps. And just like memecoins, AI agent tokens have more potential for deeper losses as well.\n\nAnother reason is simply a lack of interest; Google search trend show that searches for \"NEAR token\" and \"Fetch.ai\" are down by 47% and 84% respectively since March.\n\nThe fall from grace is hardly surprising, the crypto market is very fickle and has a habit of punishing sectors that rise rapidly in a speculative nature. Last year's rally was exactly this: people invested in AI tokens as they believed it would be the primary narrative of the crypto bull market, but instead, it was bitcoin that stole the show with 10's of billions dollars of ETF inflows and bullish sentiment around Donald Trump's presidential victory.\n\nAI tokens are still in their infancy, however. Few crypto AI projects were used in the mainstream, as many of the products were still being built. Nvidia, meanwhile, announced a $3,000 mini supercomputer called Digits, which will be available to purchase in May.",
+    "url": "https://www.coindesk.com/business/2025/01/07/ai-tokens-fail-to-mirror-2024s-epic-surge-despite-bullish-nvidia-conference",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Nvidia",
+                "Google",
+                "Fetch.AI",
+                "singularityNET"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "FET",
+            "GRT",
+            "AGIX",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes AI tokens like NEAR and FET experiencing significant price declines (8-9% drops) and losing investor interest despite positive developments in traditional AI markets."
+    }
+}

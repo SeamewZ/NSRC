@@ -1,0 +1,32 @@
+{
+    "title": "Plunging U.S. Stocks Help Add to Crypto's Bad Day",
+    "time": "2025-02-21T20:35:00",
+    "author": "Stephen Alpher",
+    "summary": "The week's uptrend was quickly upended by the hack at crypto exchange Bybit.",
+    "content": "Only a handful of hours ago crypto markets were buoyed as the Securities and Exchange Commission signaled its intent its dismiss a lawsuit against Coinbase (COIN).\n\nThe welcome regulatory news sparked 5% gains for COIN and the likes of increasingly important crypto trading platform Robinhood (HOOD), and sent bitcoin\nBTC\n$103,737.28\nbreaking out of its recent tight trading range to within sight of the $100,000 level.\n\nThe first bomb to break the good vibes came late in the U.S. morning when Bybit was stung by about a $1.5 billion hack — the largest such exploit ever in crypto. That news sent bitcoin and ether\nETH\n$3,496.07\nsliding roughly 2% in a manner of minutes.\n\nPrices quickly seemed to stabilize and — at least in the case for bitcoin — bounce a bit.\n\nAny sort of bounce, however, was quickly snuffed out as modest losses for U.S. stocks began to accelerate in afternoon trading.\n\nAmong the excuses for the quick retreat was a poor reading from the Michigan Consumer Sentiment Index, which unexpectedly slipped to 64.7 versus forecasts for 67.8. The same survey's inflation expectations rose to 3.5% against an expected 3.3%.\n\nAn outlier, but perhaps also a reason for selling, was a new coronavirus scare out of China. Discovered by researchers at the Wuhan Institute, HKU5-CoV-2 is \"strikingly similar\" to the virus that caused the 2020 pandemic, according to the Daily Mail.\n\nShortly before the close of trading on Friday, the Nasdaq is lower by 2.2% and the S&P 500 by 1.7%. The 10-year U.S. Treasury yield has fallen nine basis points to 4.42%.\n\nAs for crypto, bitcoin has more than erased its gains of the past couple of days, trading back to $95,000 and lower by nearly 4% over the past 24 hours. Ether\nETH\n$3,496.07\nhas pulled back to $2,650, also lower by about 4%. The broader CoinDesk 20 Index is down 4.4%.",
+    "url": "https://www.coindesk.com/markets/2025/02/21/plunging-u-s-stocks-help-add-to-crypto-s-bad-day",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Robinhood",
+                "Bybit"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "Wuhan Institute",
+                "Daily Mail"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple negative events including a $1.5 billion hack at Bybit, falling stock markets, and cryptocurrencies erasing gains and declining 4%."
+    }
+}

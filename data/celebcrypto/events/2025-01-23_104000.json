@@ -1,0 +1,25 @@
+{
+    "title": "Ethereum Layer-2 Protocols Achieve Record Transaction Throughput",
+    "time": "2025-01-23T10:40:00",
+    "author": "Omkar Godbole",
+    "summary": "Layer 2 protocols are faster than ever in processing transactions, according to data source growthepie.xyz.",
+    "content": "Ethereum layer-2 protocols are processing transactions faster than ever, with Coinbase's BASE at the forefront of this progress.\n\nAccording to data from growthepie.xyz, the cumulative transaction throughput for layer 2s has skyrocketed to 29.64 million gas units per second (Mgas/s), the highest pace ever recorded. BASE leads the way, accounting for 67% of the total. Gas is the fee users pay to conduct a transaction.\n\nLayer-2 protocols are scaling solutions built on top of primary blockchains like Ethereum, and are designed to handle a higher volume of transactions at lower cost. The metric of millions of gas units per second reflects the number of transactions the network processes each second.\n\nThis surge in throughput comes amid concerns that sustained demand for layer 2 solutions could quickly exhaust available capacity.",
+    "url": "https://www.coindesk.com/markets/2025/01/23/ethereum-layer-2-protocols-achieve-record-transaction-throughput",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "growthepie.xyz"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports record transaction throughput for Ethereum layer-2 protocols, indicating improved scalability and efficiency which is positive for the cryptocurrency ecosystem."
+    }
+}

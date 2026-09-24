@@ -1,0 +1,43 @@
+{
+    "title": "Crypto Daybook Americas: Market in Sea of Red, BTC Seen Diving to $80K",
+    "time": "2025-02-25T12:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Feb. 25, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe crypto market is a sea of red, with bitcoin trading at three-month lows under $88,000 and the CoinDesk 20 Index down more than 10% in 24 hours. There are several catalysts for the swoon, including risk-off sentiment in traditional markets and influence from memecoins, especially the recent trading in TRUMP and LIBRA.\n\nAs we discussed Monday, market makers attending the Consensus Hong Kong conference last week were worried the memecoin frenzy had sucked liquidity from the productive crypto sub-sectors, leaving the broad market vulnerable.\n\nAnother reason is President Donald Trump's inaction. Although he made significant promises in the lead-up to the elections, concrete action has been scarce. The anticipated strategic BTC reserve remains absent, and even state-level reserves are proving challenging to implement.\n\n\"The industry is still waiting for this to manifest in a tangible way in the form of measures such as a mooted Bitcoin Strategic Reserve,\" Petr Kozyakov, co-founder and CEO at Mercuryo told CoinDesk. \"In the meantime, sentiment has been hit hard by the biggest ever hack at the Bybit exchange, leaking 401,000 ETH, and a memecoin sector plagued with high-profile pump and dump schemes.\"\n\nLastly, renewed concerns about the U.S. economy are zapping demand for riskier assets.\n\n\"There is also some concern about the slowdown in U.S. growth since last week's U.S. Services PMI release, the lowest in 22 months and consistent with GDP growth tracking at 0.6% only,\" Nansen's principal research analyst Aurelie Barthere said. \"Our Nansen Risk Barometer also just turned Risk-off from Neutral today.\"\n\nTogether, they sent BTC diving out of its two-month-long range play between $90,000 and $110,000. Technical analysis theory suggests it could drop to $70,000, though the maximum open interest in BTC put options listed on Deribit sits at the $80,000 strike, indicating that this level could provide some support.\n\nWhat could stabilize prices? Perhaps an announcement from Trump regarding a strategic reserve or a sharp reversal by the Nasdaq 100. However, that index has fallen below its 50-day SMA, while the yen, a risk-aversion signal, continues to strengthen against G7 currencies, including the dollar.\n\nThe next major catalysts for risk assets are Nvidia's earnings on Feb. 26 and core PCE inflation on Feb. 28. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/25/crypto-daybook-americas-market-in-sea-of-red-btc-seen-diving-to-usd80k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump",
+                "Petr Kozyakov",
+                "Aurelie Barthere",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "principal research analyst"
+            ],
+            "companies": [
+                "Mercuryo",
+                "Bybit",
+                "Deribit",
+                "Nvidia"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Nansen",
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ETH",
+            "TRUMP",
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes the crypto market as 'a sea of red' with bitcoin at three-month lows, multiple negative catalysts including risk-off sentiment, exchange hacks, and memecoin issues, and technical analysis suggesting further price drops to $70,000-$80,000."
+    }
+}

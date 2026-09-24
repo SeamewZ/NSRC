@@ -1,0 +1,40 @@
+{
+    "title": "3 Russians Face Money Laundering Charges Over Mixing Services: DOJ",
+    "summary": "Russian nationals have been charged with crimes for allegedly running the crypto mixing services Blender.io and Sinbad.io used by North Korean hackers.",
+    "time": "2025-01-10T17:25:00",
+    "author": "Jesse Hamilton",
+    "content": "Three Russian nationals tied to operating sanctioned crypto mixing services Blender.io and Sinbad.io have been charged with money laundering by a federal grand jury in Georgia, the U.S. Department of Justice said in a statement on Friday.\n\nRoman Vitalyevich Ostapenko and Alexander Evgenievich Oleynik had been arrested last month, and they face money laundering charges. A third person tied to the services' operations, Anton Vyachlavovich Tarasov, is at-large, the DOJ said.\n\nAuthorities from multiple jurisdictions had already seized and dismantled the computer equipment behind the services. Blender.io had previously been sanctioned by the U.S. Treasury Department for aiding in the concealment of the crypto proceeds of cyber thefts conducted by North Korean hackers. That move marked the Treasury's first sanctions against a crypto mixer, which is a service that aims to anonymize transactions and erase the public trail of digital assets.\n\n\"According to the indictment, the defendants operated cryptocurrency ‘mixers’ that served as safe havens for laundering criminally derived funds, including the proceeds of ransomware and wire fraud,\" said Principal Deputy Assistant Attorney General Brent S. Wible, the DOJ's criminal division chief, in a statement. \"By allegedly operating these mixers, the defendants made it easier for state-sponsored hacking groups and other cybercriminals to profit from offenses that jeopardized both public safety and national security.\"\n\nRead More: Crypto Mixer Sanctioned by U.S. Treasury for North Korea Allegations, as FBI, Dutch and Finnish Police Seize Website\n\nThe prosecution of crypto mixing services – the controversial businesses that represent both the sector's vulnerability to criminal use and its championing of financial privacy – has been a point of contention for U.S. policymakers and members of Congress.\n\nIn the most famous case, the pursuit of Tornado Cash, the Treasury's sanctions were overturned in November by a federal appeals court, ruling that the technology underpinning such services can't be targeted this way. However, the government is still pursuing criminal prosecutions of Tornado Cash's founders.\n\nBlender.io operated from 2018 to 2022 before it was taken down by authorities, to be quickly replaced by Sinbad.io, which drew similar sanctions from the Treasury Department.",
+    "url": "https://www.coindesk.com/policy/2025/01/10/three-russians-face-money-laundering-charges-over-mixing-services-doj",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Vitalyevich Ostapenko",
+                "Alexander Evgenievich Oleynik",
+                "Anton Vyachlavovich Tarasov",
+                "Brent S. Wible"
+            ],
+            "positions": [
+                "Principal Deputy Assistant Attorney General",
+                "DOJ's criminal division chief"
+            ],
+            "companies": [
+                "Blender.io",
+                "Sinbad.io",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "U.S. Treasury Department",
+                "FBI",
+                "Dutch and Finnish Police",
+                "federal grand jury in Georgia",
+                "federal appeals court",
+                "Congress",
+                "North Korean hackers"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory crackdowns, criminal charges, and sanctions against crypto mixing services, which typically creates negative sentiment in cryptocurrency markets."
+    }
+}

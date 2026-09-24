@@ -1,0 +1,25 @@
+{
+    "title": "SUI Plunges 9% Amid Flash Crash and Extraordinary Selling Volume",
+    "summary": "Sui token stabilizes around $3.43 after dramatic midnight selloff and recovery pattern forms",
+    "time": "2025-05-30T10:53:00",
+    "author": "AI Boost",
+    "content": "SUI plummeted 9.25% from $3.72 to $3.38, with heaviest selling during midnight hours UTC on volume 78% higher than daily average\n\nThe recent correction comes amid broader geopolitical tensions affecting cryptocurrency markets globally.\n\nWhile Bitcoin has shown resilience above critical resistance zones, SUI has faced downward pressure despite strong fundamentals.\n\nThe Cetus Protocol exploit that resulted in $223 million in stolen assets (with $162 million frozen) has created uncertainty, though the Sui community appears poised to approve a recovery plan with 71% of validators already voting \"yes\" to return the frozen funds.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/sui-plunges-9-amid-flash-crash-and-extraordinary-selling-volume",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Cetus Protocol"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes SUI plunging 9% with heavy selling volume, downward pressure, and mentions a $223 million exploit creating market uncertainty."
+    }
+}

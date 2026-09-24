@@ -1,0 +1,41 @@
+{
+    "title": "Polygon, GSR Release Katana Network Tackle DeFi Fragmentation",
+    "summary": "Katana aims to improve blockchain liquidity — including lending, trading, and yield bearing strategies — by integrating with popular apps like Sushi and Morpho.",
+    "time": "2025-05-28T15:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Katana, a new decentralized finance (DeFi)-focused blockchain incubated by industry heavyweights Polygon and GSR, shared on Wednesday that its private mainnet has gone live.\n\nThe new layer-2 blockchain will unify “all liquidity in a set of protocols and collect yield from all potential sources,\" the team shared in a press release sent to CoinDesk. Katana's goal is \"to power a self-sustaining DeFi engine for long-term growth,” it said.\n\nMarc Boiron, the CEO of Polygon Labs, told CoinDesk that Katana emerged to address DeFi fragmentation, where digital assets are distributed across various apps and ecosystems, making certain types of investing cumbersome.\n\nKatana was built using AggLayer — Polygon's platform for building interoperable blockchains. “One of the things that we want is a super deep liquidity hub on the AggLayer, so that every chain can tap into that,” Boiron said. “When you look across everything in crypto, what you realize is that there's actually no chain that's built very well for actually having deep liquidity.”\n\nKatana aims to improve blockchain liquidity — including lending, trading, and yield bearing strategies — by integrating with popular apps like Sushi, a major decentralized exchange, and Morpho, a popular decentralized lending ecosystem.\n\nPolygon Labs, the team behind the layer-2 network, helped design the chain, while GSR, the crypto market-maker, advised on the user experience and is lending liquidity to help get the platform off the ground. “We are providing the on-chain liquidity — or 'grease' — to make sure that people can actually use the chain on day one,” said Jakob Palmstierna, President at GSR.\n\nCurrently, Katana is open to a limited group of users. It includes a pre-deposit phase that allows users to park their ETH, USDC, USDT, and WBTC for a chance to win KAT tokens, the network's new governance and utility token.\n\nThough activity is limited at this private stage, early deposits are being incentivized through a lootbox-style reward system. Katana's public mainnet is expected to arrive at the end of June.\n\nRead more: Polygon Starts Aggregator Program, Successful Projects Will Airdrop Up to 15% Native Token to POL Stakers",
+    "url": "https://www.coindesk.com/tech/2025/05/28/polygon-gsr-release-katana-network-tackle-defi-fragmentation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Marc Boiron",
+                "Jakob Palmstierna"
+            ],
+            "positions": [
+                "CEO of Polygon Labs",
+                "President at GSR"
+            ],
+            "companies": [
+                "Polygon",
+                "GSR",
+                "Sushi",
+                "Morpho",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Polygon Labs",
+                "Katana Network"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "USDC",
+            "USDT",
+            "WBTC",
+            "KAT",
+            "POL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of Katana Network by industry heavyweights Polygon and GSR aims to solve DeFi fragmentation and create deep liquidity, which represents positive development and innovation in the cryptocurrency space."
+    }
+}

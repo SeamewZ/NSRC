@@ -1,0 +1,31 @@
+{
+    "title": "XRP Logged $400M DEX Volumes in January, Ripple’s Brad Garlinghouse Says",
+    "time": "2025-01-30T10:56:00",
+    "author": "Shaurya Malwa",
+    "summary": "The rapid expansion of the XRP Ledger's DEX was one of the key reasons that made 2024 “one of the most monumental years for Ripple.”",
+    "content": "Swap volumes on XRP Ledger’s decentralized exchange (DEX) crossed the $400 million mark in January as the network gains traction among larger players, Ripple Labs CEO Brad Garlinghouse said in a community call on Wednesday,\n\nVolumes average over $17 million daily this month, with over $1 billion since its 2024 launch.\n\nThe rapid expansion of the XRP Ledger's DEX was one of the key reasons that made 2024 “one of the most monumental years for Ripple,\" Garlinghouse said, alongside the \"early but promising traction\" of Ripple's US dollar-pegged stablecoin, RLUSD, along with multiple filings for proposed XRP exchange-traded funds (ETFs).\n\nSince November, the speculative optimism among traders has been that a crypto-friendly Trump administration could benefit tokens and products linked to U.S.-based companies, such as Ripple and its closely related XRP.\n\nXRP Ledger's DEX is built directly into the blockchain's functionality rather than being a separate application or smart contract on top of the blockchain, which is often the case with other blockchain-based DEXs (such as Uniswap or Pancakeswap).\n\nIt uses an order book system where users can place both limit and market orders for XRP and other assets issued on the XRP Ledger. These assets can include tokens or IOUs for various currencies or commodities.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/xrp-logged-usd400m-dex-volumes-in-january-ripple-s-brad-garlinghouse-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brad Garlinghouse"
+            ],
+            "positions": [
+                "Ripple Labs CEO"
+            ],
+            "companies": [
+                "Ripple Labs",
+                "Ripple"
+            ],
+            "organizations": [
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "RLUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights rapid expansion of XRP Ledger's DEX with $400M monthly volumes, describes 2024 as 'monumental' for Ripple, and mentions promising traction for RLUSD stablecoin and XRP ETF filings."
+    }
+}

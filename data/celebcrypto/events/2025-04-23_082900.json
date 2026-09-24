@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin Futures Open Interest Surge Shows Investor Confidence on Trade Deals, Powell",
+    "summary": "Bitcoin and ether saw notable price gains Tuesday as U.S. officials raised hopes for a U.S.-China trade deal.",
+    "time": "2025-04-23T08:29:00",
+    "author": "Omkar Godbole",
+    "content": "As bitcoin (BTC) and ether's (ETH) recovery rally gathered momentum Tuesday, the perpetual futures market saw an even more pronounced increase in open interest, pointing to growing investor confidence as the Trump administration dialed back on its trade-tariff, anti-Fed rhetoric.\n\nBTC, the leading cryptocurrency by market value, rose 6.79% nearly topping $94,000 for the first time since March, CoinDesk data show. That's the most significant single-day percentage gain since April 9. The Ethereum blockchain's ether token jumped 11% to $1,1175, it's best performance since April 2.\n\nThe rally came as U.S. Treasury Secretary Scott Bessent discussed de-escalation in U.S.-China trade tensions, followed by President Donald Trump saying tariffs on Chinese goods will drop substantially from the present 245%. Trump further said he does not intend to fire Federal Reserve Chair Jerome Powell.\n\nThe price surge was characterized by traders deploying money for perpetual futures trading on major offshore exchanges as evidenced by bigger increases in open interest at Binance, Bybit, OKX and Deribit and leading on-chain perpetual-focused decentralized exchange Hyperliquid.\n\nThe cumulative notional open interest, or the dollar value of the number of active bets in BTC perpetual futures, rose by 10% to $17.83 billion, according to data source Velo. That's the biggest single-day increase since March 2, when Trump mentioned XRP, ADA and SOL as potential candidates for a strategic digital assets reserve that would hold bitcoin and ether as the core. The administration later said it would keep bitcoin seized in enforcement actions as a reserve.\n\n\"Bitcoin's Open Interest surged faster than its Price, with most positions originating from Binance,\" Joao Wedson, CEO of Alphractal Research, said on X. \"The issue is that a large portion consists of Longs, so increased volatility is expected in the coming hours.\"\n\nThe price surge was likely aided by short squeeze, or unwinding of short perpetual futures bets. Funding rates were negative roughly 24 hours ago, implying a bias for shorts.\n\nEther's notional open interest jumped nearly 16% to $6.60 billion, the largest single-day increase since Nov. 27.\n\nAn increase in open interest alongside a price rise is said to confirm the bullish momentum. In other words, BTC and ETH could continue to rise.\n\nThe bias for bullish long positions is also evident from the moderately positive annualized perpetual funding rates, ranging between annualized 5% to 10% for BTC and ETH.\n\nFunding rates, charged every eight hours, are payments exchanged between traders holding long and short positions in perpetual futures. They are designed to ensure the contract price stays close to the underlying asset's spot price.\n\nA positive funding rate implies that traders are more inclined and willing to pay fees to hold long positions. As such, it's considered a sign of bullish sentiment. However, excessively high funding rates can indicate overcrowding or bullish speculative fervor, but that's not the case right now.",
+    "url": "https://www.coindesk.com/markets/2025/04/23/bitcoin-futures-open-interest-surge-shows-investor-confidence-on-trade-deals-powell",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Scott Bessent",
+                "Donald Trump",
+                "Jerome Powell",
+                "Joao Wedson"
+            ],
+            "positions": [
+                "U.S. Treasury Secretary",
+                "President",
+                "Federal Reserve Chair",
+                "CEO"
+            ],
+            "companies": [
+                "Binance",
+                "Bybit",
+                "OKX",
+                "Deribit",
+                "Hyperliquid",
+                "Alphractal Research"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Federal Reserve",
+                "CoinDesk",
+                "Velo"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "XRP",
+            "ADA",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price gains, increased open interest, growing investor confidence, and bullish momentum indicators for both Bitcoin and Ethereum."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Solana Block Traders See SOL Extending Gains, Surpassing $200 by End-June",
+    "time": "2025-05-12T09:56:00",
+    "author": "Omkar Godbole",
+    "summary": "Block traders piled into the $200 call option expiring on June 27.",
+    "content": "SOL, the native cryptocurrency of the Solana programmable blockchain has staged a sharp four-week rally, surging 85% since April 7 — more than double the pace of bitcoin (BTC) — and large options traders are positioning for further gains.\n\nThe token climbed to around $176 in recent days as crypto and traditional markets embraced a greater degree of risk. Bitcoin, the leading cryptocurrency by market value, has climbed 40%, CoinDesk data show.\n\nThe gains are unlikely to reverse in the near future, if block traders — primarily institutions and market participants that execute large trading orders over the counter and outside of the public order book — are correct. They have snapped up the Deribit-listed June 27 expiry SOL $200 call option in large numbers, a sign they expect the price to rise above that level before the end of the first half.\n\n\"Traders also got long the $200 June expiration last week. This was the biggest block trade, trading 50,000x contracts in total for $263,000 in premium,\" Greg Magadini, the director of derivatives at Amberdata, said in an email. On Deribit, one options contract represents one SOL.\n\nA call option gives the purchaser the right, but not the obligation, to buy the underlying asset at a predetermined price at a later date. A call buyer is implicitly bullish on the market. It's like buying a lottery ticket, where the holder has the chance to make significant gains if they win, while risking only the initial amount paid for purchasing the ticket.\n\nMagadini added that these call options were snapped up at an annualized implied volatility (IV) of 84%. In other words, traders timed it perfectly, snapping up calls while they were cheap as SOL's IV typically hovers in triple digits.\n\nData shows that the demand for the $200 call option has left market makers or dealers with a significant net negative gamma exposure at the strike price.\n\nMarket makers with a net negative gamma exposure typically buy as prices rise and sell during dips, aiming to rebalance their portfolios toward a delta-neutral, or market-neutral, position. Their hedging activities often amplify market swings.\n\nSo it's likely volatility will pick up as SOL potentially crosses the $200 mark.",
+    "url": "https://www.coindesk.com/markets/2025/05/12/solana-block-traders-see-sol-extending-gains-surpassing-usd200-by-end-june",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Greg Magadini"
+            ],
+            "positions": [
+                "director of derivatives"
+            ],
+            "companies": [
+                "Amberdata",
+                "Deribit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Large block traders are buying $200 call options expecting SOL to rise above that level, indicating strong institutional confidence in further price gains."
+    }
+}

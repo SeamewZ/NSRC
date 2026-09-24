@@ -1,0 +1,48 @@
+{
+    "title": "Prometheum Eyes U.S. Tokenization Boom With Acquisition and Fully Regulated Stack",
+    "time": "2025-05-27T12:26:00",
+    "author": "Krisztian Sandor",
+    "summary": "The firm has acquired a broker-dealer and launched a SEC-registered digital transfer agent as competition heats up in the tokenization sector.",
+    "content": "Prometheum, the controversial digital asset securities firm, is aiming to achieve a jumpstart in the lucrative tokenization boom, acquiring a broker-dealer and launching a digital transfer agent registered with the U.S. Securities and Exchange Commission, the company told CoinDesk exclusively.\n\nProFinancial, the firm’s newly acquired FINRA-member and SEC-registered broker-dealer, can offer primary sales of various securities products, giving issuers a pathway to raise capital directly in tokenized form. Prometheum Coinery, meanwhile, handles shareholder records and corporate actions both on and off the blockchain.\n\nThe additions build on existing services for custody, clearing, and secondary trading via its affiliated broker-dealers, Prometheum Capital and Prometheum ATS.\n\nWith the latest move, the company aims to position as one of the few U.S.-regulated players offering a vertically integrated route for bringing real-world assets into a blockchain-native format—a capability likely to become more critical as the tokenization trend matures.\n\n\"Securities, commodities, everything else is moving on-chain, and there needs to be an infrastructure for that. [There's] a pie that's going to grow significantly, just like everything went from paper to electronic,\" Aaron Kaplan, co-CEO told CoinDesk in an interview. \"We are in a prime position, in my opinion, to be a significant player in that growing ecosystem.\"\n\nThe expansion comes as asset tokenization emerges as one of the fastest-growing corners of crypto tech at a time when U.S. regulators signal a friendlier approach towards digital assets. Tokenization stands for using blockchain rails for moving and managing traditional instruments like bonds, funds and other securities, with global asset managers and banks increasingly getting involved to achieve operational efficiencies and cheaper, faster settlements. It's potentially a lucrative opportunity: the tokenized asset market could balloon to multiple trillion dollars over the next few years, a range of reports from BCG, Ripple, McKinsey, 21Shares projected.\n\nIt's no surprise then that tokenization firms are jockeying for position to seize the opportunity as the sector heats up. Recently, digital asset manager Superstate registered its transfer agent with the SEC and unveiled a tokenized equity trading platform. Securitize, a tokenization firm backed by BlackRock and Jump Crypto, purchased MG Stover's fund administration business, while financial services provider Apex Group last week announced the acquisition of tokenization specialist Tokeny.\n\nPrometheum, founded in 2017, made headlines over the past years with efforts to comply with the Gary Gensler-led SEC, known for its harsh stance towards crypto. The company also divided the digital asset industry with wanting to provide securities-focused services for cryptocurrencies like ether\nETH\n$3,605.07\n.\n\nWith the new entities, the firm is now able to offer a fully-integrated platform for tokenized securities, from initial issuance to secondary market trading and custody, all within U.S. securities laws, something that's difficult to achieve, Kaplan argued.\n\n\"It's a much bigger lift than what was done previously with these other [tokenization] firms,\" Kaplan said. Creating a digital token of an asset is the \"low-hanging fruit,\" while being able to handle trading and post-trading are \"exponentially harder,\" he explained.\n\n\"The harder parts are what we built first,\" he said. \"Other [firms] went the other route, which was the lowest hanging fruit first, and they've had a harder time transitioning the other way.\"\n\n\"So with this announcement, it's pretty clear that the low-hanging fruit is in our purview,\" he said.\n\nJesse Hamilton contributed reporting.",
+    "url": "https://www.coindesk.com/business/2025/05/27/prometheum-eyes-us-tokenization-boom-with-acquisition-and-fully-regulated-stack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aaron Kaplan",
+                "Jesse Hamilton",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "co-CEO"
+            ],
+            "companies": [
+                "Prometheum",
+                "ProFinancial",
+                "Prometheum Coinery",
+                "Prometheum Capital",
+                "Prometheum ATS",
+                "Superstate",
+                "Securitize",
+                "MG Stover",
+                "Apex Group",
+                "Tokeny",
+                "BlackRock",
+                "Jump Crypto",
+                "BCG",
+                "Ripple",
+                "McKinsey",
+                "21Shares"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "FINRA"
+            ]
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a growing tokenization sector with major institutional involvement, regulatory progress, and projections of a multi-trillion dollar market opportunity, indicating positive market development and confidence."
+    }
+}

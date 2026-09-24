@@ -1,0 +1,40 @@
+{
+    "title": "Do Kwon Criminal Trial Set for 2026 as Lawyers Deal with ‘Massive’ Trove of Evidence",
+    "summary": "Prosecutors are currently working to unlock four of Kwon’s cell phones provided by Montenegrin authorities.",
+    "time": "2025-01-08T19:00:00",
+    "author": "Cheyenne Ligon",
+    "content": "NEW YORK, NY — Terraform Labs co-founder and former CEO Do Kwon’s criminal fraud trial in the U.S. has been tentatively scheduled for next January, allowing prosecutors and Kwon’s defense attorneys adequate time to review the “massive” six-terabyte trove of data expected to be produced during the discovery process.\n\nDuring an initial hearing in Manhattan on Wednesday, lead prosecutor Jared Lenow told the court that the government expected to face additional delays due to challenges accessing encrypted information and unlocking four cell phones provided by Montenegrin authorities when they extradited Kwon to the U.S. on Dec. 31st. Lenow added that the government must also translate extracted material from Kwon’s native Korean.\n\n“Sounds like we’re going to be backing up a U-Haul to the Southern District,” District Judge Paul Engelmayer of the Southern District of New York (SDNY) quipped on Wednesday.\n\nEngelmayer said that scheduling the start date of a trial for over a year from the initial conference was \"unprecedented\" in his career as a judge. He told Kwon’s lead attorney, Michael Ferrara of Hecker Fink LLP, to ask his client — currently being held without bail in a local correctional facility after spending 22 months in custody in Montenegro – if he would rather have an earlier trial. Engelmayer gave the defense one week to request an earlier date in 2025.\n\nLast week, Kwon pleaded not guilty to a nine-count indictment charging him with securities fraud, wire fraud, commodities fraud and money laundering conspiracy stemming from the $40 billion implosion of the Terra/LUNA ecosystem in 2022.\n\nKwon and his company were charged with civil fraud by the U.S. Securities and Exchange Commission in 2023, and were subsequently found guilty by a New York jury. Together, they were ordered to pay $4.5 billion in penalties and disgorgement, with Kwon himself contributing $200 million. Terraform Labs has since filed for bankruptcy.\n\nThe next status conference in the case is scheduled for March 6 at 11 a.m. eastern time.",
+    "url": "https://www.coindesk.com/policy/2025/01/08/do-kwon-criminal-trial-set-for-2026-as-lawyers-deal-with-massive-trove-of-evidence",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Do Kwon",
+                "Jared Lenow",
+                "Paul Engelmayer",
+                "Michael Ferrara"
+            ],
+            "positions": [
+                "co-founder",
+                "former CEO",
+                "lead prosecutor",
+                "District Judge",
+                "lead attorney"
+            ],
+            "companies": [
+                "Terraform Labs",
+                "Hecker Fink LLP"
+            ],
+            "organizations": [
+                "Montenegrin authorities",
+                "Southern District of New York",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "LUNA",
+            "Terra"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ongoing legal proceedings against Do Kwon related to the $40 billion Terra/LUNA collapse, which represents continued negative fallout from one of crypto's largest failures."
+    }
+}

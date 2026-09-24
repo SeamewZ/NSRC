@@ -1,0 +1,31 @@
+{
+    "title": "Uniswap Passes $165M Funding Plan After DAO Vote",
+    "time": "2025-03-20T11:40:00",
+    "author": "Shaurya Malwa",
+    "summary": "Part of the steps toward sharing revenue would be to make the Uniswap DAO a legal entity.",
+    "content": "The Uniswap community has greenlit two governance proposals to propel the growth of the Unichain network and Uniswap V4 protocol.\n\nThe initiatives, dubbed \"Uniswap Unleashed,\" introduced a new grants program and liquidity incentives while hinting at initial steps for a “fee switch,” a long-contested protocol vote that would pay out a portion of trading fees to holders of Uniswap’s UNI.\n\nRelevant governance posts have not directly mentioned a fee switch but noted plans to “activate revenue.”\n\nThe foundation requested $95.4 million for its grants budget and $25.1 million for operations over two years, plus $45 million for liquidity incentives to attract users and fuel ecosystem growth through developer campaigns.\n\nBoth proposals passed with more than 80% of UNI token holders in favor, governance data shows.\n\nThe passage could now put into motion the fee-switch, a longtime community goal that would shift some protocol revenue — currently over $1 billion annually — from liquidity providers to UNI holders. Its activation, delayed by past failed votes, hinges on legal preparations by the foundation.\n\nThe proposal was initially proposed in July 2021 to pilot the switch for a small set of Uniswap protocol pools. The switch will not increase fees for users but will retain a small portion of what is currently paid out to liquidity providers (LP), or users who lock up their tokens on Uniswap in exchange for fee rewards.\n\nHowever, it could mean lesser fee earnings for Uniswap’s LPs and more rewards for holders of Uniswap’s native token UNI, which accrues value for UNI holders — leaving the proposal hanging for the past few years. One such vote failed to pass in 2023 after being voted against by influential token holders.\n\nPart of the steps toward sharing revenue would be to make the Uniswap Governance a legal entity, giving it clarity on legal status and the ability to contract with other protocols.\n\n“If our vetting is successful and we believe the creation of a legal entity for Uniswap Governance is in its best interest, we would propose to Governance to implement a legal entity structure,” the proposal said.\n\n“If adopted, this step would pave the way for the potential introduction (or re-introduction) of a governance proposal for delegators to earn Protocol revenue,” it noted.\n\nUPDATE (May 7, 16:20): Updated sub-headline to clarify Uniswap DAO will become a legal entity, not the foundation.",
+    "url": "https://www.coindesk.com/markets/2025/03/20/uniswap-passes-usd165m-funding-plan-after-dao-vote",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "liquidity providers",
+                "UNI token holders",
+                "delegators"
+            ],
+            "companies": [],
+            "organizations": [
+                "Uniswap community",
+                "Uniswap DAO",
+                "Uniswap Governance",
+                "Unichain network",
+                "Uniswap Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "UNI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the approval of a $165M funding plan that includes revenue sharing for UNI token holders and ecosystem growth initiatives, which indicates positive development and increased value accrual for token holders."
+    }
+}

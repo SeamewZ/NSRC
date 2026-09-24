@@ -1,0 +1,38 @@
+{
+    "title": "The Morning After: Bitcoin Slips Back Below $90K Following Crypto's Wild Sunday",
+    "time": "2025-03-03T15:29:00",
+    "author": "Stephen Alpher",
+    "summary": "President Trump's social media post on a crypto reserve sent markets soaring, but raised questions.",
+    "content": "President Trump set off the mother of short squeezes on Sunday with his crypto reserve post, but gains are quickly reversing during early U.S. trading on Monday.\n\nBitcoin\nBTC\n$103,810.99\nhas slipped about 5% in the past hour, now trading at $89,500. It's still up from roughly the $85,000 area prior to the president's social media post Sunday but down from as high as $95,000.\n\nThe other cryptos mentioned by Trump - ether, solana, XRP and cardano — all remain nicely higher from Sunday, but have also given back sizable portions of their gains.\n\n\"Nothing new here,\" wrote Arthur Hayes of Trump's crypto reserve posting. \"Just words. Let me know when they get congressional approval to borrow money and or revalue the gold price higher. Without that they have no money to buy bitcoins and shitcoins.\"\n\nAlso not feeling the love was Lekker Capital CIO Quinn Thompson, who notably nailed the bear move in crypto over the past weeks. \"If you're in crypto and cheering this, I don't know what to tell you,\" said Thompson on Sunday. \"There's just no way that legitimizing two of the largest grift and scams in the existence of the industry is a good thing. Can blame it on the [administration] being ignorant, misinformed or bought, but this ain't it.\"\n\n\"Trump admin about to give crypto traders the 10th sell the news opportunity of the year,\" he added.\n\nCrypto-related stocks are also in the process of giving back big early gains, among them Coinbase (COIN), Strategy (MSTR), Semler Scientific (SMLR) and Hut 8 (HUT).",
+    "url": "https://www.coindesk.com/markets/2025/03/03/the-morning-after-bitcoin-slips-back-below-usd90k-following-crypto-s-wild-sunday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump",
+                "Arthur Hayes",
+                "Quinn Thompson"
+            ],
+            "positions": [
+                "CIO"
+            ],
+            "companies": [
+                "Coinbase",
+                "Strategy",
+                "Semler Scientific",
+                "Hut 8",
+                "Lekker Capital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "solana",
+            "XRP",
+            "cardano"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin slipping 5% and giving back gains, with analysts expressing skepticism about the sustainability of Trump's crypto reserve announcement."
+    }
+}

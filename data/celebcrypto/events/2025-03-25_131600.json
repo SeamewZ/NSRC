@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin's $12B Quarterly Options Expiry Unlikely to Cause Major Market Reaction, Deribit Says",
+    "time": "2025-03-25T13:16:00",
+    "author": "Omkar Godbole",
+    "summary": "Key indicators such as BTC's implied volatility index and funding rates point to subdued volatility expectations.",
+    "content": "Bitcoin\nBTC\n$104,248.06\noptions worth billions of dollars will expire on Deribit on Friday. The impending settlement, though big, may not yield significant market volatility, the exchange told CoinDesk.\n\nMore than 139,000 BTC option contracts, worth $12.13 billion, representing nearly 45% of the total active BTC contracts across all expiries, are due for settlement this Friday, according to data source Deribit metrics.\n\nMore than 65% of the total open interest is concentrated in call options that provide buyers with an asymmetric bullish exposure, while the rest is in put options offering downside protection.\n\nQuarterly expiries of such massive magnitudes are known to breed market volatility, but that may not be the case this time, going by the continued decline in the bitcoin 30-day implied volatility index (DVOL). The index has dropped from an annualized 62% to 48% in the weeks leading up to the expiry, suggesting subdued volatility expectations.\n\nSimilar conclusions can be drawn from the annualized perpetual futures basis of around 5% on the exchange, signalling a calmer funding environment.\n\n\"Despite the size of the expiry, the overall setup—low DVOL, moderate basis, and balanced options positioning—points to a relatively subdued expiry unless external catalysts emerge,\" Luuk Strijers, CEO of Deribit, told CoinDesk.\n\nOptions skew, which measures the difference between implied volatility (pricing) for calls relative to puts, shows downside concerns in the lead-up to Friday's expiry.\n\nThat said, the broader outlook remains constructive.\n\n\"3-Day Put-Call Skew is Slightly Positive indicating some immediate downside protection demand while 30-Day Put-Call Skew is slightly Negative indicating a more bullish outlook over the medium term,\" Strijers said.\n\nAlso expiring Friday are ether\nETH\n$3,513.78\noptions worth $2.8 billion.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/bitcoin-s-usd12b-quarterly-options-settlement-looks-balanced-and-might-be-subdued-deribit-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news indicates subdued volatility expectations with low implied volatility, moderate basis, and balanced options positioning pointing to a relatively subdued expiry."
+    }
+}

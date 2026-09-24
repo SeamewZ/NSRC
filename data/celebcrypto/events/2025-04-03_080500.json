@@ -1,0 +1,38 @@
+{
+    "title": "U.S. Recession Odds Surge in Prediction Markets on Tariff Shock. What Next for BTC?",
+    "time": "2025-04-03T08:05:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders on Polymarket and Kalshi are pricing in an over-50% chance of a U.S. recession this year.",
+    "content": "U.S. recession fears are in the air following President Donald Trump's tariff plan, with prediction platforms Polymarket and Kalshi indicating heightened concerns the economy will take a hit.\n\nOn Polymarket, a decentralized prediction platform, the chance of the country slipping into recession this year topped 50% for the first time since the betting contract \"US Recession in 2025\" began trading early this year. The contract's Yes shares soared to over 50 cents from 39 cents in less than 24 hours.\n\nThe contract will resolve to Yes if the National Bureau of Economic Research (NBER) confirms a recession at any point before Dec. 31. The other condition requires back-to-back quarterly contractions in gross domestic product.\n\nKalshi, a U.S.-based regulated prediction market, also points to heightened economic concerns among traders, with the probability of a 2025 recession rising to 54% from 40% .\n\nFinancial markets tend to be forward-looking and may react to rising U.S. recession odds by sending risk assets such as bitcoin (BTC) and other cryptocurrencies lower. At publication time, the S&P 500 futures traded 3% lower, pointing to severe risk aversion on Wall Street and offering bearish cues to bitcoin, which changed hands at $83,100, 1.5% lower in 24 hours.\n\nThe sweeping tariffs unveiled Wednesday set a base rate of 10% on all imports, plus higher taxes on 60 nations identified as worst offenders. China, the most heavily hit, warranted a 34% levy on top of the existing 20% charge, taking the total to 54%. The base tariffs go into effect on April 5 and the higher reciprocal rates on April 9.\n\nWhile the Trump administration expects tariffs to rectify the large and persistent U.S. goods trade deficits, in the short run, they could add to domestic inflation and global instability. The latter could happen immediately if China, the European Union and others hit back with higher tariffs, starting a full-blown global trade war.\n\nStill, some observers say the tariff uncertainty might lead only to an economic slowdown rather than a full-blown recession.\n\n\"The threat of further tariff escalation remains a key concern, but our economic forecasts do not call for a recession in the US,\" UBS said in a blog post. \"In our base case, a wide range of selective tariffs and counteractions are likely to lead to slower economic growth compared to last year, but they should not prevent the US economy from expanding by around 2%—its historical trend rate—this year.\"\n\nAs for financial markets, some observers say the tariffs are dovish, meaning the initial risk-off reaction could be short-lived and quickly reversed by expectations of Federal Reserve interest-rate cuts.\n\n\"Remember - tariffs are dovish, and big tariffs are very dovish,\" Joseph Wang, operator of the research portal fedguy.com said on X, referring to his November post that detailed how big tariffs would lead to more rate cuts.\n\nWang argued that while tariffs are inflationary, they can be mitigated through foreign-exchange rates and are ultimately transitory. Meanwhile, damage to the business sentiment can be long-lasting, leading to unemployment, which the Fed would want to avoid.\n\nRates traders are already pricing a higher probability that the Fed will cut the benchmark borrowing cost in June, restarting the so-called easing cycle that began in September last year.",
+    "url": "https://www.coindesk.com/markets/2025/04/03/u-s-recession-odds-surge-in-prediction-markets-on-tariff-shock-what-next-for-btc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Joseph Wang"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Polymarket",
+                "Kalshi",
+                "UBS",
+                "fedguy.com"
+            ],
+            "organizations": [
+                "National Bureau of Economic Research",
+                "NBER",
+                "Federal Reserve",
+                "Fed",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that rising U.S. recession odds may send risk assets such as bitcoin lower, with bitcoin already trading 1.5% lower and S&P 500 futures down 3%, indicating severe risk aversion."
+    }
+}

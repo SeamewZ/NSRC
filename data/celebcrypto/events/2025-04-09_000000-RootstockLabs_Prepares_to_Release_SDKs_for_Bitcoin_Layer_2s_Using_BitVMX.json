@@ -1,0 +1,39 @@
+{
+    "title": "RootstockLabs Prepares to Release SDKs for Bitcoin Layer 2s Using BitVMX",
+    "summary": "Rootstock founder Sergio Lerner sees Bitcoin layers-2s as fundamental to BTC fulfilling its purpose of being \"money for the people\"",
+    "time": "2025-04-08T16:00:00",
+    "author": "Jamie Crawley",
+    "content": "One of the oldest Bitcoin ecosystem projects is moving to the next stage of enabling developers to build layer-2 networks using its computational layer.\n\nRootstock is one of many projects currently advancing the goal of bringing greater utility and interoperability to Bitcoin, which it is doing using \"BitVMX\", a modified version of the BitVM programming language.\n\nRootstockLabs project is weeks away from releasing software development kits (SDKs), allowing developers to start producing their own Bitcoin layer-2s using BitVMX, founder Sergio Lerner told CoinDesk.\n\nSDKs are sets of tools enabling third-parties to build applications using a particular platform or framework.\n\n\"We are very close to having all the pieces ready for people to start building their own solutions on top of BitVMX,\" Lerner said in an interview.\n\nRootstockLabs' BitVMX project harnesses the BitVM paradigm introduced by Robin Linus in 2023 as a design for how Ethereum-style smart contracts could be built on Bitcoin. This could then greatly improve Bitcoin's scalability through enabling the building of faster, layer-2 networks with programmability similar to what's possible on Ethereum and other blockchains.\n\nAlongside BitVMX contributors Fairgate, RootstockLabs last year made a breakthrough in using BitVMX to verify a zero-knowledge SNARK (Succinct Non-Interactive Argument of Knowledge), an integral aspect of cryptography in many blockchain systems.\n\nThe availability of tools for other developers to explore these capabilities further will drive competition and thus increase adoption, according to Lerner.\n\n\"There is a difference between a product and a platform: a product is closed but a platform is something you can easily plug in to and develop your own ideas on top of,\" he said.\n\n\"BitVMX is becoming a platform, which means there will be a lot more competition: rollups and sidechains competing against each other and the ones that can find use cases for people to power their tools will win.\"\n\nLerner, a a Buenos Aires-based programmer, is best known for his research on Bitcoin in its early years and his later contribution to the development on Ethereum.\n\nHe told CoinDesk he fears that Bitcoin will not fulfill the purpose for which he says it was created – becoming a \"money for the people\" – if it remains just a store of value.\n\n\"If all BTC just end up in ETFs, they will all be controlled by financial institutions and there will be no more Bitcoin as we know it,,\" he said.\n\n\"So we all need to be making bitcoin payments and holding our own BTC in self custody. That's why we thought creating layers for Bitcoin is the right approach and I think the key for this is BitVM protocols, especially BitVMX.\"\n\nRootstockLabs and Fairgate have formed an alliance to expand Bitcoin's utility using BitVMX, which also involves blockchain infrastructure engineering firm Input | Output (IO).\n\n\"BitVMX Force\" will focus on standardization and protocol enhancements to help smooth out future Bitcoin soft-forks and infrastructure improvements as they occur, according to an emailed announcement shared with CoinDesk Tuesday.\n\n\"Rootstock and IO both have their own initiatives: Rootstock is building Union, which is a bridge between Bitcoin and Rootstock based on BitVMX and IO is working on a project to move assets from Bitcoin to Cardano and back again,\" Fairgate CEO Jonatan Altszul said in an interview.\n\n\"Fairgate is pushing this technology as well and we thought that together we will have more firepower, more strength, more capacity to create a larger community.\"",
+    "url": "https://www.coindesk.com/tech/2025/04/08/rootstock-prepares-to-release-sdks-for-bitcoin-layer-2s-using-bitvmx",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sergio Lerner",
+                "Robin Linus",
+                "Jonatan Altszul"
+            ],
+            "positions": [
+                "founder",
+                "CEO",
+                "programmer"
+            ],
+            "companies": [
+                "RootstockLabs",
+                "Fairgate",
+                "Input | Output (IO)",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "BitVMX Force"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Cardano"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technological advancements that enable greater utility, scalability, and interoperability for Bitcoin through layer-2 networks, which is positive for adoption and market confidence."
+    }
+}

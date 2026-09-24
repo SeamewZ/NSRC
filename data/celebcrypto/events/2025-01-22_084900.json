@@ -1,0 +1,34 @@
+{
+    "title": "Ethereum Core Developer Eric Conner Departs as Vitalik Dismisses Calls for Leadership Change",
+    "summary": "Conner is joining AI-focused networks Fresya.AI.",
+    "time": "2025-01-22T08:49:00",
+    "author": "Parikshit Mishra",
+    "content": "Eric Conner, a prominent core developer at Ethereum, has left the ecosystem community after a nearly 11-year affiliation citing network co-founder Vitalik Buterin's dismissal of a leadership shake-up proposal.\n\nConner is a co-author of EIP-1559, the major network change that shifted how transaction fees worked on Ethereum. He isn't officially employed by Ethereum but has advised, invested, and was among those who led the charge on ecosystem growth since its early days.\n\nConner is joining AI-focused protocol Fresya.AI, he said in a follow-up X post.\n\nButerin swatted calls for changing the leadership structure at the Ethereum Foundation, which oversees the development of the second-largest blockchain by market cap.\n\nButerin said on X that he wants to create a \"board\" to manage the foundation, but until then he is the leader. Buterin's comment came amid calls by ecosystem stakeholders for a change in the network's leadership with founding member Anthony Donofrio opining that the blockchain has lost its way.\n\nThe network is also planning to roll-out its Pectra upgrade, which promises speed efficiency and other improvement, in March.",
+    "url": "https://www.coindesk.com/tech/2025/01/22/ethereum-core-developer-eric-conner-departs-as-vitalik-dismisses-calls-for-leadership-change",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Conner",
+                "Vitalik Buterin",
+                "Anthony Donofrio"
+            ],
+            "positions": [
+                "core developer",
+                "co-author",
+                "network co-founder",
+                "founding member"
+            ],
+            "companies": [
+                "Fresya.AI"
+            ],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The departure of a prominent core developer and internal leadership disputes suggest potential instability in Ethereum's development team."
+    }
+}

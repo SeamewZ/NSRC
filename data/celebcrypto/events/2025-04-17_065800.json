@@ -1,0 +1,27 @@
+{
+    "title": "Quantum Computing Group Offers 1 BTC to Whoever Breaks Bitcoin's Cryptographic Key",
+    "summary": "Quantum computers can rapidly break the cryptographic algorithms that secure blockchain networks.",
+    "time": "2025-04-17T06:58:00",
+    "author": "Sam Reynolds",
+    "content": "Project Eleven, a quantum computing research and advocacy firm, has launched the Q-Day Prize, a global competition offering 1 bitcoin\nBTC\n$102,205.43\nto the first team able to break an elliptic curve cryptographic (ECC) key, the cryptography which secures the Bitcoin network, using Shor’s algorithm on a quantum computer.\n\nShor's algorithm is a quantum computing method that efficiently factors large numbers into their prime components, theoretically allowing quantum computers to break cryptographic algorithms like RSA and elliptic-curve cryptography used in Bitcoin and other blockchain networks.\n\nThe contest comes as quantum computing advancements mean that a workable quantum computer might only be years away. Project Elevent has also identified more than 10 million bitcoin addresses with non-zero balances potentially at risk of quantum attacks.\n\nThe Bitcoin community is aware of the quantum computing threat and is working on solutions.\n\nAs CoinDesk previously reported, a Bitcoin Improvement Proposal (BIP), titled Quantum-Resistant Address Migration Protocol (QRAMP), was introduced in early April, which suggests enforcing a network-wide migration to post-quantum cryptography to safeguard Bitcoin wallets. This would require a hard fork, however, and getting that sort of consensus would be an uphill battle.\n\nQuantum startup BTQ has also proposed its own solution: a quantum-based alternative to Bitcoin’s Proof of Work called Coarse-Grained Boson Sampling (CGBS).\n\nCGBS works by using quantum computing to generate unique patterns of photons (light particles called bosons), replacing traditional mining puzzles with quantum-based sampling tasks for validation.\n\nBut BTQ's CGBS also requires a hard fork, and the appetite for such a change isn’t yet known.",
+    "url": "https://www.coindesk.com/tech/2025/04/17/quantum-computing-group-offers-1-btc-to-whoever-breaks-bitcoin-s-cryptographic-key",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Project Eleven",
+                "BTQ"
+            ],
+            "organizations": [
+                "Bitcoin community"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a quantum computing threat to Bitcoin's cryptographic security and mentions millions of bitcoin addresses at risk, which creates security concerns and potential market uncertainty."
+    }
+}

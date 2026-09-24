@@ -1,0 +1,51 @@
+{
+    "title": "Bitcoin Mining Stocks With AI Ambition Battered 20%-30% Lower as Nvidia's Plunge Grips Crypto",
+    "time": "2025-01-27T22:23:00",
+    "author": "Krisztian Sandor",
+    "summary": "The selloff could provide traders an attractive entry opportunity in higher-beta altcoins such as Solana's SOL, which endured a double-digit pullback, one analyst said.",
+    "content": "Bitcoin\nBTC\n$104,055.88\nmanaged a minor bounce of its worst levels of the day, but the bitcoin mining stocks were unable to reverse any of their plunge as Chinese AI startup DeepSeek threw into question ideas that the miners had value as data center plays.\n\nThe largest cryptocurrency was recently trading at $101,500, up from earlier lows around $98,000 and still down 3% over the past 24 hours. The broader market gauge CoinDesk 20 Index fell 5.6%, dragged lower by double-digit losses of AI-adjacent tokens\nRNDR\n$1.9529\nand\nFIL\n$1.4807\n. Solana, which is a key hub for crypto AI agent tokens, also fell over 10%.\n\nThe sharp move down liquidated nearly $1 billion of leveraged derivatives positions across crypto assets, CoinGlass data shows.\n\nThe Nasdaq closed the session 3% lower, with Nvidia leading losses with a 17% plunge, erasing $465 billion of its market value in a day. Today's move also reinforced bitcoin's tight correlation with tech stocks, Standard Chartered Bank's digital asset research head Goeffrey Kendrick noted.\n\nThe broad-market pullback didn't spare crypto-adjacent stocks, as crypto exchange Coinbase (COIN) and investment firm Galaxy (GXY) closed the day 6.7% and 15.8% lower. MicroStrategy, the largest corporate bitcoin holder, held up relatively well with a 1.5% decline.\n\nBitcoin mining stocks suffered even steeper losses, with large-cap miners Riot Platforms (RIOT), MARA Holdings (MARA) plunging 8.7% and 16%, respectively.\n\nMiners that pivoted to high-performance computing to provide infrastructure for artificial intelligence (AI) training fared even worse. Core Scientific (CORZ), TeraWulf (WULF), Bitdeer (BTDR) and Cipher Mining (CIPH), Applied Digital Corporation (APLD) all endured 25%-30% declines through the day.\"It seems that the crypto markets and AI supply chain-linked stocks — such as the Nuclear ETF, which had risen 20% over the past month leading up to today — reached a point where they needed an 'event' to trigger a profit-taking correction after pricing in a significant amount of 'good news,'\" said Aurelie Barthere, principal research analyst at blockchain intelligence firm Nansen.\n\nMarket participants will focus on this week's Federal Reserve meeting and large tech firms' earnings reports. Corporate earnings have been strong so far, but the coming reports from Nvidia and other big tech firms \"will need to beat expectations to sustain the momentum,\" Barthere said.\n\nThe Monday selloff could also provide an attractive entry opportunity for altcoin investors who missed out on the crypto rally following Donald Trump's election victory, Barthere added, \"particularly in higher-beta crypto tokens like solana\nSOL\n$159.57\n, which have experienced steeper sell-offs compared to BTC.\"\n\nRead more: Bitcoin's DeepSeek-Triggered Selloff Is a Buy the Dip Opportunity, Analysts Say",
+    "url": "https://www.coindesk.com/markets/2025/01/27/bitcoin-mining-stocks-with-ai-ambition-battered-20-30-lower-as-nvidia-s-plunge-grips-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Goeffrey Kendrick",
+                "Aurelie Barthere",
+                "Donald Trump"
+            ],
+            "positions": [
+                "digital asset research head",
+                "principal research analyst"
+            ],
+            "companies": [
+                "Nvidia",
+                "Coinbase",
+                "Galaxy",
+                "MicroStrategy",
+                "Riot Platforms",
+                "MARA Holdings",
+                "Core Scientific",
+                "TeraWulf",
+                "Bitdeer",
+                "Cipher Mining",
+                "Applied Digital Corporation",
+                "DeepSeek"
+            ],
+            "organizations": [
+                "Standard Chartered Bank",
+                "CoinDesk",
+                "Nansen",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "RNDR",
+            "FIL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across cryptocurrencies, massive liquidations, and steep losses in crypto-related stocks, indicating a negative market event."
+    }
+}

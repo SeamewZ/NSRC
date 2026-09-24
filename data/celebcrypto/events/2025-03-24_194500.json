@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin ATM Business Remained Sluggish Through Bull Market",
+    "time": "2025-03-24T19:45:00",
+    "author": "Tom Carreras",
+    "summary": "Bitcoin Depot has booked roughly $3 billion in transactions since its inception in 2016.",
+    "content": "Bitcoin\nBTC\n$104,638.42\nmay have surged above the $100,000 mark last year, but not all bitcoin-centric businesses benefitted from the price action.\n\nBitcoin Depot (BTM), a firm that specializes in selling bitcoin ATMs, has seen a revenue loss from $150 million in the fourth quarter of 2022 to $137 million in the fourth quarter of 2024.\n\nThe lower transaction volume was primarily due to regulatory changes in the state of California, the firm told CoinDesk. Furthermore, Bitcoin Depot's cash flow has historically been uncorrelated to bitcoin’s price action, contended Brandon Mintz, the firm’s president and CEO.\n\n“Even when we saw that crash in 2022, transaction volumes were still growing,” he said.\n\nBitcoin Depot's stock is down roughly 85% since it began trading on the Nasdaq after its merger with a special purpose acquisition company (SPAC) in 2023. The company's market capitalization stands at $82 million.\n\nThe firm dismissed the idea that spot bitcoin exchange-traded funds, which launched in the U.S. in January 2024, may have siphoned some of the firm's flows. \"Historically, our business is not directly tied to bitcoin price or investment vehicles like ETFs,\" said a spokesperson in an emailed statement. \"We haven’t seen evidence that ETFs have impacted our transaction volumes.\"\n\nBitcoin Depot, Mintz said, tends to serve unbanked Americans, as well as people who simply prefer to transact in cash, elderly folks who aren’t used to using online payment options, and crypto folks who find giving cash for bitcoin more convenient. “It’s a niche customer segment that we're focused on,” Mintz said.\n\nBitcoin Depot buys the ATM kiosk from another company, but supplies the machine’s Bitcoin software. Prices for brand new machines typically range from $5,000 to $7,000, and it takes about a year for the company to break even on the cost of a machine once it has been installed.\n\nThe ATMs only sell bitcoin. “We used to offer other cryptocurrencies, but when we went public the SEC was suing a lot of companies for selling other types of cryptos that the SEC claimed were potentially securities, so we decided to go Bitcoin only and avoid that risk,” Mintz said. “We believe it was a smart choice, because we're attracting people that aren’t very sophisticated traders — this is a very beginner-friendly product.”\n\nBitcoin Depot has seen almost $3 billion in transaction volume since inception in 2016, the company’s recent investor presentation shows. While the company has been mostly focused on North America, Mintz floated the idea of expanding internationally.\n\nCORRECTION: (March 24, 2025, 20:35 UTC): Fixed BTM's market capitalization.\nCORRECTION: (March 24, 2025, 23:56 UTC): While Bitcoin Depot is looking into expanding internationally, it is not doing so because of market saturation.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/bitcoin-atm-business-remained-sluggish-through-bull-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brandon Mintz"
+            ],
+            "positions": [
+                "president and CEO"
+            ],
+            "companies": [
+                "Bitcoin Depot",
+                "Nasdaq"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes declining revenue and transaction volumes for Bitcoin Depot despite bitcoin's price surge, indicating negative performance in the bitcoin ATM sector."
+    }
+}

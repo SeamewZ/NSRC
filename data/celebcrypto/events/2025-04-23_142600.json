@@ -1,0 +1,35 @@
+{
+    "title": "Hedge Funds Going On-Chain: The “Indexification” of Active Strategies",
+    "time": "2025-04-23T14:26:00",
+    "author": "Miguel Kudry",
+    "summary": "Crypto’s influence is expanding from individual assets to the very structure of asset management, says L1’s Miguel Kudry.",
+    "content": "In an earlier piece, I introduced the concept of the \"Shopification of Wealth\", or the idea that on-chain rails can lower the barriers to entry and radically scale operations for financial advisors and wealth managers. Just as Shopify enabled anyone to launch a retail business online, crypto is enabling a new generation of investment professionals to start and scale advisory businesses without the legacy layers of TradFi infrastructure.\n\nThis democratization of advice foreshadows broader changes in asset management. Because when you zoom out — beyond the advisor and beyond the assets — you start to see something else: a transformation in the investment strategies themselves, as well as in the machinery behind them.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nBeyond advice, crypto and tokenization are poised to re-engineer entire asset classes by making assets globally accessible, fractionalized, composable and tradable 24/7. Consider stablecoins, which in 2024 facilitated $27.6 trillion in on-chain transfers, surpassing the combined volume of Visa and Mastercard. The efficiency is clear: transactions settle instantly worldwide, with far lower friction and downtime. Even traditionally staid products like money market funds are going on-chain. Traditional money market funds charge around 10 to 25 basis points in fees, whereas crypto rails can trim those costs substantially. One Boston Consulting Group study estimates fund tokenization could add around17 basis points of annual return (or roughly $100 billion per year globally) by eliminating operational inefficiencies. In short, tokenization is making markets always-open and hyper-efficient, unlocking assets for a global investor base.\n\nIt’s now a consensus view that tokenization also brings greater asset transparency. On-chain reserves and transactions are often auditable in real-time. However, active investment strategies and managers remain a black box. We can monitor tokenized assets on-chain, but the logic of how portfolios are managed is still opaque when strategies reside off-chain. While anyone can inspect a DeFi lending contract’s holdings, one cannot yet peer into a hedge fund’s flows, allocations and economics the same way. The next frontier is bringing that same transparency and composability to the strategies and their managers themselves, not just the underlying assets.\n\nHedge funds are privately managed pools of capital employing complex trading and risk management techniques to seek absolute returns. Globally, hedge funds oversee trillions in assets across strategies ranging from equities and credit to global macro and quant models. Their investor base is almost entirely institutional investors and ultra-high-net-worth (UHNW) individuals, often accessed through private banks or feeder funds. Direct investment typically requires being an accredited or qualified investor, with typical minimum commitments of $1 million or more (elite funds frequently demand $5 million to $10 million).\n\nMany investors gain exposure via fund-of-funds, which bundle multiple hedge funds for diversification but add another layer of fees, often ~1 to 1.5% annual management fees, plus 10% of performance on top of the underlying funds’ “2 and 20” fee structure. These vehicles remain opaque, disclosing minimal information about holdings or trades. Investors must trust managers who provide only periodic and partial insight into their strategies. Access is exclusive and information is scarce.\n\nTo view the rest of the article, please click here.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/23/hedge-funds-going-on-chain-the-indexification-of-active-strategies",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Miguel Kudry"
+            ],
+            "positions": [
+                "financial advisors",
+                "wealth managers",
+                "investment professionals",
+                "professional investor",
+                "managers"
+            ],
+            "companies": [
+                "Shopify",
+                "Visa",
+                "Mastercard",
+                "Boston Consulting Group"
+            ],
+            "organizations": [
+                "L1",
+                "DeFi"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes crypto enabling democratization of financial services, massive transaction volumes surpassing traditional payment networks, and significant efficiency gains through tokenization that could add billions in annual returns globally."
+    }
+}

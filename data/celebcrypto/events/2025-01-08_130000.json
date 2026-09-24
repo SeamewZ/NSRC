@@ -1,0 +1,30 @@
+{
+    "title": "StarkWare Launches Appchains on Starknet with New Developer Toolkit",
+    "summary": "The “SN Stack” enables developers to create blockchains for specific crypto use cases, potentially bringing StarkWare's technology to a variety of chains.",
+    "time": "2025-01-08T13:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Appchains are launching on Starknet, the layer-2 blockchain on Ethereum known for its embrace of zero-knowledge (ZK) cryptography. StarkWare, the primary developer of Starknet, shared the news on Wednesday, telling CoinDesk that its \"SN Stack\" will let developers easily build blockchains tailored to specific crypto use cases.\n\nStarkWare originally announced in July 2023 that it was building a customizable stack for developers to create their own blockchains. The announcement followed similar releases from several of StarkWare's competitors—other layer-2 blockchains that scale Ethereum's capacity by offering users side lanes to transact quickly and cheaply.\n\nStarkWare, founded in 2018, was one of the first layer-2 scaling solutions to adopt ZK cryptography — an encryption technique that's rapidly become one of the core technologies undergirding many next-generation blockchains. Compared to \"optimistic\" layer-2 networks — the rollup technology used by most Ethereum scaling chains — ZK-based chains like StarkWare are viewed as more advanced and secure, albeit more difficult to build, more expensive and harder to scale to generalized use cases.\n\n“From now on, projects will be able to build app-chains using the gold-standard ZK-STARK cryptography with the ease and low cost that has only been possible with optimistic rollups,” StarkWare co-founder and CEO Eli Ben-Sasson said in a statement shared with CoinDesk.\n\nThe SN stack has various options meant to cater to different kinds of developers. According to a press release shared with CoinDesk, “developers can choose between Madara, an open-source and modular framework built for flexibility, Dojo, optimized for gaming and on-chain applications, or the StarkWare Sequencer, which provides the full, high-performance infrastructure of public Starknet.”\n\nRead more: StarkWare’s ‘Starknet Stacks’ Could Add to Growing Field of Blockchain-in-a-Box Offerings",
+    "url": "https://www.coindesk.com/tech/2025/01/07/starkware-launches-appchains-on-starknet-with-new-developer-toolkit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eli Ben-Sasson"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "StarkWare",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Starknet"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of new developer tools enabling easier blockchain creation with advanced ZK-STARK cryptography represents technological progress and expanded capabilities for the crypto ecosystem."
+    }
+}

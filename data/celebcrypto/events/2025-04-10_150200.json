@@ -1,0 +1,33 @@
+{
+    "title": "Block Agrees to $40M Settlement With New York Over Faulty Money-Laundering Controls",
+    "summary": "The payments and blockchain firm has agreed to an outside monitor as it resolves its compliance with New York regulations.",
+    "time": "2025-04-10T15:02:00",
+    "author": "Jesse Hamilton",
+    "content": "Block Inc. has agreed to pay $40 million to settle accusations from the New York Department of Financial Services that the company didn't properly manage its money-laundering safeguards, according to a statement from the regulator on Thursday.\n\nBlock, which operates Cash App for peer-to-peer transactions and was formerly known as Square Inc., is under orders from the New York regulator to fix any shortcomings and to submit to an outside monitor. The regulator noted that the blockchain and payments business' \"lax treatment of high-risk bitcoin transactions\" in past years let effectively anonymous transactions through its system.\n\n\"The rapid growth of Block’s Cash App absent a robust compliance function created risk and vulnerabilities that violated the rules financial services companies operating in New York must adhere to,\" NYDFS Superintendent Adreienne Harris said in the statement. \"The department is taking decisive steps to ensure accountability, including the appointment of an independent monitor to oversee corrective measures.”\n\nIn a statement from Block, the company said it didn't admit to any of the findings in the New York case, but it's \"pleased to put this matter behind us.\"\n\n\"Following our recent settlement with our other state money transmission regulators, we have now reached an agreement with the final remaining state money transmission regulator, New York Department of Financial Services, to resolve a matter principally related to Cash App’s past compliance program,\" the company said.\n\nThe regulator's examinations covered a period spanning 2021 and 2022 at the company founded by Jack Dorsey, and the resulting consent order noted \"serious compliance deficiencies\" that had created \"a high-risk environment vulnerable to exploitation by criminal actors.\"\n\nSince 2018, Block has held a New York BitLicense to conduct digital assets operations in the state.\n\nRead More: Jack Dorsey's Square to Invest More in Bitcoin Mining and Shut Decentralized 'Web5' Venture",
+    "url": "https://www.coindesk.com/policy/2025/04/10/block-agrees-to-usd40m-settlement-with-new-york-over-faulty-money-laundering-controls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Dorsey",
+                "Adreienne Harris"
+            ],
+            "positions": [
+                "NYDFS Superintendent"
+            ],
+            "companies": [
+                "Block Inc.",
+                "Cash App",
+                "Square Inc."
+            ],
+            "organizations": [
+                "New York Department of Financial Services"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory enforcement action, compliance failures, and a $40 million settlement related to money-laundering controls for cryptocurrency transactions."
+    }
+}

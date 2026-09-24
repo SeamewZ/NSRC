@@ -1,0 +1,42 @@
+{
+    "title": "Movement Labs and Mantra Scandal Are Shaking up Crypto Market-Making",
+    "summary": "Forced liquidations, hidden contracts, and backchannel deals are prompting a rethink in how liquidity is structured — and who gets trusted.",
+    "time": "2025-05-17T08:41:00",
+    "author": "Shaurya Malwa",
+    "content": "Two of the year’s most chaotic token blowups — Movement Labs’ MOVE scandal and the collapse of Mantra’s OM — are sending shockwaves through crypto’s market-making businesses.\n\n\"These scandals have definitely changed trust dynamics between market makers and project teams, where trust is no longer assumed—it's engineered,\" Zahreddine Touag, Head of Trading at Woorton, said over a Telegram message on Friday.\n\n\"Market makers -- especially those providing balance sheet-intensive support -- will now insist on full disclosure of side agreements, token grants, and any preferential economic rights,\" Touag added.\n\nIn both cases, rapid price crashes revealed hidden actors, questionable token unlocks, and alleged side agreements that blinded market participants, with OM falling more than 90% within hours late April on no apparent catalyst.\n\nUnlike traditional finance, where market makers provide orderly bid-ask spreads on regulated venues, crypto market makers often operate more like high-stakes trading desks.\n\nThey're not just quoting prices; they’re negotiating pre-launch token allocations, accepting lockups, structuring liquidity for centralized exchanges, and sometimes taking equity or advisory stakes.\n\nThe result is a murky space where liquidity provision is entangled with private deals, tokenomics, and often, insider politics.\n\nA CoinDesk exposé in late April showed how some Movement Labs executives colluded with their own market maker to dump $38 million worth of MOVE in the open market.\n\nNow, some firms are questioning whether they’ve been too casual in trusting counterparties. How do you hedge a position when token unlock schedules are opaque? What happens when handshake deals quietly override DAO proposals?\n\n“Our approach now includes more extensive preliminary discussions and educational sessions with project teams to ensure they thoroughly understand market-making mechanics,” Hong Kong-based Metalpha’s market-making division told CoinDesk in an interview.\n\n“Our deal structures have evolved to emphasize long-term strategic alignment over short-term performance metrics, incorporating specific safeguards against unethical behavior such as excessive token dumping and artificial trading volume,\" it said.\n\nBehind the scenes, conversations are intensifying. Deal terms are being scrutinized more carefully. Some liquidity desks are reevaluating how they underwrite token risk.\n\n\"Recent developments have prompted a recalibration—not a reinvention—of how B2C2 assesses counterparty risk in our market-making,\" Dean Sovolos, Chief Legal Officer at B2C2, told CoinDesk in a Telegram message.\n\n\"Historically, when I first joined B2C2 in 2021, much of the crypto market operated on a blend of informal trust and aggressive risk appetite. That paradigm has shifted, especially of late. Post-Q1, B2C2 is seeing a marked pivot toward institutional-grade rigor: enhanced legal diligence, enforceable tokenomics terms, and clear contingency frameworks for breaches or deviations from disclosed unlock schedules,\" he said.\n\n\"The Movement and Mantra incidents didn’t create new risks—they revealed how latent those risks remain in poorly governed token ecosystems. We’re responding with stronger contract architecture, but also better integration between legal terms and technical enforcement mechanisms,\" Sovolos stated.\n\nOthers are demanding stricter transparency — or walking away from murky projects altogether.\n\n“Projects no longer accept prestigious reputations at face value, having witnessed how even established players can exploit shadow allocations or engage in detrimental token selling practices,” Metalpha’s head of Web3 ecosystem Max Sun noted.\n“The era of presumptive trust has concluded,” he claimed.\n\nBeneath the polished surface of token launch announcements and market-making agreements lies another layer of crypto finance — the secondary OTC market, where locked tokens quietly change hands well before vesting cliffs hit the public eye.\n\nThese under-the-table deals, often struck between early backers, funds, and syndicates, are now distorting supply dynamics and skewing price discovery, some traders say. And for market makers tasked with providing orderly liquidity, they’re becoming an increasingly opaque and dangerous variable.\n\n“The secondary OTC market has changed the dynamics of the industry,” said Min Jung, analyst at Presto Research, which runs a market-making unit. “If you look at tokens with suspicious price action — like $LAYER, $OM, $MOVE, and others — they’re often the ones most actively traded on the secondary OTC market.”\n\n“The entire supply and vesting schedule has become distorted because of these off-market deals, and for liquid funds, the real challenge is figuring out when supply is actually unlocking,” Jung added.\n\nIn a market where price is fiction and supply is negotiated in back rooms, the real risk isn’t volatility for traders — it is believing the float is what the whitepaper and founders say it is.\n\nRead more: Movement Labs Secretly Promised Advisers Millions in Tokens, Leaked Documents Show",
+    "url": "https://www.coindesk.com/markets/2025/05/17/movement-labs-and-mantra-scandal-are-shaking-up-crypto-market-making",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Zahreddine Touag",
+                "Dean Sovolos",
+                "Max Sun",
+                "Min Jung"
+            ],
+            "positions": [
+                "Head of Trading at Woorton",
+                "Chief Legal Officer at B2C2",
+                "head of Web3 ecosystem at Metalpha",
+                "analyst at Presto Research"
+            ],
+            "companies": [
+                "Movement Labs",
+                "Mantra",
+                "Woorton",
+                "Metalpha",
+                "B2C2",
+                "Presto Research"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "MOVE",
+            "OM",
+            "LAYER"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes forced liquidations, hidden contracts, backchannel deals, token price crashes over 90%, and widespread loss of trust in market-making relationships, all indicating negative market impact."
+    }
+}

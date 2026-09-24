@@ -1,0 +1,38 @@
+{
+    "title": "XRP Short Bias Lingers Amid Ripple Legal Hopes, DOGE Nears Death Cross as BTC Dominance Hits 4-Year High",
+    "time": "2025-03-13T06:34:00",
+    "author": "Omkar Godbole",
+    "summary": "XRP, Dogecoin, Bitcoin News: XRP Short Bias Lingers Amid Ripple Legal Hopes, DOGE Nears Death Cross as BTC Dominance Hits 4-Year high",
+    "content": "The crypto market appears to have stabilized however traders are proceeding with caution while dealing with altcoins, like XRP, while continuing to rotate money into market leader bitcoin\nBTC\n$104,726.17\n.\n\nPayments-focused XRP, which Ripple uses to facilitate cross-border payments, has risen over 3% to $2.24 in the past 24 hours primarily on hopes that the legal battle between blockchain company Ripple and the Securities and Exchange Commission (SEC) could conclude soon.\n\nAmid the price rise, cumulative open interest in perpetual futures listed across major exchanges has stabilized near 1.35 billion XRP, with annualized funding rates and cumulative volume delta printing negative, according to data source Velo.\n\nNegative funding rates mean shorts are paying fees to counterparties to keep their bearish bets open. It shows the dominance of bearish short positions in the market. The negative cumulative volume delta, which measures the net capital inflows into the market, indicates that selling volume has accumulated more than buying volume, potentially signaling a bearish trend.\n\nBoth indicators, therefore, cast doubt on whether XRP's price rise has legs. At press time, several other large-cap tokens like DOGE, SOL, SUI, HBAR, LTC, BTC, TRX and HYPE had negative CVDs on a 24-hour basis.\n\nSpeaking of DOGE, the 50-day simple moving average (SMA) of the token's price is about to cross below the 200-day SMA, confirming the so-called death cross. The ominous-sounding pattern indicates that the short-term price momentum is now underperforming the long-term momentum, with the potential to evolve into a major bearish trend.\n\nThese SMA crossovers are widely followed by trend traders, meaning the confirmation of the death cross could bring more selling pressure to the market. That said, long-term SMA crossovers are lagging indicators, reflecting the sell-off that has already materialized and have a mixed record of predicting price moves in the BTC and ETH markets.\n\nNote that, DOGE has already dropped 65% since peaking at over 48 cents in December.\n\nBitcoin's dominance rate, or the cryptocurrency's share in the total market capitalization, has increased to 62.5%, the highest since March 2021, according to data source TradingView.\n\nNotably, the metric has increased from 55% to over 62% since the total crypto market capitalization peaked above $3.6 trillion in December.\n\nIt signifies a continued preference for BTC, particularly during the broader market downturns.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/xrp-short-bias-lingers-amid-ripple-legal-hopes-doge-nears-death-cross-as-btc-dominance-hits-4-year-high",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ripple"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "Velo",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "DOGE",
+            "BTC",
+            "Bitcoin",
+            "SOL",
+            "SUI",
+            "HBAR",
+            "LTC",
+            "TRX",
+            "HYPE",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes negative funding rates for XRP, a death cross pattern for DOGE, and continued market preference for Bitcoin during broader downturns, indicating overall bearish sentiment across altcoins."
+    }
+}

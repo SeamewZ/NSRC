@@ -1,0 +1,34 @@
+{
+    "title": "SEC Is Probing Coinbase Over User Number Misstatement Concern",
+    "time": "2025-05-15T18:09:00",
+    "author": "Cheyenne Ligon",
+    "summary": "The investigation began under former SEC Chair Gary Gensler and has continued under the current administration, according to the NYT, which first reported the story.",
+    "content": "The SEC has been investigating crypto exchange Coinbase (COIN) over whether it misstated its user numbers in past securities filings and marketing materials.\n\nThe probe began under the former presidential administration while the SEC was still under the control of then-Chair Gary Gensler, according to the NYT, which first reported the story, but has persisted under the SEC’s current, crypto-friendly leadership.\n\nThe metric at the heart of the investigation is Coinbase’s claim to have over 100 million “verified users.” It stopped using the metric in both disclosure and marketing materials in 2021, the year it went public on the Nasdaq.\n\nPaul Grewal, Coinbase’s chief legal officer, told CoinDesk in an emailed statement that the SEC’s investigation is a “hold-over investigation from the prior administration about a metric we stopped reporting two and a half years ago, which was fully disclosed to the public.”\n\n“We explained that the verified users metric includes anyone who verified their email address or phone number with us, so it may overstate the number of unique customers,\" said Grewal \"We also disclosed – and continue to disclose – the more relevant metric of ‘monthly transacting users’ – the number of people who use our platform in a given month.\"\n\n“While we strongly believe this investigation should not continue, we remain committed to working with the SEC to bring this matter to a close,” Grewal added.\n\nThe SEC did not respond to CoinDesk’s request for comment by press time.\n\nAlready under pressure due to today's disclosure of a data breach, COIN shares dipped a bit further on this SEC news, now down 6.6% on the session.",
+    "url": "https://www.coindesk.com/business/2025/05/15/sec-is-probing-coinbase-over-user-number-misstatement-concern",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Paul Grewal"
+            ],
+            "positions": [
+                "former SEC Chair",
+                "chief legal officer",
+                "current, crypto-friendly leadership"
+            ],
+            "companies": [
+                "Coinbase",
+                "COIN",
+                "CoinDesk",
+                "Nasdaq"
+            ],
+            "organizations": [
+                "SEC",
+                "NYT"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports an SEC investigation into Coinbase and mentions COIN shares dropping 6.6% on the session due to this disclosure."
+    }
+}

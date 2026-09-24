@@ -1,0 +1,44 @@
+{
+    "title": "From Ethereum's Engine Room to Wall Street: Danny Ryan's New Mission",
+    "summary": "Ryan turned down an opportunity to help led the Ethereum Foundation and instead joined Etherealize, an organization focused on bringing Ethereum to Wall Street.",
+    "time": "2025-03-12T15:43:00",
+    "author": "Margaux Nijkerk",
+    "content": "As controversy swirled around the Ethereum Foundation (EF) this winter, one of Ethereum's most respected architects was quietly plotting his next move. Danny Ryan—a key visionary behind Ethereum's most ambitious upgrade, \"The Merge\"—left the EF in September but entered talks a few months later to rejoin the organization as its new leader.\n\n\"I was in conversation with Vitalik [Buterin] and others to potentially go back to help run the Ethereum Foundation,\" Ryan revealed in a candid interview with CoinDesk. But as the non-profit behind the second-largest blockchain underwent a dramatic leadership reshuffle, Ryan's trajectory unexpectedly shifted elsewhere — towards bringing Ethereum to Wall Street.\n\nThe changes at the Ethereum Foundation came amid growing community unrest. Critics blamed the foundation for their perception that Ethereum was losing momentum to ascendant rivals like Solana. The reshuffling included moving Aya Miyaguchi, the foundation's executive director since 2018, to the role of president.\n\nRather than Ryan taking Miyaguchi's previous position, the foundation's day-to-day leadership transferred to Hsiao-Wei Wang, an EF researcher, and Tomasz Stańczak, the founder of Ethereum's Nethermind client software.\n\nThe Ethereum Foundation, a Swiss non-profit, is the main organization supporting the development of the Ethereum blockchain ecosystem. It stewards a treasury of Ethereum's ether\nETH\n$3,340.48\ntokens, which it distributes through grants to ecosystem projects. It also staffs a team of developers and researchers who play a key role in coordinating updates and shaping the chain's roadmap.\n\nIn January, as the EF leadership shakeup was underway, Ryan \"ended up mutually parting ways\" with Buterin and the foundation, he said. \"Soon after, I got introduced to Vivek [Raman],\" one of the founders of Etherealize, a new firm aimed at bringing ether\nETH\n$3,340.48\nproducts to Wall Street. In March, Ryan announced he would be joining Etherealize as a co-founder.\n\nRyan says he made the move because he believes Ethereum is at a technological inflection point: \"Ethereum is much bigger than the EF. It's not just a couple of changes at the EF that are going to make or break Ethereum at large.\"\n\nAccording to Ryan, what the ecosystem needs now more than ever is to get its technology into the hands of real users. \"The only reason that things are maybe more existential right now than in times past is that the world is actually ready to adopt these systems,\" said Ryan. \"It is existential that Ethereum — a truly open, decentralized, permissionless platform — is the one that's adopted.\"\n\nAt Etherealize, Ryan aims to connect Ethereum's technical ecosystem with institutional finance. The company is developing financial products that will make Ethereum more accessible to traditional investors while maintaining the blockchain's core values.\n\nAs a researcher at the EF, Ryan played a central role in mapping out Ethereum’s ambitious upgrade from proof-of-work to proof-of-stake, known as the Merge. He believes his close ties to one of the most influential organizations in the Ethereum space will benefit his new work at Etherealize.\n\n“Me coming on board, we get to kind of make that bridge bi-directional. I have deep Ethereum context – I helped build the protocol,” Ryan said. “I know all the people working on it. I know the challenges at hand and understand how things might unfold over the next few years. And so I can serve as a bridge from Ethereum back into the real world.”\n\nAs for Ryan's role, specifically, his responsibilities are not totally defined: \"I would love for Etherealize to take on the mandate of doing some open [research and development], and being a player in layer-1 or layer-2 or application layer R&D. But we're still kind of figuring out the lay of the land there.\"\n\nIndustry watchers note that Ryan's move comes at a pivotal moment for both Ethereum and institutional crypto adoption. With a new regulatory environment for crypto under U.S. President Donald Trump, traditional financial firms — in the United States, in particular — are expected to become more comfortable adopting blockchain technology. Ryan hopes his technical bona fides could help these integrations meet Wall Street's rigorous standards without compromising on crypto's core ideals.\n\n“We plan to bring the entire world onto Ethereum to whatever extent that we can, and having a deep technical background and understanding about Ethereum from a very fundamental way is going to help us do that,” Ryan said.\n\nWhen asked about the timing of his departure from the EF amid growing criticisms of the organization, Ryan offered a measured perspective. \"A lot of what we've seen is just market dynamics, regardless of fundamental value, painting people's perspectives on things, and they sometimes look for someone to blame or put a finger at,\" he explained, referencing the ETH price volatility that has sometimes colored public sentiment about the project.\n\nRyan remains optimistic about the changes coming to the foundation he once considered leading. \"I'm excited for some new blood,\" he said. \"I've known Aya since January 2018; we've worked very closely together for years. I've said publicly that I admire her leadership, and I think she's made a number of really important calls on how to run the EF.\"\n\nHe added that he's \"excited for the two leaders\" that were elevated to replace Miyaguchi. \"They have very technical backgrounds and a deep understanding of Ethereum, both the positive and the negative in terms of the construction of the protocol.\"\n\nRead more: Ethereum’s New Cheerleader on Wall Street: A Q&A With Vivek Raman",
+    "url": "https://www.coindesk.com/tech/2025/03/12/from-ethereum-s-engine-room-to-wall-street-danny-ryan-s-new-mission",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Danny Ryan",
+                "Vitalik Buterin",
+                "Aya Miyaguchi",
+                "Hsiao-Wei Wang",
+                "Tomasz Stańczak",
+                "Vivek Raman",
+                "Donald Trump"
+            ],
+            "positions": [
+                "co-founder",
+                "executive director",
+                "president",
+                "researcher",
+                "founder"
+            ],
+            "companies": [
+                "Etherealize",
+                "Nethermind"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "CoinDesk",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ethereum gaining institutional adoption through Wall Street integration and a respected architect bridging technical expertise with traditional finance, indicating positive market confidence."
+    }
+}

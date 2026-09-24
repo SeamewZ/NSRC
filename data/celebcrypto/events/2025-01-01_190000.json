@@ -1,0 +1,52 @@
+{
+    "title": "Crypto for Advisors: What’s Next for Crypto ETFs",
+    "time": "2025-01-01T19:00:00",
+    "author": "Roxanna Islam",
+    "summary": "For advisors, retail investors, and many institutional investors, ETFs are our bridge from TradFi to DeFi and will remain a relevant part of the digital asset story in 2025.",
+    "content": "Happy New Year, advisors! We look forward to bringing you crypto news for advisors every Thursday this year!\n\nIn today’s issue, our first newsletter of 2025, Roxanna Islam from TMX VettaFi provides a comprehensive guide to the world of crypto ETFs, looking at what happened in 2024 and what’s expected in 2025.\n\nThen, Griffin Kelly from The Daily Upside answers questions about ETFs in Ask an Expert.\n\n- Sarah Morton\n\nIn the broader crypto industry, exchange-traded funds (ETFs) have somewhat faded into the background as other tailwinds (e.g., a potential strategic bitcoin reserve, increased interest in tokenization, and a greater intersection between energy and crypto) take center stage. But for advisors, retail investors, and many institutional investors, ETFs are our bridge from TradFi to DeFi and will remain a relevant part of the digital asset story in 2025. If innovation in crypto is expected to continue, then the ecosystem of crypto ETFs will also continue to grow. Here is where crypto ETFs stood in 2024 and what to watch for in 2025.\n\nTo put the impact of crypto ETFs in perspective, here are some interesting figures from 2024 (YTD through December 26):\n\nLooking ahead to 2025, several ETF filings are already in various stages of approval. With the new crypto-friendly U.S. administration (including a change in SEC leadership), issuers are filling the pipeline with potential new products. There will likely be three main areas to watch.\n\nFirst, there is the possibility of more spot ETFs beyond bitcoin and Ether. VanEck, 21Shares, and Canary Capital have filed for crypto ETFs, including spot Solana and XRP ETFs. Canary Capital has also filed for a Litecoin ETF and an HBAR ETF.\n\nAdditionally, there will be further innovation in the way digital assets are packaged in ETF wrappers. These include filings for several crypto index ETFs (multi-token funds). One proposed fund is the Bitwise Bitcoin and Ethereum Fund, which would give balanced exposure to both currencies. There have also been requests to convert the Grayscale Digital Large Cap Fund (GLDC) and the Bitwise 10 Crypto Index Fund (BITW) into ETFs. These are multi-token funds, which hold bitcoin, Ether, Solana, and more.\n\nFinally, there’s the “everything else” category, which includes literally anything you can think of. For example, the Nexo 7RCC Spot Bitcoin and Carbon Credit Futures ETF is an ESG Bitcoin ETF that will hold about 80% bitcoin and 20% carbon credit futures. The Bitwise Bitcoin Standard Corporations ETF intends to invest in corporations that hold at least 1,000 bitcoin in their corporate treasury. The Strive Bitcoin Bond ETF aims to provide exposure to convertible securities issued by MicroStrategy. Additionally, I believe we can see even more options-based strategies. And as we saw toward the back half of 2024, crypto equities have come back into favor due to rekindled interest in MicroStrategy and crypto miners, which have pivoted to benefit from data center demand.\n\n- Roxanna Islam, Head of Sector & Industry Research, TMX VettaFi\n\nQ. What’s the status of the global ETF industry?\n\nAmerica is still the home of the ETF. Canada is technically its birthplace, but with the U.S. accounting for nearly 70% of the global ETF market, I think it’s safe to call the wrapper an expat at this point.\n\nThat said, ETFs are quickly gaining traction in plenty of foreign markets. In the first 11 months of this year, more than 550 ETFs were launched in the Asia Pacific region (excluding Japan), and close to 300 products were launched in Europe, according to ETFGI. With active and crypto ETFs becoming increasingly attractive, this global adoption trend will only ramp up.\n\nQ. What’s the future of ETFs/ETPs?\n\n2024 was undoubtedly “The year of the ETF,” with the U.S. alone having experienced more than $1 trillion inflows. Globally, ETFs now hold more than $15 trillion in assets and account for 30% of all invested assets. In the next decade or so, they’ll likely surpass mutual funds as the dominant investment vehicle. And until tokenization rocks that boat, every year from now on will probably be the year of the ETF.\n\nQ. How has America’s approval of bitcoin and Ether ETFs changed the game?\n\nCrypto ETFs are still just taking off around the world. Only a handful of markets offer them, including Australia, Canada, Switzerland, Brazil, and a few others.\n\nThe U.S. quickly became the leader in spot ETFs after the Securities and Exchange Commission approved the first ones earlier this year. The iShares Bitcoin Trust ETF has over $53 billion in net assets. Meanwhile, the Grayscale Bitcoin Trust ETF has surpassed $20 billion, and the Fidelity Wise Origin Bitcoin Fund is about to. The incoming Trump administration, which is expected to be highly pro-crypto, will likely make issuing and accessing crypto ETFs much easier. You might start seeing ETFs emerging that track smaller cryptocurrencies like Dogecoin.\n\nThe hype around U.S. bitcoin ETFs is so immense that it may have caused some investors to pull assets out of similar products in other markets. For example, according to TD Securities data reported by Bloomberg, Canadian bitcoin ETFs experienced more than $400 million in net outflows this year. Meanwhile, US bitcoin ETFs have recorded $36 billion in inflows.\n\n-Griffin Kelly, Reporter, The Daily Upside",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/01/crypto-for-advisors-what-s-next-for-crypto-etfs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roxanna Islam",
+                "Griffin Kelly",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "Head of Sector & Industry Research",
+                "Reporter"
+            ],
+            "companies": [
+                "TMX VettaFi",
+                "The Daily Upside",
+                "VanEck",
+                "21Shares",
+                "Canary Capital",
+                "Bitwise",
+                "Grayscale",
+                "Nexo 7RCC",
+                "Strive",
+                "MicroStrategy",
+                "TD Securities",
+                "Bloomberg",
+                "iShares",
+                "Fidelity"
+            ],
+            "organizations": [
+                "SEC",
+                "ETFGI"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ether",
+            "Solana",
+            "XRP",
+            "Litecoin",
+            "HBAR",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes continued growth and innovation in crypto ETFs with new filings, a crypto-friendly administration, and massive inflows into US bitcoin ETFs indicating strong market confidence."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "MicroStrategy Added 11K Bitcoin for $1.1B, Pushing Holdings to 461K BTC",
+    "time": "2025-01-21T13:15:00",
+    "author": "James Van Straten",
+    "summary": "Its the 11th consecutive week of bitcoin purchases for the Michael Saylor-led company.",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of MicroStrategy (MSTR).\n\nLed by Executive Chairman Michael Saylor, MicroStrategy (MSTR) has again added to its massive bitcoin\nBTC\n$104,491.18\nstack.\n\nIn the week ending Jan 19, the company purchased 11,000 BTC for $1.1 billion, taking its total holdings to 461,000 BTC. This latest bitcoin average purchase price was $101,191, increasing MicroStrategy's overall average purchase price to $63,610.\n\nOnce again, Michael Saylor teased the announcement on X on Sunday with the caption, \"Things will be different tomorrow.\" Since the tweet, Saylor has posted multiple photos of himself with Eric Trump, crypto czar David Sacks and Robert Kennedy Jr.\n\nMSTR shares are down modestly in premarket action, with bitcoin trading at $104,500, lower by a hair from late Friday afternoon. U.S. stocks were closed on Monday due to the MLK holiday.",
+    "url": "https://www.coindesk.com/markets/2025/01/21/micro-strategy-added-11-k-bitcoin-for-1-1-b-pushing-holdings-to-461-k-btc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Eric Trump",
+                "David Sacks",
+                "Robert Kennedy Jr."
+            ],
+            "positions": [
+                "Executive Chairman",
+                "crypto czar"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "MSTR"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "MicroStrategy's continued large-scale bitcoin purchases totaling $1.1 billion demonstrates strong institutional buying and market confidence in Bitcoin."
+    }
+}

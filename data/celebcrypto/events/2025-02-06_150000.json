@@ -1,0 +1,41 @@
+{
+    "title": "Ondo Finance Unveils Layer-1 Network for Tokenized Assets",
+    "time": "2025-02-06T15:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "CEO Nathan Allman said \"financial markets are overdue for an upgrade\" as tokenization efforts gather steam globally.",
+    "content": "New York, NY — Ondo Finance, the second-largest tokenized Treasuries issuer, said it plans to start its own layer-1 blockchain designed for tokenized real-world assets in a bid to connect traditional capital markets with decentralized finance, the company announced on Thursday at its inaugural Ondo Summit.\n\nOndo Chain was crafted to meet institutional compliance standards while maintaining the transparency and accessibility of public blockchains like Ethereum, the company said. The network will rely on permissioned validators to verify transactions and ensure accurate financial data, such as asset prices and token backing. It will also support staking of tokenized real-world assets and native bridging between blockchains for interoperability.\n\n\"Financial markets are overdue for an upgrade,\" CEO Nathan Allman said in a statement. \"We’re creating an ecosystem that bridges the best of traditional finance with blockchain technology.”\n\nONDO, the native token of the ecosystem, saw volatile swings following the announcement, dipping 1.5% before rallying 3.5% higher. Soon following the announcement World Liberty Financial, the decentralized finance protocol backed by Donald Trump and his family, invested $470,000 in ONDO tokens, blockchain data showed.\n\n\"We really set out to build something that could combine the best of both traditional finance with its incredible deep liquidity and investor protections with all the benefits of DeFi with its open access and innovation and new primitives,\" Ian De Bode, chief strategy officer at Ondo, said during a presentation at the Ondo Summit in New York City on Thursday. \"However, as we set out on this mission, we realized that the necessary conditions to really bring together really did not exist. The infrastructure to bring these two together really was not present\"\n\nThe announcement comes the day after Ondo unveiled a tokenization platform that helps place stocks, bonds and funds on blockchain rails.\n\nAllman said that he believes that with a new administration in place, it could take two to three years to achieve meaningful adoption for tokenized real-world assets.\n\nTokenization, or the creation of digital tokens that represent ownership of traditional assets on a blockchain, is gaining traction globally. Institutions and even governments are increasingly exploring the process in pursuit of operational efficiency gains like speedier settlements and broader investor accessibility. The tokenized RWA market could grow to trillions of dollars through this decade, reports from McKinsey, BCG, 21Shares and Bernstein have projected.\n\nRecently, several influential leaders in the financial world touted tokenized RWAs as the next frontier of financial innovation.\n\nLarry Fink, CEO of asset management behemoth BlackRock, said bonds and stocks will be traded on blockchain rails in the future and urged U.S. regulators and policymakers to create rules for security tokens. Vlad Tenev, co-founder and CEO of digital brokerage Robinhood, said tokenization could democratize access to private equity investment, which is currently limited to accredited investors and wealthy individuals, and proposed rule changes to unlock tokenized asset investments for retail investors.\n\nOndo Finance is the second largest issuer of tokenized U.S. Treasuries offerings, according to rwa.xyz data. The protocol's U.S. Dollar Yield (USDY) and Short-Term US Government Bond (OUSG) tokens stand at $385 million and $268 million market capitalization, respectively.\n\nUPDATE (Feb. 6, 2025, 15:36 UTC): Adds quotes and ONDO price move.\n\nUPDATE (Feb. 6, 2025, 17:50 UTC): Adds World Liberty Financial's ONDO token investment.",
+    "url": "https://www.coindesk.com/business/2025/02/06/ondo-finance-unveils-layer-1-network-for-tokenized-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nathan Allman",
+                "Donald Trump",
+                "Ian De Bode",
+                "Larry Fink",
+                "Vlad Tenev"
+            ],
+            "positions": [
+                "CEO",
+                "chief strategy officer",
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Ondo Finance",
+                "World Liberty Financial",
+                "BlackRock",
+                "Robinhood",
+                "McKinsey",
+                "BCG",
+                "21Shares",
+                "Bernstein"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ONDO",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The announcement of a new layer-1 blockchain for tokenized assets, institutional investment in ONDO tokens, and positive price movement following the news indicate market confidence and potential growth."
+    }
+}

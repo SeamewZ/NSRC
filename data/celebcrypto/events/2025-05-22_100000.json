@@ -1,0 +1,30 @@
+{
+    "title": "FIFA Teams Up With Avalanche to Build Its Own Blockchain, Expanding Web3 Ambition",
+    "summary": "FIFA previously released a non-fungible token (NFT) collection on the Algorand blockchain in 2022 ahead of the Qatar World Cup.",
+    "time": "2025-05-22T10:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "FIFA, football’s global governing body, plans to use Avalanche’s network to power its own dedicated layer-1 blockchain.\n\nThe FIFA Blockchain is an Avalanche L1, a customizable blockchain that uses Avalanche’s technology (also previously known as a subnet). The news comes as the Avalanche network recently went through its major Avalanche9000 upgrade, aimed at attracting new developers and encouraging them to create customized L1s.\n\nThursday’s announcement is not FIFA’s first foray into the world of blockchain and crypto. In 2022, the football body released a non-fungible token (NFT) collection on the Algorand blockchain ahead of the Qatar World Cup. FIFA also teased this change in April, noting that it would shift its collection to an EVM-compatible blockchain while continuing to pursue Web3 initiatives.\n\nThe NFT craze, which saw large institutions and corporations jumping into the trend, has now mostly vanished after the brutal crypto winter that dampened industry sentiment for several painful years. However, a large entity such as FIFA's continued focus on blockchain likely signals that the use case for the technology hasn't died down, and big enterprises are still looking to dabble in the industry.\n\n“Avalanche is designed for enterprises and organizations looking to build custom, high-performance blockchain solutions,” said John Nahas, chief business officer at Ava Labs, in a press release shared with CoinDesk . “FIFA’s decision to launch its L1 on Avalanche is a testament to our technology’s ability to support global-scale applications with speed, flexibility, and security.”\n\nWhile FIFA currently only has a World Cup NFT collection and a digital collectibles marketplace, it did not share what else it is planning to release on its new blockchain.\n\nRead more: FIFA Embraces NFTs Tied to Classic Games Highlights for World Cup 2022",
+    "url": "https://www.coindesk.com/tech/2025/05/22/fifa-teams-up-with-avalanche-to-build-its-own-blockchain-expanding-web3-ambition",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John Nahas"
+            ],
+            "positions": [
+                "chief business officer"
+            ],
+            "companies": [
+                "Ava Labs",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "FIFA",
+                "Avalanche",
+                "Algorand"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "FIFA's decision to build its own blockchain on Avalanche signals continued enterprise adoption and confidence in blockchain technology despite the crypto winter."
+    }
+}

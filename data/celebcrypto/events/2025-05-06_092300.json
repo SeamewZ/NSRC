@@ -1,0 +1,30 @@
+{
+    "title": "Florida Withdraws Strategic Bitcoin Reserve Bills From Consideration",
+    "summary": "The two bills, which were both filed in February, sought to allow investment of public funds in BTC",
+    "time": "2025-05-06T09:23:00",
+    "author": "Jamie Crawley",
+    "content": "Florida has withdrawn two bills related to the creation of a state-level strategic bitcoin\nBTC\n$102,205.43\nreserve.\n\nHouse Bill 487 and Senate Bill 550 have been \"indefinitely postponed and withdrawn from consideration,\" according to the state Senate website. The two bills, which were both filed in February, sought to allow investment of public funds in BTC.\n\nFlorida joins numerous other states, such as Wyoming, Pennsylvania and Oklahoma, which have seen bills related to BTC investments fail to clear the legislative process, according to Bitcoin Laws. There are a string of other states with outstanding bills, most of which remain in the initial committee phase.\n\nThe most advanced state-level process to establishing a BTC reserve was in Arizona, where SB 1025 passed a House vote by 31-25 only to be vetoed by Governor Katie Hobbs. The bill proposed permitting the investment of seized funds into BTC.\n\nThere remains the related SB 1373, which would allow up to 10% of Arizona state funds to be allocated into digital assets. This bill has yet to reach a final vote.\n\nRead More: Swiss National Bank Rejects Calls to Add Bitcoin Reserves",
+    "url": "https://www.coindesk.com/policy/2025/05/06/florida-withdraws-strategic-bitcoin-reserve-bills-from-consideration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Katie Hobbs"
+            ],
+            "positions": [
+                "Governor"
+            ],
+            "companies": [],
+            "organizations": [
+                "Florida Senate",
+                "Bitcoin Laws",
+                "Swiss National Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The withdrawal of bills allowing public fund investment in BTC represents a regulatory setback for cryptocurrency adoption at the state level."
+    }
+}

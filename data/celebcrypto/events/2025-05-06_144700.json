@@ -1,0 +1,26 @@
+{
+    "title": "DeFi Development Adds $11.2M in SOL, Bringing Holdings to More Than 400K Tokens",
+    "time": "2025-05-06T14:47:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Formerly known as Janover, the company's SOL holdings are worth more than $57 million at current prices.",
+    "content": "Formerly known as Janover (JNVR), DeFi Development Corporation (DFDV has added an additional 82,404 solana\nSOL\n$162.61\ntokens to its treasury, pushing its total holdings to 400,091 SOL.\n\nAt SOL's current price of $143, the company stack is worth more than $57 million.\n\nThe newly acquired tokens include locked SOL, purchased through BitGo’s over-the-counter desk, according to a press release. These tokens can’t be moved on-chain until unlocked, but they can still be traded over-the-counter between institutions, the firm said.\n\nThe company said it plans to stake these assets to generate yield.\n\nThe accumulation follows the acquisition of a validator operation earlier this week, which it will use to self-stake its entire SOL treasury and generate “protocol-native cashflow.”\n\nDFDV shares are lower by 3.8% in Tuesday morning trade alongside SOL's 2% price decline.",
+    "url": "https://www.coindesk.com/markets/2025/05/06/defi-development-adds-usd11-2m-in-sol-bringing-holdings-to-more-than-400k-tokens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "DeFi Development Corporation",
+                "Janover",
+                "BitGo"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant institutional accumulation of SOL tokens and plans to stake them for yield generation, indicating market confidence and positive demand pressure."
+    }
+}

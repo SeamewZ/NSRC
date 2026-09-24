@@ -1,0 +1,44 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Stability Above $100K Is Cementing New Psychological Floor",
+    "time": "2025-05-20T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for May 20, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe big story in financial markets is not just global bond-market jitters, it's also bitcoin's\nBTC\n$104,850.17\nstability above $100,000.\n\nBTC has held above that level for 11 straight days after jumping sharply from around $75,000 in early April. Some might interpret that as a sign of uptrend exhaustion, but it could also be the market normalizing the six-figure mark.\n\nThink of it like this: When BTC first hit $100,000, many people likely thought, \"This is crazy. It's too expensive\" and perhaps refrained from buying or even took profits on their holdings. But the longer it stays there, the more the price feels normal and becomes anchored in people's minds. In other words, don't be surprised if buying activity picks up across the spectrum of products tied to BTC.\n\nConfidence got a boost on Monday after Strategy, the largest publicly traded BTC holding firm, disclosed that it has recently bought 7,630 BTC at an average price of over $103,000.\n\n\"This aggressive buying campaign is aimed at solidifying $100K+ levels as the new floor for Bitcoin. ETF inflows echoed that strength,\" Valentin Fournier, lead research analyst at BRN, told CoinDesk in an email.\n\nAccording to Fournier, a price rise in ether\nETH\n$3,515.90\n\"seems driven more by organic demand than institutional flows — a potential sign of rising retail activity and decoupling performance between bitcoin and altcoins.\"\n\nIn other key developments, the market cap for Ethena Labs' synthetic stablecoin, USDe, has surged 35% to $5 billion in just over seven days, CoinDesk data show. The token maintains a soft peg with the U.S. dollar through an automated delta-hedging strategy that shorts bitcoin and ether perpetual futures to offset changes in the prices.\n\nThe jump had some market observers drawing parallels with the sharp rise in the market cap weeks before BTC and the wider market went bonkers in November. Back then, Ethena's ENA token chalked out a five-fold rally to $1.25. Let's see if history repeats itself.\n\nThe U.S. Senate on Monday voted in favor of the GENUIS Act, advancing the stablecoin bill to the final stage. \"The bill … could significantly boost market confidence and provide long-awaited clarity for issuers and investors alike, but doesn't fully address offshore stablecoin issuers like Tether, which continue to play an outsized role in global liquidity,\" Vugar Usi Zade, COO at Bitget, said in an email. \"For U.S.-based issuers, compliance will now come with steeper costs, likely accelerating consolidation across the market and favoring well-resourced players who can meet the new thresholds.\"\n\nIn traditional markets, yields on longer-duration bonds continued to rise across the advanced world, signaling growing concerns about the fiscal debt sustainability. The 30-year Japanese government bond yield hit a record high above 3%. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/20/crypto-daybook-americas-bitcoin-stability-above-100k-is-cementing-new-psychological-floor",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Valentin Fournier",
+                "Vugar Usi Zade",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "lead research analyst",
+                "COO"
+            ],
+            "companies": [
+                "Strategy",
+                "BRN",
+                "CoinDesk",
+                "Ethena Labs",
+                "Bitget",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "U.S. Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "USDe",
+            "ENA",
+            "Tether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's sustained stability above $100,000, aggressive institutional buying campaigns, rising retail activity in ether, and positive regulatory developments that boost market confidence."
+    }
+}

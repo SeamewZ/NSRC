@@ -1,0 +1,53 @@
+{
+    "title": "Trump Family-Linked Firms Profited $320M on Memecoin Despite 87% Decline Since Day One",
+    "time": "2025-05-09T16:42:00",
+    "author": "Oliver Knight",
+    "summary": "Data from Chainalysis show the creators of the TRUMP token made $320 million in fees while retail investors lost money.",
+    "content": "CORRECTION (May 9, 11:58 UTC): Corrected headline, first bullet to say Trump-family linked firms profited millions from TRUMP token. Added details in the 11th paragraph about the creators of the token and their ties to trading revenue.\n\nU.S. President Donald Trump has come a long way since he said the value of crypto was “based on thin air” in 2019. So much so that he is now one of the sector’s largest proponents, foraying into memecoins, DeFi, NFTs, and even stablecoins.\n\nA new report by the State Democracy Defenders Fund estimates that Trump’s family has increased their net worth by $2.9 billion thanks to crypto, and that now 40% of that net worth is being held in crypto assets.\n\nHis deepening ties to the industry have reverberated across the political landscape, to the point that a broadly bipartisan stablecoin bill failed in a key vote Thursday after Democrats expressed concern about the extent to which he is profiting off the sector.\n\nTrump's support helped spark a continued bull market after his election victory in November, a market that's been dominated by two trends: memecoins and institutional adoption of bitcoin via ETFs. While the latter is the province of, generally, institutional investors and providers, it's the memecoin business that puts retail investors at risk and is potentially ripe for exploitation.\n\nOn Thursday, Solidus Labs claimed that 98% of memecoins issued on the token creation platform pump.fun were rug pulls or pump-and-dump schemes. The platform had since refuted the report's claims.\n\nAnother analysis by Chainalysis, cited by CNBC, suggested that the vast majority of TRUMP token holders lost money.\n\nA memecoin is a type of crypto token with no inherent value, often based, as the name suggests, on a meme or cartoon character. Popular examples of this are\nDOGE\n$0.1743\n,\nSHIB\n$0.0₅9709\nand pepe (PEPE). The craze reached a climax in January when Trump touted his own TRUMP token on social media, followed by MELANIA— named after his wife.\n\nTRUMP, which hit a day-one peak of $77.26, is now trading at $10.80, down a whopping 86%. MELANIA slumped even further, losing more than 97% of its value in four months to trade recently at 33 cents.\n\nThe hype around Trump’s social media post led to a flurry of trading activity. Data from Chainalysis reveals that 760,000 wallets, mainly belonging to retail investors, lost money on the TRUMP token.\n\nA small group of people, however, was immune to those losses. The Chainanalysis data show 58 wallets made profits in excess of $10 million. The token’s creators netted a whopping $320 million in trading fees, although it’s worth noting that around 5% of the fees went to the decentralized exchange Meteora, which hosted the launch.\n\nCIC Digital LLC, an affiliate of The Trump Organization, and Fight Fight Fight LLC collectively own 80% of the TRUMP token's supply, subject to a 3-year unlocking schedule, according to the official website. CIC Digital LLC and Celebration Cards LLC, the owners of Fight Fight Fight LLC, will also receive revenue derived from trading activities of the token, the website said.\n\nMELANIA was allegedly scooped up by a group of insiders before it was advertised on social media in a technique known as “sniping.” This group of insiders made $100 million on MELANIA tokens by swapping tokens for USDC after its price doubled, according to an investigation by the Financial Times.\n\nOne insider with access to the tokens before they went live was Kelsier Ventures’ Hayden Davis, who revealed his involvement during an interview in February. Davis was also the brains behind the botched LIBRA stablecoin that brought political chaos to Argentina.\n\nIn an interview with Coffeezilla in February, Davis said: “This is going to put me in a lot of danger. Which is fine, I’ll answer. I was a part of it [MELANIA]. I think the team did want to snipe it because of how big the snipe was on TRUMP. We definitely weren’t the big sniper, that was what we were trying to avoid. We didn’t take any liquidity out, zero.”\n\nTrump’s foray into crypto isn't limited to memecoins.\n\nThe U.S. president’s family is also behind World Liberty Financial, a decentralized finance (DeFi) platform that raised around $590 million across two pre-sale rounds earlier this year. It raised funds at a time when the market was resting around all-time highs, so that figure of raised crypto is now much less. Arkham Intelligence data suggests that World Liberty Financial holds around $103 million worth of crypto.\n\nTrump also attempted to ride the coattails of non-fungible token (NFT) hype in 2022, releasing a series of cartoons depicting the president as a superhero or a cartoon character. Trump made around $8 million from rolling out these NFTs, according to financial disclosures.\n\nMost recently, there was the crypto dinner event, which saw Trump host a group of 25 TRUMP holders to a private dinner and tour of his Virginia golf club. A Bloomberg report reveals that 19 of those 25 holders were either foreign entities or used an offshore exchange banned in the U.S.\n\nHe's set to host another dinner for the top 220 holders of his token later in May. U.S. Senators Adam Schiff (D-Calif.) and Elizabeth Warren (D-Mass. called for Trump’s impeachment, asking the U.S. Office of Government Ethics to investigate whether Trump violated federal ethics rules by inviting top investors.\n\nThe Trump family did not immediately respond to CoinDesk’s request for comment.\n\nRead more: Donald Trump Denies Claims of Profiting From TRUMP Token",
+    "url": "https://www.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Hayden Davis",
+                "Adam Schiff",
+                "Elizabeth Warren"
+            ],
+            "positions": [
+                "U.S. President",
+                "U.S. Senators"
+            ],
+            "companies": [
+                "Chainalysis",
+                "Solidus Labs",
+                "CNBC",
+                "The Trump Organization",
+                "CIC Digital LLC",
+                "Fight Fight Fight LLC",
+                "Celebration Cards LLC",
+                "Kelsier Ventures",
+                "Financial Times",
+                "Coffeezilla",
+                "World Liberty Financial",
+                "Arkham Intelligence",
+                "Bloomberg",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "State Democracy Defenders Fund",
+                "U.S. Office of Government Ethics"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "DOGE",
+            "SHIB",
+            "PEPE",
+            "MELANIA",
+            "USDC",
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes widespread retail investor losses, rug pulls, pump-and-dump schemes, and insider profiteering totaling hundreds of millions of dollars from Trump-related memecoins."
+    }
+}

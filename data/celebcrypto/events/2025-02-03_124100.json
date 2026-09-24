@@ -1,0 +1,39 @@
+{
+    "title": "Crypto Stocks Slide Pre-Market as U.S. Futures Point to More Bitcoin Losses",
+    "time": "2025-02-03T12:41:00",
+    "author": "Shaurya Malwa",
+    "summary": "S&P 500 futures slid 1.4%, Dow Jones future fell 1.2% and futures on the tech-heavy Nasdaq 100 lost 1.7%",
+    "content": "Havoc in crypto markets spread to stocks of crypto-focused companies, with losses in U.S. futures pointing to declines in equities that are likely to put bitcoin (BTC) on track for further losses because it tends to mirror movements of U.S. stock markets.\n\nS&P 500 futures slid 1.4%, Dow Jones futures fell 1.2% and futures on the tech-heavy Nasdaq 100 lost 1.7%.\n\nShares of Japan’s Metaplanet (3350), colloquially called Asia’s MicroStrategy for its bitcoin treasury, fell 9.44% on the Tokyo Stock Exchange. Crypto and blockchain venture fund SBI Holdings sank 3.60%.\n\nU.S.-listed Coinbase (COIN) and MicroStrategy (MSTR) traded more than 5.9% lower in pre-market trading, while mining stocks MARA Holdings (MARA) and Riot Platforms (RIOT) dropped 6%.\n\nThe T-Rex 2x Long MSTR Daily Target ETF, which offers 200% of the daily returns of MicroStrategy, was down 9.6%.\n\nPre-market trading occurs before the regular market session opens to select participants, such as funds or institutional investors. These hours can be more volatile due to less liquidity.\n\nCrypto markets took a hit Monday after President Donald Trump levied tariffs on imports from Canada, Mexico, and China over the weekend, and threatened to impose taxes on the European Union.\n\nStock markets across Asia and Europe dropped while the U.S. dollar edged higher with crypto majors such as XRP and ether\nETH\n$3,485.56\nlosing 25% amid a rush of capital from risk assets.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/crypto-stocks-slide-pre-market-as-u-s-futures-point-to-more-bitcoin-losses",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Metaplanet",
+                "SBI Holdings",
+                "Coinbase",
+                "MicroStrategy",
+                "MARA Holdings",
+                "Riot Platforms"
+            ],
+            "organizations": [
+                "Tokyo Stock Exchange",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes widespread losses across crypto markets and crypto-focused stocks, with bitcoin on track for further losses amid a rush of capital from risk assets."
+    }
+}

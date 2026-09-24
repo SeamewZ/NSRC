@@ -1,0 +1,39 @@
+{
+    "title": "CME Bitcoin Options at Most Bullish Since U.S. Election, ETF Inflows Surge",
+    "time": "2025-01-22T10:20:00",
+    "author": "Omkar Godbole",
+    "summary": "Bullish options pricing and renewed ETF inflows have analysts calling new highs for the largest cryptocurrency.",
+    "content": "On Tuesday, bitcoin (BTC) options trading on the Chicago Mercantile Exchange (CME) showed the strongest bullish sentiment since Donald Trump's Nov. 5 election victory.\n\nTraders scrambled to buy calls, or options offering asymmetric upside exposure, driving the skew higher to 4.4%, the most since early November, according to data tracked by digital assets index provider CF Benchmarks.\n\nSkew is the difference in implied volatility between calls and puts, or options offering downside protection, and positive values represent a bullish sentiment.\n\n\"Thirty-day topside skew in the bitcoin options market has reached levels not seen since the November election results,\" Thomas Erdösi, head of product at CF Benchmarks, told CoinDesk. \"This reflects a strong bullish sentiment, with traders actively positioning for upside exposure across both short- and long-term maturities.\"\n\nBitcoin's price rose as much as 5%, briefly topping $106,000 Tuesday after buyers defended the $100,000 support level despite President Trump failing to mention crypto or strategic bitcoin reserve in his inaugural speech the day before.\n\nThe bounce was accompanied by renewed uptake for the U.S.-listed spot ETFs, which registered a cumulative net inflow of $802 million, according to data from SoSoValue. BlackRock's IBIT drew $661.8 million alone, helping solidify the bullish sentiment.\n\n\"ETF inflows have continued their impressive accumulation streak, marking four consecutive days of significant inflows, amounting to over $3 billion for Bitcoin alone. Bitcoin ($802M) and Ethereum ($74M) are receiving robust institutional backing, which could propel digital assets to new highs,\" Valentin Fournier, an analyst at BRN, said in an email to CoinDesk.\n\nBesides, long-term holders — wallets with a history of holding coins for over 155 days — are scaling back their profit-taking activities, according to blockchain data tracking firm Glassnode.\n\n\"Looking ahead, it's possible that volatility levels might moderate slightly towards the end of the month, but we anticipate that the skew for topside will probably remain, barring any surprise policy developments. This will likely provide continued upward price pressure for the foreseeable future,\" Erdösi said.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/cme-bitcoin-options-at-most-bullish-since-u-s-election-etf-inflows-surge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Thomas Erdösi",
+                "Valentin Fournier"
+            ],
+            "positions": [
+                "head of product",
+                "analyst"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange (CME)",
+                "CF Benchmarks",
+                "CoinDesk",
+                "SoSoValue",
+                "BRN",
+                "Glassnode"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes strong bullish options sentiment, significant ETF inflows totaling $802 million, reduced profit-taking by long-term holders, and analysts predicting continued upward price pressure."
+    }
+}

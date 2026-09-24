@@ -1,0 +1,26 @@
+{
+    "title": "AI Project Donut Raises $7M Pre-Seed Funding to Build Agentic Crypto Browser",
+    "time": "2025-05-29T16:25:00",
+    "author": "Jamie Crawley",
+    "summary": "The browser is designed to help its users transact, trade and earn in real time \"like a terminal.\"",
+    "content": "Artificial intelligence (AI) project Donut has raised $7 million in pre-seed funding to build its Solana-based agentic crypto browser, a tool that helps users engage with blockchain applications.\n\nThe funding round was led by Hongshan (formerly Sequoia CN), BITKRAFT, and HackVC, Donut announced on X on Thursday.\n\nDonut's AI agent-powered browser includes a native cryptocurrency wallet and interacts with decentralized exchanges (DEXs) and other decentralized networks.\n\nThe browser's AI algorithms process both webpage content and its user's actions in order to autonomously execute on-chain operations.\n\nIn effect, the browser is designed to help its users transact, trade and earn in real time \"like [using] a terminal,\" according to Donut's post on X.\n\nAI agents have been hailed as a key to unlocking the potential for blockchain technology. While interacting with smart contract tools, self custody and bridging across different chains may be complex for humans, it is an environment in which AI agent can be built to thrive.",
+    "url": "https://www.coindesk.com/business/2025/05/29/ai-project-donut-raises-usd7m-pre-seed-funding-to-build-agentic-crypto-browser",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Donut",
+                "Hongshan",
+                "BITKRAFT",
+                "HackVC"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a $7 million funding round for an AI crypto project, indicating investor confidence and positive development in the blockchain space."
+    }
+}

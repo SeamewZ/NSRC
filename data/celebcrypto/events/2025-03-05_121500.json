@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Open Interest Hits Lowest Level Since August",
+    "time": "2025-03-05T12:15:00",
+    "author": "James Van Straten",
+    "summary": "Binance open interest drops below 100,000 BTC, lowest level in over a year.",
+    "content": "Bitcoin\nBTC\n$103,874.74\nopen interest (OI) has fallen to its lowest level since August, currently standing at 413,000 BTC ($36 billion), according to Glassnode data. OI represents the total funds allocated in outstanding futures contracts, effectively measuring the amount of leverage in the bitcoin system.\n\nSince these contracts are denominated in dollars, their value fluctuates with bitcoin's price. To provide a more stable measure, we assess open interest in bitcoin terms, which eliminates price-based distortions.\n\nGlassnode data shows that since November, bitcoin open interest has dropped from 546,000 BTC to 413,000 BTC across all exchanges, with a significant portion of this decline attributed to the unwinding of CME open interest, particularly in the basis trade.\n\nMeanwhile, bitcoin dropped from $109,000 to $78,000 and then recovered to $90,000. This would assume that a large part of this recent run-up has been spot-driven rather than leverage-driven.\n\nAdditionally, Binance—the second-largest exchange by OI—has seen its OI drop to a 12-month low of just over 100,000 BTC, indicating that leverage has been significantly reduced from a retail perspective. This decline reflects a sharp reduction in speculative activity, driven by bitcoin’s extreme price volatility over the past few months.\n\nFurthermore, open interest as a percentage of bitcoin’s market cap has fallen below 2% for the first time since February 2024, underscoring the sharp decline in speculation and leverage.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/bitcoin-open-interest-hits-lowest-level-since-august",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Glassnode",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant declines in Bitcoin open interest, reduced leverage, and sharp reduction in speculative activity, indicating market weakness and decreased trading confidence."
+    }
+}

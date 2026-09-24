@@ -1,0 +1,30 @@
+{
+    "title": "LIBRA Memecoin Fiasco Destroyed $251M in Investor Wealth, Research Shows",
+    "time": "2025-02-20T08:58:00",
+    "author": "Omkar Godbole",
+    "summary": "On-chain data tracked by Nansen shows 86% of traders lost money, a total of $251 million.",
+    "content": "The LIBRA memecoin scandal that rocked Argentina over the weekend destroyed millions of dollars in investor wealth, according to research by Nansen.\n\nOn-chain data tracked by Nansen show 86% of traders lost a total of $251 million, while the winners secured just $180 million in profits. In other words, it was a \"net-negative wealth-generating\" event that potentially sucked out liquidity from the market.\n\nThe episode is a stark reminder that tokens associated with political figures can be just as risky as random memecoins and celebrity cryptocurrencies in making or breaking fortunes within minutes.\n\nLIBRA debuted on Meteora, a Solana-based decentralized exchange, last Friday and quickly surged to a market cap of over $4.5 billion after Argentina's President Javier Milei said on X that the project backing the coin would \"focus on encouraging the growth of the Argentine economy, funding small businesses, and Argentina ventures.\"\n\nOver 40,000 crypto addresses piled into the token, fueling a surge in price. The bullish excitement, however, was short-lived. The balloon popped as insiders offloaded massive numbers of tokens, tanking the market cap by 90%.\n\nRead more: Will Argentinian President Milei's Crypto 'Fiasco' Be a Deathblow for Memecoin Craze?\n\nMilei eventually deleted his X post, saying he was \"not aware of the details of the project\" and, now informed, has chosen not to continue promoting it. By then, though, the damage was done.\n\nThe opposition called the whole affair an international embarrassment and threatened to impeach Milei.\n\n\"70% of wallets trading $LIBRA from February 16th to 18th ended with realized losses as many likely attempted to profit off of the additional retweet from Javier Milei,\" Nansen said in a report shared with CoinDesk.\n\nThe number of unique holds of the token fell to 35,770 on Feb. 18 from over 50,000 on Feb. 14. Meanwhile, two wallets that bought the token at 22:01 UTC and sold by 22:44 UTC on Feb. 14 made just over $5.4 million in total profit, the report noted.",
+    "url": "https://www.coindesk.com/markets/2025/02/20/libra-memecoin-fiasco-destroyed-usd251m-in-investor-wealth-research-shows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Nansen",
+                "Meteora",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "LIBRA",
+            "SOLANA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The event destroyed $251 million in investor wealth, caused 86% of traders to lose money, and potentially sucked liquidity from the market due to insider dumping that tanked the market cap by 90%."
+    }
+}

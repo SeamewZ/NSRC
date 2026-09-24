@@ -1,0 +1,33 @@
+{
+    "title": "Undervalued Ether Catching Eye of ETF Buyers as Rally Inbound: CryptoQuant",
+    "summary": "ETH's rally is fueling investor expectations for a new 'Alt season', according to a recent CryptoQuant report.",
+    "time": "2025-05-17T07:25:00",
+    "author": "Sam Reynolds",
+    "content": "ETH has quietly slipped into historically rare territory as one market signal shows its deeply undervalued compared to bitcoin\nBTC\n$101,833.97\n, at a ratio not seen since 2019, a new CryptoQuant report says.\n\nThe signal comes from Ethereum’s ETH/BTC Market Value to Realized Value (MVRV) metric, a gauge of relative valuation that measures market sentiment and historical trading patterns.\n\nHistorically, whenever this indicator has reached similarly low levels, ETH has subsequently delivered significant gains and substantially outperformed BTC.\n\nInvestors appear to be taking notice. Demand for the ETH ETF has sharply picked up, with the ETH/BTC ETF holdings ratio rising steeply since late April, according to data from CryptoQuant.\n\nThis shift in allocation suggests institutional investors anticipate ETH will outperform BTC, potentially fueled by the recent Pectra upgrade or a more favorable macroeconomic environment.\n\nAlready, the ETH/BTC price ratio has rebounded 38% from its weakest level since January 2020, suggesting investors and traders are betting the bottom is in and an \"alt season\" could soon follow.\n\nThis echoes what some market participants have been telling CoinDesk.\n\nMarch Zheng, General Partner of Bizantine Capital, said in a recent message that traders should remember that ETH has typically been the main on-chain altcoin indicator for risk-on, and its sizable upticks generally lead to broader altcoin rallies.\n\nOn-chain data further supports this optimism. ETH spot trading volume relative to BTC surged to 0.89 last week, its highest since August 2024, signaling renewed appetite from investors. A similar trend occurred between 2019 and 2021, when ETH went on to outperform BTC by fourfold.\n\nCryptoQuant also notes that ETH exchange deposits, often an indicator of selling pressure, have dropped to their lowest relative level since 2020, implying investors anticipate higher prices ahead.\n\nFor now, confirmation hinges on ETH decisively breaking above its key 365-day moving average against BTC.\n\nStill, with compelling undervaluation, rising institutional interest, and diminishing selling pressure, ETH appears positioned for significant upside in the coming months.\n\nBut one thing ETH is still lagging on is network activity, as CryptoQuant flagged in a prior report. Without more people using Ethereum, it will be tough for the token's price to lift off and head to the moon.",
+    "url": "https://www.coindesk.com/markets/2025/05/17/undervalued-ether-catching-eye-of-etf-buyers-as-rally-inbound-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "March Zheng"
+            ],
+            "positions": [
+                "General Partner"
+            ],
+            "companies": [
+                "Bizantine Capital"
+            ],
+            "organizations": [
+                "CryptoQuant",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC",
+            "Ethereum",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ETH as deeply undervalued with multiple bullish indicators including rising ETF demand, reduced selling pressure, historical patterns suggesting significant gains, and institutional anticipation of ETH outperforming BTC."
+    }
+}

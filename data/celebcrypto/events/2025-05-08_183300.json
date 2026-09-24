@@ -1,0 +1,45 @@
+{
+    "title": "Senate Votes Against Advancing Stablecoin Bill, Delaying Process as Trump Concerns Fester",
+    "summary": "Last-minute Democrat objections led to a failed vote to move into debate on a top crypto industry legislative priority to regulate dollar-based tokens.",
+    "time": "2025-05-08T18:33:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. legislation that would establish stablecoin regulation failed to take a huge step closer to reality on Thursday as a rush of Democratic resistance kept the bill from moving into a debate phase, which would have been the path toward an eventual vote on passage.\n\nThe crypto industry has been closely watching the Senate, where the fate of its long-fought legislative battle hangs in the balance this year. The first of two major digital assets bills — this one to regulate stablecoins such as Circle's USDC and Tether's USDT — ran into a congressional roadblock, despite having easily won bipartisan approval in a previous Senate Banking Committee vote.\n\nA technical but vital vote to advance the legislation into days of floor debate next week, failed 48-49. Under Senate rules, 60 votes were needed to advance to a maximum period of 30 hours of floor debate. Senators Josh Hawley and Rand Paul broke ranks with their fellow Republicans to vote against advancing the legislation. Senate Majority Leader John Thune flipped his vote to no as well at the end of the vote series in a procedural move to bring the legislation back at a future date.\n\nThe 60-vote threshold to get to the next stage is the greatest point of leverage for critics of the current legislative language. Once a bill advances, a simple Senate majority can pass it, meaning Republicans could theoretically do it on their own if they marshal all their members.\n\nSome Democrats who had previously spoken in favor of the effort turned against it in recent days, saying the stablecoin regime needed more safeguards against illicit behavior, most notably singling out the crypto business ties of President Donald Trump as a potential conflict of interest that was flagged by many of them as corruption.\n\nSenator Ruben Gallego, who received $10 million in backing from the crypto industry's political action committees during the 2024 election, was among them, and he said on the Senate floor before the vote, \"I believe there is a pathway for us to actually get this done, get good language, have a bipartisan win for this country.\"But he said the hard work and \"good faith\" that's gone into the bill so far should be paused.\n\n\"The reason you're hearing some hesitancy: The legislation of this scope and importance really cannot be rushed, and we need time,\" he said, adding that he's not seeking to shut the process down. \"We want to bring this economy and this innovation to the United States.\"\n\nGallego asked for Republicans to agree to hold off on the vote until at least Monday to give lawmakers time to \"educate\" the bill's opponents on the legislative text — which hadn't been finalized at the time the vote began.\n\nSenator Mark Warner, a Virginia Democrat, echoed that he hopes debate can still happen as early as next week, noting that \"stablecoins are undeniably a part of the future of finance,\" but he argued the \"text isn't yet finished\" and needs to provide Americans more protections.\n\nRepublicans, including Majority Leader John Thune, had encouraged the Senate to press forward to an open debate, where changes could still be made.\n\n\"We must grab the reins and ensure that all Americans are able to take charge of their financial future,\" said Senator Cynthia Lummis, the Wyoming Republican who leads a crypto subcommittee in the Senate. She said before the vote that senators' staffs have \"been working for days recently — days — to bring this bill to the floor\" and have already taken many amendments from Democrats.\n\n\"This is a bipartisan bill and had bipartisan process from the very beginning,\" Thune said in remarks after the vote in which he said Democrats refused to begin the debate the Senate has been building toward. \"Democrats have been accommodated every step of the way,\" he added, noting this is now the sixth version of the legislation.\n\n\"I just don't get it,\" he said. The plan now is to \"bring this legislation up again if and when Democrats are ready to get serious. Clearly today they are not.\"\n\nSenator Bill Hagerty, who introduced the bill in the first place, went further, saying lawmakers voting against opening debate were actually voting to \"kill the crypto industry here in America.\"\n\nRead More: Senate Republicans Making Plea to Get on With Stablecoin Debate\n\nUPDATE (May 8, 2025, 18:55 UTC): Adds remarks from Majority Leader John Thune.",
+    "url": "https://www.coindesk.com/policy/2025/05/08/senate-votes-against-advancing-stablecoin-bill-delaying-process-as-trump-concerns-fester",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Josh Hawley",
+                "Rand Paul",
+                "John Thune",
+                "Donald Trump",
+                "Ruben Gallego",
+                "Mark Warner",
+                "Cynthia Lummis",
+                "Bill Hagerty"
+            ],
+            "positions": [
+                "Senate Majority Leader",
+                "President",
+                "Senator"
+            ],
+            "companies": [
+                "Circle",
+                "Tether"
+            ],
+            "organizations": [
+                "Senate",
+                "Senate Banking Committee",
+                "Republican",
+                "Democrat",
+                "crypto industry's political action committees",
+                "crypto subcommittee in the Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The failure to advance stablecoin regulation legislation due to Democratic resistance and concerns about Trump's crypto business ties represents a regulatory setback that delays industry progress and creates uncertainty."
+    }
+}

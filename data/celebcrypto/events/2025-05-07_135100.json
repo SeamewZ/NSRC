@@ -1,0 +1,40 @@
+{
+    "title": "Revolut to Roll Out Bitcoin Lightning Payments for Europe Users Through Lightspark",
+    "time": "2025-05-07T13:51:00",
+    "author": "Krisztian Sandor",
+    "summary": "The integration will offer users cheaper, faster transactions using Lightspark's payment infrastructure built on top of the Bitcoin-based Lightning Network.",
+    "content": "Digital bank Revolut is working with Lightspark to roll out bitcoin (BTC) transactions on Lightning Network to customers in the U.K. and select countries in the European Economic Area (EEA).\n\nThe feature aims to cut transaction fees and payments processing time for crypto users, Lightspark said in a blog post. When asked in an email, the company didn't specify the timeline for when the feature will go live.\n\nLightspark, led by former PayPal executive David Marcus, provides backend infrastructure for connecting to what it calls the “Money Grid” — a decentralized network for real-time global payments.\n\nThe Lightning Network is a layer-2 system built on top of the Bitcoin blockchain that allows near-instant, low-fee transactions. By connecting to the network through Lightspark, Revolut users will be able to circumvent the congestion and high fees of the base blockchain to send BTC faster and more efficiently,\n\n\"Integrating with Lightspark is a natural step,\" Revolut’s crypto general manager Emil Urmanshin said in the post. \"We’re always looking to make financial services faster and more affordable — and their approach to global transactions enables us to do exactly that.\"\n\nThe integration puts London-based Revolut among the growing number of fintech firms leaning into faster, crypto-native payment systems. Bitcoin-focused payments firm Strike processed $6 billion in volumes last year, CEO Jack Mallers said in an investor letter shared in an X post last month.\n\nRead more: Visa Doubles Down on Stablecoins With Investment in Blockchain Payments Firm BVNK\n\nDisclaimer: This article, or parts of it, was generated with assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/05/07/revolut-to-roll-out-bitcoin-lightning-payments-for-europe-users-through-lightspark",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Marcus",
+                "Emil Urmanshin",
+                "Jack Mallers"
+            ],
+            "positions": [
+                "former PayPal executive",
+                "crypto general manager",
+                "CEO"
+            ],
+            "companies": [
+                "Revolut",
+                "Lightspark",
+                "PayPal",
+                "Strike",
+                "Visa",
+                "BVNK"
+            ],
+            "organizations": [
+                "European Economic Area",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of Bitcoin Lightning payments by a major fintech like Revolut enables cheaper, faster transactions, which increases utility and adoption potential."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Trump's CFTC Head Slams Prediction Markets Resistance Under Predecessor",
+    "summary": "Caroline Pham, the agency's acting chairman, is scheduling an experts roundtable to reset the CFTC's course on this \"sinkhole of legal uncertainty.\"",
+    "time": "2025-02-05T23:11:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Commodity Futures Trading Commission's legal campaign against prediction market platforms such as Polymarket and Kalshi can't just be shut down, according to Caroline Pham, the acting agency chairman put in place by President Donald Trump.\n\nPham said the agency will gather experts for a roundtable meeting, probably next month, that can build a case for how the commission ought to approach regulation and oversight of firms that offer betting on event contracts. She noted that despite her continued objections in recent years to former Chairman Rostin Behnam's enforcement stance against prediction markets — including wagers made on sporting events and U.S. political outcomes — the agency moved too far on its path to easily reverse it.\n\n\"Unfortunately, the undue delay and anti-innovation policies of the past several years have severely restricted the CFTC’s ability to pivot to common-sense regulation of prediction markets,” Pham said. \"The current commission interpretations regarding event contracts are a sinkhole of legal uncertainty and an inappropriate constraint on the new administration.\"\n\nSetting up the roundtable is a \"necessary first step in order to establish a holistic regulatory framework that will both foster thriving prediction markets and protect retail customers from binary options fraud such as deceptive and abusive marketing and sales practices,\" Pham said.\n\nThe CFTC lost an initial court case against Kalshi when a U.S. federal judge ruled late last year that the agency couldn't stop the firm from listing election contracts. However, the agency pursued an appeal with a higher court, and Kalshi argued in that new legal dispute that only Congress can halt election betting.\n\nRead More: CFTC Fines Crypto Betting Service Polymarket $1.4M for Unregistered Swaps\n\nThe CFTC had taken a position through rules, orders and enforcement work that such political betting isn't permitted under derivatives laws and that the agency doesn't have the ability to police manipulation of those markets — basically arguing that it would have to be an elections cop. With only days remaining in his chairmanship, Behnam's agency was seeking information about Polymarket's customers from crypto exchange Coinbase.\n\nIn language that's a sharp contrast from Behnam's resistance, Pham called prediction markets \"an important new frontier in harnessing the power of markets to assess sentiment to determine probabilities that can bring truth to the Information Age.\" She added the agency needs to \"break with its past hostility.\"\n\nRead More: Polymarket's Customer Data Sought by CFTC Subpoena of Coinbase, Source Says\n\nPham is running the agency in the absence of Trump naming a permanent nominee to seek Senate confirmation to take over. So far, the president has only picked a head for its cousin regulator, the Securities and Exchange Commission. Such confirmations can take months, so whether or not Pham becomes a frontrunner for the permanent job, she'll have time to accomplish some policy goals at the CFTC.",
+    "url": "https://www.coindesk.com/policy/2025/02/05/trump-s-cftc-head-slams-prediction-markets-resistance-under-predecessor",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Caroline Pham",
+                "Donald Trump",
+                "Rostin Behnam"
+            ],
+            "positions": [
+                "acting agency chairman",
+                "President",
+                "former Chairman"
+            ],
+            "companies": [
+                "Polymarket",
+                "Kalshi",
+                "Coinbase"
+            ],
+            "organizations": [
+                "U.S. Commodity Futures Trading Commission",
+                "CFTC",
+                "Congress",
+                "Securities and Exchange Commission",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The CFTC's acting chairman is pushing for pro-innovation policies and regulatory clarity for prediction markets, which contrasts with previous hostile enforcement actions."
+    }
+}

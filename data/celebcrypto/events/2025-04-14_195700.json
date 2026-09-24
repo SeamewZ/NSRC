@@ -1,0 +1,43 @@
+{
+    "title": "SEC Delays Decisions on In-Kind Redemptions, Ether ETF Staking",
+    "summary": "The regulator delayed two important decisions until June.",
+    "time": "2025-04-14T19:57:00",
+    "author": "Helene Braun",
+    "content": "The Securities and Exchange Commission (SEC) is not yet ready to make a decision on two critical features that issuers of the spot crypto exchange-traded funds (ETFs) are hoping to add to their products.\n\nThe regulator delayed a decision on whether it will allow in-kind redemptions for WisdomTree’s Bitcoin Fund (BTCW) and VanEck's Bitcoin Fund (BITB) and Ethereum Fund (ETHW) on Monday. It also moved its deadline for a decision in regards to a proposal by Grayscale to allow staking its Ethereum Trust (ETHE) and Mini Ethereum Trust\nETH\n$3,332.80\n, which the asset manager’s exchange, NYSE Arca had requested in February.\n\nCboe, the exchange that is associated with five of the other issuers of an ether ETF, including Fidelity, Franklin Templeton, VanEck and Invesco/Galaxy, submitted its amended filing in March for the Fidelity Ethereum Fund (FETH) and the Franklin Ethereum ETF (EZET).\n\nThe SEC has not previously allowed staking in spot ether ETFs. But with the appointment of new SEC Chair Paul Atkins, who was confirmed by the Senate last week, things could change quickly.\n\nSeveral other jurisdictions, including Hong Kong, Canada and Europe, have already green-lighted staking for ETFs, but that doesn’t put much pressure on the SEC, said one expert.\n\n“The SEC will take their time and move as fast or as slow as they want,” said James Seyffart, ETF analyst at Bloomberg Intelligence. “They don’t care what other regulators are doing in my experience, they might learn from them but I don’t think a regulator approving something is going to make the SEC jump through hoops and catch up. They’ll go at their own pace.”\n\nThe regulator now has until June 3rd to make a decision on in-kind redemptions on Bitwise’s and WisdomTree’s products and June 1st to decide on Grayscale’s staking proposal.",
+    "url": "https://www.coindesk.com/policy/2025/04/14/sec-delays-decisions-on-in-kind-redemptions-ether-etf-staking",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Seyffart",
+                "Paul Atkins"
+            ],
+            "positions": [
+                "ETF analyst",
+                "SEC Chair"
+            ],
+            "companies": [
+                "WisdomTree",
+                "VanEck",
+                "Grayscale",
+                "Fidelity",
+                "Franklin Templeton",
+                "Invesco/Galaxy",
+                "Bloomberg Intelligence",
+                "NYSE Arca",
+                "Cboe"
+            ],
+            "organizations": [
+                "SEC",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The SEC delaying decisions on ETF features creates uncertainty and maintains the status quo rather than introducing positive or negative catalysts."
+    }
+}

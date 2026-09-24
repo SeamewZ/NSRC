@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Mining Economics Weakened in February: JPMorgan",
+    "time": "2025-03-04T13:27:00",
+    "author": "Will Canny",
+    "summary": "The total market cap of the 14 publicly-listed U.S. bitcoin miners that the bank tracks dropped 22% last month, the report said.",
+    "content": "The total market cap of the 14 publicly-listed U.S. miners that Wall Street bank JPMorgan (JPM) tracks dropped 22% in February as the bitcoin\nBTC\n$103,808.19\nprice declined and mining economics came under pressure.\n\nBitcoin miners with high performance computing (HPC) exposure fell following the DeepSeek artificial intelligence (AI) announcement, and due to concerns about demand for data center capacity in the near-term, the bank noted.\n\nRevenue and profitability fell last month. The bank estimated that bitcoin miners earned $54,300 per EH/s on average in daily block reward revenue in February, a 5% decline from the month previous.\n\n\"Daily block reward gross profit declined 9% m/m to $29,500 per EH/s in February,\" analysts Reginald Smith and Charles Pearce wrote.\n\nThe average network hashrate rose 3% to 810 exahashes per second (EH/s) last month, the report said.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain.\n\nMining difficulty rose 2% from January, the bank said. Network difficulty is now 28% higher than before the halving event in April last year.\n\nCore Scientific (CORZ) was the best performer with a 9% drop, and Greenidge Generation underperformed with a 36% decline for the month, the report added.\n\nRead more: U.S.-Listed Bitcoin Miners Accounted for 29% of Global Hashrate in February: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/03/04/bitcoin-mining-economics-weakened-in-february-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "JPM",
+                "Core Scientific",
+                "CORZ",
+                "Greenidge Generation"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports declining market cap, falling revenue and profitability for bitcoin miners, and negative price pressure on mining stocks."
+    }
+}

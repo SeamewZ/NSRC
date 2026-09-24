@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin Nears $81K; XRP, ADA Slide as Traders Brace for Tariff War Escalation",
+    "time": "2025-03-31T04:51:00",
+    "author": "Shaurya Malwa",
+    "summary": "Stock markets opened lower for the fourth consecutive day due to global anticipation of President Donald Trump's upcoming announcement of new tariffs, set to be revealed on April 2.",
+    "content": "Bitcoin\nBTC\n$103,904.89\ntraded at just over $81,500 during Asian morning hours on Monday as the weekend slide saw major tokens lose momentum after last week’s brief rally.\n\nXRP and Cardano’s ADA led losses among majors with a 5% drop in the past 24 hours, with Solana’s SOL,\nDOGE\n$0.1650\nand ether\nETH\n$3,502.68\ndown between 2%-3%.\n\nThe CoinDesk 20, a measure of the performance of the largest digital assets, is down 2.6%\n\nBitcoin ETFs saw weekly inflows of $196 million last week, according to SoSoValue, while ether ETFs witnessed net outflows of just over $8 million.\n\nOn Monday, global stock markets opened lower for the fourth consecutive day as investors braced themselves for President Donald Trump's upcoming announcement of new tariffs, set to be revealed on Wednesday.\n\nHong Kong's Hang Seng index was down 1.7% in the morning session, while the Nikkei 225 was down 3.8%, and Korea's KOPSI index in the red by 3% as export-heavy economies worry about market access to the U.S.\n\nFutures for U.S. and European stock indexes also fell. In contrast, safe-haven assets like gold reached an all-time high, and U.S. Treasury yields dropped due to increased demand.\n\nGlobally, portfolio managers are adopting cautious strategies, either reducing risk or avoiding large investments, unsettled by the impending \"reciprocal tariffs\" and their potential economic toll.\n\nElsewhere in crypto, data from Tokenomist.ai shows that $751.2 million in unlocks are scheduled this week, including SUI and DYDX, putting the weekly unlock cycle in the middle of the pack. Unlocks are scheduled to pick up in May, when roughly $4.4 billion (at current market prices) in tokens will be unlocked.",
+    "url": "https://www.coindesk.com/markets/2025/03/31/bitcoin-nears-usd81k-xrp-ada-slide-as-traders-brace-for-tariff-war-ahead",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "SoSoValue",
+                "Tokenomist.ai"
+            ],
+            "organizations": [
+                "CoinDesk 20"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "ADA",
+            "Cardano",
+            "Solana",
+            "SOL",
+            "DOGE",
+            "ether",
+            "ETH",
+            "SUI",
+            "DYDX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin and major tokens losing momentum with significant price drops, the CoinDesk 20 index declining 2.6%, and market uncertainty due to impending tariff announcements."
+    }
+}

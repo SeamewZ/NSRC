@@ -1,0 +1,29 @@
+\begin{table*}[!t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{1.25pt}
+\renewcommand{\arraystretch}{1.04}
+\caption{Main forecasting results on four event cohorts (24-step pooled averages). Metrics are MSE ($\times10^3$), MAE ($\times10^2$), and MAPE (\%). Bold/underline mark the best overall/learned results. NSRC uses validation-frozen routing; CAMEF uses event fusion, while other baselines use price history only.}
+\label{tab:main}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|ccc|ccc|ccc|ccc}
+\toprule
+\multirow{2}{*}{\textbf{Method}} & \multicolumn{3}{c|}{\shortstack{\textbf{Celebrity events}\\[-1pt]\scriptsize BTC/ETH/SOL/DOGE}} & \multicolumn{3}{c|}{\shortstack{\textbf{News extension}\\[-1pt]\scriptsize BTC/ETH/SOL/DOGE}} & \multicolumn{3}{c|}{\shortstack{\textbf{Macro crypto}\\[-1pt]\scriptsize BTC/ETH/SOL/DOGE}} & \multicolumn{3}{c}{\shortstack{\textbf{Macro equities}\\[-1pt]\scriptsize SPX/NDX/INDU}} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){8-10}\cmidrule(l){11-13}
+& \textbf{MSE} & \textbf{MAE} & \textbf{MAPE} & \textbf{MSE} & \textbf{MAE} & \textbf{MAPE} & \textbf{MSE} & \textbf{MAE} & \textbf{MAPE} & \textbf{MSE} & \textbf{MAE} & \textbf{MAPE} \\
+\midrule
+Persistence~\cite{hyndman2021fpp} & \textbf{0.77052} & 1.69004 & 1.66709 & 0.29355 & 1.18851 & 1.17952 & \textbf{0.83228} & \textbf{2.07600} & \textbf{2.08960} & \textbf{0.12917} & \textbf{0.83780} & \textbf{0.84204} \\
+DLinear~\cite{zeng2023are} & 0.91826 & 1.90757 & 1.87894 & 0.41033 & 1.43537 & 1.42205 & 0.90287 & 2.19579 & 2.21258 & 0.20139 & 1.14871 & 1.15083 \\
+GPT4TS~\cite{zhou2023one} & 0.94757 & 1.86991 & 1.85010 & 0.30436 & 1.19922 & 1.18919 & 0.85595 & 2.10147 & 2.11765 & 0.16474 & 0.97754 & 0.98286 \\
+PatchTST~\cite{nie2023patchtst} & 1.35421 & 2.21099 & 2.18146 & 0.39814 & 1.35129 & 1.33804 & 1.09775 & 2.40025 & 2.41861 & 0.30944 & 1.27346 & 1.27916 \\
+iTransformer~\cite{liu2024itransformer} & 1.35719 & 2.20417 & 2.17109 & 0.38716 & 1.36651 & 1.35332 & 1.24934 & 2.52978 & 2.55176 & 0.27950 & 1.24577 & 1.24917 \\
+TimesNet~\cite{wu2023timesnet} & 1.28604 & 2.18051 & 2.14036 & 0.43382 & 1.39458 & 1.38109 & 1.49577 & 2.78680 & 2.81560 & 0.30640 & 1.33303 & 1.33807 \\
+Time-LLM~\cite{jin2024timellm} & 0.97559 & 1.87861 & 1.84509 & 0.31568 & 1.18681 & \textbf{1.17458} & 0.94044 & 2.25352 & 2.26913 & 0.15999 & 0.98954 & 0.99334 \\
+CAMEF~\cite{zhang2025camef} & 0.84006 & 1.84039 & 1.81391 & 0.36687 & 1.38901 & 1.37757 & 0.83987 & 2.09482 & 2.10655 & 0.31838 & 1.51249 & 1.50798 \\
+Time-MoE~\cite{shi2024timemoe} & 1.46827 & 2.29085 & 2.25199 & 0.42549 & 1.38411 & 1.37112 & 1.33620 & 2.69795 & 2.72397 & 0.17004 & 1.00844 & 1.01245 \\
+\textbf{NSRC (ours)} & \underline{0.77448} & \underline{\textbf{1.68974}} & \underline{\textbf{1.66632}} & \underline{\textbf{0.29310}} & \underline{\textbf{1.18509}} & 1.17633 & \underline{\textbf{0.83228}} & \underline{\textbf{2.07600}} & \underline{\textbf{2.08960}} & \underline{\textbf{0.12917}} & \underline{\textbf{0.83780}} & \underline{\textbf{0.84204}} \\
+\bottomrule
+\end{tabular}}
+
+
+\end{table*}

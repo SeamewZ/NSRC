@@ -1,0 +1,34 @@
+{
+    "title": "Polygon Starts Aggregator Program, Successful Projects Will Airdrop Up to 15% Native Token to POL Stakers",
+    "summary": "Successful “graduates” will send up to 15% of native token supply to POL stakers and connect to the Agglayer network.",
+    "time": "2025-04-24T13:00:00",
+    "author": "Shaurya Malwa",
+    "content": "Polygon has launched the Agglayer Breakout Program to support projects building on the Agglayer and Polygon proof-of-stake (PoS) ecosystems in a boost for POL token stakers.\n\nThe program combines incubation and community-focused funding to help founders develop and launch projects, with successful “graduates” airdropping 5%-15% of their native token supply to POL stakers and integrating with the Agglayer network.\n\nIt provides hands-on support from Polygon Labs, funding, and access to ecosystem resources to help projects grow quickly and connect to Agglayer’s unified user base and liquidity.\n\n\"With the Agglayer Breakout Program, we’re setting the stage for massive ecosystem expansion—and that includes opportunities for POL, with the potential for huge airdrops and rewards flowing back to the community as these projects start growing with massive liquidity addition to Agglayer,\" said Polygon founder Sandeep Nailwa\n\nAgglayer, short for aggregation layer, can be thought of as a web of networks that seem like a single chain to a user. It relies on zero-knowledge (ZK) proofs, a type of cryptography that allows one party to prove a piece of information to another without sharing details.\n\nFor example, one can prove to a blockchain that they have enough funds to pay another person without showing their wallet balance. The network verifies the payment, but financial details remain private. This is unlike regular blockchains or banking networks that reveal details.\n\nThat makes it possible to build sophisticated financial and gaming applications, among others, that allow the building of a trustless ecosystem (as public details may attract threat actors).\n\nAmong the first cohort of the breakout program is Privado ID, a ZK-based identity framework, which has fully graduated and plans to airdrop 5% of its token supply to POL stakers. Miden, a ZK-centric chain led by a former Facebook blockchain alum, is nearing graduation and will airdrop 10% of its tokens. A DeFi chain, still in stealth, is set to airdrop 15%.\n\nThese Airdrops provide POL stakers with new tokens, increasing the utility of POL as more chains launch. Snapshots to determine airdrop eligibility will begin next week, and stakers can participate by staking POL as of Wednesday.",
+    "url": "https://www.coindesk.com/tech/2025/04/24/polygon-starts-aggregator-program-successful-projects-will-airdrop-up-to-15-native-token-to-pol-stakers",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sandeep Nailwa"
+            ],
+            "positions": [
+                "founder",
+                "former Facebook blockchain alum"
+            ],
+            "companies": [
+                "Polygon Labs",
+                "Facebook"
+            ],
+            "organizations": [
+                "Polygon",
+                "Agglayer Breakout Program",
+                "Privado ID",
+                "Miden"
+            ]
+        },
+        "cryptocurrencies": [
+            "POL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ecosystem expansion, massive liquidity addition, and significant airdrop rewards for POL stakers, indicating positive market development and increased utility."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Kuwait Cracks Down on Illegal Crypto Mining to Protect National Grid",
+    "summary": "The government is disconnecting power from mining-linked properties and conducting follow-up sweeps.",
+    "time": "2025-05-01T12:20:00",
+    "author": "Francisco Rodrigues",
+    "content": "Kuwaiti authorities are cracking down on illegal crypto mining, with over 60 individuals now under investigation, as part of a sweeping campaign to root out unlicensed operations.\n\nThe country's Public Prosecution confirmed the investigations are ongoing and warned that more suspects could be identified in the coming weeks. The “security operation,” carried out last Friday, targeted residential properties across the country suspected of hosting mining rigs, according to local media.\n\nThe operation was coordinated by top officials, including Acting Prime Minister Sheikh Fahad Al-Yousef and Minister of Electricity Dr. Subaih Al-Mukhaizeem. The government said it aims to curb unauthorized power usage that has strained the national grid and led to blackouts in some areas.\n\nThe Ministry of Electricity has begun disconnecting power from mining-linked properties. Reconnection will only be permitted with clearance from the Ministry of Interior. Officials are also conducting follow-up sweeps in various neighborhoods.\n\nKuwait has enforced an “absolute ban on all virtual asset/cryptocurrency mining activities” under a directive from its anti-money laundering committee that was backed by regulators including the National Bank of Kuwait.",
+    "url": "https://www.coindesk.com/policy/2025/05/01/kuwait-cracks-down-on-illegal-crypto-mining-to-protect-national-grid",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sheikh Fahad Al-Yousef",
+                "Dr. Subaih Al-Mukhaizeem"
+            ],
+            "positions": [
+                "Acting Prime Minister",
+                "Minister of Electricity"
+            ],
+            "companies": [
+                "National Bank of Kuwait"
+            ],
+            "organizations": [
+                "Public Prosecution",
+                "Ministry of Electricity",
+                "Ministry of Interior",
+                "anti-money laundering committee"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a regulatory crackdown on crypto mining with power disconnections and investigations, which represents negative regulatory pressure on cryptocurrency operations."
+    }
+}

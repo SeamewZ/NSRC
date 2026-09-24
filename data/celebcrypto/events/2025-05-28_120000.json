@@ -1,0 +1,34 @@
+{
+    "title": "Telegram to Raise $1.5B Through Bond Sale Backed by BlackRock and Citadel: WSJ",
+    "summary": "The funds will be used to repurchase debt and are convertible into equity if Telegram goes public.",
+    "time": "2025-05-28T12:00:00",
+    "author": "Francisco Rodrigues",
+    "content": "Messaging platform Telegram is raising at least $1.5 billion through a new bond offering.\n\nThe firm is raising the funds through a five-year bond with a 9% yield, which has drawn interest from both returning investors such as the world’s largest asset manager BlackRock and Abu Dhabi’s sovereign wealth fund Mubadala, as well as new entrants including hedge fund Citadel, the Wall Street Journal reports citing sources with the deal.\n\nThe proceeds will be used to repurchase debt from Telegram’s earlier bond issuance in 2021, due next March. The new bonds are convertible into equity at a discount if Telegram goes public.\n\nTelegram originally developed layer 1 network TON, before making it an independent operation. In April, tokenization firm Libre said it plans to tokenize $500 million worth of Telegram debt on TON as Telegram Bond Fund (TBF).\n\nRead more: Telegram’s TON Takes On Real World Assets With Libre’s $500M Tokenized Bond Fund\n\nTelegram reportedly has over 1 billion monthly active users and 15 million paid subscribers, having doubled the figure in one year according to Durov.\n\nFinancially, the firm turned a corner in 2024, reporting a $540 million profit on $1.4 billion in revenue, up from a $173 million loss in 2023, the WSJ wrote. It projects a profit of more than $700 million for 2025.\n\nTelegram has grown its revenue by expanding its ad business and introducing features like in-app digital gifts and a platform for developers to build apps and bots.\n\nTelegram and Citadel did not immediately respond to requests for comment.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/telegram-to-raise-15b-through-bond-sale-backed-by-blackrock-and-citadel-wsj",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Durov"
+            ],
+            "positions": [],
+            "companies": [
+                "Telegram",
+                "BlackRock",
+                "Citadel",
+                "Libre"
+            ],
+            "organizations": [
+                "Mubadala",
+                "Wall Street Journal",
+                "WSJ",
+                "Telegram Bond Fund",
+                "TBF"
+            ]
+        },
+        "cryptocurrencies": [
+            "TON"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Telegram's successful $1.5B bond offering with major institutional backing, strong financial performance, and tokenization plans on TON blockchain, indicating growing institutional confidence in crypto-related projects."
+    }
+}

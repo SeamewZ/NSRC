@@ -1,0 +1,33 @@
+{
+    "title": "Circle and Near Invest $14M in Remittances App for Indian Diaspora",
+    "time": "2025-03-27T15:29:00",
+    "author": "Oliver Knight",
+    "summary": "The app currently has 500,000 monthly actively users.",
+    "content": "Remittance app Abound raised $14 million in a seed round following investment from crypto heavyweights Circle Ventures and the Near Foundation.\n\nThe app aims to be a financial bridge between non-resident Indians (NRIs) and India, and has processed $150 million worth of remittances with about 500,000 monthly active users. Abound is incubated by the digital arm of the Times of India Group, one of the country's largest news agencies.\n\n“Indians in America have a unique financial reality — one that spans two countries, two economies, and two currencies. Yet, the financial services available today weren’t designed for their needs,” said Nishkaam Mehta, CEO of Abound, in a statement.\n\nThe investment will be used to scale the business by hiring in several key roles and enhancing its technology infrastructure, a press release said.\n\nCircle is the issuer of USDC, a stablecoin pegged to the U.S. dollar that has a market cap of $59 billion. A 2024 report outlined that the stablecoin sector had settled $10.8 trillion worth of transactions in 2023, of which $2.3 trillion were related to payments and cross-border remittances.\n\nUPDATE (April 1, 15:43 UTC): Removes penultimate paragraph with comment from Circle CFO Jeremy Fox-Geen after company retracts it.",
+    "url": "https://www.coindesk.com/business/2025/03/24/circle-and-near-invest-usd14m-in-remittances-app-for-indian-diaspora",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nishkaam Mehta",
+                "Jeremy Fox-Geen"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Circle",
+                "Circle Ventures",
+                "Abound",
+                "Times of India Group"
+            ],
+            "organizations": [
+                "Near Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $14 million investment from major crypto entities into a remittance app that has processed $150 million in transactions, indicating growing institutional adoption and use case expansion for cryptocurrency in cross-border payments."
+    }
+}

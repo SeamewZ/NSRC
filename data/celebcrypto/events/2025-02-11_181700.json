@@ -1,0 +1,29 @@
+{
+    "title": "Robinhood's Q4 Report Could Help Preview Coinbase Results",
+    "time": "2025-02-11T18:17:00",
+    "author": "Helene Braun",
+    "summary": "Analysts are expecting overall crypto revenue at Robinhood to have soared to $345.5 million from $63.9 million in the previous quarter.",
+    "content": "Major action in crypto in 2024's final three months is expected to show up in the results of trading app Robinhood (HOOD).\n\nA surge in user activity leading up to and then following the election of Donald Trump in November has analysts expecting a 440% quarterly jump in HOOD's cryptocurrency trading revenue to $345.5 million, according to FactSet.\n\nShares of HOOD have soared 350% over the past year as retail traders have returned to the app in anticipation of a more favorable macro environment for stocks and crypto and are higher by 37% in just the first six weeks of 2025.\n\nRobinhood's overall revenue in the fourth quarter is estimated to land at $934.9 million, up from $660.5 three months earlier, according to FactSet. Earnings-per-share are expected to be $0.41 versus $0.18 the previous quarter.\n\nRobinhood’s trading data, which is disclosed regularly by the company, is often used by analysts to estimate Coinbase’s (COIN) trading volume, which historically has moved in correlation with HOOD.\n\nAccording to analyst Benjamin Buddish at Barclays, the trading app saw very strong overall growth in reported crypto volumes with total volumes of roughly $69 billion through Dec. 27. This would be a five-fold increase quarter-over-quarter and a six-fold increase year-over-year, the bank noted.\n\nAs a result, Buddish sees Coinbase’s retail volume to land north of $108 billion, even assuming a lower \"beta\" for those retail volumes, he said.\n\nCoinbase, which announces fourth quarter earnings on Thursday after the close, is estimated to report one of its strongest quarter in terms of trading volume to date leading to $1.8 billion in revenue, according to FactSet estimates. Earnings-per-share are estimated at $1.99 versus $0.41.\n\nShares of COIN will likely be affected by Robinhood’s earnings in anticipation of a similar positive report from the crypto exchange on Thursday. COIN is up 90% over the past year, currently trading at $269.88. HOOD, on the other hand, is up 370% over the same period, trading at $54.33 at press time.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/robinhood-s-q4-report-could-help-preview-coinbase-results",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Benjamin Buddish"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "Robinhood",
+                "Coinbase",
+                "Barclays",
+                "FactSet"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports massive growth in crypto trading revenue (440% quarterly jump), soaring crypto volumes (five-fold increase), and strong retail activity indicating robust market confidence and positive momentum."
+    }
+}

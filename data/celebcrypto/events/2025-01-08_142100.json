@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: APT Falls 5.1% as Index Declines from Tuesday",
+    "time": "2025-01-08T14:21:00",
+    "author": "CoinDesk Indices",
+    "summary": "Near Protocol (NEAR) joined Aptos (APT) as an underperformer, also dipping 5.1%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3430.34, down 1.1% (-39.46) since 4 p.m. ET on Tuesday.\n\nTwo of 20 assets are trading higher.\n\nLeaders: XRP (+2.0%) and XLM (+1.7%).\n\nLaggards: APT (-5.1%) and NEAR (-5.1%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/08/coin-desk-20-performance-update-apt-falls-5-1-as-index-declines-from-tuesday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "APT",
+            "XRP",
+            "XLM"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index declined 1.1% with 18 of 20 assets trading lower, led by significant drops in APT and NEAR."
+    }
+}

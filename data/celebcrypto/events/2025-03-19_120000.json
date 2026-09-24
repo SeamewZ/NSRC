@@ -1,0 +1,34 @@
+{
+    "title": "Crypto Wallet Provider Utila Raises $18M as Institutional Demand for Digital Asset Management Soars",
+    "time": "2025-03-19T12:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The crypto infrastructure provider has processed $8 billion in transactions in a month, CEO Bentzi Rabi told CoinDesk in an interview.",
+    "content": "Utila, a digital asset operations platform, has raised $18 million in a Series A round to expand its multi-party computation (MPC) wallet solutions as institutional demand to manage digital assets is soaring, the company told CoinDesk.\n\nNyca Partners led the round, with participation from Wing VC, NFX, Haymaker Ventures, Gaingels, and Cerca Partners. The latest round brings the startup's total venture capital funding to around $30 million, since emerging from stealth last year.\n\nUtila has experienced a fresh wave of demand for digital asset infrastructure, as payment providers, fintech firms and neobanks increasingly use digital assets, including stablecoins and tokenized assets in their operations, Bentzi Rabi, co-founder and CEO of Utila, said in an interview.\n\nWith lingering security concerns in managing digital assets, once again pulled into spotlight by crypto exchange Bybit's $1.5 billion exploit, \"Organizations don’t have many options today,\" said Rabi.\n\n“They’re either using outdated institutional wallets that lack key features or simple wallets that aren’t enterprise-ready,\" Rabi added.\n\nIts platform leverages multiparty computation (MPC) technology, which splits a private key across multiple parties, reducing the risk of a single point of failure. It also features insurance coverage against security threats and asset losses, business continuity offering to mirror features that already have a service in place.\n\nThe company's platform has handled $8 billion in monthly digital asset transactions, Rabi said, a sizable bump from the $3 billion in three months in early 2024.\n\nThe funding will help Utila expand globally and enhance its product offerings, including advanced gas management, API integrations, and smart contract support.",
+    "url": "https://www.coindesk.com/business/2025/03/19/crypto-wallet-provider-utila-raises-usd18m-as-institutional-demand-for-digital-asset-management-soars",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bentzi Rabi"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Utila",
+                "Nyca Partners",
+                "Wing VC",
+                "NFX",
+                "Haymaker Ventures",
+                "Gaingels",
+                "Cerca Partners",
+                "Bybit"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant institutional investment growth, increased transaction volumes, and expanding institutional adoption of digital asset infrastructure, indicating strong market confidence and growth."
+    }
+}

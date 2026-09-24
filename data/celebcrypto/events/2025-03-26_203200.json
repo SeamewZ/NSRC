@@ -1,0 +1,35 @@
+{
+    "title": "Sen. Gillibrand Warns Against a ‘Watered-Down’ Stablecoin Bill",
+    "summary": "Gillibrand suggested that the long-awaited stablecoin bill could become law before the August recess.",
+    "time": "2025-03-26T20:32:00",
+    "author": "Cheyenne Ligon",
+    "content": "U.S. Senator Kirsten Gillibrand (D-N.Y.), one of the leading Democrats supporting crypto legislation, warned the industry against pushing for a “watered-down” version of the long-awaited stablecoin legislation currently moving through the Senate, arguing that stringent regulations are necessary to foster innovation and protect investors from bank runs like the one on Silicon Valley Bank in 2023 and the collapse of crypto exchange FTX in 2022.\n\nSpeaking at the D.C. Blockchain Summit in Washington, D.C. on Wednesday, Gillibrand said that the bipartisan stablecoin bill — Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) — creates a number of protections for consumers in the event of an issuer bankruptcy scenario.\n\n“You have to think through all the ways this can go wrong. Something as simple as how you define a dollar — is a Treasury the same as a dollar? What happens if your 1-to-1 backing is all in Treasuries and you have an interest rate misalignment like SVB just did, and you have a run on your stablecoin and all your dollar-to-dollar backing is in a three-month Treasury that you can’t get out of – that’s a run on your stablecoin, that’s a collapse,” Gillibrand said.\n\nIf dollar-backing requirements are not met or enforced, Gillibrand said: “You’ll just have another FTX. You’ll just have another algorithmic stablecoin that plunges because it never really made sense. That is a huge problem for the U.S. market.”\n\n“The worst thing we could do is water it down,” Gillibrand said. “Do not think that a watered-down bill will help your industry. It will destroy your industry. Because one more SVB, one more algorithmic stablecoin [collapse], just continues to create such uncertainty that nobody wants to do business in the United States.”\n\nAfter years of false starts, stablecoin legislation appears to finally be gaining momentum. Earlier this month, the U.S. Senate Banking Committee voted to advance the GENIUS Act to a Senate-wide vote. A similar bill from the U.S. House of Representatives is expected to go public on Wednesday.\n\nRead more: U.S. House Stablecoin Bill Poised to Go Public Lawmaker Atop Crypto Panel Says\n\nGillibrand said that if Congress is able to get the GENIUS Act signed into law, it is then more likely to be able to make progress on a market structure bill.\n\n“A market structure bill is much more complex. It regulates the entire industry, not just one version of a digital asset,” Gillibrand said. “So it’s really important that we do this right so we can move to something much bigger, and something we need to build even broader consensus around.”\n\nA market structure bill would create a regulatory framework for the crypto industry as a whole, giving crypto companies and digital asset issuers clearer rules of the road and a framework to determine whether their tokens are securities or not — and therefore, who their primary regulator is.\n\nSpeaking on the same panel, Sen. Bernie Moreno (R-Ohio) suggested that any digital asset with a centralized issuer is likely to be a security, not a commodity.\n\n“If your digital currency has a CEO it's not a commodity, by definition,” Moreno said.\n\nDuring another panel discussion at the same event on Wednesday, Sen. Tim Scott (R-S.C.), said the future market structure bill would need to “find a way to create a structure that works beyond the two major categories” of security vs. commodity.\n\nMoreno said he wanted to see the GENIUS Act passed before the August recess.\n\n“I’m gonna lay out the gauntlet — let’s get this done by August recess, what do you think? Markets structure, GENIUS Act, [Strategic Bitcoin Reserve], all done by August,” Moreno said.\n\nGillibrand tempered expectations, telling Moreno that there was no way to get a market structure bill done by August, but that Congress is “definitely going to get stablecoins done” before the summer break — perhaps, she amended, even before the Easter recess in April, “if we’re really productive.”",
+    "url": "https://www.coindesk.com/policy/2025/03/26/sen-gillibrand-warns-against-a-watered-down-stablecoin-bill-says-tough-regs-needed-to-prevent-svb-like-bank-run",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kirsten Gillibrand",
+                "Bernie Moreno",
+                "Tim Scott"
+            ],
+            "positions": [
+                "U.S. Senator",
+                "Senator",
+                "CEO"
+            ],
+            "companies": [
+                "Silicon Valley Bank",
+                "FTX"
+            ],
+            "organizations": [
+                "D.C. Blockchain Summit",
+                "U.S. Senate Banking Committee",
+                "U.S. House of Representatives",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses ongoing stablecoin legislation with mixed signals - warnings about watered-down bills but also momentum toward regulatory clarity, creating uncertainty rather than clear positive or negative market direction."
+    }
+}

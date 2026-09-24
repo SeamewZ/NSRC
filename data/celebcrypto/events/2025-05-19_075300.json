@@ -1,0 +1,34 @@
+{
+    "title": "U.S. 30-Year Treasury Yield Breaches 5% Amid Moody's Rating Downgrade, Fiscal Concerns",
+    "summary": "Rising deficits, reduced foreign demand, and investor unease over trade policy drive bond market turbulence and broader risk aversion.",
+    "time": "2025-05-19T07:53:00",
+    "author": "James Van Straten",
+    "content": "The yield on the U.S. 30-year treasury bills crossed the 5% threshold for the first time since April, reaching an intraday high of 5.011%. This move comes in the wake of Moody’s downgrading U.S. credit, stripping the country of Aaa rating due to mounting deficits and escalating interest expenses.\n\nThe last time the long end of the yield curve reached 5% was on April 9, during the so-called \"tariff tantrum,\" which triggered sharp sell-offs in both crypto and U.S. equity markets.\n\nAt that time, bitcoin\nBTC\n$101,803.55\nwas hovering near its local low of around $75,000. It has since rebounded strongly, currently trading around $103,000 after hitting a Sunday high of $106,000.\n\n“The last time the 30-year closed at or above 5% (at the 6 PM ET mark) was October 31, 2023. The highest closing yield in recent memory was 5.11% on October 19, 2023, the highest since July 2007, nearly 18 years ago. The current yield is just 12 basis points away from surpassing that milestone,” said Jim Bianco, head of Bianco Research.\n\nIn addition, the United Kingdom surpassed China in March to become the second-largest foreign holder of U.S. Treasuries, with holdings totaling $779.3 billion—trailing only Japan, which remains the top foreign holder.\n\nBoth China and Japan have continued to reduce their U.S. Treasury holdings over the past 12 months, underscoring the growing need for the U.S. to attract new buyers for its debt.\n\nAs the U.S. Treasury faces growing deficits, with the potential of more bonds being issued, increasing supply and thereby pushing yields higher while prices fall. Meanwhile, Nasdaq futures are down around 2%, reflecting broader risk-off sentiment in the market.",
+    "url": "https://www.coindesk.com/markets/2025/05/19/us-30-year-treasury-yield-breaches-5-amid-moodys-rating-downgrade-fiscal-concerns",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jim Bianco"
+            ],
+            "positions": [
+                "head of Bianco Research"
+            ],
+            "companies": [
+                "Bianco Research"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Moody's",
+                "United Kingdom",
+                "China",
+                "Japan"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes how the last time the 30-year treasury yield reached 5%, it triggered sharp sell-offs in crypto markets, and current market conditions show broader risk-off sentiment with Nasdaq futures down 2%."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Bitcoin Plunges Below $84K after $115B Sell-Off Wipes Out Weekly Gains",
+    "time": "2025-03-28T21:08:00",
+    "author": "Krisztian Sandor",
+    "summary": "Ethereum's ETH hit its weakest price against bitcoin in almost five years as macroeconomic concerns added pressure to risk assets.",
+    "content": "Hopes for the crypto recovery to continue vanished on Friday, as a market-wide rout erased virtually all gains from earlier this week.\n\nBitcoin\nBTC\n$104,608.94\n, hovering just below $88,000 a day ago, tumbled to $83,800 recently and is down 3.8% over the past 24 hours. The broad-market benchmark CoinDesk 20 Index declined 5.7%, with native cryptos\nAVAX\n$16.64\n, Polygon (POL),\nNEAR\n$1.8865\n, and Uniswap\nUNI\n$5.1874\nall nursing almost 10% losses during the same period. Today's sell-off wiped out $115 billion of the total market value of cryptocurrencies, TradingView data shows.\n\nEthereum's ether\nETH\n$3,495.36\ndeclined over 6% to extend its downtrend against BTC, falling to its weakest relative price to the largest cryptocurrency since May 2020. Underscoring the bearish trend, spot ETH exchange-traded funds failed to attract any net inflows since early March, while their BTC counterparts saw over $1 billion of inflows in the past two weeks, according to Farside Investors data.\n\nThe ugly crypto price action coincided with U.S. stocks selling off during the day on poor economic data, with the S&P 500 and the tech-heavy Nasdaq index down 2% and 2.8%, respectively. Crypto-focused stocks also suffered heavy losses: Strategy (MSTR), the largest corporate BTC holder, closed the day 10% lower, while crypto exchange Coinbase (COIN) dropped 7.7%.\n\nThe February PCE inflation report, released this morning, showed a 2.5% year-over-year increase in the price index, with core inflation at 2.8%, slightly above expectations. Consumer spending showed a modest 0.4% rise, though inflation-adjusted figures indicate minimal growth, suggesting potential headwinds for economic growth. The Federal Reserve of Atlanta's GDPNow model now projects the U.S. economy to contract 2.8% in the first quarter, 0.5% adjusted for gold imports and exports, spurring stagflationary fears.\n\nThe implementation of broad-scale U.S. tariffs next week—the so-called \"Liberation Day' on April 2, as the Trump administration refers to—also compounded investor concerns across markets.\n\nBitcoin has closely correlated with the Nasdaq lately, so U.S. equities rolling over for another leg down could weigh on the broader crypto market. However, on a more optimistic note, today's decline could be BTC filling the price gap at around $84,000-$85,000 between Monday's open and the previous week's close on the Chicago Mercantile Exchange futures market. Historically, BTC usually revisited similar CME gaps and a drop to $84,000 was in the cards, CoinDesk senior analyst James Van Straten noted earlier this week.\n\nRead more: Bitcoin's Weekend Surge Forms Another CME Gap, Signaling Possible Drop Back\n\n\"At this stage it’s difficult to determine if we have already seen a bottom in 2025,\" Joel Kruger, market strategist at LMAX Group, said in a market note. Despite the on-going correction, he noted several positive trends such as crypto-friendly policies in the U.S. and more traditional financial firms entering the industry or expanding crypto offerings, which could bode well for digital assets later in the year.\n\n\"Any additional setbacks that we might see should be exceptionally well supported into the $70-75k area,\" he added.",
+    "url": "https://www.coindesk.com/markets/2025/03/28/bitcoin-plunges-below-usd84k-after-usd115b-sell-off-wipes-out-weekly-gains",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Joel Kruger"
+            ],
+            "positions": [
+                "senior analyst",
+                "market strategist"
+            ],
+            "companies": [
+                "Strategy (MSTR)",
+                "Coinbase (COIN)",
+                "LMAX Group"
+            ],
+            "organizations": [
+                "TradingView",
+                "Farside Investors",
+                "Federal Reserve of Atlanta",
+                "Chicago Mercantile Exchange",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "AVAX",
+            "Polygon",
+            "POL",
+            "NEAR",
+            "Uniswap",
+            "UNI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a market-wide crypto rout with Bitcoin plunging below $84K, $115 billion wiped from market value, and most major cryptocurrencies experiencing significant losses."
+    }
+}

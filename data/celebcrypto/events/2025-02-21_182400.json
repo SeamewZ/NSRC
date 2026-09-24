@@ -1,0 +1,41 @@
+{
+    "title": "U.S. Senators Push for SEC to Rethink Crypto Staking in Exchange Funds",
+    "summary": "The Securities and Exchange Commission blocked staking when crypto exchange-traded funds were granted, but the lawmakers suggest the SEC may have been off-base.",
+    "time": "2025-02-21T18:24:00",
+    "author": "Jesse Hamilton",
+    "content": "Staking should potentially be added to the menu for crypto exchange-traded funds (ETFs), a bipartisan group of U.S. senators argued in a letter to the Securities and Exchange Commission (SEC) on Thursday.\n\nIssuers of crypto ETFs had originally planned to include the staking feature in their fund offerings, but the SEC, under its past leadership, had balked at the idea. The agency, run by Chair Gary Gensler until the administration of President Donald Trump arrived last month, had previously pursued enforcement actions against firms such as Kraken, arguing staking amounted to an unregistered securities offering.\n\nThe senators' letter — backed by Cynthia Lummis, the Republican chair of a Senate subcommittee that focuses on digital assets — calls for reconsidering the practice, which involves locking up digital tokens to support blockchain operations in return for rewards. Protocol staking is key to the security of ecosystems such as Ethereum, supporters contend.\n\n\"We encourage the SEC to consider the potential benefit to investors from allowing protocol staking in certain digital asset [exchange-traded products],\" the letter to SEC Acting Chairman Mark Uyeda argued.\n\nOther Republicans joined Lummis in the correspondence, and so did two Democrats: her usual crypto partner, Kirsten Gillibrand of New York, and also Ron Wyden of Oregon.\n\nRead More: Staking in Ethereum ETFs Might Be a Question of When, Not If",
+    "url": "https://www.coindesk.com/policy/2025/02/20/u-s-senators-push-for-sec-to-ok-crypto-staking-in-exchange-funds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cynthia Lummis",
+                "Gary Gensler",
+                "Donald Trump",
+                "Kirsten Gillibrand",
+                "Ron Wyden",
+                "Mark Uyeda"
+            ],
+            "positions": [
+                "Republican chair of a Senate subcommittee that focuses on digital assets",
+                "SEC Chair",
+                "President",
+                "Senator",
+                "Senator",
+                "SEC Acting Chairman"
+            ],
+            "companies": [
+                "Kraken"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "Securities and Exchange Commission (SEC)",
+                "Senate subcommittee that focuses on digital assets"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The bipartisan push by U.S. senators to allow staking in crypto ETFs represents positive regulatory momentum that could increase institutional adoption and market confidence."
+    }
+}

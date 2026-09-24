@@ -1,0 +1,28 @@
+{
+    "title": "AI Firm CoreWeave Files for IPO, Citing $1.9B in Revenue",
+    "time": "2025-03-03T22:41:00",
+    "author": "Tom Carreras",
+    "summary": "The company is expected to raise $4 billion at a $35 billion valuation.",
+    "content": "CoreWeave, an AI firm in close partnership with bitcoin miner Core Scientific (CORZ), filed for an initial public offering (IPO) today.\n\nThe company is expected to raise $4 billion, with a valuation of more than $35 billion.\n\nToday's filing showed the company had seen $1.9 billion in revenue in 2024, resulting in a net loss of $863 million due to the firm's AI-related investments. The company currently carries an accumulated deficit of $1.5 billion.\n\nCoreWeave has enlisted Core Scientific's assistance to build 500 megawatts (MW) of infrastructure for AI-related purposes. The latter company used to be CoreWeave's biggest GPU supplier when the former was still mining ether.\n\nThe move comes as demand for AI has spiked significantly amid the adoption of the tech from small retail users to large institutions. CoreWeave said that the AI industry will generate a cumulative global economic impact of $20 trillion, or 3.5% of global GDP, by 2030, according to IDC.\n\nThe shares of CORZ are up 3.5% post-market trading.\n\nRead more: Bitcoin Miners Are Pivoting to AI to Survive. Core Scientific Entered the Race Years Ago",
+    "url": "https://www.coindesk.com/markets/2025/03/03/ai-firm-coreweave-files-for-ipo-citing-usd1-9b-in-revenue",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoreWeave",
+                "Core Scientific",
+                "CORZ"
+            ],
+            "organizations": [
+                "IDC"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows bitcoin miner Core Scientific partnering with AI firm CoreWeave and CORZ shares rising 3.5% post-market, indicating positive market reaction to cryptocurrency mining companies expanding into AI."
+    }
+}

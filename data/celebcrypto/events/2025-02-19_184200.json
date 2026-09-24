@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Could Drop to $86K as Demand, Network Activity Falter: CryptoQuant",
+    "time": "2025-02-19T18:42:00",
+    "author": "Krisztian Sandor",
+    "summary": "Bitcoin entered the final stretch of its weekly cycle and could bottom soon, a well-followed trader said.",
+    "content": "Bitcoin (BTC) quickly bounced back from the Tuesday dip to $93,000, but downside pressure still persists risking a deeper pullback to $86,000, CryptoQuant analysts said. Waning demand, faltering blockchain activity and lack of liquidity inflows to crypto are among the factors that could drag BTC lower, the report said.\n\nDemand for bitcoin, which picked up in late 2024 amid optimism over easing regulatory headwinds on Trump's election win, is now retreating. CryptoQuant data shows that demand growth slumped to 70,000 BTC recently from the 279,000 BTC peak on December 4. Inflows to spot BTC exchange-traded funds (ETF), a typical occurrence during bitcoin’s previous rallies, have disappeared, booking regular net outflows over the past two weeks after previously seeing as much as 18,000 BTC in daily purchases in November and December.\n\nMeanwhile, CryptoQuant’s Inter-exchange Flow Pulse, which tracks BTC movement between exchanges, also signals weakness with BTC transfers to Coinbase—a gauge of U.S. spot demand—declining below its 90-day moving average.\n\nStablecoin growth, a key fuel during crypto market rallies, also lost momentum. Although the total stablecoin market cap recently rose to a new all-time high crossing $200 billion, the pace of the expansion has slowed significantly. The 60-day average change in USDT’s market capitalization, the largest stablecoin, plunged by over 90% since mid-December, dropping to $1.5 billion from over $20 billion. With stablecoins often used to buy crypto assets on exchanges, the slowdown indicates a lack of fresh capital entering the market.\n\nMuted blockchain activity on the Bitcoin network flashes further warning signs, CryptoQuant analysts said. Bitcoin’s network activity has slumped to its lowest level in a year, per CryptoQuant’s Bitcoin Network Activity Index. The metric is down 17% from its November 2024 peak and fell below its 365-day moving average for the first time since July 2021, when China banned BTC mining. Fewer transactions indicate declining investor engagement and waning speculative interest.\n\nAfter hitting a new record of $109,000 in January fueled by optimism around Donald Trump becoming president, BTC has struggled to hold its ground and has been languishing in a narrow range above $90,000. Meanwhile, sentiment in the broader crypto market has been battered by highly controversial memecoin launches in the past weeks, with the likes of TRUMP memecoin and LIBRA burning speculative capital.\n\nThe sentiment reset is almost complete as bitcoin entered the final stretch of its weekly cycle, well-followed trader Bob Loukas noted. BTC could find a bottom of the corrective phase in the near-future, but it could break below the $90,000 range-low in doing so, he added.\n\n\"More a question of if the bottom of the range (90k) can hold or not,\" Loukas said in an X post. \"Doesn't matter, sentiment resetting occurs either way.\"",
+    "url": "https://www.coindesk.com/markets/2025/02/19/bitcoin-could-drop-to-usd86k-as-demand-network-activity-falter-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bob Loukas",
+                "Donald Trump"
+            ],
+            "positions": [
+                "president",
+                "trader",
+                "analysts"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "CryptoQuant"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "TRUMP",
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple bearish factors including waning demand, declining network activity, lack of ETF inflows, slowing stablecoin growth, and potential price drops to $86,000."
+    }
+}

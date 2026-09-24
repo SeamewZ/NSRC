@@ -1,0 +1,45 @@
+{
+    "title": "Bitcoin Registers Biggest 3-Day Price Slide Since FTX Debacle. What Next?",
+    "time": "2025-02-27T07:02:00",
+    "author": "Omkar Godbole",
+    "summary": "In a worst case scenario, prices could slide to the $72,000–$74,000 range, one analyst said.",
+    "content": "Bitcoin's\nBTC\n$103,779.54\nprolonged range play above $90K has concluded bearishly this week, and how?\n\nThe 12.6% drop observed in the first three days of the week (per UTC hours) marks the largest decline since the FTX bankruptcy in November 2022, according to data from TradingView.\n\nThe sell-off is consistent with CoinDesk's analysis earlier this month, which noted investor disappointment over the lack of swift action from President Donald Trump's administration on creating the promised national BTC reserve and tightening fiat liquidity conditions.\n\nInstitutional demand for the largest cryptocurrency and its second-largest peer, ether\nETH\n$3,484.15\n, weakened, pushing the CME futures market closer to backwardation, a market condition where spot prices are higher than prices for futures.\n\nAdditionally, Nasdaq, the Wall Street's tech-heavy index, has also come under pressure, adding to BTC's woes.\n\nThe question now is, what next? The path of least resistance appears to be on the downside, as the Trump tariffs story could heat up again as the March 4 deadline for tariffs against Canada and Mexico nears. The first shots fired early this month had led to a broad-based risk-off mood.\n\nThose pinning hopes on Friday's U.S. \"core\" Personal Consumption Expenditures (PCE) index, the Fed's preferred inflation measure, to put a floor under risk assets might face disappointment, according to Noelle Acheson, author of the \"Crypto is Macro Now\" newsletter.\n\nThe core PCE, which excludes the volatile food and energy components, is expected to have risen 2.6% year-on-year in January, down from December's 2.8%, according to FactSet's consensus estimates quoted by Morningstar. Typically, slower inflation is associated with a greater probability of Fed rate cuts and risk-on.\n\nHowever, this time markets could look past the expected soft reading and focus on the ongoing uptick in the forward-looking inflation metrics. For instance, the Conference Board's consumer confidence for February released this week showed a surge in one-year inflation expectations to 6% from 5.2%. That's quite a jump. The two- and five-year inflation swaps have also been rising, as CoinDesk noted earlier this month.\n\nPer Acheson, markets may see the expected decline in the core PCE as a sign of economic weakness.\n\n\"Anyway, even if the PCE comes in softer than forecast, it could be taken as confirmation of slowing growth, sending markets into another whirlwind of concern,\" Acheson said in Wednesday's edition of the newsletter shared with CoinDesk.\n\n\"So, this bad mood is largely macro-driven,\" Acheson added, expressing concerns over tariffs, high corporate valuations and overexposure of portfolios to AI.\n\nAcheson, however, said crypto could soon find its footing, thanks to bitcoin's dual appeal as a risk asset and a haven akin to digital gold.\n\n\"For most portfolios, the risk-asset/safe haven duality suggests that there is a price at which new longer-term investors will start to come in – this encourages traders to come back in, also,\" Acheson noted.\n\nPer technical analysis theory, a downside break of a prolonged range play, as seen in BTC, usually leads to a notable drop, equivalent to the breadth of the range. In other words, the downside break of the $90K-$110K range means a potential for a slide to $70,000.\n\n\"In a worst-case scenario, Bitcoin could drop to the $72,000–$74,000 range, where a rebound will likely occur,\" Markus Thielen, founder of 10x Research, said in a note to clients Wednesday, noting bitcoin's lagged correlation to the global central bank liquidity indicator.\n\nThat said, BTC has bounced to $86,000 at press time, having tested a supposed demand zone at around $82,000, suggested by Markus Thielen, founder of 10x Research, in Wednesday's client note.\n\nThielen identified the $82,000 level by analyzing an on-chain metric called the short-term holders' realized price – the average price at which addresses holding coins for less than 155 days have purchased their BTC – suggests the potential demand zone is around $82,000.\n\n\"Historically, bitcoin rarely trades below this (short-term holders' realized price] level in bull markets for extended periods, whereas, in bear markets, it tends to stay below it for longer durations. During the summer 2024 consolidation, bitcoin dropped $9,616 below this metric, now at $92,800,\" Thielen said in a note to clients.\n\n\"If the 2024 consolidation pattern repeats, bitcoin could decline to around $82,000 before stabilizing,\" Thielen added.\n\nSome analysts are hopeful that regulatory clarity in the wake of Wednesday's Senate Committee hearing on \"Exploring a Bipartisan Legislative Framework for Digital Assets,\" could lift market valuations.\n\n\"A clear regulatory framework may be exactly what the market needs for institutions to confidently enter the space, unlocking the next wave of capital inflows. If the U.S. provides definitive guidance on stablecoins and broader digital asset regulations, we could see significant institutional allocation into the space,\" Matt Mena, crypto research strategist at 21Shares, said in an email.",
+    "url": "https://www.coindesk.com/markets/2025/02/27/bitcoin-registers-biggest-3-day-price-slide-since-ftx-debacle-what-next",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Noelle Acheson",
+                "Markus Thielen",
+                "Matt Mena"
+            ],
+            "positions": [
+                "author of the \"Crypto is Macro Now\" newsletter",
+                "founder of 10x Research",
+                "crypto research strategist at 21Shares"
+            ],
+            "companies": [
+                "CoinDesk",
+                "TradingView",
+                "FactSet",
+                "Morningstar",
+                "Conference Board",
+                "21Shares"
+            ],
+            "organizations": [
+                "FTX",
+                "CME",
+                "Nasdaq",
+                "Fed",
+                "U.S. Senate Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin's largest 3-day price decline since the FTX bankruptcy, institutional demand weakening, futures market approaching backwardation, and analysts predicting potential further drops to $72,000-$74,000."
+    }
+}

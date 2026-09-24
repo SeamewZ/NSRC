@@ -1,0 +1,45 @@
+{
+    "title": "The U.S. Deserves Better Crypto ETFs. Let's Start With Solana",
+    "summary": "Limiting access to the chain that launched Trump’s memecoin is like shutting investors out from Amazon or Google during their initial offerings, says Hadley Stern, at Marinade Labs.",
+    "time": "2025-03-17T15:54:00",
+    "author": "Hadley Stern",
+    "content": "It is now the regulatory open season for digital assets in the United States — and not just because the incoming president released a Solana memecoin on the eve of his inauguration. Now, it and other memecoins are being proposed as assets for a new slew of cryptocurrency ETFs. In just over a month, the U.S. crypto market went from facing an absurd amount of obstruction to an absurd amount of, well, absurdity.\n\nWhile I can scarcely imagine a financial advisor telling me, “You’re slightly under-allocated in $TRUMP coin,” the reality is that these new currencies could be valid assets for an ETF. Another view is that they are completely useless.\n\nA more generous view is that they are a form of creative expression. They’re not a symphony by Mozart, sure, but these coins — $BONK, $PENGU — clearly have some cultural value. I can see why some investors, retail and otherwise, would be interested in an ETF of this kind.\n\nThis brings us to Solana, which is now essentially the 3rd largest asset in terms of market cap and by far the largest in terms of network usage. Bitcoin, while initially envisioned as a kind of digital cash, has emerged as a digital store of value. And Solana has taken the mantle of a blockchain smart contract with its unique Proof of History having the potential to power all kinds of blockchain based applications. It’s time for a Solana ETF.\n\nRead more: ‘It’s So Early’: How Solana Is Competing With Ethereum for Institutional Interest\n\nThe groundwork is there. It took 10 long years and a lawsuit for the Bitcoin ETF to be approved. After more challenges, an Ethereum ETF was also approved — with an asterisk. Every issuer that included providing “staking” rewards in their applications had to strike it. By doing so, the SEC effectively said that the issuers (and the investors) couldn’t participate in the governance of these blockchains, but could invest in them.\n\nAs a result, every investor who has bought into an Ethereum ETF since last May has missed the opportunity to earn yield on their asset — yield that comes directly from supporting the security of the blockchain itself. If, instead of ETF shares, these investors bought the same amount of Ethereum and staked it (for example, with Coinbase), they could earn, say, 2-4% APY, in return for letting their ETH be used to keep the blockchain secure. Whatever your politics, and however you feel about cryptocurrencies, the truth is that this puts American investors at a disadvantage. European investors already have ETPs for other currencies, and they also have access to staking rewards through them, too.\n\nAnd yet, in the U.S., we are still waiting for a Solana ETF of any kind. And it certainly will not include staking to begin with, as the issuers learned from the Ethereum case not to include it. In my view, Europe’s approval of the staking ETPs should set the precedent for a staking ETF in the United States.\n\nAs for why that staking ETF should be for Solana, well — the fact that the president’s memecoin was released on Solana is no accident. It is a popular blockchain that can handle billions in transaction volume, even when it is unexpected. Its scalability and power will inevitably be applied to real-world assets in tradfi, and any other number of real-world use cases. Not giving investors access to invest in this technology through their traditional financial accounts is like if we limited investors to invest in Amazon or Google during their initial offerings. This is why a Solana ETF should be quickly approved: to give the broad retail and institutional investors access to the next biggest asset after Bitcoin and Ethereum.\n\nIn short: Solana is overdue for an ETF of its own, and I urge the new leadership at the SEC to approve the applications they have inherited from those including Grayscale, VanEck, 21Shares, Canary Capital, and Bitwise - and even encourage them reintegrate staking rewards into their proposals. (Canary’s application has reached a second stage of SEC review, indicating it could be approved in due course.)\n\nIt is still early, so we are yet to see the long term impacts of this administration’s approach to cryptocurrency. But it’s possible that it could push through a new, better framework for crypto-asset products. That would be worth the hype.",
+    "url": "https://www.coindesk.com/opinion/2025/03/17/the-u-s-deserves-better-crypto-etfs-let-s-start-with-solana",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hadley Stern",
+                "Trump"
+            ],
+            "positions": [
+                "president",
+                "incoming president"
+            ],
+            "companies": [
+                "Marinade Labs",
+                "Coinbase",
+                "Grayscale",
+                "VanEck",
+                "21Shares",
+                "Canary Capital",
+                "Bitwise",
+                "Amazon",
+                "Google"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Bitcoin",
+            "Ethereum",
+            "ETH",
+            "TRUMP",
+            "BONK",
+            "PENGU"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article strongly advocates for Solana ETF approval, highlights Solana's market position and growth potential, and argues that limiting access puts American investors at a disadvantage compared to European markets."
+    }
+}

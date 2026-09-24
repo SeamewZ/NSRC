@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Developer Proposes Hard Fork to Protect BTC From Quantum Computing Threats",
+    "summary": "The proposal outlines a plan to enforce a network-wide migration of BTC from legacy wallets to ones secured by post-quantum cryptography.",
+    "time": "2025-04-05T17:00:00",
+    "author": "Francisco Rodrigues",
+    "content": "Bitcoin could be headed for its most sweeping cryptographic overhaul yet if a new proposal gains traction.\n\nA draft Bitcoin Improvement Proposal (BIP) titled Quantum-Resistant Address Migration Protocol (QRAMP) has been introduced by developer Agustin Cruz. It outlines a plan to enforce a network-wide migration of BTC from legacy wallets to ones secured by post-quantum cryptography.\n\nQuantum computing involves moving away from a process reliant on binary code, ones and zeros, and exponentially increasing computing power by employing Quantum bits (qubits) that exist in multiple states simultaneously. Such a jump in power is expected to threaten modern computing encryption built by classic machines.\n\nThe proposal suggests that after a predetermined block height, nodes running the updated software would reject any transaction trying to spend coins from an address using ECDSA cryptography, which could theoretically make it vulnerable to quantum attacks.\n\nBitcoin currently relies on algorithms, including SHA-256 for mining and the Elliptic Curve Digital Signature Algorithm (ECDSA) for signatures. Per Cruz, legacy addresses that haven’t yet transacted are protected by additional layers, while those that have exposed their public keys—necessary to conduct transactions—may now be vulnerable “if sufficiently powerful quantum computers emerge.”\n\nThe move would require a hard fork, which is likely going to be a tall ask from the community. A hard fork refers to a change to a blockchain that renders an older version incompatible.\n\n\"I admire the effort but this will still leave everyone who doesn't migrate's coins vunerable, including Satoshi's coins,\" said one Reddit user about the new proposal.\n\n\"Bitcoin could implement a post quantum security for all coins but that would need a hard fork, which due to bitcoin's history and the mantra repeated by maxis that would create a new coin and would not be bitcoin anymore.\"\n\nRead more: The Blocksize Wars Revisited: How Bitcoin’s Civil War Still Resonates Today\n\nThe proposed solution sets a migration deadline to lock those funds unless they’re moved to a more secure wallet. This proposal isn’t a response to any imminent breakthrough in quantum computing. Instead, it's a preventive measure, yet it comes a little over a month after Microsoft unveiled Majorana 1, a quantum processing unit designed to scale to a million qubits per chip.\n\nDuring a migration window, users would still be able to move funds freely. The BIP calls for wallet developers, block explorers and “other infrastructure” to build tools and warnings to help users comply.\n\nAfter the deadline, non-upgraded nodes could fork from the network if they continue accepting legacy transactions.\n\nThis is not the first time someone has suggested a mechanism to defend Bitcoin from quantum computing threats. Most recently, BTQ, a startup working to build blockchain technology that can withstand attacks from quantum computers, has proposed an alternative to the Proof of Work (PoW) algorithm involving quantum technology.\n\nIn its research paper, BTQ proposed a method called Coarse-Grained Boson Sampling (CGBS). This process uses light particles (bosons) to generate unique patterns—samples—that reflect the blockchain’s current state instead of hash-based mathematical puzzles.\n\nHowever, this proposal would also require a hard fork involving miners and nodes replacing their existing ASIC-based hardware with quantum-ready infrastructure.\n\nRead more: Quantum Startup BTQ Proposes More Energy Efficient Alternative to Crypto's Proof of Work",
+    "url": "https://www.coindesk.com/tech/2025/04/05/bitcoin-developer-proposes-hard-fork-to-protect-btc-from-quantum-computing-threats",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Agustin Cruz"
+            ],
+            "positions": [
+                "developer"
+            ],
+            "companies": [
+                "Microsoft",
+                "BTQ"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The proposal addresses a theoretical future threat rather than an immediate issue and acknowledges significant community resistance to the required hard fork."
+    }
+}

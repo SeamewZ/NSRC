@@ -1,0 +1,39 @@
+{
+    "title": "EToro, Crypto-Friendly Trading Platform, Files for U.S. IPO",
+    "time": "2025-01-16T16:07:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The trading platform is seeking a $5 billion valuation and could list as soon as the second quarter, the Financial Times said",
+    "content": "EToro, a stocks and crypto trading platform targeting retail investors, is looking to sell shares to the public on the New York Stock Exchange, the Financial Times reported, citing a confidential filing with the U.S. Securities and Exchange Commission.\n\nThe sale, which could come as early as the second quarter, could value the company at more than $5 billion, the FT said. Goldman Sachs, Jefferies and UBS are advising the company.\n\nIf successful, eToro would join Coinbase (COIN) and Robinhood (HOOD) as one of the few publicly listed companies offering crypto trading in the U.S. It would be much smaller than either: Coinbase has a $69 billion market cap and Robinhood $40 billion.\n\nThe valuation would also be less than half the level it sought in 2021, when it planned to go public through a $10.4 billion deal with a special purpose acquisition company (SPAC). The attempt was abandoned late in 2022 as a result of unfavorable market conditions.\n\nIn 2023, eToro secured $250 million in funding at a $3.5 billion valuation from investors including SoftBank as its valuation plunged, according to the FT. The valuation has since risen amid an equity and cryptocurrency market rally, and after the company agreed to pay $1.5 million to settle SEC charges it operated as an unregistered broker and unregistered clearing agency and facilitated trading in some crypto assets as securities.\n\nWhile eToro's cryptocurrency trading volume isn’t known, Finance Magnates reported last year that it surged more than 500% in the year ended November.\n\nThe company, founded in Israel in 2007, reportedly manages $11.3 billion for over 3 million customers. These assets include not only cryptocurrencies, but also stocks and exchange-traded funds.\n\nLast year, as a result of its settlement with the SEC, it agreed to drop trading for multiple cryptocurrencies in the United States, limiting its users in the country to trade bitcoin\nBTC\n$104,608.94\n,\nBCH\n$490.38\n, and ether\nETH\n$3,495.36\n.\n\nThe company did not respond to a request for comment.",
+    "url": "https://www.coindesk.com/markets/2025/01/16/e-toro-crypto-friendly-trading-platform-files-for-u-s-ipo",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "EToro",
+                "Goldman Sachs",
+                "Jefferies",
+                "UBS",
+                "Coinbase",
+                "Robinhood",
+                "SoftBank"
+            ],
+            "organizations": [
+                "Financial Times",
+                "U.S. Securities and Exchange Commission",
+                "New York Stock Exchange",
+                "SEC",
+                "Finance Magnates"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "BCH",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes eToro's IPO filing with a rising valuation amid an equity and cryptocurrency market rally, and mentions a 500% surge in crypto trading volume, indicating positive market momentum and institutional confidence."
+    }
+}

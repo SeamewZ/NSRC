@@ -1,0 +1,49 @@
+{
+    "title": "Tokenization Specialists Securitize and Ethena Unveil Institutional DeFi Blockchain",
+    "time": "2025-03-17T16:30:00",
+    "author": "Ian Allison",
+    "summary": "The Converge blockchain is Ethereum compatible and designed to bring DeFi to tokenized real world assets.",
+    "content": "Securitize and Ethena Labs, two firms working closely with BlackRock’s money market token BUIDL, have created an Ethereum-compatible blockchain called Converge, designed to house tokenized assets and provide institutional investors with the innovation of decentralized finance (DeFi).\n\nEthena, which offers a yield-bearing USDe token as well as a BUIDL-backed USDtb stablecoin, will migrate its $6 billion DeFi ecosystem to Converge, while Securitize, the transfer agent for BlackRock’s BUIDL token, will bring its suite of tokenized real world assets (RWAs), like the recently-issued Apollo credit fund token, to the new chain.\n\nFrom in the early days of DeFi there has been a concerted effort to expand beyond cryptocurrencies and bring traditional assets on chain as collateral. Today, traditional financial firms are clamouring to get in the tokenization race, so it makes sense for firms like Securitize and Ethena to create an institutional-friendly path to DeFi.\n\n“Tokenization, per se, is just putting your securities on a different ledger, and it produces cost savings and efficiencies, but it doesn't necessarily lead to anything significantly different in terms of what you can do with these assets,” said Securitize CEO Carlos Domingo in an interview. “On the other hand, crypto has been developing very novel ways of using digital assets. If you could actually bring that DeFi innovation back into the RWA space it could make it explode.”\n\nSecuritize and Ethena have brought a sturdy firm of initial partners to Converge, including Pendle, Avara (the parent company of Aave Labs), Ethereal, Morpho, and Maple Finance. Custodial services will be provided by Copper, Fireblocks, Komainu, and Zodia, while interoperability will come via LayerZero, Wormhole and oracle support from RedStone.\n\nLooking ahead to what can be built using the Converge blockchain, Ethena founder Guy Young said there will be new products courtesy of Securitize to be housed on the chain, opening up new use cases.\n\n“That might be using this stuff as collateral within tailor-made money markets, or it could be trading of different assets which don't exist on-chain now at real scale, so that might be equities or whatever, going forward,” Young said in an interview. “We think something that's purpose built for this intersection of TradFi and Defi is going to be one of the largest opportunities over the next few years.”\n\nConverge will be compatible with the Ethereum Virtual Machine (EVM), enabling it to run Ethereum-based smart contracts, dApps, and tools without modification. It will boast performance that is in line with industry-leading blockchains, according to a press release.\n\nEthena’s native governance token, ENA, will serve as a stakeable asset (via sENA) for Converge, securing the network with a permissioned validator set composed of traditional finance entities and centralized exchanges. Both USDe and USDtb will serve as gas tokens for the network.\n\nConverge is a public open chain with a kind of know-your-customer (KYC) wrapper, which goes beyond mere whitelisting of wallets, Domingo said.\n\n“DeFi today is designed specifically for permissionless and anonymous market participants and freely transactable assets,” Domingo said. “To bring that innovation in a context where the collateral and the asset that you're pledging into the protocol is actually a regulated instrument, there are a bunch of things beyond purely white listing wallets and KYC.”",
+    "url": "https://www.coindesk.com/business/2025/03/17/tokenization-specialists-securitize-and-ethena-unveil-institutional-defi-blockchain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Carlos Domingo",
+                "Guy Young"
+            ],
+            "positions": [
+                "CEO",
+                "founder"
+            ],
+            "companies": [
+                "Securitize",
+                "Ethena Labs",
+                "BlackRock",
+                "Pendle",
+                "Avara",
+                "Aave Labs",
+                "Ethereal",
+                "Morpho",
+                "Maple Finance",
+                "Copper",
+                "Fireblocks",
+                "Komainu",
+                "Zodia",
+                "LayerZero",
+                "Wormhole",
+                "RedStone"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDe",
+            "USDtb",
+            "BUIDL",
+            "ENA",
+            "sENA",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption of DeFi through a new blockchain designed for tokenized real world assets, with major financial firms participating and $6 billion in assets migrating to the platform."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "XRP's Bull Run May Be Finished. $3 Is the Level for Bulls to Beat: Technical Analysis",
+    "time": "2025-03-25T11:21:00",
+    "author": "Omkar Godbole",
+    "summary": "XRP's price struggles to build momentum on the SEC news, with key indicators warning of a bearish shift in trend.",
+    "content": "\"You're not bullish enough!\" an XRP enthusiast exclaimed on X last week after Ripple, which utilizes the token for cross-border transactions, said the U.S. Securities and Exchange Commission has dropped its case against the company.\n\nMany others shared the excitement, and understandably so, as the conclusion of the long-standing legal battle lifted a weight that hindered XRP's relative performance during the 2021 bull run. Plus, there is XRP ETF hype and hopes that the token could become a part of the U.S. strategic reserve.\n\nThat said, recent price action does not reflect the optimism, with XRP rangebound between $2.30-$2.50 and key momentum indicators flashing warnings of a major bearish shift in trend.\n\nXRP surged over 11% to $2.59 last Wednesday, cheering the SEC news. Since then, the follow through has been anything but bullish, despite optimism that expected reciprocal trade tariffs from President Donald Trump on April 2 could be more measured than initially expected.\n\nThree-line break chart\n\nThe first indicator signaling bearish trend reversal is the three-line break chart, which focuses only on price movements while filtering out short-term noise. That helps identify trend changes as suggested by the market and not arbitrary or discretionary trading rules.\n\nThe chart consists of vertical blocks called lines or bars (green and red). A bull reversal happens when a green bar occurs with prices moving higher than the highest point of the last three red bars. A bearish shift is represented by the emergence of a red bar that goes beyond the lowest point of the previous three green bars.\n\nIn XRP's case, a new red bar occurred early this month in the weekly time frame and has held intact following the SEC news. The \"weekly\" aspect means this chart aggregates price information over a week.\n\nThe new red bar indicates a bearish shift in momentum. Similar patterns characterized the beginnings of prolonged bear markets in 2021 and early 2018.\n\nMACD\n\nThe moving average convergence divergence (MACD) histogram, used to gauge trend strength and trend changes, is producing deeper bars below the zero line on the weekly chart. That is also a sign of strengthening downside momentum.\n\nThe indicator flipped positive in November, after which prices surged from $1 to above $3.\n\nThe 5- and 10-week simple moving averages (SMAs) have crossed bearish as well, suggesting the path of least resistance is to the downside.\n\nBollinger Bands\n\nThe Bollinger bands — volatility bands placed two standard deviations above and below XRP's 20-week SMA — have widened in response to the sharp price rally in late 2024 and early this year.\n\nHistorically, prices have tended to move lower following the sharp widening of the Bollinger bands, as observed after mid-2021 and early 2018.\n\nWhen bullish?\n\nA firm move to $3, the high registered on March 2, would invalidate the bearish setup, negating the lower highs pattern to suggest a renewed bullish technical outlook.\n\nSome analysts expect XRP to reach as high as $10 by the end of this decade.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/indicators-show-xrp-s-bull-run-may-be-finished-usd3-is-the-level-for-bulls-to-beat-technical-analysis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Ripple"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes XRP's price struggling to build momentum despite positive SEC news, with multiple technical indicators warning of a bearish shift in trend and strengthening downside momentum."
+    }
+}

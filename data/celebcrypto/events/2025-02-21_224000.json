@@ -1,0 +1,42 @@
+{
+    "title": "Bybit CEO Labels Pi Network a Scam, Citing Official Police Warning",
+    "time": "2025-02-21T22:40:00",
+    "author": "Oliver Knight",
+    "summary": "The token is down by more than 60% since launch.",
+    "content": "Bybit CEO Ben Zhou said Thursday that his exchange will not list the Pi Network's PI token, which was controversially released on Thursday, citing a Chinese police warning from 2023 that alleged the project was a scam targeting elderly people, leaking their personal information and leading to the loss of their pensions.\n\n\"There are multiple other reports out there questioning the project legitimacy,\" Zhou posted on X. \"Yes, I still think you are a scam, and no, Bybit will not list scam.\"\n\nThe Pi Network didn't respond to CoinDesk's request for comments.\n\nThe token went live alongside the project's mainnet release on Thursday. Users who \"mined\" tokens by clicking their smartphone screens once a day were finally able to transfer and sell tokens.\n\nZhou, however, found himself in the middle of a separate issue on Friday, with his exchange Bybit, which was hacked by North Korea's Lazarus Group for $1.5 billion.\n\nThe PI token debuted on OKX at $0.67, rose as high as $2 and then slumped 65% and is currently around $0.69.\n\nOne issue that raised concerns was a marketing tactic that rewarded users who recruited other users. Each time a user persuaded someone else to sign up using their code, the first person's \"mining\" rewards were increased. The idea had some drawing comparisons to the 2017 Ponzi scheme, Bitconnect.\n\n\"Pi Network is the biggest ponzi [scheme],\" X user CryptoBeast alleged, posting to their 656K followers.\n\nThe project also offers users the option of locking their tokens for as long as three years. In return, they are promised increased rewards. The same technique was at the heart of the Hex project, whose founder, Richard Schueler, known online as Richard Heart, is a fugitive sought by the U.S. Securities and Exchange Commission (SEC) for, among other things, defrauding his investors.\n\nThe token has a market cap of $4.18 billion based on a circulating supply of $6.33 billion. However, its inflationary nature means the maximum supply is 100 billion, giving a fully diluted value (FDV) at a staggering $67 billion, assuming it holds the current price. At launch, FDV rose as high as $200 billion, almost double that of Solana.\n\nSome exchanges have been undeterred by the concerns raised. OKX, Bitget and Gate have racked up a total of $620 million in trading volume for PI trading pairs between them, according to CoinMarketCap.\n\nRead more: Pi Network's Token Debuts at $195B Value Despite Minimal Liquidity",
+    "url": "https://www.coindesk.com/business/2025/02/21/bybit-ceo-labels-pi-network-a-scam-citing-official-police-warning",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou",
+                "Richard Schueler",
+                "Richard Heart"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "OKX",
+                "Bitget",
+                "Gate",
+                "CoinDesk",
+                "CoinMarketCap"
+            ],
+            "organizations": [
+                "Pi Network",
+                "North Korea's Lazarus Group",
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "PI",
+            "Bitconnect",
+            "Hex",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a token that slumped 65% after launch, is labeled a scam by a major exchange CEO, compared to Ponzi schemes, and involves security breaches and regulatory concerns."
+    }
+}

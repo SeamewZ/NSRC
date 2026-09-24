@@ -1,0 +1,33 @@
+{
+    "title": "CME to Roll Out XRP Futures as Interest and Adoption in XRP Grows",
+    "summary": "The contracts are set to debut on May 19, pending regulatory approval.",
+    "time": "2025-04-24T13:53:00",
+    "author": "Helene Braun",
+    "content": "CME Group is rolling out XRP futures on May 19th as it continues to expand its suite of cryptocurrency products, the world’s largest derivatives exchange, said in a press release.\n\nPending regulatory approval, traders will be able to trade two contract sizes: 2,500 XRP and 50,000 XRP. The contracts will be cash-settled and based on the CME CF XRP-Dollar Reference Rate, which tracks XRP’s price daily at 4:00 p.m. London time.\n\n“As innovation in the digital asset landscape continues to evolve, market participants continue to look to regulated derivatives products to manage risks across a wider range of tokens,” Giovanni Vicioso, global head of cryptocurrency products at CME Group, said.\n\n“Interest in XRP and its underlying ledger (XRPL) has steadily increased as institutional and retail adoption for the network grows, and we are pleased to launch these new futures contracts to provide a capital-efficient toolset to support clients’ investment and hedging strategies.”\n\nThe move comes after CME launched Solana\nSOL\n$158.01\nfutures in March in addition to bitcoin\nBTC\n$101,998.62\nand ethereum\nETH\n$3,341.49\nfutures and options which have been trading on the exchange for a while.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/cme-to-roll-out-xrp-futures-as-interest-and-adoption-in-xrp-grows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Giovanni Vicioso"
+            ],
+            "positions": [
+                "global head of cryptocurrency products"
+            ],
+            "companies": [
+                "CME Group"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Solana",
+            "SOL",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of regulated XRP futures by CME Group indicates growing institutional adoption and provides risk management tools, which typically signals market confidence and positive momentum."
+    }
+}

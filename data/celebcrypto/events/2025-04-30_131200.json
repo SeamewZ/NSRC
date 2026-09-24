@@ -1,0 +1,29 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Declines 2% as Nearly All Assets Trade Lower",
+    "time": "2025-04-30T13:12:00",
+    "author": "CoinDesk Indices",
+    "summary": "Aave (AAVE) fell 4.7% and Ripple (XRP) dropped 4%, leading the index lower from Tuesday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2733.26, down 2.0% (-57.08) since 4 p.m. ET on Tuesday.\n\nOne of 20 assets is trading higher.\n\nLeaders: POL (+0.2%) and BTC (-0.6%).\n\nLaggards: AAVE (-4.7%) and XRP (-4.0%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/30/coindesk-20-performance-update-index-declines-2-as-nearly-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Aave",
+            "AAVE",
+            "Ripple",
+            "XRP",
+            "POL",
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index declined 2% with nearly all assets trading lower, led by significant drops in AAVE (-4.7%) and XRP (-4.0%)."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Bitcoin Enters Strongest Accumulation Phase Since January as BTC Price Passes $110K",
+    "summary": "Glassnode data shows all wallet cohorts are now accumulating, with options markets pricing in potential upside beyond $200K in June.",
+    "time": "2025-05-23T07:46:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin\nBTC\n$101,754.63\nhas entered a strong accumulation phase across all wallet cohorts for the first time since January, signaling renewed bullish sentiment as the largest cryptocurrency trades above $110,000, an 18% gain over the past month.\n\nGlassnode's Accumulation Trend Score has reached its maximum value of 1.0, indicating broad-based, aggressive accumulation by investors irrespective of the amount of BTC they already hold. The metric evaluates the relative strength of buying by different wallet sizes, factoring in both their existing holdings and the amount acquired over the past 15 days. It excludes exchanges and miners to avoid distortion.\n\nThe latest accumulation wave began in early May, led by whales holding over 10,000 BTC. As the price began to climb, cohorts with smaller holdings followed, intensifying their accumulation behavior.\n\nThis marks a significant shift from the January-to-April period, when most cohorts were in reducing their holdings as bitcoin tumbled from its then-record high of $109,000 to lows around $75,000.\n\nThe renewed demand is supported by options market activity, with CoinDesk Research highlighting large bullish positions. The $300,000 strike for June expiry has become the most popular call option, with $620 million in notional value, and an additional $420 million is concentrated around the $200,000 strike.\n\nWhile bitcoin historically tends to fall after hitting an all-time high due to profit-taking, traditional assets like the S&P 500 and gold often extend their rallies in similar scenarios. If bitcoin were to follow this more mature asset behavior, it may signal the beginning of a sustained bull cycle, a trend many in the market are now watching closely.",
+    "url": "https://www.coindesk.com/markets/2025/05/23/bitcoin-enters-strongest-accumulation-phase-since-january-as-btc-price-passes-110k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode",
+                "CoinDesk Research"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes broad-based accumulation across all wallet cohorts, renewed bullish sentiment, price gains, and large bullish options positions indicating market confidence."
+    }
+}

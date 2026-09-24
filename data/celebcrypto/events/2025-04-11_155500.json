@@ -1,0 +1,33 @@
+{
+    "title": "Can Ethereum Be Truly Private? Developers Push for Encrypted Mempool, Default Privacy",
+    "summary": "Ethereum developers have begun kicking around a series of ideas that could make the Ethereum network private at its core.",
+    "time": "2025-04-11T15:55:00",
+    "author": "Margaux Nijkerk",
+    "content": "When the U.S. government sanctioned the Ethereum-based crypto mixing service Tornado Cash in 2022, it ignited a debate within the crypto community that continues three years later.\n\nTornado enabled users to transfer crypto anonymously. The government contended that the service facilitated money laundering, prompting some of Ethereum's validators and block builders to take steps to avoid engaging with Tornado-linked transactions, which made the service slower and costlier to use.\n\nAdvocates argued that complying with the sanctions amounted to censorship — undermining a fundamental cypherpunk principle. President Donald Trump supported the cypherpunks and lifted the sanctions on Tornado Cash in March of this year, but for some Ethereum developers, the situation highlighted a flaw within the network that still exists today: Why should users depend on third-party apps to transact privately on the network?\n\n\"Publicly accessible transaction graphs allow anyone to trace the flow of funds between accounts, and balances are visible to all participants in the network, undermining financial privacy,\" crypto security researcher Pascal Caversaccio explained in a blog post on Wednesday. \"While the Ethereum network's transparency fosters trustlessness, it also opens the door to potential surveillance, targeting, and exploitation.\"\n\nPerhaps emboldened by the recent Tornado Cash developments, Ethereum developers and researchers have once again begun discussing ideas for making the Ethereum network private at its core.\n\n\"Privacy must not be an optional feature that users must consciously enable — it must be the default state of the network,\" said Caversaccio, whose post outlined his vision for a privacy-oriented Ethereum roadmap. \"Ethereum's architecture must be designed to ensure that users are private by default, not by exception.\"\n\nCaversaccio's post identified several potential interventions — some new, some old — that could, according to him, would make Ethereum more private for end-users. One idea is to encrypt Ethereum's public mempool — where transactions are sent before they're recorded permanently. Another involves making Ethereum transactions confidential through zero-knowledge cryptography, new transaction formats, and other methods.\n\n\"Today, Ethereum operates in a partial, opt-in privacy model, where users must take deliberate steps to conceal their financial activities — often at the cost of usability, accessibility, and even effectiveness,\" wrote Caversaccio. \"This paradigm must shift. Privacy-preserving technologies should be deeply integrated at the protocol level, allowing transactions, smart contracts, and network interactions to be inherently confidential.\"\n\nIn response to Caversaccio's post, Ethereum co-founder Vitalik Buterin left a comment on the network's main developer forum with his own much shorter privacy-oriented Ethereum roadmap.\n\nButerin suggested focusing on privacy for on-chain payments, anonymizing on-chain activity within applications, making communication on the network anonymous, and privatizing on-chain reads.\n\nTo achieve all of this, Buterin listed various steps like integrating certain third-party privacy features into the core network.\n\nOne of the more substantial interventions suggested by Buterin involves moving the network towards a “one address per application” model — a departure from today's system, where a single application may employ dozens of wallets for different features. “This is a major step, and it entails significant convenience sacrifices, but IMO this is a bullet that we should bite, because this is the most practical way to remove public links between all of your activity across different applications,” Buterin wrote.\n\nAccording to Buterin, if all of his suggestions are implemented, private transactions could be the default on Ethereum.\n\nThe privacy discussion comes a few weeks before Ethereum’s next major upgrade, Pectra, which doesn’t have a major focus on privacy. Ethereum developers are also currently planning the network’s following upgrade to Fusaka. The changes to be included in that hard fork are not yet set in stone.\n\nRead more: Vitalik Buterin Disappointed With Embrace of Blockchain “Casinos”",
+    "url": "https://www.coindesk.com/tech/2025/04/11/can-ethereum-be-truly-private-developers-push-for-encrypted-mempool-default-privacy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pascal Caversaccio",
+                "Donald Trump",
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "crypto security researcher",
+                "President",
+                "Ethereum co-founder"
+            ],
+            "companies": [
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ethereum developers actively working to enhance network privacy and security features, which typically increases user confidence and adoption."
+    }
+}

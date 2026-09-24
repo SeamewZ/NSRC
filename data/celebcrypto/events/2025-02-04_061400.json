@@ -1,0 +1,34 @@
+{
+    "title": "Probe of Crypto.com, Kalshi’s Super Bowl Bets Is About the Nature of ‘Gaming’: Crypto Lawyer",
+    "summary": "The regulator's probe is focused on the issue of sports being considered gaming, said New York-based crypto lawyer Aaron Brogan.",
+    "time": "2025-02-04T06:14:00",
+    "author": "Sam Reynolds",
+    "content": "The recent probe of Crypto.com and Kalshi's sports contracts all comes down to a single question — are event contracts premised on sports “gaming” within the meaning of the Commodities Exchange Act, said crypto lawyer Aaron Brogan.\n\nThe Commodity Futures Trading Commission (CFTC) is probing the Super Bowl events contracts on Crypto.com and Kalshi, according to a Bloomberg report.\n\n\"If sports does not constitute gaming, then, given the CFTC’s current legal posture, the CFTC likely does not have the power to prohibit Crypto.com and Kalshi from self-certifying these contracts,\" Brogan told CoinDesk.\n\nHowever, all of this is a bit more complicated than it seems on the surface.\n\n\"This is a surprisingly thorny question, which was addressed in the Kalshi ruling,\" Brogan said, referring to the ruling from last fall that allowed Kalshi to move forward with its election betting contracts by confirming that they do not fall under the CFTC’s restricted categories.\n\nBrogan explained that the Judge in that ruling defined \"gaming\" as “playing games” or “playing games for stakes” and specifically cited past discussions in Congress during the writing of the Commodities Exchange Act, during which a lawmaker said the rule against gaming was meant to cover sports betting.\n\n\"All that sounds bad for these contracts, but I am not wholly convinced,\" Brogan continued. \"Judge Cobb’s finding here is dicta—non-binding—and the legislative history is only relevant where the law is ambiguous.\"\n\nBrogan also points to the Merriam-Webster dictionary definition of gaming as not “playing games” but “the practice or activity of playing games for stakes.”\n\n\"At least in Merriam-Webster, this clearly means gambling, not sports, so I think these prediction markets would have colorable arguments if they had to go to the mats. Some judges might be receptive to this kind of textualist argument,\" Brogan said.\n\nAnd finally, there's the issue of the changing nature of the CFTC itself. Many believe that the appointment of Republican Caroline Pham as the Commission's Chair will lead to a more laissez-faire regulatory approach, Brogan said.\n\n\"[The Democrats] had been highly skeptical of retail-oriented event contracts and fought hard against first PredictIt and then Kalshi in 2023 and 2024 to attempt to prevent them from offering election contracts,\" Brogan continued.\n\nBut, how laissez-faire is still something up for debate.\n\n\"If they’re probing into these post-inauguration Kalshi contracts, maybe they will still be hawkish on at least some event contracts,\" Brogan concluded.",
+    "url": "https://www.coindesk.com/policy/2025/02/04/probe-of-crypto-com-kalshi-s-super-bowl-bets-is-about-the-nature-of-gaming-crypto-lawyer",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aaron Brogan",
+                "Caroline Pham"
+            ],
+            "positions": [
+                "crypto lawyer",
+                "Commission's Chair"
+            ],
+            "companies": [
+                "Crypto.com",
+                "Kalshi",
+                "PredictIt"
+            ],
+            "organizations": [
+                "Commodity Futures Trading Commission",
+                "CFTC",
+                "Congress",
+                "Merriam-Webster"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses an ongoing regulatory probe with mixed legal interpretations and uncertain outcomes, creating market uncertainty rather than clear positive or negative direction."
+    }
+}

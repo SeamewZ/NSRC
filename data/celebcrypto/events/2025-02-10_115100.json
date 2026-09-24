@@ -1,0 +1,39 @@
+{
+    "title": "U.S. Endowments Are Leaning Into Crypto: FT",
+    "summary": "U.S. endowment funds are looking at crypto investments as bitcoin soars and Donald Trump draws attention to the industry.",
+    "time": "2025-02-10T11:51:00",
+    "author": "Camomile Shumba",
+    "content": "U.S. endowment funds are increasing their exposure to crypto as the digital assets soar to new highs, The Financial Times reported on Sunday.\n\nFranklin Bi, a general partner at Pantera Capital, noted that there had been a “huge shift” in interest in digital assets from endowments and foundations that just five years ago had reported “minimal participation” in crypto, the report said. Pantera Capital did not respond to CoinDesk's comment request.\n\nBitcoin (BTC), the largest cryptocurrency, has soared to about $97,900 from around $7,000 in 2020. As its price has reached new heights thanks to the introduction of bitcoin exchange-traded funds (ETFs) and the election of crypto-friendly U.S. President Donald Trump, institutions have started to fear missing out.\n\nEmory University, based in Georgia, in October disclosed it had millions worth of Grayscale's bitcoin ETF. The University of Austin announced in May it is raising a $5 million bitcoin fund to contribute to its $200 million endowment and the $4.8 billion Rockefeller Foundation is exploring whether or not to increase its exposure to crypto. The foundation invested in crypto venture funds in 2023.\n\n“We don’t want to be left behind when their potential materialises dramatically,” Chun Lai, the foundation’s chief investment officer, told the FT. Rockefeller Foundation did not respond to CoinDesk's comment request.",
+    "url": "https://www.coindesk.com/policy/2025/02/10/u-s-endowments-are-leaning-into-crypto-ft",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Franklin Bi",
+                "Donald Trump",
+                "Chun Lai"
+            ],
+            "positions": [
+                "general partner",
+                "U.S. President",
+                "chief investment officer"
+            ],
+            "companies": [
+                "Pantera Capital",
+                "Grayscale"
+            ],
+            "organizations": [
+                "The Financial Times",
+                "CoinDesk",
+                "Emory University",
+                "University of Austin",
+                "Rockefeller Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes U.S. endowment funds increasing crypto exposure, bitcoin soaring to new highs, and institutions fearing missing out on potential gains."
+    }
+}

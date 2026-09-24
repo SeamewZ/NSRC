@@ -1,0 +1,35 @@
+{
+    "title": "Sui's Biggest Liquidity Provider Hacked for $223M, Causing Sui-Based Tokens to Plummet",
+    "summary": "Cetus is Sui’s biggest liquidity provider and decentralized exchange.",
+    "time": "2025-05-22T11:54:00",
+    "author": "Shaurya Malwa",
+    "content": "Cetus Protocol, the largest decentralized exchange (DEX) and liquidity provider on the Sui network, has been drained of $223 million worth of tokens in an apparent hack, according to Cetus Protocol on X.\n\nThe protocol added that $162 million of the stolen funds had been \"paused\" and it is working with the Sui Foundation to recover the remainder of the funds.\n\nThe wallet tied to the Cetus Protocol exploit — 0xe28b50 — currently holds over 12.9 million SUI, valued at approximately $54 million at current prices.\n\nOn-chain data shows the address has a net worth exceeding 32.9 million SUI (approximately $137 million), suggesting the attacker may have already bridged or swapped funds through multiple paths.\n\nThe wallet remains active at the time of publishing and is likely in the process of obfuscating funds. This confirms the scale of the exploit and further pressures Sui's DeFi infrastructure, as major token pools and pairs remain drained.\n\nThe Cetus team has paused the smart contracts and is actively investigating, it said in an X post. According to early analysis, the attacker used spoof tokens like BULLA to exploit broken price curves and reserve calculations.\n\nThey then added near-zero liquidity to manipulate internal LP state and repeatedly removed real assets like SUI and USDC without depositing anything meaningful.\n\nCetus confirmed the incident on X, saying the contract has been paused “for safety” and that a detailed statement will follow.\n\nBinance founder CZ said the exchange's team has reached out to Sui to offer help,.\n\nCETUS is down 40% in the past few hours, while Sui-based memecoins like BULLA and MOJO have dropped over 90%.\n\nUPDATE (May 22, 12:00 UTC): Updates headline and story with additional details.\nUPDATE (May 22, 12:13 UTC): Adds further details and CZ tweet.\n\nUPDATE (May 22, 16:40 UTC): Adds response from Cetus Network and updates headline to reflect $223 million figure.",
+    "url": "https://www.coindesk.com/markets/2025/05/22/sui-networks-cetus-protocol-hit-in-apparent-hack-sending-token-prices-down-90",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "CZ"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Cetus Protocol",
+                "Sui Foundation",
+                "Cetus Network"
+            ]
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "USDC",
+            "CETUS",
+            "BULLA",
+            "MOJO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $223 million hack causing major token price drops of 40-90% and draining Sui's DeFi infrastructure."
+    }
+}

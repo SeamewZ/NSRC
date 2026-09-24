@@ -1,0 +1,38 @@
+{
+    "title": "Ether Outperforms DeFi Market in May, Bouncing From Woeful Start to the Year",
+    "summary": "ETH is beginning to wrangle back control with rival layer-1 blockchains like Solana.",
+    "time": "2025-05-29T14:45:00",
+    "author": "Oliver Knight",
+    "content": "Ether\nETH\n$3,495.36\nhas increased in value by 45% over the past 30 days, outperforming the decentralized finance (DeFi) market and bitcoin, which are up 21% and 13% respectively in the same period, according to DefiLlama data.\n\nMuch of ether's rise has been attributed to institutional interest that has led to record inflows from spot ETH ETFs.\n\nETH's rise came after a lull in sentiment earlier this year as rival layer-1 blockchains like Solana took the limelight with a flurry of memecoin releases.\n\nAt the turn of the year ETH was trading at $3,340 however by early April it had tumbled to as low as $1,472 amid global uncertainty related to U.S. tariffs.\n\nBut now, as documented in an article by CoinDesk analyst Omkar Godbole on Thursday, ether has finally broken an 18-month downtrend against Solana as it begins to wrangle back control of the DeFi market.\n\nIt appears that much of that appetite is related to yields -- DefiLlama data shows that TVL on restaking protocols like EigenLayer and Ether.fi have both risen by between 41% and 48% this month, while Binance's staked ether product has experienced a 63% jump in TVL.\n\nThe Solana-based DeFi protocols, however, have failed to keep pace with those on Ethereum. Jupiter's and Kamino's TVL have risen by just 7% and 9% while liquid staking protocol Marinade has seen TVL increase by 29%.\n\nEther's recent performance marks a significant recovery from earlier this year, with increased institutional interest and strong growth in DeFi protocols contributing to its rise.",
+    "url": "https://www.coindesk.com/markets/2025/05/29/ether-outperforms-defi-market-in-may-despite-woeful-start-to-the-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Binance",
+                "EigenLayer",
+                "Ether.fi",
+                "Jupiter",
+                "Kamino",
+                "Marinade"
+            ],
+            "organizations": [
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ether's 45% price increase, institutional interest leading to record ETF inflows, breaking an 18-month downtrend, and strong growth in DeFi protocols."
+    }
+}

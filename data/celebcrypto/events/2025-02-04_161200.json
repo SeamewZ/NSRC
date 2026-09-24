@@ -1,0 +1,36 @@
+{
+    "title": "Ether Worth Nearly $1B Left Exchanges Monday as Trade War Fears Sent Prices Crashing",
+    "time": "2025-02-04T16:12:00",
+    "author": "Omkar Godbole",
+    "summary": "Data shows investors likely bought the dip, snapping up ETH at lower prices.",
+    "content": "Ether, the second-largest cryptocurrency by market value, crashed hard Monday as prospects of a U.S.-led trade war weighed on risk assets. Data shows investors likely bought the dip, snapping up coins at lower prices.\n\nAccording to analytics firm IntoTheBlock, ether worth almost $1 billion left centralized exchanges Monday, the highest single-day net outflow since January 2024. \"This indicates traders took advantage of the drop to accumulate ETH,\" IntoTheBlock said in a Telegram broadcast.\n\nEther's price crashed as low as nearly $2,000 on some exchanges as market liquidity deteriorated and dealers scrambled to offload futures. While prices have recovered to $2,800, sentiment remains bearish, with data from UltraSound.Money, pointing to an unwinding of the Merge's deflationary effect on ETH.\n\nEther exchange-traded funds (ETFs) experienced record trading volume on Monday amid a volatile day in markets after President Donald Trump imposed and then paused tariffs on Canada and Mexico.\n\nTraders moved around $1.5 billion worth of shares of the nine ETFs, Bloomberg data shows. Half of that volume was captured by BlackRock's iShares Ethereum Trust (ETHA).\n\nOverall flows, however, weren’t out of the norm. According to Farside Investors, the ETFs attracted $83.6 million of net inflows on Monday, with the majority of it going into Fidelity’s Ethereum Fund (FETH). ETHA, still the largest fund out of the nine ETFs, saw no net inflows on Monday.\n\nLate in the U.S. day, Eric Trump, the son of President Donald Trump, encouraged his followers on X to add more ether, claiming it is a good time to buy. The tweet added to the already crazy volatility of the day, with ETH's price spiking to nearly $2,900. At press time, ETH was changing hands at $2,780, ahead 3.5% from 24 hours prior.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/ether-worth-nearly-usd1b-left-exchanges-monday-as-trade-war-fears-sent-prices-crashing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "Bloomberg"
+            ],
+            "organizations": [
+                "IntoTheBlock",
+                "UltraSound.Money",
+                "Farside Investors",
+                "iShares Ethereum Trust"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes investors buying the dip with nearly $1 billion leaving exchanges and ETF inflows, indicating accumulation during price drops."
+    }
+}

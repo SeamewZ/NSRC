@@ -1,0 +1,43 @@
+{
+    "title": "Lombard Finance to Launch its Liquid-Staking Bitcoin Token LBTC on Sui",
+    "time": "2025-03-06T13:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The move marks LBTC’s first integration with a non-EVM blockchain, bringing bitcoin as a collateral in DeFi to a broader ecosystem.",
+    "content": "Lombard Finance’s liquid-staking bitcoin token, LBTC, will launch on the Sui blockchain on Thursday, marking its first expansion to a non-Ethereum Virtual Machine (EVM) compatible chain.\n\nThe expansion extends LBTC beyond the blockchains it currently uses, which include Ethereum, Base, and BNB chains. The token is meant to install bitcoin as collateral on decentralized finance (DeFi) applications, which on Sui currently have around $1.3 billion in total value locked (TVL).\n\nBringing LBTC to Sui means that users on the network will have access to bitcoin staking rewards while being able to leverage the tokens across its decentralized finance protocols, according to a press release shared exclusively with CoinDesk.\n\nThe token is set to be supported by Sui Wallet and Phantom Wallet while being initially integrated into Cetus, Navi Protocol, and SuiLend — the network’s largest protocols by TVL.\n\n“This strategic move to Sui reflects our commitment to driving Bitcoin adoption in innovative blockchain ecosystems, ensuring that bitcoin holders can seamlessly participate in the future of on-chain finance while maintaining the highest standards of security and liquidity,” said Lombard Finance’s co-founder Jacob Phillips.\n\nLBTC has grown rapidly since its launch, with nearly $2 billion in circulation and 70% of its supply actively deployed in DeFi protocols including Aave and Morpho, according to the release.\n\nSpeaking to CoinDesk, Phillips revealed that there \"will be incentives to promote the adoption of bitcoin in Sui-native DeFi applications\" to help incentivize the adoption of LBTC on the network.\n\nAs for any potential expansion to other non-EVM networks, Phillips said Lombard is \"eager to bridge bitcoin to any ecosystem that is a leader in DeFi innovation. We'll have more to share on that front in the next few months.\"",
+    "url": "https://www.coindesk.com/business/2025/03/06/lombard-finance-to-launch-its-liquid-staking-bitcoin-token-lbtc-on-sui",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jacob Phillips"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Lombard Finance",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Sui",
+                "Ethereum",
+                "Base",
+                "BNB",
+                "Sui Wallet",
+                "Phantom Wallet",
+                "Cetus",
+                "Navi Protocol",
+                "Suilend",
+                "Aave",
+                "Morpho"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "LBTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of LBTC to Sui blockchain enables bitcoin staking rewards and DeFi integration, indicating increased utility and adoption of bitcoin in decentralized finance."
+    }
+}

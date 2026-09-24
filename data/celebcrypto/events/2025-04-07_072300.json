@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Sell-Off Worsens With XRP, SOL, DOGE Down 20%, Traders See More Pain Ahead of US Open",
+    "time": "2025-04-07T07:23:00",
+    "author": "Shaurya Malwa",
+    "summary": "“We expect crypto markets to dip once US markets open,” one trader said.",
+    "content": "A crypto market sell-off went from bad to brutal in European morning hours Monday as bitcoin pierced the $75,000 level — extending losses on major tokens to nearly 20%.\n\nTokens XRP, solana\nSOL\n$161.71\n, and\nDOGE\n$0.1643\nplunged over 5% in the hours ahead of the European open, erasing tens of billions in market capitalization, driven by a cascade of macroeconomic uncertainty and aggressive liquidations that neared $1 billion.\n\nThe broad-based CoinDesk 20 (CD20) index, which tracks the largest tokens, slumped 12%, signaling a widespread risk-off sentiment gripping the sector.\n\nXRP and SOL led the decline, each nosediving more than 20% in the past 24 hours and breaking under critical support levels. XRP, trading at $1.70, has slipped below its critical 200-day moving average — a key technical support level — raising fears of further downside toward $1.75.\n\nSOL, meanwhile, dropped under $100, breaching its 50-day moving average and marking a 64% retreat from its all-time high. DOGE, the meme coin darling, wasn’t spared, tumbling 20% to $0.13, as a CoinDesk analysis noted earlier Monday.\n\nPresident Donald Trump’s recent 25% tariffs on imports from Canada and Mexico, coupled with a doubled 20% levy on China, have sparked retaliatory threats.\n\nChina is mulling front-loaded stimulus to counter these measures, adding to market jitters, as reported. Investors are fleeing risk assets for safe havens like gold, and the Japanese yen.\n\nMeanwhile, traders expect the market decline to continue through the Asian day ahead of the U.S. open.\n\n“Historically, crypto markets tend to front-run stock markets over the weekend, and this morning's Asia market declines seem to have reinforced this belief,” Jeff Mei, COO at BTSE, told CoinDesk in a Telegram message. “We expect crypto markets to dip once US markets open.”\n\n“As to whether or not they’ll recover depends on which large countries are able to secure short-term tariff delays or deals this week. Thus far, Vietnam, Cambodia, and Taiwan have already pledged to lower their own tariffs and/or increase US investment in exchange for relief, but we would need a larger trading partner like Japan or China to do so to restore confidence and certainty in the markets,” Mei added.\n\nAugustine Fan, head of insights at SignalPlus, said current price action was displaying bear market behaviour.\n\n“All the signs suggest that macro markets are now in 'bear market' mode, rallies are to be sold, and investors will be forced to accept this new reality against the long-term wagers being made,” Fan said in a Telegram message. “The market will likely continue to frustrate and shake investor confidence for quite a while longer.”\n\n“Over the longer term, charts might argue that BTC has broken out against global equities and is overdue to catch up with spot gold, but catalysts appear to be fleeting at this time and risk management (ie. lower prices) will likely dominate until global stops melting down,” Fan ended.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/crypto-sell-off-worsens-with-xrp-sol-doge-down-20-traders-see-more-pain-ahead-of-us-open",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jeff Mei",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "COO",
+                "head of insights"
+            ],
+            "companies": [
+                "BTSE",
+                "SignalPlus"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "XRP",
+            "solana",
+            "SOL",
+            "DOGE",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a brutal crypto market sell-off with tokens plunging 20%, widespread risk-off sentiment, aggressive liquidations, and traders expecting further declines ahead of US market open."
+    }
+}

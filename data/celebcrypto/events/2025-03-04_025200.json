@@ -1,0 +1,32 @@
+{
+    "title": "ETH Tests $2K, Lowest Since November 2023",
+    "time": "2025-03-04T02:52:00",
+    "author": "Sam Reynolds",
+    "summary": "$165 million in long ETH positions have been liquidated in the last 12 hours.",
+    "content": "Ether\nETH\n$3,495.36\nis testing levels not seen since November 2023, as the market continues to be hit by volatility resulting from U.S. President Donald Trump's trade war threat.\n\nETH is down 15% in the last 24 hours, according to CoinDesk Indices data, dragging down the CoinDesk 20, a measure of the largest digital assets, which is down 16%.\n\nEther's decline over the past three months has been driven by bearish investor sentiment, reflected in its underperformance relative to BTC and weak institutional demand, alongside macro headwinds like trade war fears, inflation concerns, and stock market weakness, which have dampened risk appetite.\n\nCoinGlass data shows that nearly $165 million in ETH long positions have been liquidated in the last 12 hours.\n\nBettors on Polymarket are giving a 76% chance of ether hitting $1900 by the end of the month.\n\nEther ETF outflows were significantly negative last week, totaling -$335 million, according to data from SoSoValue.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/eth-tests-usd2k-lowest-since-november-2023",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Polymarket",
+                "CoinDesk",
+                "CoinGlass",
+                "SoSoValue"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ether",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ETH testing lowest levels since November 2023, significant price declines, massive long position liquidations, negative ETF outflows, and bearish investor sentiment driven by macro headwinds."
+    }
+}

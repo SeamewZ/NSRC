@@ -1,0 +1,44 @@
+{
+    "title": "It's Easier Than You Think to Build With AI and Web3",
+    "summary": "The combination of AI and Web3 could turn us all into developers, says Bailey Reutzel, after attending a recent boot camp sponsored by Coinbase.",
+    "time": "2025-01-24T21:55:00",
+    "author": "Bailey Reutzel",
+    "content": "Remember those middle-school writing prompts: Describe your favorite cookie.\n\nYour teacher told you to write it as if to an alien, a being who had never encountered a cookie before, which meant touching on each sense – sight, sound, smell, touch, taste. You might not have realized it then, but describing something in a way that allows people to get a clear picture is actually quite hard.\n\nLet me try to describe Matheus Pagani, founder and CEO of Venture Miner. Matheus is a male with light caramel skin and dark brown hair. Even though his hair is cut close, you can tell it’s curly. He’s got a thick dark brown, almost black beard, which connects to a mustache. His eyes are dark brown behind thin wire glasses. His bottom lip sticks out a little further from his top lip, giving him a look of assurance, but not arrogance.\n\nPicturing him yet? How confident are you?\n\nOh yeah, and he’s Brazilian.\n\nGot it?\n\nLet’s see what Matheus Pagani actually looks like.\n\nIs this what you had come up with in your head from my description? Doubt it. Whenever I told you he was Brazilian, did you accessorize him in bright colors and a feathered headdress? Something like this?\n\nIf so, check your bias, but also you’re thinking like an AI. That was what ChatGPT came up with from the prompt “some Brazilians having fun.” Pagani showed this and other examples spit out by our generative AI (Italians have fun by sitting around long tables with multiple generations eating pizza) during the AI2Web3 Bootcamp in NYC in early December.\n\nThe bootcamp, run by Pagani and Build City, brought together 59 participants across all skill levels to learn how the two buzziest (and often misunderstood) technologies can be brought together to create useful products and services. Pagani used a version of the middle-school assignment to explain how and why AI made the significant leaps that have kept us all excited and on edge over the past few years. Before there was largely only text data being used to train AIs, and as the exercise highlights, that only goes so far. But mix text information with visual data, and you get a fuller picture.\n\nAnd understanding this, getting hands on with both AI and blockchain technology to understand its core components is what the bootcamp was all about. For Pagani, these skills are going to be relevant for nearly all people – engineers, tech users, journalists, artists, doctors – real soon.\n\n“We want to join brilliant minds from all backgrounds to come and work with AI and Web3, since the junction of their multiple perspectives can uncover new use cases that we would never envision just with a specialized Web3 or AI mindset alone,” Pagani said. “Nowadays we have tools to easily enable any non-technical enthusiasts to build practically functional applications and systems just with \"plain English,\" so what matters is bringing passionate people interested in solving problems together with the proper education. When you have this combination, you just need to light the match and watch it burn.”\n\nWhat makes the intersection of these two technologies so exciting is just how much you can build in such a short amount of time without really any prior technical experience.\n\nNot only will AI source whole codebases with the right prompt, but the crypto industry is also building tools to help make developing at the intersection of both more intuitive and accessible.\n\nFor instance, Coinbase, who sponsored the bootcamp, launched AgentKit in November. The framework allows developers to build AI agents with their own crypto wallets, enabling the agents to interact autonomously with blockchain networks. This could be used to build a squad of agents that can monitor the markets and execute trades automatically based on predefined rules and guardrails.\n\n“One day, we’ll have AI agents own their own cars and operate their own taxi service that gets paid by customers in crypto and then uses that crypto to purchase repairs,” Lincoln Murr, associate product manager at Coinbase, told the attendees.\n\nCoinbase currently has a grants program ongoing for building with AgentKit. “What you build doesn’t have to be useful; we have a bias towards cool stuff,” Murr told the bootcamp, hoping to inspire projects and applications that no one has yet thought of.\n\nOra Network also has an interesting model for developers looking to build AI-enabled Web3 applications or vice versa. The network allows developers to utilize current large language models, including Meta’s Llama3 and Stable Diffusion, but it also enables developers to build their own models and offer a so-called initial model offering (IMO) to crowdfund its continued development.\n\n“It’s kind of winner-takes-all right now in AI, but with this model, we’re allowing the crowdfunding of AI building and training, so people can have a share of the models, which is empowering if we think these models will run society in a decade,” Alec James, partnerships and growth lead at Ora, said during the bootcamp. “If that’s the case, we’ll want that development distributed.”\n\nNear, Fleek and Alora were also among the companies that sponsored the bootcamp and presented their various tools and programs for building at the intersection of these two innovative technologies.\n\nDuring the final day of the bootcamp, nine teams presented working prototypes for projects that blended Web3 and AI. These projects ranged from AI assistants meant to help you pick gifts, order delivery or diversify your financial portfolio to applications to help crypto operators pump out memecoins with big virality potential.\n\nJackie Joya, a participant who had flown in from San Francisco, said the bootcamp has really inspired her to keep building. With a background in animal science, Joya is still new to engineering, but was amazed how much a novice could build with the tools available.\n\nOther participants, across all skill levels, said similar things. Choudhury Imtiaz, a market researcher from Bangladesh, who is in the U.S. on an H-1B1 Visa waiting for a placement, hasn’t heard of Web3 before the bootcamp, but was able to pitch a team project on the last day. And Isayah Culbertson, who has worked as an engineer for both crypto and AI projects separately, was able to learn skills for building with both, which he thinks has the potential to change the world for the better.\n\n“I see the combination accelerating the research and development of so many different fields, while also allowing for a more equitable distribution of wealth generated from that R&D,” he said.",
+    "url": "https://www.coindesk.com/opinion/2025/01/24/it-s-easier-than-you-think-to-build-with-ai-and-web3",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bailey Reutzel",
+                "Matheus Pagani",
+                "Lincoln Murr",
+                "Alec James",
+                "Jackie Joya",
+                "Choudhury Imtiaz",
+                "Isayah Culbertson"
+            ],
+            "positions": [
+                "founder and CEO",
+                "associate product manager",
+                "partnerships and growth lead",
+                "market researcher",
+                "engineer"
+            ],
+            "companies": [
+                "Venture Miner",
+                "Coinbase",
+                "Ora Network",
+                "Near",
+                "Fleek",
+                "Alora",
+                "Meta",
+                "Build City"
+            ],
+            "organizations": [
+                "AI2Web3 Bootcamp"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The event highlights how AI and Web3 technologies are making cryptocurrency development more accessible and creating new use cases, which suggests increased adoption and market confidence."
+    }
+}

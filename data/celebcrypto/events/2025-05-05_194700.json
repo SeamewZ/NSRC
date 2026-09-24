@@ -1,0 +1,53 @@
+{
+    "title": "Leading House Dem Will Block Crypto Market Structure Bill Hearing",
+    "summary": "Rep. Maxine Waters said she is concerned about U.S. President Donald Trump's increasing crypto ties.",
+    "time": "2025-05-05T19:47:00",
+    "author": "Nikhilesh De",
+    "content": "The leading Democrat on the House Financial Services Committee, Rep. Maxine Waters, will block efforts to hold a joint hearing between her committee and the House Agriculture Committee on Monday's newly unveiled market structure discussion draft bill.\n\nUnder House rules, all participants in a joint hearing need to agree to proceed. Waters will object to the joint hearing and prevent it from proceeding as planned, a Democratic staffer told CoinDesk, pointing to U.S. President Donald Trump's recent and increasing engagement with crypto.\n\nThe Financial Services and Agriculture Committees announced they would host a joint hearing on market structure issues last week, and unveiled the first text addressing the issue — including how the Securities and Exchange Commission and Commodity Futures Trading Commission would oversee crypto — earlier Monday.\n\n\"Ranking Member Maxine Waters has been incredibly vocal about Trump’s crypto crimes and has pushed Republicans to investigate these crimes,\" the staffer said. \"Ahead of tomorrow’s hearing, Ranking Member Waters gave Chairman Hill a phone call and told him she would not approve this hearing unless Republicans included provisions in their legislation to block Trump from further profiting from crypto off the backs of investors.\"\n\nIn a statement published Monday evening, Waters said, \"President Trump’s actions have drastically transformed the landscape of crypto in ways that are far more dangerous than what we could have ever imagined. To put it simply, Donald Trump and his family’s crypto corruption is the biggest and most egregious scheme in modern history.\"\n\nWaters said she told Financial Services Committee Chairman French Hill that she would consent to the hearing if he \"include[d] provisions to block Trump and his family, as well as Members of Congress and other elected federal government officials, from further profiting off crypto at the expense of American families in his crypto legislation.\"\n\nHer hearing will feature University of Manchester Visiting Research Fellow Chastity Murphy, who once worked on stablecoin legislation with Rep. Rashida Tlaib; Harvard Kennedy School Research Fellow and former CFTC Chair Timothy Massad; Americans for Financial Reform Senior Policy Analyst Mark Hayes and Revolving Door Project Founder Jeff Hauser.\n\nPolitico first reported that Waters would object to the joint hearing.\n\nIn recent days, Trump announced he would host a dinner for the 220 parties holding the most TRUMP memecoins. One of his children, Eric Trump, announced just last week that Abu Dhabi investment firm MGX would use World Liberty Financial's USD1 stablecoin to close its investment in crypto exchange Binance. Freight Technologies, a publicly traded logistics firm, also said last week that it would buy $20 million in TRUMP coins with the explicit purpose of trying to influence trade policy.\n\nThe Democratic staffer told CoinDesk that Waters and other Democrats on the Financial Services Committee would hold their own hearing investigating Trump's different crypto ties, which would include World Liberty Financial.\n\nA spokesperson for Hill said in a statement that, \"Since the last Congress, we’ve had productive bipartisan, bicameral discussions on market structure legislation. We encourage the Ranking Member to attend tomorrow’s hearing to express her views and reconsider her decision to object.\"\n\nUPDATE (May 6, 2025, 02:25 UTC): Adds comment from Waters.",
+    "url": "https://www.coindesk.com/policy/2025/05/05/leading-house-dem-will-block-crypto-market-structure-bill-hearing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Maxine Waters",
+                "Donald Trump",
+                "French Hill",
+                "Chastity Murphy",
+                "Rashida Tlaib",
+                "Timothy Massad",
+                "Mark Hayes",
+                "Jeff Hauser",
+                "Eric Trump"
+            ],
+            "positions": [
+                "Leading Democrat on the House Financial Services Committee",
+                "U.S. President",
+                "Financial Services Committee Chairman",
+                "University of Manchester Visiting Research Fellow",
+                "Harvard Kennedy School Research Fellow",
+                "former CFTC Chair",
+                "Americans for Financial Reform Senior Policy Analyst",
+                "Revolving Door Project Founder"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "Freight Technologies",
+                "MGX",
+                "Binance"
+            ],
+            "organizations": [
+                "House Financial Services Committee",
+                "House Agriculture Committee",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "Democratic staffer",
+                "CoinDesk",
+                "Politico"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The event describes a key Democrat blocking crypto market structure legislation due to concerns about presidential crypto ties, creating regulatory uncertainty and political opposition to crypto development."
+    }
+}

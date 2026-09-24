@@ -1,0 +1,46 @@
+{
+    "title": "The Protocol: Ethereum’s Final Pectra Test Goes Live",
+    "summary": "Also: Hyperliquid Eases Token Transfers for DeFi With Integration Between HyperCore and HyperEVM; Celo Migration to Layer-2 Network Is Done, Bringing in New Era for the Blockchain; Bitcoin DeFi Expansion Faces Fork Dilemma as Developers Explore ZK Proofs",
+    "time": "2025-03-26T21:34:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nIT’S ALIVE! ETHEREUM PECTRA TEST: The final dress rehearsal for Ethereum’s upcoming Pectra upgrade occurred Wednesday, as the blockchain's biggest changes in over a year were tested an additional time following a series of mishaps. The upgrade on the new Hoodi testnet was closely watched given that two previous tests, on the Holesky and Sepolia test networks, failed to finalize properly. Following those tests, developers created a new testnet, Hoodi, to give ecosystem players, particularly staking providers, one more testing opportunity before the Pectra upgrade hits Ethereum’s mainnet. The test involved passing Hoodi a series of code changes meant to make Ethereum more user-friendly for both end-users as well as developers. One of those changes adds smart contract functionality to wallets, allowing wallet software developers to build new convenience-oriented features, like the ability to pay transaction fees in cryptocurrencies other than ether\nETH\n$3,340.48\n. Testnets act as copies of a main blockchain, and are used by developers to run through any major code changes in a low stakes environment, giving them a place to patch out any bugs before they reach mainnet. Hoodi was the last of three testnets to run through a simulation of Pectra. Developers previously agreed that if all went well on Wednesday, Pectra would be monitored for around 30 more days and then, finally, activated on Ethereum's mainnet. — Margaux Nijkerk Read more.\n\nHYPERLIQUID EASES TOKENS FOR DEFI: The decentralized finance (DeFi) sector is among the biggest drivers of value accrual and revenue creation for crypto projects, but its complexity often leaves users tangled in a web of blockchains, bridges, wallets and tokens. A technical update by Hyperliquid is making that process easier for both developers and users, with the direct linking of tokens on HyperCore and HyperEVM platforms now being possible. HyperCore is its native platform for spot assets (think tokens you can trade directly), and HyperEVM, an Ethereum Virtual Machine (EVM) network that executes smart contracts on Ethereum. Tokens on HyperCore, dubbed “Core spot,” can be linked to their counterparts on HyperEVM and are called “EVM spot.” Once linked, users can transfer them using simple actions — like a “spotSend” on HyperCore or a standard ERC-20 transfer on HyperEVM. By letting tokens move directly between them — without a third-party intermediary — developers can create products that cut out the technical chops required to move assets, which is easy for heavy crypto users, but may be challenging for beginners. — Shaurya Malwa Read more.\n\nCELO MIGRATION to LAYER-2: The Celo blockchain's long-awaited plan of becoming an Ethereum layer-2 chain has been completed, ending an almost two-year process, the main organizations behind the network said Wednesday. The transition ends a long journey beginning back in July 2023 for the layer-1 blockchain that included a community vote in July 2024 and a fierce competition, won by Optimism, among layer-2 networks out to convince the Celo ecosystem to build with their technology. The improved network — like other layer 2s — offers faster and cheaper transactions on top of Ethereum's mainnet. The blockchain is powered by Optimism’s OP Stack, a customizable framework that lets developers build layer-2 networks based off of Optimism’s technology. According to Rene Reisberg, the CEO of the Celo Foundation, the migration is the first of its kind in the Ethereum ecosystem, and will probably be used as a blueprint for other EVM-compatible blockchains that are looking to become a layer-2 network. — Margaux Nijkerk Read more.\n\nBITCOIN DEFI FACES FORK DILEMMA: Bitcoin developers looking to expand the blockchain's decentralized finance (DeFi) capabilities are likely to be considering zero-knowledge (ZK) proofs, functionality that's not currently available and which require a so-called soft fork, or new version of the software, to introduce them. That's a problem, according Edan Yago, a Bitcoin veteran of over a decade and core contributor to smart contract operating system BitcoinOS (BOS). \"Forking a blockchain, especially one with $2 trillion worth of value on it, is like open-heart surgery,\" he told CoinDesk in an interview. ZK proofs are a cryptographic method of proving the validity of statements while maintaining privacy through not revealing any information about it. The functionality is not available in Bitcoin's software, but could be made so through proposed implementations like OP_CAT and OP_CTV. Yago said developers should be able to find ways of enabling them on Bitcoin without any kind of fork. \"The burden of proof is on developers to demonstrate that there is no other way of accomplishing this through clever engineering,\" he said. This is what BOS hopes to achieve through the BitSNARK, a Bitcoin rollup protocol that is part of the family of computing paradigms being developed to scale the original blockchain. These emerged following the introduction of BitVM by Robin Linus in October 2023, which set out a framework for how Ethereum-like smart contracts could be enabled on Bitcoin. BitcoinOS has now open-sourced what Yago describes as a \"fully production-ready\" BitSNARK protocol, meaning developers now have access to ZK verification on Bitcoin and can connect it to other blockchains like Ethereum, Solana and Cardano. — Jamie Crawley Read more.",
+    "url": "https://www.coindesk.com/tech/2025/03/26/the-protocol-ethereum-s-final-pectra-test-goes-live",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Margaux Nijkerk",
+                "Shaurya Malwa",
+                "Edan Yago",
+                "Robin Linus",
+                "Jamie Crawley",
+                "Rene Reisberg"
+            ],
+            "positions": [
+                "CEO of the Celo Foundation",
+                "core contributor to smart contract operating system BitcoinOS (BOS)",
+                "Bitcoin veteran"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Hyperliquid",
+                "Optimism",
+                "BitcoinOS"
+            ],
+            "organizations": [
+                "Celo Foundation",
+                "Ethereum",
+                "Bitcoin"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "Solana",
+            "Cardano"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive technical developments including Ethereum's successful final Pectra test, Hyperliquid's DeFi integration improvements, Celo's completed migration to Layer-2, and Bitcoin DeFi expansion with ZK proofs, all indicating progress and innovation in the cryptocurrency ecosystem."
+    }
+}

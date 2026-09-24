@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin Slips Below $104K, Cryptos Slide as U.S.-China Tariff Tensions Flare Up",
+    "summary": "The crypto market wobbled after Trump accused China of violating a tariff truce.",
+    "time": "2025-05-30T17:34:00",
+    "author": "Tom Carreras",
+    "content": "Markets went red on Friday on renewed tariff-related apprehensions.\n\nBitcoin\nBTC\n$101,723.18\nis down 2.1% in the last 24 hours, trading just above $104,000 after briefly hitting a session low of $103,900. The CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization, except for stablecoins, memecoins and exchange coins — slumped even further, by 4.2%.\n\nSmart contract platforms were particularly affected, with solana\nSOL\n$157.65\n, sui\nSUI\n$2.0280\nand avalanche\nAVAX\n$16.53\nlosing 6.3%, 7.8% and 7.3% respectively.\n\nCrypto stocks also took a hit, especially bitcoin mining firm Bitdeer (BTDR), down 8.3% on the day after a run-up that saw the stock rise 132% from April 16 to May 21. Strategy (MSTR) slid 2.7%, and Coinbase (COIN) 1.3%.\n\nThe bleeding wasn’t contained to crypto. The S&P 500 and Nasdaq are down 1% and 1.5% respectively, while gold lost 0.7%.\n\nBehind the price action was the flare-up of U.S. trade tensions once again after an agreement was struck earlier this month. The concerns came after President Donald Trump accused China in a post on Truth Social of \"violating\" the tariff truce between the countries.\n\nMeanwhile, Treasury Secretary Scott Bessent said in a Fox News interview that talks had \"stalled\" with the Chinese representatives.\n\nChina, in response, urged the U.S. to \"immediately correct its erroneous actions, cease discriminatory restrictions,\" BBC reported.\n\nThe cool-off between U.S. and China helped risk assets rally in May, providing a tailwind for BTC to clinch a new record high. The re-escalation now threatens to unwind some of those gains.\n\nRead more: Bitcoin Whales Seem to Be Calling a Top as BTC Price Consolidates",
+    "url": "https://www.coindesk.com/markets/2025/05/30/bitcoin-slips-below-usd104k-cryptos-slide-as-u-s-china-tariff-tensions-flare-up",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "President",
+                "Treasury Secretary"
+            ],
+            "companies": [
+                "Bitdeer",
+                "Strategy",
+                "Coinbase",
+                "Fox News",
+                "BBC"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "solana",
+            "SOL",
+            "sui",
+            "SUI",
+            "avalanche",
+            "AVAX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes widespread price declines across cryptocurrencies and crypto stocks due to renewed U.S.-China trade tensions."
+    }
+}

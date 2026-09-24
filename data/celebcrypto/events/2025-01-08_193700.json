@@ -1,0 +1,50 @@
+{
+    "title": "Bitcoin Slips Below $93K in Crypto Selloff, but Trader Sees Short-Term Bounce",
+    "time": "2025-01-08T19:37:00",
+    "author": "Krisztian Sandor",
+    "summary": "Mining stocks including WULF, BTDR, IREN and HUT dropped over 5%, while BTC holder medical devices firm Semler Scientific plunged 10%.",
+    "content": "Bitcoin\nBTC\n$104,245.66\nerased all its early-2025 rise on Wednesday as macro jitters and the global bond rout accelerated the sell-off in crypto prices.\n\nThe largest crypto slipped to a session low of $92,600 during U.S. trading hours, shedding nearly 10% in two days from its Monday peak above $102,000. It has recovered some of the losses and recently traded at $94,300, still down 2.5% over the past 24 hours.\n\nCardano's ADA, Render's RNDR and Aptos' APT led losses in the broad-market benchmark CoinDesk 20 Index, which slipped over 3% over the same period.\n\nThe violent two-day plunge liquidated nearly $1 billion worth of leveraged derivatives positions across crypto assets, predominantly longs betting on higher prices, CoinGlass data shows. The slide also pushed BTC temporarily below where it started the year. At the recent price, it was up 1% from its Jan. 1 opening.\n\nCrypto-related stocks weren't spared. Several bitcoin miners, including TeraWulf (WULF), Bit Digital (BTBT), Bitdeer (BTDR), IREN (IREN) and Hut 8 (HUT) endured 5%-8% declines. Medical devices producer Semler Scientific, which adopted a BTC treasury strategy following MicroStrategy's (MSTR) footsteps, was down nearly 10% through the day and is now down more than 15% for the week and roughly 40% from its late December high. MSTR was down 2.2% on Wednesday.\n\nSeveral analysts warned crypto traders of a treacherous January, with potential macro headwinds for risk assets lying ahead, including a hawkish Federal Reserve, rapidly surging long-term government bond yields, sticky inflation readings and the possibility of a U.S. government shutdown. What appeared to kickstart the pullback across all assets was Tuesday's strong U.S. economic data prints that had investors pare back their rate cut expectations for the year.\n\nNotably, Fed governor Christopher J. Waller came out on Wednesday in support of further interest rate cuts through the year and allay fears of inflation from potential tariffs enacted by incoming President Dinald Trump. However, that didn't change investors' interest rate outlook much, as the CME FedWatch showed.\n\nReleased Wednesday afternoon during U.S. hours, minutes from the Fed's most recent policy meeting showed most believing the upside risks to inflation had increased and also evidenced some worry that Trump's tariff policy could have more effect on price levels than previously assumed.\n\nWith Wednesday's drop, bitcoin returned to the lower bound of its range it has been trading since late November. BTC will likely see a bounce from the lows in the coming days, but prices could stay consolidating rangebound and possibly pull back to lower levels before setting new all-time highs, according to well-followed cross-asset trader Bob Loukas, founder of Station3 NYC.\n\n\"Doesn't have to be uber bearish, but we might need to fiddle around in a range and get more comfortable with $100k prints before we can really leave this area behind,\" he said in an X post.\n\nFriday's U.S. non-farm payrolls data report and the Fed meeting later this month will influence BTC's trajectory, hedge fund QCP noted in a Telegram broadcast, forecasting a bounce as Trump's inauguration on January 20 nears.\n\n\"With market anticipation building, we believe bitcoin's pullback is merely a pause, setting the stage for a bullish rally as Trump's inauguration fuels optimism,\" QCP analysts said.",
+    "url": "https://www.coindesk.com/markets/2025/01/08/bitcoin-slips-below-93-k-in-crypto-selloff-but-trader-sees-short-term-bounce",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bob Loukas",
+                "Christopher J. Waller",
+                "Dinald Trump"
+            ],
+            "positions": [
+                "Fed governor",
+                "founder of Station3 NYC"
+            ],
+            "companies": [
+                "TeraWulf",
+                "Bit Digital",
+                "Bitdeer",
+                "IREN",
+                "Hut 8",
+                "Semler Scientific",
+                "MicroStrategy",
+                "Station3 NYC",
+                "QCP"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "CoinDesk",
+                "CoinGlass",
+                "CME FedWatch"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Cardano",
+            "ADA",
+            "Render",
+            "RNDR",
+            "Aptos",
+            "APT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin slipping below $93K, erasing early-2025 gains, with broad market declines, $1 billion in liquidations, and multiple crypto-related stocks dropping 5-10%."
+    }
+}

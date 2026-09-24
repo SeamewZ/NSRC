@@ -1,0 +1,30 @@
+{
+    "title": "Validation Cloud Debuts Mavrik-1 AI Engine on Hedera to Democratize DeFi Data Analysis and Web3",
+    "summary": "Mavrik-1 aims to lower the barrier to DeFi adoption by allowing users to access complex data without technical expertise.",
+    "time": "2025-05-20T17:00:00",
+    "author": "Omkar Godbole",
+    "content": "Crypto infrastructure company Validation Cloud announced Tuesday the debut of Hedera-based AI engine Mavrik-1 that lets users and developers get DeFi market insights by asking queries in plain English.\n\nDespite DeFi's promise in revolutionizing finance, its complexity has long acted as barrier against widespread adoption. For DeFi users, the learning curve is steep, requiring knowledge of complex terminologies such as liquidity mining, impermanent loss and staking. Many Defi platforms require users to interact with command-line interfaces and complex web applications.\n\nWith Mavrik-1, users can ask questions like \"Which trading pairs have the largest spreads and which stablecoin has the highest on-chain\ntransaction volume?.\" Imagine chatting with your personal AI advisor.\n\nThe ability to seek information via natural language queries represents democratization of data analysis and marks a shift in how investors interact with the blockchain protocols.\n\n\"This is a pivotal moment for the Hedera ecosystem,” Viv Diwakar, Chief Information Officer at Hedera Foundation, said in a press release shared with CoinDesk. “Validation Cloud’s Data x AI platform brings an entirely new way to engage with blockchain data. It’s a novel experience that unlocks usability and insight for builders, enterprises, and users in our ecosystem.”\n\nValidation Cloud is the AI platform powering Web3 finance, delivering products across Data x AI, Staking, and Node API.\n\nMavrik-1 is deeply integrated with the Hedera-based DeFi applications, such as hUSDC, Karate Combat, and leading DeFi applications, the press release said. It is specially trained for blockchain environments, ensuring contextually relevant responses to queries.\n\n\"We built Mavrik because you shouldn't need a PhD in Web3 to access and understand what's happening on-chain,\" said Andrew McFarlane, CTO of Validation Cloud. \"By surfacing real-time intelligence in natural language, we're making Web3 accessible to everyone.\"\n\nThe launch on Hedera is the first step, which will be followed by integrations with other blockchains and a full public rollout, dubbed Mavrik 2, later this year.\n\nHedera debuted in 2021 and is a leaderless proof-of-stake network with aBFT hashgraph consensus. Hedera Foundation fuels the development of the Hedera ecosystem through grants and expert support for decentralized applications across DeFi, NFTs, and more.",
+    "url": "https://www.coindesk.com/tech/2025/05/20/emb-13-00-est-validation-cloud-debuts-mavrik-1-ai-engine-on-hedera-to-democratize-defi-data-analysis-and-web3",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Viv Diwakar",
+                "Andrew McFarlane"
+            ],
+            "positions": [
+                "Chief Information Officer",
+                "CTO"
+            ],
+            "companies": [
+                "Validation Cloud",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Hedera Foundation"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a positive development that democratizes DeFi data analysis and makes Web3 more accessible, which could drive adoption and market confidence."
+    }
+}

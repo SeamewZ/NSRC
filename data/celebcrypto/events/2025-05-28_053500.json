@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin Uptrend at Risk of Breakdown Ahead of Nvidia Earnings, Fed Minutes",
+    "summary": "The Federal Reserve's minutes and Nvidia's earnings are key events that could influence market movements.",
+    "time": "2025-05-28T05:35:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin's\nBTC\n$101,860.90\nupward trend continued to show signs of weakness early Wednesday, even as Wall Street tech stocks surged overnight in anticipation of upbeat earnings from AI giant Nvidia (NVDA).\n\nThe leading cryptocurrency by market value traded near $108,900 at press time, teasing a downside break of a trendline characterizing the uptrend from early April lows, according to data source Coingecko.\n\nBullish trendlines indicate areas of strong demand, thus a move below one is generally seen as a sign of a potential reversal and a possible start of a downward move.\n\nPrices have not been able to make significant gains this week despite a flurry of positive news, including stablecoin issuer Circle's plans to file for an IPO and Trump Media's plans to raise $2.5 billion to purchase bitcoin.\n\nOn-chain activity suggests that large investors have recently begun distributing coins, contributing to the market's selling pressure. \"As of May 26, the >10K BTC cohort has pivoted to net distribution (~0.3), signaling a notable shift in positioning among the largest holders,\" Glassnode said on X. The firm, however, added that overall, the market remains in an accumulation mode.\n\nLater Wednesday, the spotlight will be on minutes of the Federal Reserve's May meeting, which will offer detailed insights into the committee’s stance on monetary policy and potential clues about future interest rate decisions.\n\nThe central bank left the benchmark interest rate unchanged early this month, with Chairman Jerome Powell pointing squarely to President Donald Trump's tariff war as a source of inflation and uncertainty. Powell also “stagflation” aloud.\n\nThe minutes are likely to reiterate the same, although the recent tariff delay by Trump means the market may not pay much attention to hawkish messaging.\n\nMeanwhile, AI major Nvidia's earnings announcement could move markets, particularly digital assets, given the historical positive correlation between BTC and NVDA.\n\nThe firm is expected to report strong earnings and revenue growth, driving benefits from investments in AI infrastructure. The focus will be on the company's outlook on AI demand and China amid restrictions on Chip exports to China.\n\nPayments-focused XRP held the 200-day simple moving average (SMA) during overnight trading amid growing social media chatter about XRPFi, or decentralized finance on the XRP Ledger.\n\nStrobe Finance, which leverages the smart contract capabilities of Ripple's EVM sidechain to create a DeFi platform on the XRP Ledger, stated that large amounts of XRO are currently idle and can be deployed in DeFi for additional yield.\n\n\"Ripple’s community research reveals a significant dormant user base: over 4 million inactive XRPL wallets hold an estimated US$2.15 billion in XRP, compared to 1.7 million active wallets. This dormant capital represents a large, addressable market waiting to be unlocked through compelling DeFi opportunities,\" Strobe said in a blog post.\n\nThe chart shows XRP trading in bullish territory, above the Ichimoku cloud and the 200-day Simple Moving Average (SMA). The average has acted as strong support or area of interest for buyers since early April.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/bitcoin-uptrend-at-risk-ahead-of-nvda-earnings-fed-minutes-xrp-holds-key-support-amid-xrpfi-narrative",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Chairman",
+                "President"
+            ],
+            "companies": [
+                "Nvidia",
+                "Circle",
+                "Trump Media",
+                "Glassnode",
+                "Strobe Finance",
+                "Ripple"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "XRO",
+            "XRPL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin shows signs of weakness with potential trendline breakdown, large investors distributing coins, and selling pressure despite positive news."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Risks Losing Key Support Zone as Risk Assets Struggle",
+    "time": "2025-01-13T11:56:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 13, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nRisk assets are trading down as the dollar index and Treasury yields benefit from Friday's blowout nonfarm payrolls report and the Palisades Fires posing a risk to the insurance sector and some P&C companies.\n\nBTC is down 2%, changing hands in the key support zone of $90,000 and $93,000, with alternative cryptocurrencies posting bigger losses as usual. ETH has dropped to the lowest since Dec. 21 and the risk-off has clouded XRP's bullish technical outlook (see TA section). Whales likely accumulated XRP over South Korea-based Upbit over the weekend. AI coins is the worst performing sub-sector of the past 24 hours. In traditional markets, futures tied to the S&P 500 point to negative open alongside continued downside volatility in the British pound and emerging market currencies.\n\nThe risk-off sentiment, however, didn't stop Michael Saylor from indicating a potential for another bitcoin purchase as he shared an update on MicroStrategy's bitcoin purchase tracker. If it would put a dent into the negative market sentiment, is another story. \"The firm's purchase last Monday amounted to approximately $100 million, which had limited market impact, but underscores the firm's ongoing demand,\" Valentin Fournier, analyst at BRN said.\n\nOther things being equal, the risk of BTC losing the support zone appears high as some investment banks believe the Fed rate-cutting cycle is over, with Bank of America suggesting a potential for a rate hike. Per some observers, the consensus is that prices will deflate to $70K, followed by a renewed rally.\n\nMeanwhile, the 30-day moving average of the Coinbase-Binance BTC price differential, which has a knack of marking major price tops, has slipped to the lowest since at least 2019, a sign of weaker stateside demand.\n\nOver the near term, the crypto market is likely to focus on President-elect Donald Trump's inauguration on Jan. 20 and the ongoing FTX claim distributions, according to Coinbase Institutional.\n\nBy Oliver Knight\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors, as of Jan. 10.",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/13/crypto-daybook-americas-bitcoin-risks-losing-key-support-zone-as-risk-assets-struggle",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Michael Saylor",
+                "Valentin Fournier",
+                "Oliver Knight",
+                "Donald Trump"
+            ],
+            "positions": [
+                "analyst",
+                "President-elect"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "Bank of America",
+                "Coinbase",
+                "Binance",
+                "FTX",
+                "Upbit",
+                "BRN",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin losing key support, cryptocurrencies posting losses, risk-off sentiment across markets, and analysts predicting price deflation to $70K."
+    }
+}

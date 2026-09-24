@@ -1,0 +1,26 @@
+{
+    "title": "Filecoin's FIL Spikes 30% as South Korean Exchange Upbit Lists the Token",
+    "time": "2025-04-04T07:42:00",
+    "author": "Oliver Knight",
+    "summary": "Trading went live at 07:30 UTC.",
+    "content": "Filecoin's FIL token spiked by 30% after South Korean exchange Upbit started listing FIL trading pairs.\n\nThe token rose to as high as $3.49 from $2.71 on Coinbase and was recently trading around $3.00. Daily trading volume increased by 68% to $303 million, according to CoinMarketCap.\n\nUpbit said in a tweet that the FIL/KRW trading pair went live at 07:30 UTC.\n\nTokens listed on South Korean exchanges often trade at a premium because strict financial controls in Korea means that it is difficult for capital to flow in and out of the country, leading to a lack of arbitrage opportunities.",
+    "url": "https://www.coindesk.com/business/2025/04/04/filecoin-s-fil-spikes-30-as-south-korean-exchange-upbit-lists-the-token",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Upbit",
+                "Coinbase",
+                "CoinMarketCap"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "FIL",
+            "Filecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes FIL token spiking 30% with increased trading volume after being listed on Upbit exchange, indicating positive market impact."
+    }
+}

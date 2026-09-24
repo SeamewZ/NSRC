@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin, Ether, Dogecoin Surge Spurs $500M in Short Liquidations",
+    "summary": "Nearly $530 million in shorts, or bets on lower prices, booked losses amid a general unwinding of leveraged bets.",
+    "time": "2025-04-23T06:08:00",
+    "author": "Shaurya Malwa",
+    "content": "Futures bets against higher crypto prices lost over $500 million in the past 24 hours as a surge higher, buoyed by a possible cooldown of China tariffs by the U.S., led to the largest short liquidations since October.\n\nBitcoin\nBTC\n$101,998.62\nrose from Tuesday’s low of $88,000 to above $93,500 in Asian morning hours, data shows, leading a jump in the broader market with ether\nETH\n$3,341.49\n, Cardano’s ADA and\nDOGE\n$0.1656\nup 14%. Solana’s SOL and XRP rose 7%, with all tokens in the top hundred by market cap in the green.\n\nMeanwhile, Sui Network’s SUI, UniSwap’s UNI and Near Protocol’s showed strength with gains of as much as 18%. Memecoin mog (MOG) rocketed 30%, continued its tendency to act as a beta bet to ETH’s move.\n\nNearly $530 million in shorts, or bets on lower prices, booked losses amid a general unwinding of leveraged bets. Data shows that most short liquidations took place on Bybit at $234 million, followed by Binance at $100 million and Gate at nearly $70 million.\n\nThe largest single liquidation order happened on Binance, an ETH futures position that was worth over $4.5 million.\n\nLiquidations occur when an exchange forcefully closes a trader’s leveraged position owing to a partial or total loss of the trader’s initial margin. It happens when a trader cannot meet the margin requirements for a leveraged position, that is, when they don't have sufficient funds to keep the trade open.\n\nAn uptick in crypto markes came as Trump said he planned to be “very nice” to China in any trade talks and that tariffs will drop if the two countries can reach a deal — a sign that may temper an ongoing cautious sentiment among traders.\n\n“Fears of an escalating trade war have abated as traders largely see the U.S. and China coming to a trade agreement in the coming weeks,” Jeff Mei, COO at BTSE, told CoinDesk in a Telegram message. “Whether or not this will be temporary remains to be seen.”\n\n“But what the last couple of weeks has shown us is that the likelihood of rate cuts and a depreciating U.S. dollar are high, which explains bitcoin's surge. If the U.S. dollar is weakening, there aren't many other currencies to turn to as many other countries may also depreciate their currencies. This could pave the way for bitcoin to become a major store of value,” Mei added.",
+    "url": "https://www.coindesk.com/markets/2025/04/23/bitcoin-ether-dogecoin-surge-spurs-usd500m-in-short-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Jeff Mei"
+            ],
+            "positions": [
+                "COO"
+            ],
+            "companies": [
+                "Bybit",
+                "Binance",
+                "Gate",
+                "BTSE"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Sui Network",
+                "UniSwap",
+                "Near Protocol"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Dogecoin",
+            "DOGE",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL",
+            "XRP",
+            "SUI",
+            "UNI",
+            "MOG"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a market surge with major cryptocurrencies rising significantly and attributes the positive momentum to potential trade agreement optimism and weakening dollar prospects."
+    }
+}

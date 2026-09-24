@@ -1,0 +1,46 @@
+{
+    "title": "SocGen’s Crypto Arm to Launch Dollar Denominated Stablecoin on Ethereum, Reports Say",
+    "summary": "The stablecoin, initially for institutional investors, follows the launch of SG Forge’s euro stablecoin, EURCV.",
+    "time": "2025-05-20T16:38:00",
+    "author": "Francisco Rodrigues",
+    "content": "Société Générale’s crypto arm, SG Forge, is reportedly preparing to launch a dollar-backed stablecoin on Ethereum, making it the first global banking group to issue a public stablecoin tied to the U.S. dollar.\n\nSG Forge’s dollar stablecoin would be publicly accessible on Ethereum, with additional support for Solana to follow. The launch is expected in the coming weeks, according to a report by French publication The Big Whale.\n\nThe move would expand SG Forge’s footprint in the digital asset space following the 2023 debut of its euro stablecoin, EURCV.\n\nThe token would initially serve institutional investors, leveraging SG Forge’s e-money license to operate legally across the European Union, according to the report.\n\nThe shift would come amid accelerating stablecoin adoption. World Liberty Financial, the decentralized finance project backed by the family of U.S. President Donald Trump, has launched its own dollar-denominated stablecoin, USD1, which has been used to settle MGX’s $2 billion investment in Binance.\n\nBanks, according to BitGo’s managing director of stablecoin Ben Reynolds, are exploring stablecoins in a bid to avoid being outpaced by cryptocurrency-native competitors. These financial institutions are needed to unlock the full potential of these tokens, PayPal’s crypto head Jose Fernandez da Ponte said at Consensus 2025 in Toronto.\n\nSG Forge’s euro-denominated stablecoin, EURCV, currently has a market capitalization of around $46.5 million, far behind competitors including Circle’s EURC token, whose market cap exceeds $237 million. Euro-denominated tokens represent a fraction of the $243 billion stablecoin market.\n\nU.S. dollar stablecoins dominate the ecosystem, with Circle’s USDC commanding a $60.6 billion market cap, behind the market leader USDT, Tether’s flagship stablecoin with a $151.6 billion market cap.\n\nSG Forge declined to comment.",
+    "url": "https://www.coindesk.com/markets/2025/05/20/socgen-s-crypto-arm-to-launch-dollar-denominated-stablecoin-on-ethereum-reports-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Reynolds",
+                "Jose Fernandez da Ponte",
+                "Donald Trump"
+            ],
+            "positions": [
+                "managing director of stablecoin",
+                "crypto head"
+            ],
+            "companies": [
+                "Société Générale",
+                "SG Forge",
+                "World Liberty Financial",
+                "BitGo",
+                "PayPal",
+                "Circle",
+                "Tether",
+                "Binance",
+                "MGX"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Solana",
+            "EURCV",
+            "USD1",
+            "EURC",
+            "USDC",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major global banking group expanding into stablecoin issuance and accelerating institutional adoption, which indicates growing market confidence and institutional participation."
+    }
+}

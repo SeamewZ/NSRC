@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Worth $1.6B Leave Exchanges in Biggest Bullish Outflow Since April: Research Analyst",
+    "time": "2025-02-06T10:24:00",
+    "author": "Omkar Godbole",
+    "summary": "Coinbase alone registered a net outflow of over 15,000 BTC Wednesday, hinting at a major institutional purchases of coins.",
+    "content": "On Wednesday, centralized exchanges registered a net outflow of over 17,000 BTC, worth more than $1.6 billion at the going market price of $98,600, according to Glassnode data shared by Andrew Dragosch, head of research Bitwise.\n\nThat's the biggest single-day exodus of coins since April 2024.\n\n\"Whales are buying this dip,\" Dragosch said on X, referring to the large outflow of coins. Investors typically take direct custody of coins when planning to hold them for the long term. Hence, a large outflow of exchanges is taken to represent bullish sentiment.\n\nNote that blockchain data, though widely used to assess market conditions, can be skewed by internal wallet transfers by exchanges.\n\nCoinbase alone processed net withdrawals of over 15,000 BTC, per Dragosch. Analysis by Timechainindex.com shows Coinbase on Wednesday split four addresses totaling over 20K BTC into 60 addresses, which hints at a possible major purchases by ETFs or MicroStrategy this week.\n\n\"We have very high certainty that it is a cold wallet,\" Glassnode told CoinDesk.\n\nOn-chain data compiled by CryptoQuant shows that all crypto exchanges had a cumulative negative netflow of 47K BTC on Wednesday, with 15.8K of that being attributed to Coinbase.\n\nBitcoin fell below $96,800 during Wednesday's late U.S. trading hours only to turn higher early today after Eric Trump, the Son of President Donald Trump, encouraged the family-linked crypto platform World Liberty Financial to make its first bitcoin investment.\n\nUPDATE 14:40 UTC, Feb. 6: Adds quote from Glassnode.",
+    "url": "https://www.coindesk.com/markets/2025/02/06/bitcoin-worth-usd1-6b-leave-exchanges-in-biggest-bullish-outflow-since-april-research-analyst",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrew Dragosch",
+                "Eric Trump",
+                "Donald Trump"
+            ],
+            "positions": [
+                "head of research Bitwise"
+            ],
+            "companies": [
+                "Coinbase",
+                "MicroStrategy",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Glassnode",
+                "Timechainindex.com",
+                "CryptoQuant",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the largest single-day Bitcoin outflow from exchanges since April, which analysts interpret as whales buying the dip and institutional accumulation, indicating strong bullish sentiment."
+    }
+}

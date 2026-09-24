@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: AVAX Falls 2.1% as Nearly All Assets Trade Lower",
+    "time": "2025-04-16T13:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Bitcoin Cash (BCH) joined Avalanche (AVAX) as a top underperformer, also declining 2.1%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2428.16, down 1.0% (-25.41) since 4 p.m. ET on Tuesday.\n\nOne of 20 assets is trading higher.\n\nLeaders: AAVE (+0.2%) and BTC (-0.1%).\n\nLaggards: AVAX (-2.1%) and BCH (-2.1%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/16/coindesk-20-performance-update-avax-falls-2-1-as-nearly-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin Cash",
+            "BCH",
+            "Avalanche",
+            "AVAX",
+            "AAVE",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that nearly all assets in the CoinDesk 20 Index are trading lower, with the overall index down 1.0% and only one asset trading higher."
+    }
+}

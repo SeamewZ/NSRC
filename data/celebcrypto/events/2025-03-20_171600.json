@@ -1,0 +1,35 @@
+{
+    "title": "Data Storage Protocol Walrus Raises $140M in Token Sale Ahead of Mainnet Launch",
+    "time": "2025-03-20T17:16:00",
+    "author": "Jamie Crawley",
+    "summary": "The mainnet of the protocol, originally developed by Mysten Labs and built on layer-1 blockchain Sui, will launch on March 27",
+    "content": "The Walrus protocol, a blockchain-based data storage platform, said it raised $140 million in a private sale of its native token, WAL, led by Standard Crypto.\n\nThe mainnet of the protocol, originally developed by Mysten Labs and built on layer-1 blockchain Sui, will debut on March 27, the Walrus Foundation said Thursday.\n\nWalrus plans to capitalize on the growing market for storing large amounts of data, driven in particular by the proliferation of artificial intelligence (AI) tools in the last couple of years.\n\n\"By leveraging Sui’s unique architecture, we’re making storing data programmable, interactive, and secure,\" Walrus Foundation managing executive Rebecca Simmonds said in the statement.\n\nThe funds from the token sale, which included participation from a16z crypto, Electric Capital, Franklin Templeton Digital Assets and RW3 Ventures, will be used to expand the project's decentralized data storage protocol and build further applications atop it.",
+    "url": "https://www.coindesk.com/business/2025/03/20/data-storage-protocol-walrus-raises-usd140m-in-token-sale-ahead-of-mainnet-launch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rebecca Simmonds"
+            ],
+            "positions": [
+                "managing executive"
+            ],
+            "companies": [
+                "Standard Crypto",
+                "a16z crypto",
+                "Electric Capital",
+                "Franklin Templeton Digital Assets",
+                "RW3 Ventures"
+            ],
+            "organizations": [
+                "Walrus Foundation",
+                "Mysten Labs"
+            ]
+        },
+        "cryptocurrencies": [
+            "WAL",
+            "Sui"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a successful $140 million token sale with major investor participation and upcoming mainnet launch, indicating strong market confidence and positive momentum for the project."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "U.S. Crypto Investor Charged With Kidnapping and Torturing Victim Over Bitcoin",
+    "summary": "The investor, John Woeltz, allegedly held an Italian man captive in a $30K-a-month townhouse to steal his crypto.",
+    "time": "2025-05-26T11:23:00",
+    "author": "Francisco Rodrigues",
+    "content": "A U.S. cryptocurrency investor is facing criminal charges after allegedly kidnapping and torturing a man in Manhattan for weeks in an attempt to steal his bitcoin\nBTC\n$102,205.43\n.\n\nJohn Woeltz, 37, was arraigned on Saturday on multiple charges, including kidnapping, assault, and illegal gun possession, after he held a 28-year-old Italian man captive in a luxury townhouse, authorities say.\n\nThe Italian man traveled to New York earlier this month and was lured to a five-story rental in the NoLiTa neighborhood, where prosecutors say Woeltz and an unidentified accomplice began abusing him to get his crypto wallet credentials.\n\nThe townhouse, rented for at least $30,000 a month, became the site of a weeks-long ordeal. Prosecutors say the victim was beaten, shocked with electric wires, and threatened at gunpoint.\n\nAt one point, he was dangled over a staircase railing and told he would be killed if he didn’t give in. He was also warned his family would be harmed, the New York Times reports.\n\nThe victim escaped Friday morning, flagging down a traffic officer after fleeing the house. Police arrested Woeltz at the scene and discovered Polaroid photos showing the abuse, along with weapons and other torture equipment.\n\nA second person, Beatrice Folchi, was also arrested, while a third suspect remains at large.\n\nThis attack is part of a troubling pattern: the cryptocurrency industry has seen dozens of physical assaults this year alone. In one recent case, the daughter and grandson of Pierre Noizat, CEO of crypto platform Paymium, were targeted in an attempted kidnapping caught on video and posted online.\n\nThat attempt failed, but earlier in the same city, a crypto millionaire’s father was abducted and had a finger severed before being rescued.\n\nIn yet another incident, David Balland, co-founder of hardware wallet maker Ledger, and his wife were kidnapped from their home. They were later rescued by authorities, and a paid ransom was seized.",
+    "url": "https://www.coindesk.com/policy/2025/05/26/u-s-crypto-investor-charged-with-kidnapping-and-torturing-victim-over-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John Woeltz",
+                "Beatrice Folchi",
+                "Pierre Noizat",
+                "David Balland"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Paymium",
+                "Ledger"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple violent crimes and kidnapping incidents targeting cryptocurrency investors, which creates negative sentiment and security concerns in the market."
+    }
+}

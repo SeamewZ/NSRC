@@ -1,0 +1,36 @@
+{
+    "title": "Howard Lutnick Softens Stance on Tether Stability, Investment Ties",
+    "summary": "The Cantor Fitzgerald chair was grilled about prior bullish statements made about Tether during a recent Senate hearing.",
+    "time": "2025-02-04T09:50:00",
+    "author": "Sam Reynolds",
+    "content": "Howard Lutnick, the chairman of Cantor Fitzgerald and President Donald Trump's pick for U.S. Commerce Secretary, was recently playing defense during another nomination hearing in front of Senate Democrats about the financial services giant's investment in Tether, the company that issues the world's largest stablecoin, USDT.\n\nLutnick appeared before the Senate Committee on Commerce, Science, and Transportation on Jan. 29, the day after his testimony at the Senate Banking Committee.\n\nCantor Fitzgerald serves as Tether’s primary custodian for U.S. Treasuries, manages a significant portion of its reserves, and holds convertible debt issued by Tether’s parent company.\n\nThe nature of the reserves backing USDT has been of concern to the crypto industry for years. In 2023, Lutnick tried to downplay those concerns by attaching Cantor's name to it, saying that as its custodian, he knows Tether is good for the money it says is behind the stablecoin. During the hearing, however, Lutnick appeared to soften some of the comments he made regarding this.\n\n“Cantor Fitzgerald is not conducting continuous diligence on Tether’s financial statements, but I believe my statements were accurate when made,” Lutnick said according to a published transcript, dialing back his previous claim that “Tether has every penny, and it can produce liquidity on a moment’s notice.”\n\nOn Polymarket, bettors are giving a 10% chance that Tether will become insolvent in 2025, and a 14% chance it will de-peg during the year, which would be the sign of trouble at the issuer. A contract asking the question about insolvency for 2024 averaged around 4% during the last quarter of the year.\n\nLutnick also confirmed that “Cantor Fitzgerald made a convertible debt investment in the holding company that owns the Tether stablecoin business in April 2024.” He clarified that this doesn’t mean Cantor has an ownership stake in the stablecoin issuer.\n\n“Cantor Fitzgerald’s debt investment in Tether does not constitute an equity interest,” he said, dismissing concerns that the brokerage firm’s ties to Tether run deeper than disclosed.\n\nTether's critics often say that there should be an audit of the company's books, given the importance that USDT has on the broader crypto ecosystem. While Lutnick acknowledged this should happen for U.S. dollar stablecoin issuers, he stopped short of demanding it for Tether.\n\nWhen asked if he would publicly call on Tether to submit to an independent audit within three months, he stated: \"Upon my confirmation as Secretary of Commerce, I will faithfully execute my duties consistent with applicable government ethics laws and regulations.\"\n\nAddressing questions over his influence on crypto regulation, Lutnick dismissed allegations that he had pledged to “defuse threats” against Tether.\n\n“I have never suggested to anyone that I would do anything improper with respect to Tether,” he said. He cautioned, however, that “the U.S. Congress should be careful not to undermine dollar hegemony on blockchain through legislation.”",
+    "url": "https://www.coindesk.com/policy/2025/02/04/howard-lutnick-softens-stance-on-tether-stability-investment-ties-during-senate-hearing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Howard Lutnick",
+                "Donald Trump"
+            ],
+            "positions": [
+                "chairman of Cantor Fitzgerald",
+                "U.S. Commerce Secretary",
+                "President"
+            ],
+            "companies": [
+                "Cantor Fitzgerald",
+                "Tether",
+                "Polymarket"
+            ],
+            "organizations": [
+                "Senate Committee on Commerce, Science, and Transportation",
+                "Senate Banking Committee",
+                "U.S. Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Lutnick softened his previous bullish statements about Tether's stability and acknowledged concerns about its reserves and lack of audit, while market betting platforms show significant chances of Tether insolvency or de-pegging in 2025."
+    }
+}

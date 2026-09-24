@@ -1,0 +1,42 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Loses Allure to Gold as Economic Concerns Rise",
+    "time": "2025-04-17T11:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for April 17, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nPresident Donald Trump’s “reciprocal tariffs” announcement earlier this month drove the economic trade policy uncertainty index to a record high and sent investors away from risk assets, which include bitcoin\nBTC\n$104,850.17\nand other cryptocurrencies.\n\nFederal Reserve Chairman Jerome Powell fanned the flames late Wednesday, saying the central bank sees unemployment rising with the economy likely to slow and inflation likely to go up as \"some part of those tariffs come to be paid by the public.”\n\nHis comments weighed further on risk assets, bringing the Nasdaq down 1.17% and the S&P 500 dropping 2.24% before the closing bell. Still, bitcoin is up more than 1% in the last 24 hours, while the CoinDesk 20 (CD20) index, which captures the broader market, added 1.8%, even though crypto is seen more as gauge of risk than a safe haven.\n\nTo Michael Brown, an analyst at Pepperstone, demand for “assets which provide shelter from political incoherence and trade uncertainty” is likely to keep growing, The Telegraph reported.\n\nWhile bitcoin has outperformed the stock market — up 1% in the past month compared with the Nasdaq’s near 8% drop — institutional investors are piling into gold, the battle-tested safe haven.\n\nThe precious metal is up 11% over the last month and 27% this year to around $3,340 a troy ounce. Bank of America’s Global Fund Manager Survey shows that 49% of fund managers see “long gold” as Wall Street’s most crowded trade, with 42% of fund managers forecasting it to be the best-performing asset of the year.\n\nUBS analysts wrote in a note that the “case for adding gold allocations has become more compelling than ever in this environment of escalating tariff uncertainty, weaker growth, higher inflation, geopolitical risks & diversification away from US assets & the US$,” Investopedia reported.\n\nGold fund flows have hit $80 billion so far this year, while SoSoValue data shows spot bitcoin ETFs saw $5.25 billion net inflows in January and net outflows since the uncertainty started. Month-to-date, over $900 million left these funds, after February and March saw $3.56 billion and $767 billion of net outflows, respectively. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/17/crypto-daybook-americas-bitcoin-loses-allure-to-gold-as-economic-concerns-rise",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Donald Trump",
+                "Jerome Powell",
+                "Michael Brown",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President",
+                "Federal Reserve Chairman",
+                "analyst"
+            ],
+            "companies": [
+                "Pepperstone",
+                "Bank of America",
+                "UBS",
+                "SoSoValue",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "The Telegraph",
+                "Investopedia"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes investors moving away from risk assets like bitcoin due to economic uncertainty, with bitcoin ETFs experiencing significant net outflows while gold sees massive inflows as the preferred safe haven."
+    }
+}

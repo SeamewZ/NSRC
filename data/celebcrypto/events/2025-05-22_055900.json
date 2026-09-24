@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin's Rally to Record Highs Puts Focus on $115K Where an 'Invisible Hand' May Slow Bull Run",
+    "summary": "As BTC looks north, an invisible hand may work to slow the ascent above $115K",
+    "time": "2025-05-22T05:59:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin's\nBTC\n$101,738.46\nprice has surged to record highs, sparking optimism among investors. However, expected hedging activities of market makers/dealers, often an invisible force, at certain price levels, may slow the ascent.\n\nThe leading cryptocurrency topped the $111,000 mark during the Asian hours, with analysts anticipating stronger demand.\n\n\"The OTC supply may be drying up, driving up prices. This would not be reflected in exchange trading volumes or the derivatives market. If this is the case, get ready for a wild ride, as more demand is coming on board with a competitive bitcoin corporate treasury environment and, perhaps, a less elastic OTC spot market,\" said Alexander S. Blume, founder and CEO of SEC-registered investment advisor Two Prime.\n\nBlume explained that corporate treasuries coming on board have been buying over-the-counter \"en masse,\" and rumors are that sovereign demand for the cryptocurrency has picked up.\n\nRyan Lee, chief analyst at Bitget, said BTC could rally to $180,000 by the end of the year, led by spot ETF inflows, slower post-halving supply growth and growing institutional adoption.\n\n\"Moody’s recent downgrade of the U.S. sovereign credit rating to Aa1 is another key macro catalyst, sparking renewed interest in BTC and ETH as hedges against fiat risk. BTC’s ability to hold above $103,000 amid volatility highlights the market’s shift toward crypto as a strategic reserve asset,\" Lee said.\n\nWhile the path of least resistance is on the higher side, the pace of the bullish move may be challenged by potential hedging activities of options market makers/dealers at around $115K and higher price levels, according to Jeff Anderson, head of Asia at STS Digital.\n\nDealers are entities tasked with creating liquidity in an exchange's order book. They are always on the opposite side of traders' positions and make money from the bid-ask spread, while constantly striving to maintain a net-price neutral exposure.\n\nData from Deribit's BTC options market, tracked by Amberdata, shows dealers hold significant \"positive gamma\" exposure at $115K and higher strike price levels.\n\nWhen dealers' gamma is positive, it means they are long call or put options. In this case, their delta (market exposure) increases when the underlying asset increases. Thus, their delta-hedging mandate requires selling more of the underlying asset as the price rises and vice versa.\n\nThe order-flow, therefore, acts as a contrarian force, limiting the price volatility, Anderson told CoinDesk.\n\nDealer gamma is significantly positive, from $115K to $150K, thanks to investors' interest in selling (overwriting) higher strike call options to generate additional yield on top of their spot holdings.\n\n\"There is lot of positive gamma in the market due to call overwriters. They will be more wary of this breakout, and if we can clear the pocket of gamma at $115K, this [rally] could really start to go,\" Anderson said.",
+    "url": "https://www.coindesk.com/markets/2025/05/22/bitcoin-s-rally-to-record-highs-puts-focus-on-usd115k-where-an-invisible-hand-may-slow-bull-run",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alexander S. Blume",
+                "Ryan Lee",
+                "Jeff Anderson"
+            ],
+            "positions": [
+                "founder and CEO",
+                "chief analyst",
+                "head of Asia"
+            ],
+            "companies": [
+                "Two Prime",
+                "Bitget",
+                "STS Digital",
+                "Deribit",
+                "Amberdata",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "SEC",
+                "Moody’s"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's surge to record highs, strong institutional demand, corporate treasury buying, sovereign interest, and analyst predictions of further price increases to $180K, outweighing the potential slowing effect at $115K."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Nigeria Sues Binance for $81.5 Billion in Economic Losses, Back Taxes: Report",
+    "summary": "The Federal Inland Revenue Service is looking for $79.5 billion for economic losses and $2 billion plus interest in back taxes.",
+    "time": "2025-02-20T11:17:00",
+    "author": "Camomile Shumba",
+    "content": "CORRECT (Feb. 20, 14:35 UTC): Corrects attribution throughout. An earlier version said the information came from Binance.\n\nNigeria's Federal Inland Revenue Service (FIRS) is suing Binance for $79.5 billion in economic losses as well as $2 billion plus interest in back taxes, Reuters reported Wednesday referencing court documents.\n\nThis is a leap from the initial $10 billion figure that Nigeria's government sought after alleging that the exchange had enabled $26 billion of untraceable funds to leave the country as it faced a foreign exchange crisis and was looking to restrict capital outflows last year.\n\nThe FIRS alleges that Binance has a \"significant economic presence\" in Nigeria so should be liable to pay corporate income tax, Reuters reported, citing documents it had seen. Binance has yet to respond to a CoinDesk request for a comment.\n\nNigeria has been pursuing litigation against the crypto exchange since early last year. The country detained two Binance executives, Tigran Gambaryan and Nadeem Anjarwalla, in February. The country charged the executives and the exchange with money laundering and tax evasion, but later released Gambaryan after Anjarwalla, fleed. Binance is still facing money laundering charges from the country.\n\nNigeria's Federal Inland Revenue Service did not respond to a request for a comment.",
+    "url": "https://www.coindesk.com/policy/2025/02/20/nigeria-sues-binance-for-usd81-5-billion-in-economic-losses-and-back-taxes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tigran Gambaryan",
+                "Nadeem Anjarwalla"
+            ],
+            "positions": [
+                "executives"
+            ],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Federal Inland Revenue Service",
+                "FIRS",
+                "Nigeria's government",
+                "Reuters",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Nigeria suing Binance for massive economic losses and back taxes, detaining executives, and charging the exchange with money laundering and tax evasion, which represents a significant regulatory crackdown on a major crypto exchange."
+    }
+}

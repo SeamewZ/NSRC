@@ -1,0 +1,37 @@
+{
+    "title": "BlackRock Expands Digital Asset Team, Adds Four High-Level Roles",
+    "time": "2025-03-27T03:19:00",
+    "author": "Helene Braun",
+    "summary": "The asset manager added four new roles to its website, including a legal counsel to advise on ETF launches.",
+    "content": "BlackRock is looking to add more people to its digital asset team as the industry grows in popularity among Wall Street firms.\n\nSince the inauguration of U.S. President Donald Trump, big names in finance have taken several steps to expand their presence in crypto. While BlackRock has long been a pioneer in the space, especially among traditional financial banks, the asset manager seems to have more in store.\n\nFour roles on BlackRock’s digital asset team were added to its website on Wednesday, including Director of Digital Assets, Director of Regulatory Affairs, Vice President for Digital Asset and ETF Legal Counsel and Associate for Digital Asset.\n\nAccording to the job description, three of the roles are based in New York and another one in Atlanta. The descriptions have otherwise been kept fairly broad and don’t give away any clues regarding what BlackRock might be looking to work on in the future.\n\nFor the role of the legal counsel, the company is seeking somebody who can help with future crypto exchange-traded fund (ETF) launches. BlackRock has so far issued two spot ETF products, the iShares Bitcoin Trust (IBIT) and the iShares Ethereum Trust (ETHE).\n\nOther issuers have applied to launch funds for several other crypto assets, including Solana\nSOL\n$168.21\n, XRP, and\nLTC\n$89.69\n. BlackRock has not announced any plans to do the same.\n\nThe asset manager is also strongly focused on tokenization, a sector in which it has quickly become a leading force.\n\nThe firm’s tokenized money market fund, the BlackRock USD Institutional Digital Liquidity Fund (BUIDL), has drawn in $1.7 billion since its introduction in 2023, making it by far the largest tokenized fund on the market currently.",
+    "url": "https://www.coindesk.com/business/2025/03/26/blackrock-expands-digital-asset-team-adds-four-high-level-roles",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "Director of Digital Assets",
+                "Director of Regulatory Affairs",
+                "Vice President for Digital Asset and ETF Legal Counsel",
+                "Associate for Digital Asset",
+                "legal counsel"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Solana",
+            "XRP",
+            "LTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "BlackRock's expansion of its digital asset team and focus on crypto ETF launches indicates growing institutional adoption and confidence in the cryptocurrency market."
+    }
+}

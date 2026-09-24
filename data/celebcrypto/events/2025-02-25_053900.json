@@ -1,0 +1,28 @@
+{
+    "title": "Binance Open Bitcoin Futures Bets Jump by Over $1B as BTC Chalks Out Bearish Candlestick Pattern: Godbole",
+    "time": "2025-02-25T05:39:00",
+    "author": "Omkar Godbole",
+    "summary": "Futures activity hints at an influx of fresh shorts as Monday's bearish marubozu candle points to more losses ahead.",
+    "content": "Bitcoin\nBTC\n$103,829.07\ndipped below $92,000 during the overnight trade, revisiting levels that have proven resilient multiple times since December. However, the latest move comes with a notable uptick in perpetual futures open interest and price action that indicates seller dominance.\n\nThe number of open futures bets or open interest in the BTC/USDT pair trading on Binance rose by roughly 12,000 BTC (worth over $1 billion) as BTC's price fell from $96,000 to under $92,000, according to data tracked by Coinglass.\n\nAn uptick in open interest alongside a price decline is said to represent an influx of bearish short positions. In other words, traders likely opened fresh shorts as the price dropped, perhaps in anticipation of an extended sell-off.\n\nThe cumulative volume delta (CVD) across both futures and spot markets on the exchange was already negative and has deepened further with the price drop, indicating that selling pressure has outpaced buying activity.\n\nThe CVD measures the net capital flows into the market, where positive and rising figures indicate buyer dominance, while negative values reflect increased selling pressure.\n\nBitcoin dropped 4.86% on Monday with sellers dominating the price action throughout the day.\n\nThat's reflected in the shape of Monday's candlestick, which features negligible upper and lower shadows and a prominent red body. In other words, opening and closing prices are almost the same, a sign buyers had little say in the price action.\n\nTechnical analysts categorize this as a bearish marubozu pattern. The appearance of the bearish candlestick while prices hover below key 50- and 100-day simple moving averages (SMA) may embolden sellers, potentially leading to deeper losses.\n\nSupport (S) is seen near $89,200, the Jan. 13 low, followed by the 200-day SMA at $81,661. On the flip side, the Feb. 21 high of around $99,520 is the level to beat (R).",
+    "url": "https://www.coindesk.com/markets/2025/02/25/binance-open-bitcoin-futures-bets-jump-by-usd1b-as-btc-chalks-out-a-bearish-candlestick-pattern-godbole",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Godbole"
+            ],
+            "positions": [],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Coinglass"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes increased short positions, price declines, seller dominance, bearish technical patterns, and expectations of deeper losses."
+    }
+}

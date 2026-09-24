@@ -1,0 +1,39 @@
+{
+    "title": "USDe Stable Despite Trade War Volatility",
+    "time": "2025-02-03T07:53:00",
+    "author": "Sam Reynolds",
+    "summary": "The market cap of USDe has pushed past $6 billion, and the peg remains virtually stable, despite the market bloodbath.",
+    "content": "It's business as usual for Ethena's USDe as the synthetic stablecoin appeared to weather the storm brought on by market volatility from the White House's trade war threats.\n\nUSDe differs from stablecoins such Circle's USDC because it's a synthetic stablecoin and not backed by fiat assets at a 1:1 ratio. The stablecoin maintains its $1 peg by collateralizing stablecoins and leveraging a hedged cash-and-carry trade, which involves taking futures positions with large open interest available to stabilize value.\n\nUSDe spent most of the Monday trading day maintaining its $1 peg, with brief dips down to $0.999. Data from CoinGecko shows that the stablecoin's market cap inched above $6 billion, up from about $5.7 billion a week ago.\n\nIts funding rate also remained positive according to on-chain data. Funding rates are crucial for maintaining USDe's peg to the dollar and managing market equilibrium.\n\nA positive funding rate indicates that holders of long positions are paying a small fee to holders of short positions. This suggests a slightly bullish market sentiment.\n\nAnother reason why USDe may have maintained its peg is because of the interest bearing nature of the token, which currently pays out an APY of 10%, which has been stable over the last 30 days according to a dashboard from Dune Analytics.\n\nLast year some concern was raised about the size of Ethena's reserve fund for USDe, with research house CryptoQuant highlighting that the fund might not be sustainable over $4 billion.\n\nHowever, this reserve fund has grown proportionately to USDe's market cap, and stands at $46.6 million at the end of Q4 2024.\n\nUSDe's stability plus yield-bearing appeal means investors could take refuge in the token. Arthur Hayes, chief investment officer at digital asset investment fund Maelstrom and co-founder of BitMEX, who expects BTC to slide to $75,000 in coming weeks, has record exposure to USDe.\n\n\"Maelstrom has raised the amount of staked Ethena $USDe it holds to record levels and continues to take profits on several shitcoin position,\" Hayes said in a blog post last week.\n\n\"We are still bigly net long, but if my feeling is correct, then we will be positioned with copious amounts of dry powder ready to buy the dip on Bitcoin and a mega dip on many quality shitcoins,\" Hayes added. Hayes is an investor in and an advisor to Ethena.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/usde-stable-despite-trade-war-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arthur Hayes"
+            ],
+            "positions": [
+                "chief investment officer",
+                "co-founder"
+            ],
+            "companies": [
+                "Ethena",
+                "Circle",
+                "BitMEX",
+                "Maelstrom",
+                "CryptoQuant",
+                "Dune Analytics"
+            ],
+            "organizations": [
+                "White House",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDe",
+            "USDC",
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights USDe's stability during market volatility, growing market cap, positive funding rates, and institutional investor confidence with record exposure to the stablecoin."
+    }
+}

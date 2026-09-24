@@ -1,0 +1,36 @@
+{
+    "title": "Memecoin Moo Deng, MEW Surges After Robinhood Listing",
+    "summary": "Both tokens jumped on the news, adding to their already large gains this month.",
+    "time": "2025-05-22T21:27:00",
+    "author": "Helene Braun",
+    "content": "Robinhood has added two Solana-based memecoins, Moo Deng\nMOODENG\n$0.08642\nand cat in a dog’s world\nMEW\n$0.001496\n, to its suite of cryptocurrencies available to trade for U.S. customers.\n\nMoo Deng, which is based on a baby pygmy hippo, has risen to a $230 million market cap this month after the meme went viral online in 2024. The token skyrocketed over 836% in May and jumped another 21% over the past 24 hours.\n\nCat in a dog’s world, on the other hand, is a token based on cats, which launched in March 2024 as part of a Solana meme coin frenzy. The token stands at a $368 million market cap after its price rose 52% in May. It is up nearly 20% over the past 24 hours.\n\nThe latest inclusions add to Robinhood’s list of meme coins, and the regulatory landscape is becoming much more flexible after the nomination of several pro-crypto government leaders and President Donald Trump's U.S. election win last year.\n\nIn November, Robinhood added the trading of Pepe coin\nPEPE\n$0.0₅5680\n, another popular meme coin. The trading app currently offers over 20 cryptocurrencies after previously ending support for several tokens in 2023 amid a crackdown on crypto by the former Securities and Exchange Commission Chair, Gary Gensler.",
+    "url": "https://www.coindesk.com/markets/2025/05/22/memecoin-moo-deng-mew-surges-after-robinhood-listing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "President",
+                "Securities and Exchange Commission Chair"
+            ],
+            "companies": [
+                "Robinhood"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Moo Deng",
+            "MOODENG",
+            "cat in a dog's world",
+            "MEW",
+            "Pepe coin",
+            "PEPE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price surges for multiple cryptocurrencies following Robinhood listings and mentions a more flexible regulatory landscape."
+    }
+}

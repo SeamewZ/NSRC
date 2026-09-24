@@ -1,0 +1,29 @@
+{
+    "title": "Wall Street Volatility Gauge Hits 4.5-Year High, Traders Lift Rate-Cut Bets on China Tariffs",
+    "time": "2025-04-04T11:30:00",
+    "author": "Omkar Godbole",
+    "summary": "Bitcoin's 30-day implied volatility, represented by Deribit's DVOL index, rose to an annualized 54.6%, the highest in two weeks.",
+    "content": "The VIX index, which shows the equity market's expectations for 30-day volatility and is often called Wall Street's \"fear gauge,\" rose to 39, the highest since October 2020, after China imposed retaliatory tariffs on the U.S., data from TradingView show.\n\nThe increase, coupled with the sharp sell-off in the U.S. stock-index futures, prompted traders to increase estimates of Federal Reserve interest-rate cuts to 116 basis points this year, up from 100 basis points before the China news hit the wiresbefore the China news hit the wiresbefore the China news hit the wiresbefore the China news hit the wires, CME's FedWatch tool shows.\n\nBitcoin\nBTC\n$104,608.94\ntraded 0.7% lower on the day at $82,500 at press time, having earlier put in highs above $84,600. Bitcoin's 30-day implied volatility, represented by Deribit's DVOL index, rose to an annualized 54.6%, the highest in two weeks.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/vix-index-wall-street-s-fear-gauge-hits-4-5-year-high-traders-lift-fed-rate-cut-bets-further",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Deribit",
+                "TradingView",
+                "CME"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin traded lower and volatility increased amid market uncertainty following China's retaliatory tariffs and increased rate-cut expectations."
+    }
+}

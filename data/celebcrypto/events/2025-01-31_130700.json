@@ -1,0 +1,24 @@
+{
+    "title": "XRP Ledger ‘Clawback’ Goes Live in Boost For Ripple USD Trading",
+    "time": "2025-01-31T13:07:00",
+    "author": "Shaurya Malwa",
+    "summary": "Clawback refers to tokens that have a feature allowing the issuer to reclaim coins from user wallets under certain conditions.",
+    "content": "A clawback amendment went live on XRP Ledger earlier Friday following a validator vote with more than 90% in favor.\n\nThe amendment means Ripple’s dollar-pegged stablecoin RLUSD, a clawback token, can be floated and exchanged directly on XRP Ledger’s DEX, enhancing its liquidity and trading options and likely boosting decentralized finance (DeFi) activity on the network.\n\nClawback refers to tokens that have a feature allowing the issuer to reclaim or \"claw back\" these tokens from users' wallets under certain conditions. This feature is typically implemented for regulatory compliance, to recover assets in cases of fraud, illegal activities, or when tokens are sent to unintended addresses.\n\nThe Friday update will improve the regulatory compliance of XRP Ledger’s Automated Market Maker (AMM) pools, allowing tokens with the clawback enabled to be used. It further modified the “AMMDeposit” transaction type to prevent frozen tokens from being deposited into the AMM.\n\nhttps://x.com/xrpscan/status/1885055387088396738\n\nXRP Ledger features an in-built decentralized exchange (DEX) that allows users to swap tokens with each other. An Automated Market Maker (AMM) on the XRP Ledger uses liquidity pools instead of traditional order books to facilitate trades.\n\nAMM functionality with the amendment XLS-30D in March 2024 and has since processed over $1 billion in swap volumes. January has been heralded as a standout month for the DEX, with over $400 million in trades processed.",
+    "url": "https://www.coindesk.com/markets/2025/01/31/xrp-ledger-clawback-goes-live-in-boost-for-ripple-usd-trading",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ripple"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "RLUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the clawback amendment as enhancing liquidity, boosting trading options, and likely increasing DeFi activity on the XRP Ledger, which indicates positive market development."
+    }
+}

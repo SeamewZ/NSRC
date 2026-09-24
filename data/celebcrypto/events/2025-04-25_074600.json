@@ -1,0 +1,35 @@
+{
+    "title": "Stacks' STX Is Week's Best Performer as Bitgo Link Seen Boosting Institutional Use",
+    "summary": "The Stacks-based DeFi ecosystem has seen a significant increase in liquidity, with stablecoin supply surging over 400% in the first quarter.",
+    "time": "2025-04-25T07:46:00",
+    "author": "Omkar Godbole",
+    "content": "STX, the native token of Bitcoin layer-2 protocol Stacks, has surged 56% in seven days to become the week's best-performing of the 100 biggest cryptocurrencies amid hopes for institutional adoption.\n\nThe token hit a two-month high of 92 cents on Friday after gaining more than 21% in the past 24 hours to become the day's biggest advancer, according to CoinDesk data.\n\nStacks is the world's leading layer 2 for running smart contracts and decentralized applications on the Bitcoin blockchain. On Tuesday, BitGo, the digital asset custody and infrastructure provider and a backer of the wrapped bitcoin (WBTC) token, opened the door for its customers explore yield-generating opportunities on Stacks by integrating sBTC, a synthetic derivative that represents bitcoin (BTC) in a 1:1 ratio on the Stacks blockchain.\n\n“SBTC opens the door to programmable, decentralized financial products without compromising Bitcoin’s core principles — and we’re just getting started,\" said Abishek Singh, a product manager at BitGo. \"With over $3 trillion in processed transactions and more than $48 billion in staked assets, BitGo is uniquely positioned to help institutions tap into this new era of Bitcoin utility.\"\n\nSTX plays several roles in the Stacks ecosystem, including enabling connection between the parent blockchain and Bitcoin, supporting smart-contract creation and enabling network governance. It's also used to pay transaction fees and plays a key role in the proof-of-transfer consensus mechanism that allows holders to earn BTC by locking their STX.\n\nThe sBTC token allows holders to participate in Stacks' DeFi ecosystem while keeping the price peg to their underlying bitcoin. The sBTC withdrawal facility, expected to be implemented April 30, will allow institutions to move seamlessly between BTC and sBTC, opening doors for creating new applications encompassing Stacks' smart contract features and Bitcoin's security.\n\nLiquidity in the Stacks-based decentralized finance ecosystem is improving, the protocol announced on X early Friday, pointing to an over 400% surge in the stablecoin supply in the first quarter, the third-largest behind Morph and Cronos.\n\nThe total stablecoin supply in the ecosystem was nearly $7 million, up from around $1 million in early January, according to data source DefiLlama.",
+    "url": "https://www.coindesk.com/markets/2025/04/25/stacks-stx-is-week-s-best-performer-as-bitgo-link-seen-boosting-institutional-use",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Abishek Singh"
+            ],
+            "positions": [
+                "product manager"
+            ],
+            "companies": [
+                "BitGo",
+                "CoinDesk",
+                "DefiLlama"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "STX",
+            "Bitcoin",
+            "BTC",
+            "WBTC",
+            "sBTC",
+            "Morph",
+            "Cronos"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes STX as the week's best-performing cryptocurrency with a 56% surge, institutional adoption through BitGo integration, and significant growth in DeFi ecosystem liquidity."
+    }
+}

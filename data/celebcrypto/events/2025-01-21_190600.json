@@ -1,0 +1,34 @@
+{
+    "title": "EU Regulator Urges Nations to Ensure Compliance with Stablecoin Rules Soon",
+    "summary": "The European Union's European Securities and Markets Authority wants nations in the EU to make sure that exchanges are complying with its stablecoin rules.",
+    "time": "2025-01-21T19:06:00",
+    "author": "Camomile Shumba",
+    "content": "The European Securities and Markets Authority has urged national authorities in the European Union (EU) to ensure that exchanges are no longer making non-compliant stablecoins available for trading within the next two months.\n\nThe regulator has requested that the 27 member states in the EU ensure crypto asset service providers (CASPs) are compliant when it comes to its stablecoin rules \"no later than the end of Q1 2025,\" ESMA said in a statement on Friday.\n\n\"In practice, this means that CASPs operating a trading platform for crypto-assets are expected to stop making all crypto-assets that would qualify as ARTs and EMTs but for which the issuer is not authorised in the EU (“non-MiCA compliant ARTs and EMTs” ) available for trading,\" ESMA said. ARTs are asset referenced tokens and EMTs are electronic money tokens.\n\nThe move would affect stablecoins which are not compliant with EU laws like Tether's USDT if it were offered to EU clients. Large issuers have already taken steps to try and comply with the Markets in Crypto Assets legislation (MiCA). Tether announced in November it was discontinuing its euro stablecoin, EURT. The company has not managed to obtain the required e-money license under MiCA to operate in the EU. Circle obtained an e-money license in July.\n\nExchanges like Gemini and Coinbase, who are registered in the EU, would have to delist un-authorized stablecoins, according to ESMA's statement. Coinbase previously announced it would delist any such tokens by last December.\n\n\"Given our commitment to compliance, we restricted the provision of services to Retail, Exchange, and Prime Vault customers of Coinbase Europe Limited, Coinbase Germany GmbH, and Coinbase Custody International Limited in connection with stablecoins that do not meet the MiCA requirements beginning on December 13, 2024,“ a spokesperson from Coinbase told CoinDesk on Tuesday.\n\nThe exchange \"will assess re-enabling services for stablecoins that achieve MiCA compliance on a later date,\" the spokesperson said.\n\nMeanwhile, Gemini is considering how best to move forward following the release of the statement.\n\n\"We are assessing this and its impact on our customers to understand how to manage stablecoins moving forward,\" Mark Jennings, head of Europe at Gemini said, referring to ESMA's statement.\n\nTether told CoinDesk in a statement that it was aware of the evolving regulatory landscape under MiCA.\n\n“Many exchanges are actively engaging with local NCAs to address concerns and mitigate any potential disruption to consumers,\" a spokesperson at Tether said. \"At this stage, we do not anticipate immediate changes for Tether users as these discussions progress.\" NCAs are national competent authorities.\n\nRead more: EU's Restrictive Stablecoin Rules Take Effect Soon and Issuers Are Running Out of Time\n\nUpdate (Jan 22 14:15 UTC): Adds Gemini comment.\n\nUpdate (Jan 22 16:29 UTC): Adds Tether comment.",
+    "url": "https://www.coindesk.com/policy/2025/01/21/eu-regulator-urges-nations-to-ensure-compliance-with-stablecoin-rules-soon",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Jennings"
+            ],
+            "positions": [
+                "head of Europe at Gemini"
+            ],
+            "companies": [
+                "Tether",
+                "Gemini",
+                "Coinbase"
+            ],
+            "organizations": [
+                "European Union",
+                "European Securities and Markets Authority",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "EURT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory pressure forcing exchanges to delist non-compliant stablecoins, which restricts trading options and creates uncertainty in the market."
+    }
+}

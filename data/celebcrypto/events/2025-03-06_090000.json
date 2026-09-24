@@ -1,0 +1,28 @@
+{
+    "title": "Fireblocks Unveils Cyber Security Tools to Help Crypto Handlers Meet Europe’s DORA Rules",
+    "time": "2025-03-06T09:00:00",
+    "author": "Ian Allison",
+    "summary": "Fireblocks’ Cyber and Operational Resilience Compliance Package is designed to help financial institutions and crypto asset services firms.",
+    "content": "Crypto custody specialist Fireblocks has unveiled a cyber security offering to help firms comply with the Europe’s Digital Operational Resilience Act (DORA), which came into force in the European Union (EU) in January 2025.\n\nCyber security is a running battle, particularly for crypto companies that are relatively more susceptible to attacks and financial losses than traditional financial firms. This was evidenced by the recent large-scale, malicious hack of leading crypto exchange Bybit.\n\n“One of the challenges for relatively small crypto firms and fintech companies is that DORA does not differentiate between these sorts of firms and large banks and financial institutions,” said Alex Jilitsky, Cyber GRC Director at Fireblocks. “It essentially says you need to be more resilient, not only to cyber attacks but also outages, disruptions and technical failures.”\n\nKey features of Fireblocks’ Cyber and Operational Resilience (COR) compliance package include a dedicated legal addendum, periodic reports, and an annual pooled security audit, according to a press release.",
+    "url": "https://www.coindesk.com/business/2025/03/06/fireblocks-unveils-cyber-security-tools-to-help-crypto-handlers-meet-europe-s-dora-rules",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Jilitsky"
+            ],
+            "positions": [
+                "Cyber GRC Director"
+            ],
+            "companies": [
+                "Fireblocks",
+                "Bybit"
+            ],
+            "organizations": [
+                "European Union (EU)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes enhanced cybersecurity tools that help crypto firms comply with regulations and improve operational resilience, which should increase market confidence."
+    }
+}

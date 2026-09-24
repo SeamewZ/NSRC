@@ -1,0 +1,36 @@
+{
+    "title": "Ark Invest’s Cathie Wood Says She Wants to Bring Company's Funds On-Chain",
+    "time": "2025-03-18T19:34:00",
+    "author": "Helene Braun",
+    "summary": "Earlier this month, executives of Coinbase hinted at similar plans in the tokenization space amid hopes of a clearer regulatory landscape.",
+    "content": "Ark Invest CEO Cathie Wood, one of the earliest traditional financial investors in crypto, hopes to bring some of her company’s funds on-chain once the regulatory landscape allows companies in the U.S. to do so.\n\n“We think tokenization is going to be huge,” Wood said at the Digital Asset Summit in New York on Tuesday. “We’d love to be able to tokenize our Venture Fund (ARKVX) or our [Digital Asset] Revolution Fund.”\n\n“I think the regulations are starting to open up in a way that will allow us to do that. So we'd like to seize the moment,” she added.\n\nU.S. regulators have yet to provide a clear framework and rules for registering security tokens, making it difficult for entities like Ark to launch products in the booming space that some believe could become a multi-trillion-dollar market by the end of 2030.\n\nExecutives of Coinbase, a big holding of Ark, had previously mentioned a similar outlook, although it was vague as companies are trying to make their mark in the tokenization industry.\n\nAt the Morgan Stanley Technology, Media and Telecom Conference earlier this month, Coinbase Chief Financial Officer Alesia Haas said that the crypto exchange is in talks with the Securities and Exchange Commission (SEC) to issue a security token, a move that previously failed when Coinbase attempted to go public with such a product in 2020.\n\nJesse Pollack, the founder of Base, the Ethereum Layer 2 network built by Coinbase, later said in a post on X that there were no “concrete plans” to tokenize Coinbase’s stock.\n\n“We are in an exploratory phase and working to understand what needs to be unlocked from a regulatory perspective to bring assets like $COIN to @base in a safe, compliant, future looking way,” he wrote.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/ark-invest-s-cathie-wood-says-she-wants-to-bring-ark-invest-funds-on-chain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cathie Wood",
+                "Alesia Haas",
+                "Jesse Pollack"
+            ],
+            "positions": [
+                "CEO",
+                "Chief Financial Officer",
+                "founder"
+            ],
+            "companies": [
+                "Ark Invest",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Digital Asset Summit",
+                "Morgan Stanley Technology, Media and Telecom Conference",
+                "Securities and Exchange Commission",
+                "Base",
+                "Ethereum Layer 2 network"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major financial institutions planning to bring traditional funds on-chain and expressing optimism about tokenization, indicating growing institutional adoption and market confidence."
+    }
+}

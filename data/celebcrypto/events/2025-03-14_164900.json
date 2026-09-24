@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Tops $84K, Battling Key Level for Bulls; SOL, LINK Lead Gains",
+    "time": "2025-03-14T16:49:00",
+    "author": "Krisztian Sandor",
+    "summary": "The rebound in risk assets propelled BTC above its 200-day moving average, a key benchmark for the long-term trend.",
+    "content": "Sellers of risk assets are taking a breather on Friday, with crypto markets posting sizable gains along with U.S. stocks after a week of lame price action.\n\nBitcoin topped $85,000 at one point during U.S. hours and is now trading at $84,400, up 4.7% over the past 24 hours. All cryptos in the CoinDesk 20 Index were higher during the same period, with Chainlink's LINK, Solana's SOL and SUI leading gains.\n\nThe price action happened as risk appetite returned to traditional markets as well. The S&P 500 and the tech-heavy Nasdaq indexes were 1.7% and 2.3 up, respectively. Meanwhile, gold, whose price action trounced that of bitcoin during the selling of the past few weeks, backed down below $3,000 after crossing the level yesterday for the first time in its history.\n\n\"To see the market bouncing off these recent lows is most likely a combination of the macro news around risk assets (inflation/tariffs) and a sign that a more stable base for cryptocurrencies is coming into place given the drawdowns from the top just months ago,” Paul Howard, senior director of crypto trading firm Wincent, said in a Telegram note.\n\nSome $2.6 billion in leveraged crypto derivatives positions have been liquidated over the past 7 days, predominantly longs, Howard pointed out, leaving the market on a healthier footing with flushing excessive leverage.\n\nToday's bounce also propelled BTC back above its 200-day moving average after dipping below that trendline for the first time since last August's crypto correction. The 200-day moving average is a widely-used benchmark for traders and investors to gauge long-term trends for asset prices, often serving as support for prices to bounce in a bull market, while losing the level providing a risk-off or bear market signal.\n\nClosing the day above the moving average, currently at $83,767, would be a win for bulls, fueling hopes that the worst of the correction might be over for now. Otherwise, confirming the moving average as resistance could foreshadow a deeper pullback.\n\nWell-followed cross-asset trader Bob Loukas noted that bitcoin and stocks have more room to run \"at least for a while,\" bouncing from oversold levels. \"Feels like should be close to end of panic, for now at least, and spend at least a few weeks back recovering,\" he said earlier this week. \"Then the market reassess.\"\n\nUPDATE (March 14, 17:05 UTC): Adds analyst comment from Paul Howard, senior director at Wincent.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/bitcoin-tops-usd85k-battling-key-level-for-bulls-sol-link-lead-gains",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Howard",
+                "Bob Loukas"
+            ],
+            "positions": [
+                "senior director",
+                "cross-asset trader"
+            ],
+            "companies": [
+                "Wincent"
+            ],
+            "organizations": [
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Chainlink",
+            "LINK",
+            "Solana",
+            "SOL",
+            "SUI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto markets posting sizable gains, Bitcoin rising above key technical levels, and analysts suggesting the worst of the correction might be over with market recovery expected."
+    }
+}

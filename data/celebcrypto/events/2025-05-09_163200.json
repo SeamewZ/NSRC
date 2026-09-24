@@ -1,0 +1,41 @@
+{
+    "title": "CoinDesk Weekly Recap: Even ETH Is Up",
+    "summary": "PLUS: Coinbase's big deal; Pectra upgrade; stablecoins penetrate; bitcoin lending returns.",
+    "time": "2025-05-09T16:32:00",
+    "author": "Benjamin Schiller",
+    "content": "It was a pretty positive week for crypto as prices rose, big deals were signed, and stablecoins continued to penetrate deep into the financial system. Even ETH, a perennial downer of late, rose sharply, reaching nearly $2300 at press time.\n\nThe CoinDesk 20, a barometer for the whole market, has risen 15%-plus since Monday.\n\nBitcoin was near ATH levels this week on the back of more positive “trade” news. Bearish positions were liquidated and ETF flows were up, Omkar Godbole reported.\n\nETH’s resurgence may have had something to do with its Pectra upgrade, which went off without a hitch (as Ethereum upgrades tend to). Pectra will make staking easier (and bigger) and boost efficiency. Margaux Nijkerk, our Ethereum reporter, had the news.\n\nCoinbase signed the biggest acquisition in crypto history, a $2.9 billion deal for Deribit, a crypto options pioneer. Wall Street analysts said Coinbase is now a genuine player in derivatives, rivaling Binance.\n\nStill, the deal couldn’t boost Coinbase’s stock price, which took a hit on tariff-affected Q1 earnings. Helene Braun wrote about that.\n\nAbout those stablecoins… Meta (formerly Facebook) looks set to join the integration party; as does Stripe. But Senate Democrats are stalling the stablecoin bill, citing concerns about numerous questionable Trump crypto ventures. That delay could in turn affect the timetable for a more comprehensive “market structure” bill.\n\nNew Hampshire (“Live Free or Die”) signed the U.S.’s first state crypto reserve law. Many more are set to follow, Jesse Hamilton reported.\n\nMeanwhile, Strike, which started as a bitcoin wallet, announced plans to get into bitcoin-based lending. Many expect the bitcoin credit market to expand from here.\n\nThis happened the same week, another bitcoin lender — disgraced Celsius Founder Alex Mashinsky — was sentenced to 12 years in prison for securities fraud related to the last cycle. Hopefully, bitcoin lending will work out better this time around.",
+    "url": "https://www.coindesk.com/news-analysis/2025/05/09/coindesk-weekly-recap-even-eth-is-up",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Margaux Nijkerk",
+                "Helene Braun",
+                "Jesse Hamilton",
+                "Alex Mashinsky"
+            ],
+            "positions": [
+                "Ethereum reporter",
+                "Founder"
+            ],
+            "companies": [
+                "Coinbase",
+                "Deribit",
+                "Meta",
+                "Stripe",
+                "Strike",
+                "Celsius",
+                "Binance"
+            ],
+            "organizations": [
+                "Senate Democrats"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a positive week with rising prices across major cryptocurrencies, significant acquisitions, successful upgrades, and expanding market participation."
+    }
+}

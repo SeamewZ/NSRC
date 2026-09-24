@@ -1,0 +1,40 @@
+{
+    "title": "Riot Platforms Bucks Trend of Weak Bitcoin Production in January",
+    "time": "2025-02-07T09:50:00",
+    "author": "James Van Straten",
+    "summary": "Riot mined 527 bitcoin in January, the highest amount since December 2023.",
+    "content": "Riot Platforms (RIOT) mined 527 Bitcoin\nBTC\n$104,093.36\nin January, marking its highest monthly production since December 2023 and reflecting a 2% increase from the previous month, according to Farside data.\n\nHowever, the broader bitcoin mining sector reported underwhelming production figures, with most major mining firms experiencing month-over-month declines.\n\nMARA Holdings (MARA) mined 750 BTC in January, representing a 13% decline from December. Similarly, Cleanspark (CLSK) saw a 6% decrease, mining 626 BTC. Other mining firms also reported negative month-over-month production figures:\n\nThe widespread decline in bitcoin production can be attributed to the increasing network difficulty, which both Riot and MARA's CEOs cited as a key challenge.\n\n\"In January, our production saw a 12% month-over-month decline in blocks won, largely due to fluctuations in network difficulty and intermittent curtailment,\" said Fred Thiel, MARA's chairman and CEO.\n\n\"Riot mined 527 Bitcoin in January, marking the second consecutive month of increased production despite rising network difficulty,” said Jason Les, CEO of Riot.\n\nBitcoin’s mining difficulty adjusts every 2,016 blocks to maintain an average block time of 10 minutes. The next difficulty adjustment, set for Feb. 9, is projected to hit an all-time high, surpassing the previous record of 108.11 trillion (T).\n\nBitcoin has risen 4% YTD, serving as a benchmark for mining stocks. Among miners:\n\nHIVE\n$0.1104\n, BTDR and WULF have yet to report January production figures.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/riot-platforms-bucks-trend-of-weak-january-bitcoin-production-figures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Fred Thiel",
+                "Jason Les"
+            ],
+            "positions": [
+                "chairman and CEO",
+                "CEO"
+            ],
+            "companies": [
+                "Riot Platforms",
+                "RIOT",
+                "MARA Holdings",
+                "MARA",
+                "Cleanspark",
+                "CLSK",
+                "HIVE",
+                "BTDR",
+                "WULF"
+            ],
+            "organizations": [
+                "Farside"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While Riot showed increased Bitcoin production, most major mining firms experienced declines and Bitcoin's mining difficulty is projected to hit an all-time high, creating mixed market conditions."
+    }
+}

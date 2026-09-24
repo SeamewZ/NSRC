@@ -1,0 +1,33 @@
+{
+    "title": "Hashgraph Sees Q3 Debut for Hedera-Based Institutional Private Blockchain",
+    "summary": "HashSphere is designed to allow highly regulated institutions such as payment providers and asset managers to transact stablecoins and tokenized assets.",
+    "time": "2025-03-31T13:24:00",
+    "author": "Krisztian Sandor",
+    "content": "Hashgraph, the blockchain development firm focusing on the Hedera (HBAR) network, is building a private, permissioned blockchain for enterprises in highly regulated industries with plans to debut in the third quarter of 2025.\n\nHashSphere, built with Hedera's technology, aims to bridge private and public distributed ledgers, ensuring compliance with regulations while maintaining interoperability, the company said Monday. Hashgraph is looking to provide services to asset managers, banks and payment providers seeking secure, low-cost cross-border transactions with stablecoins.\n\nWhile public blockchains offer security and transparency, enterprises in industries like finance and payments often face compliance challenges, particularly with know your customer (KYC) and anti-money laundering (AML) requirements. HashSphere addresses this by restricting access to verified participants, enabling firms to develop tokenized assets, AI-powered services and other blockchain-based products while meeting regulatory standards.\n\n\"From the start, the vision for Hedera has been to create 'shared worlds' —interconnected networks where enterprises can leverage the power of DLT [distributed ledger technology] without compromising privacy or control,\" said Andrew Stakiwicz, head of solutions at Hashgraph, in the release.\n\nThe network also integrates Hedera’s existing tools, including the Token Service for managing digital assets and the Consensus Service for recording transactions with trusted timestamps. The platform is compatible with the Ethereum Virtual Machine (EVM), allowing developers to deploy decentralized applications using Solidity and other EVM languages.\n\nHashgraph said it is currently working with early partners including Australian Payments Plus, Australia's national payments scheme operator, while adding other users.\n\n\"We are interested in HashSphere primarily for its enhanced privacy and regulatory compliance, while also needing network interoperability for the seamless and transparent interchange of stablecoins between public Hedera and private HashSphere and other layer-1 protocols,\" said Rob Allen, head of future payments (Web3) strategy at Australian Payments Plus.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/tech/2025/03/31/hashgraph-tests-hedera-based-institutional-private-blockchain-aims-2025-q3-launch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrew Stakiwicz",
+                "Rob Allen"
+            ],
+            "positions": [
+                "head of solutions at Hashgraph",
+                "head of future payments (Web3) strategy at Australian Payments Plus"
+            ],
+            "companies": [
+                "Hashgraph",
+                "Australian Payments Plus"
+            ],
+            "organizations": [
+                "Hedera"
+            ]
+        },
+        "cryptocurrencies": [
+            "HBAR",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption of blockchain technology with major payment providers, which indicates growing enterprise confidence and adoption in the cryptocurrency space."
+    }
+}

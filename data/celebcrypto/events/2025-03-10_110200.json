@@ -1,0 +1,29 @@
+{
+    "title": "Deja Vu Grips Crypto Market as BTC Mirrors Price Action Seen After U.S. Bitcoin ETF Launch: Van Straten",
+    "time": "2025-03-10T11:02:00",
+    "author": "James Van Straten",
+    "summary": "Is history repeating itself with another sell-the-news event from a major U.S. event?",
+    "content": "Since President Trump was inaugurated on Jan. 20, bitcoin\nBTC\n$104,254.35\nhas dropped from $109,000 to $80,000, making it a classic \"sell the news\" event. The correction has continued since the digital assets summit on Friday.\n\nWhile the price action may dictate short-term bearishness, bitcoin bulls could view it as a long-term positive catalyst, as the U.S. administration has shifted from a hostile stance under the previous administration to a more favorable one. However, the lack of immediate buying pressure suggests short-term weakness.\n\nA similar price action occurred during the much-anticipated launch of U.S. spot bitcoin ETFs in January 2024. From October 2023 to January 2024, bitcoin surged from $25,000 to $49,000—over a 40% rally. However, the launch marked a local top, as the price subsequently declined by 20% over the following weeks before eventually reaching new all-time highs above $73,000 in March.\n\nThis time, after President Trump won the U.S. election in November, bitcoin rallied 60%, hitting an all-time high of $109,000 in January before undergoing a nearly 30% correction.\n\nThe common pattern in both instances is that bullish news triggered a local top in bitcoin’s price, followed by a significant correction. The next variable is will bitcoin start to move higher after this correction has finished, with a lot depending on the macro landscape.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/deja-vu-grips-crypto-market-as-btc-mirrors-price-action-after-u-s-bitcoin-etf-launch-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Van Straten",
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin dropping from $109,000 to $80,000 after Trump's inauguration, characterizing it as a 'sell-the-news event' and noting continued correction with short-term weakness."
+    }
+}

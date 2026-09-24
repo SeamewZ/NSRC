@@ -1,0 +1,29 @@
+{
+    "title": "Ethereum Developers Postpone Pectra Upgrade Following Buggy Tests",
+    "summary": "After two buggy tests, Ethereum's developers have decided to spend a bit more time collecting data on the highly-anticipated Pectra upgrade.",
+    "time": "2025-03-06T16:52:00",
+    "author": "Margaux Nijkerk",
+    "content": "After two buggy test runs of Pectra, Ethereum's biggest upgrade since 2024, the network's developers decided on Thursday to postpone the upgrade pending further tests.\n\nPectra, which was planned as Ethereum faced mounting pressure to compete with other blockchains, contains a slate of upgrades designed to improve Ethereum's speed and ease of use.\n\nWhen developers inked in the test dates for Pectra in January, they agreed to use the Thursday, Mar. 6 call to set a date for Pectra to go live on the mainnet. If all went well, the expectation was that the upgrade would go live in March.\n\nThe decision to postpone came after Pectra's tests on Holesky and Sepolia, Ethereum's two primary test networks, both encountered bugs. In both cases, the problems resulted from misconfigurations with the test rather than issues with Pectra itself.\n\nUnder normal circumstances, these two tests would have been enough. However, due to the bugs, developers determined on Thursday that Pectra should undergo additional testing before it goes live on Ethereum's main network.\n\n“It seems like we need more information before we can really set a concrete date,” said Alex Stokes, a researcher at the Ethereum Foundation who led Thursday’s call.\n\nAs for next steps, developers decided on Thursday to create a \"shadow fork\" of the Holesky test network, which has been inoperable since the last Pectra upgrade. The Pectra test's configuration issues forced many of Holesky's validators offline, meaning the network can no longer record transactions properly.\n\nA shadow fork is a temporary copy of a blockchain network that is discarded once it is no longer needed. Holesky is a vitally important testing area for Ethereum's developers, and a shadow fork will allow certain key stakeholders — like staking pools and app developers — to test their code on Pectra while the main Holesky network is being fixed.\n\n\"Anyone who wants to test on Holesky can test there,” Stokes recapped on Thursday's call. In the meantime, developers will work to get the primary Holesky network back up and running, which will require 67% of the validators who run the network to reconfigure their systems and come back online.\n\nOnce Holeksy can finalize once again — meaning it's able to add and record transactions as usual — \"we'll have more data to make a call on the next steps around mainnet and launching Pectra,” said Stokes. Developers say Holesky will be operating normally again by around March 28.\n\nPectra is set to be one of the blockchain’s most ambitious changes to date, aimed at improving ease of use for both users and operators of the network.\n\nOne of the upgrade's main additions, EIP-7702, gives crypto wallets some smart contract capabilities. The change is meant to move Ethereum further towards account abstraction, a technological feature that lets wallet builders add user-friendly features, like the ability to pay for fees with currencies other than Ethereum's native ETH.\n\nAnother key proposal, EIP-7251, will alleviate some headaches for Ethereum's operators, or \"validators.\" The change will increase the maximum amount of ETH one validator can stake from 32 to 2,048, meaning those who stake more than 32 ETH will no longer need to split their assets between so many nodes. The change is meant to improve convenience for validators and reduce the amount of time it takes to spin up a new node.\n\nThursday's postponement came as community members had already voiced frustration with the Ethereum Foundation, the non-profit that stewards Ethereum's development and coordinates network upgrades.\n\nThe foundation's critics argue that Ethereum has failed to develop a cohesive roadmap that will help it compete with ascendent networks like Solana. They point to the lagging price of ether\nETH\n$3,340.48\nas a sign of waning confidence from the wider market.\n\nRead more: Ethereum's Second Buggy 'Pectra' Test Could Lead to a Delayed Upgrade",
+    "url": "https://www.coindesk.com/tech/2025/03/06/ethereum-developers-extend-pectra-test-window-following",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Stokes"
+            ],
+            "positions": [
+                "researcher"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The postponement of a major Ethereum upgrade due to technical issues and community frustration suggests negative market sentiment and potential loss of confidence."
+    }
+}

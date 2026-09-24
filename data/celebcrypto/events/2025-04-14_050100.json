@@ -1,0 +1,45 @@
+{
+    "title": "Bitcoin Flat as White House Pushes Mixed Messages on Technology Tariffs",
+    "summary": "BTC is trading above $84K, while major stock indices in China are up.",
+    "time": "2025-04-14T05:01:00",
+    "author": "Sam Reynolds",
+    "content": "Bitcoin\nBTC\n$101,638.43\nis flat as East Asian markets open for the week, trading above $84K, as the White House presents mixed messages on semiconductor and technology component tariffs.\n\nOver the weekend, Commerce Secretary Howard Lutnick said that the White House’s decision to exempt items like smartphones, computers, and the semiconductors that power them from tariffs was a temporary measure.\n\nPresident Trump confirmed it later in a press briefing, stating that the tariff rate would be announced next week, but there would be some \"flexibility\" on the matter.\n\n\"The market saw a material rebound as popular consumer electronics categories were exempted from the 125% tariffs on China,\" BTSE COO Jeff Mei told CoinDesk in a Telegram message. \"Even after Trump mentioned that they would simply be moving to another bucket of tariffs rather than exempted altogether, markets held their gain amidst rumors that business leaders were able to convince the Trump administration to peel back some of their highest tariffs.\"\n\n\"From our side, we believe there will be challenges to shift global supply chains away from China overnight and that low-end, low-margin manufacturing is most likely going to shift to other Asian countries after they broker trade deals. That being said, we do think that this rally looks temporary and that markets will continue to be volatile in the short term,\" Mei added.\n\nMeanwhile, China has announced its own tariffs on semiconductors, hitting U.S.-origin chips with a 34% tariff. However, China counts origin as where the chip was fabricated, not designed.\n\nAs the majority of U.S. chip companies, like AMD and Nvidia, don't operate their own fabs and instead rely on Taiwan's – which China counts as its own territory – TSMC, they would be effectively exempt from these tariffs.\n\nAnalysts in China acknowledge short-term disruptions from the semiconductor tariffs but broadly view them as an opportunity to accelerate domestic innovation, localization, and supply-chain restructuring, ultimately benefiting China's semiconductor industry in the long run.\n\nLocal media in Taiwan report that TSMC is accelerating the construction of another fab in Arizona in order to be able to provide more U.S. fabricated chips as a cloud of uncertainty hangs above the sector.\n\nWithin China, equity traders seem to be waiting on the final tariff news in order to make their next move.\n\nShanghai's SSE composite index is up 0.8%, while Shenzhen's tech-heavy SZSE is up 0.9%. Hong Kong's Hang Seng is up 2.4%.\n\nElsewhere in crypto, Hong Kong's Bosera HashKey Ether exchange-traded fund (ETF) has been approved to offer staking services. This comes after the city's market regulator, the Securities and Futures Commission, issued guidance on offering staking services in Hong Kong.\n\nBloomberg ETF analyst Eric Balchunas noted on X that the market hasn't taken to ether ETFs very kindly. The best-performing ETFs on the market, he wrote, have been those that are short ether ETFs.\n\nEther has been down 47% over the last year, according to CoinDesk market data, while CoinDesk 20 is up 14%.",
+    "url": "https://www.coindesk.com/markets/2025/04/14/btc-flat-on-asia-open-as-white-house-pushes-mixed-messages-on-technology-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Howard Lutnick",
+                "Trump",
+                "Jeff Mei",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "Commerce Secretary",
+                "President",
+                "COO",
+                "ETF analyst"
+            ],
+            "companies": [
+                "BTSE",
+                "AMD",
+                "Nvidia",
+                "TSMC",
+                "Bosera HashKey",
+                "Bloomberg"
+            ],
+            "organizations": [
+                "White House",
+                "CoinDesk",
+                "Securities and Futures Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Bitcoin is described as 'flat' and trading sideways while analysts view the rally as temporary with continued volatility expected in the short term."
+    }
+}

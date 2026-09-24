@@ -1,0 +1,41 @@
+{
+    "title": "Ledger Co-Founder's Kidnapping Highlights Threat of Crypto Robberies",
+    "summary": "David Balland and his wife were rescued in a police operation involving elite units, Paris Prosecutor Laure Beccuau said.",
+    "time": "2025-01-24T16:06:00",
+    "author": "Krisztian Sandor",
+    "content": "David Balland, co-founder of cryptocurrency wallet developer Ledger, was rescued in a police operation after being kidnapped in a ransom attack in France, according to reports, putting an end to days of swirling rumors.\n\nParis Prosecutor Laure Beccuau said that Ballard and his wife were kidnapped on early Tuesday from their home in Central France and held captive at two separate addresses, Reuters reported on Friday. The prosecutor said that the kidnappers contacted another Ledger co-founder to demand ransom paid in cryptocurrencies.\n\nA police operation involving French elite forces GIGN freed Ballard on Wednesday and his wife was found on Thursday, the prosecutor said. Ballard was taken to hospital to receive treatment to one of his hands, which was mutilated, Beccuau said, without revealing further details, according to Reuters. Local newspaper Le Parisien reported that the attackers severed Ballard's finger and sent it to associates to extort a ransom.\n\n\"We are deeply relieved that David and his wife have been released, and are now safe,\" Pascal Gauthier, chairman and CEO of Ledger, said in a statement shared with CoinDesk.\n\nRumors circulated on social media earlier this week that one of the co-founders of Ledger had been kidnapped. Reports alleging that Eric Larchevêque, another co-founder of the company, was the victim turned out to be false. CoinDesk reached out to Ledger for confirmation at the time, but the company didn't comment.\n\n\"Our top priority was always to allow law enforcement to do their jobs and protect the integrity of the investigation,\" CEO Gauthier said. \"We respected law enforcement requests around safeguarding critical details of the ongoing investigation and appreciated members of the press who did the same.\"\n\nThe incident was another example of an alarming trend of robberies and crime targeting crypto traders and industry figures as the crypto bull market marches on creating riches to investors. For example, Dean Skurka, the CEO of WonderFi, a publicly listed crypto holding company that owns one of Canada's largest crypto exchanges, was kidnapped for a ransom in Toronto last year.\n\n\"Have seen an uptick in irl [real life] robberies targeting crypto traders located in Western Europe over the past few months,\" popular blockchain sleuth ZachXBT posted on Telegram. \"The cases all involve known people in the crypto community where they were held at gunpoint. As the rest of the cycle continues, be extra mindful of who you share your wins with and meet up with [in real life].\"",
+    "url": "https://www.coindesk.com/policy/2025/01/24/ledger-co-founder-s-kidnapping-sheds-light-on-soaring-crypto-robberies",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Balland",
+                "Laure Beccuau",
+                "Pascal Gauthier",
+                "Eric Larchevêque",
+                "Dean Skurka",
+                "ZachXBT"
+            ],
+            "positions": [
+                "co-founder",
+                "Paris Prosecutor",
+                "chairman and CEO",
+                "CEO",
+                "blockchain sleuth"
+            ],
+            "companies": [
+                "Ledger",
+                "CoinDesk",
+                "WonderFi"
+            ],
+            "organizations": [
+                "GIGN",
+                "Reuters",
+                "Le Parisien",
+                "Telegram"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a kidnapping targeting crypto industry figures and highlights an alarming trend of robberies and crimes against crypto traders, which creates security concerns and negative sentiment in the market."
+    }
+}

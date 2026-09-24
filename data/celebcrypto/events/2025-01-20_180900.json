@@ -1,0 +1,41 @@
+{
+    "title": "Trump Entourage Holds $2.3T in Memecoins",
+    "time": "2025-01-20T18:09:00",
+    "author": "Tom Carreras",
+    "summary": "On-chain data shows that wallets likely controlled by members of Trump’s entourage have absurd paper holdings.",
+    "content": "U.S. President Donald Trump and his entourage have already made tens of billions of dollars in profits (at least on paper) off of the\nTRUMP\n$7.3605\nand\nMELANIA\n$0.1101\ntokens that launched on Solana in the last three days.\n\nNow trading at $42, TRUMP has surged to a $8.8 billion market capitalization, making it the 25th largest coin in the whole crypto ecosystem, just behind some CoinDesk 20 coins such as polkadot (DOT) and litecoin (LTC). (The CoinDesk 20 is an index of the top 20 cryptocurrencies by market cap excluding memecoins, stablecoins and exchange coins).\n\nMELANIA, for its part, has risen to a $945 million market cap, placing it 121st position among token projects.\n\nOn-chain data shows that the TRUMP treasury wallet currently holds $35.5 billion of the token, plus $17.5 billion in other memecoins named after Trump family members including Eric Trump and Kai Trump. The wallet flagged as having launched Official Trump has $622 million in the token and almost $162 billion in other coins, including $147 billion another memecoin named after Vice-President J.D. Vance. Unlike the Trumps, Vance did not indicate on social media that he was launching a memecoin.\n\nThe Trump team holds MELANIA in a different configuration. About 77% of the token’s supply is held in three different wallets, two of which have been labelled on Solscan as belonging to the Melania team alongside a fourth wallet, which holds 3.7% of the supply. Assuming all four wallets belong to the MELANIA team, the Trump family currently holds $4.8 billion worth of that token.\n\nImportantly, two of these wallets — labelled Melania Treasury and Melania Liquidity on Solscan — which own 33.7% of the MELANIA supply between the two of them, also each hold $295 billion worth of the VANCE token. In fact, 25% of the VANCE token’s supply is held between these two MELANIA wallets and the TRUMP launch wallet.\n\nCounting just the Official Trump and Melania Meme coins, the Trump team may be holding roughly $40.9 billion on-chain. But if we add all of the other coins these wallets are holding, that number jumps to approximately $810 billion.\n\nAnd considering that the MELANIA and TRUMP wallets own a huge amount of the VANCE token supply, it’s likely they are operated by the same entity that launched VANCE in the first place. If so, it’s worth pointing out that the VANCE treasury currently holds almost $1.5 trillion worth of the memecoin. For reference, bitcoin's (BTC) entire market cap is is hovering at around $2 trillion. The entourage's grand total holdings could be worth approximately $2.3 trillion, at least on paper.\n\nOf course, that doesn’t mean the Trump team will be able to liquidate that much. It’s very much paper wealth. These wallets own a massive amount of each token’s supply, so if Trump’s team begins to take profit, the selling pressure will likely crater the market. It cannot realize $35.5 billion in gains off of a coin with a $8.8 billion market capitalization, and the same issues apply to MELANIA and VANCE.\n\nAnyone can create tokens for a few cents and issue them on the Solana network. If 1 trillion tokens are created, and a few tokens are exchanged for $1, the market capitalization for that memecoin would technically be $1 trillion. This means market cap can be manipulated by the token's creators or early investors with minimal actual market activity. VANCE has just over $2,000 in liquidity on two Solana-based pools, on-chain data shows. Liquidity refers to how easily a token can be bought or sold in the market without impacting its price significantly.\n\nFurthermore, the Official Trump and Melania Meme projects have vesting schedules — which means holders cannot sell their tokens whenever they wish. The Trump team will have to wait at least three months to begin selling, and, even then, they’ll only be able to take profit slowly, a few coins at a time. The Melania Meme project, meanwhile, will begin unlocking in less than 30 days.\n\nUPDATE (Jan. 20, 2025, 20:35 UTC): The article was amended to add more information about liquidity and market capitalizations.",
+    "url": "https://www.coindesk.com/markets/2025/01/20/does-the-trump-entourage-hold-2-3-t-in-memecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Melania",
+                "Eric Trump",
+                "Kai Trump",
+                "J.D. Vance"
+            ],
+            "positions": [
+                "U.S. President",
+                "Vice-President"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "MELANIA",
+            "VANCE",
+            "Solana",
+            "polkadot",
+            "DOT",
+            "litecoin",
+            "LTC",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article highlights massive paper holdings that cannot be liquidated without cratering the market, low liquidity pools, and manipulative market cap calculations that suggest unsustainable valuations."
+    }
+}

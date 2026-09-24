@@ -1,0 +1,39 @@
+{
+    "title": "Ether ETFs Register $393M in Inflows This Month as Crypto Investors Turn Their Back on Bitcoin",
+    "time": "2025-02-18T06:05:00",
+    "author": "Omkar Godbole",
+    "summary": "Investors pivot to ether ETFs as Ethereum's impending Pectra upgrade is expected to bode well for cryptocurrency.",
+    "content": "If you believed that ether's\nETH\n$3,495.36\nearly-month price crash to $2,000 on some exchanges would drive investors away, think again. Activity in the U.S.-listed spot ETFs indicates that traders have strongly pivoted to ether from bitcoin\nBTC\n$104,608.94\n.\n\nThis month, the nine ether spot exchange-traded funds (ETFs) listed in the U.S. have recorded a cumulative net inflow of $393 million, according to data from Farside Investors. This figure is also seven times larger than the inflows seen in January, as reported by Glassnode. Notably, these funds experienced outflows on only two trading days.\n\nIn contrast, the 11 bitcoin ETFs have faced a net outflow of $376 million this month. Sentiment has been so weak that these funds have recorded inflows on just four trading days.\n\nThe pivot to ETH is driven by carry trading, which involves purchasing spot ETFs and shorting ETH CME futures simultaneously. Plus, some of the inflows into ETFs could be outright bullish directional plays.\n\nHowever, investors' pivot to ether has not yet translated into higher prices for cryptocurrency.\n\nETH, which powers Ethereum's smart contract blockchain, has primarily traded between $2,600 and $2,800 since the Feb. 3 crash. Bitcoin too has been locked in a narrow range below $100,000 amid volatile price action in memecoins.\n\nStill, some observers expect ether price gains on the back of Ethereum's impending Pectra upgrade, which is said to optimize both the execution and consensus layers of Ethereum and help it compete against rival Layer 1s such as Solana.\n\n\"ETH has a solid foundation for a resurgence. The Pectra upgrade, scheduled for April 8 for example, is bringing network improvements, faster transactions, and better staking mechanics,\" Nick Forster, founder of the decentralized options platform Derive.xyz said in an email.\n\nForster explained that Ethereum founder Vitalik Buterin's push for a 10x increase in the L1 gas limit points to improved application development and security. Further, the ETH Foundation's recent $120 million allocation to DeFi projects is signaling a renewed focus on adoption and institutional interest through ETHrealize. Led by Vivek Raman, ETHrealize aims to integrate traditional financial institutions into the blockchain world.\n\n\"There's now a 30% chance ETH will hit above $3K by the end of the quarter, up from 28% last week,\" Forster added.",
+    "url": "https://www.coindesk.com/markets/2025/02/18/ether-etfs-register-usd393m-in-inflows-this-month-as-crypto-investors-turn-their-back-on-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Forster",
+                "Vitalik Buterin",
+                "Vivek Raman"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Derive.xyz"
+            ],
+            "organizations": [
+                "Farside Investors",
+                "Glassnode",
+                "ETH Foundation",
+                "ETHrealize"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports significant inflows into ether ETFs, positive expectations from the Pectra upgrade, and increased probability of price gains, indicating market confidence in Ethereum."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Tether Raises Bitdeer Stake to 21%: SEC Filing",
+    "time": "2025-03-18T09:06:00",
+    "author": "Sam Reynolds",
+    "summary": "The USDT issuer first bought a stake in the bitcoin mining company in May 2024.",
+    "content": "Tether, the issuer of the USDT stablecoin, increased its holdings in bitcoin\nBTC\n$104,558.40\nminer Bitdeer (BTDR), building on a investment it started almost a year ago.\n\nThe company financed the acquisition with working capital and now owns 21% of the company, according to a Securities and Exchange Commission filing.\n\nTether first acquired a position in the Singapore-based company last May with a $100 million investment for 18.59 million Class A shares and an option to buy 5 million more at $10 each.\n\nTether is building a portfolio of holdings with its record profits, which came in at $13 billion last year, acquiring a stake in Italty's Juventus FC and bidding for a majority stake in Latin American agricultural commodities producer Adecoagro.\n\nBitdeer's stock is unchanged on Nasdaq pre-market trading, changing hands at $10.56.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/tether-increases-holdings-in-bitdeer-to-20-sec-filing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tether",
+                "Bitdeer",
+                "Juventus FC",
+                "Adecoagro"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Tether's increased investment in bitcoin mining company Bitdeer using record profits demonstrates institutional confidence and capital deployment in the cryptocurrency sector."
+    }
+}

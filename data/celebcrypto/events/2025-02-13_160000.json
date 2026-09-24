@@ -1,0 +1,35 @@
+{
+    "title": "Crypto for Advisors: It's Tax Time",
+    "time": "2025-02-13T16:00:00",
+    "author": "Anthony Tuths",
+    "summary": "The 2024 tax year has come to a close, and tax filing season is now upon us. If you’ve been trading crypto, here are some key things you need to consider.",
+    "content": "In today’s issue, we get ready for tax time as Anthony Tuths from KPMG provides an overview of crypto tax preparation and the rules to follow.\n\nThen, Layne Nadeau from NVAL answers questions about taxes and NFTs in Ask and Expert.\n\n– Sarah Morton\n\nThe 2024 tax year has come to a close, and tax filing season is now upon us. If you’ve been trading crypto, there are some things you need to consider. The first is, be sure not to waste time. While a large U.S. centralized exchange may provide you with an IRS Form 1099, other exchanges likely will not, so you will need time to organize your own tax records. Moreover, even if the exchange provides you with a 1099, it likely will not have cost basis information. And most non-U.S. exchanges and DeFi protocols will not provide you with tax information.\n\nIn order to compute accurate gains and losses, you will need to have accurate trading records for each trade, including the cost basis of any tokens sold. You'll likely need to pull this information from the exchange if you failed to keep contemporaneous records while trading in 2024. Also note that going forward, for trading in 2025 and beyond, you are required to use “tax lot relief” methods — i.e., select which portion of fungible tokens were sold and their related tax basis, even if using first-in-first-out (FIFO) methodology, on a wallet-by-wallet basis. For example, if you sold from wallet number 4, you can’t identify a token from wallet number 7 as the token sold; you can only identify a tax lot from wallet number 4. As a result, you may want to consider consolidating wallets. Also, per IRS Rule 2024-28, tax lot allocations were to be made before your first trade in 2025.\n\nAside from good record keeping and tax basis tracking, all forms of income and expenditures in crypto should be considered. For example, did you receive an airdrop of a token that had value at the time of the drop? Remember that ordinary income is equal to the fair market value of the token as of the time you had the power to sell it, whether you did so or not (see IRS Rule 2019-24). That income inclusion amount then becomes your tax basis, and a future disposition will result in a capital gain or loss based on that tax basis.\n\nAlso, did you earn crypto for services you provided as an employee or independent contractor? In that case, you had reportable income equal to the fair market value of the crypto received. That income is also subject to wage withholding or self-employment tax.\n\nHeading into the final months of 2024, you may have sold some of your digital assets trading at a loss (i.e., loss harvesting). If so, those losses can be used to offset your taxable gains and reduce your tax liability. This is true even if you bought the same tokens back shortly after selling them since there is currently no wash sale rule for buying and selling crypto. Remember this during 2025 to reduce your future taxes.\n\nEven after loss harvesting, did you still end up with taxable gains for 2024? You may still be able to contribute to your IRA if you haven’t done so already in order to create a deduction for 2024. In most cases, you have until April 15th to do this. And while you can’t contribute crypto to an IRA, if you have a self-directed IRA, you can contribute fiat to it and then use those funds to purchase crypto.\n\nLastly, did you buy a bitcoin or ether ETF? Note that even if you didn’t sell the ETF in 2024, you may still have tax liability. This is because the ETFs are structured as grantor trusts, and they sell small amounts of crypto each month to fund the management fees. Each ETP publishes a tax report for the year and posts it on its website. This report tells you how to calculate your gains/losses for the year as a trust unitholder. These tax gains and losses are currently reportable by you.\n\nGood luck tax filing!!\n\n-Anthony Tuths, digital asset practice leader tax principle alternative investments, KPMG LLP\n\nQ: How are non–fungible tokens (NFTs) treated for tax purposes?\n\nA: In many jurisdictions, NFTs are considered digital assets and are subject to the same tax rules as cryptocurrencies. Some jurisdictions look past this simplification at the underlying assets associated with the NFT and apply the appropriate tax treatment for those assets (e.g. Money Market Funds, Art & Collectibles, Private Debt, etc.). Consulting a tax accounting professional is recommended.\n\nQ: Can “Floor Price” be used to calculate the value of non-fungible assets for tax purposes?\n\nA: No, a floor price is not accepted by formal accounting or tax standards. A service is required that uses accepted accounting methods, such as market comparisons, to calculate an acceptable fair market value. Accounting providers that specialize in digital assets will have these service providers in their partner network.\n\nQ: Can a tax loss be realized for NFTs that have lost their value/market?\n\nA: Yes, if selling the token is no longer an option there are services (e.g. UnsellableNFTs.com) that will “purchase” illiquid NFTs (for a nominal fee), allowing the capital loss to be booked.\n\nDue to the lack of guidance from most tax authorities on this topic, a potentially safer alternative is to send your NFT to a burn wallet like the standard ETH burn address.\n\n-Layne Nadeau, CEO, NVAL",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/12/crypto-for-advisors-it-s-tax-time",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Anthony Tuths",
+                "Layne Nadeau",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "digital asset practice leader tax principle alternative investments",
+                "CEO"
+            ],
+            "companies": [
+                "KPMG LLP",
+                "NVAL",
+                "UnsellableNFTs.com"
+            ],
+            "organizations": [
+                "IRS"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article provides neutral tax guidance and compliance information without indicating any market-moving price catalysts or sentiment shifts."
+    }
+}

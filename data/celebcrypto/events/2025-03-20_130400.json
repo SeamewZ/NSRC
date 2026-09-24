@@ -1,0 +1,30 @@
+{
+    "title": "Ether Spot ETFs in U.S. Saw $358 Million Outflows in 11-Day Stretch",
+    "time": "2025-03-20T13:04:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Despite the outflows, the funds have seen a cumulative net inflow of $2.45 billion since their inception..",
+    "content": "Spot ether (ETH) exchange-traded funds (ETFs) in the U.S. posted their 11th straight day of net outflows, losing some $358.1 million of investor funds as the price of ether fell almost 7%.\n\nOn Tuesday, BlackRock’s iShares Ethereum Trust ETF (ETHA) saw $12.9 million of outflows, losing a net $137.6 million over the period. Fidelity’s FETH and Grayscale’s ETHE were the other top two contributors to the total outflow.\n\nIn total, spot ether ETFs now hold around $7 billion worth of the cryptocurrency and, despite the outflows, seen a cumulative net inflow of $2.45 billion since their inception in July, SoSoValue data shows.\n\nThe price of ether fell from around $2,150 on March 8 to around $1,990 as of Thursday. It's lost roughly 40% of its value year-to-date.\n\nU.S. bitcoin (BTC) ETFs in the U.S. in contrast posted a fourth consecutive days of inflows, bringing their cumulative net total inflow to $35.8 billion since January last year.",
+    "url": "https://www.coindesk.com/markets/2025/03/20/ether-spot-etfs-in-u-s-saw-usd358-million-outflows-in-11-day-stretch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "Grayscale"
+            ],
+            "organizations": [
+                "SoSoValue"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports 11 consecutive days of net outflows from ether ETFs totaling $358.1 million and a 7% price drop for ether, indicating negative market sentiment and selling pressure."
+    }
+}

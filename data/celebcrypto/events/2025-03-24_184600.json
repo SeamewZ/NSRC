@@ -1,0 +1,37 @@
+{
+    "title": "China's CPIC Rolls Out $100M Tokenized Fund with HashKey as RWA Trend Expands in Asia",
+    "time": "2025-03-24T18:46:00",
+    "author": "Krisztian Sandor",
+    "summary": "Asset tokenization is a red-hot sector in crypto as asset managers around the globe are increasingly leveraging blockchain rails for traditional instruments like bonds and funds.",
+    "content": "China Pacific Insurance (CPIC) Investment Management, a Hong Kong-based subsidiary of one of China's largest insurance groups, rolled out a tokenized U.S. dollar money market fund as the asset tokenization trend is expanding to Asia.\n\nThe eStable Money Market Fund (MMF) was launched on the HashKey Chain, a permissioned blockchain for institutional users developed by digital asset group HashKey, and has secured $100 million in subscription on the first day, according to a Monday press release.\n\nThe product is only accessible for professional and institutional investors and invests in U.S. dollar-denominated short-term fixed income assets and money market instruments. The PAC serves as the tokenization issuance platform for the fund, while Standard Chartered Bank provides registration and fund administration services.\n\nAsset managers around the globe are increasingly putting traditional financial instruments such as government bonds, credit, and funds on blockchain rails, a process often referred to as tokenization of real-world assets (RWAs). By doing so, they seek to achieve operational and efficiency gains and faster, around-the-clock settlements.\n\nU.S.-based issuers like Franklin Templeton and BlackRock have been spearheading the tokenization efforts of U.S. Treasury securities as a blockchain-based facility to manage cash holdings, similar to a money market fund. Last week, Fidelity Investments also filed for regulatory approval to enter the market with a fund built on the Ethereum network. This is a fast-growing market: the total market value of yield-generating some 500% over the past year to almost $4.8 billion, rwa.xyz data shows.\n\n\"The essence of finance is the flow of value across time and space, and blockchain is the new infrastructure for this process,\" said Dr. Xiao Feng, chairman and CEO of HashKey Group.\n\n\"Integration with traditional finance is an important direction for future Web3 development and one of the directions with the greatest certainty,\" CG Zhou, CEO of CPIC Investment Management, said in a statement, adding that the company will seek to tokenize more traditional assets using compliance-driven blockchains.",
+    "url": "https://www.coindesk.com/business/2025/03/24/china-s-cpic-rolls-out-usd100m-tokenized-fund-with-hashkey-as-rwa-trend-expands-in-asia",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dr. Xiao Feng",
+                "CG Zhou"
+            ],
+            "positions": [
+                "chairman and CEO",
+                "CEO"
+            ],
+            "companies": [
+                "China Pacific Insurance (CPIC) Investment Management",
+                "HashKey",
+                "Standard Chartered Bank",
+                "Franklin Templeton",
+                "BlackRock",
+                "Fidelity Investments"
+            ],
+            "organizations": [
+                "HashKey Group",
+                "CPIC Investment Management"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major institutional adoption of blockchain technology for asset tokenization, with $100 million secured on day one and growing market value of tokenized assets up 500% over the past year, indicating strong market confidence and expansion."
+    }
+}

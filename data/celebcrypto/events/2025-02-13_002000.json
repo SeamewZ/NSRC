@@ -1,0 +1,49 @@
+{
+    "title": "The Protocol: Can Based Rollups Solve Ethereum’s Layer-2 Problem?",
+    "summary": "Also: Lido goes modular; Uniswap finally launches Unichain",
+    "time": "2025-02-13T00:20:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, CoinDesk’s Opinion and Features editor.\n\nIn this issue:\n\nBASED ROLLUPS TO THE RESCUE: In recent years, Ethereum has embraced a layer-2 scaling roadmap—a plan that encouraged the development of third-party auxiliary networks called \"layer-2 rollups\"—to help scale the base Ethereum ecosystem. Offloading activity to these upstart networks has helped bring down fees and improve speeds for end-users, but it has led to a massive, deeply fragmented ecosystem of layer 2s. But while layer-2 networks all post data back down to Ethereum, they often struggle to communicate directly with one another, meaning passing assets and data between them can become expensive and cumbersome. There's also the risk of centralized sequencers: reliance on company-controlled black boxes to pass transaction data between blockchain layers. As a result, some Ethereum developers are pushing rollup tech that takes a new approach to security and interoperability: “based rollups.\" Based rollups differ from most existing rollups because they shift execution duties—such as processing transactions—back to Ethereum's layer-1 rather than handling them on a separate layer-2 network. When someone transacts on a layer-2 rollup, their transaction is processed through a component called a “sequencer.” The sequencer batches multiple transactions and submits them to Ethereum for settlement. While sequencers provide efficiency and generate revenue for rollup operators by strategically ordering transactions, they also introduce a single point of failure. Based rollups avoid this vulnerability by using Ethereum’s built-in sequencing—its massive community of validators—rather than a single centralized sequencer. Rollups like Optimism, Arbitrum, Base, zkSync, and Blast have quickly grown to support larger transaction volumes than Ethereum itself. According to L2Beat, there are currently 140 live layer-2 networks, but the experience of operating between them—passing assets and other data between networks—has become clunky. As Ethereum becomes bigger and layer-2 networks become more integral to its functioning, improving communication between layer-2s—in other words, improving \"composability\"—has become more important than ever. — Margaux Nijkerk Read more.\n\nLIDO GOES MODULAR: The developers behind Lido, the largest staking service on Ethereum, have proposed revamping the staking platform with modular \"vaults.\" The new framework would introduce stVaults, a customizable component designed to help Lido accommodate institutions and more complex staking strategies. Lido currently allows investors to pool their ether\nETH\n$3,340.48\ntogether and \"stake\" their crypto — locking up their tokens with the network, helping to secure it in exchange for interest. Lido pioneered liquid staking: users get a receipt on their deposits called Lido staked ETH (stETH) that they can trade at any time. With liquid staking on Lido, entering and exiting staking positions became as simple as buying and selling stETH tokens. Lido V3's stVaults are “modular smart contracts designed to meet the diverse and evolving needs of Ethereum participants,” according to a press release shared with CoinDesk. The upgrade would enable staking setups beyond cut-and-dry liquid staking. Specifically, stVaults will be able to help institutional stakers who want to personalize their staking setups, node operators who want to attract high-volume stakers, and asset managers who want to create new staking use cases. “What is important to understand with customizable infrastructure, is that you can in general build even more complex products,” said Konstantin Lomashuk, the founder of the Lido staking protocol. — Margaux Nijkerk Read more.\n\nUNICHAIN FINALLY: Uniswap Labs, the primary developer behind one of the largest decentralized exchanges (DEX), Uniswap, shared Feb 13 that its long-awaited layer-2 network, Unichain, is now live. Powered by Optimism's OP stack, Unichain—like other layer-2s on Ethereum—offers faster and cheaper transactions compared to Ethereum's mainnet. Developers can deploy apps onto the network, which has been optimized specifically for decentralized finance (DeFi) and aims to serve as \"the home for liquidity across chains,\" according to Uniswap Labs. For Uniswap Labs, the benefit of launching a layer-2 is twofold: it will provide a better experience for users of Uniswap and similar platforms, and it will create a new revenue opportunity in the form of network fees. A representative for Uniswap Labs told CoinDesk that \"around 20%\" of the chain's revenue will go directly to the company. Unichain has been in testing since October 2024 and is classified by Uniswap Labs as a \"stage-1\" rollup, meaning it has elements of decentralization but retains some centrally-controlled safeguards at this early phase. The network is built on the OP Stack, a modular framework that lets developers build interoperable layer-2 chains based on Optimism’s optimistic rollup technology. Several well-known teams have come out with their own OP Stack-based layer-2’s, including Coinbase's ‘Base’, Kraken’s ‘Ink,’ World’s ‘World chain,’ and Sony’s ‘Soneium.’ “We are anticipating a world of many, many different use cases, of which trading is a small subset,” Adams told CoinDesk in an interview. In collaboration with Ethereum research and development firm Flashbots, the Uniswap team said it has created a Trusted Execution Environment (TEE) on Unichain, a secure area for more sensitive transactions and is meant to optimize the chain for DeFi by allowing for more advanced trades and faster transaction finality. — Margaux Nijkerk Read more.\n\nPECTRA IN APRIL: Ethereum developers have officially set test dates for Pectra, the network's first upgrade in 11 months, putting it on track for a potential April release date. Pectra will contain an array of improvements — with a special focus on wallets and validators — but it comes at a period of heightened scrutiny for Ethereum, which has recently faced pressure from its community to refocus and catch up with competitors. Ethereum's core builders decided on Thursday during their bi-weekly \"All Core Developers\" call to begin testing Pectra on Feb. 26 on the Holesky testnet, with a follow-up test on the network's Sepolia testnet slated for Mar. 5. Should those tests succeed, the developers will reconvene on Mar. 6 to determine when to launch the upgrade officially. According to Tim Beiko, the protocol support lead at the Ethereum Foundation, developers expect the upgrade to hit mainnet in early April. Pectra — a portmanteau representing two separate upgrades, Prague and Electra — includes eight major improvements to the second-largest blockchain. Among the most-anticipated is EIP-7702, which is supposed to improve the user experience of crypto wallets. The Ethereum community has been facing an identity crisis over the last few weeks. Its native token, ether\nETH\n$3,340.48\n, is underperforming against other cryptocurrencies, and competitor networks like Solana have drawn attention and talent from the Ethereum ecosystem — the first-ever programmable blockchain and still the most trafficked. Amid the controversy — much of it directed at the Etheruem Foundation, which coordinates chain upgrades and is currently undergoing a major leadership shuffle — developers are hoping that Pectra will help put the network on steadier footing. — Margaux Nijkerk Read more.\n\nEl Salvador Dispatch\n\nBerlín, a city of 20,000 people, is home to El Salvador’s second Bitcoin circular economy. “Bitcoin City already exists. It’s called Berlín,” said one resident. Tom Carreras reports.\n\nLinksDAO Launches on Base\n\nLinksDAO began by selling NFTs, but the market has moved on in the time since.\n\nRegulatory and policy\n\nHester Peirce, head of the SEC’s new crypto taskforce, says that memecoins likely to fall outside the regulator’s jurisdiction.",
+    "url": "https://www.coindesk.com/tech/2025/02/12/the-protocol-can-based-rollups-solve-ethereum-s-layer-2-problem",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Margaux Nijkerk",
+                "Konstantin Lomashuk",
+                "Tim Beiko",
+                "Hester Peirce",
+                "Tom Carreras",
+                "Adams"
+            ],
+            "positions": [
+                "Opinion and Features editor",
+                "protocol support lead",
+                "founder",
+                "head of the SEC’s new crypto taskforce"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Lido",
+                "Uniswap Labs",
+                "Coinbase",
+                "Kraken",
+                "Sony",
+                "Flashbots",
+                "LinksDAO"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including new layer-2 scaling solutions, major protocol upgrades, and expansion of key DeFi platforms, all indicating continued innovation and growth in the cryptocurrency ecosystem."
+    }
+}

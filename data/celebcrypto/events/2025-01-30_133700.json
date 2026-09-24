@@ -1,0 +1,41 @@
+{
+    "title": "Apollo Unveils Tokenized Private Credit Fund as Blockchain Deepens TradFi Links",
+    "time": "2025-01-30T13:37:00",
+    "author": "Ian Allison",
+    "summary": "The Apollo Diversified Credit Fund digital offering marks the first integration for Securitize with the Solana and Ink blockchains.",
+    "content": "Apollo, an investment firm with over $730 billion in assets under management, is offering investors a new tokenized private credit fund with the help of security token specialist Securitize.\n\nAccessed via the Apollo Diversified Credit Securitize Fund (ACRED) feeder fund, the token is the first public on-chain offering for accredited investors of Apollo and also the first integration for Securitize with the Solana blockchain, as well as with Ink, a layer-2 network built by the Kraken crypto exchange. Ethereum, Aptos, Avalanche and Polygon are also initial launchpads for the tokenized fund.\n\nApollo Diversified Credit Fund, which has more than $1.2 billion in managed assets, invests in corporate direct lending, asset-backed finance as well as performing, dislocated and structured credit, the firm said. The fund delivered an 11.7% return in 2024 compared with around 4.5% on U.S. Treasuries.\n\nChristine Moy, a partner leading digital assets, data and AI strategy at Apollo, said the fund was chosen because it has a daily subscription and daily net asset value (NAV) structure that’s well suited for seamless and efficient blockchain-based markets.\n\n“For those that are trying to build a diversified portfolio on-chain, it serves as a higher yielding complement to stablecoins, tokenized treasuries and money market funds,” Moy said in an interview. “But it’s also a diversifier to the more volatile crypto native yield products that are out there. So it can help complete the picture of the different assets you would need in an on-chain diversified portfolio.”\n\nThere’s been something of a rush among traditional finance firms to tokenize so-called real world assets (RWAs), with blockchain-based versions of U.S. Treasuries being the largest and most liquid market to emerge. As of 2023, global private credit assets under management reached approximately $2.1 trillion, a fourfold increase from a decade earlier, according to Securitize.\n\nPrivate credit tokens are less common, but they open up a new space for on-chain assets, said Securitize CEO Carlos Domingo.\n\n“Private credit is an area that’s been exploding of late, and we have been among the pioneers in this area of tokenization having already launched a top-tier private credit fund token with Hamilton Lane,” Domingo said in an interview. “Private credit with a higher yield is a good complement to treasuries especially in a scenario with interest rates coming down.”\n\nSecuritize is the tokenization partner of BlackRock and the digital transfer agent for the asset manager’s BUIDL money market fund token. For Apollo, Securitize is using its partnership with Wormhole, a developer platform that allows different blockchain networks to communicate with each other, to offer a multichain approach out of the gate.\n\nApollo has participated in some tests of tokenized assets such as a proof of concept last year involving JPMorgan, carried out under the auspices of Project Guardian, a collaborative effort led by the Monetary Authority of Singapore (MAS). Moy, a longtime Web3 strategist who previously worked on JPMorgan’s blockchain and led projects like Intraday Repo, looked ahead to working in areas like decentralized finance (DeFi).\n\n“Tokenizing Apollo’s products is just the beginning,” Moy said. “We're excited to collaborate with leading teams in the digital assets ecosystem to design modern treasury management, automatically rebalancing investment portfolios at scale, smart contract-driven collateral management, and in the future, potentially the enablement of secondary liquidity for alternative assets.”",
+    "url": "https://www.coindesk.com/business/2025/01/30/apollo-unveils-tokenized-private-credit-fund-as-blockchain-deepens-tradfi-links",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Christine Moy",
+                "Carlos Domingo"
+            ],
+            "positions": [
+                "partner leading digital assets, data and AI strategy at Apollo",
+                "CEO of Securitize"
+            ],
+            "companies": [
+                "Apollo",
+                "Securitize",
+                "Kraken",
+                "BlackRock",
+                "Hamilton Lane",
+                "JPMorgan"
+            ],
+            "organizations": [
+                "Monetary Authority of Singapore (MAS)",
+                "Project Guardian"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Ethereum",
+            "Aptos",
+            "Avalanche",
+            "Polygon"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major traditional finance firms like Apollo and BlackRock expanding into blockchain tokenization, which indicates growing institutional adoption and confidence in cryptocurrency infrastructure."
+    }
+}

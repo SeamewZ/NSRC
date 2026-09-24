@@ -1,0 +1,39 @@
+{
+    "title": "MtnDAO's Experimental Crypto Investment Fund Will 'Outperform VCs' Claims Founder",
+    "time": "2025-03-07T14:30:00",
+    "author": "Danny Nelson",
+    "summary": "MtnDAO is launching a token and a futarchy-powered investment fund to boot.",
+    "content": "Coworking summits at the mtnDAO hacker house come and go. But mtnCapital trades forever.\n\nThe monthlong Solana developer meetup will launch its token ($MTN) at the end of March, co-founders Barrett and Edgar Pavlovsky exclusively told CoinDesk. That much was always expected from a famously pro-token team. More intriguing is what the token does.\n\nMTN is to be the flagship asset of mtnCapital, an experimental on-chain investment fund governed by a markets-centric form of governance called futarchy. A version pioneered by MetaDAO's been infecting the brains of Solana maximalists since debuting at mtnDAO's winter 2024 coworking meetup.\n\nBelievers in futarchy think it can disrupt all bastions of decision-making, from capital markets to nation states, and certainly crypto groups called DAOs, by placing the wisdom of markets over voters. MtnCapital will test whether an investment fund governed by the markets can actually deliver returns worth the risk.\n\nIt will make decisions based on movements of its MTN token. Simply put: If traders think a proposal (invest $100,000 in BTC, perhaps) will be good for mtnCapital, they'll push MTN higher, and it will pass. Conversely, if they think the trade will be bad for mtnCapital, they'll push MTN lower, and it will fail.\n\nBegone, one person, one vote. MtnCapital will be shaped by traders with big bags and a penchant for staring at order books.\n\n\"I really think it's going to outperform VC funds,\" Barrett said.\n\nMtnCapital will raise its entire treasury by selling its full stack of MTN tokens to the public.\n\nWhat happens to that treasury is completely up to the market. The two founders say they will have as much, or as little, influence over mtnCapital as anyone else when it launches. If they want it, they'll need to buy it; There's no airdrop or founder allocation.\n\n\"We see futarchy as the holy grail of decentralizations where the founders of the project don't have control because they don't have tokens,\" Barrett said.\n\n(When asked if he would bid, Barrett said something to the effect of, \"Heck yea I am, are you crazy.\")\n\nThey plan to deploy mtnCapital on MetaDAO's recently greenlit futarchy fundraising launchpad.\n\nThe co-founders of MetaDAO did not respond to a request for comment.\n\nMtnCapital's governance system places more faith in traders' ability to predict optimal outcomes than in voters' ability to cast the wisest ballot.\n\nEmpowering markets over democracies may concern ballot box enjoyers, but it makes a lot of sense to the crypto-futurist engineers who flock to mtnDAO twice a year. Barrett and many other attendees burned much of the winter 2024 session trading decision markets of MetaDAO, futarchy's chief booster in the Solana community.\n\nBarrett sees futarchy as a solution to the \"broken\" governance rails that most supposedly decentralized crypto groups rely on. Token-weighted voting systems contend with voter apathy and insider influence, he said.\n\n\"The one thing crypto's found product-market fit with is trading, and with futarchy you've turned governance into an exchange,\" Barrett said.\n\nEdgar and Barrett are calling mtnCapital an investment fund, but in reality, the entity will be whatever traders make of it. Proposals will pass and fail based on the trading behaviors of people who speculate on the price of MTN token.\n\nMajor investors have shown an appetite for MetaDAO-style futarchy before. Colosseum, Paradigm, and Pantera have all sought access to its META token, cracking deals directly with the group and acquiring tokens on the open market, too.\n\nMtnCapital will run in parallel to mtnDAO, the founders said. The two entities will use the same social channels, and share branding, but investments that mtnDAO makes in attending startups are separate from mtnCapital's portfolio, and vice versa. Down the line mtnCapital could conceivably take over the conference, but for now they're focused on the decentralized investments track.\n\nMtnCapital's structure suggests that all its decisions will happen in the open. Barrett said he believes it will be able to participate in over-the-counter deals for tokens. That may mean mtnCapital misses pre-token, early stage startup rounds, which historically deliver better returns than post-launch tokens, but also often happen behind closed doors.\n\nBarrett isn't too worried about it, believing instead that mtnCapital's unique structure will prove to the investing world that traders are better than investment committees.\n\n\"You need to have a mechanism that excites people if you are going to have results,\" he said.",
+    "url": "https://www.coindesk.com/business/2025/03/07/mtndao-s-experimental-crypto-investment-fund-will-outperform-vcs-claims-founder",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Barrett",
+                "Edgar Pavlovsky"
+            ],
+            "positions": [
+                "co-founders",
+                "founder"
+            ],
+            "companies": [
+                "Colosseum",
+                "Paradigm",
+                "Pantera"
+            ],
+            "organizations": [
+                "MtnDAO",
+                "mtnCapital",
+                "MetaDAO",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "MTN",
+            "BTC",
+            "META",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes an experimental investment fund with claims it will 'outperform VCs' and shows institutional investor appetite for similar futarchy projects, indicating market confidence and innovation."
+    }
+}

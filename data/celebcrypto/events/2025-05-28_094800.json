@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Ordinals Can Now Be Bridged to Cardano Through BitVMX",
+    "summary": "The on-chain transaction between Bitcoin and Cardano was facilitated by BitVMX, an interoperability protocol built using the BitVM computing paradigm",
+    "time": "2025-05-28T09:48:00",
+    "author": "Jamie Crawley",
+    "content": "Cardano has continued to advance its credentials as a venue for Bitcoin Defi (BTCFi), facilitating a transfer of Ordinals to its mainnet.\n\nThe on-chain transaction between Bitcoin and Cardano was facilitated by BitVMX, an interoperability protocol built using the BitVM computing paradigm.\n\nThe transaction was unveiled by Input | Output (IO), the creator of the layer 1 Cardano, at the Bitcoin 2025 conference in Las Vegas on Tuesday.\n\nThe bridge represents a \"preview of what is to come,\" IO said in an emailed announcement. Its ultimate aim is a full integration between Bitcoin and Cardano, providing DeFi services for BTC users and unlocking huge amounts of liquidity from the value stored in bitcoin.\n\nTo this end, IO has developed the \"Cardinal\" protocol, a portmanteau of Cardano and Ordinals, which harnesses BitVMX to assign Bitcoin-native assets to addresses on Cardano.\n\nThe Ordinals protocol was introduced at the start of 2023, enabling the inscription of data onto individual satoshis (the smallest BTC denomination, equivalent to one 100 millionth of a bitcoin), this making them unique and traceable. In effect, this created a Bitcoin equivalent of non-fungible tokens (NFTs).\n\nRead More: Bitlayer Joins Forces With Antpool, F2Pool, and SpiderPool to Supercharge Bitcoin DeFi",
+    "url": "https://www.coindesk.com/tech/2025/05/23/bitcoin-ordinals-can-now-be-bridged-to-cardano-through-bitvmx",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Input | Output (IO)",
+                "Antpool",
+                "F2Pool",
+                "SpiderPool"
+            ],
+            "organizations": [
+                "Bitcoin 2025 conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Cardano"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technological advancement enabling Bitcoin DeFi services and unlocking huge amounts of liquidity, which indicates positive market development."
+    }
+}

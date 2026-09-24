@@ -1,0 +1,44 @@
+{
+    "title": "The SEC Resets Its Crypto Relationship",
+    "summary": "The SEC's Crypto Task Force held a roundtable Friday to air out the issues with how the crypto world interacts with securities laws.",
+    "time": "2025-03-22T12:30:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Securities and Exchange Commission is looking to reset its relationship with the crypto industry, even before a permanent chair is confirmed by Congress. The latest effort was Friday's roundtable, hosted at the SEC's headquarters in Washington, D.C. and featuring a dozen attorneys representing different views and positions within the crypto industry.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nThe SEC's reset began when Acting Chair Mark Uyeda launched a crypto task force and oversaw his agency withdraw Staff Accounting Bulletin 121, drop a number of ongoing lawsuits, pause a few more and publish multiple staff statements about how the agency might look at memecoins and proof-of-work mining.\n\nThe SEC is arguably the most important federal regulator in crypto at the moment. While its sister agency, the Commodity Futures Trading Commission, may be the regulator that might one day oversee crypto spot markets, right now it's the SEC that most companies in the sector look to for guidance on what, exactly, it is they can do.\n\nThe roundtable was split into two portions (three, if you count introductory remarks from the three commissioners): A roughly 90-minute moderated panel discussion, led by former SEC Commissioner and Paredes Strategies founder Troy Paredes, and a 90-minute town hall still moderated by Paredes but featuring questions from the general public.\n\nYou can read CoinDesk's coverage of the panel discussion at this link.\n\nThough the central question during the discussion was — as it has been for years — when and how exactly is a crypto or crypto transaction a security, panelists touched on everything from the role of crypto in boosting ransomware to how exactly companies should operate.\n\nChris Brummer, the CEO of Bluprynt and professor at Georgetown Law, opened up the discussion with his analysis of what the Howey Test actually means: We're basically saying when you have savings, there's an issue of investor protection. The common enterprise prong that we're all familiar with is really addressing a kind of providing problem.\"\n\n\"It really just goes to information asymmetries, and then the question of profits goes to investor psychology, greed and fear, the kinds of things that can distort decision-making,\" he said. \"And basically, when you have all those factors together, you have a mandated disclosure [rule].\"\n\nThe SEC's approach thus far has limited a number of crypto projects, Delphi Ventures General Counsel Sarah Brennan said. While many crypto projects are intended to have a broad initial distribution, \"the specter of the applications of securities laws\" means many projects act more like they'll go public than actually embrace the crypto aspects of their projects.\n\n\"We see more and more the token is the product … there's different ways that people are artificially supporting price and it's generally been, I'd say, sort of toxic to the market,\" she said.\n\nJohn Reed Stark, a former SEC attorney, said that the \"economic reality of the transaction\" is critical.\n\n\"However you want to look at it, the people buying crypto are not collectors,\" he said. \"We all know that they're investors, and the mission of the SEC is to protect investors.\"\n\nIt remains to be seen how the SEC's efforts will continue, but the agency is taking a more active role in publicly engaging with these questions and the industry seems to be responding. The SEC auditorium was about three-quarters full at times, to say nothing of anyone who tuned into the livestream.\n\nTuesday\n\nThursday\n\nFriday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!",
+    "url": "https://www.coindesk.com/policy/2025/03/21/the-sec-resets-its-crypto-relationship",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Uyeda",
+                "Troy Paredes",
+                "Chris Brummer",
+                "Sarah Brennan",
+                "John Reed Stark",
+                "Nikhilesh De"
+            ],
+            "positions": [
+                "Acting Chair",
+                "former SEC Commissioner",
+                "CEO",
+                "General Counsel",
+                "former SEC attorney",
+                "professor"
+            ],
+            "companies": [
+                "Paredes Strategies",
+                "Bluprynt",
+                "Delphi Ventures",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Crypto Task Force",
+                "Commodity Futures Trading Commission",
+                "Georgetown Law"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The SEC is engaging in dialogue and resetting its relationship with the crypto industry, but no clear positive or negative regulatory action is specified, indicating ongoing uncertainty."
+    }
+}

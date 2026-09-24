@@ -1,0 +1,47 @@
+{
+    "title": "Canary Capital Files to Launch ETF Tracking Cross-Chain Protocol Axelar",
+    "time": "2025-03-05T22:16:00",
+    "author": "Helene Braun",
+    "summary": "Axelar also announced the appointment of former Acting Comptroller Brian Brooks to its newly formed Institutional Advisory Board.",
+    "content": "Canary Capital, the digital asset-focused investment firm founded by former Valkyrie Funds co-founder Steven McClurg, is planning on launching an exchange-traded fund (ETF) tracking the price of Axelar (AXL).\n\nThe firm submitted an S-1 filing with the Securities and Exchange Commission (SEC) on Wednesday, kicking off the process to launch such a fund. The hedge fund has previously filed paperwork for several other ETFs. Some of these have already been acknowledged by the Commission and await approval.\n\n\"Axelar has one of the best dev teams in blockchain. Most viable protocols work with them on chain interoperability,\" said Steven McClurg, Chief Executive Officer at Canary Capital. \"There is no question that AXL will be a top 20 token by market capitalization as the market discovers them. This is why we took the risk.\"\n\nAXL is the native token of the Alexar Network, a cross-chain protocol that connects other blockchains, enabling decentralized, secure cross-chain transactions. Unlike many interoperability solutions that rely on a small set of validators, Axelar operates on a proof-of-stake consensus model, allowing anyone to participate in its network, Sergey Gorbunov, co-founder of Axelar protocol, said in an interview with CoinDesk.\n\nThe protocol, which has previously been integrated by J.P. Morgan’s Kinexys platform, Microsoft’s Azure marketplace as well as Uniswap and MetaMask, also announced the appointment of former Coinbase chief legal officer and Acting Comptroller of the Currency Brian Brooks to its newly formed Institutional Advisory Board.\n\n“Brian comes with a pretty deep understanding of how do you actually make sure blockchain is adopted by traditional finance,” said Gorbunov. “He understands what pain points these asset issuers have and he believes that decentralized interoperability is very essential to not introduce all of those issues in the process.”\n\nAccording to Gorbunov, stablecoins and tokenization are poised to be the next major trends for institutions in crypto, driven by regulatory developments and efficiency gains. A stablecoin bill expected in the coming months could open the door for more financial institutions to issue and integrate stablecoins, with firms like PayPal, BlackRock, and Robinhood already exploring their use for settlement to reduce costs.\n\nAXL currently trades at $0.36 and stands at a market cap of $340 million, according to CoinDesk data. The token reached an all-time high in March 2024 at $2.69 but has since dropped.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/03/04/canary-capital-files-to-launch-etf-tracking-cross-chain-protocol-axelar",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Steven McClurg",
+                "Sergey Gorbunov",
+                "Brian Brooks"
+            ],
+            "positions": [
+                "former Valkyrie Funds co-founder",
+                "Chief Executive Officer at Canary Capital",
+                "co-founder of Axelar protocol",
+                "former Coinbase chief legal officer",
+                "Acting Comptroller of the Currency"
+            ],
+            "companies": [
+                "Canary Capital",
+                "Valkyrie Funds",
+                "Securities and Exchange Commission (SEC)",
+                "CoinDesk",
+                "J.P. Morgan",
+                "Microsoft",
+                "Uniswap",
+                "MetaMask",
+                "Coinbase",
+                "PayPal",
+                "BlackRock",
+                "Robinhood"
+            ],
+            "organizations": [
+                "Institutional Advisory Board"
+            ]
+        },
+        "cryptocurrencies": [
+            "Axelar",
+            "AXL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption through ETF filing, positive executive appointments, and strong developer team endorsements that suggest market confidence and growth potential."
+    }
+}

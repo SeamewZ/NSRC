@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Fills Yet Another CME Futures Gap as BTC Price Dropped to $76,700",
+    "time": "2025-03-11T11:02:00",
+    "author": "James Van Straten",
+    "summary": "Another unfilled CME futures gap occurs between $84,200 and $85,900.",
+    "content": "Bitcoin's\nBTC\n$104,293.00\nprice on CME futures dropped to a low of around $76,700 on Monday, officially filling the CME futures gap that was created on Nov. 5, when President Trump won the U.S. election.\n\nAt the end of February, bitcoin\nBTC\n$104,293.00\nbriefly fell to approximately $78,500, partially filling the gap, as the lowest point of the gap was $77,400. However, since CME futures only dropped to around $78,500 at that time, the gap remained partially open. With Monday's decline to $76,700, the gap—ranging from $77,930 to $80,600—has now been fully closed.\n\nFor context, CME bitcoin futures trade 23 hours a day, from Sunday through Friday, whereas bitcoin spot markets trade 24/7. Gaps occur when there is a difference between the futures market closing price and the opening price for the next day due to the absence of trading activity during off-hours.\n\nCoinDesk research noted that out of the previous 80 CME futures gaps, all but one have eventually been filled. As for remaining gaps, one still exists between $84,200 and $85,900.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/bitcoin-fills-yet-another-cme-futures-gap-as-btc-price-dropped-to-usd76-700",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "CME",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin's price dropping to fill a CME futures gap, indicating price decline and market weakness."
+    }
+}

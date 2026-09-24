@@ -1,0 +1,30 @@
+{
+    "title": "Bitwise Launches ETF of Firms Holding Over 1K Bitcoin, Strategy Takes a 20% Weighting",
+    "time": "2025-03-11T13:55:00",
+    "author": "James Van Straten",
+    "summary": "New ETF tracks public companies holding at least 1,000 bitcoin.",
+    "content": "Bitwise Invest has launched the Bitwise Bitcoin Standard Corporations ETF (OWNB), an exchange-traded fund designed to track publicly traded companies that hold at least 1,000 bitcoin\nBTC\n$104,373.58\n.\n\nThe index follows specific rules: companies must hold a minimum of 1,000 BTC, with holdings weighted based on the amount of bitcoin owned. The largest holding is capped at 20%, while companies with less than 33% of their assets in bitcoin are weighted at 1.5%. The index rebalances every quarter.\n\nAccording to Bitwise, publicly traded companies collectively held 591,817 BTC as of the end of 2024. The ETF, which will trade on NYSE Arca, has an expense ratio of 0.85%.\n\nBitwise has identified 70 public companies that currently hold bitcoin on their balance sheets.\n\nThe fund's top three holdings of the ETF include Strategy (20.87%), MARA Holdings (12.12%), and CleanSpark (6.26%).\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/bitwise-launches-bitcoin-standard-corporations-etf-strategy-takes-a-20-weighting",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitwise Invest",
+                "Strategy",
+                "MARA Holdings",
+                "CleanSpark"
+            ],
+            "organizations": [
+                "NYSE Arca",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a new Bitcoin-focused ETF tracking companies with significant bitcoin holdings indicates growing institutional adoption and market confidence."
+    }
+}

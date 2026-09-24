@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Drops 3% Over Weekend as All Assets Trade Lower",
+    "time": "2025-03-31T13:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Hedera (HBAR) fell 10.8% and Sui (SUI) declined 10.2%, leading the index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2496.42, down 3.0% (-78.53) since 4 p.m. ET on Friday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BTC (-1.4%) and BCH (-1.9%).\n\nLaggards: HBAR (-10.8%) and SUI (-10.2%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/31/coindesk-20-performance-update-index-drops-3-over-weekend-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "HBAR",
+            "SUI",
+            "BTC",
+            "BCH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index dropped 3% with all 20 assets trading lower, led by significant declines in HBAR (-10.8%) and SUI (-10.2%)."
+    }
+}

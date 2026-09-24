@@ -1,0 +1,40 @@
+{
+    "title": "True Markets Raises $11M in Series A, Launches Mobile-First DeFi Trading App on Solana",
+    "time": "2025-05-20T14:00:00",
+    "author": "Will Canny",
+    "summary": "The funding round was co-led by Accomplice and RRE Ventures, with participation from Reciprocal Ventures, Variant Fund and PayPal Ventures.",
+    "content": "True Markets, a new decentralized finance (DeFi) trading platform focused on stablecoin-native execution, has launched its mobile app on Solana and closed an $11 million Series A, bringing total funding to $20 million, the company said in a press release Tuesday.\n\nThe funding round was co-led by Accomplice and RRE Ventures, with participation from Reciprocal Ventures, Variant Fund, and PayPal Ventures.\n\nSeed investors Paxos Ventures and the Solana Foundation, continue to support the firm, True Markets said.\n\nFounded by Coinbase (COIN) and Circle veterans Vishal Gupta and Patrick McCreary, True Markets aims to deliver a non-custodial, mobile-first DeFi trading experience for retail users, prioritizing speed, simplicity, and transparency.\n\nThe app enables stablecoin-powered token trading on Solana, with gasless execution, smart order routing, and embedded key management via Turnkey, all without users surrendering custody of funds, True Markets said.\n\n“Retail traders have been stuck with clunky workflows, unclear pricing, and fragmented liquidity,\" said Vishal Gupta, CEO of True Markets, in the release.\n\n\"Our goal is to deliver a fairer and more transparent experience that makes asset discovery simple, shows real-time market momentum, and feels as intuitive as the best apps on your phone,\" Gupta added.\n\nBacked by infrastructure partners Turnkey and Definitive, the app features real-time market sparklines, automated execution across decentralized venues, and hosted wallets that support immediate funding and trading within a non-custodial framework.\n\nTrue Markets said it plans to expand into both CeFi and DeFi markets, with future integrations including TrueX, a centralized exchange designed for institutional liquidity and qualified custody.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/05/20/true-markets-raises-11m-in-series-a-launches-mobile-first-defi-trading-app-on-solana",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vishal Gupta",
+                "Patrick McCreary"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "True Markets",
+                "Coinbase",
+                "Circle",
+                "Turnkey",
+                "Definitive",
+                "PayPal Ventures"
+            ],
+            "organizations": [
+                "Accomplice",
+                "RRE Ventures",
+                "Reciprocal Ventures",
+                "Variant Fund",
+                "Paxos Ventures",
+                "Solana Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a successful $11 million funding round and launch of a new DeFi trading platform on Solana, indicating growing investment and development in the cryptocurrency ecosystem."
+    }
+}

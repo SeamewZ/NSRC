@@ -1,0 +1,25 @@
+{
+    "title": "European Central Bank to Work on Settlement System for Distributed-Ledger Transactions",
+    "summary": "The two-stage process will start with a link to the existing Target system.",
+    "time": "2025-02-20T17:10:00",
+    "author": "Camomile Shumba",
+    "content": "The European Central Bank (ECB) said it is looking to develop a way of settling distributed-ledger technology (DLT) transactions with fiat currency as it expands its work on the key feature that underpins the blockchain and cryptocurrencies.\n\nThe bank plans a two-stage approach to using the technology, which is a decentralized database that is maintained and updated independently by individual participants in a large network. Firstly it will develop a system linked to its existing Target settlement system. Target ensures \"the free flow of cash, securities and collateral across Europe,\" it said.\n\n“This is an important contribution to enhancing European financial market efficiency through innovation,\" Executive Board member Piero Cipollone, who oversees the initiative, said in a Thursday statement.\n\nThe bank will also look for a long-term, more integrated way of settling DLT-based transitions in fiat money, which will include foreign exchange settlement.\n\nThe ECB has been exploring digital currency technology since 2023. The initiative will build on exploratory work which invited financial market stakeholders to explore \"wholesale financial transactions recorded on distributed ledger technology platforms to be settled in central bank money.\"\n\nA timeline on the bank's plans will be made public later.",
+    "url": "https://www.coindesk.com/policy/2025/02/20/european-central-bank-to-work-on-settlement-system-for-distributed-ledger-transactions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Piero Cipollone"
+            ],
+            "positions": [
+                "Executive Board member"
+            ],
+            "companies": [],
+            "organizations": [
+                "European Central Bank (ECB)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The ECB developing a settlement system for distributed-ledger transactions represents institutional adoption and validation of blockchain technology, which typically boosts market confidence."
+    }
+}

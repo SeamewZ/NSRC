@@ -1,0 +1,56 @@
+{
+    "title": "Weekly Recap: Regulatory Wins, Market Doldrums",
+    "summary": "PLUS: World Liberty Financial’s token sale, Coinbase in India, Ripple in Dubai",
+    "time": "2025-03-14T16:56:00",
+    "author": "Benjamin Schiller",
+    "content": "It was a week of red in crypto and traditional markets, with bitcoin plummeting below $80K on March 10 and ETH falling to $1,821 the same day. So much for the “Trump Bump.” With the new administration on a tariff-tear this week, the markets were spooked about a recession and crypto was not immune.\n\nStill, progress in digital assets was all around, and our reporters reported it all with alacrity. BlackRock’s bellwether BUIDL fund topped $1 billion and tokenized treasuries hit $4.2 billion, Kris Sandor reported. MoonPay, a payments aggregator, made an important stablecoin acquisition, Will Canny wrote. Ripple won a payments license in the UAE (Shaurya Malwa). OKX won a license to operate in Europe, Camomile Shumba reported. Coinbase announced plans to offer 24/7 futures trading in the U.S., Helene Braun reported.\n\nThere was also big regulatory news. The U.S. House voted to overturn the IRS’s controversial “broker rule” in a big win for DeFi operators. And a Senate committee voted to send the GENIUS stablecoin bill to the floor, ahead of probable approval there.\n\nThe Trump Family continued to be front-and-center in the crypto news. World Liberty Financial completed a $590 million token sale (for accredited investors for now), with an assist from adviser/investor and TRON founder Justin Sun. The Wall Street Journal reported that a Trump family representative also explored buying a stake in Binance.US, through World Liberty Financial.\n\nFrom our Asia team, Sam Reynolds examined how the latest draft of the GENIUS act aims to split stablecoin regulation between state and federal authorities.\n\nParikshit Mishra reported on Coinbase returning to India after a two-year hiatus, setting off discussion about the future of crypto in India.\n\nShaurya Malwa continued his excellent reporting on XRP, pushing out multiple reports on Ripple. Malwa also reported on the implications of over-leveraging in the crypto market, as Hyperliquid lost $4 million due to a massive leveraged trade in ETH.\n\nMarket maven, Omkar Godbole, pushed out a timely piece on bitcoin's bullish signal ahead of the U.S. CPI report, and was also early to spot how Eric Trump's tweet on crypto were setting up short-term traders for disappointment.\n\nMeanwhile, Tom Carreras had an excellent feature on how Bitdeer, a Singapore-based miner, hopes to shake up the mining machine market.\n\nHopefully next week brings better news in the markets. But, either way, our reporters will be there to cover what matters.",
+    "url": "https://www.coindesk.com/news-analysis/2025/03/14/weekly-recap-regulatory-wins-market-doldrums",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kris Sandor",
+                "Will Canny",
+                "Shaurya Malwa",
+                "Camomile Shumba",
+                "Helene Braun",
+                "Justin Sun",
+                "Sam Reynolds",
+                "Parikshit Mishra",
+                "Omkar Godbole",
+                "Eric Trump",
+                "Tom Carreras"
+            ],
+            "positions": [
+                "adviser/investor",
+                "TRON founder",
+                "Trump family representative",
+                "Market maven"
+            ],
+            "companies": [
+                "BlackRock",
+                "MoonPay",
+                "Ripple",
+                "OKX",
+                "Coinbase",
+                "World Liberty Financial",
+                "TRON",
+                "Binance.US",
+                "Hyperliquid",
+                "Bitdeer"
+            ],
+            "organizations": [
+                "U.S. House",
+                "IRS",
+                "Senate committee",
+                "Wall Street Journal"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin plummeting below $80K and ETH falling to $1,821, with markets spooked about a recession and crypto not being immune."
+    }
+}

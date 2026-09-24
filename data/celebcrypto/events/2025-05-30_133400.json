@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: NEAR Drops 5.4% as Almost All Assets Trade Lower",
+    "time": "2025-05-30T13:34:00",
+    "author": "CoinDesk Indices",
+    "summary": "Polkadot (DOT) was also among the underperformers, falling 5.3% from Thursday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3130.42, down 1.7% (-54.58) since 4 p.m. ET on Thursday.\n\nOne of 20 assets are trading higher.\n\nLeaders: BCH (+0.5%) and BTC (-0.2%).\n\nLaggards: NEAR (-5.4%) and DOT (-5.3%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/30/coindesk-20-performance-update-near-drops-5-4-as-almost-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "DOT",
+            "BCH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that almost all assets are trading lower with the CoinDesk 20 index down 1.7% and specific cryptocurrencies like NEAR and DOT dropping over 5%."
+    }
+}

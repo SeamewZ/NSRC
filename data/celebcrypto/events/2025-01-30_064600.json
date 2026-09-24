@@ -1,0 +1,42 @@
+{
+    "title": "Polymarket Still Skeptical of U.S Bitcoin Reserve Despite David Sacks' Assurance",
+    "time": "2025-01-30T06:46:00",
+    "author": "Sam Reynolds",
+    "summary": "Trump's crypto czar David Sacks confirmed on Fox News that a national BTC reserve is being studied, but the market isn't buying it",
+    "content": "Polymarket only sees a 16% chance that the Donald Trump will order the creation of a strategic bitcoin\nBTC\n$103,842.06\nreserve in the first 100 days of its administration, despite assurances from crypto czar David Sacks that there's an effort underway to explore the idea.\n\n\"President Trump has asked us to study that issue, so we are not ready to comment on it yet. But it's one of the things our working groups are going to look at,\" Sacks said in a recent appearance on Fox.\n\nSenator Cynthia Lummis, a Wyoming Republican who is known for her bitcoin-friendly policy stance, has submitted a bill proposing the creation of a reserve, but this is a separate measure from the White House's efforts.\n\nThe bill proposes establishing a \"Bitcoin Purchase Program\" of up to 200,000 BTC a year over a five-year period, and will be partially funded by revaluing Federal Reserve's gold, CoinDesk previously reported. Right now the bill is before the Committee on Banking, Housing, and Urban Affairs.\n\nAmong the supporters of such a move is MicroStrategy's (MSTR) Michael Saylor, who said the plan will protect the dollar.\n\n“The best way to protect the dollar is make sure you retire the debt and become rich,\" said the MicroStrategy (MSTR) executive chairman during a November conference. \"The next best way to protect the dollar is to make sure that if anybody ever considers a different capital asset other than the treasury bill, you own it.\"\n\nMeanwhile, the State of Texas recently said that it is working on its own strategic BTC reserve. Polymarket bettors are giving a 53% chance that a bill greenlighting the creation of such a reserve in 2025.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/polymarket-bettors-still-skeptical-of-u-s-bitcoin-reserve-despite-david-sacks-assurance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Sacks",
+                "Donald Trump",
+                "Cynthia Lummis",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "crypto czar",
+                "President",
+                "Senator",
+                "executive chairman"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "MSTR",
+                "Polymarket",
+                "CoinDesk",
+                "Fox News"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Committee on Banking, Housing, and Urban Affairs",
+                "State of Texas"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news discusses serious government and state-level consideration of establishing strategic Bitcoin reserves, which indicates institutional adoption and positive policy developments for cryptocurrency."
+    }
+}

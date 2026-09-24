@@ -1,0 +1,32 @@
+{
+    "title": "Coinbase Earnings Pain Likely as Retail Activity Slumps, Wall Street Analysts Warn",
+    "time": "2025-05-07T15:48:00",
+    "author": "Helene Braun",
+    "summary": "Barclays, JPMorgan, Compass Point and Oppenheimer all cut their first-quarter forecasts last month, citing weaker crypto trading.",
+    "content": "Coinbase (COIN) is heading into its first-quarter earnings report on shaky ground, with four Wall Street analysts expecting a miss as the retail trading lull is likely to pressure the crypto exchange’s most profitable business lines.\n\nThe company is scheduled to report first-quarter results on Thursday post-market. The analysts are projecting earnings per share (EPS) falling to $1.93 from $2.26 in the fourth quarter and revenue dropping to $2.1 billion from $2.27 billion, according to FactSet data.\n\nIn the year-earlier first quarter, it reported EPS of $4.40 and revenue of $1.2 billion. Trading volume is expected to land around the $403.8 billion mark vs. $439 billion in the fourth quarter.\n\nJ.P. Morgan cut its EPS estimate to $1.59, citing a 10% drop in Coinbase’s trading volume and a 17% slide in total crypto market cap during the quarter. Adjusted for crypto asset losses, they see EPS at $2.39, supported in part by controlled expenses and steady subscription revenue.\n\nBarclays and Compass Point see deeper trouble. Barclays slashed its revenue and EBITDA forecasts, saying the market has cooled sharply since January despite stablecoin growth. It pegs retail volumes at $69 billion, significantly below the Street's mean estimate of $79.8 billion.\n\nCompass Point, more bearish still, downgraded the stock to sell, projecting transaction revenue of $1.24 billion, 7% below the consensus. It argues that Coinbase is losing retail share to decentralized exchanges (DEXs) and warns of further pain in the second quarter.\n\nPopular trading platform Robinhood, last week, reported a 13% drop in transaction-based revenue from the fourth quarter as markets cooled in the first three months of the year.\n\nThe one area of optimism: stablecoins.\n\nCoinbase’s revenue from USDC surged as the stablecoin's market cap climbed 42% during the quarter, helping bolster subscription revenue. Barclays estimates $304 million in first-quarter USDC-related revenue, and even the skeptics at Compass Point acknowledge this helped offset falling staking income due to the slide in ether’s price.\n\nOppenheimer cut its volume forecast to $380 billion from $440 billion, but noted that Coinbase gained U.S. spot trading market share. That’s a positive sign, but one that may not matter if retail traders keep sitting on their hands.\n\nThere’s also growing concern about longer-term competitive pressures. Analysts noted that decentralized exchanges — especially those operating on faster and cheaper blockchains like Solana and Coinbase’s own Base — are drawing in retail users looking to trade a wider array of tokens. While Coinbase’s U.S. market share is up, its dominance as a centralized, regulated exchange may not be enough to fend off this shift.\n\nLooking ahead, analysts caution that a near-term rebound in trading may be slow to materialize, especially with retail traders often hesitant to re-enter the market until they recoup earlier losses.\n\nShares of Coinbase are down 23% year-to-date, trading at $198.06, while bitcoin is up 3.8% since the beginning of the year at $97,023.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/05/07/coinbase-earnings-pain-likely-as-retail-activity-slumps-wall-street-analysts-warn",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Barclays",
+                "JPMorgan",
+                "Compass Point",
+                "Oppenheimer",
+                "FactSet",
+                "Robinhood"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "ether",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes declining trading volumes, falling revenue expectations, retail trading lulls, and analyst downgrades for Coinbase, indicating negative pressure on cryptocurrency market activity."
+    }
+}

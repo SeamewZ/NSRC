@@ -1,0 +1,44 @@
+{
+    "title": "XRP Zooms 10% as Garlinghouse Says SEC Is Dropping Case Against Ripple",
+    "time": "2025-03-19T13:26:00",
+    "author": "Krisztian Sandor",
+    "summary": "Earlier reports said that the long-standing legal battle between Ripple and the agency is nearing its end.",
+    "content": "XRP jumped 10% on Wednesday during U.S. morning hours as Ripple CEO Brad Garlinghouse said the U.S. Securities and Exchange Commission (SEC) is set to drop its appeal against Ripple, the company closely adjacent to XRP tokens\n\n\"This is it – the moment we’ve been waiting for. The SEC will drop its appeal,\" Garlinghouse posted on X. \"A resounding victory for Ripple, for crypto, every way you look at it.\"\n\nReports last week claimed that the long-standing legal battle between Ripple and the agency was nearing its end. The SEC filed a lawsuit against Ripple in 2020 — during President Donald Trump's first term — alleging that the company raised $1.3 billion via unregistered securities sales of XRP tokens.\n\nU.S. Judge Analisa Torres in 2023 ruled that while Ripple violated federal securities law with institutional sales, the programmatic sales of tokens to retail exchanges did not violate the laws, a ruling that many viewed as a partial victory for Ripple. The judge handed a $125 million fine against Ripple last August. The SEC filed a \"notice of appeal\" following the decision.\n\nThe SEC's lawsuit against the crypto company, which Garlinghouse described as the “first major shot fired in the war on crypto” had resulted in $15 billion in losses for holders of XRP. Previous cases by the SEC had ended quickly, making this lawsuit against Ripple a prominent action against the crypto industry.\n\nAfter the departure of former SEC Chair Gary Gensler, the Commission has dropped several cases, including its investigation into Coinbase. While Trump has nominated Paul Atkins to serve as the next chair, the Senate has not yet scheduled a hearing for his confirmation.\n\nRipple and its executives donated heavily during the 2024 election, including over $70 million to the Congress-focused Fairshake super PAC and over $5 million to Trump's inaugural fund.\n\nThe end of this lawsuit also increases chances for an XRP exchange-traded fund (ETF) to be approved by the SEC. Several potential issuers, including Grayscale, Bitwise and Franklin Templeton, have filed for such a fund in previous months with ETF experts at Bloomberg previously placing odds for an approval at 65-75% for the end of this year. XRP was among the assets Trump said would be part of a strategic U.S. crypto reserve.\n\nThe SEC declined to comment on Garlinghouse's statement, though in other crypto cases, these matters were agreed to at a staff level before eventually being approved by a vote of the commission.\n\nJesse Hamilton contributed reporting.\n\nUPDATE (March 19, 2025, 13:42 UTC): Adds background and details on the legal battle between SEC and Ripple.\n\nUPDATE (March 19, 13:48 UTC): Adds details on a potential XRP ETF approval.\n\nUPDATE (March 19, 14:20 UTC): Adds detail about past actions and SEC declining to comment.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/xrp-zooms-10-higher-as-garlinghouse-says-sec-is-dropping-case-against-ripple",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brad Garlinghouse",
+                "Donald Trump",
+                "Analisa Torres",
+                "Gary Gensler",
+                "Paul Atkins",
+                "Jesse Hamilton"
+            ],
+            "positions": [
+                "CEO",
+                "President",
+                "Judge",
+                "SEC Chair"
+            ],
+            "companies": [
+                "Ripple",
+                "Coinbase",
+                "Grayscale",
+                "Bitwise",
+                "Franklin Templeton"
+            ],
+            "organizations": [
+                "SEC",
+                "Fairshake super PAC",
+                "Senate",
+                "Bloomberg"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "XRP jumped 10% following news that the SEC is dropping its appeal against Ripple, which was described as a 'resounding victory for Ripple, for crypto' and increases chances for XRP ETF approval."
+    }
+}

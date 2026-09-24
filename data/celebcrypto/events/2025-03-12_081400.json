@@ -1,0 +1,29 @@
+{
+    "title": "Franklin Templeton Joins XRP ETF Rush, Files Preliminary Application With SEC",
+    "time": "2025-03-12T08:14:00",
+    "author": "Shaurya Malwa",
+    "summary": "The filing’s preliminary, so the SEC has up to 240 days — potentially late 2025 — to approve or deny it.",
+    "content": "Investment giant Franklin Templeton is joining a growing fray of financial asset providers hoping to offer an XRP exchange-traded fund (ETF) to the general public.\n\nOn Tuesday, the company filed for a Franklin XRP ETF, aiming to track the spot price of XRP minus fees, where assets are held via Coinbase Custody.\n\nShares will trade on the Cboe BZX Exchange, with authorized participants creating/redeeming them in blocks using cash, converted to XRP via a third-party. Shareholders won’t benefit from XRP Ledger forks or airdrops.\n\nThe filing's preliminary, so the SEC has up to 240 days — potentially late 2025 — to approve or deny it. Franklin joins Bitwise, 21Shares, and others in the XRP ETF race, betting on a crypto-friendly shift.\n\nXRP is up 4.2% in the past 24 hours, in line with a broader market recovery.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/franklin-templeton-joins-xrp-etf-rush-files-preliminary-application-with-sec",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Franklin Templeton",
+                "Coinbase Custody",
+                "Bitwise",
+                "21Shares"
+            ],
+            "organizations": [
+                "SEC",
+                "Cboe BZX Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Franklin Templeton joining the XRP ETF race and mentions XRP is up 4.2% with a broader market recovery, indicating positive market momentum."
+    }
+}

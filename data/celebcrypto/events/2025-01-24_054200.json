@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Steady Near $104K After Bank of Japan Delivers Hawkish Rate Hike",
+    "time": "2025-01-24T05:42:00",
+    "author": "Omkar Godbole",
+    "summary": "Risk assets, including BTC, held steady while the Japanese yen rose after the BOJ hiked rates to the highest in 17 years.",
+    "content": "Bitcoin\nBTC\n$104,196.21\nheld steady during Friday's Asian hours after Bank of Japan (BOJ) lifted the benchmark borrowing cost to the highest in 17 years while raising inflation forecasts.\n\n\"If the outlook presented in the January Outlook Report will be realized, the Bank will accordingly continue to raise the policy interest rate and adjust the degree of monetary accommodation,\" the policy statement said, citing positive outlook on wages and maintaining guidance to keep raising rates, according to ForexLive.\n\nThe anti-risk Japanese yen rose over 0.6% to 155.12 against the U.S. dollar following the rate decision. Still, risk assets remained resilient. Bitcoin showed no signs of stress, trading little changed on the day above $104,000. The futures tied to the S&P 500 also traded flat.\n\nThis resilience in risk assets suggests that market attention is increasingly centered on potential policy developments under Donald Trump's presidency. In comparison, the Bank of Japan's rate hike in late July had previously shaken risk assets, including cryptocurrencies.\n\nOn Thursday, President Trump signed an executive order to ban digital dollar and promote crypto and AI innovation in the U.S. Meanwhile, the U.S. data released recently showed \"all tenant rent\" index, which leads shelter inflation in the CPI, rose at a slower pace last quarter. That has raised hopes that the Fed will walk back on its hawkish December rate forecasts.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/bitcoin-steady-near-usd104k-after-bank-of-japan-delivers-a-hawkish-rate-hike",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "Bank of Japan",
+                "BOJ",
+                "Fed",
+                "ForexLive"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Bitcoin held steady with no signs of stress and traded little changed despite the Bank of Japan's rate hike, showing market resilience."
+    }
+}

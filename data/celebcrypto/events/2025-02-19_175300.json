@@ -1,0 +1,42 @@
+{
+    "title": "Crypto Industry Asks Congress to Scrap IRS's DeFi Broker Rule",
+    "summary": "In what may be a big test of the crypto sector's new influence over a markedly friendlier U.S. Congress, it's asking for the reversal of an incoming tax policy.",
+    "time": "2025-02-19T17:53:00",
+    "author": "Jesse Hamilton",
+    "content": "Nearly every big name in the crypto industry has signed onto a letter calling for Congress to eliminate a U.S. tax policy they say could jeopardize decentralized finance (DeFi) technology by shoehorning much of that space into the field of brokers subject to data collecting and reporting.\n\nThe Internal Revenue Service — the U.S. Treasury Department's tax arm — pushed through a key digital assets broker rule between Christmas and New Year's, just days before President Donald Trump's administration was set to arrive. It was meant to institute similar information-reporting demands on DeFi brokers as would be faced by securities brokers and exchanges.\n\nRecently approved rules can be erased under the Congressional Review Act, and Senator Ted Cruz, the Texas Republican, introduced a resolution last week that would do just that. The unified industry letter on Wednesday — led by the Blockchain Association and joined by Coinbase, a16z, Paradigm, Kraken, Uniswap, Anchorage Digital and dozens of others — asks the rest of Congress to embrace Cruz's measure.\n\n\"The DeFi broker rule, finalized in the waning days of the Biden administration, represents regulatory overreach that fundamentally misunderstands the technology it attempts to regulate and ignores Congress’s intent,\" according to the letter, sent to the leadership in both chambers of Congress. Using Congress's power to reverse federal agency regulations offers \"a clear and definitive path to rolling back this damaging rule before it can take effect.\"\n\nThe businesses collectively argued that the rule unfairly targets U.S. firms with rules that foreign competitors wouldn't have to follow when servicing U.S. customers.\n\n\"This unique burden on American companies alone could cripple DeFi innovation in this country altogether,\" they said.\n\nThe CRA can be a powerful but sometimes blunt tool that spiked in popularity during President Donald Trump's first term. Where it's blunt is in its secondary effect: Any regulatory topic reversed in this way can never be reintroduced in any similar fashion, potentially making it difficult to apply friendlier regulations in the same area.\n\nWhen Congress sought to use it to repeal the Securities and Exchange Commission's crypto accounting policy, Staff Accounting Bulletin No. 121, the minority who opposed the effort argued that it would hamstring future SEC efforts to address digital assets accounting. While both chambers did approve that CRA effort, then-President Joe Biden vetoed the attempt, leaving Trump's interim SEC chief, Mark Uyeda, to move recently to get the same thing accomplished internally.\n\nA CRA resolution needs majority approval in both Chambers of Congress before it can be sent to President Trump for a potential sign-off. After the 2024 elections, many more pro-crypto lawmakers are walking the halls on Capitol Hill, though congressional attention is a hot commodity, and other pressing matters such as the federal budget are looming.\n\nBeyond the letter, other crypto organizations are also weighing in. A spokesperson from the DeFi Education Fund said it's \"thrilled\" to see momentum building against the \"unworkable, unconstitutional\" rule that the group is committed to ensuring doesn't get implemented.\n\nRead More: U.S. Treasury Issues Crypto Tax Regime For 2025, Delays Rules for Non-Custodians",
+    "url": "https://www.coindesk.com/policy/2025/02/19/crypto-industry-asks-congress-to-scrap-irs-s-defi-broker-rule",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ted Cruz",
+                "Donald Trump",
+                "Joe Biden",
+                "Mark Uyeda"
+            ],
+            "positions": [
+                "Senator",
+                "President",
+                "SEC chief"
+            ],
+            "companies": [
+                "Coinbase",
+                "a16z",
+                "Paradigm",
+                "Kraken",
+                "Uniswap",
+                "Anchorage Digital"
+            ],
+            "organizations": [
+                "Congress",
+                "IRS",
+                "U.S. Treasury Department",
+                "Blockchain Association",
+                "Securities and Exchange Commission",
+                "DeFi Education Fund"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The crypto industry's unified effort to eliminate restrictive tax regulations and the presence of more pro-crypto lawmakers in Congress suggests potential regulatory relief that would benefit the market."
+    }
+}

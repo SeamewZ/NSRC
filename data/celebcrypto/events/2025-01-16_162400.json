@@ -1,0 +1,38 @@
+{
+    "title": "RampMeDaddy Turns Telegram Into Your Memecoin Wallet",
+    "time": "2025-01-16T16:24:00",
+    "author": "Sunny Chen",
+    "summary": "Co-founders Andrey Chabanov and Trevor Hoffman are looking to make crypto transfers as easy as sending a text message.",
+    "content": "In the crowded world of crypto startups, standing out often requires a dash of audacity. Enter RampMeDaddy, a name that echoes the bold branding of domain registrar GoDaddy, while promising something entirely different: seamless crypto transactions via Telegram.\n\nWhat began as a hackathon project at Consensus 2024 has evolved into the first Telegram-native memecoin wallet, aiming to eventually make cryptocurrency transfers as simple as sending a text message (if you’d like to apply for the EasyA Hackathon at Consensus Hong Kong 2025, please go here).\n\nCo-founders Andrey Chabanov and Trevor Hoffman aren't newcomers to the digital assets space. The duo previously worked as executives at iTrust Capital, a crypto IRA provider that they helped scale into a $1.3 billion company. RampMeDaddy, however, represents a dramatic shift in the type of users served. Moving from cautious retirement planners to the volatile world of memecoin traders could well test the duo’s expertise in risk management and user protection.\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\nTheir solution leverages Telegram's massive global user base — over one billion strong — that is particularly crypto-savvy. According to Hoffman, approximately 84% of crypto users maintain active Telegram accounts, making it an ideal launchpad for their peer-to-peer payment solution. The wallet enables users to buy, sell and trade memecoins while facilitating cross-border transactions using USDC on the Stellar blockchain.\n\n\"When you leave the U.S., payments become much more complex,\" explains Chabanov. \"Through Stellar anchors, we can facilitate on- and off-ramping in over 100 countries, making payments truly borderless.\" The team chose Stellar for its speed, low transaction costs and extensive anchor network, all of which align with their mission to democratize finance.\n\nSecurity remains paramount, with the wallet incorporating biometric authentication and local key storage. Users can access their funds through Face ID or fingerprint verification, eliminating the need for seed phrase management. In case of device loss, a Web2-style recovery process enables wallet restoration via email verification.\n\nSince winning the hackathon, RampMeDaddy has secured partnerships with the Stellar Foundation and Draper U Ventures, expanding their initial vision beyond simple crypto on-ramping. The seven-person team, which includes a former BNY Mellon compliance executive, is preparing to launch its wallet in January alongside a Telegram mini-game to drive user awareness.\n\nLooking ahead, Chabanov and Hoffman envision RampMeDaddy becoming the leading digital wallet for global, borderless payments. \"In five to ten years, we aim to be a one-stop shop for digital identity and payments, all within Telegram and beyond,\" Chabanov said. The team also plans to expand horizontally by integrating with multiple chains and DEXs, giving users early access to memecoins while maintaining their core focus on simplified peer-to-peer transactions.\n\n\"When you're far from home, cash is still king. But in our world, Daddy's got a better way to pay,\" says Chabanov. With Telegram's billion-plus users and crypto's borderless promise, RampMeDaddy's irreverent approach to traditional fintech might just be crazy enough to work.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/16/rampmedaddy-turns-telegram-into-your-memecoin-wallet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrey Chabanov",
+                "Trevor Hoffman"
+            ],
+            "positions": [
+                "co-founders",
+                "executives",
+                "former BNY Mellon compliance executive"
+            ],
+            "companies": [
+                "RampMeDaddy",
+                "iTrust Capital",
+                "GoDaddy",
+                "BNY Mellon",
+                "Draper U Ventures"
+            ],
+            "organizations": [
+                "Stellar Foundation",
+                "Consensus Hong Kong",
+                "EasyA Hackathon"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a new wallet solution that aims to make crypto transfers easier and more accessible to Telegram's billion-plus users, which could increase adoption and usage."
+    }
+}

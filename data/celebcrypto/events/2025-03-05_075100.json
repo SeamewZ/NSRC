@@ -1,0 +1,28 @@
+{
+    "title": "AAVE Jumps 21% as Aave DAO Reveals its ‘Most Important’ Proposal",
+    "time": "2025-03-05T07:51:00",
+    "author": "Shaurya Malwa",
+    "summary": "Aave’s cash pile has ballooned by 115% to $115 million since mid-2024, with the platform’s GHO stablecoin hitting a $200 million supply and reporting strong revenues.",
+    "content": "Aave DAO, the autonomous organization that supports the lending and borrowing platform, proposed a major plan on Tuesday detailing steps to accrue value for the AAVE token and reward users.\n\nAAVE tokens are up 21% in the past 24 hours, beating a 3.5% bump in the broader market tracked by the broader CoinDesk 20 (CD20), as a successful passage of the proposed changes could bump the fundamentals of holding aave tokens.\n\nAfter half a decade of hard work, with the ACI, we're proud to present the updated Aavenomics proposal to the Aave DAO.\n\nWe consider it the most important proposal in our history, feel free to have a read and provide feedback.\n\nJust Use Aave.https://t.co/nBhr5Q6hQB\n\nThe so-termed “Aavenomics update” was initially green-lit in August 2024. Aave’s cash pile has ballooned by 115% to $115 million since mid-2024, with the platform’s GHO stablecoin hitting a $200 million supply and reporting strong revenues.\n\nAnd Aave wants to give back some of those figures to users. A key proposed point is to increase profit sharing for people who stake their AAVE tokens to support the system.\n\nNext is Anti-GHO, a special token that can’t be traded but can be used in two ways: burn it to wipe out GHO debt (like paying off a loan for free) or turn it into staked GHO (StkGHO) for extra rewards. Anti-GHO will come from half of GHO’s revenue, which stands at $6 million a year based on GHO’s $12 million annual haul.\n\nThe DAO proposes a “buy and distribute” program that aims to deploy $1 million a week to buy AAVE tokens from the open market, aiming to keep its value steady and reward users long-term. The buybacks can begin immediately and could grow in six months.\n\nOn the technical side, the DAO proposes “Umbrella,” a self-protection system that shields users from losses if the market crashes.\n\n“Aave will be the only protocol able to protect users from bad debt up to billions, as competitors have essentially given up on protecting their users,” the proposal read. “This unique advantage will make Aave even more attractive, especially for institutions concerned with on-chain risks.\n\nCommunity feedback is open on the proposal as of Wednesday morning, and a formal on-chain proposal will be floated in the coming weeks.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/aave-jumps-21-as-aave-dao-reveals-its-most-important-proposal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Aave DAO",
+                "ACI",
+                "CoinDesk 20 (CD20)"
+            ]
+        },
+        "cryptocurrencies": [
+            "AAVE",
+            "GHO",
+            "StkGHO",
+            "Anti-GHO"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes AAVE token price increasing 21%, beating broader market gains, and outlines multiple value-accrual proposals including profit sharing, buybacks, and user protection systems that strengthen the protocol's fundamentals."
+    }
+}

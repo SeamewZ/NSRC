@@ -1,0 +1,47 @@
+{
+    "title": "Why Litecoin Might Be the Next Crypto to Get Its ETF",
+    "time": "2025-01-16T15:12:00",
+    "author": "Tom Carreras",
+    "summary": "Canary Funds’ litecoin ETF filings were recently amended, potentially indicating that the SEC is engaging with the filing.",
+    "content": "With U.S. President-elect Donald Trump only four days away from inauguration and new leadership coming to the Securities and Exchange Commission (SEC), additional cryptocurrencies may soon join bitcoin\nBTC\n$104,608.94\nand ether\nETH\n$3,495.36\nand receive their own spot exchange-traded funds (ETFs).\n\nOf these,\nLTC\n$86.04\nis likely to be the first to receive the nod, according to Eric Balchunas and James Seyffart, two ETF analysts at Bloomberg Intelligence.\n\n“Canary Funds just filed an amended S-1 for their litecoin ETF filing. No guarantees — but this might be indicative of SEC engagement on the filing,” Seyffart posted on X.\n\n“We had heard chatter that the litecoin S-1 had gotten comments back from the SEC,” Balchunas wrote, adding that the amended filing “bodes well for our prediction that litecoin is most likely to be the next coin approved.”\n\nFurthermore, the Nasdaq stock exchange filed a 19b-4 form for Canary Funds' litecoin ETF on Thursday, meaning that the SEC will now be forced to approve or reject the ETF in the coming year. LTC is up 18% in the last 24 hours.\n\nWhy litecoin? With a market capitalization of $8.8 billion, litecoin is only the 11th largest cryptocurrency in the CoinDesk 20 (an index of the top 20 cryptocurrencies excluding stablecoins, memecoins and exchange coins) and 24th biggest coin overall.\n\nBut litecoin is a bitcoin fork, meaning that its protocol follows the same basic rules as Bitcoin; it uses a Proof-of-Work consensus mechanism, for example. Importantly, the SEC has never called litecoin a security, contrary to larger cryptocurrencies such as solana\nSOL\n$156.85\nand ripple (XRP).\n\n“We expect a wave of cryptocurrency ETFs next year, albeit not all at once,” Balchunas wrote in December. “First out is likely the bitcoin and ether combo ETFs, then probably litecoin (because it’s a fork of bitcoin = commodity), then HBAR (because not labeled security) and then XRP/Solana (which have been labeled securities in pending lawsuits).”\n\nYet the SEC under Paul Atkins is likely to approach the crypto industry in a different way than it has under Gary Gensler, which Balchunas noted was a “huge variable.”\n\nUPDATE (Jan. 16, 2025, 15:40 UTC): The article was amended to reflect the new 19b-4 form filed by Nasdaq.",
+    "url": "https://www.coindesk.com/markets/2025/01/16/why-litecoin-might-be-the-next-crypto-to-get-its-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Balchunas",
+                "James Seyffart",
+                "Paul Atkins",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "U.S. President-elect",
+                "ETF analysts",
+                "ETF analyst"
+            ],
+            "companies": [
+                "Canary Funds",
+                "Bloomberg Intelligence",
+                "Nasdaq"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission (SEC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Litecoin",
+            "LTC",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "Ripple",
+            "XRP",
+            "HBAR"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports positive developments for Litecoin ETF approval, SEC engagement on filings, and LTC price increasing 18% in 24 hours, indicating market optimism."
+    }
+}

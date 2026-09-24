@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Closing In on Historic Breakout vs Nasdaq",
+    "summary": "Bitcoin continues to outperform traditional tech benchmarks, signaling a potential shift in market leadership as correlations weaken.",
+    "time": "2025-04-22T08:58:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin\nBTC\n$101,998.62\nis on the cusp of breaking out relative to the Nasdaq 100 Composite, with the current BTC/Nasdaq ratio sitting at 4.96. This means it now takes nearly five Nasdaq units to match the value of one bitcoin. The previous record of 5.08 was set in January 2025, when bitcoin hit its all-time high of over $109,000.\n\nHistorically, each market cycle has seen the ratio reach new highs—2017, 2021, and now 2025—highlighting bitcoin’s continued outperformance against the Nasdaq.\n\nAcross multiple timeframes, bitcoin is increasingly diverging from U.S. tech stocks. Year-to-date, bitcoin is down just 6%, compared to the Nasdaq’s 15% decline. Since Donald Trump’s election victory in November 2024, bitcoin has rallied 30%, while the Nasdaq has fallen 12%.\n\nWhen measured against the \"Magnificent Seven\" mega-cap tech stocks, bitcoin remains around 20% below its all-time high from February this year. This indicates that while bitcoin has shown strength, the top tech names are holding up better than the broader Nasdaq Composite.\n\nStrategy (MSTR), a well-known proxy for bitcoin exposure, is also holding up better than the U.S tech stocks. Since joining the QQQ ETF on Dec. 23, MSTR is down 11%, while the ETF itself has dropped over 16%. The divergence has become more pronounced in 2025: MSTR is up 6% year-to-date, compared to QQQ’s 15% decline.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/bitcoin-closing-in-on-historic-breakout-vs-nasdaq",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Strategy (MSTR)"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "Nasdaq 100 Composite",
+                "Nasdaq Composite",
+                "QQQ ETF"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Bitcoin's outperformance against traditional tech benchmarks, approaching historic breakout levels with strong rally percentages and better year-to-date performance."
+    }
+}

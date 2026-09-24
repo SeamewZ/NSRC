@@ -1,0 +1,28 @@
+{
+    "title": "Has Bitcoin Peaked? BlackRock BTC Spot ETF Traders Lose Appetite for Upside",
+    "summary": "Bitcoin has been trading sideways after reaching record highs above $110,000 last week.",
+    "time": "2025-05-29T11:11:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$104,608.94\nhas mostly traded sideways since printing record highs above $110,000 last week.\n\nThe loss of upward momentum is now accompanied by signs waning bullish sentiment among market participants trading options tied to BlackRock's spot bitcoin exchange-traded fund (ETF).\n\nThat's evident from the one-year put-call skew, which reflects how the market prices in volatility risk for put options, offering downside protection relative to calls, representing bullish bets. Negative values represent a bullish bias while positive values suggest fears of downside.\n\nIBIT's one-year skew has bounced to nearly zero from the four-month low of minus 3.8 two weeks ago, according to data source Market Chameleon. In other words, IBIT options traders are no longer chasing upside via options.\n\nPerhaps they are expecting a pullback. Similar mood is evident in Deribit-listed options where the short-term call skew has weakened, meaning calls expiring in the next two weeks are trading at par with puts, according to data source Amberdata.\n\nRead more: Bitcoin's $95K-$105K Range in Focus as $10B BTC Options Expiry Looms",
+    "url": "https://www.coindesk.com/markets/2025/05/29/has-bitcoin-peaked-blackrock-btc-spot-etf-traders-lose-appetite-for-upside",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "Market Chameleon",
+                "Amberdata",
+                "Deribit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes waning bullish sentiment, loss of upward momentum, and traders no longer chasing upside via options while expecting a pullback."
+    }
+}

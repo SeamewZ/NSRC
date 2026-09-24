@@ -1,0 +1,36 @@
+{
+    "title": "SEC Drops Probe Into Gemini, Cameron Winklevoss Demands Recompense",
+    "summary": "In a Wednesday X post, the co-founder and president of Gemini suggested the SEC publicly fire all staff members involved in the investigation.",
+    "time": "2025-02-27T00:48:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Securities and Exchange Commission (SEC) might be done with Gemini, but Gemini isn’t done with the SEC.\n\nAccording to a Wednesday X post from Gemini co-founder and President Cameron Winklevoss, the SEC informed Gemini on Monday that it was closing its investigation into the New York-based crypto exchange and would not be filing enforcement charges against it.\n\nBut the anti-climactic resolution to the long-running investigation was unsatisfying to Winklevoss, who said in his X post that the SEC’s retreat “does little to make up for the damage this agency has done to us, our industry, and America.”\n\n“The SEC cost us tens of millions of dollars in legal bills alone and hundreds of millions in lost productivity, creativity, and innovation,” Winklevoss wrote. “The SEC’s behavior in aggregate towards other crypto companies and projects cost orders of magnitude more and caused unquantifiable loss in economic growth for America.”\n\nWinklevoss said that, without consequences for both the SEC and the individual staff members involved in the investigations of Gemini and other crypto companies, other federal agencies could again, in the future, “bully, harass and attack a lawful industry and then decide one day to simply say we’re good and walk away.”\n\nIn his post, Winklevoss suggested that any agency that “refuses to write rules before it opens an investigation or brings an enforcement action” should be required to reimburse defendants “for 3x [their] legal costs.”\n\nWinklevoss also called for all SEC staff members involved in the probe into Gemini to be publicly fired, and their “names, roles, and the actions they participated in should be posted on the SEC website.”\n\n“It should not be acceptable to bring the full might of the U.S. government to bear against fledgling companies in a nascent industry and then hide behind a faceless agency or say you were ‘just doing your job’ or ‘following orders.’ These individuals had a choice,” Winklevoss wrote. “They could have asked to be reassigned or resigned. Nobody was forcing them to work at the SEC. Nonetheless they chose to violate their oath and the agency’s mission to ‘make a positive impact on the U.S. economy, our capital markets, and people’s lives’ and instead aided and abetted an unlawful war against a lawful industry.”\n\nThe SEC’s decision to drop its probe into Gemini comes shortly after it dropped similar investigations into Uniswap Labs, Robinhood Crypto and OpenSea. Earlier Wednesday, the SEC also filed a joint motion to pause its litigation against the Tron Foundation and Justin Sun, similar to recent motions filed in its cases against Coinbase and Binance.\n\nThe SEC did not respond to CoinDesk’s request for comment.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/sec-drops-probe-into-gemini-cameron-winklevoss-demands-recompense",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cameron Winklevoss",
+                "Justin Sun"
+            ],
+            "positions": [
+                "co-founder",
+                "president"
+            ],
+            "companies": [
+                "Gemini",
+                "Uniswap Labs",
+                "Robinhood Crypto",
+                "OpenSea",
+                "Tron Foundation",
+                "Coinbase",
+                "Binance"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC dropping investigations into multiple major crypto companies including Gemini, Uniswap Labs, Robinhood Crypto, and OpenSea reduces regulatory uncertainty and suggests a more favorable regulatory environment for the industry."
+    }
+}

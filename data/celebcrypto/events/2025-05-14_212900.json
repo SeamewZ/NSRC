@@ -1,0 +1,38 @@
+{
+    "title": "Cantor Fitzgerald Chairman Brandon Lutnick Says He Personally Checked Tether’s Reserves",
+    "time": "2025-05-14T21:29:00",
+    "author": "Cheyenne Ligon",
+    "summary": "The 27-year-old was appointed chairman of Cantor Fitzgerald in February, shortly after his father was named Commerce Secretary by U.S. President Donald Trump.",
+    "content": "Cantor Fitzgerald Chairman Brandon Lutnick personally verified Tether’s reserves when the firm began its relationship with the stablecoin giant, he said on Wednesday at Consensus 2025 in Toronto.\n\nThe 27-year-old said that in the early days of Cantor Fitzgerald and Tether’s relationship, there were “a lot of rumors” that Tether didn’t have the assets it claimed to have, referring to then-rampant speculation that Tether was not fully backed. New York Attorney General Letitia James alleged in 2019 that Tether had a nearly $1 billion hole in its books, though the regulator later settled these allegations with Tether and its sister firm, Bitfinex.\n\n“I personally checked a lot of their reserves, and we proved a lot of those rumors wrong,” Lutnick said. Tether has maintained it has been fully backed, at least since its settlement with New York.\n\nLutnick was appointed chairman of Cantor Fitzgerald — the private parent company that controls the investment bank of the same name, brokerage BCG Group, and commercial real estate company Newmark Group — in February, shortly after U.S. President Donald Trump named his father, Cantor Fitzgerald’s former CEO Howard Lutnick, U.S. Commerce secretary.\n\nPrior to taking the helm at Cantor Fitzgerald, Lutnick worked for the firm in another executive role. He denied reports from Bloomberg that he interned with Tether in Lugano, Switzerland in 2023.\n\n“Bloomberg actually reported that I was a Tether intern. That is not true,” Lutnick said. “But I did learn a lot about crypto from the Tether guys — they orange-pilled me.”",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/14/cantor-fitzgerald-chairman-brandon-lutnick-says-he-personally-checked-tethers-reserves",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brandon Lutnick",
+                "Donald Trump",
+                "Howard Lutnick",
+                "Letitia James"
+            ],
+            "positions": [
+                "Chairman",
+                "Commerce Secretary",
+                "CEO",
+                "New York Attorney General"
+            ],
+            "companies": [
+                "Cantor Fitzgerald",
+                "Tether",
+                "Bitfinex",
+                "BCG Group",
+                "Newmark Group",
+                "Bloomberg"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Tether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The chairman of a major financial firm personally verifying Tether's reserves and disproving rumors about insufficient backing boosts confidence in the stablecoin market."
+    }
+}

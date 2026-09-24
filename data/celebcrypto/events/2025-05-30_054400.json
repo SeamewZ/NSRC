@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Bull James Wynn Close to Total Liquidation as Losses Near $100M",
+    "summary": "BTC's stalling rally puts overlevered Wynn at risk of total liquidation.",
+    "time": "2025-05-30T05:44:00",
+    "author": "Sam Reynolds",
+    "content": "James Wynn, the Hyperliquid trader who had at one time a billion-dollar notional position, has become an outsized victim of bitcoin's\nBTC\n$101,723.18\ncooling sentiment.\n\nWynn's current highly leveraged BTC position, which he appears to be struggling to maintain, spiralled into a loss of nearly $100 million over the last week.\n\nData from Hyperdash shows that Wynn's margin usage is nearing 100%, which would result in a total liquidation of his position, though Wynn recently made a deposit of $376,000 to bolster his defenses.\n\nThe trader, known for making aggressive bets under the pseudonym \"moonpig,\" currently holds a long position of approximately 1,690 BTC, valued at roughly $178.78 million.\n\nOn-chain data shows that Wynn's 40x leveraged BTC bets now carry an unrealized loss of approximately $3.5 million, representing a negative return of 77%.\n\nBut with BTC trading near $106,000, just slightly above Wynn’s liquidation price of around $104,607, any further decline in the asset’s price could trigger automatic forced sales.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/bitcoin-bull-james-wynn-close-to-total-liquidation-as-losses-near-100m",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Wynn",
+                "moonpig"
+            ],
+            "positions": [
+                "Hyperliquid trader"
+            ],
+            "companies": [
+                "Hyperdash"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major trader facing near-total liquidation with $100M losses and potential forced sales, indicating market stress and negative price pressure."
+    }
+}

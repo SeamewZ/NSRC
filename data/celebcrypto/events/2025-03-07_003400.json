@@ -1,0 +1,50 @@
+{
+    "title": "Trump Orders ‘Fort Knox’ Bitcoin Reserve and Digital Assets Stockpile",
+    "summary": "The U.S. president directed his administration to establish a bitcoin reserve to hold seized assets, and it's setting up a separate crypto stockpile.",
+    "time": "2025-03-07T00:34:00",
+    "author": "Jesse Hamilton",
+    "content": "President Donald Trump has directed his administration to establish a Bitcoin Strategic Reserve to hold the assets that have been seized by the government, and he's additionally called for a crypto stockpile of other types of assets.\n\nAt this point, all of the assets contemplated by the order would be those seized in civil or criminal forfeitures. The bitcoin will be stored for long-term value in what was termed a \"digital Fort Knox.\"\n\n\"The Reserve will be capitalized with Bitcoin owned by the federal government that was forfeited as part of criminal or civil asset forfeiture proceedings,\" said David Sacks, Trump's crypto czar, in a statement posted on social media site X.\n\nIn a video showing the president signing the order, Trump says about establishing the reserve, \"Made the promise, right?\"\n\nThe order has also nudged government officials to seek ways to add more bitcoin to the reserve, as long as it doesn't harm the federal budget.\n\n\"The Secretaries of Treasury and Commerce are authorized to develop budget-neutral strategies for acquiring additional bitcoin, provided that those strategies have no incremental costs on American taxpayers,\" Sacks said.\n\nThe assets for the non-bitcoin stockpile will be any crypto that the government otherwise seizes. Sacks didn't highlight any particular asset names in that category, despite some being recently named by the president.\n\nPresidential orders don't necessarily have the same legal authority as acts of Congress, so it remains unclear how Trump's administration will approach the particulars of the order, which hadn't yet been made public Thursday night. It's also unclear what the total value of the current U.S. crypto holdings may be.\n\nBitcoin fell nearly 5% to $85,000 in the minutes following the order, perhaps over disappointment the reserve consists of tokens already held by the government, but — for now — includes no new buys.\n\nEthereum's\nETH\n$3,326.10\n, Ripple's (XRP), Cardano's\nADA\n$0.5332\n, and Solana's\nSOL\n$157.26\nare all lower by 4%-8% over the past hour as the order allows for no fresh government purchases of those tokens.\n\nThe executive order announcement was made on the eve of the White House's industry summit, in which leaders from across the crypto spectrum are set to discuss policy matters with members of Trump's administration. The president had been expected to announce crypto reserve details before or during that event.\n\n“Establishing a U.S. strategic Bitcoin reserve and digital asset stockpile is a huge moment for both crypto and American leadership on the global stage,\" said Nathan McCauley, CEO and co-founder of Anchorage Digital, one of the business leaders set to attend the roundtable.\n\nMatt Hougan, the chief investment officer for Bitwise Asset Management, said in a post that the move to set up a bitcoin reserve reduces the chance the government can ever try to outlaw the asset, and it \"dramatically increases the likelihood that other nations will establish strategic bitcoin reserves.\"\n\nBut Charles Edwards, founder of Bitcoin-focused hedge fund Capriole Investments, called it the \"most underwhelming and disappointing outcome we could have expected for this week,\" arguing that without a buying plan, the strategy is a \"pig in lipstick.\"\n\nUPDATE (March 7, 2025, 24:59 UTC): Adds responses from people in the industry along with price action.\n\nUPDATE (March 7, 2025, 01:39 UTC): Adds comment from Anchorage Digital CEO.",
+    "url": "https://www.coindesk.com/policy/2025/03/06/trump-signs-order-setting-up-bitcoin-fort-knox-and-digital-assets-stockpile",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "David Sacks",
+                "Nathan McCauley",
+                "Matt Hougan",
+                "Charles Edwards"
+            ],
+            "positions": [
+                "U.S. president",
+                "crypto czar",
+                "CEO and co-founder",
+                "chief investment officer",
+                "founder"
+            ],
+            "companies": [
+                "Anchorage Digital",
+                "Bitwise Asset Management",
+                "Capriole Investments"
+            ],
+            "organizations": [
+                "U.S. government",
+                "White House",
+                "Treasury",
+                "Commerce"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "XRP",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin fell nearly 5% and other major cryptocurrencies dropped 4%-8% following the announcement as the reserve consists only of seized tokens with no new government purchases."
+    }
+}

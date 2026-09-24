@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin DeFi Expansion Faces Fork Dilemma as Developers Explore ZK Proofs",
+    "summary": "BitcoinOS contributor and crypto OG Edan Yago describes forks on Bitcoin as like \"open-heart surgery.\"",
+    "time": "2025-03-20T15:54:00",
+    "author": "Jamie Crawley",
+    "content": "Bitcoin developers looking to expand the blockchain's decentralized finance (DeFi) capabilities are likely to be considering zero-knowledge (ZK) proofs, functionality that's not currently available and which require a so-called soft fork, or new version of the software, to introduce them.\n\nThat's a problem, according Edan Yago, a Bitcoin veteran of over a decade and core contributor to smart contract operating system BitcoinOS (BOS).\n\n\"Forking a blockchain, especially one with $2 trillion worth of value on it, is like open-heart surgery,\" Yago told CoinDesk in an interview \"Hard forks are obviously much more problematic, but I think introducing any kind of fork is fraught.\"\n\nA fork is a change to a blockchain's code that necessitates a divergence at a certain point onto a separate path. Forks can be \"soft,\" meaning older versions can still interact with the new one, or \"hard\", which render older versions incompatible and require all users to upgrade their software.\n\nZK proofs are a cryptographic method of proving the validity of statements while maintaining privacy through not revealing any information about it. The functionality is not available in Bitcoin's software, but could be made so through proposed implementations like OP_CAT and OP_CTV. Yago said developers should be able to find ways of enabling them on Bitcoin without any kind of fork.\n\n\"The burden of proof is on developers to demonstrate that there is no other way of accomplishing this through clever engineering,\" he said.\n\nThis is what BOS hopes to achieve through the BitSNARK, a Bitcoin rollup protocol that is part of the family of computing paradigms being developed to scale the original blockchain. These emerged following the introduction of BitVM by Robin Linus in October 2023, which set out a framework for how Ethereum-like smart contracts could be enabled on Bitcoin.\n\nBitcoinOS has now open-sourced what Yago describes as a \"fully production-ready\" BitSNARK protocol, meaning developers now have access to ZK verification on Bitcoin and can connect it to other blockchains like Ethereum, Solana and Cardano.\n\nBitSNARK allows developers to take large, complex programs and prove the results of the computations in only 300 bytes that can be verified in standard Bitcoin transactions. That could pave the way for BTCFi, a term used for DeFi on Bitcoin, through enabling cross-chain bridges, decentralized exchanges and bitcoin\nBTC\n$102,205.43\n-backed stablecoins.\n\nWhile there are numerous projects looking to introduce decentralized finance on Bitcoin, they rely on using OP_CAT or OP_CTV codes, which require a fork in the blockchain's software. Yago wants to reach the same destination via a different route.",
+    "url": "https://www.coindesk.com/tech/2025/03/20/bitcoin-defi-expansion-faces-fork-dilemma-as-developers-explore-zk-proofs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Edan Yago",
+                "Robin Linus"
+            ],
+            "positions": [
+                "BitcoinOS contributor",
+                "crypto OG",
+                "Bitcoin veteran",
+                "core contributor to smart contract operating system BitcoinOS (BOS)"
+            ],
+            "companies": [
+                "BitcoinOS",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Solana",
+            "Cardano"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technological advancements enabling DeFi on Bitcoin through ZK proofs and cross-chain bridges without requiring risky forks, which represents positive development for the ecosystem."
+    }
+}

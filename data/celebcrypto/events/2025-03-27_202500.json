@@ -1,0 +1,27 @@
+{
+    "title": "Sei Foundation Explores Buying 23andMe to Put Genetic Data on Blockchain",
+    "time": "2025-03-27T20:25:00",
+    "author": "Krisztian Sandor",
+    "summary": "If the acquisition proceeds, the foundation plans to integrate 23andMe's data onto its blockchain and give users ownership of their genetic data.",
+    "content": "The Sei Foundation, the nonprofit development organization behind the layer-1 blockchain\nSEI\n$0.1686\n, is exploring the acquisition of bankrupt personal genomics company 23andMe and putting the genetic data of 15 million users on blockchain rails.\n\nThe foundation announced the initiative in an X post on Thursday, calling the plan its \"boldest DeSci bet yet\" — referring to the decentralized science movement. Earlier this year, it also launched a $65 million venture capital fund dedicated to DeSci startups building on the Sei network.\n\nThe foundation said that genomic data security is a national security matter, particularly as 23andMe grapples with financial difficulties. The company, known for its direct-to-consumer DNA testing services, filed for Chapter 11 bankruptcy protection earlier this week.\n\nIf the acquisition proceeds, the Sei Fundation plans to integrate 23andMe's data onto its blockchain and give users ownership of their genetic data, ensuring privacy through encrypted transfers and allowing individuals to decide how their data is monetized.\n\n\"This isn't just about saving a company, it's about building a future where your most personal data remains yours to control,\" the foundation said.\n\nNumerous state attorneys general have warned 23andme customers to delete their data from the platform in recent days since the company's bankruptcy filing.\n\nSEI, the native token of the network, climbed as much as 3% following the news before giving back some of the gains.",
+    "url": "https://www.coindesk.com/business/2025/03/27/sei-foundation-explores-buying-23andme-to-put-genetic-data-on-blockchain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "23andMe"
+            ],
+            "organizations": [
+                "Sei Foundation",
+                "Sei network",
+                "DeSci"
+            ]
+        },
+        "cryptocurrencies": [
+            "SEI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "SEI token climbed as much as 3% following the news announcement about the potential acquisition."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Pushes Past $87K, Dollar Crashes as Trump Looks to Terminate Fed’s Powell",
+    "summary": "Perceived threat to Fed's independence saw traders sell dollar, pushing BTC and gold higher.",
+    "time": "2025-04-21T02:42:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,998.62\noutshined the otherwise volatile alternative cryptocurrencies early Monday as the dollar index (DXY) crashed to a three-year low on reports that President Donald Trump is exploring ways to remove the Federal Reserve Chairman Jerome Powell.\n\nBTC rose over 2% to $87,200, hitting the highest since April 2, according to data from CoinDesk. The move marked a bullish resolution to the recent consolidation between $83,000 and $87,000. Major alternative cryptocurrencies such as payments-focused XRP, Ethereum's ether and Cardano's ADA rose over 1% each, lagging BTC.\n\nIn forex market, hedge funds sold the U.S. dollar against major currencies, including euro, yen and the Aussie dollar, driving the dollar index to 98.5, the lowest since April 2022, according to data from charting platform TradingView. The DXY has declined by 10% in three months. Weakness in the dollar typically eases financial conditions, greasing risk-taking in financial markets.\n\nMeanwhile, gold's rally continued, with the per ounce price reaching a record high of $3,382, taking the year-to-date gain to 28%. Futures tied to the S&P 500 and Nasdaq traded 0.5% lower.\n\nObservers suggest that National Economic Council Director Kevin Hassett's comment on Friday regarding Trump's intention to remove Powell likely triggered the selling of the dollar, along with upticks in BTC and gold.\n\n\"The move in bitcoin to $87,000 appears to be driven by a sharp drop in the U.S. dollar and a +2% rally in gold, both triggered by Trump's push to replace Fed chair Powell. While a trade deal with Japan may be announced soon, the key catalyst today is the perceived threat to Fed independence,\" Markus Thielen, founder of 10x Research, told CoinDesk.\n\nTrump posted on Truth Social on Thursday that \"Powell's termination cannot come fast enough,\" while reiterating calls for lower interest rates on the following day. Early last week, Powell said that the Fed would wait for more data on the economy before changing the borrowing cost while warning of stagflation.\n\nChicago Fed President Austan Goolsbee warned that a move by Trump to terminate Jerome Powell would undermine the credibility of the Fed.",
+    "url": "https://www.coindesk.com/markets/2025/04/21/bitcoin-leads-xrp-eth-and-ada-higher-as-perceived-threat-to-fed-independence-sends-dollar-crashing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jerome Powell",
+                "Markus Thielen",
+                "Kevin Hassett",
+                "Austan Goolsbee"
+            ],
+            "positions": [
+                "President",
+                "Federal Reserve Chairman",
+                "founder of 10x Research",
+                "National Economic Council Director",
+                "Chicago Fed President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "TradingView",
+                "10x Research"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "Ethereum",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin rose over 2% to $87,200 and hit its highest level since April 2, with the move described as a 'bullish resolution' to recent consolidation."
+    }
+}

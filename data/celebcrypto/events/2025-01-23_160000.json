@@ -1,0 +1,39 @@
+{
+    "title": "Crypto for Advisors: The Growth of Stablecoins",
+    "time": "2025-01-23T16:00:00",
+    "author": "Alec Beckman",
+    "summary": "Stablecoins present a significant opportunity for advisors to enhance value to clients and stay ahead of market trends.",
+    "content": "In today’s issue, Alec Beckman from Advantage Blockchain explains stablecoins and their growing use cases for institutions and advisors.\n\nThen, CK Zheng from ZX Squared Capital shares tips on preparing for tax season in Ask and Expert.\n\n- Sarah Morton\n\nYou’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.\n\nOne of the primary hurdles for blockchain adoption to date has been utility, especially when looking through the lens of financial advisors and how these public blockchains and decentralized finance (DeFi) protocols can impact their clients.\n\nStablecoins - digital currencies pegged to stable assets like the U.S. dollar - have emerged as a powerful tool for modernizing savings, payments, and settlement processes. These innovations present a significant opportunity for advisors to enhance the value they offer to clients while staying ahead of market trends.\n\nHow can advisors leverage stablecoins to streamline operations, reduce costs, and provide cutting-edge financial solutions? Here’s how stablecoins can become a transformative tool for your clients:\n\nSpaceX uses stablecoins to manage foreign exchange (FX) risks from its global Starlink operations. SpaceX shields itself from FX volatility by collecting payments in various currencies and converting them into stablecoins. The stablecoins, pegged to the U.S. dollar, provide a stable intermediary before being converted back to dollars.\n\nThis approach offers several advantages:\n\nThis strategy demonstrates how stablecoins can be a powerful tool for multinational corporations and can be applied to managing client portfolios.\n\nWhy This Matters to You and Your Clients For financial advisors, stablecoins can elevate portfolios and modernize financial strategies. These assets aren’t just a novelty - they’re a bridge to a more inclusive, efficient, and adaptable financial future. By integrating stablecoins into conversations about savings, payments, or settlements, you position yourself as a forward-thinking advisor prepared to navigate these changes.\n\n- Alec Beckman, president, Advantage Blockchain\n\nQ: What’s the 101 on stablecoins and liquidity?\n\nThe stablecoin market cap has reached a record $215 billion, predominantly concentrated in the two coins Tether and USDC, having a combined 85% of the market cap. The liquidity of the stablecoin market stays healthy as more stablecoin issuers such as Visa, Stripe, and PayPal enter this unique digital asset sub-class. Given the new Trump administration’s pro-crypto attitude, we expect more crypto-friendly rules and regulations for this asset in the coming months, which will support the further growth of the stablecoin market.\n\nQ: Are stablecoins risky compared to traditional finance (TradFi)?\n\nStablecoins are typically designed to stay pegged to the U.S. dollar (though they don’t need to be). The functionality of stablecoins in the crypto market is comparable to money market funds in the traditional financial market. The money market funds have reached a $10 trillion market cap, which serves the purpose of short-term investment and a place to park money. Stablecoins will serve a similar purpose in the digital asset space. The quality and liquidity of the issuer’s holdings of fiat-denominated short-term assets are some of the critical risks associated with stablecoins, especially when the financial market is under great stress.\n\nQ: Do country borders matter when it comes to stablecoins?\n\nCountry borders matter greatly as different countries may have different rules, regulations and license requirements for the stablecoin market. One of the key regulatory requirements associated with stablecoins is around the stability, liquidity, disclosure and transparency of the short-term assets the issuers hold for the underlying stablecoins.\n\n- CK Zheng, co-founder & CIO, ZX Squared Capital",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/22/crypto-for-advisors-the-growth-of-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alec Beckman",
+                "CK Zheng",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "president",
+                "co-founder & CIO"
+            ],
+            "companies": [
+                "Advantage Blockchain",
+                "ZX Squared Capital",
+                "SpaceX",
+                "Visa",
+                "Stripe",
+                "PayPal"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Tether",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights stablecoin market growth to $215 billion, mentions major companies entering the space, and expects pro-crypto regulations under the new administration."
+    }
+}

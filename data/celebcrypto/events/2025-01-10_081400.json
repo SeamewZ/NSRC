@@ -1,0 +1,30 @@
+{
+    "title": "China's Central Bank Halts Bond Purchases to Support Yuan, BTC Holds Under $95K",
+    "time": "2025-01-10T08:14:00",
+    "author": "Omkar Godbole",
+    "summary": "The PBOC on Friday suspended bond purchases to stall the slide in bond yields and CNY",
+    "content": "On Friday, China's central bank took steps to support the yuan, which has been losing ground, with its depreciation being viewed as a potential tailwind for bitcoin\nBTC\n$104,608.94\n.\n\nThe People's Bank of China announced that it will stop purchasing government bonds this month as their demand now overshadows the supply.\n\nExperts said the move reflects policymakers' discomfort with the sliding bond yields, which move in the opposite direction of prices, and the resulting depreciation in yuan.\n\nThe yield on the benchmark 10-year Chinese government bond dipped below 1.6% early this week, marking a staggering 100 bps decline on a 12-month basis, according to data source TradingView.\n\nMeanwhile, its U.S. counterpart rose to 4.7%, the highest since November 2023, widening the U.S.-China yield differential in favor of the USD.\n\nAs such, the CNY slipped to 7.32 per USD, extending its three-month losing streak led in part by concerns of tariffs under President-elect Donald Trump's tenure set to begin on Jan. 20.\n\nEarly this week, analysts said the declining yuan could result in a capital flight, some of which could find its way into the crypto market and add to BTC's bull momentum.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/chinas-central-bank-halts-bond-purchases-to-support-yuan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President-elect"
+            ],
+            "companies": [],
+            "organizations": [
+                "People's Bank of China",
+                "PBOC",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that the declining yuan could result in capital flight into the crypto market and add to BTC's bull momentum."
+    }
+}

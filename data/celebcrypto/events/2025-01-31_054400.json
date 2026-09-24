@@ -1,0 +1,33 @@
+{
+    "title": "Grayscale Files SEC Proposal to Convert XRP Trust Into ETF",
+    "time": "2025-01-31T05:44:00",
+    "author": "Shaurya Malwa",
+    "summary": "Earlier in January, Ripple Labs president Monica Long remarked an XRP ETF could “soon be a reality” under the new Trump administration.",
+    "content": "Crypto fund behemoth Grayscale Investments has filed an application with the Securities and Exchange Commission (SEC) to convert its XRP Trust into an exchange-traded fund (ETF), which will listed on the New York Stock Exchange (NYSE).\n\nThe existing product operates as a Delaware statutory trust, managing over $16 million XRP as of Friday. The proposed ETF would continue to hold XRP as its primary asset and track its performance on a price return basis, adjusted for operational fees, providing investors with a direct link to XRP's performance.\n\nBesides Grayscale, firms like CoinShares and Bitwise have also submitted applications for XRP-based ETFs, indicating a growing institutional appetite for structured investment products in XRP.\n\nEarlier in January, Ripple Labs president Monica Long remarked an XRP ETF could “soon be a reality” under the new Trump administration, one that has promised to bring crypto innovation back to the U.S. and support locally-based businesses.\n\nMeanwhile, trading volumes on XRP-native applications have been on the rise as it gains favor among investors. Swap volumes on XRP Ledger’s decentralized exchange (DEX) crossed the $400 million mark in January to cross the $1 billion mark for the first time since its automated market maker feature launched in May — a feat that some say contributed to making 2024 a “monumental” year for the token.",
+    "url": "https://www.coindesk.com/markets/2025/01/31/grayscale-files-sec-proposal-to-convert-xrp-trust-into-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Monica Long"
+            ],
+            "positions": [
+                "president"
+            ],
+            "companies": [
+                "Grayscale Investments",
+                "Ripple Labs",
+                "CoinShares",
+                "Bitwise",
+                "New York Stock Exchange"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes growing institutional appetite for XRP through ETF applications, rising trading volumes, and positive regulatory expectations under the new administration."
+    }
+}

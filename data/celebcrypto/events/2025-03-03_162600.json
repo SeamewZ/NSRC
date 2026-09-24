@@ -1,0 +1,38 @@
+{
+    "title": "One Trader Made Millions Betting $200M on BTC Just Before Trump's Crypto Reserve News",
+    "time": "2025-03-03T16:26:00",
+    "author": "Oliver Knight",
+    "summary": "At one point the trader was just $50 away from being liquidated.",
+    "content": "A trader on decentralized derivatives platform Hyperliquid used 50x leverage to open a $200 million long position on bitcoin\nBTC\n$103,826.55\non Sunday, netting a gain of around $6.8 million after U.S. President Donald Trump spurred a market-wide rally by announcing the nation's crypto reserve.\n\nThe trader used $4 million worth of collateral to place a trade that at one point was just a $50 swing away from being liquidated. The entry was at $85,908 with liquidation price of $84,752.\n\nBTC instead rose by more than 11% from $85,000 to $97,255 after a reference to the reserve was made on social media platform Truth Social. However, the trader perhaps backed the wrong horse as ADA and XRP experienced gains of 47% and 18% respectively.\n\nTrump caught many by surprise with his announcement due to the inclusion of XRP, SOL and ADA. Coinbase CEO Brian Armstrong and Bitwise CEO Hunter Horsely said that they thought the U.S. reserve would only include bitcoin, whilst those connected to Ripple and Cardano took victory laps on social media.\n\nSome skeptical social media users have questioned whether the trader had insider knowledge of the reserve, although it's unclear whether the position was a hedge or if the trader thought BTC had bottomed following correction from $109,000 to as low as $78,000 in the weeks since Trump's inauguration.\n\nThe trader has now closed his long position, realizing around $6.8 million in profit.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/one-trader-made-millions-betting-usd200m-on-btc-just-before-trump-s-crypto-reserve-news",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Brian Armstrong",
+                "Hunter Horsely"
+            ],
+            "positions": [
+                "U.S. President",
+                "CEO",
+                "CEO"
+            ],
+            "companies": [
+                "Hyperliquid",
+                "Coinbase",
+                "Bitwise",
+                "Ripple"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "ADA",
+            "XRP",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a market-wide rally with BTC rising 11% and other cryptocurrencies like ADA and XRP experiencing even larger gains of 47% and 18% respectively following Trump's crypto reserve announcement."
+    }
+}

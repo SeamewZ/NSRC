@@ -1,0 +1,41 @@
+{
+    "title": "Real-World Assets Cross $10 Billion in Total Value Locked: DeFiLlama",
+    "time": "2025-03-21T10:06:00",
+    "author": "Sam Reynolds",
+    "summary": "Growth comes from increases in TVL on Ethena USDtb and BlackRock's BUIDL.",
+    "content": "Real-world assets (RWAs) are now a $10 billion category, according to data curated by DeFiLlama, with Maker, BlackRock's BUIDL and Ethena's USDtb each accounting for more than $1 billion in total value locked (TVL).\n\nOf the three, USDtb — a stablecoin designed to contrast with Ethena's USDe — has had the fastest growth, adding over 1,000% in TVL in the last month.\n\nUSDtb is backed by tokenized BlackRock money-market fund shares whereas USDe uses crypto-assets and perpetual futures strategies for crypto-driven yields.\n\nCoinDesk previously reported that Treasury-backed tokens reached a record $4.2 billion market cap in the first quarter, driven by growth in Ondo Finance's OUSG and USDY tokens, BlackRock and Securitize's BUIDL, Franklin Templeton's BENJI and Superstate's USTB.\n\nTreasury-backed tokens dominate, according to data aggregator RWA.xyz. The next highest category, tokenized commodities, comes in at $1.26 billion, with Paxos Gold leading with TVL of just over $500 million.\n\nAnalysts say this reflects investor preference for safer assets amid bearish crypto sentiment, with T-bills outperforming what's offered for yield with major DeFi protocols like Compound.\n\nRead more: RWA Tokenization: What Does It Mean to Tokenize Real-World Assets?",
+    "url": "https://www.coindesk.com/markets/2025/03/21/real-world-assets-cross-usd10-billion-in-total-value-locked-defillama",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Maker",
+                "BlackRock",
+                "Ethena",
+                "CoinDesk",
+                "Ondo Finance",
+                "Franklin Templeton",
+                "Superstate",
+                "Paxos Gold",
+                "Compound"
+            ],
+            "organizations": [
+                "DeFiLlama",
+                "Securitize",
+                "RWA.xyz"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDtb",
+            "USDe",
+            "OUSG",
+            "USDY",
+            "BUIDL",
+            "BENJI",
+            "USTB"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports significant growth in real-world asset tokenization reaching $10 billion TVL, with rapid growth in specific tokens and analyst commentary about investor preference for these assets amid bearish crypto sentiment."
+    }
+}

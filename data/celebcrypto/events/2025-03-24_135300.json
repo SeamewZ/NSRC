@@ -1,0 +1,26 @@
+{
+    "title": "Spot Ether ETFs in the U.S. Shed $401 Million in March as Price Drop Deepened",
+    "time": "2025-03-24T13:53:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Outflows from bitcoin ETFs were far more modest on a relative basis.",
+    "content": "U.S. exchange-traded funds tied to ether (ETH) have seen $401 million in net outflows so far in March, wiping out gains from the first two months of the year.\n\nThe redemptions represent nearly 6% of the total $6.77 billion in assets held by spot ether ETFs, according to data from SoSoValue. Just one day this month—March 4—saw positive inflows, with $14.58 million added. In comparison, January and February saw inflows of $101 million and $60 million, respectively.\n\nSpot bitcoin ETFs also faced withdrawals, with $893 million in net outflows this month, but the scale relative to assets under management, roughly 0.9% of $94.35 billion, was far less severe. Bitcoin funds remain net positive for the year after strong inflows of $5.25 billion in January.\n\nThe contrast mirrors recent market performance. Since March 1, ether has dropped roughly 8.5%, while bitcoin has gained more than 3%. Year-to-date, ether has plunged over 37% to around $2,080. Bitcoin, while also down, has fared better with a 7.5% decline to about $87,300. The broader CoinDesk 20 Index fell 21% in the same period.\n\nDespite the downturn, ether ETFs still hold a net inflow of $2.42 billion since their launch. But that’s dwarfed by the $36.05 billion pulled in by the bitcoin counterparts, highlighting the gap in investor appetite between the two assets.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/spot-ether-etfs-in-the-u-s-shed-usd401-million-in-march-as-price-drop-deepened",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "SoSoValue"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant ETF outflows and price declines for both ether and bitcoin, with ether dropping 8.5% and bitcoin funds facing $893 million in withdrawals."
+    }
+}

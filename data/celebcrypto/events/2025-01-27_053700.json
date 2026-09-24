@@ -1,0 +1,40 @@
+{
+    "title": "ANALYSIS: AI Tokens Are the Real Losers of the DeepSeek Revolution",
+    "time": "2025-01-27T05:37:00",
+    "author": "Sam Reynolds",
+    "summary": "Artificial Intelligence tokens have a market cap in the billions, and pools of capital startups would be jealous of. But they got beat by a lean, efficient team.",
+    "content": "Artificial Intelligence (AI) tokens are in the red during the Asia morning trading hours on Monday, with the AI category on CoinGecko down 9%, registering bigger losses than the CoinDesk 20 – a broader crypto index – which is down 5%.\n\nCrypto investors, like their traditional finance counterparts, are likely digesting the impact that DeepSeek, a new AI model, on the industry.\n\nData from DeepSeek posted on Hugging Face, a forum of the AI industry, shows that its model outperforms OpenAI, all while being built on a budget of $6 million and a fraction of the Graphics Processing Units (GPUs) that OpenAI uses – which recently closed a $6.6 billion round with a valuation of over $157 billion.\n\nPerhaps most concerning to the perpetual GPU bulls is that DeepSeek is so efficient that a version of it can be run on your phone.\n\nNaturally, some of the worst-performing AI tokens are ones with the most exposure to GPUs. Small-cap Nodes.AI, which facilitates access to GPUs, is down nearly 20%, according to CoinGecko data, although Aethir, which does the same (albeit at a much higher market cap) is only down 6%, just slightly more than the CoinDesk 20 benchmark.\n\nWhile DeepSeek will make for a stressful week at OpenAI, Nvidia, and other tech giants that have pivoted to AI, it's also a more pressing lesson for crypto projects – one that might be familiar to those with crypto's foray into gaming years ago.\n\nDespite the pools of capital available to crypto AI projects, they just haven't been able to make something as revolutionary or interesting as what DeepSeek did.\n\nData from CoinGecko pegs the value of the crypto gaming sector (GameFi) at $19 billion. If the largest entries on this list, like Sandbox, GALA, or Decentraland, were entries on the top-30 largest gaming companies by marketcap they would hold respectable positions alongside household names responsible for recognizable franchises.\n\nBut despite these projects just haven't had the same success as their traditional counterparts.\n\nLast year, blockchain gaming received lowest investment since 2020, according to data source DappRadar. Just $1.8 billion were invested in blockchain gaming and metaverse projects, representing a 38% slide from 2023.\n\nAnd while the daily unique active wallets in blockchain gaming surged 421% last year, the sector's dominance within the industry fluctuated between 26-29%, with DeFi taking the lead. Still, the tally is lower than games on Steam.\n\nBesides, some older and less popular games on Steam, from companies with market caps a fraction of GameFi giants, have a larger following. Over the years, many crypto games have struggled to build a sustainable user base.\n\nSo, for now, one might say that crypto faces challenges in catering to use cases beyond finance.",
+    "url": "https://www.coindesk.com/markets/2025/01/27/analysis-ai-tokens-are-the-real-losers-of-the-deepseek-revolution",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "OpenAI",
+                "Nvidia",
+                "Nodes.AI",
+                "Aethir",
+                "Sandbox",
+                "GALA",
+                "Decentraland"
+            ],
+            "organizations": [
+                "DeepSeek",
+                "CoinGecko",
+                "Hugging Face",
+                "CoinDesk",
+                "DappRadar",
+                "Steam"
+            ]
+        },
+        "cryptocurrencies": [
+            "Nodes.AI",
+            "Aethir",
+            "Sandbox",
+            "GALA",
+            "Decentraland"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports AI tokens are down 9% with specific tokens like Nodes.AI down nearly 20% due to DeepSeek's efficiency threatening GPU-dependent crypto projects."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin Slips With XRP, ADA as Nvidia's Massive $5.5B Charge Sours Investor Sentiment",
+    "summary": "Nvidia shares plummeted 8% after the U.S. banned its H20 chip sales to China, impacting equities and the crypto market.",
+    "time": "2025-04-16T00:48:00",
+    "author": "Omkar Godbole",
+    "content": "The mood in the equity and crypto market turned sour late Tuesday as Nvidia shares crashed in after-hours trading following a $5.5 billion charge tied to the Trump administration's decision to ban the company's H20 chip sales to China.\n\nBitcoin, the leading cryptocurrency by market value, fell to $83,600, extending the retreat from the two-week high of $86,440 reached earlier in the day, CoinDesk data showed. Payments-focused XRP followed a similar trajectory, falling over 2% to $2.08, while Cardano's ADA token slipped 4% to $0.61. The CoinDesk 20 Index, a broader market gauge, weakened over 2%.\n\nMeanwhile, coins supposedly associated with artificial intelligence (AI) continued to fare worse as shares in NVDA tanked 8% to $89.10 after the company disclosed in a regulatory filing that it expects to write down $5.5 billion in the fiscal first quarter due to the new restrictions on exports of its H20 chip to China.\n\nThe news came a day after unusual activity in NVDA put options pointing to an impending market swoon.\n\nThe futures tied to the Nasdaq index fell over 1% as well, offering negative cues to risk assets in general.\n\nThe next catalyst awaiting release Wednesday morning Eastern time is the U.S. retail sales report for March. Per economists polled by Dow Jones, the data is expected to show a 1.2% increase in consumer spending on the month, up from a 0.2% climb in February.\n\nA better-than-expected report will likely help assuage recession fears triggered by President Donald Trump's trade war with China and other trading partners. However, there is a risk that markets will dismiss it as backward-looking, failing to account for the major escalation in trade tensions seen this month.\n\nFederal Reserve's Chairman Jerome Powell is also scheduled to speak on Wednesday at the Economic Club of Chicago on his outlook for the U.S. economy.\n\n\"All eyes are on Powell. Markets are holding their breath for Powell on Wednesday. Between the trade war and rising recession chatter, traders are watching for any hint the Fed might be forced to cut sooner than expected,\" Secure Digital Markets said in Tuesday's research note.\n\nThe forward-looking market-based measures like the inflation breakevens have dropped amid trade tensions, pointing to the disinflationary impact of Trump's tariffs. That could provide the Fed with a leeway to cut rates.\n\nEarly this week, Federal Reserve Governor Christopher Waller said the bank would be forced to quickly make a series of \"bad news\" rate cuts if the U.S. president reimposes the levies unveiled on April 2. Trump announced sweeping tariffs on 180 nations on April 2 but quickly suspended the same for most nations, excluding China, for 90 days.\n\nRead more: Bitcoin Hovers at $85K as Fed’s Waller Suggests 'Bad News' Rate Cuts if Tariffs Resume",
+    "url": "https://www.coindesk.com/markets/2025/04/15/bitcoin-slips-with-xrp-ada-as-nvidia-s-massive-usd5-5b-charge-sours-investor-sentiment",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Donald Trump",
+                "Christopher Waller"
+            ],
+            "positions": [
+                "Federal Reserve's Chairman",
+                "U.S. president",
+                "Federal Reserve Governor"
+            ],
+            "companies": [
+                "Nvidia",
+                "CoinDesk",
+                "Dow Jones",
+                "Secure Digital Markets"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Economic Club of Chicago"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "XRP",
+            "ADA",
+            "Cardano"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrency prices falling across multiple assets including Bitcoin, XRP, and ADA following negative market sentiment from Nvidia's stock crash and trade restrictions."
+    }
+}

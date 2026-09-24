@@ -1,0 +1,39 @@
+{
+    "title": "Kava Labs' Scott Stuart: Decentralized AI Delivers Real Value, Not NFT Style-Hype",
+    "summary": "Kava's co-founder explains why the DeFi-to-AI pivot helped it beat the market, while other AI tokens have flopped.",
+    "time": "2025-04-14T12:43:00",
+    "author": "Sam Reynolds",
+    "content": "Artificial Intelligence tokens have long-term staying power and won't be another crypto fad like non-fungible tokens (NFTs), even though the industry has already seen its share of flops, Kava Labs co-founder Scott Stuart said in an interview with CoinDesk.\n\n\"We had this first AI wave, but that wave was projects like Fetch saying, 'We're going to do a merger,' but producing nothing from it, or projects like Virtuals or AI16z, initially doing well, then dropping off by 80% or 90%. It was an unhappy outcome,\" Stuart told CoinDesk in an interview.\n\nMarket data shows that since January, Virtuals, the native token of the AI-related Virtuals Protocol, is down nearly 85%. FET, the token of Fetch.ai, the artificial intelligence alliance, is down 60%.\n\nKAVA, for its part, is fairing reasonably well, down 5%, beating the CoinDesk 20, a market index, which is down 29%.\n\nKava didn't start as an AI project. Initially known for Cosmos-based decentralized finance (DeFi), began as just another DeFi project, but pivoted to decentralized AI as a differentiator amidst ongoing crypto market consolidation.\n\nSince its pivot, Kava has shipped its Kava AI platform and marketplace, a blockchain-native chatbot resembling ChatGPT powered by DeepSeek's R1 large language model, the autonomous AI agent Oros, and decentralized GPU infrastructure.\n\nStuart said this pivot was necessary because altcoins face increased challenges without a compelling narrative, making decentralized AI's clarity and value proposition critical.\n\n\"Unlike speculative bubbles such as NFTs, decentralized AI's fundamental utility ensures its resilience. NFTs or similar trends are essentially memes built on top of memes. Anything that's beta to meme coins will inevitably rise and fall with hype cycles,\" he said.\n\nThe company is building a decentralized artificial intelligence (AI) infrastructure designed to be auditable, transparent, and open-source. Given its performance compared to the rest of the market, clearly, they are onto something.\n\n“When you look at AI as a technology, it's just another way for corporations to present you information,\" Stuart said. \"With OpenAI, there's a secret sauce component, and at any point in the future, they can tweak that model to serve you what they want.”\n\nStuart argues that the stakes are substantial in separating AI from this black box as technology becomes increasingly integral to daily life.\n\n“Closed-source AI can tweak models in ways you can't see. You don't know if it's optimized for your benefit or a company's or even a nation-state's interest,” he said.\n\nAnd he's not the only one that has these concerns. In an earlier interview with CoinDesk, Simon Kim, CEO of South Korea's Hashed, the country's leading web3 fund, said closed-source AI has made a 'God' from a machine. Its inner workings remain unknown and incomprehensible, but it has established itself as a pillar of society.\n\nIn contrast, Kava Labs promotes an \"open-weight\" approach, allowing anyone to verify AI model parameters, much like Ethereum’s transparent smart contracts.\n\nRecognizing how regulators increasingly view AI transparency as a strategic U.S. interest, Stuart sees an opportunity to build decentralized AI infrastructure that's certifiably 'made-in-the-U.S.A.' and backed by open-source funding initiatives.\n\n\"During the last administration, the trend was toward offshoring everything,\" he said. \"Now it seems they're serious about reversing that, and we're using this shift as an opportunity to strengthen U.S.-based infrastructure.\"\n\nAnd underneath this infrastructure will be open source technology.\n\n\"The future of AI isn't corporate-controlled,\" he concluded. \"It's open, transparent, and decentralized. Kava aims to lead this transformation.\"",
+    "url": "https://www.coindesk.com/tech/2025/04/14/kava-labs-scott-stuart-decentralized-ai-delivers-real-value-not-nft-style-hype",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Scott Stuart",
+                "Simon Kim"
+            ],
+            "positions": [
+                "co-founder",
+                "CEO"
+            ],
+            "companies": [
+                "Kava Labs",
+                "Fetch.ai",
+                "Virtuals Protocol",
+                "AI16z",
+                "OpenAI",
+                "Hashed",
+                "DeepSeek"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "KAVA",
+            "FET",
+            "Virtuals"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights Kava's successful pivot to decentralized AI with KAVA outperforming the market index and emphasizes the fundamental utility and resilience of decentralized AI compared to speculative trends."
+    }
+}

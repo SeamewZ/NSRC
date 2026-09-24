@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin Heads to $90K as Crypto Selloff Gathers Steam",
+    "time": "2025-01-09T20:51:00",
+    "author": "Stephen Alpher",
+    "summary": "Strong economic data and a slumping bond market have called into question the idea of any rate cuts this year.",
+    "content": "U.S. stock markets were closed on Thursday in remembrance of former President Jimmy Carter, but crypto is 24/7 and is bearing the entire brunt of any nervousness ahead of tomorrow's December employment report.\n\nIn late-afternoon action, the price of bitcoin\nBTC\n$104,111.73\nhad returned to levels not seen in more than a month, barely holding on above $91,000 and down about 3% over the past 24 hours.\n\nThe broader CoinDesk 20 Index is down similarly, but notable underperformers include solana\nSOL\n$157.10\nand chainlink\nLINK\n$14.66\n, both off by double-digit percentage amounts.\n\nThe continued selloff in crypto comes following a major fourth quarter 2024 rally spurred by Donald Trump's November victory and the hope of a friendlier regulatory environment out of Washington D.C.\n\nAnother leg on the stool propping crypto was easier monetary policy, the U.S. Federal Reserve having cut its overnight interest rate by 100 basis points since September. That leg, though, has been cut out after a series of economic reports showed the economy and inflation has been far stronger than markets and the central bank expected. That in turn has sent yields on long-term interest rates higher by more than 100 basis points since the Fed began trimming short-term rates.\n\nToday's selling is coming ahead of Friday morning's December jobs report. Another in the long string of strong economic data could have markets not just scrapping the idea of any rate cuts in 2025, but perhaps beginning to price in the need for rate hikes in coming months.\n\n\"BTC, ETH and SOL are now revisiting December 5 range lows and people are beginning to accept the fact that these levels may not hold,\" well-followed trader Eugene Ng Ah Sio said in an X post. \"This is when most people start panicking.\"\n\nHe said the next support level for bitcoin is $85,000 if the $90,000 level falls.\n\nJoe McCann, founder of venture capital fund Asymmetric, posted that BTC could target $75,000 in case the bitcoin doesn't hold the $90,000 line.\n\nProminent trader Skew said that the Thursday leg lower in prices could have been driven by headlines regarding additional Silk Road-related bitcoin sales. In a separate post analyzing Binance order book data, Skew said that bid liquidity ready to buy up bitcoin below current prices is robust, outweighing sellers.\n\n\"Something to note here is the lack of volatility behind price here, which is partly the sell flow not being sizable, and the amount of bid liquidity which outweighs current sell pressure,\" Skew said. \"This doesn't look that bad.\"\n\nCORRECTION (Jan. 10, 10:55 UTC): Corrects company name to Asymmetric.",
+    "url": "https://www.coindesk.com/markets/2025/01/09/bitcoin-heads-to-90-k-as-crypto-selloff-gathers-steam",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eugene Ng Ah Sio",
+                "Joe McCann",
+                "Skew"
+            ],
+            "positions": [
+                "founder",
+                "trader"
+            ],
+            "companies": [
+                "Asymmetric",
+                "Binance"
+            ],
+            "organizations": [
+                "U.S. Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "SOL",
+            "solana",
+            "chainlink",
+            "LINK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a continued crypto selloff with bitcoin down 3%, solana and chainlink down double-digits, and analysts warning of potential further declines to $85,000-$75,000 levels."
+    }
+}

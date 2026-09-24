@@ -1,0 +1,34 @@
+{
+    "title": "Square Flies the Flag for the Lightning Network With 9.7% Yield on Bitcoin Holdings",
+    "summary": "Block's Miles Suter said that the firm is earning \"real BTC returns from our corporate holdings...by efficiently routing real payments across Lightning\"",
+    "time": "2025-05-29T14:28:00",
+    "author": "Jamie Crawley",
+    "content": "Square, the payment platform owned by Jack Dorsey's company Block (XYZ) is earning a yield of 9.7% on its bitcoin holdings through running a node on the Lightning network.\n\nBlock's Bitcoin product lead Miles Suter said that the firm is earning \"real bitcoin returns from our corporate holdings...by efficiently routing real payments across the Lightning network,\" in an appearance at Bitcoin 2025 in Las Vegas on Wednesday.\n\nThe yield is earned through Square's Lightning service provider c=, which was created two years ago to improve liquidity and efficiency on Lightning.\n\nLightning Labs' Ryan Gentry referred to Suter's announcement as \"the biggest news\" at Bitcoin 2025 in a post on X, estimating that Square's 9.7% yield equates to around $1 million a year.\n\nFor many years, bitcoin layer-2 network Lightning was hailed as the savior to BTC's problems of scale and speed by creating micropayment channels that can process transactions away from the main blockchain.\n\nOver time though some of these hopes have faded owing to Lightning's faults, such as the requirement for inbound liquidity, whereby users must in effect commit BTC in order to receive BTC. This may deter adoption by smaller-scale nodes, which is a hindrance to decentralization.\n\nHowever, Square sees the layer-2 as fundamental to its plans to accelerate BTC payments adoption, with one in four of its outbound bitcoin payments now processed on Lightning, Suter said onstage in Las Vegas.\n\nThe company is piloting Lightning-based payments at Bitcoin 2025 with plans for a rollout to all eligible Square sellers in 2026.\n\n\"When you enable real payments by making the. faster and more convenient, the network gets stronger, smarter and more useful,\" Suter said.\n\n\"So if you're wondering if wondering if bitcoin is still just an asset, the answer is no. It's already an asset and a protocol and now Block is leading the effort to make it the world's best payment system.\"",
+    "url": "https://www.coindesk.com/tech/2025/05/29/square-flies-the-flag-for-the-lightning-network-with-97-yield-on-bitcoin-holdings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Dorsey",
+                "Miles Suter",
+                "Ryan Gentry"
+            ],
+            "positions": [
+                "Bitcoin product lead"
+            ],
+            "companies": [
+                "Square",
+                "Block",
+                "Lightning Labs"
+            ],
+            "organizations": [
+                "Bitcoin 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Square earning a 9.7% yield on bitcoin holdings through Lightning Network adoption and expanding bitcoin payment processing, indicating institutional confidence and utility growth for Bitcoin."
+    }
+}

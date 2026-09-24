@@ -1,0 +1,39 @@
+{
+    "title": "Reflections on Those MSTR Bitcoin ‘Earnings’",
+    "summary": "The 'Strategy Model' is good for BTC. But what about the rest of crypto? CoinDesk Indices’ Andy Baehr has questions.",
+    "time": "2025-05-05T17:12:00",
+    "author": "Andy Baehr",
+    "content": "MSTR earnings came out May 1. My morning media stops last Thursday (here and here) asked for a preview. We don't talk about stocks, so I planned to zoom out and hit themes. While preparing, I had to suppress the eye-roll reflexes that MSTR triggers.\n\nMSTR, of course, is the ticker symbol for MicroStrategy, or Strategy, as the company is now known. Strategy, fronted by Michael Saylor, pioneered the “bitcoin treasury” model that’s now been copied by Metaplanet and dozens of other companies. Strategy plans to raise $84 billion, according to its most recent announcement, across equity and fixed income instruments.\n\nHere are three questions:\n\n1. Earnings?\nMSTR \"earnings\" and \"price targets\" are... Well, they don't really mean the same thing, especially once the effect of ASC 2023-08 is backed out. It's just the price of bitcoin and financing, plain and simple. Wall Street analysts and pundits should get that right.\n\n2. Strategy?\nYou can't just say, \"Strategy.\" You have to say, \"Strategy; you know, it used to be Microstrategy.\" Like Prince, Puff Daddy, Kanye West and Twitter. NB: folks say \"strategy\" (small \"s\") a lot already.\n\n3. Don't be a hater?\nMSTR supports a market cap of $107b with bitcoin holdings of $53b and laser-eyed goodwill. No lifeboat, no parachute, no apparent Plan B. If it fails, the bitcoin market could take the blame.\n\nThose eye-rollers (and some obsequious media coverage) notwithstanding, we can agree that:\n\n- The capital raises are truly awesome. The force is strong in this one.\n\n- MSTR is up 36% on the year, compared to less than 5% for bitcoin. Who am I to throw stones?\n\n- MSTR cleverly uses stock price volatility as a feature, not a bug, for 1) issuing mouth-watering converts, 2) attracting listed options volume, and 3) corporate \"yield\" strategies. (Just please stop calling option-selling a \"yield strategy.\" And I said \"strategy\" again. Small \"s\".)\n\n- The preferreds (STRK and STRF) hit the mark with some folks who like preferreds. Some of my preferreds friends are smitten.\n\nStrategy (big \"S\") has not only created a movement, but a category. Levered MSTR ETFs (including this new one which pays \"income\") serve the market for whom MSTR's 70 vol is dull. Grayscale announced an ETF that tracks 30 companies that hold at least 100 bitcoin.\n\nLast, but not least, Cantor Equity Partners, a SPAC, is merging to form Twenty One Capital, which will hold $3 billion of bitcoin. Mention this trend in a room full of pundits and they'll yell \"Gamestop!\" in unison. It's fun.\n\nThis is all fine. Adding bitcoin to the treasury of non-crypto companies* is an interesting trend. (And that doesn’t include crypto-native companies, like CoinDesk's parent company, Bullish.)\n\nBut it's only bitcoin at the moment.\n\nDespite the loosening of U.S. regulatory zip-ties on digital assets and the recent flurry of ETF filings, bitcoin still dominates the conversation (it still accounts for about two-thirds of the total cryptocurrency market).\n\nAgain, that's fine if we are talking about a store-of-value asset contributing to a corporate treasury otherwise allocated to cash and treasuries. However, the growing number of flavors of bitcoin exposure--leverage, yield, optionality, protection--are taking the place of education about what other blockchain assets hope to deliver, and why it is important to spend more time thinking about the asset class.\n\nUntil recently, that was fruitless for many investors and advisors, since brokerage- or futures- account implementation was not available. (Of course, it has been for ETH, but you need more than ETH to think about the \"digital asset class.\" Lack of enthusiasm for ETH investment vehicles, we believe, has struggled in part for this reason.)\n\nIf 2024 was bitcoin's \"coming out\" year, we hope that 2025 gives investors and traders opportunities to think deeper and more broadly, and to implement accordingly. If not, the U.S. crypto investing narrative will start to sound like a \"bitcoin maxi,\" and that feels like leaving money on the table.",
+    "url": "https://www.coindesk.com/opinion/2025/05/05/reflections-on-those-mstr-bitcoin-earnings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Andy Baehr"
+            ],
+            "positions": [],
+            "companies": [
+                "MicroStrategy",
+                "Strategy",
+                "Metaplanet",
+                "CoinDesk",
+                "Bullish",
+                "Grayscale",
+                "Cantor Equity Partners",
+                "Twenty One Capital"
+            ],
+            "organizations": [
+                "CoinDesk Indices",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights significant capital raises, corporate bitcoin adoption trends, MSTR's strong performance, and growing institutional interest in bitcoin exposure through various financial instruments."
+    }
+}

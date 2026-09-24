@@ -1,0 +1,54 @@
+{
+    "title": "As Meta Said to Mull Tokens, Senator Warren Calls for Blocking Big Tech Stablecoins",
+    "summary": "While the top Democrat on the Senate Banking Committee argues for stablecoin limits, she and colleagues also questioned Binance's talks with Treasury.",
+    "time": "2025-05-09T20:26:00",
+    "author": "Jesse Hamilton",
+    "content": "Tech titan Meta (META) has reportedly been looking into the possibility of a return to the stablecoin market after having spurred a U.S. regulatory backlash from its efforts in years past, and U.S. Senator Elizabeth Warren told CoinDesk that the pending legislation to govern stablecoins needs to insist that's not possible.\n\nA high-stakes crypto bill to set up U.S. rules for stablecoins such as Tether's USDT and Circle's USDC was virtually sailing through the Senate until Democrats — including some who had supported the effort in committee — rose against it in recent days and halted the bill's progress on the Senate floor this week. The Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act needs to change to prevent the large corporations from issuing their own money, Warren said.\n\n\"The Senate must fix the GENIUS Act so it prohibits Big Tech companies and other commercial giants from owning or affiliating with stablecoin companies,\" the Massachusetts Democrat said in a statement to CoinDesk. \"No Senator should vote to make it easier for Big Tech to pry into our financial transactions or choke off small businesses and political adversaries from the payments system.\"\n\nSix years ago, Meta sought to launch its own crypto stablecoin, Libra (later called Diem), and nearly made it to the finish line before an uproar from certain regulators and lawmakers derailed the project. She argued that Meta chief Mark Zuckerberg, whose company gave $1 million to President Donald Trump's inaugural fund, is trying to get back into the business, and she called for Zuckerberg \"to explain to Congress if this is another attempt to control the American people’s money.\"\n\nWhen asked for comment on Warren's views, Meta directed CoinDesk to what communication director Andy Stone had posted on social media site X: \"Diem is 'dead.' There is no Meta stablecoin.\"\n\nThe GENIUS Act is now back in negotiations, and some lawmakers remained hopeful it could reappear on the Senate floor as early as next week. There's also a House of Representatives version similarly winding its way through the process in that chamber of Congress.\n\nWarren, the senior Democrat on the Senate Banking Committee has been busy with her crypto-sector scrutiny, also joining in with colleagues on Friday to question Treasury Secretary Scott Bessent and Attorney General Pam Bondi on their interactions with Binance as it reportedly sought to smooth out the U.S. legal demands the exchange still labors under after a 2023 settlement.\n\nFive DemocratIc senators — also including Richard Blumenthal, Chris Van Hollen, Mazie Horono and Sheldon Whitehouse — sent a letter to the officials about the exchange's discussions with the U.S. government as Binance increases business ties with World Liberty Financial, the crypto company tied to President Donald Trump and his family.\n\n\"As the administration loosens oversight on an industry where bad actors have violated money laundering and sanctions law, it is not surprising that Binance, which has admitted to prioritizing its own growth and profits over compliance with U.S. law, would seek to roll back the oversight required by its settlement,\" they wrote in the letter, noting Binance's constraints based on its past guilty pleas to a list of charges including money laundering and sanctions violations, for which the company is still under the observation of independent monitors.\n\n\"Our concerns about Binance’s compliance obligations are even more pressing given recent reports that the company is using the Trump family’s stablecoin to partner with foreign investment companies,\" the senators said.\n\nSpokespeople for Binance didn't immediately respond to a request for comment.\n\nRead More: Trump's Crypto Play Fuels Senators' Backlash and Bill to Ban President Memecoins\n\nNikhilesh De contributed reporting.\n\nUPDATE (May 9, 2025, 21:16 UTC): Adds response from Meta.",
+    "url": "https://www.coindesk.com/policy/2025/05/09/as-meta-said-to-mull-tokens-senator-warren-calls-for-blocking-big-tech-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elizabeth Warren",
+                "Mark Zuckerberg",
+                "Andy Stone",
+                "Scott Bessent",
+                "Pam Bondi",
+                "Richard Blumenthal",
+                "Chris Van Hollen",
+                "Mazie Horono",
+                "Sheldon Whitehouse",
+                "Donald Trump",
+                "Nikhilesh De"
+            ],
+            "positions": [
+                "Senator",
+                "President",
+                "communication director",
+                "Treasury Secretary",
+                "Attorney General"
+            ],
+            "companies": [
+                "Meta",
+                "Tether",
+                "Circle",
+                "Binance",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Senate Banking Committee",
+                "U.S. Senate",
+                "House of Representatives",
+                "Congress",
+                "Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC",
+            "Libra",
+            "Diem"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory pushback against stablecoin legislation and increased scrutiny of crypto companies, which typically creates negative market sentiment due to potential regulatory constraints."
+    }
+}

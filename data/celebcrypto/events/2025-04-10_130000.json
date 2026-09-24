@@ -1,0 +1,28 @@
+{
+    "title": "Wrapped BTC Holders Can Now Secure 6% APY on Base via Umoja",
+    "time": "2025-04-10T13:00:00",
+    "author": "Oliver Knight",
+    "summary": "Umoja achieves the yield through covered calls and arbitrage.",
+    "content": "Decentralized finance (DeFi) protocol Umoja has released a product that allows Coinbase wrapped BTC (cbBTC) token holders to earn a 6% yield on layer-2 network Base.\n\nUmoja achieves its yield by tapping into a range of centralized and decentralized exchange strategies including covered calls and arbitrage, which involves buying an asset at on one venue and simultaneously selling it for a higher price on another venue.\n\nIt's worthing noting that cbBTC is a wrapped token and not bitcoin\nBTC\n$107,017.55\nitself, it is an erc20 token backed 1:1 by bitcoin held at Coinbase.\n\nThe Umoja protocol supports a number of Yield Vault Tokens (YVTs) collateralized by cryptocurrencies (including real world asset tokens).\n\nOne of those YVTs is yBTC, which is minted once users deposit cbBTC on the protocol.\n\nAcquiring a yield on BTC using DeFi strategies has been a controversial topic for bitcoin maximalists, who are generally opposed to the DeFi sector and altcoins.\n\nHowever, as BTC continues its plunge from above $100K to the April 7 low of $74.8K, investor demand for achieving a yield to mitigate against spot value losses looks set to increase.\n\nJapanese firm Metaplanet has recently started to earn a yield on bitcoin by purchasing spot assets at the same time as put options, then selling premium on put options as price slumps.",
+    "url": "https://www.coindesk.com/business/2025/04/09/btc-holders-can-now-secure-6-apy-on-base-via-umoja",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Metaplanet"
+            ],
+            "organizations": [
+                "Umoja"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "cbBTC",
+            "yBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes new yield-earning opportunities for BTC holders and increased investor demand for yield strategies, which suggests positive market development and utility expansion."
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Breakout Lifts AI, Memecoins, Underscores Hedge Value",
+    "time": "2025-04-21T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for April 21, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nBitcoin's censorship-resistant, decentralized setup empowers individuals by facilitating peer-to-peer transactions without government interference or corporate control.\n\nYou’ve probably heard that from a Bitcoin maxi many times.\n\nIt's an idea that resonates even more strongly today in light of reports that President Donald Trump is exploring ways to remove Jerome Powell, the chair of the Federal Reserve, which is the world's most powerful central bank.\n\nNational Economic Council Director Kevin Hassett talked about Trump's intentions Friday and markets responded early Monday by selling the dollar and the U.S. stock futures. The Dollar Index, which tracks the currency's exchange rate against major fiat currencies, slipped to a three-year low of 98.00 while gold touched new highs above $3,400 per ounce.\n\nBitcoin rose past $87,000, confirming a bullish breakout from its recent sideways trading between $83,000 and $86,000 to suggest more gains ahead. The uptick saw gaming, AI and memecoins outshine other sectors of the crypto market, with smaller tokens like ENJ and MAGIC chalking out gains in excess of 50% in 24 hours. MANTRA still tanked 15%.\n\n\"A weaker dollar could draw renewed attention from American investors, highlighting bitcoin's potential as a hedge against declining dollar value,\" said Matrixport, a crypto financial services platform.\n\nOn-chain data warned of heightened volatility as prices potentially near the $90,000 mark. \"Cost‑basis clusters show little overhead supply below that range, implying the market could advance quickly before a larger tranche of holders reaches break‑even and begins taking profit,\" analytics firm IntoTheBlock said in a Telegram post.\n\nIn other news, Charles Shwab CEO Rick Wurster said the financial services firm is “hopeful and likely to be able” to support spot crypto trading within the next year. Wurster said that more and more clients are seeking information about crypto.\n\nSlovenia's Finance Ministry proposed a 25% tax on capital gains on profits from selling cryptocurrencies for fiat or spending tokens for goods and services. The tax is proposed to go into effect from 2026.\n\nVitalik Buterin, a co-founder of the Ethereum blockchain, proposed replacing the Ethereum Virtual Machine (EVM) with RISC-V, an open-source instruction set architecture used to develop custom processors for a variety of applications. Buterin said the proposal address one of Ethereum's key scaling bottlenecks by dramatically improving the efficiency and simplicity of smart contract execution.\n\nSpeaking of Ethereum, it briefly fell behind its chief rival, Solana network in terms of the total staked value of their respective native tokens, ETH and SOL. Uniswap founder Hayden Adam warned that Ethereum could fall behind Solana if it goes back to relying on the layer 1 bockchain instead of the layer-2 scaling products.\n\nIn macro news, China said it will retaliate against countries that work with U.S. to isolate Beijing in the trade war started by Trump. Stay alert!\n\nBy Shaurya Malwa\n\nBitget估计是做市机器人出bug了，Voxel/Usdt合约交易对在0.125-0.138范围内可以自动成交\n\n有人发现了，用100u来回撸短撸了十几万u......\n\n刚刚USDT短暂关闭提币了，现在已恢复，不过有些相关账号应该风控了。有点像ATM疯狂吐钞票的感觉了😂 pic.twitter.com/l3zvPB9AMn\n\nU.S. equity markets were closed on Friday.",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/21/crypto-daybook-americas-bitcoin-breakout-lifts-ai-memecoins-underscores-hedg-value",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump",
+                "Jerome Powell",
+                "Kevin Hassett",
+                "Rick Wurster",
+                "Vitalik Buterin",
+                "Hayden Adam",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President",
+                "Chair of the Federal Reserve",
+                "National Economic Council Director",
+                "CEO",
+                "Co-founder"
+            ],
+            "companies": [
+                "Matrixport",
+                "Charles Shwab",
+                "IntoTheBlock",
+                "Bitget",
+                "Uniswap"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Slovenia's Finance Ministry",
+                "Ethereum",
+                "Solana"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "ENJ",
+            "MAGIC",
+            "MANTRA",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL",
+            "Voxel",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin confirmed a bullish breakout above $87,000 with gaming, AI and memecoins outperforming, while analysts highlighted bitcoin's hedge value amid dollar weakness."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Crypto Accounting Platform Cryptio Raises $15M in Series A Extension",
+    "time": "2025-01-29T14:00:00",
+    "author": "Jamie Crawley",
+    "summary": "Existing investor Alven led the round and featured participation from new backers 1kx and Ledger Cathay Capital.",
+    "content": "Crypto accounting platform Cryptio has raised $15 million in an extension to its Series A funding round from June 2022.\n\nExisting investor Alven led the round and featured participation from new backers 1kx and Ledger Cathay Capital, Cryptio told CoinDesk via email on Wednesday.\n\nThe $15 million raised takes the total for the Series A round to $25 million.\n\nCryptio's aim is to provide traditional financial (TradFi) entities with back-office operations and infrastructure that allow them to offer digital asset products such as stablecoins, crypto-backed loans and crypto savings.\n\nMany observers are expecting the number of banks offering crypto services to increase following the repeal of the U.S. Securities and Exchange Commision (SEC)'s controversial SAB 121 accounting rule.\n\nSAB121 decreed that a company keeping a customer's crypto should record them on its own balance sheet, potentially having major implications for banks' capital allocations when working with crypto clients. This drew ire from crypto industry participants as it did not account for the lack of guidance from the SEC on how securities laws apply to digital assets.\n\nThe repeal of this legislation is therefore being hailed as sign of the changing regulatory landscape for cryptocurrency in the U.S.\n\nRead More: A New (Digital) Age at the SEC",
+    "url": "https://www.coindesk.com/business/2025/01/28/crypto-accounting-platform-cryptio-raises-usd15m-in-series-a-extension",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Cryptio",
+                "Alven",
+                "1kx",
+                "Ledger Cathay Capital",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The repeal of SEC's SAB 121 accounting rule is hailed as a positive regulatory change that could increase banks offering crypto services, indicating improved market conditions."
+    }
+}

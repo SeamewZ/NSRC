@@ -1,0 +1,39 @@
+{
+    "title": "Crypto Daybook Americas: All Signs Point Up as Bitcoin Hits Record High",
+    "time": "2025-05-22T11:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for May 22, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\nsurpassed Wednesday's record to reach an all-time high of $111,875 in the early hours of Thursday, according to the CoinDesk Bitcoin Price Index, as traditional financial markets contended with rising bond yields and renewed concerns over ballooning U.S. debt.\n\nThe largest cryptocurrency has gained around 3.8% in the last 24 hours while the broader CoinDesk 20 {{CD20}} index rose 4.74%, continuing a trend of strength driven by mounting institutional demand and growing interest in crypto exposure.\n\nThe rally is unfolding against a backdrop of higher yields on U.S. and Japanese government bonds. The 10-year U.S. Treasury yield rose to 4.6%, while the 30-year topped 5%, driven by concerns over President Donald Trump’s tax bill that analysts estimate could add as much as $5 trillion to the country’s debt, according to Reuters.\n\nIn Japan, yields on 30- and 40-year government bonds also hit record highs. The country’s debt-to-GDP ratio stands at 234%, QCP Capital said, and growing scrutiny coupled with weak demand for long-dated JGBs sent yields soaring.\n\nThat matters because higher yields — and thus higher returns — on investments that are considered relatively safe tend to lower the appeal of riskier assets like stocks, not to mention cryptocurrencies. While BTC, with its history of trading as a risky asset, hasn't shown much sign of ebbing demand, it raises the question of how long the rally can continue.\n\nStill, traders have been building large long positions in BTC options, with the most open interest now concentrated at the $110,000, $120,000 and even $300,000 calls for contracts expiring in late June in a sign of continuing bullish conviction.\n\nU.S.-traded spot bitcoin exchange-traded funds have also been seeing significant demand. Total net inflows hit $1.6 billion over the week, and $4.24 billion so far in May, SoSoValue data shows. The inflows, coupled with bitcoin’s price rise, have seen the ETFs' total net assets hit a record $129 billion.\n\nThere are, however, some muted signs of bearish activity.\n\n“The largest block flow this week continues to be ETH December call spreads, while overnight BTC butterfly positions hint that some traders are positioning for consolidation around current levels,” Wintermute OTC trader Jake O. said.\n\nNote, he's talking about consolidation, not declines. And traditional participants may even be too bearish. While the U.S. endured a recent credit downgrade, markets are now pricing in a 6-level cut all the way down to BBB+.\n\nOn top of that, per Jake O., a recent equities market sell-off may not be a result of repositioning given higher bond yields, but rather profit-taking after nine consecutive positive sessions. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/22/crypto-daybook-americas-all-signs-point-up-as-bitcoin-hits-record-high",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Donald Trump",
+                "Jake O.",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "Wintermute OTC trader"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Wintermute",
+                "SoSoValue",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Reuters"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin reaching an all-time high, institutional demand driving strength, large long positions in BTC options, and significant ETF inflows totaling $4.24 billion in May."
+    }
+}

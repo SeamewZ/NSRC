@@ -1,0 +1,30 @@
+{
+    "title": "Digital Asset Investment Outflow Extends Into Fifth Week",
+    "time": "2025-03-17T13:03:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The exodus comes amid growing economic concerns and geopolitical tensions, despite the Trump administration’s pro-crypto stance.",
+    "content": "Investors are fleeing digital assets as risky investments lose their popularity amid growing geopolitical and economic uncertainty.\n\nGlobally, digital asset funds lost $1.7 billion last week alone, according to a report from CoinShares, taking the total outflow over five weeks $6.4 billion. In the U.S., bitcoin\nBTC\n$104,608.94\nexchange-traded funds (ETFs) logged the longest streak of weekly outflows since their January 2024 debut, with investors pulling more than $5.4 billion over the past five weeks.\n\nWhile President Donald Trump has shown support for cryptocurrencies, including with the order for the establishment of a Bitcoin Strategic Reserve, that support has so far failed to counteract concerns about tariff-induced trade tensions and monetary policy.\n\nBitcoin has dropped more than 21% over the last three months to around $83,000, while the broader CoinDesk 20 Index (CD20) has lost around 34.6% of its value over the same period.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/digital-asset-investment-outflow-extends-into-fifth-week",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CoinShares"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant investment outflows, price declines of over 21% for Bitcoin and 34.6% for the broader market index, and investor flight from digital assets amid economic uncertainty."
+    }
+}

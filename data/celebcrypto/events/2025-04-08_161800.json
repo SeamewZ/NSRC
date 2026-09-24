@@ -1,0 +1,28 @@
+{
+    "title": "DeFi Game Aavegotchi to Abandon Polygon, Migrate to Coinbase’s Base",
+    "summary": "The migration aims to improve user experience, marketplace access, onboarding and comes amid sharp drops in user activity and total value locked on Polygon.",
+    "time": "2025-04-08T16:18:00",
+    "author": "Francisco Rodrigues",
+    "content": "The DAO running Aavegotchi, a niche non-fungible token (NFT) game, voted overwhelmingly to migrate the entire ecosystem to Base from Polygon, a move reflecting shifting developer and user sentiment in the broader Ethereum layer-2 landscape.\n\nWith 93.25% of the vote in favor, the proposal — titled “Make Aavegotchi Based Again” — lays out plans for a full deployment on Base, the Coinbase layer-2 blockchain that has gained traction among decentralized applications.\n\nAll Aavegotchi NFTs, wearables, game assets and smart contracts will be cloned and relaunched on Base, according to the proposal, with legacy assets on Polygon set to remain viewable but frozen to prevent transfers or updates.\n\nThe migration comes amid a steep decline in Polygon usage. According to data from DeFiLlama, total value locked (TVL) on the chain has dropped from a near $10 billion peak in 2021 to just $737 million today. In early 2024, TVL stood at $892 million.\n\nBase, meanwhile, has seen TVL surge to $2.9 billion from $430 million since the beginning of last year. Artemis data further shows Polygon’s daily active addresses fell from 1.3 million to 550,000 over the past year, while Base more than doubled to nearly 900,000.\n\nPixelcraft Studios, the developer behind Aavegotchi, cited improved onboarding, faster transactions and better marketplace support as key reasons for the move. A wrapper contract will also be introduced to protect assets listed on marketplaces like MagicEden and OpenSea.\n\nThe migration is expected to be completed within four to six weeks.",
+    "url": "https://www.coindesk.com/web3/2025/04/08/defi-game-aavegotchi-to-abandon-polygon-migrate-to-coinbase-s-base",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Pixelcraft Studios",
+                "MagicEden",
+                "OpenSea"
+            ],
+            "organizations": [
+                "DAO",
+                "DeFiLlama",
+                "Artemis"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The migration from Polygon to Base reflects growing adoption of Coinbase's layer-2 solution and shows developer confidence in Base's ecosystem amid declining Polygon metrics."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Shaq Inks Deal to Settle With FTX Investors Over Boosting Failed Crypto Exchange",
+    "summary": "The suit named a host of other celebrity promoters, including baseball player Shohei Otani, comedian Larry David, and model Gisele Bundchen.",
+    "time": "2025-04-24T15:33:00",
+    "author": "Cheyenne Ligon",
+    "content": "Shaquille O’Neal has reached a settlement agreement with a group of FTX investors who accused him of enabling the failed crypto exchange’s fraud by acting as a celebrity promoter, according to a court filing.\n\nDetails of the settlement agreement, including the amount O’Neal will pay, have not yet been disclosed. Plaintiffs in the case are seeking up to $21 billion in total damages from O’Neal and other promoters, former executives and other insiders.\n\nThe former basketball star-turned-business mogul was just one of a host of celebrity promoters named in the class action suit. Other athletes, including tennis player Naomi Osaka, baseball player Shohei Otani, basketball player Steph Curry and retired football player Tom Brady were also named as defendants, along with comedian Larry David, Shark Tank star Kevin O’Leary, and model Gisele Bundchen.\n\nThough O’Neal is the first big-name defendant in the case to settle on Wednesday, seven other celebrity promoters and former executives reached a settlement agreement with the investors back in 2023, including Jaguars quarterback Trevor Lawrence, and Youtubers Tom Nash, Graham Stephan and Andrei Jikh. The first tranche of settlements were relatively small, totalling a collective $1.4 million.\n\nO’Neal’s settlement with FTX investors is not his first tied to a promotion of a failed crypto project. Last year, O’Neal and several of his associates agreed to pay $11 million to Astral non-fungible token (NFT) holders who lost money in the Solana-based project he founded and promoted.",
+    "url": "https://www.coindesk.com/policy/2025/04/24/shaq-inks-deal-to-settle-with-ftx-investors-over-boosting-failed-crypto-exchange",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Shaquille O'Neal",
+                "Shohei Otani",
+                "Larry David",
+                "Gisele Bundchen",
+                "Naomi Osaka",
+                "Steph Curry",
+                "Tom Brady",
+                "Kevin O'Leary",
+                "Trevor Lawrence",
+                "Tom Nash",
+                "Graham Stephan",
+                "Andrei Jikh"
+            ],
+            "positions": [
+                "baseball player",
+                "comedian",
+                "model",
+                "tennis player",
+                "basketball player",
+                "retired football player",
+                "Shark Tank star",
+                "Jaguars quarterback",
+                "Youtubers"
+            ],
+            "companies": [
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes celebrity settlements related to promoting a failed crypto exchange and another failed NFT project, indicating negative developments in the cryptocurrency space."
+    }
+}

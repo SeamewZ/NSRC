@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Storm Could Be Brewing, Crypto OnChain Options Platform Derive Says",
+    "time": "2025-03-18T07:46:00",
+    "author": "Omkar Godbole",
+    "summary": "BTC currently faces low volatility, but a storm could be coming, Derive's Nick Forster said.",
+    "content": "The calm that has returned to the bitcoin\nBTC\n$104,603.62\nmarket may be short-lived, potentially setting the stage for a storm that could trigger significant price volatility, according to insights from the decentralized crypto on-chain options platform Derive.\n\nSince March 12, BTC has settled in the $80K-$85K range in a consolidation typically seen after a notable directional move. Prices tanked from $100K to under $80K in preceding weeks due to several factors, including President Donald Trump's tariffs and disappointment about the lack of new purchases in the U.S. strategic BTC reserve.\n\nWith the latest consolidation, key volatility metrics have declined, nearing monthly lows. Volatility, however, is mean-reverting, meaning the low-volatility regime could soon pave the way for price turbulence, according to Derive.\n\n\"BTC’s weekly at-the-money (ATM) volatility has dipped below 50% to 49%, approaching monthly lows of 45%. Realized volatility has also dropped from 91% at the start of the month to 54% today,\" Nick Forster, founder of Derive, wrote in a recent note shared with CoinDesk.\n\nIt is important to remember that volatility is price agnostic, meaning that the expected increase in volatility does not indicate the direction of the price movement in bitcoin.\n\n“Volatility is mean-reverting, so we can expect it to rise soon, likely to levels seen in February (60-70%),\" Forster added.\n\nWhether prices rise or fall, volatility can increase, suggesting that significant price swings could occur in either direction.\n\nAccording to Derive, several factors could trigger volatility, including \"a ceasefire (or lack thereof) in Ukraine, or significant shifts in crypto regulatory policy under the Trump administration.\"\n\nDerive is the world's leading on-chain AI-powered options protocol with a total value locked of nearly $100 million. The protocol has registered a cumulative trading volume of $15 billion to date.\n\nWednesday's Federal Reserve rate decision could move markets as well.\n\nThe central bank is likely to keep rates unchanged, with traders pricing two to three rate cuts later this year. But a dovish surprise could recharge bulls' engines for a sharp move higher.\n\nPotential Fed rate cuts, however, could be limited, according to BlackRock.\n\n\"Markets have priced in about two to three 25 basis point rate cuts this year, versus expectations for just one earlier this year. We think this reflects U.S. recession fears even though economic condition don’t point to a downturn. Even if prolonged uncertainty hurts growth, we still see persistent inflation limiting how much the Fed can cut,\" BlackRock said in a weekly note.\n\nThe expected volatility boom could happen to the downside should equity markets continue to fall, accelerating the decline in crypto prices.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/bitcoin-storm-could-be-brewing-crypto-onchain-options-platform-derive-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Forster",
+                "Donald Trump"
+            ],
+            "positions": [
+                "founder of Derive",
+                "President"
+            ],
+            "companies": [
+                "Derive",
+                "CoinDesk",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "U.S. strategic BTC reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news indicates that volatility is expected to increase but the direction of price movement is explicitly stated as unclear and could occur in either direction."
+    }
+}

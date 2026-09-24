@@ -1,0 +1,53 @@
+{
+    "title": "How to Prepare for a Major Compliance Failure Settlement: The OKX Approach",
+    "time": "2025-02-25T21:40:00",
+    "author": "Ian Allison",
+    "summary": "A confidential crisis management document drafted by OKX offers a fascinating insight into how one exchange choreographs its response when news breaks about regulatory failures.",
+    "content": "Confidential protocols put in place to deal with news of regulatory failings by one of the top-five crypto exchanges, OKX, suggest that the company likely has been expecting a settlement with U.S. authorities for some time.\n\nThis happened on Monday when OKX announced a $500 million-plus settlement with the U.S. Department of Justice after failing to secure a money transmitter license and allegedly facilitating $5 billion in \"suspicious transactions and criminal proceeds.\"\n\nOKX’s meticulous planning makes for some fascinating reading. The secret crisis management document seen by CoinDesk refers to a messaging “SWAT Team” that can be mobilized to implement various ways the firm’s top executives can communicate a settlement via social media and when speaking to reporters.\n\nWell in advance of Monday’s large fine and forfeiture, OKX had produced specific guidance with regards to settling with the DOJ, as well as the U.S. Treasury Department's Office of Foreign Assets Control (OFAC, or sanctions watchdog), for example.\n\nA favored approach is to point out that the entire crypto industry has been broadly under intense scrutiny and that OKX is cooperating fully with regulators, the document said. This was echoed in Monday’s press release which said OKX “appreciates” the DOJ’s “collaboration.”\n\nSince the administration of President Donald Trump took over last month, the main focus for regulatory agencies in the crypto arena has been to reverse their previously aggressive enforcement stance, with the SEC dropping ongoing litigation and closing investigations. But not so in the case of OKX, which, like Kucoin with its recent $300 million penalty and Binance back in 2023, has been forced into costly settlements.\n\nThe guidance refers to what is expected from OKX founder Star Xu, President Hong Fang and other executives when it comes to “their social media actions in two scenarios: 1) Leak before OFAC settlement, 2) upon OFAC settlement.”\n\nAlso, on the issue of OFAC, if executives are asked if OKX has served sanctioned markets, one suggestion is to say: “Customers from sanctioned markets slipped through when we had immature compliance controls and systems [...] It is a very small and insignificant part of the Okcoin or OKX customer base.”\n\nIndeed, Monday's press release from OKX acknowledged that U.S. customers were able to trade on the global exchange.\n\n\"The total number of U.S. customers involved – which are no longer on the platform – amounted to a small percentage of the Company’s worldwide customer population,\" the release said.\n\nAnother priority for OKX is how the firm choreographs its big-ticket sponsorship arrangements with the likes of Manchester City football club, F1 team McLaren and the Tribeca Film Festival. The firm estimates that around $100 million per annum has been spent on these partnerships over the past three years.\n\nThe action plan for brand partners involves the OKX marketing chief giving each partner a phone call “at the last hour before the news breaks.”\n\nThe recommended strategy here is to say OKX has prepared for a regulatory review, given the heightened scrutiny on crypto firms. If asked why the exchange did not share information about this before, the document states that these are pending inquiries and non-public matters. There is also a bullet point suggesting the CMO and OKX’s head of legal “review clauses in our brand partner contracts again.”\n\nAnother detail that gets attention in the OKX planning document is the exchange’s native cryptocurrency, OKB. An obvious concern in the aftermath of FTX is any suggestion that OKB has been used as collateral or to finance any operations of OKX, as was the case with FTX’s FTT token.\n\nOf course, the OKB exchange token hasn't been subject to anything like the iniquities of FTX’s exchange token. However, it was involved in a sudden flash crash in January 2024, after which OKX quickly offered to compensate users who had lost out. The token, which has a relatively thin trading volume and liquidity, saw 10 dormant wallets become active and begin trading just before the crash, according to Marina Khaustova, COO Crystal Intelligence, a blockchain analytics firm.\n\nNot long after the OKB crash, OKX executives Tim Byun, the former CEO of OKcoin and head of global government relations, and Head of Product Wei Lan were let go by OKX. A source familiar with the situation said Byun was \"sacrificed\" following the OKB crash.\n\nUnsurprisingly, the OKX comms protocol emphasizes that execs should “refrain from mentioning OKB and reference this only if asked.”\n\nAnother part of the puzzle is how the exchange should deal with media inquiries. Should OKX receive emails or a phone call from a journalist looking for comment about ongoing investigations, the SWAT Team and PR team should go into action to “buy time by offering up leadership schedules”\n\nMeanwhile, the plan is “to contact key friendly publications for a parallel story to seed in a complimentary narrative to the originating story,” the document states.\n\n“1. Push for delay 2. Confirm friendly publications 3. Asynchronously queue up internal / external comms, so we hit send as the story comes out,” it said.\n\nOKX did not provide a comment by press time",
+    "url": "https://www.coindesk.com/business/2025/02/25/how-to-prepare-for-a-major-compliance-failure-settlement-the-okx-approach",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Star Xu",
+                "Hong Fang",
+                "Tim Byun",
+                "Wei Lan",
+                "Marina Khaustova",
+                "Donald Trump"
+            ],
+            "positions": [
+                "founder",
+                "President",
+                "former CEO of OKcoin",
+                "head of global government relations",
+                "Head of Product",
+                "CMO",
+                "head of legal",
+                "COO"
+            ],
+            "companies": [
+                "OKX",
+                "CoinDesk",
+                "Kucoin",
+                "Binance",
+                "FTX",
+                "Crystal Intelligence",
+                "Manchester City football club",
+                "McLaren",
+                "Tribeca Film Festival"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "U.S. Treasury Department's Office of Foreign Assets Control",
+                "OFAC",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "OKB",
+            "FTT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $500 million-plus regulatory settlement, allegations of facilitating $5 billion in suspicious transactions, executive departures following a token crash, and ongoing compliance failures at a major exchange."
+    }
+}

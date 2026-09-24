@@ -1,0 +1,36 @@
+{
+    "title": "Stablecoins Bring 'Meaningful Innovation for Global Payments,' Ripple Exec Says",
+    "time": "2025-05-14T15:33:00",
+    "author": "Krisztian Sandor",
+    "summary": "Ripple and Kraken executives said at Consensus 2025 that stablecoin adoption is at a tipping point to become an integral part of the global payment system.",
+    "content": "Stablecoins are shifting from tools for crypto traders to the backbone of global finance and represent a \"meaningful innovation for global payments,\" Jack McDonald, senior vice president of stablecoins at Ripple, said on Wednesday at Consensus 2025 in Toronto.\n\nSpeaking at a recent panel alongside crypto exchange Kraken’s head of consumer Mark Greenberg, McDonald argued the rise of stablecoins marks an \"evolution\" in how money moves globally. \"It’s an alternative way of making a U.S. dollar payment, but doing it in a frictionless, cost-effective way,\" he said.\n\nRipple’s entry into the space with RLUSD, a fully backed and regulated stablecoin, is part of a broader push to replace outdated, fragmented cross-border payment systems. “We’ve seen the use of stablecoins in payments, and that was a main driver for us getting into the business,” McDonald said.\n\nGreenberg underscored the inefficiencies of the current financial system. “It is way, way too hard to move money around the world,” he said. “Stablecoins are the answer for that, and I think what we're seeing now is a tipping point.”\n\nKraken is a founding member of the Global Dollar Network, a consortium of crypto and traditional finance firms that issues the USDG stablecoin.\n\nBoth executives said that yield-bearing stablecoins will be the next frontier—but regulators aren’t there yet.\n\n\"If you're holding deposits, you should be able to earn on those deposits,” Kraken's Greenberg said, though he noted differing regulatory stances across jurisdictions. For example, USDG cannot pay yield in the European Union according to MiCA rules.\n\nMcDonald said that Ripple want to offer yield on its stablecoin but would need to register RLUSD as a security in the U.S. “That’s a whole different journey,” he said.\n\nIn the next five years, both executives agreed that stablecoins are set to reshape traditional finance as they become more ubiquitous. McDonald pointed to Ripple’s acquisition of prime broker Hidden Road as a key step toward using stablecoins as collateral and cross-margin in capital markets.\n\nGreenberg said he sees stablecoins become so embedded in the financial system that “no one talks about them anymore—just like no one talks about SWIFT or wires.”\n\nRead more: Stablecoins to Go Mainstream in 2025 After U.S. Regulatory Progress: Deutsche Bank",
+    "url": "https://www.coindesk.com/business/2025/05/14/stablecoins-bring-meaningful-innovation-for-global-payments-ripple-exec-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack McDonald",
+                "Mark Greenberg"
+            ],
+            "positions": [
+                "senior vice president of stablecoins at Ripple",
+                "head of consumer at Kraken"
+            ],
+            "companies": [
+                "Ripple",
+                "Kraken",
+                "Hidden Road",
+                "Deutsche Bank"
+            ],
+            "organizations": [
+                "Global Dollar Network",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "RLUSD",
+            "USDG"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights stablecoin adoption reaching a tipping point, describing them as 'meaningful innovation for global payments' and predicting they will reshape traditional finance, indicating positive market confidence."
+    }
+}

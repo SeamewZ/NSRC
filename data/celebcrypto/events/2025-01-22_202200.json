@@ -1,0 +1,41 @@
+{
+    "title": "Ross Is Free. Now Let’s Free the Internet-of-Money",
+    "summary": "Following Ross Ulbricht's pardon, the Trump Administration must follow through on crypto’s potential to spread privacy and financial innovation.",
+    "time": "2025-01-22T20:22:00",
+    "author": "Blake Benthall",
+    "content": "The release of Ross Ulbricht and the lifting of sanctions on Tornado Cash mark pivotal moments for the crypto community. It’s more than symbolic. It’s an opportunity to clearly rebrand the U.S. as a safe place to build the internet of money.\n\nRoss’ freedom comes after over a decade of imprisonment — a journey defined by relentless advocacy, legal battles, and unwavering support from the crypto community. His release matters deeply to me because over a decade ago I launched Silk Road 2.0, his site’s successor.\n\nHis double life sentence without parole wasn’t just about the Silk Road, though. It symbolized the U.S. government’s resistance to the blockchain industry and to the idea of a financial system controlled by individuals instead of big banks.\n\nThe U.S. dollar is the world reserve currency; and, cryptocurrency has given the world democratized access to this reserve via stablecoins. Satoshi Nakamoto announced Bitcoin as a “peer-to-peer electronic cash system,” and the Silk Road was the first to actually execute that vision. Silk Road opened the door to cryptocurrency and introduced Silicon Valley (and many other groups) to bitcoin. It spawned companies like Coinbase, projects like Ethereum, and paved the way for stablecoins, which are not yet private.\n\nStill, there is no legitimate marketplace for buying and selling things with bitcoin. Our industry’s reputation is that we’re highly speculative and scam-filled. We can’t forget that Satoshi created bitcoin for payments, not speculation.\n\nThe U.S. cannot miss out on the internet-of-money. During previous administrations, global developers have become nervous to even attend conferences hosted here. This has consequences for the U.S. crypto industry. Ross’ release is a clear signal that the U.S. is no longer a scary place to innovate in cryptocurrency. His experience underscores the need for proportionate justice and serves as a reminder of the human cost of overreach in regulating innovation.\n\nRead more: Silk Road Founder Ross Ulbricht Pardoned by President Trump\n\nHis release is an opportunity for reflection — to celebrate his freedom while remaining clear-eyed about the past. Ultimately, his harsh sentence stymied bitcoin innovation for all of us. We must ensure his case becomes a catalyst for constructive change rather than a footnote in a history of missed opportunities, a series of memecoins, or a divisive narrative that further erodes trust.\n\nSimilarly, the case of Tornado Cash founder Roman Storm — who is still in legal jeopardy — clearly shows the dangers of criminalizing innovation. Tornado Cash offers a critical function (a “mixer”) in enabling private Ethereum transactions — an essential component of conducting business competitively.\n\nIt’s important to create privacy technologies, but we also need to understand the line between legal and illegal use cases. Yes, launch the Silk Road, but don’t allow the sale of drugs on it. Launch Tornado Cash, but don’t encourage money laundering on it. The chilling effect that both cases have had on developers like me cannot be overstated. Privacy innovators in the U.S. and abroad are now second-guessing their work, fearing legal repercussions for creating tools that protect privacy.\n\nAnd what do you do when you launch something decentralized that takes on a life of its own? The sanctions on Tornado Cash were deemed unlawful by the Fifth Circuit Court, yet the Department of Justice dismissed the ruling as irrelevant. Tornado Cash’s developers were allegedly aware of its misuse for money laundering but did not act decisively to address it. On a decentralized platform, should its initial developers be responsible for users’ activity? There is a clear need for America to define a “Section 230” for developers of decentralized software to not be criminally liable for what their users do on their platforms. (“Section 230” refers to a law freeing social media platforms from responsibility for content published on their networks.)\n\nAs entrepreneur-politician Vivek Ramaswamy said, “You can’t go after the developers of code. What you actually need to do is go after individual bad actors who are breaking the laws that already exist.”\n\nTo move forward as an industry, we need to separate the tools from the misuse of those tools. Privacy technologies like Tornado Cash, Monero, and Zcash are unfairly stigmatized due to their potential use for illicit activities. But they hold transformative potential for legitimate use cases, from safeguarding personal financial data to enabling secure business transactions.\n\nZcash, with its optional shielded transactions, provides individuals and businesses with the ability to conduct secure, private transactions while remaining compliant with anti-money laundering (AML) and know-your-customer (KYC) regulations. Such innovations bridge the gap between cryptocurrency and traditional industries, empowering businesses to adopt crypto without exposing sensitive financial details.\n\nPrivacy tech like Zcash also addresses a fundamental flaw in bitcoin and other public ledger cryptocurrencies: the exposure of transaction data that creates competitive disadvantages and privacy risks. Soon, Zcash will be on Mayachain, allowing a decentralized way to convert between bitcoin and Zcash. It will also soon support ZSAs (shielded assets), which will enable stablecoins to be issued privately for the first time.\n\nThe new administration has proposed a national “Strategic Bitcoin Reserve” but this raises questions about privacy and decentralization. Unlike other reserves, such as gold, Bitcoin’s blockchain discloses deposits and withdrawals to the public forever. Is the Trump Administration aware of this? This level of transparency is a double-edged sword, making privacy technologies even more essential for maintaining competitive and strategic advantages.\n\nSo, where do we go from here? Bitcoin and the broader cryptocurrency industry are at a crossroads. This is a moment to refocus on the principles that drove early adoption: a perception of privacy, financial freedom and, most importantly, peer-to-peer payments.\n\nThe U.S. crypto landscape, currently a mess of regulatory uncertainty, scams, and collapses, needs reevaluation. Rather than demonizing privacy innovations, policymakers must work with developers to create clear, enforceable standards for responsible uses of “electronic cash.” This means proactive education and collaboration with regulators, more investment in privacy technologies, and development of a regulatory framework that encourages U.S. blockchain innovation.",
+    "url": "https://www.coindesk.com/opinion/2025/01/22/ross-is-free-now-let-s-free-the-internet-of-money",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ross Ulbricht",
+                "Satoshi Nakamoto",
+                "Roman Storm",
+                "Vivek Ramaswamy"
+            ],
+            "positions": [
+                "President Trump"
+            ],
+            "companies": [
+                "Coinbase",
+                "Silk Road",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "Trump Administration",
+                "U.S. government",
+                "Fifth Circuit Court",
+                "Department of Justice",
+                "Silicon Valley"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Monero",
+            "Zcash"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news frames Ross Ulbricht's pardon and the lifting of Tornado Cash sanctions as pivotal moments that signal the U.S. is becoming a safer place for crypto innovation, which is positive for market confidence."
+    }
+}

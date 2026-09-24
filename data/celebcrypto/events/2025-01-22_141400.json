@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: ICP Drops 5.6% as Index Trades Lower From Tuesday",
+    "time": "2025-01-22T14:14:00",
+    "author": "CoinDesk Indices",
+    "summary": "Hedera (HBAR) joined Internet Computer (ICP) as an underperformer, falling 4.9%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3956.13, down 0.5% (-21.14) since 4 p.m. ET on Tuesday.\n\nThree of 20 assets are trading higher.\n\nLeaders: SOL (+2.8%) and XRP (+0.2%).\n\nLaggards: ICP (-5.6%) and HBAR (-4.9%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/22/coin-desk-20-performance-update-icp-drops-5-6-as-index-trades-lower-from-tuesday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ICP",
+            "HBAR",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is trading lower with most assets declining and only three of twenty assets trading higher, indicating overall market weakness."
+    }
+}

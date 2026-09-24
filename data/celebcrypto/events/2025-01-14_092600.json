@@ -1,0 +1,33 @@
+{
+    "title": "Options Tied to BlackRock's Bitcoin ETF Surge to Nearly 50% of Deribit's BTC Open Interest in Two Months",
+    "time": "2025-01-14T09:26:00",
+    "author": "Omkar Godbole",
+    "summary": "Options linked to BlackRock's spot bitcoin ETF (IBIT) began trading on Nov. 19 and have since grown to half the size of Deribit's BTC options market.",
+    "content": "The stateside demand for regulated crypto products is real.\n\nThe U.S. SEC-approved options tied to BlackRock's spot bitcoin\nBTC\n$103,884.12\nexchange-traded fund (IBIT), which debuted on Nov. 19, are already almost half the size of Deribit's eight-year-old bitcoin options market.\n\nOn Monday, there were 2.16 million open or active IBIT options contracts, representing a notional value of $11 billion, according to data source optioncharts.io. This notional value is derived by multiplying the open interest by the ETF's price and the lot size 100.\n\nThe tally equates to 50% of the $23 billion locked in the open BTC options on Deribit at press time. One option contract on Deribit represents one BTC.\n\nOptions are derivative contracts that give the purchaser the right to buy or sell the underlying asset at a preset price at a later date. A call provides the right to buy, and a put offer offers the right to sell.\n\nSimilar to traditional markets, traders leverage crypto options to speculate on or hedge against price movements, volatility, and the effects of time (referred to as theta).\n\nDeribit has held a leading position for years, with traders and investors using its bitcoin and ether options to set up complex directional and non-directional strategies. However, the exchange's offshore status kept U.S.-based investors looking for regulated avenues at the bay. IBIT options are stepping in to fill that gap.\n\n\"With BlackRock's spot Bitcoin ETF as its underlying asset, IBIT options appeal not only to institutional investors but also U.S. retail traders who favor regulated markets. This rapidly expanding segment is evident in the increasing demand for IBIT options,\" Volmex Finance, a crypto derivatives protocol, told CoinDesk in an email.\n\nVolmex added that the growing popularity of IBIT options is challenging Deribit's dominance in the crypto options market. However, Deribit's Chief Executive Officer Luuk Strijers said IBIT options have created positive ripple effects for the industry.\n\n\"IBIT options are predominantly traded by U.S. retail investors, a segment that historically has not had access to Deribit. As such, their activation has not negatively impacted our market activity. If anything, it has created positive effects by introducing new arbitrage opportunities and facilitating enhanced risk-offloading strategies for institutional participants as Deribit continues to act as the global repository for risk and volatility,\" Strijers told CoinDesk.\n\nStrijers explained that activity in IBIT options is concentrated in short-dated options, indicating the demand for lower premium (priced) options.",
+    "url": "https://www.coindesk.com/markets/2025/01/14/options-tied-to-black-rocks-bitcoin-etf-surge-to-nearly-50-of-deribits-btc-open-interest-in-two-months",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers"
+            ],
+            "positions": [
+                "Chief Executive Officer"
+            ],
+            "companies": [
+                "BlackRock",
+                "Deribit",
+                "Volmex Finance",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The rapid growth of regulated IBIT options to nearly half the size of Deribit's established market indicates strong institutional and retail demand, creating positive ripple effects and new arbitrage opportunities according to industry executives."
+    }
+}

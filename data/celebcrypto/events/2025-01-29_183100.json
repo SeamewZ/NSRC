@@ -1,0 +1,46 @@
+{
+    "title": "Canary Capital's ETF Plans Took Shape Thanks to Trump",
+    "time": "2025-01-29T18:31:00",
+    "author": "Helene Braun",
+    "summary": "Opened last October by ex-Valkyrie founder and CEO Steven McClurg, Canary quickly filed back-to-back applications for four crypto-related exchange-traded funds (ETF).",
+    "content": "Canary Capital didn’t even exist when the spot bitcoin or even the spot ethe rexchange-traded funds launched last year.\n\nBut the company quickly made a name for itself in the business.\n\nFounded only last October, Canary Capital has quickly pushed out several applications for crypto ETFs, including ones for Solana\nSOL\n$159.34\n,\nXRP\n$2.2710\n,\nLTC\n$86.76\nand Hedera (HBAR), with the latter two being the first ETF applications of their kind.\n\nFrom the outside, it seemed as though the firm had it all planned out perfectly.\n\n“We really had no idea that we would be getting back into the ETF game,“ said Steve McClurg, founder and CEO of Canary Capital.\n\nHis name might sound familiar to some. McClurg co-founded and served as chief investment officer at Valkyrie Investments, an alternative asset manager which in March 2024 was acquired by CoinShares.\n\nAfter about six months at CoinShares, McClurg left the ETF provider to start Canary Capital as a hedge fund, an idea that he had been working on during his time at Valkyrie.\n\n“Essentially what happened was […] there was an assassination attempt on Trump, the markets rallied around it, politics rallied around it, and we started thinking, well, he could actually win,” McClurg recalled.\n\n“If he wins, then there'll be changes in regulatory agencies and it's probably likely that other crypto ETFs will get approved, so why don't we file some ETFs and see what happens.”\n\nSince the spot bitcoin and ethereum ETFs had already been launched and well-received by investors, Canary decided to pass on those assets. Instead, they looked further down the list of the top 20 tokens by market capitalization, specifically those that they believed weren’t securities, ultimately deciding to file for LTC, HBAR and XRP ETF. The XRP move was a speculation that the crypto would be deemed a non-security in court — which it was.\n\nNone of Canary Capital’s applications have been approved yet by the Securities and Exchange Commission. Several Solana ETF filings had been denied — or not acknowledged by the SEC — under previous agency leadership in 2024.\n\nFollowing the Trump inauguration, though, Cboe BZX Exchange resubmitted 19b-4 documents for the SOL vehicles, hoping to get an approval under the new administration. The SEC is required to respond to the new submissions within the next 45 days or, if officially delayed, 240 days.\n\nCanary has also submitted a 19b-4 for its Litecoin ETF, which requires a response from the SEC on Feb. 29.\n\nCanary Capital has not yet filed 19b-4s for its XRP and HBAR ETFs. While an S-1 is considered a first-step to launch an ETF, it is not actionable if it isn’t followed by a 19b-4, which is required to inform the SEC of a proposed rule change by a self-regulatory entity, such as an exchange.\n\nMcClurg described Canary’s efforts as a call option on Trump winning the presidency.\n\n“Oddly enough, it worked,” he said.\n\nAs for the future, the firm doesn’t currently have plans to launch more ETFs, McClurg said, but doesn’t rule out that it could see potential in other tokens in the future.",
+    "url": "https://www.coindesk.com/markets/2025/01/29/canary-capital-s-etf-plans-took-shape-thanks-to-trump",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Steven McClurg",
+                "Steve McClurg",
+                "Trump"
+            ],
+            "positions": [
+                "founder",
+                "CEO",
+                "co-founder",
+                "chief investment officer"
+            ],
+            "companies": [
+                "Canary Capital",
+                "Valkyrie Investments",
+                "CoinShares",
+                "Cboe BZX Exchange"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Solana",
+            "SOL",
+            "XRP",
+            "LTC",
+            "Litecoin",
+            "HBAR",
+            "Hedera"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased ETF applications and regulatory optimism following political changes, suggesting potential market expansion and institutional adoption."
+    }
+}

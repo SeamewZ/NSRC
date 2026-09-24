@@ -1,0 +1,39 @@
+{
+    "title": "Crypto Prices Show Signs of Recovery With Bitcoin Above $84k Amid Trump's Summit Plans",
+    "time": "2025-03-01T16:01:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The rebound comes amid a planned crypto summit hosted by Donald Trump and BlackRock’s inclusion of bitcoin in its model portfolios.",
+    "content": "The cryptocurrency market is showing initial signs of recovery from its worst month in three years after the price of bitcoin\nBTC\n$103,821.49\nplunged to $78,000 in a week that saw the space’s total market capitalization drop by over $400 billion.\n\nThe dip in prices saw the Crypto Fear & Greed Index plunge to 10, a level that hadn’t been seen since the 2022 bear market. However, it has since recovered to 20 while still being in the “extreme fear” range.\n\nBitcoin’s price has now risen more than 3% in the last 24-hour period to now trade above $84,400, while the broader CoinDesk 20 Index (CD20) rose 1.5% in the same period to 2,700. Its performance is being affected by SOL dipping nearly 3% in the period, while other components are up for the day.\n\nThe cryptocurrency market seemed to have caught a bid after the White House announced that U.S. President Donald Trump will host a crypto summit on March 7. Summit attendees are set to include “prominent founders, CEOs, and investors from the crypto industry, as well as members of the President's Working Group on Digital Assets, according to a press release.\n\nThe event is the latest sign of the Trump administration’s pro-crypto policies. It comes after the U.S. Securities and Exchange Commission (SEC) dropped lawsuits against Coinbase and MetaMask developer Consensys, as well as investigations Into Robinhood, Gemini, Uniswap Labs, and OpenSea.\n\nIn addition, the world’s largest asset manager, BlackRock, has added a 1% to 2% allocation of its iShares Bitcoin Trust (IBIT) to one of its model portfolios. These models propose portfolio and rebalancing strategies that are subsequently executed by advisors and platforms. This is the first time BlackRock has decided to add IBIT to any of its models, opening up the potential for a new wave of demand for bitcoin ETFs.\n\nAs of December 31, 2024, BlackRock’s model portfolios manage approximately $150 billion in assets.\n\nRead more: Bitcoin Dip-Buyers Step in Friday, but What Might Weekend Action Bring?",
+    "url": "https://www.coindesk.com/markets/2025/03/01/crypto-prices-show-signs-of-recovery-with-bitcoin-above-usd84k-amid-trump-s-summit-plans",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "BlackRock",
+                "Coinbase",
+                "Consensys",
+                "Robinhood",
+                "Gemini",
+                "Uniswap Labs",
+                "OpenSea"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. Securities and Exchange Commission (SEC)",
+                "President's Working Group on Digital Assets"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes market recovery with bitcoin rising 3%, positive policy developments from the Trump administration, and institutional adoption by BlackRock adding bitcoin to its model portfolios."
+    }
+}

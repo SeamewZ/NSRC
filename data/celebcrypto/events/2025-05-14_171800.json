@@ -1,0 +1,41 @@
+{
+    "title": "Top Democrats Demand Treasury Info on Trump’s Crypto Deals, Citing ‘Bribery’ Risks",
+    "summary": "The request marks an escalation in Congressional scrutiny on whether the President and his entourage are abusing their positions to benefit their crypto businesses.",
+    "time": "2025-05-14T17:18:00",
+    "author": "Margaux Nijkerk",
+    "content": "Top House Democrats sent a letter to the U.S. Treasury Department Wednesday, asking its money laundering watchdog to hand over all suspicious activity reports (SARs) tied to President Donald Trump’s crypto ventures.\n\nIn a letter sent to Treasury Secretary Scott Bessent, Reps. Gerald Connolly (D-Va.), Joe Morelle (D-N.Y.) and Jamie Raskin (D-Md.) — the ranking members of the House Oversight, Administrative, and Judiciary committees — called for an urgent investigation into Trump’s blockchain project World Liberty Financial and the $TRUMP memecoin, citing possible violations of campaign finance laws, bribery statutes and securities regulations.\n\n“The Committees seek to determine whether legislation is necessary to prevent violations of campaign finance, consumer protection, bribery, securities fraud, and other anti-corruption laws in connection with fundraising by candidates for federal office and federal officeholders and to guard against deceptive and predatory campaign fundraising practices, illicit foreign influence over federal officials, and other financial misconduct connected to prospective or current federal officials,” the leading Democrats on the committees wrote in a press release shared with CoinDesk.\n\nThe request marks an escalation in congressional scrutiny on whether President Trump and his entourage are abusing their positions of power to benefit their crypto businesses. Senate Democrats pointed to Trump’s crypto ventures last week as part of their reason for not voting to advance stablecoin legislation that previously saw bipartisan support.\n\nThe inquiry zeroes in not only on the Trump family’s September 2024 launch of World Liberty Financial and the $TRUMP memecoin launched just days before his inauguration, but also Elon Musk’s America PAC and whether they are using Trump’s name to solicit donations under false pretenses.\n\nRead more: Senate Democrat Says He's Looking Into Trump's Crypto Businesses",
+    "url": "https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Scott Bessent",
+                "Gerald Connolly",
+                "Joe Morelle",
+                "Jamie Raskin",
+                "Elon Musk"
+            ],
+            "positions": [
+                "President",
+                "Treasury Secretary",
+                "ranking members of the House Oversight, Administrative, and Judiciary committees"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "America PAC"
+            ],
+            "organizations": [
+                "U.S. Treasury Department",
+                "House Democrats",
+                "Congress",
+                "Senate Democrats",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "$TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes escalating congressional scrutiny and potential legal violations involving crypto ventures, which typically creates regulatory uncertainty and negative market sentiment."
+    }
+}

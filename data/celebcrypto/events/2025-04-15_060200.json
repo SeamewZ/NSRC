@@ -1,0 +1,29 @@
+{
+    "title": "Story’s IP Swings 20% in Volatile Trading Session",
+    "summary": "The majority of the trading volume during this event was concentrated on major exchanges Binance and OKX Spot, with over $40 million in trading volumes before the plunge and $138 million after recovery.",
+    "time": "2025-04-15T06:02:00",
+    "author": "Shaurya Malwa",
+    "content": "Story Protocol’s IP tokens slumped 20% and retraced the entire move within hours late Monday in an unusual trading session.\n\nIP fell from nearly $4 to $3.27 in a four-hour period, jumping back to over $4 in a couple of hours after hitting the daily low. The majority of the trading volume during this event was concentrated on major exchanges Binance and OKX Spot, with over $40 million in trading volumes before the plunge and $138 million after recovery.\n\nThe broader crypto market was relatively stable at the time, with bitcoin trading around $84,000 and no clear overarching trend impacting altcoins. This made the IP token’s sudden slump and recovery stand out as an isolated event.\n\nRumors circulated that large volumes of IP tokens, along with other tokens like MOVE and LAYER, were sold at discounted prices through OTC deals. This led to speculation about insider activity or coordinated selling among crypto circles on X.\n\nI wonder if this is related to the Market maker by the name of S too... I wonder https://t.co/evsg679oJW\n\nAs such, IP-tracked futures showed just $1.4 million in cumulative losses amid the price volatility, a very low figure considering the rapid move and trading volumes. This indicates all trading activity was dominated by actual spot sales and buying.\n\nThe move led to early fears of a\nOM\n$0.09177\n-like selloff, which plunged 90% within hours late Sunday in a contentious move whose specific cause is still unclear as of Tuesday.\n\nStory Protocol is a Layer 1 blockchain focused on tokenizing intellectual property (IP), allowing creators to register, license, and monetize their work on-chain.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/story-s-ip-swings-20-in-volatile-trading-session",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance",
+                "OKX",
+                "Story Protocol"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "IP",
+            "bitcoin",
+            "MOVE",
+            "LAYER",
+            "OM"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a 20% price slump for IP tokens amid speculation about insider activity and coordinated selling, indicating negative market impact."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "TradFi Investors Piled $38.7B Into Bitcoin ETFs, Three Times More Than Previous Quarter",
+    "time": "2025-02-19T16:19:00",
+    "author": "Helene Braun",
+    "summary": "Institutional investors bought $38.7 billion worth of the spot bitcoin exchange-traded funds in the fourth quarter, filings with the Securities and Exchange Commission revealed.",
+    "content": "Bitcoin price may be volatile but it didn't stop giant financial institutions from continuing to invest more.\n\nLarge institutions such as pensions or hedge funds tripled their holdings of spot bitcoin exchange-traded funds (ETFs) in the fourth quarter of 2024, data from 13F filings with the Securities and Exchange Commission (SEC) showed.\n\nInstitutional investors bought $38.7 billion worth of the spot bitcoin ETF, according to Bitwise chief investment officer, Matt Hougan. This is more than three times the previous quarter, in which only $12.4 billion worth of holdings were reported.\n\nInvestors with assets over $100 million are required by the SEC to report their holdings each quarter.\n\nSeveral hedge funds and pension funds, among others, have started buying the funds since January 2024, when the bitcoin ETFs were first launched. Since then, some of them have increased their holdings over the past year, like the State of Wisconsin’s investment board, which boosted its holdings to just over 6 million shares of BlackRock’s iShares Bitcoin Trust (IBIT) as of Dec. 31.\n\nSimilarly, billionaire hedge fund investor Paul Tudor nearly doubled its stake in IBIT to 8,048,552 shares, up from 4,428,230. Meanwhile, Corvex Management, an asset management firm founded by investor Keith Meister in December 2010, disclosed holding more than a million shares in IBIT at the end of the fourth quarter.\n\nAccording to Bloomberg Intelligence senior ETF analyst Eric Balchunas, IBIT currently has 1,100 institutional holders that have reported their stake via 13F filings. He said most newly launched ETFs typically have under 10 holders.\n\n“No way to track but my guess is the record for first year prior to this was [probably] like 350 [institutional holders for new ETFs],” Balchunas wrote.",
+    "url": "https://www.coindesk.com/markets/2025/02/19/tradfi-investors-piled-usd38-7b-into-bitcoin-etfs-three-times-more-than-previous-quarter",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Matt Hougan",
+                "Paul Tudor",
+                "Keith Meister",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "chief investment officer",
+                "billionaire hedge fund investor",
+                "investor",
+                "senior ETF analyst"
+            ],
+            "companies": [
+                "Bitwise",
+                "BlackRock",
+                "Corvex Management",
+                "Bloomberg Intelligence"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "State of Wisconsin’s investment board"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports institutional investors tripled their Bitcoin ETF holdings to $38.7 billion, indicating strong market confidence and increased institutional adoption."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Traders Deleverage on Steady Fed Rate Outlook",
+    "time": "2025-02-20T12:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for Feb. 20, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nCrypto traders are deleveraging after Wednesday's FOMC minutes showed the Fed is looking to hold rates steady until inflation improves and discussed pausing or slowing the balance sheet runoff.\n\nStill, the yield on the 10-year Treasury dropped and the dollar weakened. Cryptocurrencies are higher, with the CoinDesk 20 Index up 1.4% and bitcoin 1.2% over 24 hours. The gains follow remarks by Czech National Bank Governor Ales Michl, who reiterated the case for bitcoin as a reserve asset, and President Donald Trump saying he'd ended “Joe Biden’s war on Bitcoin and crypto.”\n\nBitcoin traders are taking a wait-and-see approach as waning demand, a lack of blockchain activity and faltering liquidity inflows point to potential pullback to $86,000. It's currently over $97,000. Their stance is visible not only in declining volatility, but also a significant drop in open interest.\n\nOpen interest on bitcoin futures contracts has fallen below $60 billion from nearly $70 billion in late January, Coinglass data shows. The decline comes amid what appears to be an unraveling of the memecoin craze as recent struggles, such as Argentina's Libra debacle, dampened enthusiasm.\n\n“Right now, the market is in a bit of a cooldown phase,” David Gogel, VP of strategy and operations at the dYdX Foundation, told CoinDesk. “Bitcoin’s been holding up, but after failing to break past $105k in January, we’ve seen capital inflows slow down and speculative assets like Solana and memecoins take a hit.”\n\nThat hit is visible in the aggregate open interest for futures contracts for SOL, the Solana blockchain's native token. OI dropped from around $6 billion late last month to around $4.3 billion now, according to data from TheTie. Solana is one of the leading networks for memecoins.\n\n“The market should stay attuned to broader macro-drivers and geopolitical developments that could trigger moves,” Wintermute OTC trader Jake O told CoinDesk. These geopolitical developments include rising tensions between Trump and Ukrainian President Volodymyr Zelensky that led to a not-so-subtle public exchange.\n\nDeclining leverage and a shift away from riskier plays suggest the market may be entering a new phase. What that actually entails remains to be seen. Stay alert!\n\nCoinDesk's Consensus to take place in Hong Kong on Feb. 18-20 and in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Oliver Knight\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/20/crypto-daybook-americas-bitcoin-traders-deleverage-on-steady-fed-rate-outlook",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Ales Michl",
+                "Donald Trump",
+                "Joe Biden",
+                "David Gogel",
+                "Jake O",
+                "Volodymyr Zelensky",
+                "Oliver Knight"
+            ],
+            "positions": [
+                "Governor",
+                "President",
+                "VP of strategy and operations",
+                "OTC trader"
+            ],
+            "companies": [
+                "CoinDesk",
+                "dYdX Foundation",
+                "Wintermute",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "FOMC",
+                "Fed",
+                "Czech National Bank",
+                "CoinDesk 20 Index",
+                "Coinglass",
+                "TheTie"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a market cooldown phase with declining leverage, slowing capital inflows, and traders taking a wait-and-see approach despite some price gains."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Berachain App Boyco Goes Live With $2.2B in ‘Pre-Deposits’",
+    "time": "2025-01-29T08:53:00",
+    "author": "Shaurya Malwa",
+    "summary": "Through Boyco, applications can create pre-launch liquidity markets where users can deposit assets before the mainnet goes live.",
+    "content": "Berachain-based liquidity platform Boyco went live on Tuesday with over $2.2 billion in pre-deposits.\n\nThe pre-launch liquidity platform is built in collaboration with Enso, Berachain and LayerZero.\n\nIt aims to solve the the cold start problem for new decentralized applications (dApps) by ensuring they have sufficient liquidity from day one. This approach theoretically helps dApps attract users immediately upon launch, giving them a head start in the competitive DeFi space.\n\nRoyco is a protocol on Ethereum that enables the creation of liquidity markets where protocols can negotiate with liquidity providers (LPs) to secure liquidity. Boyco is a specific implementation of Royco tailored for Berachain's mainnet launch.\n\nThrough Boyco, applications can create pre-launch liquidity markets where users can deposit assets before the mainnet goes live. Users deposit assets into vaults, which are then locked until Berachain's mainnet launch. Depositors may be rewarded with tokens or points from Berachain or participating dApps.\n\n“During Boyco, users will see over 100 Berachain markets that allow them to deposit a single sided deposit or a two sided deposit,” the team said in a Tuesday X post. “These Boyco markets will be rewarding depositors with various amounts of BERA and app level incentives.”\n\nThe program will be on the Ethereum mainnet until Feb. 3 before the liquidity is eventually bridged over to Berachain alongside existing lockups, per the Boyco team. Over 2.0% of all BERA — one of Berachain’s upcoming tokens — will be rewarded via Boyco participation.\n\nBerachain is an upcoming blockchain that uses a proof-of-liquidity consensus mechanism to reward liquidity provision. It has chalked up a cult following on X in the past year and enjoys an engaged community.\n\nThe blockchain is humorously set to launch in \"Q5,” a non-existent quarter beyond Q4, adding to the anticipation for participating in Berachain-related platforms ahead of its mainnet launch.",
+    "url": "https://www.coindesk.com/markets/2025/01/29/berachain-app-boyco-goes-live-with-usd2-2b-in-pre-deposits",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Berachain",
+                "Enso",
+                "LayerZero"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BERA",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful platform launch with $2.2 billion in pre-deposits and mechanisms to boost liquidity and user adoption, indicating strong market confidence and positive momentum."
+    }
+}

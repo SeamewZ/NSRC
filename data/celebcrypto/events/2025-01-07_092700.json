@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Mining Profitability Rose in December for Second Month in a Row: JPMorgan",
+    "time": "2025-01-07T09:27:00",
+    "author": "Will Canny",
+    "summary": "The network hashrate rose 54% in 2024, slower than 2023's 103% gain, the report said.",
+    "content": "Bitcoin (BTC) miners' daily revenue and gross profit rose for the second consecutive month in December, hitting the highest levels since April, JPMorgan (JPM) said in a research report on Monday.\n\nMining profitability increased as the rally in the world's largest cryptocurrency continued to outpace network hashrate growth, the bank noted.\n\nJPMorgan estimated that bitcoin miners earned an average of $57,100 per exahash per second (EH/s) in daily block reward revenue last month, 10% more than in November.\n\nStill, \"daily revenue and gross profit per EH/s is still 43% and 52% below pre-halving levels, respectively,\" analysts Reginald Smith and Charles Pearce wrote.\n\nThe network hashrate grew by 6% in December to an average of 779 EH/s, the report said. Hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain.\n\nMining difficulty rose 7% from the month before and is now 27% higher than before the reward halving event in April, the bank said. The hashrate increased 54% in 2024, slower than 2023's gain of 103%.\n\nThe total market cap of the 14 publicly listed bitcoin miners that the bank tracks declined 23% to $28 billion in December. The figure rose 52% in November.\n\nTeraWulf (WULF) was the only miner that outperformed bitcoin last year, with a 136% gain, the report said. Bitcoin climbed about 120%.\n\nRead more: Bitcoin Miners Are Expected to be Profitable in December, Jefferies Says",
+    "url": "https://www.coindesk.com/markets/2025/01/07/bitcoin-mining-profitability-rose-in-december-for-second-month-in-a-row-jp-morgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "TeraWulf"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports rising Bitcoin mining profitability, increased daily revenue and gross profit for miners, and Bitcoin's price climbing about 120% last year, indicating positive market momentum."
+    }
+}

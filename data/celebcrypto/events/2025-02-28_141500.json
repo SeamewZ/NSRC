@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: UNI Drops 7.1% as Nearly All Assets Trade Lower",
+    "time": "2025-02-28T14:15:00",
+    "author": "CoinDesk Indices",
+    "summary": "Aave (AAVE) joined Uniswap (UNI) as an underperformer, declining 7% from Thursday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2612.03, down 3.2% (-86.41) since 4 p.m. ET on Thursday.\n\nOne of 20 assets are trading higher.\n\nLeaders: SOL (+1.4%) and APT (-0.5%).\n\nLaggards: UNI (-7.1%) and AAVE (-7.0%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/28/coindesk-20-performance-update-uni-drops-7-1-as-nearly-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "APT",
+            "UNI",
+            "AAVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is down 3.2% with nearly all assets trading lower and significant declines in UNI (-7.1%) and AAVE (-7.0%)."
+    }
+}

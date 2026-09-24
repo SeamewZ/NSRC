@@ -1,0 +1,28 @@
+{
+    "title": "BlackRock Secures UK FCA Crypto Registration",
+    "summary": "The world's biggest asset manager will be allowed to act as an arranger for iShares Digital Assets AG, who issue Exchange Traded Products.",
+    "time": "2025-04-02T10:56:00",
+    "author": "Camomile Shumba",
+    "content": "BlackRock managed to land on the Financial Conduct Authority's tough crypto register on Tuesday, the regulators website showed.\n\nThe world's biggest asset manager will be allowed to act as an arranger for iShares Digital Assets AG, which issue Exchange Traded Products (ETPs) — a financial instrument that is pegged an underlying asset, in this case a crypto asset.\n\nRegistration on the U.K.'s crypto register is not an easy feat. The FCA's crypto register was set up in 2020 to ensure that crypto firms wishing to serve U.K. clients could only do so after they had registered to comply with the country's anti-money laundering rules. The U.K. has received 368 applications but only 51 firms have been approved.\n\nAs an arranger, BlackRock will be able to \"arrange the execution of transactions in cryptoassets to support ETP subscriptions and redemptions\" between issuers and authorized participants but it will not be able to onboard any new customers.\n\nAlso, it will not be able to operate a machine that \"utilizes automated processes to exchange cryptoassets for money\" vice versa - without written consent from the regulator.\n\nBlackRock joins the likes of crypto exchange Coinbase who recently managed to get on the register this year, though a new crypto regime awaits.",
+    "url": "https://www.coindesk.com/policy/2025/04/02/blackrock-secures-uk-fca-crypto-registration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "arranger"
+            ],
+            "companies": [
+                "BlackRock",
+                "iShares Digital Assets AG",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Financial Conduct Authority",
+                "FCA"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "BlackRock's registration with the UK FCA to arrange crypto ETP transactions represents institutional adoption and regulatory approval, which typically boosts market confidence."
+    }
+}

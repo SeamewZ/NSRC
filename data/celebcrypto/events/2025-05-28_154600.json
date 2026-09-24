@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin Pulls Back to $107K, but NYDIG Analysis Suggests Market Far From Overheated",
+    "summary": "A number of indicators suggested the bull market has more room to run, said NYDIG.",
+    "time": "2025-05-28T15:46:00",
+    "author": "Stephen Alpher",
+    "content": "Wednesday morning U.S. hours saw a modest acceleration in crypto's pullback from the recent big move higher, with bitcoin\nBTC\n$101,860.90\nstumbling nearly 2% to just above the $107,000 level.\n\nAltcoins fared worse, with XRP\nXRP\n$2.2497\n, solana\nSOL\n$157.39\nand dogecoin\nDOGE\n$0.1651\namong those sporting declines in the 3%-5% range.\n\nAmong crypto-related stocks, the bitcoin miners were hardest hit, with MARA Holdings (MARA), Riot Platforms (RIOT) and Hut 8 (HUT) each lower by nearly 10%.\n\nBitcoin treasury companies were also showing sizable losses, led by GameStop (GME), down 11% after announcing the purchase of just over 4,710 bitcoin (or about $500 million at the current price) — to some a rather underwhelming amount considering the company raised $1.3 billion for bitcoin acquisition several weeks ago.\n\nBitcoin's roughly 50% rally from the post-early April bottom to a new record high of $112,000 last week has more than a few market participants suggesting 2021-like signs of froth.\n\nNot so fast, said the research team at NYDIG.\n\nFirst off, they note, bitcoin has rallied about 7X from the November 2022 low in the $15,000 area — a nice move for sure, but far behind peak-to-trough moves of 452X in 2013, 112X in 2017 and 20X in 2021. While bitcoin is a far more mature asset today than in the past and even a 20X move might seem a bit steep, the numbers still suggest a decent amount of further upside.\n\nThe team also looked at Market Value to Realized Value (MVRV), which compares the current total market cap of all bitcoins to their aggregated value based on the last time each coin moved. It's current at 2.4X, far below prior peaks, including 2021's top of 4.0X.\n\n\"While these are all just rough benchmarks, they suggest there’s still meaningful upside potential for bitcoin,\" concluded NYDIG.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/bitcoin-pulls-back-to-107k-but-nydig-analysis-suggests-market-far-from-overheated",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MARA Holdings",
+                "Riot Platforms",
+                "Hut 8",
+                "GameStop"
+            ],
+            "organizations": [
+                "NYDIG"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "SOL",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "NYDIG analysis suggests bitcoin has significant upside potential with current metrics far below prior cycle peaks despite recent price pullback."
+    }
+}

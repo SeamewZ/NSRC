@@ -1,0 +1,39 @@
+{
+    "title": "How Ethiopia’s Low Energy Costs Allow BIT Mining to Recycle its Bitcoin Machines",
+    "summary": "BIT Mining says that its Ethiopia operations create a positive feedback loop with its business in Ohio.",
+    "time": "2025-01-07T15:13:00",
+    "author": "Tom Carreras",
+    "content": "Landlocked between six different neighbors in the Horn of Africa, Ethiopia has approximately 120 million inhabitants, making it the second most populous nation on the continent, and a GDP of $163 billion, which puts it in the same economic league as Ukraine, Morocco, Slovakia or Kuwait.\n\nHowever, the country has also suffered from a bloody civil war, with several regions still under the control of anti-government forces, like the ethno-nationalist Amhara militia Fano.\n\nBut that hasn’t prevented Chinese bitcoin (BTC) mining company BIT Mining (BTCM) from expanding its operations — until now confined to Akron, Ohio — into Ethiopia by signing a $14 million deal to acquire facilities worth 51 megawatts (MW) and almost 18,000 bitcoin mining rigs in the country.\n\nIn fact, for Dr. Youwei Yang, chief economist at BIT Mining, Ethiopia’s ultra-low electricity costs provide the firm with a unique opportunity to extend the shelf life of its bitcoin mining rigs which, due to the industry’s extreme competitiveness, tend to become obsolete in the U.S. after roughly two or two-and-a-half years of activity, he said.\n\n“The price of electricity is maybe 70% higher in Ohio than in Ethiopia, sometimes almost double, so it can only run very advanced ASICs, like the newest or second newest generations,” Yang told CoinDesk in an interview. “Now we can just move older generation machines into Ethiopia.”\n\nIt’s a big deal, because aside from mining litecoin (LTC) and dogecoin (DOGE), BIT Mining is mainly in the hosting business, meaning that it operates mining facilities for the sake of various clients. State-of-the-art mining rigs don’t come cheap (a single machine fetching anywhere between $5,000 and $10,000 for retail buyers) and investors are naturally reluctant to send such expensive pieces of machinery to war-torn jurisdictions.\n\nThe pitch, then, is to install the newer rigs in the U.S. and send out the aging ones to Ethiopia. That creates a positive feedback loop, because now investors can extract greater returns from their machines than if BIT Mining restricted itself to operating in the U.S. That, in turn, attracts more capital, Yang said.\n\n“We can get at least two extra years by moving the rigs to Ethiopia, and then maybe after that, they’re completely done,” Yang said.\n\nBut why Ethiopia specifically? For one thing, the country’s electric standard is similar to China’s, which allows BIT Mining to leverage the expertise of its engineering team and redeploy some of the electric equipment it previously used in the Middle Kingdom before the bitcoin mining ban.\n\nEthiopia also enjoys an abundance of hydroelectric power, some of it thanks to Chinese investments, which have totalled $8.5 billion across more than 3,000 projects in recent years. For example, China helped fund the construction of the Grand Ethiopian Renaissance Dam (GERD); once completed, it will be the largest dam in Africa and generate over 5,000 MW.\n\nNot all of Ethiopia’s electric output has been put to use yet, however, and that has created a window of opportunity for bitcoin miners, especially since the Ethiopian government has been supportive of the mining industry. In fact, the country is home to 1.5% of Bitcoin's total hashrate, according to Hashrate Index, meaning that it contributes about as much to the network as Norway.\n\nThat’s despite the fact that the Ethiopian federal government has a shaky control over the country’s overall territory. Hundreds of thousands of Ethiopians were killed in the government’s war against the Tigray People's Liberation Front between 2020 and 2022, and the state only just signed a peace treaty in December with the Oromo Liberation Army, which it had been fighting in some form or other since the 1970s.\n\nWhen asked whether BIT Mining had concerns about the social unrest in the country, Yang replied that the firm had been “studying, researching and also visiting [Ethiopia] several times, just [ascertain] that it’s a stable place.” The decision was made to purchase a facility instead of building it from scratch to avoid any unforeseen trouble, he said.\n\nEven so, it was a challenge convincing BIT Mining employees to move to Ethiopia from their previous domiciles in the U.S. or China, Yang said.\n\n“People obviously like to live and work in richer and safer countries,” he said. While a third of the facility’s operating team are foreign right now, the team will be composed of mostly locals down the line, he said.\n\nIn the meantime, the company is on the lookout for new investments in the country — be them energy infrastructure projects, data centers for artificial intelligence (AI) purposes, or other bitcoin mining facilities.\n\n“There's plenty of opportunities in Ethiopia,” Yang said. “The AI thing… We've been studying it for the last six to nine months. We have the power. We have the people. We have the ability to do it. But [the whole process] is very capital heavy. Construction in the U.S. is a lot more expensive, so it's very hard to do a pilot experiment, but it's a lot easier to [try one] in Ethiopia.”",
+    "url": "https://www.coindesk.com/business/2025/01/07/how-ethiopia-s-low-energy-costs-allow-bit-mining-to-recycle-its-bitcoin-machines",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dr. Youwei Yang"
+            ],
+            "positions": [
+                "chief economist"
+            ],
+            "companies": [
+                "BIT Mining",
+                "BTCM"
+            ],
+            "organizations": [
+                "Amhara militia Fano",
+                "Tigray People's Liberation Front",
+                "Oromo Liberation Army",
+                "Hashrate Index",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Litecoin",
+            "LTC",
+            "Dogecoin",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes BIT Mining's expansion into Ethiopia creating a positive feedback loop that extends machine lifespan and attracts more capital to cryptocurrency mining operations."
+    }
+}

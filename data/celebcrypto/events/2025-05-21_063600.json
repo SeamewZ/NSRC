@@ -1,0 +1,42 @@
+{
+    "title": "Bitcoin Futures Open Interest Zoom as BTC Inches Towards All-Time High; DOGE, ADA, XRP Add 4%",
+    "summary": "Buoyant sentiment and calm volatility are fueling leveraged bets as BTC consolidates above $100,000 — setting up what traders say could be a clean move to new highs.",
+    "time": "2025-05-21T06:36:00",
+    "author": "Shaurya Malwa",
+    "content": "Bitcoin\nBTC\n$101,731.44\nis inches away from its all-time high, hovering over $107,000, with analysts eyeing a move higher in the coming days.\n\nFutures open interest across major exchanges hit $75 billion, an all-time high on Tuesday in U.S. dollar terms, signaling heightened speculative activity and leveraged positioning.\n\nThat comes alongside a continued rally in spot markets, with BTC holding above $100,000 for more than 11 straight days — a sign, some traders say, of accumulation and strength at current levels.\n\n“The current price action appears to be a consolidation phase,” said Ruslan Lienkha, chief of markets at YouHodler, in an email to CoinDesk. “It’s marked by accumulation, potentially setting the stage for another leg higher that could lead to a new all-time high.”\n\nBitcoin was changing hands above $107,500 as of Tuesday morning, up nearly 1.5% over the past 24 hours. Ether\nETH\n$3,331.98\nand Solana’s SOL added 2%, while\nDOGE\n$0.1652\n, Cardano’s ADA and\nXRP\n$2.2535\nbumped 3%.\n\nDerivatives data support the bullish outlook. The call-to-put open interest ratio reached 1.55 this weekend. At the same time, premiums for out-of-the-money calls rose across the board, a sign traders are positioning for a breakout, HTX Research’s Chloe Zheng said in a weekend update shared with CoinDesk.\n\nMeanwhile, short-term implied volatility (IV) dropped to an 18-month low of 35–40%, reflecting a relatively calm backdrop despite rising positioning, HTX said.\n\n“This mix of euphoric sentiment and low volatility often conceals the build-up of excessive leverage,” HTX Research noted in a weekend update. “But under such conditions, Bitcoin could retest new highs within 30–45 days.”\n\nStill, resistance at the $107,000 level has held for now. FxPro analyst Alex Kuptsikevich said in an email that the market is driven by “a crowd of retail investors” and momentum-chasing traders who remain undeterred by macro uncertainty or recent exchange security concerns.\n\n“Further dynamics will depend on changes in global risk appetite,” Kuptsikevich wrote. “If the resistance at $107K is broken, there are more chances to restore the uptrend. That opens a path toward $115K.”",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-futures-open-interest-zoomas-btc-inches-towards-all-time-high-doge-ada-xrp-add-4",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ruslan Lienkha",
+                "Chloe Zheng",
+                "Alex Kuptsikevich"
+            ],
+            "positions": [
+                "chief of markets",
+                "analyst"
+            ],
+            "companies": [
+                "YouHodler",
+                "HTX Research",
+                "FxPro",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "DOGE",
+            "Cardano",
+            "ADA",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin approaching all-time highs, increased futures open interest, bullish derivatives data, and analyst predictions of further price increases to $115K."
+    }
+}

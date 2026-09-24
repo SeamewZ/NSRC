@@ -1,0 +1,40 @@
+{
+    "title": "Coinbase CEO Armstrong Says He'll Hire 1,000 in U.S. as Crypto Tide Turns",
+    "summary": "Brian Armstrong said recent policy shifts warrant a new push in the U.S., and president's working group chief Hines said Trump is delivering on crypto promises.",
+    "time": "2025-03-07T23:06:00",
+    "author": "Jesse Hamilton",
+    "content": "WASHINGTON, D.C. — As he walked out of the White House's crypto summit on Friday, Coinbase CEO Brian Armstrong said his U.S. exchange is planning to hire a thousand people because of the policy progress the industry seems to be making at the beginning of President Donald Trump's second term.\n\n\"It's only been, what, 50 days or something like that, and it's already created enough of a tailwind that we feel more confident in investing in the United States and growing our business here,\" Armstrong told CoinDesk. He said the hiring would take place this year.\n\nCoinbase, specifically, watched the U.S. Securities and Exchange Commission completely abandon its pivotal enforcement action against the leading U.S. crypto platform. The company had been fighting the expensive legal dispute in federal courts over fundamental questions in regulatory jurisdiction over digital assets. That question is now in Congress' hands rather than continuing as a court fight and a drag on Coinbase's resources.\n\nArmstrong was among dozens of people crowded into the White House's State Dining Room for the first crypto summit with the White House, leading regulators and senior Republican members of Congress. The big news coming into the meeting was Trump's executive order the night before that called for the establishment of a bitcoin\nBTC\n$101,867.41\nreserve, which Armstrong endorsed.\n\n\"You can't really have a better holder of this asset than the United States government,\" he said. \"It's becoming a core piece of the financial system, and I think it's going to be a part of every diversified portfolio over time.\"\n\nCoinbase was a pivotal player during the 2024 election, putting tens of millions of dollars toward the crypto-focused political action committee Fairshake. He said Coinbase will keep backing the super PAC, which did \"an incredible job\" in boosting pro-crypto candidates.\n\nBo Hines, the executive director of the President’s Working Group on Digital Assets, told CoinDesk that Friday's summit represented Trump's commitment to the industry.\n\n\"The president made a promise that he's going to make this country the crypto capital of the planet, and we're well on our way in delivering that promise,\" he said in an interview after the close of the summit, in which the crypto reserve ideas played a significant part.\n\n\"We were just with 30 or so of the greatest luminaries in the space, and I think everyone was tremendously pleased,\" he said.\n\nIn answer to industry concerns that the bitcoin reserve isn't initially organized to include new investment, he pointed out that the secretaries of the U.S. Treasury and Commerce departments are ordered to weigh methods of buying bitcoins without burdening taxpayers, and \"both of them are excited to look into ways to do it.\"",
+    "url": "https://www.coindesk.com/policy/2025/03/07/coinbase-ceo-armstrong-says-he-ll-hire-1-000-in-u-s-as-crypto-tide-turns",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brian Armstrong",
+                "Donald Trump",
+                "Bo Hines"
+            ],
+            "positions": [
+                "CEO",
+                "president",
+                "executive director of the President’s Working Group on Digital Assets"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. Securities and Exchange Commission",
+                "Congress",
+                "Fairshake",
+                "President’s Working Group on Digital Assets",
+                "U.S. Treasury",
+                "Commerce departments"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes positive policy shifts, SEC enforcement abandonment, planned hiring expansion, and government bitcoin reserve plans that indicate growing institutional confidence and regulatory support for cryptocurrency."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Crypto Exchange Phemex Investigating Hack Reports as $29M Drained From Hot Wallets",
+    "time": "2025-01-23T13:20:00",
+    "author": "Oliver Knight",
+    "summary": "The company's CEO has confirmed that Phemex is \"looking into reports\" of the hot wallet withdrawals",
+    "content": "Singapore-based cryptocurrency exchange Phemex has said that it is \"looking into\" reports of a hack after one of its hot wallets was drained for $29 million worth of crypto tokens.\n\nCrypto security firm Cyvers reported \"multiple suspicious transactions\" from the Phemex hot wallet across multiple blockchains. The funds were swapped for ether\nETH\n$3,626.51\n.\n\n\"As we look into a report on one of our hot wallets rest assured our cold wallets remain safe and can be checked by everyone here, will post more updates shortly,\" Phemex CEO Federico Variola wrote on X.",
+    "url": "https://www.coindesk.com/business/2025/01/23/crypto-exchange-phemex-investigating-hack-reports-as-usd29m-drained-from-hot-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Federico Variola"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Phemex",
+                "Cyvers"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a $29 million security breach and hack of a cryptocurrency exchange's hot wallets, which typically creates negative market sentiment and potential panic."
+    }
+}

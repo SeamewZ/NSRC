@@ -1,0 +1,25 @@
+{
+    "title": "Russian Police Arrest Suspect in $3.2M Illegal Mining Operation: Report",
+    "time": "2025-05-29T15:30:00",
+    "author": "Oliver Knight",
+    "summary": "A similar mining scheme occurred in the region in 2022.",
+    "content": "Russia police arrested a person alleged to have been involved in a crypto mining scam that stole 270 million rubles ($3.2 million) from 100 victims, RBC reported, citing a statement from the Ministry of Internal Affairs for the Irkutsk Region.\n\nA local resident called the police in February to say he handed an ASIC mining machine to someone claiming that they were running a \"mining hotel,\" with the promise of passive income. The 26-year-old suspect and two accomplices are alleged to have sold the equipment they received and also to have kept funds handed over the purchase of other mining machines.\n\nThe police opened a criminal case of fraud against the suspect and continue to question the victims. The other members of the mining group are still wanted by authorities, the statement said.\n\nA similar case occurred in 2022 when two people stole 2 million rubles after offering local citizens a fake mining hosting scheme.",
+    "url": "https://www.coindesk.com/business/2025/05/29/russian-police-arrest-suspect-in-usd3-2m-illegal-mining-operation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "26-year-old suspect"
+            ],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Russia police",
+                "Ministry of Internal Affairs for the Irkutsk Region",
+                "RBC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a crypto mining scam involving fraud and theft of $3.2 million, which reflects negatively on cryptocurrency market integrity and could undermine investor confidence."
+    }
+}

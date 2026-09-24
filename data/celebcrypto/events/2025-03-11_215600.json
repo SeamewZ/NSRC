@@ -1,0 +1,38 @@
+{
+    "title": "U.S. House Votes to Overturn IRS DeFi Broker Rule",
+    "summary": "The IRS broker rule would have been impossible to comply with for DeFi entities, one of the resolution's proponents said.",
+    "time": "2025-03-11T21:56:00",
+    "author": "Nikhilesh De",
+    "content": "A majority of lawmakers in the U.S. House of Representatives voted to overturn an IRS rule treating crypto entities as brokers and requiring them to collect certain taxpayer and transaction information, including decentralized finance (DeFi) platforms.\n\nWith a 292-132 vote, a bipartisan majority in the House joined the U.S. Senate in advancing the Congressional Review Act resolution overturning the rule finalized in the closing days of former President Joe Biden's administration.\n\nMissouri Republican Jason Smith, urging his fellow lawmakers to vote for the resolution earlier in the day, said the IRS rule risked harming U.S. businesses and disincentivized innovation.\n\n\"There are real questions that the rule can ever even be administered,\" he said. \"DeFi exchanges are not the same as centralized crypto exchanges or traditional banks or brokers. DeFi platforms do not and cannot even collect the information from users needed to implement this rule.\"\n\nLast week, 70 Senators voted to overturn the rule, and President Donald Trump's senior advisers have already recommended he sign the provision. However, the Senate will need to approve the resolution again due to budget rules, Rep. Jason Smith (R-Mo.) noted. If it approves the resolution and Trump signs it, the IRS will be barred from ever bringing a similar rule again.\n\nIllinois Democrat Danny Davis pushed back against the resolution, noting that it stemmed from the 2021 bipartisan Infrastructure Investment and Jobs Act, and comparing crypto to stocks.\n\n\"When you sell stock with a stock broker, the broker reports the proceeds of the sale to both you and the Internal Revenue Service,\" he said. \"Probably to no one's surprise, when there is independent reporting on these sales, taxpayers are more likely to report their income to the Internal Revenue Service.\"\n\nNorth Carolina Republican Tim Moore said the rule \"goes far beyond\" Congress's intention with the 2021 law.\n\n\"This rule has placed impossible burdens on software developers threatening American leadership in digital asset innovation,\" he said.\n\nTexas Democrat Lloyd Doggett called the resolution \"special interest legislation,\" adding that it could be \"exploited by wealthy tax cheats, drug traffickers and terrorist financiers,\" and add $4 billion to the national debt, conflicting with U.S. President Donald Trump's stated goal of cutting the debt.\n\nTuesday's vote was preceded by the House vote on a continuing resolution to fund the U.S. government through Sept. 30, 2025, which passed with 217 votes in favor to 213 votes against. That funding resolution now heads to the Senate.",
+    "url": "https://www.coindesk.com/policy/2025/03/11/u-s-house-votes-to-overturn-irs-defi-broker-rule",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jason Smith",
+                "Joe Biden",
+                "Donald Trump",
+                "Danny Davis",
+                "Tim Moore",
+                "Lloyd Doggett"
+            ],
+            "positions": [
+                "Missouri Republican",
+                "former President",
+                "President",
+                "Illinois Democrat",
+                "North Carolina Republican",
+                "Texas Democrat"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. House of Representatives",
+                "IRS",
+                "U.S. Senate",
+                "Congressional Review Act"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The overturning of IRS broker rules that were deemed impossible for DeFi platforms to comply with removes regulatory uncertainty and compliance burdens, which is positive for cryptocurrency innovation and market confidence."
+    }
+}

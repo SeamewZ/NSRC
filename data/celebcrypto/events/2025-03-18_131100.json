@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Drops 3.3% as All Assets Trade Lower",
+    "time": "2025-03-18T13:11:00",
+    "author": "CoinDesk Indices",
+    "summary": "Litecoin (LTC) fell 5.6% and Filecoin (FIL) declined 5.5%, leading the index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2571.75, down 3.3% (-88.79) since 4 p.m. ET on Monday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: APT (-0.2%) and BCH (-0.7%).\n\nLaggards: LTC (-5.6%) and FIL (-5.5%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/18/coindesk-20-performance-update-index-drops-3-3-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "LTC",
+            "FIL",
+            "APT",
+            "BCH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index dropped 3.3% with all 20 assets trading lower, led by significant declines in LTC (-5.6%) and FIL (-5.5%)."
+    }
+}

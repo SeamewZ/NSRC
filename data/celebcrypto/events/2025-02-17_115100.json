@@ -1,0 +1,47 @@
+{
+    "title": "Solana, XRP Lead Crypto Drop With U.S. Closed for Presidents' Day",
+    "time": "2025-02-17T11:51:00",
+    "author": "Shaurya Malwa",
+    "summary": "Crypto markets fell with XRP and SOL leading declines among major cryptocurrencies.",
+    "content": "Crypto markets fell Monday as traders locked in profits and looked for new catalysts to determine positioning while the U.S. observed President’s Day.\n\nSolana (SOL) and XRP slipped 4% to lead losses among major cryptocurrencies, with bitcoin (BTC) dropping 1.1% and BNB Chain’s bnb down 0.5% in the past 24 hours. Dogecoin (DOGE) lost 3%. Both Cardano’s ADA and ether (ETH) rose 2% as of midday in Europe.\n\nJupiter’s JUP slid 9% to lead losses among midcap tokens, reeling from its apparent connections to the controversial LIBRA coin. Libra was briefly touted by Argentina's President Javier Milei last week as a project that could help small businesses, but instead crashed in value shortly after issuance, with its operators now facing legal heat.\n\nThe broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market capitalization, fell 1.29%.\n\n“With no significant crypto-specific catalysts in sight, price action appears to be more macro driven particularly as the correlation between BTC and equities remains largely intact,” QCP Capital said in a broadcast message. “However it is interesting to note that despite the macro uncertainties (tariffs, debt ceiling, inflation etc) and the unpredictability of Trump, crypto implied vols and VIX are still trading at their lows.\n\n“BTC has proven to be relatively unfazed by the recent macro data and OI has not recovered significantly after the January month-end expiry. This suggests that the crypto options market is just waiting on the sidelines for concrete policy changes rather than just pro-crypto rhetoric,” the Singapore-based firm added.\n\nOI, or open interest, is the number outstanding options contracts that have not been closed. Rising open interest represents more money flowing into the options market.\n\nThe $110,000 call option listed on Deribit has been the most preferred options play this month, as a CoinDesk analysis noted earlier Monday, while bitcoin itself remains confined in a narrow range below $100,000.\nTraders say a preference for BTC stems mainly from its appeal among institutional investors.\n“While many altcoins are down 40-60% over the last month or so, Bitcoin's price has proved to be surprisingly resilient, holding at around $96-97k. This is likely because its holder base has shifted towards institutional investors, and this is likely to continue,” Jeff Mei, COO at Taiwan-based crypto exchange BTSE told CoinDesk in a Telegram message.",
+    "url": "https://www.coindesk.com/markets/2025/02/17/solana-xrp-lead-crypto-drop-with-u-s-closed-for-presidents-day",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei",
+                "Jeff Mei"
+            ],
+            "positions": [
+                "COO"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Deribit",
+                "BTSE"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "XRP",
+            "bitcoin",
+            "BTC",
+            "BNB",
+            "bnb",
+            "Dogecoin",
+            "DOGE",
+            "Cardano",
+            "ADA",
+            "ether",
+            "ETH",
+            "Jupiter",
+            "JUP",
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes crypto markets falling with XRP and SOL leading declines among major cryptocurrencies, and mentions traders locking in profits amid lack of catalysts."
+    }
+}

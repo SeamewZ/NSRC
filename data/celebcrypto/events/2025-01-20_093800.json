@@ -1,0 +1,31 @@
+{
+    "title": "TRUMP Memecoin Bulls on Alert as Indicator Hints at Rising Selling Pressure",
+    "time": "2025-01-20T09:38:00",
+    "author": "Omkar Godbole",
+    "summary": "An indicator called the cumulative volume delta shows traders are either shorting perpetual futures or closing long positions.",
+    "content": "U.S. President-elect Donald Trump's TRUMP token has made quite a splash in the crypto market, rapidly becoming the 21st largest digital asset with a market cap of $11 billion in just two days.\n\nThe TRUMP/USDT pair has emerged as the most-traded pair over the past 24 hours on the leading exchange, Binance, representing 13.3% of the total exchange volume, according to Coingecko.\n\nWhile this activity is thrilling, the bulls and those looking to join the market ahead of Donald Trump's inauguration might want to exercise caution, as a key derivatives market indicator has diverged bearishly from the token's rising futures open interest.\n\nOpen interest in TRUMP perpetual futures has increased by 6% in the past 24 hours, according to data source Velo Data. Although prices have retraced from $70 to $58 since the Asian hours, they remain up by 3%.\n\nHowever, the perpetual futures cumulative volume delta, which reflects the difference between buying and selling volume, has dropped by over 1%, indicating a relative increase in selling volume. In other words, traders are either taking outright shorts or bearish bets or closing long positions.\n\nBesides, the market for TRUMP looks overheated, with those holding long positions paying an annualized funding fee of over 170% to shorts to keep their positions open. If the market stops rallying, holding longs will become a burden, potentially spurring an unwinding of the bullish bets. That, in turn, could lead to a deeper price slide.\n\nThe chart shows most major cryptocurrencies have experienced a net selling in perpetual futures in the past 24 hours. Perhaps, market participants are fearing market-wide price losses in a classic \"sell the fact\" action following Trump's inauguration.",
+    "url": "https://www.coindesk.com/markets/2025/01/20/trump-bulls-on-alert-as-indicator-hints-at-rising-selling-pressure",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President-elect"
+            ],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Coingecko",
+                "Velo Data"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news indicates rising selling pressure, bearish derivatives indicators, overheated market conditions with high funding fees, and potential for price slides and unwinding of bullish bets."
+    }
+}

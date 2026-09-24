@@ -1,0 +1,27 @@
+{
+    "title": "EVM-Compatible Vana Blockchain Introduces New Token Standard for Data-Backed Digital Assets",
+    "summary": "The VRC-20 standard aims to boost trust and transparency in the market for data-backed digital assets.",
+    "time": "2025-04-02T05:47:00",
+    "author": "Omkar Godbole",
+    "content": "Crypto enthusiasts might have heard of the ERC-20 token standard, which provides guidelines to ensure that tokens created on the Ethereum smart contract blockchain are compatible and can interact with other tokens and applications within the network.\n\nA similar standard for data-backed tokens, called VRC-20, has now emerged.\n\nVana, an EVM-compatible Layer 1 blockchain that helps users monetize personal data by bundling it into DataDAOs for AI model training, introduced the new standard early this week to boost trust and transparency in the market for data-backed digital assets.\n\n\"For data markets to work, tokens must be reliable, secure, and useful. As a universal standard for data-backed tokens, VRC-20 delivers this by ensuring fair and transparent data token trading,\" Vana announced on X.\n\nThe VRC-20 standard design includes specific criteria such as fixed supply, governance, and liquidity rules while ensuring real data access by tying tokens to actual data utility. Additionally, it promotes continuous liquidity through rewards that ensure market stability.\n\n\"This isn’t speculation. This is real financialization of data,\" Vana noted.\n\nVana launched its mainnet in December, with VANA as its native cryptocurrency. Since then, the network has onboarded over 12 million data points through multiple DataDAOs, reflecting strong demand for user-owned data.\n\nDataDAOs or data liquidity pools are decentralized marketplaces that bring data onchain as transferable digital tokens. DLPs are where data is contributed, tokenized and made ready for use in applications such as AI model training.\n\nMonday's announcement replaced VANA emissions as DataDAO inventive with a new feature that calls for DAOs to issue VRC-20-compliant tokens to receive liquidity support.\n\nAdditionally, the protocol introduced data validator staking, where VANA holders can lock their coins in data validators instead of individual DataDAOs.\n\n\"Rewards are based on network security and usage. Stakers earn proportionally to their contribution to network uptime and data availability. No more idle staking. Earnings are tied to real network utility and reliability,\" Vana said.\n\nThe VANA token changed hands at $5.58 at press time, the lowest in over two weeks, extending the decline from the recent price high of $8.78 on Binance, according to data source TradingView.",
+    "url": "https://www.coindesk.com/tech/2025/04/02/evm-compatible-vana-blockchain-introduces-new-token-standard-for-data-backed-digital-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Vana",
+                "Binance"
+            ],
+            "organizations": [
+                "DataDAOs",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "VANA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The VANA token is explicitly stated to be trading at its lowest price in over two weeks, extending a decline from recent highs."
+    }
+}

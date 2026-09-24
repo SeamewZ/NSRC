@@ -1,0 +1,58 @@
+{
+    "title": "Crypto's U.S. Banking Problem Likely Among the First Things Tackled Under Trump",
+    "summary": "From the debanking crisis to the SEC's crypto accounting standards, the blockade between the digital assets sector and banks may be an easy target.",
+    "time": "2025-01-15T13:00:00",
+    "author": "Jesse Hamilton",
+    "content": "When inauguration day rolls around in the U.S., the first policy domino to topple could be the industry's banking roadblocks, though the White House may be the wrong place to watch for the most consequential action.\n\nThe crypto industry will surely cheer loudly over some of the executive-order fireworks when President-elect Donald Trump is sworn in, which could reportedly include directives on crypto, but such orders can be more smoke than fire. (President Joe Biden, after all, issued a crypto order in 2022 instructing the federal government to get a better handle on crypto.)\n\nWhile the White House touts its vision for the direction of crypto policy, the concrete steps will be taken at the regulatory agencies, such as the Securities and Exchange Commission and the Federal Deposit Insurance Corp. These are nominally independent regulators, but they'll have new leadership closely aligned with Trump's view, even if there's a delay in confirming the permanent agency chiefs.\n\nAt the SEC, former Commissioner Paul Atkins is on deck to receive his formal nomination to take over. But the conservative SEC veteran may be jammed amid the potential bottleneck of Senate confirmations, where the most urgent appointees, such as the new secretary of the Treasury, will be first in line.\n\nOn January 21, the day after the inauguration, the commission will have just three members — two Republicans and a Democrat. Trump will be able to name one of the two sitting Republicans as acting chair, just as Biden had named Allison Herren Lee to that role on January 21, 2021, at the start of his presidency. Both Republican commissioners, Mark Uyeda and Hester Peirce, once served Atkins as his SEC counsels, so they're likely to be on the same page as him, anyway.\n\nSome expect Commissioner Uyeda to get the nod to be acting chair, and there's a change he could immediately make that would have massive ramifications for crypto banking. He's said he favors erasing the controversial Staff Accounting Bulletin No. 121 (SAB 121) that effectively demands banks treat their customers' crypto assets as their own, factoring for the tokens on their balance sheets and taking the resulting hit in the capital they need to expensively maintain. A hypothetical Acting Chair Uyeda could direct that bulletin be withdrawn, taking the enforcement pressures off of the big banks that have had to tread lightly into crypto matters.\n\nCommissioner Peirce also openly opposed SAB 121 from inside the agency, issuing a statement that argued, \"the SAB does not acknowledge the Commission’s own role in creating the legal and regulatory risks that justify this accounting treatment.\" So, if she were to take over, the bulletin could be similarly scrapped.\n\nSAB 121 has been under the gun since its issuance, and Congress rose up last year to strike it from the books in a wide, bipartisan vote to use the Congressional Review Act to reverse the SEC action. But President Biden flexed his veto power to protect the accounting standard.\n\nIn a public statement in September, the SEC's chief accountant, Paul Munter, held the line on SAB 121, saying his accounting staff still felt the same way that a bank's balance sheets should \"reflect its obligation to safeguard the crypto-assets held for others.\" But the agency announced on Tuesday that he'd be retiring next week. The overhauled agency will have a new accounting chief.\n\nIf the acting chair waits for Atkins to arrive, the former commissioner will be expected to get rid of SAB 121 himself. When his name emerged last month as Trump's SEC pick, Representative Mike Flood, a Nebraska Republican who led the House charge against the accounting standard, posted on social-media site X that he was looking forward to \"working with him to end SAB 121.\"\n\nMeanwhile, U.S. banking regulators could quickly issue orders to their squads of bank supervisors that crypto no longer needs to be walled off. At the FDIC, longtime Chairman Martin Gruenberg is expected to depart the day before the inauguration. That puts Republican Vice Chairman Travis Hill at the helm, at least in an interim capacity.\n\n\"We expect Hill will advance a proposal that both clarifies that banks can engage in crypto activities and specifies when regulators must first approve an activity,\" said Jaret Seiberg, a financial policy analyst at TD Cowen, in a note to clients. \"It also likely will include strict deadlines for the FDIC to act.\"\n\nLast week, Hill outlined several pro-crypto policy thoughts, contending that the agency \"stifled innovation and contributed to a public perception that the FDIC is closed for business if institutions are interested in anything related to blockchain or distributed ledger technology.\" He also argued that the FDIC had instigated an inappropriate campaign to sever banking ties for crypto firms and those involved with them.\n\n\"I continue to think a much better approach would have been — and remains — for the agencies to clearly and transparently describe for the public what activities are legally permissible and how to conduct them in accordance with safety and soundness standards,\" Hill said. \"And if regulatory approvals are needed, those must be acted upon in a timely way, which has not been the case in recent years.\"\n\nRead More: U.S. Banking Should Ease Path for Crypto, Republican Taking Reins at FDIC Suggests\n\nThe FDIC's restraints on banks' involvement with crypto are not in the form of rules but of guidance that can be more easily overhauled. There are, however, two other agencies that share the duties of regulating U.S. banks: the Office of the Comptroller (OCC) of the Currency and the Federal Reserve.\n\nThe OCC has actually been run by an acting administrator, Michael Hsu, for more than three years. Hsu has said he awaits the new pick to replace him, which is as simple as the president directing his Treasury secretary to name a \"first deputy comptroller,\" a designation that automatically inserts that person into the acting comptroller role under the OCC rules. Trump had once installed Brian Brooks into that acting duty, where Brooks — a former executive at Coinbase and other crypto companies — quickly moved to blast an entrance into the banking system for crypto firms, including through a novel approach to chartering.\n\nAt the Fed, the board's vice chairman for supervision, Michael Barr, said he'll step down at the end of February. Barr had been in that role when the Fed issued warnings to the banks it supervises that any crypto activity had to be meticulously run by the regulator before the institutions could move forward. His departure potentially leaves an opening for a future vice chair who wishes to encourage lenders to get into digital assets.\n\nWith the old guard heading for the exits at the SEC and the banking agencies, some of the main constraints on crypto banking are especially vulnerable.\n\nSeiberg had added a bit of Washington wisdom to his note, though: \"Our caution — with a hat tip to Mike Tyson — is that everyone has a plan until punched in the face.\"",
+    "url": "https://www.coindesk.com/news-analysis/2025/01/14/crypto-s-u-s-banking-problem-likely-among-the-first-things-tackled-under-trump",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Joe Biden",
+                "Paul Atkins",
+                "Allison Herren Lee",
+                "Mark Uyeda",
+                "Hester Peirce",
+                "Paul Munter",
+                "Mike Flood",
+                "Martin Gruenberg",
+                "Travis Hill",
+                "Jaret Seiberg",
+                "Michael Hsu",
+                "Brian Brooks",
+                "Michael Barr",
+                "Mike Tyson"
+            ],
+            "positions": [
+                "President-elect",
+                "President",
+                "Commissioner",
+                "acting chair",
+                "chief accountant",
+                "Representative",
+                "Chairman",
+                "Vice Chairman",
+                "financial policy analyst",
+                "acting administrator",
+                "first deputy comptroller",
+                "vice chairman for supervision"
+            ],
+            "companies": [
+                "Coinbase",
+                "TD Cowen"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "Federal Deposit Insurance Corp",
+                "Treasury",
+                "Congress",
+                "Office of the Comptroller of the Currency",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes potential removal of banking restrictions and regulatory barriers for crypto under Trump's administration, which would improve market access and institutional participation."
+    }
+}

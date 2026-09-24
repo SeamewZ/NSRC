@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Longs Could See Wave of Liquidation Between $73.8K-$74.4K as 'Treasury Basis Trade' Unwinds",
+    "time": "2025-04-09T05:56:00",
+    "author": "Omkar Godbole",
+    "summary": "The sharp rise in Treasury yields likely stems from the unwinding of basis trades and could trigger liquidity crisis, deepening the sell-off in risk assets.",
+    "content": "The worst fears for risk assets, including cryptocurrencies, are coming true, and that has raised the risk of bitcoin\nBTC\n$103,914.57\nfalling below $74,000 in a move that could shake out leveraged long bets.\n\nOn Sunday, CoinDesk discussed the possibility of pronounced downside volatility in risk assets due to a potential unwinding of the Treasury market arbitrage bets, a dynamic that catalyzed the 2020 crash.\n\nPer observers, the unwinding of the so-called carry trades, involving hedge funds exploiting minor price discrepancies between Treasury futures and securities, has begun. That's evident from the nearly 70 basis points rise in the U.S. 10-year Treasury yield to 4.5%. The 30-year yield has seen a similar rise. Note that yields move in the opposite direction of prices and typically drop during risk aversion as investors seek refuge in government bonds.\n\n\"It's all running vertical now with 30-year Treasury yields on the cusp of hitting the 5% mark. For some context, 10-year yields in the US were at a low of 3.88% on Monday. This points to further liquidation in Treasuries and that's a sign that we are seeing distress in the parts of the market that we should not normally talk about i.e. funding, credit, repo,\" ForexLive's analyst Justin Low said in a market update discussing the implosion of the basis trade.\n\nLow added that it's \"all going sideways at the moment\" as a sharp rise in yields itself can have a far-reaching impact on markets, housing and the economy.\n\nFutures tied to the S&P 500, Wall Street's benchmark equity index, fell 2% amid increased volatility in the Treasury market. Bitcoin fell briefly below $75,000 early today and has since recovered to trade near $76,000, CoinDesk data showed.\n\nThe MOVE index, which represents the options-implied 30-day price turbulence in the Treasury market, jumped to 140, the highest since October 2023, according to data source TradingView.\n\nThe worsening of the risk sentiment has raised the risk of BTC falling to the $73.8K-$74.4K range, where holders of bullish long positions in the perpetual futures listed on major exchanges face liquidation risks, according to data tracked by analytics firm Hyblock Capital.\n\nLiquidation represents the forced closure of positions by exchanges due to margin shortages. Large long liquidations often add to downside price volatility.\n\n\"We see long liquidation clusters (where we estimate liquidations to get triggered) at 73800-74400, 69800-70000, 66100-67700. In particular, if we hit 70k, we likely go down at least $200 more, taking the retail stop losses right below 70k and the liquidation levels liquidity,\" Hyblock told CoinDesk.\n\nOn the higher side, Hyblock identified $80,900-$81,000, $85,500-$86,700, and $89,500-$92,600 as prominent zones for potential short liquidations.",
+    "url": "https://www.coindesk.com/markets/2025/04/09/bitcoin-longs-could-see-wave-of-liquidation-between-usd73-8k-usd74-4k-as-treasury-basis-trade-unwinds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Justin Low"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "CoinDesk",
+                "ForexLive",
+                "Hyblock Capital",
+                "TradingView"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes potential bitcoin price declines, leveraged long liquidations, worsening risk sentiment, and increased downside volatility due to Treasury market distress."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "UK Bond Yields Hit 5.6%, Stirring ‘Memories of 2022 Pension Crisis’",
+    "time": "2025-04-09T11:52:00",
+    "author": "James Van Straten",
+    "summary": "Tariff fears revive market turmoil as borrowing costs soar.",
+    "content": "As of Wednesday morning, the yield on the UK’s 30-year government bond soared to 5.6%—its highest level since 1998—mirroring a broader climb in U.S. sovereign yields and sparking fresh concerns about financial market stability.\n\nSurging global bond yields are exerting significant downward pressure on risk assets. Since the U.S. equity sell-off began last Thursday, the Nasdaq has dropped 10%, while bitcoin\nBTC\n$103,684.20\nhas fared slightly better, down 8% over the same period.\n\nIn the same time the U.K. 30-year bond yield is up 8%, while the U.S. 30-year is up 12%. Charlie Morris, founder of ByteTree, believes investors will start to seek diversification into other assets including bitcoin.\n\n“It appears that the UK has been living beyond its means for too long. It hasn't balanced its budget since 2001, the gilt market has had enough”, Morris said. “Investors seeking diversification away from financial assets will not only buy gold, but bitcoin too”.\n\nThe dramatic spike in yields has revived unsettling memories of the UK’s 2022 pension crisis, when a sudden surge in borrowing costs triggered a near-collapse of the financial system and ultimately cost then-Prime Minister Liz Truss her job.\n\nThis latest bond market turmoil is being driven by escalating uncertainty around global trade, stoked by President Donald Trump’s proposed tariff plans. These levies could disrupt global supply chains and increase costs, adding pressure to already jittery markets.\n\n“Alas, in politics you never get what you want by making civil arguments from high principle,” former UK MP Steve Baker told CoinDesk in an exclusive interview. “President Trump said he was using brute economic force—and he is. It’s time to rediscover free trade at home and abroad, fast, before this chaos wrecks our futures.”\n\nThe recent yield surge echoes the events of 2022, when a surprise mini-budget announcement on Sept. 23 sent gilt yields soaring, crashed the pound, and exposed deep vulnerabilities in the UK pension system.\n\nMany defined benefit pension schemes had adopted complex liability-driven investment (LDI) strategies, using leverage and derivatives to match long-term liabilities. But as yields spiked, these funds suffered massive mark-to-market losses and faced margin calls, forcing rapid gilt sales into a thin market and creating a destabilizing \"fire sale\" feedback loop.\n\nAt the time, UK pension funds held around 28% of the gilt market. The ensuing chaos, occurring in a modest $1.5 trillion market, was so severe that it required the Bank of England to step in with emergency gilt purchases to halt the downward spiral. A Chicago Fed Letter analyzing the crisis later identified excessive leverage, asset pooling, and the limited depth of the gilt market as key structural weaknesses—particularly in contrast to the much larger $9.9 trillion U.S. Treasury market.",
+    "url": "https://www.coindesk.com/markets/2025/04/09/uk-bond-yields-hit-5-5-stirring-memories-of-2022-pension-crisis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charlie Morris",
+                "Donald Trump",
+                "Liz Truss",
+                "Steve Baker"
+            ],
+            "positions": [
+                "founder of ByteTree",
+                "President",
+                "Prime Minister",
+                "former UK MP"
+            ],
+            "companies": [
+                "ByteTree"
+            ],
+            "organizations": [
+                "Bank of England",
+                "Chicago Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article states that investors will seek diversification into bitcoin as bond yields surge, indicating potential increased demand for cryptocurrency."
+    }
+}

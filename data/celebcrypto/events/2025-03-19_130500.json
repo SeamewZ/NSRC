@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin, Ether, Solana Likely to See 3%- 5% Price Swings on FOMC Rate Decision, Volmex's Data Suggests",
+    "time": "2025-03-19T13:05:00",
+    "author": "Omkar Godbole",
+    "summary": "These figures might be scary for equity or currency traders but do not represent a major deviation from the normal in the crypto market.",
+    "content": "The Federal Open Market Committee (FOMC), the U.S. Federal Reserve's monetary policy-making body, is slated to publish its rate review later in the day, along with growth and inflation projections and interest rate forecast.\n\nThe widely-watched event is likely to breed crypto market volatility, spurring 3% to 5% price swings in bitcoin\nBTC\n$104,558.40\n, ether\nETH\n$3,524.11\nand solana\nSOL\n$161.81\n. That's the message from Volmex's one-day implied volatility indices tied to BTC, ETH and SOL.\n\nAt 12:30 UTC, the bitcoin one-day IV index (BVIV) signaled an annualized volatility of 63.32%, equating to an expected 24-hour price swing of 3.31%. The daily move is calculated by dividing the annualized figure by the square root of 365, the total number of trading days in a year.\n\nSimilarly, ether and solana volatility indices suggested 24-hour price swings of 5.25% and 5.73%, respectively.\n\nThese figures might be scary for equity or currency traders but do not represent a major deviation from the normal in the crypto market. In other words, the Fed event, though pivotal, is unlikely to result in an immediate volatility explosion.\n\nThe central bank is widely expected to keep the benchmark borrowing cost steady while signaling an end of its prolonged quantitive tightening program. However, gains in risk assets may be tempered by a potential stagflationary adjustment in the summary of economic projections.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/bitcoin-ether-and-solana-likely-to-see-3-5-price-swings-on-fomc-rate-decision-volmex-s-data-suggests",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Volmex"
+            ],
+            "organizations": [
+                "Federal Open Market Committee",
+                "U.S. Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news indicates expected price swings of 3-5% but explicitly states this does not represent a major deviation from normal crypto market volatility and is unlikely to result in an immediate volatility explosion."
+    }
+}

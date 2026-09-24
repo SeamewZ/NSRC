@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Market Cap Tops $2.2T as Derivatives, Sentiment Signal More Upside",
+    "time": "2025-05-23T11:25:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for May 23, 2025",
+    "content": "By James Van Straten (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\nis climbing up the asset ranks. The rally that this week took it to new highs has lifted its market capitalization to $2.2 trillion for the first time.\n\nIt's already overtaken Amazon (AMZN) and Google (GOOG) to become the world's fifth-largest asset and now sits behind iPhone maker Apple (APPL), software developer Microsoft (MSFT) and chipmaker Nvidia (NVDA), all of which are valued at over $3 trillion. Way ahead is hard-to-produce, store-of-value gold at an estimated $22 trillion.\n\nBitcoin’s No. 5 ranking reflects its growing status among traditional and institutional investors and comes as market sentiment turns decisively bullish, with strong buying action across all investor cohorts —from whales to minnows — and the BTC price holding steady around the $110,000 level with minimal pullbacks.\n\nAs the end-of-May options expiry approaches next Friday, the options market reveals significant activity, with the bulk of call —or bullish — options positioned at the $110,000 strike price and a max pain level at $96,000. Looking into June, there's a clustering of high-strike call options at $200,000 and even $300,000. That's a solid sign of traders betting on continued upward momentum.\n\nDespite bitcoin’s strength, Strategy (MSTR), the largest corporate holder of bitcoin, has lagged in share price performance relative to its peers. The company recently announced a $2.1 billion at-the-market offering of its new perpetual preferred stock, STRF, intended to fund additional bitcoin acquisitions.\n\nMeanwhile, BlackRock’s iShares Bitcoin Trust (IBIT) continues to dominate the institutional market, pulling in $877 million in inflows on Thursday alone and bringing its total net inflow to a staggering $47.6 billion, according to Farside data.\n\nOn the macroeconomic front, the largest cryptocurrency is showing clear divergence from traditional equities, rising 5% over the past five days while the S&P 500 has slipped by more than 1%. This uncorrelated performance is reinforcing bitcoin’s appeal as a macro hedge. Investors are now closely watching for Federal Reserve Chair Jerome Powell’s speech on Sunday, which could prove pivotal in shaping next week’s market trajectory. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/23/crypto-daybook-americas-bitcoin-market-cap-tops-usd2-2t-as-derivatives-sentiment-signal-more-upside",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Jerome Powell",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "Federal Reserve Chair"
+            ],
+            "companies": [
+                "Amazon",
+                "Google",
+                "Apple",
+                "Microsoft",
+                "Nvidia",
+                "Strategy",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin reaching new highs, overtaking major companies in market cap, strong institutional inflows, bullish options positioning, and positive market sentiment across all investor cohorts."
+    }
+}

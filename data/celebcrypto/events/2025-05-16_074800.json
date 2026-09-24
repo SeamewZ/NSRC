@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Bulls Face $120M Challenge in Extending 'Stair-Step' Uptrend",
+    "summary": "BTC has chalked out a controlled stair-step price rally from $75,000 to $104,000.",
+    "time": "2025-05-16T07:48:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,914.13\nbulls face a $120 million resistance challenge as they look to extend the classic \"stair-step\" uptrend, or periodic controlled move higher, order book data show.\n\nSince April 9, bitcoin has climbed about 38%, advancing from around $75,000 to $104,000 as trade tensions eased and major market participants deployed capital.\n\nThis rally can be described as a classic stair-step pattern: Initial bullish impulses are followed by periods of consolidation, which set the stage for the next upward move.\n\nFor example, the initial increase from $75,000 encountered range-bound trading between $83,000 and $85,000. The subsequent step higher faced consolidation between $92,000 and $96,000.\n\nSimilarly, since May 10, prices have oscillated mainly between $101,000 and $105,000, marking consolidation following the step into six figure territory.\n\nFrom here, advancing to the next phase of gains will require bulls to chew through a substantial number of sell orders at around $105,000, posing a significant resistance barrier.\n\nSell orders worth nearly $50 million were open at $104,800 across major exchanges in addition to the $70 million in selling pressure at $105,000, according to data source Kiyotaka.ai.\n\nThe analytics platform tracks the order book heat map by pulling order book data from spot trading on Binance, Bitstamp, Bybt, Coinbase and OKX and perpetual futures trading on Binance, Bybit and OKX.\n\nAn open order placed above the current market price is usually a sell order. These can be called limit sell orders, setting the minimum price that sellers are willing to accept. When the spot price reaches this level, the order may be executed, allowing the seller to sell at or above that level.\n\nThe chart shows that the global aggregated order book is relatively stacked at higher price levels, hinting at potential profit taking as prices approach lifetime highs.\n\nMacro indicators and technical momentum indicators suggest the path of least resistance is on the higher side, meaning sooner or later bulls will absorb the selling pressure, lifting valuations to record highs.\n\nIn other words, these sell walls won't be there forever.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/bitcoin-bulls-face-usd120m-challenge-in-extending-stair-step-uptrend",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance",
+                "Bitstamp",
+                "Bybt",
+                "Coinbase",
+                "OKX",
+                "Bybit",
+                "Kiyotaka.ai"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes Bitcoin's controlled stair-step uptrend from $75,000 to $104,000 and states that macro indicators and technical momentum suggest the path of least resistance is higher, with bulls expected to absorb selling pressure and lift valuations to record highs."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Privacy Crypto Dero Targeted With New Self-Spreading Malware",
+    "summary": "The malware spread like a worm and spawned malicious containers after infecting fresh devices.",
+    "time": "2025-05-28T13:11:00",
+    "author": "Shaurya Malwa",
+    "content": "A newly discovered Linux malware campaign is compromising unsecured Docker infrastructure worldwide, turning exposed servers into part of a decentralized cryptojacking network that mines the privacy coin Dero\nDERO\n$0.4135\n.\n\nAccording to a report by cybersecurity firm Kaspersky, the attack begins by exploiting publicly exposed Docker APIs over port 2375. Once access is gained, the malware spawns malicious containers. It infects already-running ones, siphoning system resources to mine Dero and scan for additional targets without requiring a central command server.\n\nIn software terms, a docker is a set of applications or platform tool and products that use OS-level virtualization to deliver software in small packages called containers.\n\nThe threat actor behind the operation deployed two Golang-based implants: one named “nginx” (a deliberate attempt to masquerade as the legitimate web server software), and another called “cloud,” which is the actual mining software used to generate Dero.\n\nOnce a host was compromised, the nginx module continuously scanned the internet for more vulnerable Docker nodes, using tools like Masscan to identify targets and deploy new infected containers.\n\n“The entire campaign behaves like a zombie container outbreak,” researchers wrote. “One infected node autonomously creates new zombies to mine Dero and spread further. No external control is needed — just more misconfigured Docker endpoints.”\n\nTo avoid detection, it encrypts configuration data, including wallet addresses and Dero node endpoints, and hides itself under paths typically used by legitimate system software.\n\nKaspersky identified the same wallet and node infrastructure used in earlier cryptojacking campaigns that targeted Kubernetes clusters in 2023 and 2024, indicating an evolution of a known operation rather than a brand-new threat.\n\nIn this case, however, the use of self-spreading worm logic and the absence of a central command server make it especially resilient and harder to shut down.\n\nAs of early May, over 520 Docker APIs were publicly exposed over port 2375 worldwide — each one a potential target.",
+    "url": "https://www.coindesk.com/tech/2025/05/28/privacy-crypto-dero-targeted-with-new-self-spreading-malware",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Kaspersky"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Dero",
+            "DERO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach involving cryptojacking malware that steals system resources to mine Dero, which represents a negative security event for the cryptocurrency ecosystem."
+    }
+}

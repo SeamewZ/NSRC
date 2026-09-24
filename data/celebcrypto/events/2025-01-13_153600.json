@@ -1,0 +1,45 @@
+{
+    "title": "Stacks’ Muneeb Ali: Let the Bitcoin L2s Bloom",
+    "time": "2025-01-13T15:36:00",
+    "author": "Nelson Wang",
+    "summary": "Fresh off completing significant technical upgrades, Ali is now laser focused on growing Stacks’ user base.",
+    "content": "On Jan. 2, Muneeb Ali, the co-founder and CEO of leading Bitcoin L2 Stacks, updated his X bio from simply “founder @Stacks” to “war time founder @Stacks.” The change signaled Ali’s recognition that 2025 is a year when Stacks must pivot to a focus on going to market and expanding its user base after 2024’s major technical upgrades. Those upgrades included the long-awaited Nakamoto update that dramatically increased the project’s speed and achieved 100% finality on Bitcoin for all its transactions.\n\nAccording to Ali, a new orientation for Stacks is even more appropriate given that crypto is now firmly in the throes of a bull market, powered by the election of Donald Trump and what is expected to be a more favorable environment for crypto development.\n\n“The bio change was a signal to the community that, ‘hey, we understand that these times are different, and you need to move much faster and be much more aggressive,’” Ali said in an interview with CoinDesk. “Not that there won't be product upgrades in 2025, but I would say the product stops being the focus of the work.”\n\nHere, Ali discusses what he would have done differently with the Nakamoto upgrade if he could, his frank thoughts on Lightning’s slow progress at enabling payments via bitcoin, where he sees bitcoin’s price going in 2025 and his ultimate goal of getting one billion people on-chain via Stacks. Ali will be a speaker at Consensus Hong Kong in February.\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\nThis interview has been condensed and lightly edited for clarity.\n\nSo where does the Nakamoto upgrade stand now?\n\nI still think Bitcoin needs a really, really good L2. One reason is that Bitcoin's UX is not going to change at the L1 level; you're never going to have fast, cheap transactions at the L1. And that's why a lot of people were interested in Lightning. It’s been around for a while, it has had some adoption, but not a ton. Let's be real about it.\n\nSo I think there's still a need for extremely fast, great UX Bitcoin transactions. I would say even Solana has achieved that way better than Lightning or anything else. So one of the things that we want to do is have a Solana-like Bitcoin L2, where you can move any amount of capital super fast, and it's a great UX experience. And I think that's one goal that we are hitting with Nakamoto.\n\nIs there anything you would have done differently with respect to Nakamoto’s rollout if you could?\n\nSo the Nakamoto launch happened in a lot of phases. First, the core consensus capital moved in April. Then we launched the fast blocks, but the more complex transactions couldn't benefit from it. And then we did another release where the more complex transactions could also benefit. But looking back, it's like there was a trickled release. So people had high expectations at every step, and then they're like ‘oh, it's not here yet, it's not here yet.’ So by the time it fully launched, I think it took away some of the excitement, frankly.\n\nDo you think we'll continue to see interest swing back to building and programming on Bitcoin as opposed to Ethereum and other chains in 2025?\n\nI think so. Bitcoin is like one of those things that is like a class of its own in a way; it just never goes away. Even if you think about what's happening in the public markets and how many public companies are now building Bitcoin treasuries, Bitcoin is so far ahead of anything else in terms of adoption. So there was more excitement about Bitcoin L2s maybe a year ago, and it seemed to have cooled down a little bit. But I think Bitcoin is so fundamental that people will just come back to it.\n\nHow do you think Donald Trump will affect the course of Bitcoin?\n\nA lot. Look at the people he's picking, like David Sachs as crypto and AI czar. He’s a big LP at Multicoin Capital and fully updated on crypto and Solana, so I think it makes a huge difference. And the same is true for some of the other people that Trump is picking as advisors. In the U.S. for the last four years, the government and the regulatory bodies were literally just fighting us. Now I think they're actually going to actively support and encourage things, which is a huge 180. It helps a lot.\n\nAlso, if any of the Bitcoin Reserve [plans] happen, that's going to be a huge, huge signal throughout the world. Even if they happen [just] at the state level, like in Texas or Wyoming, it will send a huge signal around the world.\n\nWhat’s your guess on where bitcoin's price might be at the end of year?\n\nI'm still a believer in the four year cycle, with the current cycle I see as ending in Q4 2025. And even though there are some reasons to believe that maybe the cycles won't be that intense, I'm personally still a believer. I'd be surprised if we don't see $150,000 by the end of the year, and I do think we can see $200,000. That would be my high range.\n\nWhen are we going to see fast and efficient payments via bitcoin?\n\nWe're trying to make it happen ourselves. And I think Lightning deserves a lot of credit — there are a lot of die-hard fans that use it. But the technology was complex and not very easy to integrate, and the Bitcoin community really just got behind one project. And I think the way to do this is you let dozens of experiments happen and see what attracts attention. One of the things I like about Bitcoin L2s with so many different projects getting started is that finally we are seeing multiple experiments happen. If Lightning was too hard to integrate, let other projects have a go at it.\n\nIf you go to a Bitcoin conference or hear from some of the top people like [MicroStrategy Founder] Michael Saylor, there’s this attitude that Lightning is the solution and the only solution. They wouldn't talk about any other L2s, and I think some of that has to do with the fact that some of these L2s have their own tokens. The Bitcoin community doesn't like that. But I think they're slowly now at least opening up.\n\nWhat are you excited about discussing at Consensus Hong Kong?\n\nHow do we take Bitcoin to a billion people? That's something that excites me and drives some of the technology decisions that we make. If that’s your goal, you almost immediately start looking for L2s, because on L1, a billion people can't even own UTXOs [Unspent Transaction Outputs]. I don't know that a lot of Bitcoiners even realize that a billion people cannot own a UTXO on-chain on Bitcoin alone.\n\nThat’s something that probably doesn't get talked about that much in our industry. People have made peace with onboarding people to Bitcoin through Coinbase and Binance and maybe through ETFs. But that’s not what Bitcoin is about. Bitcoin is about decentralization and self-custody and people being in control directly. We can't forget that mission.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/13/stacks-muneeb-ali-let-the-bitcoin-l2s-bloom",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Muneeb Ali",
+                "Donald Trump",
+                "David Sachs",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "co-founder",
+                "CEO",
+                "founder",
+                "crypto and AI czar",
+                "LP",
+                "Founder"
+            ],
+            "companies": [
+                "Stacks",
+                "CoinDesk",
+                "Multicoin Capital",
+                "MicroStrategy",
+                "Coinbase",
+                "Binance"
+            ],
+            "organizations": [
+                "Consensus Hong Kong"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news discusses positive market developments including a crypto bull market, favorable regulatory environment under Trump, and optimistic bitcoin price predictions of $150,000-$200,000 by end of 2025."
+    }
+}

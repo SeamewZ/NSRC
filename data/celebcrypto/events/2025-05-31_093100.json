@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Bulls Rack up $600M Liquidations as Bitcoin Drops Under $104K",
+    "summary": "A cascade of liquidations might suggest a market turning point, where a price reversal could be imminent due to an overreaction in market sentiment.",
+    "time": "2025-05-31T09:31:00",
+    "author": "Shaurya Malwa",
+    "content": "Crypto markets saw a wave of liquidations in the past 24 hours as bitcoin\nBTC\n$101,702.76\nprices slipped under $104,000, triggering over $600 million in forced closures of bullish futures positions to mark the highest losses since February.\n\nA total of $688 million in liquidations hit traders, with 89% of them on the long side — reflecting a heavily bullish market. The largest single liquidation order was a $12.25 million BTC/USDT on OKX, Coinglass data shows.\n\nBitcoin-tracked futures led losses at over $153 mmillion, followed by Ethereum\nETH\n$3,323.31\nat around $122 million. Solana\nSOL\n$157.11\nfaced liquidations totaling about $33 million, XRP futures at $30 million, and\nDOGE\n$0.1647\nfutures at over $22 million.\n\n\"Markets went red on Friday on renewed tariff-related apprehensions,\" said Alex Kuptsikevich, chief market analyst at FxPro, in an email to CoinDesk.\n\nU.S. President Donald Trump accused China of violating a bilateral trade deal, prompting him to double tariffs on steel and aluminum to 50% to protect domestic industries. He claimed China reneged on a May agreement to ease trade tensions, adding that he might discuss the matter with President Xi.\n\nWhile China is a top steel exporter, most of its steel is already subject to existing tariffs, per Reuters. Trump’s move rattled global trade markets, with potential implications for key minerals and overall relations between the two nations.\n\nThe broader crypto market was also swept by the sell-off, with Ether down nearly 4%, XRP and Solana falling around 4-5%, and Dogecoin diving over 8% on the day.\n\nData from Deribit shows open interest in Bitcoin futures has surged 51% since April, with options up 126%, signaling increasing investor appetite for leverage. But whales — large holders with more than 10,000 BTC — have shifted from accumulation to net selling, sending coins back to exchanges in a classic sign of profit-taking.\n\nA cascade of liquidations often indicates market extremes, where a price reversal could be imminent as market sentiment overshoots in one direction. Still, the renewed tariff flare-up, combined with a jittery derivatives market, has traders bracing for more volatility ahead.",
+    "url": "https://www.coindesk.com/markets/2025/05/31/crypto-bulls-rack-up-600m-liquidations-as-bitcoin-drops-under-104k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Kuptsikevich",
+                "Donald Trump",
+                "Xi"
+            ],
+            "positions": [
+                "chief market analyst",
+                "U.S. President",
+                "President"
+            ],
+            "companies": [
+                "OKX",
+                "FxPro",
+                "CoinDesk",
+                "Deribit",
+                "Reuters"
+            ],
+            "organizations": [
+                "China"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "DOGE",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes $688 million in liquidations, bitcoin dropping under $104,000, a market sell-off with multiple cryptocurrencies falling 4-8%, and traders bracing for more volatility due to tariff-related apprehensions."
+    }
+}

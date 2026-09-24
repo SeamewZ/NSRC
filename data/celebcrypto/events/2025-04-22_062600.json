@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin, Euro Options Signal Bullishness Against Dollar Amid Equity and Bond Market Downturn",
+    "summary": "Bitcoin and the euro are showing strength against the U.S. dollar despite a downturn in the U.S. stock market.",
+    "time": "2025-04-22T06:26:00",
+    "author": "Omkar Godbole",
+    "content": "In a surprising development, options linked to bitcoin\nBTC\n$101,998.62\nand the euro-dollar (EUR/USD) exchange rate are indicating strength against the U.S. dollar despite a downturn in the U.S. stock market. This trend suggests the \"sell America\" trade is gathering pace.\n\nCurrently, bitcoin's short- and near-dated risk reversals – which measure the demand for call options relative to put options – were slightly positive, indicating a bullish bias. The data, drawn from sources like Deribit and Amberdata, signals a recovery from the previous trend where there was a consistent preference for puts in near-dated options.\n\nIn parallel, the one-month EUR/USD risk reversal has also flipped to positive, demonstrating a favorable outlook for EUR call options, according to data tracked by Jens Nordvig, founder and CEO of Exante Data Inc.\n\nA call option gives the buyer asymmetric upside exposure to the underlying asset, while a put option protects against price declines. Consequently, a call buyer is implicitly bullish, whereas a put buyer is bearish, seeking to hedge or profit from anticipated price drops.\n\nThe preference for BTC and EUR call options over the dollar indicates expectations for continued capital rotation away from U.S. assets, which have recently fallen out of favor with investors, and into bitcoin, the euro, and other assets such as gold. .\n\nOn Monday, the Dow Jones Industrial Average plummeted over 700 points, bringing its month-to-date decline to more than 9%. In tandem, the dollar index—reflecting the greenback's performance against major fiat currencies, including the euro—fell to a three-year low of 98, down 10% over the past three months. Additionally, prices for longer-duration Treasury notes have dropped, resulting in the 30-year yield rising by over five basis points to 4.90%.\n\nThe concurrent sell-off in U.S. assets aligns with increasing policy uncertainty stemming from President Donald Trump's trade war and his reported intentions to dismiss Fed Chair Jerome Powell and calls for a rethink of trading strategies.\n\n\"We are in a STRATEGIC asset allocation shift that is causing all kind of correlations to flip in a historical way. It is a time for many investors to take a step back, and think fresh,\" Nordvig said on X.\n\nOn Monday, BTC rose past $88,000, with the EUR/USD climbing to 1.1575, the highest since November 2021. Gold topped the $3,400 per ounce price mark for the first time and rose to a new lifetime high of $3,495 at press time.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/bitcoin-euro-options-signal-bullishness-against-dollar-amid-equity-and-bond-market-downturn",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jens Nordvig",
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "founder and CEO",
+                "President",
+                "Fed Chair"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "Exante Data Inc."
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin showing strength with positive risk reversals indicating bullish bias and rising past $88,000 amid capital rotation away from U.S. assets."
+    }
+}

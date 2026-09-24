@@ -1,0 +1,25 @@
+{
+    "title": "WazirX Tells Creditors Accept New Scheme or Wait Until 2030 for Refunds From $230M Hack",
+    "time": "2025-02-04T11:50:00",
+    "author": "Shaurya Malwa",
+    "summary": "The aftermath of an attack on India’s once-largest crypto exchange continues to brew.",
+    "content": "WazirX creditors can start to receive their stolen crypto as early as April, or in 2030, based on the outcome of a voting scheme, scheduled for the coming weeks.\n\nCreditors of the hacked Indian crypto exchange will have to vote on whether to approve the restructuring scheme. If the majority, or more than 75% by value of voting creditors, vote yes, the scheme becomes effective in April 2025, as previously approved by a Singapore court, the company said in an X post.\n\nIf the scheme is approved, the platform is then scheduled to restart trading operations, with initial payouts promised within 10 business days after the scheme's activation, including distributing net liquid assets.\n\nPart of the refund plan is to launch a decentralized exchange (DEX), Issue recovery tokens that can be traded, and perform a periodic buyback of recovery tokens using platform profits and new revenue streams.\n\nHowever, if the scheme is not approved, the restructuring plan fails and the process moves towards liquidation under section 301 of the Singapore Companies Act — potentially leading to a fire sale of assets and creditors receiving less compensation as assets are sold off at possibly lower values.\n\nThe process might be less favorable for creditors due to delays and reduced asset value, WazirX noted in its post.\n\nWazirX, once India’s largest crypto exchange by trading volumes, was hacked by North Korean hacker outfit Lazarus in July 2024 and saw over $230 million of user funds stolen from the platform.\n\nThe hacker laundered all the stolen funds to various addresses using Tornado Cash to obscure the transactions, as CoinDesk reported in September, further dampening hopes of a full recovery.\n\nWazirX, still reeling from the financial and reputational damage, has worked to recover the funds with limited success. It has faced criticism for its handling of the crisis, especially concerning user communication and fund recovery processes.\n\nIt filed for a moratorium in Singapore courts and received court approval for a restructuring plan in January for creditor recovery, avoiding total liquidation.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/wazirx-says-accept-new-scheme-or-wait-until-2030-for-refunds-of-usd230m-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "WazirX"
+            ],
+            "organizations": [
+                "Lazarus",
+                "Singapore Companies Act",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major $230 million hack of a crypto exchange, fund laundering through Tornado Cash, and potential liquidation - all negative security and trust events for the cryptocurrency market."
+    }
+}

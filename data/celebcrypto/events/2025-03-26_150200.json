@@ -1,0 +1,27 @@
+{
+    "title": "Ethereum’s Final Pectra Test Goes Live on Hoodi Network",
+    "summary": "The upgrade is the last of three tests, and developers previously agreed they would schedule Pectra 30 days from Wednesday if the test ran smoothly.",
+    "time": "2025-03-26T15:02:00",
+    "author": "Margaux Nijkerk",
+    "content": "The final dress rehearsal for Ethereum’s upcoming Pectra upgrade occurred Wednesday, as the blockchain's biggest changes in over a year were tested an additional time following a series of mishaps.\n\nThe upgrade on the new Hoodi testnet was closely watched given that two previous tests, on the Holesky and Sepolia test networks, failed to finalize properly.\n\nFollowing those tests, developers created a new testnet, Hoodi, to give ecosystem players, particularly staking providers, one more testing opportunity before the Pectra upgrade hits Ethereum’s mainnet.\n\nThe test involved passing Hoodi a series of code changes meant to make Ethereum more user-friendly for both end-users as well as developers. One of those changes adds smart contract functionality to wallets, allowing wallet software developers to build new convenience-oriented features, like the ability to pay transaction fees in cryptocurrencies other than ether\nETH\n$3,340.48\n.\n\nTestnets act as copies of a main blockchain, and are used by developers to run through any major code changes in a low stakes environment, giving them a place to patch out any bugs before they reach mainnet.\n\nHoodi was the last of three testnets to run through a simulation of Pectra. Developers previously agreed that if all went well on Wednesday, Pectra would be monitored for around 30 more days and then, finally, activated on Ethereum's mainnet.\n\nRead more: Hello, Hoodi: Ethereum Welcomes a New Testnet",
+    "url": "https://www.coindesk.com/tech/2025/03/26/ethereum-s-final-pectra-test-goes-live-on-hoodi-network",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Hoodi",
+                "Holesky",
+                "Sepolia"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The successful final test of Ethereum's Pectra upgrade with user-friendly improvements and planned mainnet activation indicates positive development progress and market confidence."
+    }
+}

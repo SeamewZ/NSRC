@@ -1,0 +1,29 @@
+{
+    "title": "JPMorgan to Allow Clients to Buy Bitcoin, Says Jamie Dimon",
+    "time": "2025-05-19T17:47:00",
+    "author": "Helene Braun",
+    "summary": "A longtime vocal critic of bitcoin, Dimon said the bank he runs will now let clients to buy the crypto.",
+    "content": "Clients of JPMorgan Chase (JPM) will soon have the option to buy bitcoin\nBTC\n$107,661.53\n, according to CEO Jamie Dimon, who spoke at the bank's annual Investor Day on Monday, signaling a shift in how the firm approaches the asset.\n\n“We are going to allow you to buy it,” Dimon told shareholders, though he added the bank has no plans to hold the asset in custody.\n\nDimon, long known for his skepticism of cryptocurrency, doubled down in his closing remarks, saying he’s still “not a fan” of bitcoin, mainly because of its use for illegal activities, including sex trafficking and money laundering\n\nHe also pushed back on the industry's hype around blockchain technology, arguing it's less important than it's made out to be — even as JPMorgan continues building in the space.\n\n“We have been talking about blockchain for 12 to 15 years,\" he said. \"We spend too much on it. It doesn't matter as much as you all think.\"\n\nThe bank’s own blockchain platform, Kinexys, recently ran a test transaction on a public blockchain for the first time, settling tokenized U.S. Treasuries on Ondo Chain’s testnet.",
+    "url": "https://www.coindesk.com/business/2025/05/19/jpmorgan-to-allow-clients-to-buy-bitcoin-says-jamie-dimon",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jamie Dimon"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "JPMorgan Chase",
+                "JPMorgan"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "JPMorgan allowing clients to buy bitcoin represents institutional adoption and increased accessibility, which typically drives positive market sentiment."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "title": "ZKsync Sunsets Liquidity Rewards Program, Citing Bearish Market Conditions",
+    "time": "2025-03-14T12:10:00",
+    "author": "Oliver Knight",
+    "summary": "The blockchain has lost around 50% of total value locked since Jan. 30.",
+    "content": "Layer-2 network ZKsync has announced that it will be sunsetting the Ignite Program, which rewarded users for providing liquidity, due to bearish market conditions.\n\n\"After careful consideration, the DeFi Steering Committee (DSC) has decided to not renew Ignite for Season 2 and will be sunsetting the program starting March 17th, 2025 by turning off rewards for period 6,\" ZKsync posted on X.\n\nIt added that the long-term vision is centered around the Elastic Network, which is composed of multiple chains within the ZKsync ecosystem.\n\n\"Unfortunately we’re navigating a bearish market right now. In line with many other ecosystems, ZKsync has decided to be more conservative with spend in the short to medium term in response to these evolving conditions,\" it added. \"To stay sustainable, we’re tightening our focus and spending smarter, rather than fighting headwinds.\"\n\nTotal value locked (TVL) on ZKsync is down by around 50% since Jan. 30 as the wider crypto market is grappling with a correction that has seen bitcoin and ether lose 13% and 27% of their respective market caps in the past month.\n\nZKsync's native token (ZK) has plunged by 35% in the same period.",
+    "url": "https://www.coindesk.com/business/2025/03/14/zksync-sunsets-liquidity-rewards-program-citing-bearish-market-conditions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "ZKsync"
+            ],
+            "organizations": [
+                "DeFi Steering Committee (DSC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether",
+            "ZK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes program sunsetting due to bearish market conditions, declining TVL, and significant price drops for ZKsync's token and major cryptocurrencies."
+    }
+}

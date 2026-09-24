@@ -1,0 +1,41 @@
+{
+    "title": "Ethereum Foundation Picks New Co-Executive Directors, Following Leadership Reshuffle",
+    "summary": "Hsiao-Wei Wang and Tomasz Stańczak will be the new co-executive directors, as Aya Miyaguchi transitions into the organization's President. Also, ex-EF researcher Danny Ryan shares that he is joining Etherealize.",
+    "time": "2025-03-01T20:02:00",
+    "author": "Margaux Nijkerk",
+    "content": "The Ethereum Foundation (EF), the non-profit organization that supports the development and research of the Ethereum blockchain, shared in a blog post on Saturday that they have selected Hsiao-Wei Wang and Tomasz Stańczak as their new co-executive directors.\n\nThe news follows Tuesday’s announcement of Aya Miyaguchi leaving that role to become the EF’s new president. The leadership shake-up follows intense debate among the community about the EF’s role in the ecosystem, as some have blamed the organization and its leadership for the blockchain’s token ether\nETH\n$3,340.48\nprice lagging behind other cryptocurrencies, while the blockchain attracted for the first time less new developers than its competitor Solana.\n\nWang has been at the EF since 2017, where she helped do research on concepts like sharding, as well as contributed to Ethereum’s major overhaul known as “the Merge.” Stańczak founded Nerthermind, one of the largest software or clients that operate the Ethereum blockchain.\n\n“Over the next few years, the Ethereum ecosystem needs to navigate the challenging transition from being an early-stage project serving a small number of enthusiasts to being a robust permissionless censorship-resistant base layer of the global finance and software stack,” the Foundation said in their blog post.\n\nIn addition to Wang and Stańczak assuming their new roles, ex-EF researcher Danny Ryan shared that he would be joining Etherealize, the new project aimed at bringing ETH to Wall Street. The firm was founded by former banker Vivek Raman, who shared previously with CoinDesk that one of the goals of Etherealize is to bridge the gap between Ethereum and the banks by educating institutions and marketing ETH as a serious crypto asset.\n\nIn a post shared on X, Ryan said that he intends “to build a new Ethereum institution with Real World Ethereum as its north star.”\n\n“The world is ready to come on-chain, and we’re here to do the hard work necessary to make it happen,” Ryan added.\n\nRead more: Ethereum Foundation’s Aya Miyaguchi Leaving Executive Director Role",
+    "url": "https://www.coindesk.com/tech/2025/03/01/ethereum-foundation-picks-new-co-executive-directors-following-leadership-reshuffle",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hsiao-Wei Wang",
+                "Tomasz Stańczak",
+                "Aya Miyaguchi",
+                "Danny Ryan",
+                "Vivek Raman"
+            ],
+            "positions": [
+                "co-executive director",
+                "president",
+                "ex-EF researcher",
+                "former banker"
+            ],
+            "companies": [
+                "Nerthermind",
+                "Etherealize",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Ethereum",
+                "Solana"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes internal leadership changes at the Ethereum Foundation without clear positive or negative market implications, focusing on organizational restructuring rather than market-moving developments."
+    }
+}

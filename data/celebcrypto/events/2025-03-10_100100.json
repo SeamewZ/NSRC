@@ -1,0 +1,29 @@
+{
+    "title": "Utah Senate Passes Bitcoin Bill, Removes BTC Reserve Clause",
+    "summary": "The bill provides residents with basic custody protections and establishes the right to mine BTC, operate notes and participate in staking",
+    "time": "2025-03-10T10:01:00",
+    "author": "Jamie Crawley",
+    "content": "The Senate of Utah, seen by some observers as being the frontrunner to establish a bitcoin reserve, passed a Bitcoin bill that excluded provision for the state treasurer to invest in the largest cryptocurrency.\n\nInstead it provides the state's residents with basic custody protections and establishes the right to mine bitcoin (BTC), operate nodes and participate in staking, along with other various other provisions.\n\nThe senate's passing of the bill on March 7 means it now passes to Governor Spencer Gox to be signed into law.\n\nRead More: Market Experts Weigh In on Trump’s Strategic Bitcoin Reserve That Takes Out $17B in Potential Selling From BTC",
+    "url": "https://www.coindesk.com/policy/2025/03/10/utah-senate-passes-bitcoin-bill-removes-btc-reserve-clause",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Spencer Gox"
+            ],
+            "positions": [
+                "state treasurer",
+                "Governor"
+            ],
+            "companies": [],
+            "organizations": [
+                "Utah Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The bill establishes legal protections and rights for Bitcoin activities including mining, node operation, and staking, which promotes cryptocurrency adoption and regulatory clarity."
+    }
+}

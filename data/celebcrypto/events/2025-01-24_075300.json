@@ -1,0 +1,32 @@
+{
+    "title": "Vitalik Buterin Calls for Added Focus on Ether as Part of the Network's Scaling Plans",
+    "time": "2025-01-24T07:53:00",
+    "author": "Shaurya Malwa",
+    "summary": "Buterin called for implementing incentives for layer 2 networks to allocate a portion of their fees to ETH using mechanisms like burning fees and staking.",
+    "content": "Ethereum scaling plans and network applications should start supporting the network’s native ether\nETH\n$3,496.30\nto further bump value for the asset, co-founder Vitalik Buterin wrote in a post on Friday.\n\n“We should pursue a multi-pronged strategy, to cover all major possible sources of the value of ETH as a triple-point asset,” Buterin said as part of a longer post on layer-2 scaling, security and interoperability. “Agree broadly to cement ETH as the primary asset of the greater (L1 + L2) Ethereum economy, support applications using ETH as the primary collateral.”\n\nButerin called for implementing incentives for layer 2 networks to allocate a portion of their fees to ETH using mechanisms like burning fees, staking them permanently, or directing proceeds towards public goods in the Ethereum ecosystem.\n\nHis comments come amid rising criticism of the Ethereum Foundation, the grant-giving nonprofit that helps support Ethereum, as the asset loses market cap and mindshare to competitors.\n\nThe widely watched ether-bitcoin ratio is down to 2021 levels. Bitcoin touched a record high above $109,000 earlier Monday and has returned 160% to investors over the past year. Ether, in the meantime, has gained just 40% in the period and is hovering some 30% below its 2021 peak, as a CoinDesk analysis showed.\n\nAnother call-out was to increase Ethereum’s blob count while setting a minimum price for blobs, viewing them as “another possible revenue generator.”\n\n“If you take the average blob fee of the last 30 days, and suppose it stays the same (due to induced demand) while blob count increases to 128, Ethereum would burn 713,000 ETH per year,” Buterin noted, adding that such a favorable demand curve was “not guaranteed” and hence not an isolated strategy to bump ETH’s value.\n\nBlobs are like regular transactions with an extra piece of transaction data attached. However, unlike traditional transactions, blob-carrying transactions do not permanently occupy the mainnet space and are only available for 18 days.\n\nSince November, the daily tally of blobs averaged a record 21,000, with just two Layer 2s – Coinbase's BASE and World Chain – accounting for 55% of the daily activity. Sustained demand for Layer 2s could quickly deplete available capacity, as a CoinDesk analysis noted earlier in the week.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/buterin-calls-for-added-focus-on-ethereum-s-eth-as-part-of-scaling-plans",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes proposals to increase ETH's value through fee burning, staking mechanisms, and increased blob capacity, which are positive developments for the Ethereum ecosystem."
+    }
+}

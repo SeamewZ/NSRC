@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Options Play Shows $100K Target Back in Bulls' Crosshair",
+    "summary": "The $100K call option has become the most favored bet, with a notional open interest of nearly $1.2 billion.",
+    "time": "2025-04-14T07:47:00",
+    "author": "Omkar Godbole",
+    "content": "Bullish bitcoin\nBTC\n$101,638.43\noptions strategies are becoming popular again, stabilizing a crucial sentiment indicator that indicated panic early last week.\n\nBTC has bounced to over $84,000 since probing lows under $75,000 last week. The recovery comes as the bond market chaos supposedly forced President Donald Trump to capitulate on tariffs just days after announcing sweeping import levies on several nations, including China.\n\nLate Friday, The Trump administration issued new guidelines, sparing key tech products like smartphones from his 125% China tariff and baseline 10% global levy. Hours later, Trump refuted the news, suggesting no relief on tariffs.\n\nStill, the price recovery saw emboldened traders chase upside in BTC through the Deribit-listed call options. A call gives the purchaser the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. A call buyer is implicitly bullish on the market, looking to profit from an expected price rise. A put buyer is said to be bearish, looking to hedge or profit from price swoons.\n\n\"Trump's bond-market-crisis fueled tariff-walkback flipped the vocal narrative from aggression to capitulation, and the markets from capitulation to aggressive bounce. Protective/Bear play BTC $75K-$78K [strike] Puts were dumped, and $85K-$100K [strike] Calls were lifted as BTC surged from $75K-$85K,\" Deribit said in a market update.\n\nThe pivot to upside calls has normalized the options skew, which reflected strong put bias or downside fears early last week, according to data tracked by Amberdata. The skew measures the implied volatility (demand) for calls relative to puts and has been a reliable market sentiment indicator for years.\n\nThe 30-, 60-, and 90-day skews have rebounded to just above zero, up from deeply negative levels a week ago, indicating a decrease in market panic and a resurgence of upside interest. Although the seven-day gauge remains negative, it reflects a notably weaker put bias than a week ago when it dropped to -14%.\n\nAnother data point likely to energize the recently battered market participants is the distribution of open interest, highlighting the resurgence of the $100K call as the most favored options bet on Deribit, which accounts for over 75% of global options activity.\n\nAs of writing, the $100K call boasted a cumulative notional open interest of nearly $1.2 billion. The notional figure represents the U.S. dollar value of the number of active option contracts at a given time. Calls at $100K and $120K were popular early this year before the market swoon saw traders deploy money in the $80K put last month.\n\nThe chart shows the concentration of open interest in calls at strikes ranging from $95,000 to $120,000. Meanwhile, the $70K put is the second-most popular play with an open interest of $982 million.",
+    "url": "https://www.coindesk.com/markets/2025/04/14/bitcoin-options-play-shows-usd100k-target-back-in-bulls-crosshair",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata"
+            ],
+            "organizations": [
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's price recovery from $75,000 to over $84,000, normalization of options skew from negative to positive levels, and increased bullish call option activity targeting $100K with $1.2 billion in open interest."
+    }
+}

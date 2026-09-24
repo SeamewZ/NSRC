@@ -1,0 +1,30 @@
+{
+    "title": "Unexpected Decline in Core CPI Sends Bitcoin Price Higher",
+    "time": "2025-01-15T13:40:00",
+    "author": "Krisztian Sandor",
+    "summary": "Bitcoin has been consolidating in a range 10%-15% below record highs as investors largely tempered expectations of further interest rate cuts.",
+    "content": "While headline inflation came in faster than hoped in December, investors for the moment are in buy mode after an unexpected decline in the year-over-year core rate.\n\nThe closely-watched Consumer Price Index (CPI) increased 0.4% in December, slightly higher than analyst consensus and the previous month's 0.3%. On a year-over-year basis, CPI was up 2.9%, compared to analyst forecasts for 2.9% and previous month's reading at 2.7%.\n\nCore CPI, which excludes food and energy costs, rose 0.2% in December, versus expectations for 0.2% and the previous month's 0.3% figure. Core CPI year-over-year, however, dipped to 3.2% against forecasts for 3.3% and the November rate of 3.3%.\n\nThe core pace of inflation is of considerable import to policymakers, who have expressed at least a modest bit of frustration over its stickiness above 3% as headline inflation fell at a far quicker pace.\n\nThe price of bitcoin (BTC) rose about $1,500 in the minutes following the report to $98,500 following the report, up 2% over the past 24 hours, CoinDesk data shows.\n\nIn traditional markets, U.S. stock index futures added about 0.5% after the data, while bond yields and the dollar both sharply declined.\n\nCrypto markets have traded rangebound through January at the whims of macroeconomic data and monetary policy expectations amidst a strong economy and concerns of sticky inflation. Bitcoin consolidated mostly below $100,000 since Federal Reserve Chair Jerome Powell's hawkish comments in December. That, along with a string of stronger-than-forecast economic and inflation data, led market participants to nearly erase all expectations for rate cuts this year.\n\nMost recently, Tuesday's Producer Price Index (PPI) for December showed cooler than expected inflation readings, supporting BTC's rebound to $97,000 following the abrupt sell-off below $90,000 earlier in the week.",
+    "url": "https://www.coindesk.com/markets/2025/01/15/unexpected-decline-in-core-cpi-sends-bitcoin-price-higher",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell"
+            ],
+            "positions": [
+                "Federal Reserve Chair"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin price rose $1,500 to $98,500 following the unexpected decline in core CPI, indicating positive market reaction to the inflation data."
+    }
+}

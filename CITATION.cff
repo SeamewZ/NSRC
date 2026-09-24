@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript and software repository."
+title: "NSRC: Event-Addressed Residual Memory for Reliable Neural Forecast Correction"
+type: article
+authors:
+  - family-names: Sun
+    given-names: Litong
+  - family-names: Yang
+    given-names: Peizong
+  - family-names: Mi
+    given-names: YangTian
+  - family-names: Luo
+    given-names: Xiapu
+  - family-names: Wu
+    given-names: Weigang
+date-released: 2026-09-25
+repository-code: "https://github.com/SeamewZ/NSRC"
+keywords:
+  - event-conditioned forecasting
+  - residual memory
+  - time-series forecasting
+  - cryptocurrency
+  - financial forecasting

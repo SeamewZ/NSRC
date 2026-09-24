@@ -1,0 +1,41 @@
+{
+    "title": "U.S. Treasury Secretary Bessent Calls Corrections Normal, Suggesting a Higher Pain Threshold for the 'Trump Put'",
+    "time": "2025-03-17T07:27:00",
+    "author": "Omkar Godbole",
+    "summary": "Bessent's take suggests that the \"Trump put\" may take longer to manifest or require more significant market declines before any action is taken.",
+    "content": "On Sunday, U.S. Treasury Secretary Scott Bessent described asset market corrections as healthy, suggesting a greater tolerance for pain before the much-anticipated policy support or the so-called 'Trump put\" for the market, is enacted.\n\n\"I’ve been in the investment business for 35 years, and I can tell you that corrections are healthy, they are normal,” Bessent said Sunday on NBC’s Meet The Press, according to Bloomberg. “I‘m not worried about the markets. Over the long term, if we put good tax policy in place, deregulation and energy security, the markets will do great.”\n\nBessent's comment contradicts popular belief that the Trump administration will quickly douse any fire stemming from the administration's policy moves, particularly trade tariffs. President Donald Trump also recently clarified his stance, saying he is not looking at the stock market.\n\nWall Street's tech-heavy index, Nasdaq, and the S&P 500 entered correction last week, falling over 10% from their February highs predominantly on concerns that Trump's tariffs could slow economic growth while leading to sticky inflation.\n\nBitcoin\nBTC\n$104,525.44\n, too, has taken a beating, down nearly 25% from the record highs above $109K in January, according to CoinDesk Indices data, tracking the risk-off on Wall Street and digesting disappointment over the absence of fresh BTC purchases under Trump's strategic digital assets reserve plan.\n\nThe risk-off has revved up expectations of policy support from the government or the Federal Reserve (Fed), particularly in the crypto community.\n\nHowever, Bessent's take suggests that it may take longer to manifest or require more significant market declines before any action is taken. The Treasury secretary said last month that the Trump administration is focused on lowering the yield on the 10-year Treasury note, which influences most long-term loans in the economy.\n\nMeanwhile, Fed Chair Jerome Powell and his colleagues stressed early this month that they are watching to see the “net effects” of Trump's policies on the economy and are not in a hurry to cut rates.\n\nOfficials will meet for a rate review this week, with the decision due Wednesday.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/u-s-treasury-secretary-scott-bessent-calls-corrections-normal-suggesting-a-higher-pain-threshold-for-the-trump-put",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Scott Bessent",
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "U.S. Treasury Secretary",
+                "President",
+                "Fed Chair"
+            ],
+            "companies": [
+                "Bloomberg",
+                "NBC",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Trump administration",
+                "Federal Reserve",
+                "Wall Street",
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states Bitcoin has taken a beating, down nearly 25% from record highs, tracking risk-off sentiment on Wall Street and digesting disappointment over absence of fresh BTC purchases under Trump's strategic digital assets reserve plan."
+    }
+}

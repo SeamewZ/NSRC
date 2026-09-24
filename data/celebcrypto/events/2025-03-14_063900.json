@@ -1,0 +1,37 @@
+{
+    "title": "Trump-backed World Liberty Financial (WLFI) Completes $590M Token Sale",
+    "time": "2025-03-14T06:39:00",
+    "author": "Sam Reynolds",
+    "summary": "On-chain data shows that the project has raised nearly $590 million between two pre-sales.",
+    "content": "WLFI\n$0.1113\n, the Donald Trump-backed crypto project, has closed its token sale after raising approximately $590 million.\n\nThe project's raise of $590 million would put it in the top-10 list of token raises, according to data curated by ICODrops. To date, the largest token sale is EOS, which raised $4.21 billion.\n\nEOS is a blockchain platform developed by Block.one, which later founded Bullish, CoinDesk's owner.\n\nOn stage at Consensus 2025 in Hong Kong, WLFI co-founder Zak Folkman credited Tron's Justin Sun with the success of the project's token sale.\n\nAfter WLFI first launched its sale, its critics called the momentum sluggish. But this changed after Sun invested $30 million into it in November 2024 and later invested more.\n\n\"When we were launching this project, it was a very heated time,\" Folkman said during Consensus. \"There was a lot of scrutiny on our project due to who was involved.\"\n\nThis meant that traditional crypto VCs would not touch the token.\n\n\"[Sun] saw that regardless of the outcome, this project is a monumental move forward for the entire crypto community,\" Folkman added during the Consensus panel.\n\nRules around WLFI's token sale mean that the token was only available to accredited investors and can't be transferred or publicly sold on exchanges. A date has not been set for an exchange listing.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/trump-backed-world-liberty-financial-wlfi-completes-token-sale",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Zak Folkman",
+                "Justin Sun"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "World Liberty Financial (WLFI)",
+                "Block.one",
+                "Bullish",
+                "CoinDesk",
+                "Tron"
+            ],
+            "organizations": [
+                "ICODrops",
+                "Consensus 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "WLFI",
+            "EOS"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The successful $590 million token sale and high-profile backing indicate strong market confidence and institutional interest in the cryptocurrency project."
+    }
+}

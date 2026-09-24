@@ -1,0 +1,39 @@
+{
+    "title": "Crypto Daybook Americas: China's DeepSeek Sends Bitcoin, AI Tokens, Stocks Tumbling",
+    "time": "2025-01-27T12:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 27, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nLast week, we described bitcoin above $100,000 as a coiled spring ready to unleash energy in either direction. Unfortunately for the bulls, that energy is being released downward as market sentiment shifts in response to concerns over the impact of the low-cost Chinese AI startup DeepSeek on the U.S. AI sector and American technological leadership.\n\nBitcoin plummeted to $97,800 during Asian trading hours, with whales driving prices lower to liquidate overleveraged buyers on perpetual futures exchanges. GPU-heavy AI tokens saw sell-offs of up to 40%, with similar pressure affecting GameFi assets.\n\nNasdaq futures tanked 700 points, with shares in chipmaker Nvidia (NVDA) indicated 10% lower in pre-market trading. DeepSeek-R1 is expected to significantly reduce the costs of developing large language models, raising a questions on the validity of the rich valuations for AI-associated companies like Nvidia.\n\nTrader and analyst Alex Kruger noted on X, \"The problem is, few understand how DeepSeek changes things. it’s hard to quantify the issue—and when facing uncertainty, people derisk. When this happens in low liquidity conditions, the market flushes hard.\"\n\nKruger is opting not to buy the dip, saying he prefers to short positions above $100,000 as he anticipates heightened volatility from the upcoming Fed meeting and potential political maneuvering from President Donald Trump. The Fed is expected to reiterate its wait-and-see approach, maintaining its hawkish December guidance on interest rates.\n\nStill, all is not lost. Paul Howard, Senior Director at Wincent, said institutional participation could ramp up in the coming months.\n\n\"The next wave up will likely come from organic participation from institutions in the next 3-4 months. I’d be surprised to see a sharp bounce back to all-time highs before Q2,\" he said in an email.\n\nHoward identified newly launched layer-1 blockchains with a focus on security and transactions per second, like SUPRA, as valuable opportunities, while stressing that for long-biased funds, discovering alpha in a bearish market involves seeking out low market-cap layer-1s alongside their already established peers. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/27/crypto-daybook-americas-china-s-deepseek-sends-bitcoin-ai-tokens-stocks-tumbling",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Alex Kruger",
+                "Paul Howard",
+                "Donald Trump",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "Senior Director",
+                "Trader and analyst"
+            ],
+            "companies": [
+                "DeepSeek",
+                "Nvidia",
+                "Wincent",
+                "SUPRA"
+            ],
+            "organizations": [
+                "Fed",
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin plummeted to $97,800 with whales driving prices lower to liquidate overleveraged buyers, AI tokens saw sell-offs of up to 40%, and analysts are opting not to buy the dip while anticipating heightened volatility."
+    }
+}

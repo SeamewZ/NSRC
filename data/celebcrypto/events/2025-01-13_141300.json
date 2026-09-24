@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: RENDER Falls 10.7% as Nearly All Assets Trade Lower",
+    "time": "2025-01-13T14:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Ripple (XRP) was the lone gainer, rising 1.4% from Friday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3246.57, down 4.2% (-143.25) since 4 p.m. ET on Friday.\n\nOne of 20 assets is trading higher.\n\nLeaders: XRP (+1.4%) and ADA (-2.6%).\n\nLaggards: RENDER (-10.7%) and NEAR (-10.4%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/13/coin-desk-20-performance-update-render-falls-10-7-as-nearly-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "RENDER",
+            "XRP",
+            "ADA",
+            "NEAR"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index fell 4.2% with nearly all assets trading lower and significant declines in RENDER (-10.7%) and NEAR (-10.4%)."
+    }
+}

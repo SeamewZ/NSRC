@@ -1,0 +1,30 @@
+{
+    "title": "Franklin Templeton Brings Tokenized U.S. Treasury Fund to European Investors",
+    "time": "2025-02-19T13:49:00",
+    "author": "Krisztian Sandor",
+    "summary": "The asset manager's U.S.-registered version of the fund Franklin OnChain U.S. Government Money Fund has attracted $580 million in assets.",
+    "content": "Franklin Templeton, a major global asset manager, said Wednesday it has launched its tokenized U.S. Treasury fund in Luxembourg, expanding access to European institutional investors.\n\nThe launch of the Franklin OnChain U.S. Government Money Fund marks the first Luxembourg-domiciled fund investing in U.S. government securities that's fully tokenized, the asset manager claimed in a press release. This means shares in the fund are recorded and transferred on the blockchain rather than through traditional processes, using Franklin Templeton's proprietary blockchain-based transfer agency platform for handling transactions to offer enhanced efficiency, transparency and security.\n\nThe fund is available on the Stellar network (XLM) for institutional investors in Austria, France, Germany, Italy, Liechtenstein, the Netherlands, Spain and Switzerland, following regulatory approval in October by Luxembourg regulators. The U.S.-registered version of the fund has attracted over $580 million of assets since its 2021 debut and is limited to U.S.-based investors only, per rwa.xyz data.\n\nTokenized U.S. Treasuries have been at the forefront of red-hot real-world asset tokenization efforts, growing into a $4 billion asset class this year. Franklin Templeton was the first among traditional financial institutions to release such a product, and its the third largest tokenized treasury fund by assets under management behind Hashnote's USYC and BUIDL, issued by BlackRock and Securitize.\n\nRead more: Franklin Templeton Expands $594M Market Money Fund to Solana\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/02/19/franklin-templeton-brings-usd580m-tokenized-u-s-treasury-fund-to-european-investors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Franklin Templeton",
+                "Hashnote",
+                "BlackRock",
+                "Securitize"
+            ],
+            "organizations": [
+                "Stellar network",
+                "rwa.xyz",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "XLM"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of tokenized U.S. Treasury funds to European institutional investors represents increased institutional adoption and validation of blockchain technology in traditional finance."
+    }
+}

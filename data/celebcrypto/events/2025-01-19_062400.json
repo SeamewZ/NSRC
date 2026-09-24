@@ -1,0 +1,41 @@
+{
+    "title": "Coinbase, Binance Plan to List Donald Trump's Official TRUMP Token After Its Phenomenal Debut",
+    "time": "2025-01-19T06:24:00",
+    "author": "Sam Reynolds",
+    "summary": "The official memecoin of the 47th United States president will be listed on most major crypto exchanges, even though the fan token faced trouble getting listed.",
+    "content": "The ‘official’ memecoin of the second Donald Trump administration will be listed on major cryptocurrency exchanges including Coinbase and Binance, according to announcements from the companies.\n\nCoinbase posted on Sunday that it plans to list the TRUMP token. The announcement came via its Coinbase Assets X account, which provides information on new assets, however the exchange did not provide a concrete timeline for listing.\n\nBinance said it plans to open trading for the TRUMP token on the the morning of Jan. 19. The token is already trading on many other centralized exchanges, such as Bitget, KuCoin and Kraken according to CoinGecko.\n\nOn-chain data shows that the token has a market cap of just over $7.6 billion, and trading volume of approximately $15 billion.\n\nWhile many of the largest crypto exchanges have eagerly embraced Trump’s official memecoin, the first Trump-themed token, one of the original Political Finance (PoliFi) tokens, had trouble getting listed on exchanges.\n\nAs CoinDesk reported earlier this year, ByBit and OKX rejected the team’s application to list the token given concerns about the project being too political. Kraken did not respond to their application to list, and would not discuss the matter on the record.\n\nThe first Trump token, the Ethereum-based MAGA, is down 84% from its June high of $17.80, according to CoinGecko, but continues to be actively traded.\n\nMAGA dumped hard after the launch of the officialTrump token, falling from $3.50 to $1.44 over the weekend with its market cap declining from $158 million to $64 million. The token has slowly recovered after the initial fall likely due to general interest in Trump-themed tokens on the eve of the inauguration.\n\nThe tokenomics of TRUMP have been criticized by many online, who have pointed out that 80% of the token supply is controlled by wallets owned by CIC Digital.\n\nCIC Digital LLC is the Trump Organization affiliated firm that launched Trump Non Fungible Tokens (NFTs) in 2023. Data from OpenSea shows that there’s a second wave of interest in these NFTs with over 2,800 sales in the last 24 hours worth over 765 ETH ($2.5 million).",
+    "url": "https://www.coindesk.com/markets/2025/01/19/coinbase-binance-plan-to-list-donald-trumps-official-trump-token-after-its-phenomenal-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "47th United States president"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance",
+                "Bitget",
+                "KuCoin",
+                "Kraken",
+                "ByBit",
+                "OKX",
+                "CoinDesk",
+                "CoinGecko",
+                "CIC Digital LLC",
+                "Trump Organization",
+                "OpenSea"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "MAGA",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Major exchanges listing the TRUMP token and significant trading volume of $15 billion with market cap over $7.6 billion indicate strong market interest and positive momentum."
+    }
+}

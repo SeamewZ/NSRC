@@ -1,0 +1,39 @@
+{
+    "title": "Can Non-USD Stablecoins Compete?",
+    "summary": "Most stablecoins, including the two clear market leaders, are dollar-based. Michael Egorov, founder of decentralized exchange Curve Finance, asks if stablecoins based in other currencies can gain traction.",
+    "time": "2025-04-07T14:14:00",
+    "author": "Michael Egorov",
+    "content": "Stablecoins continue growing into a pillar of both the cryptocurrency world and the global financial system. The market has already surpassed $235 billion, showcasing that people have faith in the future of these assets.\n\nCurrently, two USD-backed stablecoins (USDT and USDC) have about 90% of the market. The rest of the top-10, including USDe and PYUSD, are all dollar-denominated. Euro-based stablecoins have little market share by comparison. Why is that?\n\nThere are many discussions around regulation, interoperability, and integration with TradFi. However, the single most important factor is liquidity. Without deep and sustainable liquidity, no stablecoin can gain mass traction, and no amount of regulatory clarity will change that.\n\nLet’s take the Euro as an example. EUR-backed stablecoins have existed for years at this point, yet they remain barely used. Mainly that’s because of liquidity challenges. That’s what ultimately determines whether a stablecoin can become a widely used financial tool.\n\nFor years now, USD-backed stablecoins like USDT and USDC have been the dominant force in this landscape, acting as the primary source of liquidity in lending pools and trading pairs. USD-backed stablecoins have deep liquidity, high trading volumes, and extensive integration across CeFi/DeFi platforms.\n\nIn contrast, euro (and other non-USD) stablecoins suffer from a lack of market mechanisms that could sustain them. There simply aren’t enough trading pairs, users, and financial instruments built around them to create a proper liquidity ecosystem like what the USD stablecoins have.\n\nOne of the key reasons for this liquidity gap is that centralized market makers do not see enough financial incentive to provide liquidity for euro stablecoins. It simply isn’t profitable enough for them. So they prioritize other assets, leaving EUR-backed stablecoins on the backfoot.\n\nThis isn’t just a matter of preferences — it’s a more fundamental issue that’s economic in nature. If market makers can’t make a decent return on providing liquidity for these assets, they won’t allocate capital towards them.\n\nSo, how can this be changed?\n\nAn argument can be made that if other jurisdictions get ahead in terms of establishing clear-cut rules, non-USD stablecoins will become a lot more attractive. The introduction of MiCA regulations in the EU, for example, has paved the way for compliant EUR-backed stablecoins such as EURC, turning them into an increasingly viable alternative to consider when integrating with TradFi.\n\nTo some extent, I agree. As various jurisdictions worldwide keep moving towards better regulation of digital assets, we can very well expect more stablecoins pegged to local currencies to start cropping up. In Asia, the Middle East, Latin America — regions that would be inclined to use such assets to improve their financial stability. Besides which, it would also help them lower the dependency on the U.S. dollar.\n\nWe actually have supporting examples here, like Singapore’s XSGD or Switzerland’s XCHF. Hong Kong also launched an HKD-pegged stablecoin in December 2024. The trend seems clear.\n\nHowever, regulation alone is not the deciding factor. EUR-backed stablecoins existed before MiCA came along. And, it’s still unclear whether the framework will ultimately help or hinder their adoption in the long run. MiCA could act as a kind of “restriction” on USD-backed stablecoins in Europe. Potentially, this gives euro stablecoins an unfair advantage rather than making them genuinely competitive on their own merits.\n\nAnd at the end of the day, regulation cannot solve the more fundamental issue of liquidity. Without it, no regulatory framework can make a stablecoin viable enough for broad use. So, the question is: how can we create liquidity for non-USD stablecoins?\n\nTo put things into perspective, the market capitalization of USDT and USDC stand at $141 billion and $56 billion, respectively. By comparison, euro-based stablecoins like EURC or EURS barely go above $100 million. The sheer gap is obvious, and it directly impacts their usability. That’s fewer trading pairs, fewer DeFi integrations, and ultimately, less incentive for traders and institutional players to adopt them. As a result, they can’t become mainstream assets.\n\nA case could be made for the EURe, which I personally use a lot and find to be the most convenient euro stablecoin for real-world application. Even so, the broader non-USD stablecoin market still faces the same challenges: limited adoption, fewer integrations, and a long way to go before they can compete with dollar-backed counterparts.\n\nOne possible solution lies in developing more effective liquidity algorithms for non-USD stablecoins. Reliance on professional market makers has proven ineffective, so a new approach is necessary, with mechanisms that can ensure strong liquidity without relying entirely on those parties.\n\nA more effective approach, to my mind, would be to first establish deep liquidity pools between USD and non-USD stablecoins. This is the most practical way to ensure smooth conversions, as it would directly address the core issue. But it requires refining automated market maker (AMM) algorithms to make liquidity provision more efficient and attractive for providers.\n\nWhat matters most is how much liquidity providers can earn. If the incentives are there, liquidity will improve, and adoption will naturally follow. This isn’t just about attracting more capital — it’s about restructuring liquidity provision in a way that ensures long-term, sustainable profits.\n\nWithout improvements to the infrastructure, euro stablecoins and their counterparts will continue to lag behind, despite their potential. Stablecoins are only as strong as their liquidity. The key is building models that make providing liquidity profitable — because once the financial incentives align, everything else will fall into place.\n\nLooking ahead, I can see non-USD stablecoins gaining a competitive edge in specific use cases, such as cross-border remittances, on-chain forex trading, and decentralized lending. Businesses that operate globally but need to manage cash flows in multiple currencies could benefit from borrowing non-USD stablecoins while keeping their treasuries in USD.\n\nAdditionally, liquidity pools that facilitate stablecoin swaps between different fiat denominations could serve as stores of value, potentially laying the foundation for a more decentralized global financial system.",
+    "url": "https://www.coindesk.com/opinion/2025/04/07/can-non-usd-stablecoins-compete",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Egorov"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Curve Finance"
+            ],
+            "organizations": [
+                "EU",
+                "TradFi"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC",
+            "USDe",
+            "PYUSD",
+            "EURC",
+            "EURS",
+            "EURe",
+            "XSGD",
+            "XCHF",
+            "HKD"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses challenges and potential for non-USD stablecoins without indicating immediate market-moving events or clear directional price impact."
+    }
+}

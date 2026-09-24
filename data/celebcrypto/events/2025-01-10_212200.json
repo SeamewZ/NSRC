@@ -1,0 +1,43 @@
+{
+    "title": "Biden's Consumer Watchdog Pushes for Last-Minute Stablecoin Rule",
+    "summary": "The Consumer Financial Protection Bureau proposed a crypto rule just days before Donald Trump takes the White House and can name a new agency head.",
+    "time": "2025-01-10T21:22:00",
+    "author": "Jesse Hamilton",
+    "content": "As crypto fan Donald Trump prepares to take the reins of the government, the U.S. Consumer Financial Protection Bureau has pitched new regulations that would have a significant impact on stablecoin issuers and wallet providers, though the proposal's future remains in question.\n\nThe CFPB took the first procedural step to open a proposal to public comment on Friday that would set up a framework to apply the Electronic Fund Transfer Act to virtual wallets and stablecoins – the digital tokens tied to the value of a steady asset, commonly the U.S. dollar. While that has heavy implications to the way U.S. stablecoin firms and crypto wallet providers would do business, it's at a preliminary stage with Trump about to arrive at the White House with the power to appoint a new CFPB chief.\n\nUnlike other agency heads, such as those at the Securities and Exchange Commission and the Commodity Futures Trading Commission, CFPB Director Rohit Chopra appears unlikely to step down voluntarily. Since the agency's creation after the 2008 global financial meltdown, its leaders have often occupied a more aggressive posture than other regulators, and Republican lawmakers have actively sought to weaken the CFPB's powers.\n\nIn 2020, the Supreme Court confirmed the president can fire and replace the director at will – a power Trump is expected to exercise.\n\nThis last-minute regulatory effort would have to survive the arrival of a Trump-appointed leader before it could be finalized and put into effect. Even if this were a final rule, the Republican-led Congress would have a chance to erase it with its Congressional Review Act authority.\n\nWere it to survive, the regulation as proposed – and now opened for a public comment period – looks at stablecoins as a payment mechanism. The existing law's reference to \"funds\" should include stablecoins, the proposal suggests, and it could arguably also include other more volatile cryptocurrencies such as bitcoin. \"Under this interpretation, the term 'funds' would include stablecoins, as well as any other similarly-situated fungible assets that either operate as a medium of exchange or as a means of paying for goods or services,\" the proposal stated.\n\nIt additionally said the law's reach into financial \"accounts\" should include \"virtual currency wallets that can be used to buy goods and services or make person-to-person transfers,\" specifically if they're being used for retail transactions and not the buying and selling of securities or commodities.\n\nInstitutions who provide such accounts would fall under regulatory requirements to make consumer disclosures and provide protections against unauthorized transactions and the ability to cancel improper transfers. Those government demands could run afoul of the way crypto operations are often set up – such as in decentralized finance (DeFi) – as person-to-person platforms without outside interference, or with wallet technology provided for users to run themselves.\n\nConsumer advocacy group Better Markets applauded the agency's proposal on Friday.\n\n\"The CFPB’s proposal today extends the EFTA protections to non-bank digital payment mechanisms,\" Dennis Kelleher, the group's president, said in a statement. \"That would not only protect consumers, but also level the playing field among digital payment mechanisms whether involving a bank checking or savings account or another consumer asset account such as those used by crypto and video game firms.\"\n\nThe Cato Institute's Jack Solowey, a policy analyst at the conservative think tank, countered in a post on social-media site X that the CFPB's arguments for this rule are \"embarrassingly conclusory,\" without even dealing with decentralized ledgers and self-hosted wallets.\n\nBill Hughes, director of global regulatory matters at Consensys, the Ethereum development company, also railed against the move on X, suggesting, \"Add this to the list of 'law by decree' problems that need to be fixed.\"",
+    "url": "https://www.coindesk.com/policy/2025/01/10/bidens-consumer-watchdog-pushes-for-last-minute-stablecoin-rule",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Rohit Chopra",
+                "Dennis Kelleher",
+                "Jack Solowey",
+                "Bill Hughes"
+            ],
+            "positions": [
+                "CFPB Director",
+                "president",
+                "policy analyst",
+                "director of global regulatory matters"
+            ],
+            "companies": [
+                "Consensys",
+                "Ethereum development company"
+            ],
+            "organizations": [
+                "Consumer Financial Protection Bureau",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "Supreme Court",
+                "Republican-led Congress",
+                "Better Markets",
+                "Cato Institute"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a last-minute regulatory proposal that would impose new requirements on stablecoin issuers and wallet providers, potentially running afoul of current crypto operations and facing opposition from industry experts."
+    }
+}

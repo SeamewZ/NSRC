@@ -1,0 +1,37 @@
+{
+    "title": "Samourai Wallet’s Lawyers Say Prosecution Suppressed Critical Evidence, Call for Dismissal",
+    "summary": "Before SDNY prosecutors filed charges in the case, FinCEN told them that Samourai Wallet didn’t meet the definition of a money transmitting business.",
+    "time": "2025-05-05T18:37:00",
+    "author": "Cheyenne Ligon",
+    "content": "Lawyers for Samourai Wallet have accused the prosecution of suppressing critical evidence in its case against the mixing service’s co-founders, calling for a hearing to determine whether the case should now be tossed out in light of the alleged Brady violation.\n\nIn a Monday court filing, lawyers for Samourai Wallet told Judge Richard Berman of the Southern District of New York (SDNY) that in August 2023 — six months before prosecutors charged Keonne Rodriguez and William Lonergan Hill with one count each of conspiracy to commit money laundering and conspiracy to operate an unlicensed money transmitting business — the Financial Crimes Enforcement Network (FinCEN) told prosecutors that, under their guidelines, Samourai Wallet didn’t qualify as a money transmitting business and did not need a license to operate.\n\nProsecutors went ahead and charged Rodriguez and Hill anyway, and did not tell either the court or Samourai Wallet’s lawyers about their communication with FinCEN until April 1, 2025 when responding to the defense’s specific Brady request for “any information suggesting that Samourai Wallet did not require a money transmitter license or that the Defendants did not believe that it required such a license, including but not limited to communications with the Treasury Department or FinCEN,\" the defense attorneys wrote.\n\n“The fact that FinCEN took the same position regarding Samourai Wallet and conveyed it to these same prosecutors, and that the prosecutors nonetheless charged the Defendants with committing a crime is shocking,” Samourai Wallet’s lawyers wrote in their filing.\n\nUnder the landmark Supreme Court case Brady v. Maryland in 1963, the court held that the government must hand over any exculpatory or material evidence — essentially, anything suggesting that the defendant is not, in fact, guilty — to the defense in a timely manner. Brady violations are considered a violation of the defendant’s due process, and are often grounds for a case to be thrown out. Notably, a judge tossed out the involuntary manslaughter case against American actor Alec Baldwin last year after it was revealed mid-way through his trial that prosecutors had failed to turn over exculpatory evidence.\n\nSamourai Wallet’s lawyers told the court that the government’s failure to disclose its pre-indictment consultation with FinCEN has already prejudiced Rodriguez and Hill’s case.\n\n“For instance, the fact that the regulator issuing licenses for money transmitting businesses did not believe Samourai Wallet needed one could well have impacted (i) the Magistrate Judge’s view of the strength of the Government’s case in making bail determinations that have confined Mr. Rodriguez to his home for nearly a year and cut both Defendants off from funds that could be used to mount their defense; and (ii) this Court’s decision not to permit the Defendants to file a motion to dismiss immediately following their arraignments,\" the filing said.\n\nLast month, lawyers for Samourai Wallet asked the court to toss out the case under the auspices of the so-called “Blanche Memo” — a recent memo from U.S. Deputy Attorney General Todd Blanche to Department of Justice (DOJ) staff, ordering them to stop prosecuting regulatory violations involving crypto, and to no longer pursue cases against crypto exchanges or mixers for the actions of their end users.\n\nProsecutors met with the defense to consider the request on April 10 and have still not reached a conclusion nearly a month later. If the DOJ declines to drop charges, lawyers for Samourai Wallet said in their letter to the court that they would file a motion to dismiss the case on several grounds, including that the defendants were not money transmitters, and thus “could not possibly be prosecuted for not having a license and not implementing anti-money laundering controls.”\n\nHowever, due to the evidence that was allegedly withheld, Samourai Wallet’s lawyers argued that “even if the Justice Department’s interpretation of the law — and not the principal regulator’s — was correct, the Defendants would still be entitled to dismissal for lack of fair notice. Instead, they have spent a year of their lives under indictment and huge portions of their life savings defending themselves against these fundamentally unfair charges.”\n\nOn Tuesday, the court ordered prosecutors to respond to Samourai Wallet's letter by noon on Friday. The next hearing in the case is slated for July 22, 2025 at 1:00 p.m. ET.\n\nFinCEN did not respond to CoinDesk’s request for comment.\n\nUPDATE (May 6, 2025 at 19:48 UTC): Updated to reflect the court's Tuesday order to prosecutors.",
+    "url": "https://www.coindesk.com/policy/2025/05/05/samourai-wallet-s-lawyers-say-prosecution-suppressed-critical-evidence-call-for-dismissal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Keonne Rodriguez",
+                "William Lonergan Hill",
+                "Richard Berman",
+                "Todd Blanche",
+                "Alec Baldwin"
+            ],
+            "positions": [
+                "U.S. Deputy Attorney General",
+                "Magistrate Judge"
+            ],
+            "companies": [
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "SDNY",
+                "FinCEN",
+                "Department of Justice",
+                "DOJ",
+                "Treasury Department",
+                "Supreme Court"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a legal dispute over regulatory classification of a crypto service with no direct market price implications mentioned."
+    }
+}

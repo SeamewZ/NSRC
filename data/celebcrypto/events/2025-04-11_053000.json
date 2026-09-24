@@ -1,0 +1,38 @@
+{
+    "title": "S&P 500 More Volatile Than Bitcoin as U.S. Assets Lose Investor Favor",
+    "summary": "Investors move away from U.S. assets, causing a rise in Treasury yields and a decline in the dollar index and U.S. stocks.",
+    "time": "2025-04-11T05:30:00",
+    "author": "Omkar Godbole",
+    "content": "For years, Wall Street criticized bitcoin\nBTC\n$101,961.05\nfor its volatility, but the situation has dramatically changed as President Donald Trump's aggressive trade policies diminish the appeal of U.S. assets.\n\nSince Trump's Liberation Day tariff announcement on April 2, the seven-day realized volatility of the S&P 500, Wall Street's benchmark equity index, has surged from an annualized 50% to 169%, according to data from TradingView. That's the highest level since the coronavirus crash in 2020.\n\nBTC's seven-day realized volatility has doubled to 83%, yet it remains significantly lower than the S&P 500, hinting at the cryptocurrency's possible evolution as a low-beta hedge against stocks. The cryptocurrency also looks significantly less volatile than the S&P 500 on a 30-day basis.\n\n\"Equity markets [have] experienced a dramatic spike in volatility—surpassing that of Bitcoin, which is currently seeing a decline in volatility. This raises the question: should investors place their trust in assets that are highly susceptible to political influence and human error, or in a mathematical framework and emerging store of value that is more resilient to such risks?\" CoinShares' Head of Research James Butterfill said in an email.\n\nThe S&P 500 has cracked 14% in less than two months, largely due to trade war fears that have recently come true. The tech-heavy Nasdaq and Dow Jones Industrial Average have suffered similar losses alongside increased volatility in global equity markets.\n\nRisk aversion of such magnitudes has historically seen investors park money in Treasury notes, which underpin the global financial system, and the U.S. dollar, the global reserve currency.\n\nBut since last Friday, investors have aggressively dumped Treasury notes, driving yields higher, and the dollar index has tanked. The so-called benchmark 10-year bond yield has surged by 62 basis points to 4.45% since last Friday and the dollar index, which tracks the greenback's value against major currencies, has extended its first quarter swoon to 100, the lowest level since late September.\n\nCurrencies typically appreciate when their national bond yields rise unless markets are worried about the country's debt situation, in which case investors pull money out of the bond markets, leading to a spike in yields and a concurrent currency depreciation. The Global South witnessed this in 2018.\n\n\"Yields higher, currency lower is common in EM. We saw this in the UK during the Truss debacle. But it is highly abnormal for the US: there are only four other episodes in the last 30 years in which the dollar depreciated more than 1.5% with the 30-year yield up more than 10bp,\" Evercore ISI said, according to Wall Street Journal's Chief Economic Correspondent Nick Timaros.\n\n\"It reflects evaporating US growth exceptionalism and the reduced attraction at the margin of dollar assets for reserve purposes amid erratic US decision-making,\" Evercore added.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/s-and-p-500-more-volatile-than-bitcoin-as-u-s-assets-lose-investor-favor",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "James Butterfill",
+                "Nick Timaros"
+            ],
+            "positions": [
+                "President",
+                "Head of Research",
+                "Chief Economic Correspondent"
+            ],
+            "companies": [
+                "CoinShares",
+                "Evercore ISI",
+                "Wall Street Journal"
+            ],
+            "organizations": [
+                "S&P 500",
+                "Nasdaq",
+                "Dow Jones Industrial Average"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Bitcoin's lower volatility compared to traditional U.S. assets and suggests it may be evolving as a low-beta hedge against stocks, indicating positive market confidence in cryptocurrency."
+    }
+}

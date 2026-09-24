@@ -1,0 +1,33 @@
+{
+    "title": "MoonPay Buys Stablecoin Infrastructure Platform Iron in Latest M&A Deal",
+    "time": "2025-03-13T16:25:00",
+    "author": "Will Canny",
+    "summary": "",
+    "content": "Cryptocurrency app MoonPay, has acquired Iron, an API-focused stablecoin infrastructure platform, the company said in a press release Thursday.\n\nThe acquisition will significantly increase Moonpay's enterprise offerings, the Miami-based company said, and will allow businesses to accept stablecoin payments.\n\nNo acquisition price was given, but a report said the deal was worth at least $100 million.\n\nM&A activity in the crypto space is hotting up. Options exchange Derebit is in talks to be acquired, with a number of potential suitors vying for the company, as reported by CoinDesk last month. Crypto trading platform BitMEX is also looking for a buyer.\n\nStripe agreed to buy stablecoin platform Bridge for $1.1 billion in October last year, in the largest crypto acquisition by a major payments company to date.\n\n“This acquisition is a strategic step forward, positioning MoonPay at the forefront of enterprise-grade stablecoin solutions,” said Ivan Soto-Wright, CEO of MoonPay, in the release.\n\nMoonpay bought Helio, a Solana-powered crypto payment processor, in January.\n\nRead more: MoonPay Buys Crypto Payment Processor Helio for $175M",
+    "url": "https://www.coindesk.com/business/2025/03/13/moonpay-buys-stablecoin-infrastructure-platform-iron-in-latest-m-and-a-deal-no-price-given",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ivan Soto-Wright"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "MoonPay",
+                "Iron",
+                "Derebit",
+                "BitMEX",
+                "Stripe",
+                "Bridge",
+                "Helio"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition expands MoonPay's enterprise stablecoin offerings and follows other major crypto acquisitions, indicating growing institutional confidence and M&A activity in the crypto space."
+    }
+}

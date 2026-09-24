@@ -1,0 +1,36 @@
+{
+    "title": "Ethereum L2s Are About to Hit a Brick Wall: Polynomial Protocol Founder",
+    "summary": "Sustained demand for Layer 2s could quickly deplete the available blob capacity. The impending Pectra upgrade only kicks the can down the road, Polynomial's co-founder said.",
+    "time": "2025-01-20T07:12:00",
+    "author": "Omkar Godbole",
+    "content": "Ethereum Layer 2 scaling solutions may soon hit their limits in efficiently scaling the mainnet, warns Gautham Santhosh, co-founder of Polynomial.fi.\n\nLayer 2 solutions are protocols or networks built on top of a layer-1 networks to improve its scalability and reduce transaction costs by processing transactions off-chain and then periodically settling the results on the main chain. More and more users have embraced these protocols for faster and more affordable transactions late last year.\n\nThat's evident from the spike in the number of blobs or binary large objects posted by hundreds of L2s to Ethereum. Since November, the daily tally has averaged a record 21,000, according to pseudonymous data analyst Hildobby's Dune Analytics dashboard.\n\nHere is the concerning part. Just two Layer 2s – Coinbase's BASE and World Chain – account for 55% of the daily blog activity. So, a sustained demand for Layer 2s could quickly deplete available capacity.\n\n\"Ethereum L2s are about to hit a brick wall. 55% of all blob space is already consumed by just 2 chains. And at current growth rates, we're only months away from everything breaking,\" Santhosh said on X.\n\nBlobs are like regular transactions with an extra piece of transaction data attached. However, unlike traditional transactions, blob-carrying transactions do not permanently occupy the mainnet space and are only available for 18 days. Layer 2 protocols use blobs to bundle transactions, process them off-chain, and post them to the main chain for verification.\n\nThe blob limit per block is six, with a target of three. When the target is reached, a base fee is charged to regulate demand from L2s.\n\nSince November, the demand for blobs has been so high that the target of three has consistently been met. In other words, scores of L2s are competing for the per-block target, driving base fees higher.\n\n\"It's like having a highway with only 3 lanes for 50 growing cities,\" Santhosh said.\n\nThe chart shows the base submission fee has been markedly higher since November compared to preceding months, occasionally topping the $50 mark.\n\nThese typically spike during market hours, airdrops and when a new layer 2 solution goes live, leading to higher user costs. \"This is hitting everyone. DEXs seeing higher trade costs, perp protocols facing base fee spikes, users paying more for basic transactions,\" Santosh explained. \"At @polynomialFi, our base fees are up 300% in recent months.\"\n\nAccording to pseudonymous Base builder Jesse.base.eth, the spike in the blob base fee is hampering L2 growth.\n\n\"You can see this in the cyclical price spikes driven by daily demand cycles. We need more blobs ASAP to help all L2s continue scaling and ensure @ethereum is center of onchain,\" Jesse said on X.\n\nEthereum's Pectra upgrade, slated for March 2025, is expected to raise the blob limit per block to nine, with a target of 6. But, according to Santhosh, doubling capacity \"only buys us months, not years.\"",
+    "url": "https://www.coindesk.com/tech/2025/01/20/ethereum-l2s-are-about-to-hit-a-brick-wall-polynomial-protocol-founder",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gautham Santhosh",
+                "Hildobby",
+                "Jesse.base.eth"
+            ],
+            "positions": [
+                "co-founder",
+                "data analyst",
+                "Base builder"
+            ],
+            "companies": [
+                "Coinbase",
+                "Polynomial.fi"
+            ],
+            "organizations": [
+                "BASE",
+                "World Chain",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news warns that Ethereum Layer 2 scaling solutions are hitting capacity limits, driving up transaction costs and hampering growth, which negatively impacts user experience and market efficiency."
+    }
+}

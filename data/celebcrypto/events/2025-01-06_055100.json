@@ -1,0 +1,37 @@
+{
+    "title": "High-Stakes $100K Bitcoin Call Signals Expectation for Record Price Jump After Trump's Inauguration",
+    "time": "2025-01-06T05:51:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders are positioning for a rally to record highs after President-elect Donald Trump takes office on Jan. 20",
+    "content": "Bitcoin\nBTC\n$104,608.94\nmarket trends indicate expectations for prices to reach record highs following President-elect Donald Trump’s inauguration on Jan. 20.\n\nOn Saturday, a trader on crypto exchange Deribit spent over $6 million to purchase the $100,000 strike call options set to expire on March 28, according to data source Amberdata.\n\n\"This trade anticipates that new highs for bitcoin will be broken just a few months after Trump officially takes office,\" Amberdata said on X.\n\nTraders are also net buyers at the $120,000 strike, indicating strong anticipation of a rally pushing prices above that level. The $120,000 call is the most popular option on Deribit, boasting a notional open interest of $1.52 billion at press time.\n\nA call option gives the buyer the right to buy the underlying asset at a specific price later in time. A call buyer is implicitly bullish on the market, looking to make asymmetric gains from an expected price rally.\n\nThe renewed interest in the call options comes as BTC looks to regain the $100,000 handle. At press time, the leading cryptocurrency by market value traded above $99,500, marking an 8% recovery from the Dec. 30 low of $91,384, according to data source CoinDesk and TradingView.\n\n\"The inauguration and right after will be a prime-time for bullish announcements and policies that could be bullish catalysts for bitcoin to move higher,\" Greg Magadini, director of derivatives at Amberdata, said in a weekly newsletter.\n\nRegulated cryptocurrency index provider CF Benchmarks voiced a similar opinion while warning that potential delays in policy development, if any, could temper the bullish mood.\n\n\"A restructured SEC under procryptocurrency leadership may reduce enforcement risks and foster innovation. These changes, coupled with streamlined compliance requirements, could enhance investor confidence,\" CF Benchmarks said in an annual report shared with CoinDesk.\n\n\"We believe that an industry framework will come, however, implementation delays or policy shifts may temper market optimism, creating short-term volatility,\" the firm added.\n\nExpectations for pro-crypto regulatory changes have bolstered the crypto market sentiment since Donald Trump won the U.S. election in early November. BTC rose from roughly $70,000 to new lifetime highs above $108,000 weeks after the election. However, the rally has lost steam in the second half of December, likely due to year-end profit-taking and hawkish Fed rate projections.",
+    "url": "https://www.coindesk.com/markets/2025/01/06/high-stakes-100-k-bitcoin-call-signals-expectation-for-record-price-jump-after-trumps-inauguration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Greg Magadini"
+            ],
+            "positions": [
+                "President-elect",
+                "director of derivatives"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "CF Benchmarks",
+                "CoinDesk",
+                "TradingView"
+            ],
+            "organizations": [
+                "SEC",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes traders spending millions on call options anticipating record highs, strong rally expectations, and potential pro-crypto regulatory changes following Trump's inauguration."
+    }
+}

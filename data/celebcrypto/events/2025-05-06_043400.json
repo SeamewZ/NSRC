@@ -1,0 +1,33 @@
+{
+    "title": "Ripple to Expand Its Quarterly XRP Markets Report as Institutional Usage Jumps",
+    "time": "2025-05-06T04:34:00",
+    "author": "Shaurya Malwa",
+    "summary": "The quarterly report in its current form will be sunset with newer versions delivering additional insights to reflect institutional usage of XRP.",
+    "content": "Ripple will sunset its quarterly XRP markets reports in its current form after Q2 2025, with newer versions including deeper insights as the token grabs more demand among institutional investors.\n\nThe quarterly XRP Markets provides transparency into Ripple’s XRP holdings and updates on the state of the crypto markets and the XRP ecosystem.\n\n“However, the reality is that the report has not had the intended effect,” Ripple said in its Q1 2025 report Monday. “In many instances, Ripple’s transparency has been used against the company, most notably by former SEC leadership.”\n\n“As more institutions engage with XRP, additional perspectives and insights are expected to follow, pushing the market conversation forward,” it added. This comes amid a flurry of XRP-based ETF filings in the U.S. and Brazil, with a leveraged XRP ETF already offered to investors since April.\n\nXRP delivered one of the strongest performances among major cryptocurrencies in Q1 2025, surging nearly 50% in early February and outpacing both bitcoin\nBTC\n$104,160.10\nand ether\nETH\n$3,532.35\nduring a period marked by market turbulence and rising macroeconomic uncertainty.\n\nWhile BTC remained range-bound and ETH trended lower, XRP stood out for its relative strength, with the XRP/BTC ratio rising more than 10% during the quarter, the report noted.\n\nThat strength was matched by growing institutional interest. XRP-based investment products recorded $37.7 million in net inflows during the quarter, pushing the year-to-date total to $214 million, just $1 million shy of surpassing ETH-focused funds.\n\nXRP spot market activity remained robust throughout the quarter. Average daily volumes hovered around $3.2 billion, with Binance maintaining a dominant share at 40%, followed by Upbit and Coinbase. Price volatility spiked in February, pushing realized volatility to around 130%, as XRP touched levels not seen since early 2018.\n\nOn-chain activity on the XRP Ledger moderated after a period of expansion in late 2024. Wallet creation and transaction volume dropped by 30–40%, in line with broader slowdowns across Layer 1 networks.\n\nHowever, XRP DeFi activity showed resilience, with DEX volume slipping just 16% quarter-over-quarter. RLUSD was a key driver of activity, with its market cap surpassing $90 million and cumulative DEX trading volume crossing $300 million.",
+    "url": "https://www.coindesk.com/markets/2025/05/06/ripple-to-expand-its-quarterly-xrp-markets-report-as-institutional-usage-jumps",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "former SEC leadership"
+            ],
+            "companies": [
+                "Ripple",
+                "Binance",
+                "Upbit",
+                "Coinbase"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "BTC",
+            "ETH",
+            "RLUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights XRP's strong 50% price surge, institutional inflows of $214 million year-to-date, growing institutional usage, and multiple ETF filings indicating positive market momentum."
+    }
+}

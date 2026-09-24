@@ -1,0 +1,30 @@
+{
+    "title": "NYC Comptroller Slams Mayor Eric Adams' Bitcoin Bond Plan as 'Fiscally Irresponsible'",
+    "summary": "Brad Lander criticized Mayor Eric Adams' proposed \"BitBond,\" saying it could jeopardize NYC’s credit reputation",
+    "time": "2025-05-31T15:44:00",
+    "author": "Francisco Rodrigues",
+    "content": "New York City’s Comptroller has dismissed a plan by Mayor Eric Adams to back municipal bonds with bitcoin\nBTC\n$101,658.25\n, calling it “legally dubious and fiscally irresponsible.”\n\nComptroller Brad Lander, who co-manages the city’s debt issuance, rejected the proposal just days after Adams pitched the so-called “BitBond” to a crowd at a bitcoin conference in Las Vegas.\n\n“Cryptocurrencies are not sufficiently stable to finance our city’s infrastructure, affordable housing, or schools,” Lander said in a press release. He added that such a move could shake investor confidence and run afoul of federal tax law.\n\nThe idea is part of Adams’ broader push to position New York as a global crypto hub. Since taking office, he has converted paychecks into crypto and launched a digital asset advisory council.\n\nBut Lander pushed back against the bond, which could use some of the proceeds to buy BTC. He argued that the city’s borrowing system is grounded in the U.S. dollar, and any deviation would require mechanisms that the city doesn’t have, like converting bitcoin into cash for public spending.",
+    "url": "https://www.coindesk.com/markets/2025/05/31/nyc-comptroller-slams-mayor-eric-adams-bitcoin-bond-plan-as-fiscally-irresponsible",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brad Lander",
+                "Eric Adams"
+            ],
+            "positions": [
+                "NYC Comptroller",
+                "Mayor"
+            ],
+            "companies": [],
+            "organizations": [
+                "New York City"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The NYC Comptroller's rejection of the bitcoin-backed bond plan and criticism that cryptocurrencies are 'not sufficiently stable' creates negative sentiment and regulatory uncertainty for crypto adoption."
+    }
+}

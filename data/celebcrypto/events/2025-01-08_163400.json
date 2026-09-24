@@ -1,0 +1,32 @@
+{
+    "title": "Pyth Network Partners With Revolut in DeFi Data Sharing Deal",
+    "summary": "PYTH is down by 9% in the past 24-hours despite the deal.",
+    "time": "2025-01-08T16:34:00",
+    "author": "Oliver Knight",
+    "content": "Blockchain oracle firm Pyth Network has partnered with neobank Revolut to port digital banking data into decentralized finance (DeFi).\n\nRevolut will provide data for more than 500 markets including foreign exchange, equities and commodities. Revolut also runs a crypto exchange although volume data is not published.\n\nThe PYTH token spiked momentarily on the news but has since receded in line with the wider market. It is now down by 9% over the past 24 hours.\n\nPyth competes with ChainLink and aims to provide accurate price feeds for DeFi protocols. It airdropped its native token (PYTH) in 2023 and has $7.5 billion in value secured on its oracle, according to DefiLlama.\n\nPyth also receives data from crypto exchanges Bitstamp, Bybit and Binance as well as several trading firms such as Jane Street and Cumberland DRW.\n\nChainLink's market share for oracles has diminished since the emergence of Pyth; in May 2021 ChainLink controlled 69% of price data feeds compared to Pyth's tally of 0.08%. Those figures have now evened out to 52% and 11%, respectively.",
+    "url": "https://www.coindesk.com/business/2025/01/08/pyth-network-partners-with-revolut-in-de-fi-data-sharing-deal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Pyth Network",
+                "Revolut",
+                "ChainLink",
+                "Bitstamp",
+                "Bybit",
+                "Binance",
+                "Jane Street",
+                "Cumberland DRW"
+            ],
+            "organizations": [
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "PYTH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The PYTH token is down 9% despite the partnership news, indicating negative market reaction."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Crypto Daybook Americas: Retail Demand Provides Firm Underpinning to Weaker Markets",
+    "time": "2025-01-23T12:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 23, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nBitcoin and most major cryptocurrencies are weaker after Chicago Mercantile Exchange, a proxy for institutional activity, denied reports of listing futures tied to XRP and SOL. Traditional markets are also holding their breath for the expected Bank of Japan interest-rate increase on Friday.\n\nDespite BTC's continued range play above $100,000, retail demand remains robust. Glassnode's shrimp-Crab cohort, which includes addresses holding up to 10 BTC, have absorbed 1.9 times the newly mined supply last month, totaling over 25,600 BTC. Meanwhile, long-term holders have slowed their spending and profit-taking activities, indicating a cautious, but firm, commitment to their investments.\n\nStill, dropping below $100,000 might prove costly. According to Wintermute's OTC trader Jake Ostrovskis, that would \"frame Monday's inauguration as a sell-the-news event and the narrative could switch pretty quickly.\"\n\nReports suggest the number of whale wallets holding between 1 million and 10 million XRP has surged to an all-time high of 2,083, signaling increased accumulation and confidence in its future performance.\n\nIn the world of innovation, chatter around Bitcoin Synths is gaining traction on X. These synthetic assets allow users to benefit from bitcoin’s price movements without actually owning the cryptocurrency. Bitcoin Synths can be traded or used as collateral in lending protocols, avoiding the complexities associated with wrapped tokens and specialized bridges.\n\nEthereum layer-2 protocols are also making headlines with record transaction volumes, even as concerns about their capacity nearing limits persist.\n\nOn the macroeconomic front, recent data from the Labor Department shows that the \"all tenant rent\" index, an indicator of shelter inflation in the Consumer Price Index (CPI), rose at a slower pace last quarter. The data suggest that recent worries about inflation may be overdone and the Fed could pivot away from its hawkish forecast, which would be a positive sign for risk assets. Stay alert!\n\nBy Francisco Rodrigues\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/23/crypto-daybook-americas-retail-demand-provides-firm-underpinning-to-weaker-markets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Jake Ostrovskis",
+                "Francisco Rodrigues"
+            ],
+            "positions": [
+                "OTC trader"
+            ],
+            "companies": [
+                "Chicago Mercantile Exchange",
+                "Glassnode",
+                "Wintermute",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Bank of Japan",
+                "Labor Department",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "SOL",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes weaker markets due to institutional disappointment but offset by strong retail demand and positive macroeconomic indicators, creating a mixed picture."
+    }
+}

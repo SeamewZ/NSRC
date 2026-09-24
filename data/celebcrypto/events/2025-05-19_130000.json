@@ -1,0 +1,36 @@
+{
+    "title": "BounceBit Pilots Bitcoin Trading Strategy Using BlackRock's BUIDL as Collateral",
+    "summary": "The strategy, offering an annualized yield exceeding 24%, will be soon rolled out to institutions and retail users.",
+    "time": "2025-05-19T13:00:00",
+    "author": "Omkar Godbole",
+    "content": "BounceBit, a crypto infrastructure provider using features from both centralized (CeFi) and decentralized finance (DeFi), has executed a bitcoin\nBTC\n$101,833.97\nderivatives trading strategy using BlackRock's yield-generating tokenized money market fund, BUIDL, to enhance returns.\n\nThe strategy, to be rolled out to institutions and retail users, consisted of two main components: a bitcoin basis trade, involving a long position in the spot market while shorting futures, and a short position in BTC put options, both collateralized by BUIDL tokens.\n\nThe basis trade, also known as cash and carry arbitrage, alone generated an annualized yield of 4.7%, with put option writing contributing an additional 15%. Combined with the 4.25% return from BUIDL used as collateral, the total yield exceeded 24%.\n\nIntegrating BUIDL as collateral helped generate a higher return than strategies collateralized by stablecoins, which do not generate any return.\n\n\"This strategy allows investors to capture both Treasury Bill yields and funding rate arbitrage returns,\" Jack Lu, founder and CEO of BounceBit said in a press release exclusively shared with CoinDesk.\n\n\"BounceBit bridges the gap between Western real-world asset issuers and Asian crypto trading infrastructure, providing new options for yield generation,\" Lu said.\n\nBounceBit is the native BTC restaking chain secured by staking both bitcoin and BounceBit tokens. The network allows BTC holders to earn yields through native validator staking, DeFi ecosystem and a CeFi-like mechanism powered by Ceffu and Mainnet Digital. As of writing, cryptocurrencies worth over $500 million were locked on BounceBit.\n\nBounceBit plans to roll out the BUIDL-collateralised strategy to institutional and retail users soon. \"The successful pilot is a proof of concept to our new product line BB Prime, which will be available to both retail and institutional users,\" BounceBit's spokesperson told CoinDesk.\n\n\"This strategy underpins BB Prime as a new class of CeDeFi applications built on top of RWAs which are traditionally troubled by a lack of utilities beyond just holding for t-bill yield, hindering mass adoption,\" the spokesperson added.\n\nBUIDL, launched in March 2024 by Securitize and BlackRock, is a tokenized investment fund operating on multiple blockchains, including Ethereum, Aptos and Polygon. The token, currently boasting a market cap of $2.88 billion, is backed by short-term U.S. government bonds, boasting a stable value pegged at one dollar per token.",
+    "url": "https://www.coindesk.com/markets/2025/05/19/bouncebit-pilots-bitcoin-trading-strategy-using-blackrocks-buidl-as-collateral",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Lu"
+            ],
+            "positions": [
+                "founder and CEO"
+            ],
+            "companies": [
+                "BounceBit",
+                "BlackRock",
+                "Securitize",
+                "Ceffu",
+                "Mainnet Digital",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Aptos",
+            "Polygon"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful trading strategy generating high yields exceeding 24% and bridging traditional finance with crypto, indicating positive market development and institutional adoption."
+    }
+}

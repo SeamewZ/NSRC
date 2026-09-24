@@ -1,0 +1,34 @@
+{
+    "title": "Former Bittrex Execs Raise $40M in Bitcoin to Back Barbados-Licensed Insurance Firm",
+    "time": "2025-03-24T13:00:00",
+    "author": "Ian Allison",
+    "summary": "Barbados-regulated Tabit Insurance raised a $40 million insurance facility funded entirely by bitcoin (BTC).",
+    "content": "Tabit Insurance, a Barbados-regulated insurance company established by former executives from the now-shuttered cryptocurrency exchange Bittrex, said it raised a $40 million reserve composed entirely of bitcoin (BTC) with which to write traditional insurance and reinsurance business.\n\nThe insurer, which emerged in January of this year with plans to offer bitcoin-backed liability policies for company directors and officers (D&O), claims to be the first regulated risk carrier to rely on bitcoin-only reserves to write traditional policies priced in U.S. dollars. The firm has a class 2 insurance license from the Barbados Financial Services Commission.\n\nThe crossover between crypto and insurance usually involves shoehorning existing risk categories for loss and theft into covering hot and cold versions of digital assets custody. Tabit’s approach is interesting because it explores ways firms and individuals can capitalize on their bitcoin holdings without getting involved in trading or incurring significant counterparty risk.\n\nTabit co-founder and CEO Stephen Stonberg said bitcoin holders are invited to contribute assets to the firm’s system of segregated reserve cells, which is managed using non-custodial tech from Fireblocks, to earn yields of around 10%. A good analogy from the world of insurance is the way accredited investors, known as “Names,” deploy assets into insurance syndicates at the Lloyd’s of London insurance market.\n\n“For a technology like crypto, you may need a new underwriter, but the way the insurance is done is fundamentally the same as before,” Stonberg said in an interview. “We are holding our regulatory capital in bitcoin, and I think bringing in a new capital source to the insurance industry and innovating with the balance sheet is an opportunity that other people weren't really looking at.”",
+    "url": "https://www.coindesk.com/business/2025/03/24/former-bittrex-execs-raise-usd40-million-of-bitcoin-to-back-insurance-firm",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Stephen Stonberg"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "former executives"
+            ],
+            "companies": [
+                "Tabit Insurance",
+                "Bittrex",
+                "Fireblocks"
+            ],
+            "organizations": [
+                "Barbados Financial Services Commission",
+                "Lloyd's of London"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $40 million bitcoin-backed insurance facility that brings new institutional capital into crypto and enables bitcoin holders to earn yields, indicating growing institutional adoption and utility for bitcoin."
+    }
+}

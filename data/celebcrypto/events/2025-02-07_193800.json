@@ -1,0 +1,37 @@
+{
+    "title": "Democratized, Depoliticized and Decentralized AI, by the People, for the People",
+    "summary": "Access to AI intelligence should be equal to all. That means building collaborative systems of learning, like the Thames Network, a new decentralized AI network launching at Oxford today.",
+    "time": "2025-02-07T19:38:00",
+    "author": "Bangdao Chen",
+    "content": "We are entering a new epoch where the ability to use and to work with artificial and synthetic intelligence is a human right.\n\nAccess to intelligence – the prerogative to innovate, work with, and benefit from higher levels of synthetic intelligence – belongs to the people.\n\nBuilding on increasingly inexpensive compute, abundant data, and low-cost, open-source models, we are about to witness a synthetic intelligence cornucopia.\n\nWe have to build infrastructure that supports pluralistic development of AI. That’s why we’re starting The Thames Network, based at Oxford: a decentralized intelligent network to run at the edge, enabling private, censorship-resistant, depoliticized, and decentralized AI through built-in economic incentives and cryptographic proofs.\n\n“I have concerns about the concentration of power and loss of privacy that AI is leading to. It is essential for us to be thinking about strong technical solutions to this such as blockchain,” said principal scientist, Oxford Professor Philip Torr, calling for ceaseless progress in decentralized AI, handing AI power to the people.\n\nWhat does this open-source, decentralized marketplace, protocol and incentive layer for artificial and synthetic intelligence entail?The release of DeepSeek has multiple implications, the most important of which is that open-source AI is here to stay, and that the future does not belong to one large centralized, corporate (or state) model. AI has shifted from the center to the edge, and it is henceforth becoming more decentralized.\n\nMicrosoft has just announced that distilled, NPU-optimized versions of DeepSeek R1 will be available on PCs, taking advantage of on-device, local processing, starting with Qualcomm Snapdragon X first, followed by Intel Core Ultra 200V and others. Users will be able to interact with the newer family of ground-breaking models entirely locally.\n\nNeural Processing Units are specialized computer microprocessors designed to mimic the processing function of the human brain’s neural network. NPUs, which will be featured on personal devices, offer a highly efficient set of capabilities for model inferencing, unlocking the agentic paradigm where generative AI can execute not just when directly invoked, but enable semi and fully-continuously running services i.e. agents.\n\nThe movement towards decentralization is more than a technical upgrade. It represents a fundamental change in how we empower individuals. That means fostering AI systems geared toward collaboration, driving innovation while safeguarding against the pitfalls of centralized control, says Richard Sutton, widely recognized as the “father of reinforcement learning.” “Reinforcement learning, rather than large language models, holds the key to advancing AI,” he has said.\n\nThe Thames Network democratizes access to AI with the first the open-source decentralized AI marketplace, protocol, and incentive layer.\n\nUniversal Basic Income – where citizens are offered recurring payments to subsidize their life – is touted by AI oligarchs, and especially Elon Musk, as necessary. This is not a people-first approach; this is a corporate-first approach, and one that will eat away at the fabric of society. The better approach is to democratize access to AI, and to enable autonomy and sovereignty for the individual.\n\nWith a new intelligence substrate at the edge, and with a new economic model, a decentralized intelligent network would light up an ecosystem of agents working in concert with humans. Rather than subsuming or replacing humans, this network will create new opportunities for democratizing human-AI collaboration.\n\nFor artificial and synthetic intelligence to benefit humanity, it is imperative that it be free of bias and be apolitical, without an implicit (or explicit) agenda. Censorship, guardrails, and access limitations based on jurisdiction, price, and other factors are not the way to create a future where humans and AI can collaborate effectively.\n\nAt the same time, privacy is key in domains such as healthcare. A decentralized intelligent network should be designed with a privacy-first approach, and architected on a trustworthy foundation, ensuring a zero-trust security model, whilst balancing governance, risk and compliance.\n\nWhat may start with hundreds of thousands of models will build up into a massive wave of hundreds of millions of domain-specific models, curated, distilled, and augmented via Retrieval-Augmented Generation (RAG). The Thames Network will provide the tools and an open marketplace for people to build, and to monetize their domain expertise, again with the focus on human-AI collaboration.\n\n“We are all seeing the digital world take over our world through the internet, the collection and sharing of data and the current rise of AI,” says Bill Roscoe, Director of the Oxford Blockchain Research Centre. “The world really needs an altruistic development of the rules of digital civilization and an infrastructure to support and govern it in a truly collective way.” The Thames Network’s mission is to ensure that privacy and collective governance remain at the forefront of technological evolution.\n\nThe convergence of decentralized computing, blockchain tools and governance, crypto incentive protocols and mechanisms, and domain-specific AI models built and curated by human experts, points to a future where artificial and synthetic intelligence become accessible, transparent, secure, abundant and collaborative.\n\nThe Thames Network, which we’re announcing at the Oxford AI x Blockchain conference today, envisions a win-win world for humans and AI. Anything else would be an abdication of responsibility for us as technologists, engineers, researchers and economists.",
+    "url": "https://www.coindesk.com/opinion/2025/02/07/democratized-depoliticized-and-decentralized-ai-by-the-people-for-the-people",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Philip Torr",
+                "Richard Sutton",
+                "Elon Musk",
+                "Bill Roscoe"
+            ],
+            "positions": [
+                "principal scientist, Oxford Professor",
+                "father of reinforcement learning",
+                "Director of the Oxford Blockchain Research Centre"
+            ],
+            "companies": [
+                "Microsoft",
+                "Qualcomm",
+                "Intel"
+            ],
+            "organizations": [
+                "Thames Network",
+                "Oxford",
+                "Oxford Blockchain Research Centre",
+                "Oxford AI x Blockchain conference"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news promotes decentralized AI using blockchain and crypto incentive protocols, which supports cryptocurrency adoption and infrastructure development."
+    }
+}

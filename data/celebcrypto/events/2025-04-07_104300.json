@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Hashrate Surpasses 1 Zettahash as Miner Revenue Hits Record Low",
+    "time": "2025-04-07T10:43:00",
+    "author": "James Van Straten",
+    "summary": "Network difficulty jumps nearly 7%—the biggest increase since July 2024—driven by an all-time high in hashrate.",
+    "content": "For the first time ever, bitcoin’s\nBTC\n$104,608.94\nhashrate hit 1 zettahash (1 ZH/s) on Friday, according to data from Glassnode. The previous record was set on Jan. 31, when the network hit 975 exahashes per second (EH/s).\n\nBitcoin first reached 1 EH/s in 2016 — a milestone that’s now been multiplied 1,000 times.\n\nCoinDesk research published on April 3 noted that the hashrate was climbing to record levels, even as bitcoin’s price remained disconnected from this trend. Since then, the price has fallen another 10%, driven in part by President Trump’s tariffs, and is now hovering around $77,000.\n\nAs the research pointed out, analyzing the hashrate on a 24-hour timeframe can be misleading due to natural block time variability, which is how the record occurred. More accurate insights typically come from using longer-term averages, such as the 7-day moving average, which puts the hashrate at 879 EH/s. Nonetheless, it’s important to note that the milestone is historic.\n\nAs of Sunday, bitcoin’s difficulty adjustment increased by nearly 7%, pushing the difficulty adjustment to an all-time high at 121.5 trillion (T). This marks the largest upward adjustment since July 2024. While the last 17 adjustments, 14 have been positive, according to Glassnode data. This mechanism ensures that blocks continue to be mined approximately every 10 minutes, maintaining network consistency.\n\nMeanwhile, miner revenue per exahash or knows as hashprice—a metric estimating daily income relative to hash power—has fallen to an all-time low of $42.40. This decline is driven by a combination of low transaction fees, rising network difficulty, and a relatively low bitcoin price.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/bitcoin-hashrate-surpasses-1-zettahash-as-miner-revenue-hits-record-low",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Glassnode",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin's price falling 10%, miner revenue hitting record lows, and negative factors like Trump's tariffs driving price declines."
+    }
+}

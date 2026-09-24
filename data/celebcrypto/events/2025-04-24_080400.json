@@ -1,0 +1,22 @@
+{
+    "title": "ZKSync Hacker Returns $5M in Stolen Tokens After Accepting 10% Bounty",
+    "summary": "The hacker cooperated with the ZKsync team and returned the funds within the “safe harbor” deadline while taking a 10% bounty..",
+    "time": "2025-04-24T08:04:00",
+    "author": "Francisco Rodrigues",
+    "content": "ZKsync said $5 million worth of tokens stolen during an admin wallet hack last week have been returned and the case is now considered resolved.\n\nThe layer-2 blockchain protocol saw a hacker compromise its admin wallet, leading to the theft of unclaimed tokens from the ZKsync airdrop.\n\nIn a post on X, the project said the hacker cooperated with the team and returned the funds within the “safe harbor” deadline — a grace period commonly offered in security incidents to incentivize returns without legal consequence. The cooperation means the hacker took a 10% bounty.\n\nThe tokens are now in custody of the ZKsync Security Council and a governance process will determine what to do with them. A final investigation report is being prepared and will be published when complete.",
+    "url": "https://www.coindesk.com/web3/2025/04/24/zksync-hacker-returns-5m-in-stolen-tokens-after-accepting-10-bounty",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "ZKsync",
+                "ZKsync Security Council"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The hacker returned stolen funds and cooperated with the team, resolving the security incident positively and restoring confidence in the protocol."
+    }
+}

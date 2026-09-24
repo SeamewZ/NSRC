@@ -1,0 +1,36 @@
+{
+    "title": "Base Team Member Refutes Claims That Its Sequencer Coinbase Has Been Selling ETH",
+    "time": "2025-02-10T10:26:00",
+    "author": "Omkar Godbole",
+    "summary": "\"Coinbase has accumulated $300M+ in ETH, which is more than 2x all of Base's ETH earnings over time,\" Base member Kabir.base.eth said on X.",
+    "content": "A member of layer 2 scaling solution Base has refuted rumors that its sequencer Coinbase has been selling ether\nETH\n$3,493.97\n.\n\n\"Coinbase has accumulated $300M+ in ETH, which is more than 2x all of Base's ETH earnings over time,\" Base member Kabir.base.eth said on X Sunday. \"Base and Coinbase have and continue to hold ETH and publicly disclose our long term holdings (100K ETH+, $300M+).\"\n\nKabir added that Base uses offchain custody for security and audit reasons (that's why funds move to Coinbase), stressing that the Ethereum layer 2 solution earns and spends as much as possible in ETH, using it for Layer 1 costs and granting support. CoinDesk reached out Coinbase for a comment on the matter.\n\nKabir's comments came after pseudonymous observer Santisa said Base has been transferring all sequencer fees to Coinbase since the debut, and the sequencer has likely sold these coins.\n\nCoinbase is supposedly the only sequencer node on Base that sequences and finalizes transactions in a specified order and improves transaction throughput (speed). Coinbase charges a fee, collected in ETH, for this sequencer role.\n\nSantisa's take echoed Sonic Labs founder Andre Cronje's concerns about the use of centralized sequencers in layer 2 solutions that lead to profit models that don't fully align with the broader Ethereum values.\n\nIn essence, while Layer 2 scaling solutions earn a substantial revenue from transaction fees, they send a small portion of that to the Ethereum mainnet for data availability and security purposes. In other words, most fees collected in ETH is either retained or offloaded into the market, reducing the fee revenue and associated ETH burning on the mainnet. That has an adverse impact on ETH's supply.\n\n\"L2s are why Ethereum is inflationary again. SCALE ETHEREUM. They can get the Sonic tech for free. 0 charge. Will 1000x their throughput,\" Cronje said on X.",
+    "url": "https://www.coindesk.com/markets/2025/02/10/base-team-member-refutes-rumors-of-that-its-sequencer-coinbase-is-selling-eth",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kabir.base.eth",
+                "Santisa",
+                "Andre Cronje"
+            ],
+            "positions": [
+                "Base Team Member",
+                "Sonic Labs founder",
+                "pseudonymous observer"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Base",
+                "Sonic Labs",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news refutes claims of ETH selling and emphasizes Coinbase's significant ETH accumulation and long-term holding strategy, which indicates market confidence and positive sentiment."
+    }
+}

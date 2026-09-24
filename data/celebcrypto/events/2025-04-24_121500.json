@@ -1,0 +1,25 @@
+{
+    "title": "FBI Says Americans Lost $9.3B to Crypto Scams in 2024",
+    "summary": "An IC3 report shows crypto investment fraud ballooned, with over $2.8 billion lost by victims aged 60 and older. Total losses hit $9.3 billion after rising 66% year-over-year.",
+    "time": "2025-04-24T12:15:00",
+    "author": "Francisco Rodrigues",
+    "content": "Americans reported a record $9.3 billion in losses to cryptocurrency-related crimes in 2024, according to a report by the Federal Bureau of Investigation's (FBI) Internet Crime Complaint Center (IC3). The losses represent a 66% jump from 2023 and highlight the growing use of digital assets in online fraud schemes.\n\nThe annual IC3 report says nearly 150,000 complaints linked to crypto, with investment fraud leading the way. In these schemes, scammers often pretend to offer high returns on fake cryptocurrency platforms, coaxing victims to transfer funds that are then siphoned away.\n\nThe FBI also spotlighted “pig butchering” scams, where fraudsters build online relationships before pushing fake crypto investments. Crypto investment schemes led to $5.8 billion in losses, while the second-largest category by losses at $1.1 billion were data breaches.\n\nElderly Americans bore the brunt of the damage. Individuals over 60 reported $2.8 billion in losses through crypto-related crimes—more than any other age group— up from $1.65 billion in 2023 and $1.08 billion in 2022.\n\nThe second-most affected age group, those aged 40-49, suffered $1.4 billion in losses, while those under the age of 40 suffered combined losses of around $1.37 billion.\n\nOver 8,000 of the complaints stemmed from people over 60 and related to fake investment opportunities, while others fell victim to tech support fraud and impersonation schemes, often involving cryptocurrency ATMs.\n\nOperation Level Up, a government initiative launched in January 2024, identified thousands of victims of crypto investment fraud and prevented an estimated $285 million in further losses, per the report. It referred 42 victims for suicide intervention.",
+    "url": "https://www.coindesk.com/markets/2025/04/24/fbi-says-americans-lost-usd9-3b-to-crypto-scams-in-2024",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Federal Bureau of Investigation",
+                "FBI",
+                "Internet Crime Complaint Center",
+                "IC3",
+                "Operation Level Up"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports record losses of $9.3 billion to cryptocurrency-related crimes, highlighting growing fraud schemes and negative market sentiment."
+    }
+}

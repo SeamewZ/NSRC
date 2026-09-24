@@ -1,0 +1,29 @@
+{
+    "title": "CME Says XRP, SOL Futures Leak Was an Error, No Decisions Are Made",
+    "time": "2025-01-23T03:13:00",
+    "author": "Helene Braun",
+    "summary": "A screenshot of a beta page for XRP (XRP) and Solana (SOL) futures contracts was posted on X earlier on Wednesday.",
+    "content": "An earlier leak on the website of Chicago Mercantile Exchange (CME) showing regulated\nXRP\n$2.2805\nand Solana\nSOL\n$160.46\nfutures could start trading on Feb. 10 pending regulatory approval was an “error,” a representative of the company told CoinDesk.\n\n“A beta page from our website was released in error earlier today,” the spokesperson said. “Many mock-ups are included in that test environment. No decisions have been made regarding XRP or SOL futures contracts.\"\n\nA screenshot of a beta page for\nXRP\n$2.2805\nand Solana\nSOL\n$160.46\nfutures contracts was posted on X earlier on Wednesday, sparking rumors that the exchange might get ready to list those investment vehicles on Feb. 10.\n\nBoth tokens jumped as much as 3% following the post, before paring some of their gains.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/cme-says-xrp-sol-futures-leak-was-an-error-no-decisions-are-made",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "representative",
+                "spokesperson"
+            ],
+            "companies": [
+                "Chicago Mercantile Exchange (CME)",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news clarifies that the futures listing was an error and no decisions have been made, which negates the initial positive price movement and returns the situation to neutral."
+    }
+}

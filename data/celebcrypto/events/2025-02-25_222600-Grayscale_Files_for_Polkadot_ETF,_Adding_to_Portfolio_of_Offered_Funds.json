@@ -1,0 +1,36 @@
+{
+    "title": "Grayscale Files for Polkadot ETF, Adding to Portfolio of Offered Funds",
+    "time": "2025-02-25T14:26:00",
+    "author": "Francisco Rodrigues",
+    "summary": "This filing follows similar moves for XRP and Cardano ETFs after the SEC adopted a more crypto-friendly approach.",
+    "content": "Grayscale Investments, a crypto asset-management company looking to add XRP and Cardano exchange-traded funds to its offerings, is now starting down the route for an ETF investing in Polkadot's DOT token as well.\n\nNasdaq has filed a formal Form 19b-4 request with the U.S. Securities and Exchange Commission (SEC) to list and trade shares of the Grayscale Polkadot Trust (DOT). The filing starts a 45-day review period for the regulator to acknowledge the filing. The regulator can approve, or disapprove the application or extend the review period.\n\nIn recent weeks, Grayscale, which already offers bitcoin and ether ETFs, has filed with the SEC to convert its XRP Trust into an exchange-traded fund, and filed to list a spot Cardano ETF. These filings come as the SEC pivots to a more friendly approach to the digital asset industry under the Trump administration, having recently dropped numerous crypto-related investigations, including against Robinhood and non-fungible token marketplace OpenSea.\n\nGrayscale has never offered a standalone Polkadot product. The filing sees it join crypto asset manager 21Shares, which late last month filed to list a spot Polkadot ETF with the SEC as well.\n\nPolkadot’s DOT is at the time of writing trading at $4.4 after losing 6.7% of its value in the last 24-hour period amid a wider cryptocurrency market downturn.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/grayscale-files-for-polkadot-etf-adding-to-portfolio-of-offered-funds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Grayscale Investments",
+                "Nasdaq",
+                "Robinhood",
+                "OpenSea",
+                "21Shares"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Cardano",
+            "Polkadot",
+            "DOT",
+            "Bitcoin",
+            "Ether",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple ETF filings by major asset managers following a more crypto-friendly regulatory approach, which typically indicates institutional adoption and market confidence."
+    }
+}

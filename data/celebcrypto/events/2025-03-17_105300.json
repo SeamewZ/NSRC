@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin Faces Massive 'Supply Gap' Between $70K and $80K",
+    "time": "2025-03-17T10:53:00",
+    "author": "James Van Straten",
+    "summary": "According to Glassnode data, approximately 20% of Bitcoin's supply is currently at a loss.",
+    "content": "Bitcoin's\nBTC\n$104,587.15\nongoing price pullback could accelerate below $80K, as on-chain analysis by Glassnode indicates that the $10K price range beneath this level was marked by weak economic activity late last year.\n\nBTC prices quickly rose from $70K to above $80K in early November after pro crypto Donald Trump won the U.S. Presidential election. As a result, very little BTC changed hands between those levels, leaving a so-called \"supply gap,\" as evident from Glassnode's UTXO Realized Price Distribution (URPD) chart.\n\nThis metric tracks the price points at which existing bitcoin UTXOs were last moved. Each bar represents the volume of bitcoin that last changed hands within a specific price range. The data is entity-adjusted, meaning it assigns an average purchase price for each entity, categorizing its full balance accordingly.\n\nBitcoin's rapid surge from the mid-$60K to over $100K following Donald Trump's U.S. election victory left little supply accumulation in the $70K to $80K range, as it traded only for a few days between these levels.\n\nIn other words, the total number of traders with acquisition prices between $70K and $80K is likely to be far less than at other levels. So, a move below $80K will likely see very little bargain hunting from holders looking to buy more at their acquisition costs, thus ensuring little support before $73K, the all time high set in March 2024.\n\nBesides, as bitcoin currently consolidates above $80K, approximately 20% of the total supply is currently at a loss—meaning these holdings were purchased above the current price of $83K. These wallets could add to the selling pressure below $80K, leading to a quick slide.\n\nGlassnode data shows that approximately 100,000 BTC have been sold by short-term holders due to the price correction. While the lack of supply and current tepid demand has already contributed to bitcoin’s 30% pullback from its all-time high of $108K.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bitcoin-faces-a-massive-supply-gap-between-usd70k-and-usd80k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. Presidential"
+            ],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin facing a supply gap with little support below $80K, 20% of supply at a loss, selling pressure from short-term holders, and a 30% pullback from all-time highs."
+    }
+}

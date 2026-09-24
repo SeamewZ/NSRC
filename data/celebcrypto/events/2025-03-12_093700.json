@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin’s Four-Year Compounded Annual Growth Rate Drops to Record Low of 8%",
+    "time": "2025-03-12T09:37:00",
+    "author": "James Van Straten",
+    "summary": "Ethereum-to-bitcoin ratio hits lowest level since 2020, as four-year CAGR goes negative.",
+    "content": "Bitcoin's\nBTC\n$104,347.87\nfour-year compound annual growth rate (CAGR) has dropped to its lowest recorded level of 8%, according to Glassnode data.\n\nThe four-year period was chosen to align with bitcoin’s\nBTC\n$104,347.87\nhalving cycle while also capturing the typical bull/bear market cycle, which tends to follow a similar timeframe.\n\nIn March 2021, four years prior, bitcoin was trading around $60,000, near the peak of the previous market cycle. The decline in CAGR is expected as bitcoin's volatility and returns diminish over time as the asset matures.\n\nHowever, this metric is highly dependent on the reference points. In 2021, Bitcoin was experiencing a blow-off top early in the cycle, whereas in March 2025, $80,000 could be marking a cycle bottom.\n\nThe ether\nETH\n$3,511.09\n-to-bitcoin (ETH/BTC) ratio has also entered negative CAGR territory at 6%, reflecting the underperformance of ethereum's native token compared to bitcoin. This decline is primarily due to ether price remaining essentially flat since February 2021, which is now below $2,000.\n\nCurrently, the ETH/BTC ratio stands at 0.024, marking its lowest level since late 2020.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/bitcoin-s-four-year-compounded-annual-growth-rate-drops-to-record-low-of-8",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports Bitcoin's four-year CAGR dropping to a record low of 8% and ETH/BTC ratio hitting its lowest level since 2020, indicating declining returns and underperformance."
+    }
+}

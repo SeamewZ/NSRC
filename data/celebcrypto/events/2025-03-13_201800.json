@@ -1,0 +1,35 @@
+{
+    "title": "BlackRock's BUIDL Fund Tops $1B with Ethena's $200M Allocation",
+    "time": "2025-03-13T20:18:00",
+    "author": "Krisztian Sandor",
+    "summary": "BUIDL is a key building block for multiple yield-generating offerings as a reserve asset, and it's increasingly used as collateral on trading platforms.",
+    "content": "Global asset manager BlackRock's BUIDL token, issued in partnership Securitize and backed by U.S. Treasuries, crossed the $1 billion milestone in assets on Thursday, Securitize said.\n\nPushing the fund's size above the threshold was a $200 million allocation this afternoon by crypto protocol Ethena, a Securitize spokesperson told CoinDesk. Ethereum blockchain data by Arkham Intelligence shows an entity minting $200 million worth of BUIDL tokens at Thursday 18:47 UTC.\n\nCrypto tokens backed by U.S. Treasuries are at the forefront of tokenization efforts, as digital asset firms and global financial heavyweights race to put traditional instruments such as bonds, private credit and funds on blockchain rails, aiming to achieve faster settlements and operational efficiencies.\n\nBUIDL serves as a building block for multiple yield-generating offerings, and it's increasingly used as collateral on trading platforms. It's a key reserve asset for Ethena's yield-generating USDtb token, which now has a $540 million supply. USDtb's value is backed by USDC and USDT stablecoins and some $320 million worth of BUIDL tokens.\n\n\"Ethena's decision to scale USDtb's investment in BUIDL reflects our deep conviction in the value of tokenized assets and the significant role they will continue to play in modern financial infrastructure,\" said Guy Young, founder of Ethena.\n\nRead more: Tokenized Treasuries Hit Record $4.2B Market Cap as Crypto Correction Fuels Growth",
+    "url": "https://www.coindesk.com/business/2025/03/13/blackrock-s-buidl-fund-tops-usd1b-with-ethena-s-usd200m-allocation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Guy Young"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "BlackRock",
+                "Securitize",
+                "Ethena",
+                "CoinDesk",
+                "Arkham Intelligence"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BUIDL",
+            "USDtb",
+            "USDC",
+            "USDT",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant institutional adoption with BlackRock's BUIDL token reaching $1 billion in assets and Ethena's $200 million allocation, indicating growing market confidence in tokenized assets."
+    }
+}

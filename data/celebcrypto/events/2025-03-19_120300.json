@@ -1,0 +1,44 @@
+{
+    "title": "Ether Jumps 7% as Bitcoin Traders Watch $80K Support Ahead of FOMC",
+    "time": "2025-03-19T12:03:00",
+    "author": "Shaurya Malwa",
+    "summary": "Meanwhile, gold broke above $3,000 to new highs earlier Wednesday, leading to some eyeing an inverse correlation of the yellow metal with bitcoin.",
+    "content": "Ether\nETH\n$3,524.11\nzoomed nearly 7% in the past 24 hours to lead gains among majors as traders await the results of the Federal Open Market Committee (FOMC) meeting on Wednesday.\n\nETH’s gains were coupled with a 4% gain in memecoin\nDOGE\n$0.1659\n, which historically tends to act correlated to the asset’s movements. Other Ethereum-based memecoins pepe (PEPE) and mog (MOG), rose more than 5% — continuing to act as levered bets.\n\nElsewhere, majors XRP, BNB Chain’s BNB, Solana’s SOL and Cardano’s ADA rose 3%. Tron’s TRX dipped after a surge 5% earlier in the day as memecoin trading picked up on the blockchain following a no-fee update in the Sunpump platform.\n\nBitcoin\nBTC\n$104,558.40\nrose 2% and remained steady under $84,000 in Asian evening hours ahead of the FOMC, where traders expect rates to be held steady. The $80,000 mark remains one to be watched, some say, as a break below would mean a critical support level vanishes.\n\nThe widely-watched ETH/BTC ratio - or the trading pair of ether against bitcoin - rose from 0.23 to 0.24 since Asian morning hours, indicative of a bump in demand for riskier ETH versus the perceived safety of bitcoin.\n\nEther rose on no immediate catalyst, but the mothership network has technical catalysts in the making. The Pectra upgrade, Ethereum's next major update, is currently in testing and aims to improve scalability, staking, and user experience with over 20 EIPs, including EIP-7702 (smart account functionality) and EIP-7251 (raising validator staking limits to 2,048 ETH).\n\nTesting began on Holesky in February 2025, followed by Sepolia in March, but faced challenges like transaction processing issues due to client incompatibilities. A new testnet, Hooli, launched on March 17, with Pectra testing scheduled for March 26. If successful, mainnet deployment is expected in late April or early May 2025.\n\n“BTC has found some support at the $80K, but that seems tenuous at best amid broader macro weakness,” traders at Singapore-based QCP Capital said in a broadcast message. “We won’t attempt to call the exact moment when the music stops, but in the short term, we struggle to identify meaningful tailwinds to reverse this rout.”\n\n“We will be watching closely for any dovish shifts, particularly on growth and inflation expectations. Given that it will take months for the impact of tariffs to ripple through the economy, we expect the Fed to remain in “wait-and-see” mode,” QCP added.\n\nMeanwhile, gold broke above $3,000 to new highs earlier Wednesday, leading to some eyeing an inverse correlation of the yellow metal with bitcoin.\n\n“Despite its historical correlation with gold as a macro hedge, Bitcoin's current divergence—falling while gold rises—suggests it's acting more like a risk asset, influenced by Fed policy uncertainty, profit-taking, and a shift to traditional safe-havens,” Ryan Lee, Chief Analyst at Bitget Research, told CoinDesk in a Telegram message.\n\n“The FOMC outcome could either trigger a recovery if dovish or deepen the correction if hawkish, with bitcoin's short-term trajectory tied to broader economic signals rather than solely reinforcing its \"digital gold\" role,” Lee added.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/ether-zooms-7-as-bitcoin-traders-watch-usd80k-support-ahead-of-fomc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ryan Lee"
+            ],
+            "positions": [
+                "Chief Analyst"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Bitget Research",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Federal Open Market Committee",
+                "FOMC",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "DOGE",
+            "PEPE",
+            "MOG",
+            "XRP",
+            "BNB",
+            "SOL",
+            "ADA",
+            "TRX"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market shows mixed signals with some cryptocurrencies gaining while bitcoin faces uncertainty ahead of the FOMC meeting, with analysts divided on short-term direction."
+    }
+}

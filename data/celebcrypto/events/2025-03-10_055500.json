@@ -1,0 +1,28 @@
+{
+    "title": "Ether's 20% Plunge Signals End of 3-Year Bull Run",
+    "time": "2025-03-10T05:55:00",
+    "author": "Omkar Godbole",
+    "summary": "Ether's price now trades below a trendline that starts from the low registered after the crash of Terra in 2022.",
+    "content": "Prices of ether\nETH\n$3,514.06\n, the native token of Ethereum's blockchain, fell almost 20% in the seven days to March 9, registering their biggest weekly percentage slide since November 2022, according to data source TradingView.\n\nThe sell-off has penetrated a bullish trendline that starts with the low registered after the June 2022 crash of Terra’s algorithmic stablecoin, UST, which destroyed billions in investor wealth.\n\nThe decisive breakdown means ether's near three-year-long bullish trend has likely ended, shifting focus to more profound losses, potentially to support identified by September-October 2023 lows near $1,500.\n\nTrendlines help visualize the direction in which traders are allocating funds and where price movements are likely to occur. An ascending or bullish trendline represents levels where demand is expected to be sufficient to avoid further price declines.\n\nWhen a prolonged bullish trendline is breached, as seen in the case of ETH, it signals a weakening of demand or that sellers are overpowering buyers, indicating a potential bearish shift in market trend. The breakdown often prompts other traders to sell, leading to even deeper losses.\n\nEther's near 20% drop took out dual support – the trendline and the area around $2,100, characterizing repeated seller exhaustion since August.\n\nThe next support is seen at $1,500, with the past week's high of $2,523 a level to beat for the bulls.\n\nUPDATE (March 10, 08:32 UTC): Rewrites headline to add end of bull run.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/ether-s-20-plunge-shatters-bull-market-trendline-created-after-2022-terra-crash",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Terra"
+            ],
+            "organizations": [
+                "TradingView",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "UST"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ether's 20% price plunge, breakdown of a bullish trendline, weakening demand, and potential for further losses to $1,500, indicating a negative market impact."
+    }
+}

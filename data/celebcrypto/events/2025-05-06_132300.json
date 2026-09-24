@@ -1,0 +1,29 @@
+{
+    "title": "21Shares Launches ETP Linked to Crypto.com's Cronos",
+    "summary": "The product allows investors to add CRO exposure to their portfolios without handling crypto wallets or exchanges.",
+    "time": "2025-05-06T13:23:00",
+    "author": "Francisco Rodrigues",
+    "content": "Crypto asset manager 21Shares has launched a new exchange-traded product (ETP) offering investors regulated exposure to the native token of Cronos, a Layer 1 network developed by Crypto.com, for Web3 applications.\n\nThe 21Shares Cronos ETP, which trades under the ticker CRON, is listed on Euronext Paris and Euronext Amsterdam. It carries a 2.5% annual fee and provides exposure to CRO.\n\nThe product allows investors to add CRO exposure to their portfolios through brokers and banks, without handling crypto wallets or exchanges.\n\nThis is the latest addition to the Zurich-based firm’s growing list of crypto-linked ETPs, which already cover various cryptocurrencies. The Swiss asset manager has also been moving to expand its offering in the U.S. with a recent S-1 registration form for a SUI ETF.\n\nThe price of CRO is down around 1.4% for the day, in line with a broader cryptocurrency market movement.",
+    "url": "https://www.coindesk.com/markets/2025/05/06/21shares-launches-etp-linked-to-cryptocoms-cronos",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "21Shares",
+                "Crypto.com"
+            ],
+            "organizations": [
+                "Euronext Paris",
+                "Euronext Amsterdam"
+            ]
+        },
+        "cryptocurrencies": [
+            "CRO",
+            "CRON",
+            "SUI"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a new financial product launch which is typically positive, but notes that CRO price is down 1.4% in line with broader market movement, indicating neutral overall impact."
+    }
+}

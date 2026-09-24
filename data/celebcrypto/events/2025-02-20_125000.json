@@ -1,0 +1,33 @@
+{
+    "title": "U.S. Stablecoin Adoption Is Being Hindered by a Lack of Regulation, S&P Says",
+    "time": "2025-02-20T12:50:00",
+    "author": "Will Canny",
+    "summary": "Institutional use of these cryptocurrencies will increase once rules are in place, the report said.",
+    "content": "The absence of stablecoin regulation in the U.S. is one of the main hurdles to adoption, S&P Global Ratings said in a Wednesday report.\n\n\"The lack of regulation is one of the main impediments to stablecoin adoption in the U.S. and has prevented a broader institutional adoption of stablecoins,\" analysts led by Mohamed Damak wrote.\n\nS&P said it expects adoption to grow once regulation is in place.\n\nStablecoins are cryptocurrencies whose value is tied to another asset, such as the U.S. dollar or gold. They play a major role in cryptocurrency markets and are also used for to transfer money internationally.\n\nNew rules are coming. The Senate's Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act mandates federal regulation for stablecoins with a market cap of over $10 billion with the potential for state regulation if it aligns with federal rules. The House of Representatives STABLE Act calls for state regulation without any conditions.\n\nSome users are expected to move from unregulated to regulated stablecoins once a framework is in place, the report said, and this could alter the industry landscape.\n\n\"Stablecoins will play an increasingly important role in on-chain transactions,\" the authors wrote, protecting users' savings from \"local monetary instability in emerging markets,\" or to receive payments.\n\nWall Street bank JPMorgan (JPM) said Tether, which issues market leader USDT, could face challenges from proposed U.S. stablecoin regulations, in a report last week.\n\nRead more: Tether May Have to Sell Some Bitcoin to Comply With U.S. Stablecoin Rules: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/02/20/u-s-stablecoin-adoption-is-being-hindered-by-a-lack-of-regulation-s-and-p-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mohamed Damak"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "S&P Global Ratings",
+                "JPMorgan",
+                "Tether"
+            ],
+            "organizations": [
+                "Senate",
+                "House of Representatives"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "USDT"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses regulatory uncertainty and potential challenges for stablecoins, but also notes that regulation could eventually increase adoption, creating a mixed outlook."
+    }
+}

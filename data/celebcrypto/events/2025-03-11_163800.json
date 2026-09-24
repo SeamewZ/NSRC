@@ -1,0 +1,32 @@
+{
+    "title": "Ethereum L2 Starknet Seeks 'Bitcoin's DeFi Take-Off Moment' With BTC Wallet Xverse",
+    "summary": "The aim is to provide a Bitcoin DeFi experience using trust assumptions as the next big thing to zero-knowledge proofs until such a time that OP_CAT is adopted",
+    "time": "2025-03-11T16:38:00",
+    "author": "Jamie Crawley",
+    "content": "One of the foremost projects aiming to increase the speed of the Ethereum network is ramping up its work on the world's original blockchain: Bitcoin.\n\nEthereum layer-2 Starknet, in partnership with BTC wallet Xverse, is aiming to deliver a \"full DeFi experience to Bitcoin users.\"\n\nXverse said it will \"achieve Bitcoin's DeFi take-off moment,\" through integrating with Starknet in Q2 2025, in an emailed announcement on Tuesday.\n\nThe partnership with Xverse comes amid a period of increased research into Bitcoin scaling using Starknet.\n\nThe Starknet Foundation has published a new Bitcoin Roadmap, which described how Starknet would remain fully active on Ethereum, while \"becoming Bitcoin's execution layer,\" with the goal of scaling the network \"from 13 TPS to thousands.\"\n\nDevelopers have been increasingly exploring how to tap the security and deep reserves held in BTC to empower the broader DeFi and blockchain world. The challenge has been how to address Bitcoin's relative lack of programability compared to Ethereum and others.\n\nLayer 2s like Starknet aim to address this by acting as an execution layer, doing the heavy lifting of processing transactions, which are then ultimately given finality through settlement on Bitcoin.\n\nFor many observers, the missing piece is OP_CAT: a proposed implementation to the Bitcoin network that could unlock hitherto unseen programmability, which would be pivotal to the provision for DeFi.\n\nCrucially, OP_CAT could allow zero-knowledge proofs, a cryptographic method of proving the validity of statements without offering information that may compromise privacy.\n\nOP_CAT is not short of supporters, but its future as a Bitcoin improvement proposal (BIP) remains uncertain. However, Starknet and Xverse's plan is to make Bitcoin DeFi a reality even without it.\n\nXverse's aim is to provide a Bitcoin DeFi experience in its wallet using trust assumptions as the next big thing to zero-knowledge proofs until such a time that OP_CAT is adopted.\n\n“Obviously, the endgame is trustless DeFi on Bitcoin,” Xverse founder Ken Liao said in Tuesday's announcement. “This will still have ‘training wheels’ of some trust assumptions, but it is still hugely exciting to be delivering the most accurate preview so far of what intuitive DeFi on Bitcoin will look and feel like.\"",
+    "url": "https://www.coindesk.com/tech/2025/03/11/ethereum-l2-starknet-seeks-bitcoin-s-defi-take-off-moment-with-btc-wallet-xverse",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ken Liao"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Xverse"
+            ],
+            "organizations": [
+                "Starknet",
+                "Starknet Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership aims to deliver a full DeFi experience to Bitcoin users and scale Bitcoin from 13 TPS to thousands, indicating positive development and market expansion."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "IMF Says 'Efforts Will Continue' to Ensure El Salvador Doesn't Accumulate More BTC",
+    "summary": "El Salvador has kept purchasing bitcoin, but the IMF seems unfazed.",
+    "time": "2025-05-27T21:36:00",
+    "author": "Tom Carreras",
+    "content": "The International Monetary Fund (IMF) stated on Tuesday that \"efforts will continue\" to make sure that the total amount of bitcoin\nBTC\n$102,205.43\nheld by El Salvador's government does not change.\n\nBack in March, El Salvador reached an agreement with the IMF to receive a $3.5 billion loan package. Some of the conditions of that deal concerned bitcoin: for example, the cryptocurrency officially lost its status as legal tender, meaning that merchants no longer need to accept the currency on a mandatory basis.\n\nOne of the conditions of the package, according to the IMF, was the prohibition of \"voluntary accumulation of bitcoin by the public sector.\" In theory, that should mean that Bukele's government wouldn't be permitted to keep accumulating bitcoin if it wanted to keep complying with the loan program.\n\nNevertheless, El Salvador has kept purchasing more bitcoin in apparent contradiction with the terms of the deal. On March 4, when the conditions of the deal were made known, the Salvadoran government held 6,101.15 bitcoin in its official wallet. As of writing, that number has risen to 6,189.18 bitcoin, a sum worth approximately $678 million.\n\n\"No, it’s not stopping,\" Salvadoran President Nayib Bukele posted on X on March 4. \"If it didn’t stop when the world ostracized us and most 'bitcoiners' abandoned us, it won’t stop now, and it won’t stop in the future.\"\n\nThe IMF didn't seem to acknowledge any contradiction or friction in its note. In fact, it stated that program performance had been strong and that key fiscal and reserve targets had been met.\n\n\"IMF staff thank the Salvadoran authorities for the excellent collaboration and constructive discussions,\" the report said.",
+    "url": "https://www.coindesk.com/policy/2025/05/27/imf-says-efforts-will-continue-to-ensure-el-salvador-doesn-t-accumulate-more-btc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nayib Bukele"
+            ],
+            "positions": [
+                "Salvadoran President"
+            ],
+            "companies": [],
+            "organizations": [
+                "International Monetary Fund",
+                "IMF"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The IMF expresses concern about bitcoin accumulation while El Salvador continues purchasing, creating mixed signals with no clear directional market impact."
+    }
+}

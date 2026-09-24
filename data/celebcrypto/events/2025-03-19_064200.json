@@ -1,0 +1,35 @@
+{
+    "title": "North Dakota Senate Passes Crypto ATM Bill to Create Licensing Regime",
+    "summary": "North Dakota House Bill 1447 mandates that virtual currency kiosk operators obtain money transmitter licenses, utilize blockchain analytics to detect fraud, and limit individual daily transactions to $2,000.",
+    "time": "2025-03-19T06:42:00",
+    "author": "Sam Reynolds",
+    "content": "The U.S. State of North Dakota is close to creating a licensing regime for crypto ATMs after its Senate passed a bill that provides a regulatory framework for the industry.\n\nOriginally introduced on Jan. 15, House Bill 1447 aims to protect consumers from scams involving crypto ATMs by mandating operators to issue on-screen fraud warnings to users, obtain money transmitter licenses, use blockchain analytics software to detect and combat fraud, as well as submit quarterly reports on kiosk locations and transactions.\n\nAdditionally, operators must appoint a compliance officer.\n\nA report by TRM Labs found that crypto ATMs have facilitated at least $160 million in illicit transactions since 2019, CoinDesk previously reported, with law enforcement worldwide viewing them as a major money laundering and scam risk.\n\nFTC data also shows a nearly tenfold rise in bitcoin ATM scam losses since 2020.\n\nIn the United Kingdom, the Financial Conduct Authority, the country's markets regulator, has been increasing scrutiny on the sector with crackdowns on unregistered operators.\n\nIn 2024, the FCA charged Olumide Osunkoya for running illegal crypto ATMs that processed $3.4 million, marking the first such prosecution in the country. Osunkoya was recently sentenced to four years for his role in the illegal crypto ATM network, and was also convicted for forgery, using false identity documents, and possessing criminal property.\n\nWith rising fraud and regulatory scrutiny, the number of crypto ATMs are not growing despite BTC's price growth in 2024. Market data from CoinATMRadar shows that the number of crypto ATMs in the U.S. has been roughly flat since 2022.",
+    "url": "https://www.coindesk.com/policy/2025/03/19/north-dakota-senate-passes-crypto-atm-bill-to-create-licensing-regime",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Olumide Osunkoya"
+            ],
+            "positions": [
+                "compliance officer"
+            ],
+            "companies": [
+                "TRM Labs",
+                "CoinDesk",
+                "CoinATMRadar"
+            ],
+            "organizations": [
+                "North Dakota Senate",
+                "FTC",
+                "Financial Conduct Authority",
+                "FCA"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes increased regulatory scrutiny, fraud warnings, transaction limits, and declining crypto ATM growth due to rising fraud concerns, all of which indicate negative pressure on the cryptocurrency market."
+    }
+}

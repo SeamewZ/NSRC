@@ -1,0 +1,35 @@
+{
+    "title": "Tron's T3 Financial Crime Fighting Unit Hits $100M in Frozen USDT",
+    "summary": "The unit is a joint venture between Tron, TRM Labs and Tether.",
+    "time": "2025-01-02T12:00:00",
+    "author": "Sam Reynolds",
+    "content": "The T3 Financial Crime Unit, a collaboration between the Tron blockchain, stablecoin issuer Tether and blockchain intelligence company TRM Labs, said it has frozen a total of 100 million of Tether's USDT used by illicit actors since the unit was formed in September.\n\nThe venture analyzed millions of transactions spanning five continents, monitoring a total volume in excess of 3 billion USDT, the largest stablecoin, T3 said in a statement.\n\nT3 involves TRM Labs using its blockchain intelligence and monitoring tools to help Tron and Tether identify and freeze USDT linked to illicit activities. There's nearly $60 billion in USDT issued on the Tron blockchain, the largest issuance behind Ethereum, which has just over $75 billion.\n\nMoney laundering as a service — where bad actors hire entities on the dark web to clean illict funds — is the largest source of frozen funds, said Chris Janczewski, head of global investigations at TRM Labs. Investment scams, illicit drugs, terrorism financing, blackmail scams, hacks, exploits and even violent crime have also been targets, he said in an interview with CoinDesk.\n\n\"Blockchain is a bad place to do money laundering because it's so transparent. We can confirm victim reports on a public blockchain and even identify other victims, a level of insight that just isn't possible with traditional finance,\" Janczewski said.\n\nAs much as 3 million of the frozen USDT had ties to North Korea, which has been active in trying to infiltrate crypto projects in order to fundraise for the country's leadership regime, T3 said. The U.S. Department of Treasury announced in December that it had shut down a North Korea money laundering network.\n\n\"Ultimately, we hope that through our efforts, not only will victims recover their funds, but bad actors will think twice before engaging in illicit activity on blockchains like Tron,\" Janczewski said.",
+    "url": "https://www.coindesk.com/policy/2025/01/02/tron-s-t3-financial-crime-fighting-unit-hits-usd100m-in-frozen-usdt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Chris Janczewski"
+            ],
+            "positions": [
+                "head of global investigations at TRM Labs"
+            ],
+            "companies": [
+                "Tron",
+                "Tether",
+                "TRM Labs",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "T3 Financial Crime Unit",
+                "U.S. Department of Treasury",
+                "North Korea"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights successful efforts to combat financial crime and freeze illicit funds, which enhances market confidence in cryptocurrency security and regulatory compliance."
+    }
+}

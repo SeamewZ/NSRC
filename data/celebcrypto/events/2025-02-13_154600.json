@@ -1,0 +1,42 @@
+{
+    "title": "Peter Thiel-Backed Plasma Raises $20M to Develop Bitcoin-Based Network for Stablecoins",
+    "time": "2025-02-13T15:46:00",
+    "author": "Krisztian Sandor",
+    "summary": "The project, which also claims Tether's Paolo Ardoino as an investor, aims to enhance stablecoin adoption through a Bitcoin sidechain that allows zero-fee USDT transactions.",
+    "content": "Plasma, a crypto startup building a Bitcoin-based blockchain designed specifically for stablecoins, raised $20 million to further its development, the company said on Thursday.\n\nThe fundraising round was led by Framework Ventures and will support Plasma’s testnet and mainnet launches, as well as its expansion into remittances, payments and DeFi applications, the team said.\n\nThe investment followed a $4 million round with early backers including Bitfinex, stablecoin issuer Tether's CEO Paolo Ardoino, venture capitalist Peter Thiel and prominent crypto traders Cobie and Zaheer Ebtikar, also known as Split Capital.\n\nStablecoins have become a dominant force in crypto surpassing $220 billion in supply, and are increasingly used for everyday payments and savings. While Bitcoin is the longest-running blockchain, most of the stablecoin activity happens on newer chains like Ethereum, Tron and Solana.\n\nPlasma is designed to be a sidechain on the Bitcoin blockchain with full compatibility with the Ethereum Virtual Machine (EVM), which underpins a large part of decentralized finance activity. The team said they aim to address challenges faced by stablecoins on existing blockchains, such as high fees and scalability limits by leveraging Bitcoin’s security and offering zero-fee USDT transactions.\n\n\"Stablecoins are the clear winner in blockchain adoption, yet they’re treated as second-class citizens on current blockchains,\" Paul Faecks, founder and CEO of Plasma, said in a statement. \"By leveraging Bitcoin as a foundation, zero-fee USDT transfers, alongside a purpose-built ecosystem and infrastructure for stablecoins with deep liquidity, Plasma creates the most secure, scalable, and efficient blockchain for stablecoins on the market.”",
+    "url": "https://www.coindesk.com/business/2025/02/13/plasma-raises-usd20m-to-develop-bitcoin-based-network-for-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Peter Thiel",
+                "Paolo Ardoino",
+                "Cobie",
+                "Zaheer Ebtikar",
+                "Paul Faecks"
+            ],
+            "positions": [
+                "CEO",
+                "founder",
+                "venture capitalist",
+                "prominent crypto traders"
+            ],
+            "companies": [
+                "Plasma",
+                "Framework Ventures",
+                "Bitfinex",
+                "Tether",
+                "Split Capital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "USDT",
+            "Ethereum",
+            "Tron",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $20 million funding round for a project that aims to enhance stablecoin adoption and solve existing blockchain challenges, indicating market confidence and positive development."
+    }
+}

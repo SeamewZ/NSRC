@@ -1,0 +1,32 @@
+{
+    "title": "Billions in BTC, ETH, XRP Flowed to Exchanges After Trump’s Reserve Plans",
+    "time": "2025-03-05T11:02:00",
+    "author": "Shaurya Malwa",
+    "summary": "Inflows to exchanges from funds and traders usually imply an intention to sell, as large token holdings are usually stored in cold (or offline) wallets.",
+    "content": "Billions in XRP tokens and thousands of bitcoin were sent to exchanges shortly after U.S. President Donald Trump revealed plans to include the assets as part of a U.S. crypto strategic reserve, one that may have contributed to their rapid price reversals after a surge.\n\nHourly inflows reached up to 193 million XRP after Trump’s message with most of the flows coming from whales (or influential holders of any asset) executing transactions of 1 million or more XRP, on-chain analysis firm CryptoQuant said in a Tuesday report.\n\nOn the other hand, the hourly amount of bitcoin\nBTC\n$103,874.74\nflowing into exchanges increased from 500-1,000 to a high of 6,739 BTC a day after the announcement. Meanwhile, ETH inflows into exchanges spiked to almost 300,000 in an hour.\n\nInflows to exchanges from funds and traders usually imply an intention to sell, as large token holdings are usually stored in cold (or offline) wallets\n\nMeanwhile, CryptoQuant analysts noted that the rise and sudden fall of cryptocurrencies on Monday and Tuesday indicated that real spot demand continued in contraction territory.\n\n“Bitcoin apparent demand growth has continued to decline after a period of acceleration in November–December 2024 spurred by the U.S. election results and is now in contraction territory for the first time since September 2024,” analysts said. “Unless Bitcoin demand starts to increase again, sustaining a rally in crypto prices will remain challenging.”\n\nApparent demand is an on-chain metric used to gauge the balance between Bitcoin's production (newly minted coins through mining) and changes in its inventory (coins that have been inactive for over a year). Retail accumulation has been down since early November, as CoinDesk previously reported.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/billions-in-btc-eth-xrp-flowed-to-exchanges-after-trump-s-reserve-plans",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "CryptoQuant",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "XRP",
+            "ETH",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes large inflows to exchanges implying selling intention, price reversals after a surge, and declining demand growth in contraction territory."
+    }
+}

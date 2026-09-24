@@ -1,0 +1,32 @@
+{
+    "title": "Crypto-to-Fiat App P2P.me Raises $2M from Multicoin and Coinbase Ventures",
+    "summary": "The peer-to-peer app is bringing stablecoin payments into the QR code economy.",
+    "time": "2025-04-04T16:24:00",
+    "author": "Danny Nelson",
+    "content": "Bitcoin's original promise of \"peer-to-peer electronic cash\" hasn't exactly developed in the way Satoshi intended. More people than ever are eager to pay in crypto, while most vendors want nothing but fiat.\n\nWhile the mismatch has plenty of workarounds in countries with a strong banking and credit card culture, it's a real problem in places with alternative electronic payment rails, like QR codes, says pseudonymous crypto developer Sheldon Cooper. How can one scan a fiat-only code and pay in stablecoins?\n\nCooper's claimed solution, P2P.me, does it without ever touching the regular on-and-off ramps. Instead, this blockchain-based service relies on a network of middlemen willing to accept USDC from, say, Alice and send the equivalent fiat along to Bob. The whole process takes about 90 seconds, he said.\n\nThere are no traditional identity checks, either. P2P.me vets its users with zero-knowledge proofs that checks for a real-seeming social media presence and maybe even for a government ID. But it doesn't store this personal data as would most financial institutions from banks on down to Binance.\n\n\"What we thought about is, 'How do we decentralize this? How do we do on and off rams in a decentralized way,'\" said Cooper. \"The number one concern is privacy and self custody. All these CEXes give data to the government.\"\n\nP2P.me's quirky blend of permissionless markets and privacy tech has processed $1.6 million in payments from around 1,100 users, mostly in Indonesia, Nigeria and Vietnam. That modest amount, quickly growing, was enough to get venture capitalists' interest: Multicoin Capital and Coinbase Ventures recently invested $2 million P2P.me's seed round.\n\nThe money's already helped P2P.me scale its team to 20 people ahead of a planned push into Latin America, Cooper said. He sees local communities that struggle to navigate established financial rails as key adopters. So too are crypto-savvy tourists who go places where their credit cards don't work, but their cell phones do.\n\nBuilt on Base, the open protocol plans to launch a token in the next 12 months that will shift control to the community, according to Cooper.\n\n\"The strategic idea of the token is to scale globally, to break the network effects of the centralized exchange with P2P,\" he said.",
+    "url": "https://www.coindesk.com/tech/2025/04/04/crypto-to-fiat-app-p2p-me-raises-usd2m-from-multicoin-and-coinbase-ventures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Satoshi",
+                "Sheldon Cooper"
+            ],
+            "positions": [
+                "pseudonymous crypto developer"
+            ],
+            "companies": [
+                "P2P.me",
+                "Multicoin Capital",
+                "Coinbase Ventures",
+                "Binance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a $2 million investment from major crypto venture firms and describes growing user adoption and expansion plans, indicating market confidence and positive development."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Coinbase to Launch 24/7 Bitcoin and Ethereum Futures Trading in the U.S.",
+    "time": "2025-03-10T15:50:00",
+    "author": "Helene Braun",
+    "summary": "The exchange is also working on launching perpetual-style futures in the U.S. with long-dated expirations.",
+    "content": "Coinbase Derivatives is looking to launch round-the-clock futures trading of bitcoin\nBTC\n$104,254.35\nand ether\nETH\n$3,495.36\n, the CFTC-regulated futures arm of the crypto exchange announced on Monday.\n\nThe exchange plans to offer both large and nano-sized contracts, it said in a press release, for both retail and institutional traders which will be available 24/7 in an effort to bridge the gap between fixed trading hours and the round-the-clock nature of the crypto market, it said.\n\nThis gap, Coinbase said, \"forces traders to sit on the sidelines during key market moves, limiting their ability to react in real time.\"\n\nThe exchange is also working on launching perpetual-style futures in the U.S. with long dated expirations.\n\nAccording to Coinbase, derivatives account for 75% of trading volume globally, making them a \"cornerstone\" of crypto markets. As a result of that, there has been strong demand from crypto-native U.S. clients for regulated futures.\n\nThis launch, which is in partnership with Nodal Clear for CFTC-regulated clearing, represents the first 24/7-available crypto futures in the U.S.\n\nCME Group, the largest traditional derivatives exchange in the U.S., has been offering several different crypto futures, however, those are only available to trade during U.S. trading hours.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/coinbase-to-launch-24-7-bitcoin-and-ethereum-futures-trading-in-the-us",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Coinbase Derivatives",
+                "Nodal Clear",
+                "CME Group"
+            ],
+            "organizations": [
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of 24/7 regulated futures trading in the U.S. addresses strong client demand and bridges a key market gap, which is likely to increase market participation and liquidity."
+    }
+}

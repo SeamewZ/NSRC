@@ -1,0 +1,29 @@
+{
+    "title": "Wisconsin Sells Entire $350M Spot Bitcoin ETF Stake",
+    "summary": "The move came after the state investment board doubled its exposure to spot bitcoin ETFs late last year as markets fell.",
+    "time": "2025-05-16T12:35:00",
+    "author": "Francisco Rodrigues",
+    "content": "The State of Wisconsin Investment Board (SWIB), one of the first U.S. state pension funds to invest in a spot bitcoin\nBTC\n$101,819.00\nexchange-traded fund, exited its position entirely in the first quarter as the price of the largest cryptocurrency fell about 12%.\n\nAt end of 2024, the board held more than 6 million shares in BlackRock’s iShares Bitcoin Trust (IBIT), a position valued at around $350 million based on recent prices. That stake is now gone, according to its latest 13F filing.\n\nThe offload occurred less than a year after Wisconsin made headlines as an early institutional adopter of the newly approved crypto investment vehicles and stands in contrast to the board’s activity just months earlier. In late 2024, SWIB more than doubled its exposure to bitcoin by raising its IBIT holdings from about 2.9 million to over 6 million shares.\n\nThe board added indirect exposure to bitcoin via Strategy (MSTR) shares. In the first quarter it added 26,571 MSTR shares, worth around $10.5 million.\n\nEstablished in 1951, SWIB manages over $160 billion in assets, serving Wisconsin state employees through the Wisconsin Retirement System and other funds.\n\nIn contrast, Mubadala Investments, Abu Dhabi’s sovereign wealth fund, increased its stake in BlackRock’s IBIT in the first quarter of the year. The fund, its latest 13F shows, added in a little over 490,000 shares valued at around $29 million.\n\nBitcoin has risen 27% to trade near $103,750 since the end of the quarter.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/wisconsin-sells-entire-350m-spot-bitcoin-etf-stake",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Strategy (MSTR)"
+            ],
+            "organizations": [
+                "State of Wisconsin Investment Board (SWIB)",
+                "Wisconsin Retirement System",
+                "Mubadala Investments"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The State of Wisconsin Investment Board sold its entire $350 million Bitcoin ETF position as Bitcoin prices fell 12%, representing significant institutional selling pressure."
+    }
+}

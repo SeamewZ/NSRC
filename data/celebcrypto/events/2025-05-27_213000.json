@@ -1,0 +1,25 @@
+{
+    "title": "The Solana Network Is Now Live on MetaMask",
+    "summary": "It's the first time that MetaMask integrates a non-EVM network.",
+    "time": "2025-05-27T21:30:00",
+    "author": "Tom Carreras",
+    "content": "Users of Solana may now access the network through a MetaMask wallet.\n\nMetaMask announced on Tuesday that its Solana integration was live, meaning that users can now transact on the second largest smart-contract platform and interact with Solana-based applications through the wallet.\n\n\"Let’s be honest. Managing wallets across MetaMask and Solana used to be a bit of an ordeal. But no more,\" the blog post said. \"With the latest version of MetaMask Extension, you can use Solana natively. Right alongside your Ethereum accounts, all in one interface.\"\n\nThe integration is currently only on desktop, but is slated to go live on the MetaMask mobile app in the coming weeks, the post said.\n\nMetaMask is the Ethereum network's most-used browser wallet, with over 100 million annual users.\n\nWhile the wallet supported other networks already, Solana is the first non-EVM network (meaning the first network that doesn't use Ethereum's computation engine) to be integrated. The blog post stated that other non-EVM networks would soon follow.",
+    "url": "https://www.coindesk.com/tech/2025/05/27/the-solana-network-is-now-live-on-metamask",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MetaMask",
+                "Solana"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of Solana into MetaMask, the most-used Ethereum wallet with over 100 million users, expands accessibility and interoperability for Solana, indicating positive market adoption and confidence."
+    }
+}

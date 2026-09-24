@@ -1,0 +1,32 @@
+{
+    "title": "XRP Spot ETF in the U.S. Moves Closer to Reality",
+    "summary": "The SEC is evaluating whether a proposed XRP ETF by WisdomTree offers enough investor protection and safeguards against manipulation.",
+    "time": "2025-05-28T08:06:00",
+    "author": "Shaurya Malwa",
+    "content": "The U.S. Securities and Exchange Commission (SEC) has formally initiated a review of the WisdomTree XRP Trust, a proposed spot exchange-traded fund (ETF) that would provide investors with exposure to XRP\nXRP\n$2.2533\n.\n\nFiled by the Cboe BZX Exchange, the application marks the first formal SEC review of a U.S.-based spot XRP ETF. If approved, it would be the first spot XRP ETF in the U.S. — a milestone that could open the door for similar products across other crypto assets.\n\nThe product would track XRP’s market price via the CME CF Ripple-Dollar Reference Rate, allowing investors to gain XRP exposure through traditional brokerage accounts, bypassing the need for private keys or self-custody.\n\nThe SEC published its notice under Release No. 34-103124, initiating a more thorough evaluation of the application. The Commission now has up to 240 days to approve or reject the filing.\n\nIn the meantime, the agency is soliciting public comments on whether the ETF’s design adequately addresses concerns related to market manipulation and investor protection.\n\nMeanwhile, in a letter submitted to the SEC’s crypto taskforce this week, Ripple’s Chief Legal Officer, Stuart Alderoty, reiterated that XRP should not be treated as a security in and of itself.\n\n\"Rules must be clear not just for issuers, but for all market participants who could be unwittingly classified as securities exchanges, brokers, dealers, or issuers,\" Alderoty wrote, adding that overreliance on vague terms like “fully functional” or “decentralized” creates more regulatory confusion than clarity.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/xrp-spot-etf-in-the-us-moves-closer-to-reality",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Stuart Alderoty"
+            ],
+            "positions": [
+                "Chief Legal Officer"
+            ],
+            "companies": [
+                "WisdomTree",
+                "Ripple",
+                "Cboe BZX Exchange"
+            ],
+            "organizations": [
+                "SEC",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's formal review of a spot XRP ETF represents a significant regulatory milestone that could open doors for similar crypto products and increase institutional accessibility."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Libra Token’s Co-Creator Claimed He Paid Argentinian President Milei’s Sister",
+    "time": "2025-02-18T20:08:00",
+    "author": "Danny Nelson",
+    "summary": "It was unclear if any money was exchanged between Davis and Milei's inner circle in advance of Libra's launch.",
+    "content": "A key player behind the Libra token bragged about buying access to Argentine President Javier Milei's inner circle months before the memecoin's scandalous launch and crash.\n\nIn text messages reviewed by CoinDesk, Hayden Davis, CEO of Kelsier Ventures, claimed he could \"control\" Milei because of payments he had been making to Karina Milei, a powerful figure in Milei's government, not to mention the president's sister.\n\n\"I control that n****,\" Davis claimed in text messages from mid-December, adding, \"I send $$ to his sister and he signs whatever I say and does what I want.\"\n\nCoinDesk obtained the text messages from a source close to the situation who asked not to be identified. Following the publication of this article, Michael Padovano, a spokesperson for Davis, told CoinDesk that Davis does not recall sending such a message, and has no record on his phone of sending it.\n\nThe statement continued as follows: \"Recent media reports claiming I paid President Javier Milei or his sister, Karina Milei, to launch the Libra memecoin are completely false. I never made any payments to them, nor did they request any. Their only concern was ensuring proceeds from Libra would benefit Argentina’s people and economy.\"\n\nThe statement added: \"This is nothing more than a politically motivated attack on President Milei.\"\n\nKarina Milei, a key figure in her brother's government, currently holds the post of General Secretary of the Presidency of the Argentine Nation. Her office did not respond to a request for comment.\n\nIt was unclear if any money was exchanged between Davis and Milei's inner circle in advance of Libra's launch.\n\nDavis' December claims add a new dimension to an anti-corruption probe that Argentina's presidential office has opened into Javier Milei, who, on Feb. 15, brought attention to the doomed Libra crypto as a novel way to fund small businesses in that country.\n\nBut the biggest winner from the Solana-based memecoin's launch was Davis and Kelsier Ventures. Wallets controlled by the entities netted over $100 million in Libra's early hours, when it soared to $5 and then crashed over 95%, wiping out millions of dollars of speculative investments.\n\nOpposition leaders in Argentina have threatened to call for an impeachment trial over the incident, which the local press has coined, \"criptogate.\" The scandal is weighing on Argentina's stock market and pushed Milei into \"damage control,\" said one observer of the country's crypto space.\n\nIn the December text messages, Davis claimed he could get Milei to promote ventures on social media. Milei's tweet about Libra two months later fueled its rise. When he deleted the tweet after just five hours – and after on-chain sleuths had discovered evidence of shady dealings – Libra's price had already crashed.\n\nUPDATE (Feb. 18, 2025, 23:55 UTC): This article has been updated with comment from Hayden Davis. He denies making payments to President Milei or his sister.",
+    "url": "https://www.coindesk.com/business/2025/02/18/libra-token-s-co-creator-bragged-of-sending-money-to-argentine-president-milei-s-sister",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hayden Davis",
+                "Javier Milei",
+                "Karina Milei",
+                "Michael Padovano"
+            ],
+            "positions": [
+                "CEO of Kelsier Ventures",
+                "Argentine President",
+                "General Secretary of the Presidency of the Argentine Nation",
+                "spokesperson"
+            ],
+            "companies": [
+                "Kelsier Ventures",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Argentine presidential office",
+                "Opposition leaders in Argentina"
+            ]
+        },
+        "cryptocurrencies": [
+            "Libra"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a cryptocurrency scandal involving alleged corruption, a 95% price crash, millions in losses for investors, and negative market consequences including stock market pressure and impeachment threats."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Pump.fun Launches Revenue Sharing for Coin Creators in Push to Incentivize Long-Term Activity",
+    "time": "2025-05-13T06:22:00",
+    "author": "Shaurya Malwa",
+    "summary": "Creators will now earn 0.05% of trading volume in SOL from PumpSwap trades, shifting incentives away from early dumps and toward sustainable growth.",
+    "content": "Solana token issuance platform Pump.fun is rolling out a new revenue-sharing model that lets coin creators earn a cut of trading fees — a move aimed at rewiring developer incentives and supporting longer-term community building.\n\nPump said late Monday that 50% of PumpSwap revenue will now be shared directly with creators, earning 5 basis points (0.05%) of all trading volume on their coin.\n\nThe feature applies to newly created tokens, coins still on the platform’s bonding curve, and even those that have already \"graduated\" to the PumpSwap trading pool.\n\nThat means for every $10 million in volume, creators earn $5,000 in SOL — an immediate on-chain payout that can be claimed anytime through Pump.fun’s creator dashboard.\n\n“Our #1 goal is to grow the trenches. always has been, always will be. When the market grows, more people join, communities get bigger and stronger, and everyone wins,” wrote founder Alon Cohen on X.\n\nThe feature shifts how creator incentives are handled across the memecoin ecosystem. Until now, most coin developers, especially in the low-barrier Solana memecoin ecosystem, had only one real way to profit: buy their own coin at launch prices and sell into retail demand.\n\nBut that has led to pump-and-dump behavior, community rug fears and millions of low-effort tokens launched that may have siphoned hundreds of millions from investors and trades (wildly changing market dynamics from past years).\n\nBy giving developers a recurring source of income based on trading activity, the platform hopes to foster more diverse project types, such as utility tokens, creative experiments, and even media or live-stream-based communities.\n\n“Because coin devs can only benefit from their coin by selling AND because they’re the first buyers at the lowest price, the incentives are there for them to sell on everyone else,” Cohen said. “Doxxed devs who try something new aren’t really a thing anymore because it’s instantly assumed that they’re malicious.”\n\n“This simply isn’t productive or sustainable,” he said.\n\nPump has emerged as one of the biggest crypto application success stories since its late 2023 launch, with tens of thousands of tokens issued daily and coins such as dogwifhat (WIF) zooming to billions of dollars in market cap.",
+    "url": "https://www.coindesk.com/markets/2025/05/13/pumpfun-launches-revenue-sharing-for-coin-creators-in-push-to-incentivize-long-term-activity",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alon Cohen"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Pump.fun"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "dogwifhat",
+            "WIF"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The revenue sharing model aims to reduce pump-and-dump behavior and incentivize long-term sustainable growth in the memecoin ecosystem, which should increase market confidence."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Crypto Winter Appears to Have Arrived With Bitcoin, Top 50 Tokens Falling Into Bear Market Territory: Coinbase Institutional",
+    "summary": "Traditional metrics for bear markets may not fully capture shifts in investor sentiment and market structure in the crypto space.",
+    "time": "2025-04-16T08:46:00",
+    "author": "Omkar Godbole",
+    "content": "The crypto bull run may have ended, with the market poised for a winter characterized by prolonged losses and stagnation, according to Coinbase's institutional arm.\n\n\"The 200DMA model on bitcoin does suggest that the token’s recent steep decline qualifies this as a bear market cycle starting in late March. But the same exercise performed on the COIN50 index (which includes the top 50 tokens by market capitalization) shows the asset class as a whole has been unequivocally trading in bear market territory since the end of February,\" David Duong, global head of research at Coinbase Institutional, said in a note published Monday.\n\nBitcoin slipped below its 200-day simple moving average (SMA) on March 9 and has since established a foothold below the same in a sign of a long-term bearish shift in momentum. The 200-day SMA is widely tracked to gauge long-term trends, with persistent moves above the same, representing a bull market and vice versa.\n\nDuong noted this observation while addressing the challenges of identifying a crypto bear market, where 20% or more corrections are routine. In contrast, a 20% decline is typically used to define bear markets in stock markets.\n\nThe report argued that the arbitrary 20% often fails to account for a dent in investor sentiment and resulting portfolio adjustments spurred by smaller, more intense sell-offs.\n\n\"We’ve seen in the past that sentiment-driven declines can often trigger defensive portfolio adjustments, despite not meeting the arbitrary 20% threshold. In other words, we believe that bear markets fundamentally represent regime shifts in market structure – characterized by deteriorating fundamentals and shrinking liquidity – rather than just their percentage declines,\" Duong noted.\n\nIn addition to the 200-day SMA, Duong highlighted bitcoin's risk-adjusted performance measured in standard deviations (z-score) relative to the average performance over the previous 365 days as another effective method for identifying crypto bear markets.\n\n\"Our [z-score] model indicates that the most recent bull cycle ended in late February. But it has since classified all subsequent activity as \"neutral,\" highlighting its potential lag in rapidly changing market dynamics,\" Duong said, calling for a defensive stance on risk asses for the time being.\n\nThe impending winter may be more brutal for alternative cryptocurrencies considering the slowdown in the venture capital (VC) funding.\n\nWhile BTC set new highs early this year, well above the 2021 top of $70K, the bullish trend failed to inspire more risk taking in the VC space, leaving the overall funding 50%-60% below 2021-22 levels.\n\nDuong said that the crypto market \"may find a floor in mid-to-late 2Q25 – setting up a better 3Q25.\"",
+    "url": "https://www.coindesk.com/markets/2025/04/16/crypto-winter-appears-to-have-arrived-with-bitcoin-top-50-tokens-falling-into-bear-market-territory-coinbase-institutional",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Duong"
+            ],
+            "positions": [
+                "global head of research"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Coinbase Institutional"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states that Bitcoin and top 50 tokens have entered bear market territory with prolonged losses and deteriorating market fundamentals."
+    }
+}

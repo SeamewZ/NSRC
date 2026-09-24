@@ -1,0 +1,32 @@
+{
+    "title": "Mastercard Says It Has Moved Beyond Experimentation in Crypto, Focused on 'Real Solutions'",
+    "time": "2025-02-18T15:59:00",
+    "author": "Helene Braun",
+    "summary": "“What is stopping [crypto] from going mainstream is really that consumers need to be able to find each other using what they already know,” Mastercard’s head of crypto and blockchain, Raj Dhamodharan told CoinDesk.",
+    "content": "Traditional finance firms that have adopted crypto are moving past the experimentation phase and are actively working on real-world solutions, Mastercard’s head of crypto and blockchain, Raj Dhamodharan, told CoinDesk.\n\n“Many of us in the industry are moving beyond experimentation; it’s actually real solutions,” he said, noting that Mastercard has already enabled stablecoin payments for financial institutions. Those institutions can choose to settle transactions using stablecoins, reflecting a broader trend in crypto adoption.\n\nLast week, the payments giant announced a partnership with crypto compliance firm Notabene, which will integrate Mastercard’s Crypto Credential into its SafeTransact platform to make digital asset transactions more secure and user-friendly.\n\nThe Crypto Credential system continues to be a focus of Mastercard’s efforts to make crypto more mainstream. It allows users to send funds using familiar identifiers like email addresses rather than complex wallet addresses while ensuring compliance with regulatory standards. The system also helps prevent misdirected transactions by verifying whether a recipient’s wallet can receive a specific asset.\n\n“What is stopping [crypto] from going mainstream is really that consumers need to be able to find each other using what they already know,” Dhamodharan said.\n\nMastercard’s goal, according to Dhamodharan, is to be a connector between traditional finance and blockchain networks, ensuring regulatory compliance while enabling new business models. The company plans to announce additional partnerships and use cases in 2025, reinforcing its commitment to integrating crypto into global payments.\n\n“As an industry as a whole, we need to be very open to making [crypto] available as broadly as possible,” he said.\n\nPreviously, the payments giant partnered with several crypto-native companies, including Binance. The two parted ways in August 2023 after Binance faced a series of legal issues in the U.S. Mastercard re-allowed users to purchase crypto on the exchange again a year later.\n\n“Binance is a great partner of ours,” Dhamodharan said. “We continue to partner with them in a number of new ways where we can help them with on-ramp and off-ramp. Those are the continuing conversations.”\n\nDhamodharan is also optimistic about the future of tokenization, which he said will require new business models to feed the growing demand for tokenization real-world assets by companies like BlackRock and Franklin Templeton.\n\n“If there is more clarity over time in terms of how deposits can be represented in some form on the public chain, from a regulatory standpoint, I think this can even go to the next level in terms of how it can scale,” he said.\n\nIn 2025, Mastercard’s focus lies on the on-ramp/off-ramp between crypto and the banking world, while making that process as smooth and safe as possible as well as expanding features and functions of its Crypto Credential product. The third focus is stablecoins, the company said.\n\n“We think the future is going to be a world of both deposits because that's where the money is, and that's where people and businesses hold money and stablecoins, which can move on-chain easily and get settled easily.”\n\nRead more: Mastercard and JPMorgan Link Up to Bring Cross-Border Payments on the Blockchain",
+    "url": "https://www.coindesk.com/business/2025/02/18/mastercard-says-it-has-moved-beyond-experimentation-in-crypto-focused-on-real-solutions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Raj Dhamodharan"
+            ],
+            "positions": [
+                "head of crypto and blockchain"
+            ],
+            "companies": [
+                "Mastercard",
+                "Notabene",
+                "Binance",
+                "BlackRock",
+                "Franklin Templeton",
+                "JPMorgan"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Mastercard's announcement of moving beyond crypto experimentation to real-world solutions, enabling stablecoin payments, expanding partnerships, and focusing on mainstream adoption indicates growing institutional confidence and infrastructure development."
+    }
+}

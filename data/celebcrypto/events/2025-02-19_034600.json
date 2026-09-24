@@ -1,0 +1,36 @@
+{
+    "title": "Crypto Has Moved Past FTX, Still Needs 24/7 Risk Management, Brevan Howard Digital CIO Says",
+    "time": "2025-02-19T03:46:00",
+    "author": "Omkar Godbole",
+    "summary": "Panelists discussed challenges and opportunities in crypto, including managing counterparty, credit and market risks 24/7.",
+    "content": "The crypto ecosystem has come a long way since the implosion of Sam Bankman Fried's FTX destroyed billions in investor wealth in 2023. However, the industry as a whole needs to more to become bulletproof, said TradFi experts at the \"Views From Wall Street to Crypto\" event held at Consensus Hong Kong on Wednesday.\n\n\"You have traditional players who have come into the space now, especially for us, most of our trading happens of exchange settlement, where you actually keep your assets on custodians while you are able to trade on exchanges,\" Gautam Sharma, CEO and CIO of Brevan Howard Digital said. \"So the technology has come far ahead in terms of the last 18 months since then, [but] there's more work to do.\"\n\nSharma stressed the need for 24/7 risk management, including market, counterparty, and credit risks.\n\nCounterparty risk refers to the possibility of one party involved in a transaction failing to meet its obligation, resulting in a loss to the other party. This type of risk is higher in crypto than in traditional finance, given the absence of intermediaries such as banks or clearing houses that ensure trust and settlements, and it is a cause of concern for both directional and non-directional arbitration players.\n\n\"When we do arbitrage, the counterparty risk is the most important one,\" Fabio Frontini, founder of Abraxas Capital Management, said, adding that credit risk is also very important.\n\nFrontini stressed the importance of simulating stress testing scenarios, referring to the perpetual futures market where users can lose the margin when stopped out on a trade, which is not the case in traditional markets. \"It [stress testing] can be very rewarding, when done properly,\" Frontini added.\n\nMike Kuehnel, CEO of the market-making firm Flow Traders, highlighted the need to make innovation transparent to win over investor confidence and ensure \"availability of data and moving liquidity without fragmentation around it.\"\n\n\"Getting the best price and giving you the possibility to transact whenever you want to is a key ingredient,\" Kuehnel added.\n\nLiquidity, or the ability of the market to absorb large orders at stable prices, emerged as a significant concern following the collapse of FTX and its sister concern, Alameda. While the order book depth has surely improved for major coins, fragmentation or distribution of liquidity across multiple DeFi platforms, blockchains and networks, remains a concern.\n\nCORRECTION (Feb. 19, 10:30 UTC): Corrects Sharma's first name to Gautam in first bullet point, company affiliation to Brevan Howard Digital throughout. An earlier version said he held his positions at the parent, Brevan Howard.",
+    "url": "https://www.coindesk.com/markets/2025/02/19/crypto-has-moved-past-ftx-but-still-needs-24-7-risk-management-brevan-howard-s-cio-believes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gautam Sharma",
+                "Sam Bankman Fried",
+                "Fabio Frontini",
+                "Mike Kuehnel"
+            ],
+            "positions": [
+                "CEO and CIO",
+                "founder",
+                "CEO"
+            ],
+            "companies": [
+                "Brevan Howard Digital",
+                "FTX",
+                "Alameda",
+                "Abraxas Capital Management",
+                "Flow Traders"
+            ],
+            "organizations": [
+                "Consensus Hong Kong"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses ongoing challenges and improvements in crypto risk management without indicating clear positive or negative market price direction."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Crypto Left Cold as Stocks Surge 3%; Bitcoin Slides Back to $78K",
+    "time": "2025-04-08T15:46:00",
+    "author": "Stephen Alpher",
+    "summary": "Frustrated bitcoin bulls might want to zoom out as stocks gain across the globe following the days-long tariff-induced rout.",
+    "content": "\"Decoupling\" is back, but not in the way bitcoin\nBTC\n$103,966.57\nbulls would like.\n\nAfter \"Black Monday\" never materialized in the U.S., stocks on Tuesday are flying higher, but bitcoin is headed in the opposite direction.\n\nRoughly two hours into the U.S. trading day, the Nasdaq is ahead 3% and the S&P 500 nearly that much. Bitcoin, however — after earlier pushing back above $80,000 — has retreated to just north of $78,000 and within sight of its panicky weekend low in the $75,000 area.\n\nThe stock bounce comes after days of historic losses set off by President Trump's sweeping tariff announcements last Wednesday evening. A couple of decent headlines are helping things along. Among them were a Trump social media posting of an imminent trade deal with South Korea and Treasury Secretary Scott Bessent projecting optimism about the U.S. position with respect to China.\n\nThe stock rally is global in nature, with Europe higher by 3% near the close of its trading day and Japan's Nikkei posting a 6% advance.\n\nThe easiest answer to a reason for the divergence would be to zoom out. In very rough terms, bitcoin is lower by about 9% from the time of the president's Wednesday afternoon tariff announcement. That's not far off from the Nasdaq's roughly 8% decline over the same time frame.\n\nZooming out even further finds bitcoin — while having retreated nearly 30% from its record hit in mid-January — remains ahead by about 14% since last November's election while the Nasdaq has declined by nearly 10%.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/crypto-left-cold-as-stocks-surge-3-bitcoin-slides-back-to-usd78k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "Treasury Secretary"
+            ],
+            "companies": [],
+            "organizations": [
+                "Nasdaq",
+                "S&P 500",
+                "Nikkei"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin is described as retreating to $78,000 after failing to hold above $80,000 and being down 9% from recent highs while stocks are rallying significantly."
+    }
+}

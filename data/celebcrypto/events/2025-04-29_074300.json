@@ -1,0 +1,32 @@
+{
+    "title": "DOJ Seeks 20-Year Sentence for Celsius Founder Alex Mashinsky",
+    "summary": "Federal prosecutors called Mashinsky the architect of a \"years-long campaign of lies and self-dealing\" that left customers with billions in losses.",
+    "time": "2025-04-29T07:43:00",
+    "author": "Sam Reynolds",
+    "content": "Alex Mashinsky, the founder and former CEO of collapsed crypto lender Celsius Network, faces the prospect of spending the next two decades behind bars if the U.S. Department of Justice's sentencing memo request is granted.\n\nIn the memo filed late Monday, the DOJ urged the court to impose a 20-year prison sentence, calling the crimes a “deliberate, calculated” fraud that caused nearly $7 billion in customer losses and left thousands financially devastated.\n\nMashinsky, who pleaded guilty in December to misrepresenting the safety of customer deposits and manipulating Celsius's CEL token, “refuses to accept responsibility” for his crimes and continues to shift blame to regulators, market conditions and even his victims, prosecutors said.\n\n“Mashinsky’s crimes were not the product of negligence, naivete, or bad luck,” they wrote. “They were the result of deliberate, calculated decisions to lie, deceive, and steal in pursuit of personal fortune.”\n\nAt its peak in 2021, Celsius managed more than $20 billion in customer crypto assets. Mashinsky aggressively marketed the platform as a safe alternative to banks, promising high yields and low risk.\n\nProsecutors said those promises were a sham: Celsius took uncollateralized loans, made risky trades and secretly used customer assets to manipulate the price of its CEL token — all while publicly assuring customers their funds were safe.\n\nMashinsky personally sold over $48 million worth of CEL at inflated prices, prosecutors said, even as he told customers he was \"HODLing\" alongside them. When Celsius collapsed into bankruptcy in July 2022, about $4.7 billion in customer funds were trapped.\n\nPost-bankruptcy, customers were left with a shortfall exceeding $1 billion. Adjusting for today's crypto prices post-2024's \"Trump-trade\" rally, prosecutors estimate the total loss is closer to $7 billion.\n\nProsecutors warned that anything less than a significant prison sentence would fail to reflect the gravity of Mashinsky’s conduct, undermine respect for the law, and send the wrong message to other crypto executives tempted to chase personal enrichment at the expense of their customers.\n\nJudge John G. Koeltl will sentence Mashinsky on May 8.",
+    "url": "https://www.coindesk.com/policy/2025/04/29/doj-seeks-20-year-sentence-for-celsius-founder-alex-mashinsky",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Mashinsky",
+                "Judge John G. Koeltl"
+            ],
+            "positions": [
+                "founder",
+                "former CEO"
+            ],
+            "companies": [
+                "Celsius Network"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "DOJ"
+            ]
+        },
+        "cryptocurrencies": [
+            "CEL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major fraud case involving billions in customer losses from a collapsed crypto lender, which undermines market confidence and highlights regulatory risks."
+    }
+}

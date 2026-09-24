@@ -1,0 +1,37 @@
+{
+    "title": "Major U.S. Banks Mull Jointly Launching Stablecoin: WSJ",
+    "time": "2025-05-23T08:48:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Such a stablecoin, potentially open to other banks, aims to improve transaction speeds and efficiency while fending off competition from crypto firms.",
+    "content": "Major U.S. banks are weighing launching a joint stablecoin to fend off crypto competition.\n\nFinancial heavyweights like JPMorgan Chase (JPM), Bank of America (BAC), Citigroup (C), and Wells Fargo (WFC), have held discussion on the subject, the Wall Street Journal reported, citing people familiar with the matter. The talks are still in early stages and could change, the report added.\n\nWithin the consortium are also payments ventures owned by these banking powerhouses, like Early Warning Services, which runs Zelle, and The Clearing House, which handles real-time payments.\n\nStablecoins are cryptocurrencies pegged to the value of another asset like a fiat currency or commodity, can settle transactions in a matter of seconds. Banks see potential in them to improve their operations, with international remittances currently taking days through the traditional system.\n\nOne idea floated in the consortium’s talks is a stablecoin model open to other banks beyond the core group. Regional banks have also explored similar paths, the WSJ adds, citing sources familiar with the discussions.\n\nThe push comes as Washington inches toward regulation. The Senate recently advanced the Guiding and Establishing National Innovation for U.S. Stablecoin (GENIUS) Act, which Senator Hagerty (R-Tenn) described as one that “establishes the first-ever pro-growth regulatory framework for payment stablecoins.”\n\nThe improved regulatory environment has seen crypto firms seek bank charters, further adding pressure to banks.\n\nSome of these large financial institutions have already made their move. Société Générale launched a euro-denominated stablecoin, EURCV, back in 2023 through its crypto arm SG Forge. It’s reportedly now looking to launch a U.S. dollar stablecoin as well.\n\nRead more: U.S. Stablecoin Bill Approval Could Trigger a Long-Term Crypto Bull Market: Bitwise",
+    "url": "https://www.coindesk.com/business/2025/05/23/major-us-banks-mull-jointly-launching-stablecoin-wsj",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hagerty"
+            ],
+            "positions": [
+                "Senator"
+            ],
+            "companies": [
+                "JPMorgan Chase",
+                "Bank of America",
+                "Citigroup",
+                "Wells Fargo",
+                "Société Générale",
+                "SG Forge",
+                "Bitwise"
+            ],
+            "organizations": [
+                "Wall Street Journal",
+                "Early Warning Services",
+                "Zelle",
+                "The Clearing House",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Major U.S. banks exploring stablecoin adoption and positive regulatory developments like the GENIUS Act indicate growing institutional acceptance and regulatory clarity for cryptocurrencies."
+    }
+}

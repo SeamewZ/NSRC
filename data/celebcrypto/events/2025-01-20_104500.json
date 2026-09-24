@@ -1,0 +1,37 @@
+{
+    "title": "Ether Drops to 4-Year Low Against Bitcoin as Trump Seen Boosting Largest Cryptocurrency",
+    "time": "2025-01-20T10:45:00",
+    "author": "Shaurya Malwa",
+    "summary": "The ether-bitcoin ratio dropped to the lowest since 2021 as incoming President Trump seen fueling BTC popularity.",
+    "content": "Ether (ETH) slumped Sunday to its lowest level against bitcoin (BTC) since March 2021 as the world’s second-largest token extended losses against its larger rival.\n\nOne ether dropped to 0.03 BTC on Sunday, almost 50% lower than a year ago, as bitcoin soared in the run-up to U.S. President-elect Donald Trump's inauguration. The exchange rate for the two tokens, conventionally called a ratio, peaked above 0.08 in 2022.\n\nETH's value proposition has been on the decline ever since. Bitcoin touched a record high above $109,000 earlier Monday and has returned 160% to investors over the past year. Ether, meantime, has gained just 40% and is hovering some 30% below its 2021 peak. Ether tends to rally when traders see a benefit for the Ethereum blockchain, the first to offer smart contracts and decentralized finance (DeFi) applications. It weakens when they prefer Bitcoin or other blockchains.\n\n“Ethereum has notably underperformed this cycle, particularly as Solana gains traction through the memecoin frenzy and events like Trump's official memecoin launch on Solana instead of Ethereum,” Min Jung, an investment analyst at Presto Research, told CoinDesk in a Telegram message.\n\n“That said, World Liberty Financial's recent accumulation of $ETH highlights that Ethereum continues to maintain strong appeal among institutions. As the only cryptocurrency besides Bitcoin with an ETF, Ethereum is well-positioned to be the next focal point after Bitcoin,” Jung added. World Liberty Financial is a crypto lending platform promoted by Trump and his sons.\n\nBitcoin isn't making new highs only against its No. 1 competitor in digital assets. It has done the same against rival investments in traditional assets too. Bitcoin now costs 40 oz. of gold, or in equivalent terms, bitcoin against the gold market cap is now as high as 11.4%.",
+    "url": "https://www.coindesk.com/markets/2025/01/20/ether-drops-to-4-year-low-against-bitcoin-as-trump-seen-boosting-largest-cryptocurrency",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Min Jung"
+            ],
+            "positions": [
+                "investment analyst",
+                "U.S. President-elect"
+            ],
+            "companies": [
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Presto Research",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Ether dropping to a 4-year low against Bitcoin, underperforming significantly while Bitcoin soars, indicating negative market impact for Ethereum and positive for Bitcoin."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Memecoins Under Fire as BTC Lullfest Below $100K Revives Memories of 2018",
+    "time": "2025-02-24T11:42:00",
+    "author": "Omkar Godbole",
+    "summary": "Attendees at Consensus saw memecoins as net negative for the broader crypto market. Some expected the SEC to approve ETFs tied to top altcoins.",
+    "content": "Bitcoin's\nBTC\n$103,847.16\nrecent narrow price range between $94,000 and $100,000 has perplexed many market participants.\n\nWhile the largest cryptocurrency historically shows strong directional moves followed by months-long consolidations, known as stair-step price movements, this time feels different. Usually consolidations are followed by a breakout. In contrast, now the range has narrowed. In December it was $90,000-$110,000.\n\nAttendees at last week’s Consensus Hong Kong shared the sentiment, with some prominent market makers and industry figures suggesting the rampant memecoin frenzy is a key reason behind the lull in BTC and the broader altcoin market, which feels similar to the lackluster price action from seven years ago.\n\n\"The market has been very saturated with memecoin launches, and crypto natives are kind of exhausted by this,\" said Evgeny Gaevoy, CEO of leading market maker Wintermute, at the conference.\n\nTokens such as President Donald Trump's TRUMP and the LIBRA token promoted by Argentine President Javier Milei tend to draw liquidity from more established cryptocurrencies, Gaevoy said, with traders buying those at the expense of other coins.\n\nSuch stagnant BTC price behavior is reminiscent of September-October 2018, when the range tightened over successive weeks, ultimately settling between $6,000 and $6,400.\n\nIt's not a totally parallel situation, though. That occurred during a bear market, following a steep decline from bitcoin's then-record high of nearly $20,000, making the range play somewhat justifiable as investor confidence waned. This time around, BTC is only about 12% below its all-time high.\n\nThree days before his Jan. 20 inauguration, Trump debuted his official token, TRUMP, which reached a market cap of over $12 billion in just 48 hours. Its descent was equally fast, and the market cap had crashed to near $3 billion by early this month, data from Coingecko show.\n\nWhat's interesting is that the total crypto market capitalization remained largely unchanged at nearly $3.5 trillion during the boom-bust cycle. That's a sign the memecoin did little to draw new capital to the market. In other words, the money simply migrated from BTC, Solana's SOL and other coins.\n\nMoreover, while some wallets that invested early made big money, around 800,000 lost a total of $2 billion by selling at a loss or holding as prices crashed, according to Chainalysis.\n\nSomething similar played out during the LIBRA fiasco early this month, which destroyed $251 million in investor money and became a net wealth-destroyer for the crypto market.\n\nThat's probably why Abraxas Capital Management founder Fabio Frontini said memecoins should be banned. He was speaking during a rapid-fire round at the \"Views from Wall Street to Crypto\" session at Consensus.\n\nJason Atkins, chief commercial officer at Auros, said the fact that memecoins are sucking out liquidity from the other sectors of the market shows how fragile the liquidity pool is.\n\n\"It's clear that adoption is still at an early stage,\" Atkins said in an interview. \"The number of participants remains relatively low, and the fact that one high-profile token launch can send shockwaves across the entire market shows how fragile the liquidity pool is. It's a clear signal that the broader market lacks sufficient depth and stability.\"\n\nThose are key requirements for attracting more institutional interest, he said.\n\n\"Institutional investors are actively exploring how they can engage with this space. But they are cautious. They need to see a more mature, stable market that can handle larger volumes without getting disrupted by speculative, meme-driven activity.\"\n\nOpinions were mixed on what happens next for the BTC price.\n\nSeveral Consensus delegates said the meme frenzy and the uncanny stability in BTC is unhealthy. Such range plays often end with a downside move, they said. That's what happened in 2018, when the consolidation ended with a sharp decline.\n\nOn the other hand, the memecoin saturation is overshadowing positive news on the regulatory front, Wintermute's Gaevoy said.\n\n\"People don't necessarily appreciate that we have a lot of positive news coming. For example, on the regulatory side, we have all forgotten how bad of an influence the SEC and even CFTC was for the last few years and now that overhang is completely gone. I don't think it's being properly priced, So I'm pretty optimistic,\" Gaevoy said.\n\nThe regulatory environment includes change of U.S. administration and exit of Gary Gensler from the Securities and Exchange Commission.\n\nA number of issuers have now filed SEC applications for spot exchange-traded funds (ETFs) tied to Solana's SOL, XRP,\nDOGE\n$0.1660\nand\nLTC\n$87.20\n.\n\nTo date, the regulator has approved only spot bitcoin and ether ETFs, assuming that the CME's surveillance system for bitcoin and ether futures mitigates concerns about price manipulation. If CME futures are seen as a prerequisite to win approval for ETFs tied to digital assets, it's worth noting the broader altcoins don't have that privilege yet.\n\nGaevoy disagrees.\n\n\"It's a relic from the previous SEC leadership. I would definitely not be surprised if Solana and other top 10 tokens excluding stablecoins are approved,\" he said.",
+    "url": "https://www.coindesk.com/markets/2025/02/24/memecoins-under-fire-as-btc-lullfest-below-usd100k-revives-memories-of-2018",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Evgeny Gaevoy",
+                "Donald Trump",
+                "Javier Milei",
+                "Fabio Frontini",
+                "Jason Atkins",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "CEO",
+                "President",
+                "founder",
+                "chief commercial officer"
+            ],
+            "companies": [
+                "Wintermute",
+                "Abraxas Capital Management",
+                "Auros",
+                "Coingecko",
+                "Chainalysis"
+            ],
+            "organizations": [
+                "SEC",
+                "CFTC",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "TRUMP",
+            "LIBRA",
+            "SOL",
+            "XRP",
+            "DOGE",
+            "LTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with BTC trading in a narrow range, memecoins drawing liquidity from established cryptocurrencies, and conflicting opinions about future price direction."
+    }
+}

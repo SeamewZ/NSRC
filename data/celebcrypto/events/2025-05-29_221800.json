@@ -1,0 +1,37 @@
+{
+    "title": "Suspects in Manhattan Crypto Kidnapping, Torture Case Plead Not Guilty as Investigation Widens",
+    "summary": "William Duplessie, 33, and John Woeltz, 37, have been accused of holding a 28-year-old Italian man hostage for over two weeks and torturing him in an attempt to steal his bitcoin.",
+    "time": "2025-05-29T22:18:00",
+    "author": "Nikhilesh De",
+    "content": "Two men suspected in the kidnapping and torture of a 28-year-old Italian cryptocurrency investor have pleaded not guilty, while the investigation into their case appears to have expanded to the New York Police Department itself.\n\nNew York police had previously arrested William Duplessie, 33, and John Woeltz, 37, on the charges, as well as a third individual, Beatrice Folchi, 24, though her prosecution is being deferred. The victim has not been publicly named.\n\nThe men are accused of kidnapping the victim and holding him hostage in a luxury townhouse in Manhattan’s ritzy SoHo neighborhood for more than two weeks. During that time, New York City police say the trio tortured the man, forcing him to take drugs, dangling him from a ledge, urinating on him and electrocuting him in an effort to force him to hand over the private keys to his bitcoin. The alleged perpetrators are accused of making t-shirts of the victim with a crack pipe in his mouth and taking Polaroids of the victim with a gun to his head.\n\nThe victim escaped last Friday, grabbing his laptop and getting out of the townhouse and then seeking help from a traffic officer.\n\nDuplessie entered a not-guilty plea to five different charges, including kidnapping with an intent to collect a ransom, kidnapping and causing a physical injury, criminal possession of a loaded firearm, assault with an intent to cause a physical injury with a weapon and unlawful imprisonment, according to the court docket.\n\nWoeltz was charged with kidnapping, assault, unlawful imprisonment and criminal possession of a firearm, and he also pleaded not guilty, according to his court docket.\n\nTwo NYPD officers, including a detective assigned to Mayor Eric Adams' protection detail, worked for both Duplessie and Woeltz in their off-duty hours and have now been placed on modified duty, Bloomberg reported Thursday. A source familiar told CoinDesk that the two officers are not believed to be part of the kidnapping, but rather did security work for the defendants. They may have driven the victim from an airport to the townhouse, but have not been tied to his torture, the source said.\n\nA spokesperson for the NYPD said the matter was \"under internal review.\"\n\nA spokesperson for the mayor's office said in a statement that, \"Every city employee is expected to follow the law, including our officers, both on and off duty. We are disturbed by these allegations, and as soon as it came to our attention, the officers were placed on modified duty. The investigation is ongoing.\"\n\nUPDATE (May 29, 2025, 22:27 UTC): Adds additional detail.",
+    "url": "https://www.coindesk.com/policy/2025/05/29/suspects-in-manhattan-crypto-kidnapping-torture-case-plead-not-guilty-as-investigation-widens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "William Duplessie",
+                "John Woeltz",
+                "Beatrice Folchi",
+                "Eric Adams"
+            ],
+            "positions": [
+                "Mayor",
+                "detective",
+                "traffic officer",
+                "spokesperson"
+            ],
+            "companies": [],
+            "organizations": [
+                "New York Police Department",
+                "NYPD",
+                "Bloomberg",
+                "CoinDesk",
+                "mayor's office"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a violent kidnapping and torture case specifically targeting a cryptocurrency investor to steal bitcoin, which portrays cryptocurrency ownership as dangerous and could deter potential investors."
+    }
+}

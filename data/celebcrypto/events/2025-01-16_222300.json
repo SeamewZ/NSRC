@@ -1,0 +1,42 @@
+{
+    "title": "Texas Man Sues Attorney General Over DOJ’s Prosecution of Crypto Software Devs",
+    "summary": "The plaintiff is seeking a declaratory judgment protecting his forthcoming crypto crowdfunding project from being prosecuted for unlicensed money transmitting.",
+    "time": "2025-01-16T22:23:00",
+    "author": "Cheyenne Ligon",
+    "content": "A fellow at crypto think tank Coin Center filed suit against U.S. Attorney General Merrick Garland on Thursday, seeking a judge’s guarantee that the Department of Justice (DOJ) will not be able to prosecute his forthcoming crypto project for violating money transmitting laws in the future.\n\nThe lawsuit, filled by blockchain entrepreneur Michael Lewellen, claims that the Department of Justice’s (DOJ) criminal prosecution of software developers who publish noncustodial cryptocurrency software – including the ongoing prosecutions of Tornado Cash developer Roman Storm and Samourai Wallet co-founder Keonne Rodriguez – is unconstitutional, and violates the First and Fifth Amendments.\n\nIn addition to being unconstitutional, the suit claims, the DOJ’s prosecution of crypto developers “betray[s] its own representations to the public,” that, unless developers have “total independent control over the value” being moved, they are not acting as money transmitters.\n\nLewellen’s suit comes amidst growing concerns about government persecution of crypto privacy software developers, both in the U.S. and abroad. Tornado Cash’s Storm is facing up to 45 years in prison if convicted on all counts tied to his work with the crypto mixing service; Rodriguez faces a 25 year maximum sentence for creating Samourai Wallet. Both men have pleaded not guilty, and will go to trial this year.\n\nIn the absence of a clear regulatory and legal framework for cryptocurrencies, preemptive lawsuits like Lewellen’s are becoming increasingly common. Last year, two NFT artists filed suit against the U.S. Securities and Exchange Commission (SEC) seeking a similar declaratory judgment protecting them from civil penalties from the SEC.\n\nRead more: Does the SEC Really Have Jurisdiction Over NFT Art? Two Artists Sue SEC to Get an Answer\n\nThrough his suit, Lewellen is trying to avoid Rodrigez and Storm’s fate. His forthcoming project, Pharos, is essentially a crypto-based Kickstarter. Built on Ethereum, his crowdfunding platform will use a type of smart contracts he calls “assurance contracts” to ensure that donors will automatically get their money back if the project is not fully funded. The project will also have privacy features that prevents a project’s donors from being publicly identifiable.\n\nAs the creator and publisher of the Pharos software, Lewellen will only receive a predetermined fee from projects that are successful. According to his suit, “he will never have control over the cryptocurrency that goes through Pharos.”\n\nGarland, who was appointed by President Joe Biden, will soon depart the DOJ. Incoming President Donald Trump’s pick to replace Garland as Attorney General, former Florida Attorney General Pam Bondi, is currently undergoing nomination hearings. Garland’s successor will be automatically replaced as the named defendant of the suit upon his departure from the DOJ.",
+    "url": "https://www.coindesk.com/policy/2025/01/16/texas-man-sues-attorney-general-over-doj-s-prosecution-of-crypto-software-devs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Lewellen",
+                "Merrick Garland",
+                "Roman Storm",
+                "Keonne Rodriguez",
+                "Joe Biden",
+                "Donald Trump",
+                "Pam Bondi"
+            ],
+            "positions": [
+                "Attorney General",
+                "President",
+                "former Florida Attorney General"
+            ],
+            "companies": [
+                "Coin Center",
+                "Tornado Cash",
+                "Samourai Wallet",
+                "Kickstarter",
+                "Pharos"
+            ],
+            "organizations": [
+                "Department of Justice (DOJ)",
+                "U.S. Securities and Exchange Commission (SEC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ongoing DOJ prosecutions of crypto developers facing decades in prison and growing concerns about government persecution, indicating regulatory pressure that negatively impacts the crypto market."
+    }
+}

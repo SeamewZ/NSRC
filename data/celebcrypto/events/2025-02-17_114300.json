@@ -1,0 +1,34 @@
+{
+    "title": "U.S.-Listed Bitcoin Miners Are Growing Their Share of the Network Hashrate: Bernstein",
+    "time": "2025-02-17T11:43:00",
+    "author": "Will Canny",
+    "summary": "These companies grew their share of the Bitcoin network to about 29% in January from around 20% a year ago, the report said.",
+    "content": "Bitcoin\nBTC\n$103,900.89\nminers listed in the U.S. are growing their share of the network hashrate, broker Bernstein said in a report Monday.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain and is a proxy for competition in the industry and mining difficulty.\n\n\"U.S. listed bitcoin miners are increasing their share of the network hashrate, leveraging access to capital, land and power,\" analysts led by Gautam Chhugani wrote.\n\nThese companies grew their share of the Bitcoin network to around 29% in January, from about 20% a year ago, the report said, adding that large miners aggressively expanded their hashrates in 2024.\n\nIREN (IREN) is growing its hashrate the fastest, followed by CleanSpark (CLSK), Riot Platforms (RIOT), and MARA Holdings (MARA), Bernstein said.\n\nBernstein has an outperform rating on IREN (PT $26), CleanSpark (PT $30) and Riot Platforms (PT $22). MARA Holdings (PT $23) is market-perform rated.\n\nIREN, MARA Holdings and CleanSpark all performed well on \"power efficiency and uptime\" the report added.\n\nWall Street bank JPMorgan (JPM) said January was a quiet month for hashrate growth.\n\nRead more: Bitcoin Network Hashrate Growth Was Muted in January: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/02/17/u-s-listed-bitcoin-miners-are-growing-their-share-of-the-network-hashrate-bernstein",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gautam Chhugani"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "IREN",
+                "CleanSpark",
+                "Riot Platforms",
+                "MARA Holdings",
+                "JPMorgan"
+            ],
+            "organizations": [
+                "Bernstein"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports U.S.-listed Bitcoin miners are growing their network share significantly, indicating increased institutional investment and market confidence in Bitcoin mining."
+    }
+}

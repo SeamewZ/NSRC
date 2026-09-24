@@ -1,0 +1,34 @@
+{
+    "title": "AI Shows Why Data Portability Matters",
+    "summary": "AI provides a rationale for personal data portability, in the form of a better product experience rather than ideology alone, says Anna Kazlauskas, the creator of Vana and the CEO of Open Data Labs.",
+    "time": "2025-02-03T19:27:00",
+    "author": "Anna Kazlauskas",
+    "content": "Data portability is a commonly-repeated promise of crypto. “Take your followers and social graph across the internet.” “Bring your video game items across games and platforms.” “Log into any site with a single, unified identity.” These claims have excited builders and developers, but haven’t yet gone mainstream.\n\nRecent platform shifts have highlighted the fragility of our digital lives. With talks of a potential TikTok ban, creators face losing years of content and audience relationships overnight. Meanwhile, as US consumers embrace new AI models like DeepSeek, built in China, they face similar questions about where their data lives and who might get access to it.\n\nThese are symptoms of a fundamental problem: users don't truly own or control their data. We live on rented land.\n\nMany of today's leading crypto investors wrote about data portability and user sovereignty in the early days of Web2. This vision of an internet — where users, not platforms, control their digital lives — was one of the driving forces behind crypto. While crypto has succeeded in financial applications, this promise of portable data and a self-sovereign internet remains unfulfilled.\n\nWe've seen many attempts: NFTs letting you bring items across games, decentralized social networks like Farcaster and Bluesky promising portable social graphs, and verifiable identity standards. None have (yet) seen widespread adoption.\n\nThe reality? While early internet thinkers care deeply about the principles of data sovereignty, most users have a simpler question: What can I actually do with it?\n\nWithout AI, most data is only relevant within the walled gardens of the platform it’s on. With AI, it becomes a valued digital commodity and a tool to power nearly every application. Your message history helps AI understand your writing style, your preferences, and your relationships. With many users storing their data in self-sovereign wallets, developers can build AI experiences that are truly personalized. AI finally provides the “why” on data portability, in the form of a better product experience rather than ideology alone.\n\nThere is still a cold start problem. It’s inconvenient for users to connect their data. And for developers, the mindset today is: if you convince users to upload their data to your platform, why would you make it easy for them to take it elsewhere? This creates a cycle where each new platform becomes another walled garden, recreating the very problem they set out to solve.\n\nThis is where new incentive structures could finally break the extractive cycle. DataDAOs create an immediate opportunity for users to port their data through financial incentives, solving the cold start problem, so long as the data is onboarded in a self-sovereign, interoperable way, like on Vana. As more users bring their data into these interoperable systems, developers can build applications that weren't possible before.\n\nImagine a personalized health coach that can analyze your sleep data from Oura, your workouts from Strava, your nutrition from food delivery apps, and your stress levels from communication patterns.\n\nOr, an AI assistant that truly understands you because it can access your complete digital history while maintaining your privacy through granular permissions.\n\nThis solves a critical problem that has plagued past attempts at data portability. Users won't export their data without clear benefits, and developers won't build for portable data without users. Data DAOs break this deadlock by making it immediately worthwhile for users to connect data.\n\nMore importantly, once users make their data self-sovereign, entirely new kinds of applications become possible. AI agents can access your complete digital history to provide truly personalized experiences. Developers can build applications that combine data in ways that weren't possible when it was siloed across platforms.\n\nWe know there’s a lot of demand for AI training data – many major model providers are poised to hit a data wall soon, making them search for publicly unavailable datasets to train newer, higher-performing models. New models like DeepSeek have shown the value of high quality data, with carefully curated human-generated examples to bootstrap their novel training method. At the same time, user data policies like GDPR and CCPA legally require platforms to allow users to export their data in a usable, standardized format. Networks like Vana allow users to monetize their data by collectively bargaining with model trainers in need of valuable training data no longer available on the public internet, and make it interoperable for true data sovereignty.\n\nTwo forces converging – the proliferation of AI, and new financial incentives – create the potential for both users and developers to benefit from data portability. The interests of users, developers, and data networks finally align. Users gain immediate value plus better AI experiences, developers get access to rich user data to build new applications, and networks grow stronger with each new participant.\n\nFor the first time, we have both the technology to make data portability valuable and the incentives to drive adoption.\n\nCrypto has yet to deliver on its original promise of a self-sovereign, interoperable internet where users own their data, unfettered by Web2’s walled gardens. By creating financial incentives to bring data onboard and leveraging AI's capabilities, we finally have a window of opportunity to make the internet truly user-owned.",
+    "url": "https://www.coindesk.com/opinion/2025/02/03/ai-shows-why-data-portability-matters",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Anna Kazlauskas"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Vana",
+                "Open Data Labs",
+                "DeepSeek",
+                "TikTok",
+                "Oura",
+                "Strava"
+            ],
+            "organizations": [
+                "DataDAOs",
+                "GDPR",
+                "CCPA"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents data portability and self-sovereign data systems as finally having the technology and incentives to succeed through AI and crypto, creating new opportunities for user-owned internet and developer applications."
+    }
+}

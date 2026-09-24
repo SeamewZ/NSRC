@@ -1,0 +1,33 @@
+{
+    "title": "Movement Token Slumps 14% as Coinbase Suspends Trading",
+    "summary": "Movement's MOVE token is now in \"limit-only mode\" on the trading platform.",
+    "time": "2025-05-01T16:56:00",
+    "author": "Nikhilesh De",
+    "content": "Coinbase will suspend trading of Movement's MOVE token, citing \"recent reviews,\" following a CoinDesk investigation into market-making deals that experts said incentivized price manipulation.\n\nThe token fell more than 13% on the trading suspension news, while the broader market gauge CoinDesk 20 Index rose 4.4%.\n\nMovement Labs is currently investigating how a market maker may have gained access to a significant number of its tokens, which were then dumped on retail investors, causing its price to tank. The market maker, Web3Port, appears in contracts previously reported by CoinDesk.\n\nAccording to the CoinDesk report, Movement Labs co-founder Cooper Scanlon told employees last month that the firm was investigating how Rentech, which Movement believed was a subsidiary of Web3Port, got a hold of over 5% of Web3Port's MOVE tokens.\n\nAccording to contracts obtained by CoinDesk, Rentech had the ability to liquidate all of its tokens under certain circumstances, which experts said could have created an incentive for the firm to increase the token's value.\n\nCrypto exchange Binance later banned Web3Port, the market-maker, after $38 million in MOVE tokens in wallets tied to Web3Port were liquidated following MOVE's exchange debut.\n\nCoinbase did not share many details about the trading suspension, just announcing that it would do so on May 15 by 2:00 p.m. Pacific Time (21:00 UTC).\n\nCoinbase said it has already switched its order books to \"limit-only mode\" for MOVE tokens, meaning trades will only be executed at certain prices, rather than a token's spot price.\n\nRead more: Inside Movement’s Token-Dump Scandal: Secret Contracts, Shadow Advisers and Hidden Middlemen\n\nUPDATE (May 1, 2025, 17:18 UTC): Adds additional context.",
+    "url": "https://www.coindesk.com/markets/2025/05/01/movement-token-slumps-14-as-coinbase-suspends-trading",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cooper Scanlon"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Coinbase",
+                "Movement Labs",
+                "Web3Port",
+                "Rentech",
+                "Binance"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "MOVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The token fell more than 13% due to trading suspension and market manipulation concerns involving token dumping on retail investors."
+    }
+}

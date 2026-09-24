@@ -1,0 +1,42 @@
+{
+    "title": "Visa Is Joining the Paxos, Robinhood Stablecoin Consortium: Sources",
+    "time": "2025-04-14T12:44:00",
+    "author": "Ian Allison",
+    "summary": "Paxos’ Global Dollar Network (USDG) also includes Kraken, Galaxy Digital, Anchorage Digital, Bullish (the owner of CoinDesk) and Nuvei.",
+    "content": "Visa is joining the Global Dollar Network (USDG), a stablecoin consortium convened by U.S. regulated digital asset firm Paxos, alongside cryptocurrency and fintech heavyweights like Robinhood, Kraken and Galaxy Digital, according to two people familiar with the plans.\n\nVisa is the first traditional finance incumbent known to be joining USDG, whose initial cohort of members also includes Anchorage Digital, Bullish (the owner of CoinDesk) and Nuvei.\n\nThe stablecoin business, whose lucrative potential is opening up to more firms amid regulatory change, has been dominated by the first and second largest issuers of USD-pegged tokens, Tether’s USDT and its smaller sibling Circle with USDC.\n\nUSDG is designed to share the yield with participant firms that can create connectivity and liquidity, unlike Tether, for example, which retains the interest gained from its stablecoin reserves.\n\nThe large card networks have been busy partnering in the crypto space. Visa was recently reported to be helping Sam Altman’s World Network, and Mastercard is working with the non-custodial wallet MetaMask.\n\nVisa did not respond to requests for comment. A representative of Paxos said the firm can not comment on prospective partners.\n\nRead more: Stablecoins Are a 'WhatsApp Moment' for Money Transfers, a16z Says",
+    "url": "https://www.coindesk.com/business/2025/04/14/visa-is-joining-the-paxos-robinhood-stablecoin-consortium-sources",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman"
+            ],
+            "positions": [],
+            "companies": [
+                "Visa",
+                "Paxos",
+                "Robinhood",
+                "Kraken",
+                "Galaxy Digital",
+                "Anchorage Digital",
+                "Bullish",
+                "CoinDesk",
+                "Nuvei",
+                "Tether",
+                "Circle",
+                "World Network",
+                "Mastercard",
+                "MetaMask"
+            ],
+            "organizations": [
+                "Global Dollar Network",
+                "USDG"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Visa joining the stablecoin consortium alongside major crypto firms indicates growing institutional adoption and confidence in cryptocurrency infrastructure."
+    }
+}

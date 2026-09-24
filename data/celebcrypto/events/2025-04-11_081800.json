@@ -1,0 +1,34 @@
+{
+    "title": "Altcoin Action in Powertrade's Options Market Heats Up Driven by XRP, SOL and DOGE",
+    "summary": "Market volatility saw traders chase options for hedging and speculative activities.",
+    "time": "2025-04-11T08:18:00",
+    "author": "Omkar Godbole",
+    "content": "Activity in PowerTrade's options market for alternative cryptocurrencies (altcoins) picked pace this week as heightened market volatility prompted traders to seek derivatives for hedging and speculative opportunities.\n\nTrading volume in XRP options has soared to over $5 million this week, with most activity concentrated in short-dated expirations, data shared by PowerTrade shows. Flows have been balanced between put options at strikes ranging from $1.80 to $1.98 and calls at strikes $1.80 to $1.93.\n\n\"This activity suggests traders are positioning for significant short-term price movement—either from regulatory developments or a breakout pattern—with a nearly even balance between bullish and bearish structures,\" Bernd Sischka, head of institutional sales at PowerTrade, told CoinDesk.\n\nThe two-way flow is consistent with the volatile market action, characterized by XRP sliding to a five-month low of $1.61 early this week, only to bounce back to $2, according to CoinDesk data. A call option gives the purchaser the right but not the obligation to purchase the underlying asset at a predetermined price on or before a specific date. A call buyer is implicitly bullish on the market, while a put buyer is bearish, looking to profit from or hedge against price swoons.\n\nThe market saw hedging activity in SOL options, with traders chasing puts at strikes ranging from $104 to $121. Programmable blockchain Solana's SOL token briefly fell to $95 on Monday as the U.S.-China trade tussle triggered broad-based risk aversion in financial markets. Since then, the cryptocurrency has bounced to $115.\n\nHowever, despite the macro jitters, traders chased the upside in dogecoin, the world's leading joke cryptocurrency by market value, which slipped to 13 cents early this week and last changed hands at 15.7 cents. The cryptocurrency has dropped over 65% since hitting a peak of 48 cents in December.\n\nThe most popular plays have been calls at 14.5, 15.5, 17.5 and 18 cents, all expiring on April 13, a sign of speculative frenzy.\n\n\"The flow indicates pure momentum trading—short-dated, low-premium bets aimed at capturing quick surges, likely linked to social media or event-driven catalysts,\" Sischka said. \"[Broadly speaking], short-dated expiries and directional bets are driving altcoin options into the spotlight.\"\n\nStill, the altcoin options market is significantly smaller than the bitcoin and ether options market, led by Deribit, where contracts worth millions of dollars are traded every day.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/altcoin-action-in-powertrade-s-options-market-heats-up-driven-by-xrp-sol-and-doge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bernd Sischka"
+            ],
+            "positions": [
+                "head of institutional sales"
+            ],
+            "companies": [
+                "PowerTrade",
+                "CoinDesk",
+                "Deribit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "DOGE",
+            "dogecoin",
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes balanced two-way options flow with nearly equal bullish and bearish positioning across different cryptocurrencies, indicating mixed market sentiment rather than clear directional bias."
+    }
+}

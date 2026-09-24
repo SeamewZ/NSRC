@@ -1,0 +1,32 @@
+{
+    "title": "The Fourth Largest Weekly Drop in Dollar Index in Over a Decade Signals Bitcoin Bottom",
+    "time": "2025-03-07T13:17:00",
+    "author": "James Van Straten",
+    "summary": "One of the largest weekly DXY index drops since 2013 tends to align with bitcoin cycle lows.",
+    "content": "The DXY Index, has experienced one of its sharpest one-week declines since 2013. The index measures the strength of the U.S. dollar against a basket of major currencies.\n\nAccording to Bloomberg data from Global Macro Investor, the index’s one-week percentage drop has exceeded a negative four standard deviation move—a rare event that has only occurred three other times in bitcoin's\nBTC\n$104,257.93\nhistory.\n\nThese previous occurrences include November 2022, when bitcoin hit its cycle low of $15,500 during the FTX collapse; March 2020, amid the covid 19 pandemic, when bitcoin briefly fell below $5,000; and the 2015 bear market, when bitcoin traded around $250. Each time the DXY Index suffered a drop larger than a -4 standard deviation, it coincided with a bitcoin bottom, followed by significant price gains.\n\nAdditionally, CoinDesk research highlights that the DXY Index is currently declining at a faster rate than in President Trump's first term— a period that aligned with the 2017 bitcoin bull run. A decline in the DXY Index tends to be favourable for risk-assets, however a DXY index above 100, is still considered strong, currently at 103.8.",
+    "url": "https://www.coindesk.com/markets/2025/03/07/the-fourth-largest-dollar-index-weekly-drop-since-2013-signals-bitcoin-bottom",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Bloomberg",
+                "FTX",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Global Macro Investor"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that previous similar DXY drops coincided with bitcoin bottoms followed by significant price gains, and a declining DXY tends to be favorable for risk-assets like bitcoin."
+    }
+}

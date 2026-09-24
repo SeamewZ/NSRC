@@ -1,0 +1,27 @@
+{
+    "title": "ABN AMRO, 21X Conduct Onchain Trade of Tokenized Assets Against Stablecoins",
+    "time": "2025-01-30T09:19:00",
+    "author": "Jamie Crawley",
+    "summary": "ABN AMRO and 21X completed a joint proof of concept for the issuing of a token on the Polygon Amoy Testnet",
+    "content": "Dutch bank ABN AMRO has conducted an onchain trade of tokenized assets against stablecoins alongside Germany-regulated 21X.\n\nThe two firms completed a joint proof of concept (PoC) for the issuing of a token on the Polygon Amoy Testnet, which was listed as a trading pair with an e-money token, according to an emailed announcement on Thursday.\n\n\"The deployment of 21X's on-chain order book smart contract enabled trading between tokenized cash and the tokenized asset in one single transaction,\" the firms said.\n\nFrankfurt-based 21X, which is building a blockchain-based exchange to list and trade tokenized securities, won approval from German regulator BaFin in December.\n\nTokenization - the representation of real-world assets such as stocks or bonds as tokens on a blockchain - has become an area of interest among traditional financial (TradFi) firms in recent years.\n\nBlockchain-native companies such as 21X securing regulatory approval in major financial centers means TradFi companies can enter partnerships with them to advance their tokenization plans with greater confidence.\n\nRead More: What 2025 Holds for Tokenized Real World Assets",
+    "url": "https://www.coindesk.com/business/2025/01/30/abn-amro-21x-conduct-onchain-trade-of-tokenized-assets-against-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "ABN AMRO",
+                "21X"
+            ],
+            "organizations": [
+                "BaFin"
+            ]
+        },
+        "cryptocurrencies": [
+            "Polygon",
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful proof of concept between traditional financial institutions and blockchain companies for tokenized asset trading, indicating growing institutional adoption and regulatory approval in major financial centers."
+    }
+}

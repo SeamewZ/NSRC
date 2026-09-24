@@ -1,0 +1,33 @@
+{
+    "title": "Infrared Raises $16M to Roll Out First Liquidity Staking Protocol on Berachain",
+    "time": "2025-03-04T12:55:00",
+    "author": "Oliver Knight",
+    "summary": "Users will be able to stake native Berachain tokens via Infrared while generating added yields through a liquid staked token.",
+    "content": "Infrared, the first proof of liquidity (PoL) staking protocol on Berachain, has raised $14 million in a Series A round led by Framework Ventures.\n\nIt brings the total amount raised up to $18.75 million after a $2.25 million strategic round led by Binance Labs and a $2.5 million seed round.\n\nBerachain is a layer-1 blockchain that transitioned to its mainnet on Feb. 6, airdropping a token to ecosystem and exchange users at the same time. The network differs from other blockchains as it uses a proof-of-liquidity consensus mechanism to reward users and protocols to provide liquidity.\n\nAnd Infrared becomes one of the first projects to benefit from that mechanism with its liquid staking solutions for Berachain's native BGT and BERA tokens. Users that stake native tokens to receive validator rewards will receive iBERA, a liquid staked token that can be used to generate an additional yield across other DeFi protocols.\n\nInfrared also becomes the first project to benefit from the Berachain Foundation's incubator named 'Build a Bera,' which announced that it was seeking start-ups to work with in January.\n\n\"We believe Infrared’s protocol will unlock significant amounts of productive capital within the wider Berachain ecosystem, while maximizing efficiency and yield. This frees builders on Berchain’s framework to innovate in new ways,\" said Framework Ventures co-founder Michael Anderson.",
+    "url": "https://www.coindesk.com/business/2025/03/04/infrared-raises-usd16m-to-roll-out-first-liquidity-staking-protocol-on-berachain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Anderson"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Infrared",
+                "Framework Ventures",
+                "Binance Labs"
+            ],
+            "organizations": [
+                "Berachain Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "BGT",
+            "BERA",
+            "iBERA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes successful funding rounds, protocol development, and positive statements about unlocking productive capital and maximizing efficiency/yield, indicating market confidence and growth potential."
+    }
+}

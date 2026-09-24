@@ -1,0 +1,40 @@
+{
+    "title": "Bettors Lose Millions Predicting the New Pope as Polymarket Edge Fizzles Out",
+    "time": "2025-05-09T14:06:00",
+    "author": "Tim Craig",
+    "summary": "The event throws into question the perceived heightened accuracy of betting markets like Poymarket over conventional polls.",
+    "content": "Bettors on crypto prediction platform Polymarket have, in recent months, developed an enviable reputation for beating the bookies.\n\nSo it came as a surprise on Thursday when they got the outcome of the papal conclave very wrong indeed.\n\nWinner Robert Francis Prevost wasn’t among the favorites, with bettors only giving the US-born cardinal around a 1% chance of succeeding Pope Francis ahead of the result.\n\nPolymarket bettors, like traditional betting markets, gave Cardinal Pietro Parolin the highest odds, at 28%.\n\nWith over $28 million of bets placed on candidates other than Prevost, the result was a total wipeout for many bettors.\n\nThe event throws into question the perceived heightened accuracy of betting markets like Poymarket over conventional polls.\n\nPolymarket lets users bet on the outcomes of everything from soccer fixtures to political elections. Unlike traditional betting platforms, where the house sets the odds based on its best diligence, Polymarket odds are a real-time reflection of the bets placed by users.\n\nSimply put, the more demand there is for a certain outcome, the higher the odds and the prices paid for the bets are.\n\nIn November, Polymarket gained mainstream notoriety when bettors gave Republican candidate Donald Trump significantly higher odds than most other sources to win the US presidency.\n\n“Polymarket prices seem to be wrapping up the views of smart money pretty well,” Koleman Stumpf, an economics professor at Wake Forest University in North Carolina, told CoinDesk at the time, noting that Polymarket bettors appeared to have a slight edge in predicting the election outcome.\n\nA historical data analysis conducted by New York City-based data scientist Alex McCullough showed Polymarket previously predicted the outcome of world events one month out with 90% accuracy.\n\nThe reason Polymarket bettors got the papal conclave result so wrong is that the event is extremely hard to predict, Domer, one of Polymarket’s top pseudonymous bettors, said on X.\n\n“It's like walking into a store that doesn't communicate with the outside world,” he said. “Not even the participants themselves would probably know how to handicap it.”\n\nSince it’s hard for bettors to find an edge with such an esoteric bet, many likely defaulted to following the opinions of traditional betting markets and the media, resulting in the close alignment of odds between Polymarket and other betting markets like Betfair.\n\nThe rarity of papal conclaves may also have made things difficult.\n\nPope Francis, the previous pope, was appointed in 2013, years before blockchain-based betting platforms like Polymarket existed. It's also possible that many Polymarket bettors likely had no prior experience betting on the event.\n\nPolitical elections, where Polymarket odds have lined up closer to results, are much more frequent and widely understood.\n\nAccording to Domer, the real edge in betting on the papal conclave is not choosing the correct candidate but rather betting against those with too-high odds.\n\nHe chalked up the high odds of heavy favorites Parolin, and Cardinal Luis Antonio Tagle, who Polymarket bettors gave a 20% chance of winning, to their popularity with the public and the media.\n\n\"The pricing for Parolin and Tagle were way too high, and high for not very good reasons,” he said.\n\nRead more: Polymarket is 90% Accurate in Predicting World Events: Research",
+    "url": "https://www.coindesk.com/markets/2025/05/09/bettors-lose-millions-predicting-the-new-pope-as-polymarket-edge-fizzles-out",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robert Francis Prevost",
+                "Pope Francis",
+                "Pietro Parolin",
+                "Donald Trump",
+                "Koleman Stumpf",
+                "Alex McCullough",
+                "Domer",
+                "Luis Antonio Tagle"
+            ],
+            "positions": [
+                "pope",
+                "cardinal",
+                "economics professor",
+                "data scientist",
+                "Republican candidate"
+            ],
+            "companies": [
+                "Polymarket",
+                "CoinDesk",
+                "Betfair"
+            ],
+            "organizations": [
+                "Wake Forest University"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The event questions Polymarket's predictive accuracy for esoteric events but notes its historical 90% accuracy for world events, presenting mixed implications without clear market direction."
+    }
+}

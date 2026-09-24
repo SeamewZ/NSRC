@@ -1,0 +1,41 @@
+{
+    "title": "Asia Morning Briefing: Cooling BTC Pushing Up Altcoin Volumes",
+    "summary": "PLUS: U.S. lawmakers introduce crypto market structure bill.",
+    "time": "2025-05-30T00:55:00",
+    "author": "Sam Reynolds",
+    "content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.\n\nBitcoin\nBTC\n$104,608.94\nis trading above $105,000 as Asia begins its business day, down 1%.\n\nIn a note, Paris-based digital assets trading firm Flowdesk wrote that the world's largest digital asset was moving into a tactical posture with price consolidation.\n\n\"As BTC consolidates near all-time highs, altcoin volumes and liquidity have seen a continued meaningful shift upwards,\" Flowdesk wrote.\n\nFlowdesk notes that Bitcoin's volatility continues to decline despite looming macroeconomic events that typically shake up markets.\n\nWith BTC consolidating near its all-time high, there's a noticeable rise in call overwriting, Flowdesk observed, as traders seek to monetize potential upside without giving up core bitcoin exposure.\n\n\"The altcoin rotation continues, ETF inflows are back, and vol positioning reflects a transition to more tactical, yield-generating strategies,\" Flowdesk concluded.\n\nMeanwhile, CoinDesk's Market Insight bot reported that BTC faces downside risks after hitting strong resistance near $108.8K, but ongoing institutional interest may provide support.\n\nU.S. House Republicans officially introduced the Digital Asset Market Clarity Act, CoinDesk reported Thursday U.S. time, their latest push to regulate crypto markets.\n\nThis 236-page bill, a successor to the earlier FIT21 Act, gives the Commodity Futures Trading Commission primary oversight of digital commodity markets, establishes clear guidelines for crypto exchanges, and exempts certain decentralized finance (DeFi) services from Securities and Exchange Commission (SEC) oversight.\n\nFlowing parallel to this, the Senate remains focused on separate bipartisan stablecoin legislation, which is further along procedurally but faces ongoing debate. With committee hearings scheduled for next week, lawmakers will publicly discuss the new House bill, setting the stage for negotiations that could shape U.S. crypto regulation this session.\n\nHester Peirce, chief of the U.S. Securities and Exchange Commission's crypto task force, urged crypto investors at Bitcoin 2025 to take personal responsibility for their losses rather than seek government bailouts, CoinDesk reported Thursday from BTC Vegas.\n\nPeirce emphasized consistency among libertarian-minded crypto traders, arguing that those who demand freedom must also accept accountability for their financial outcomes, particularly when engaging in speculative ventures like memecoins.\n\nPeirce highlighted ongoing efforts under Republican leadership to clarify the SEC's jurisdiction, stating that most crypto tokens aren't securities and thus don't require SEC registration unless they are explicitly involved with securities.\n\nShe remained neutral on companies holding digital assets on their balance sheets, provided proper disclosure. Despite the current strides in policymaking at the SEC, Peirce noted that establishing a federal crypto regulator for retail trading would necessitate clear legislative action from Congress.\n\nBlockchain Founders Fund (BFF), a Singapore-based venture capital firm focused on early-stage Web3 and blockchain startups, is set to announce Friday at Web Summit in Vancouver that it has surpassed 200 investments across more than 160 companies.\n\nFounded in 2018, the firm is known for supporting projects such as Shardeum, an Ethereum-compatible blockchain platform utilizing dynamic state sharding, and Validation Cloud, an infrastructure company merging traditional enterprises with blockchain and AI technologies.\n\nThe fund announced in October that it had hit the 150 mark for investments.",
+    "url": "https://www.coindesk.com/markets/2025/05/29/asia-morning-briefing-cooling-btc-pushing-up-altcoin-volumes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hester Peirce"
+            ],
+            "positions": [
+                "chief of the U.S. Securities and Exchange Commission's crypto task force"
+            ],
+            "companies": [
+                "Flowdesk",
+                "CoinDesk",
+                "Blockchain Founders Fund",
+                "Shardeum",
+                "Validation Cloud"
+            ],
+            "organizations": [
+                "U.S. House Republicans",
+                "Commodity Futures Trading Commission",
+                "Securities and Exchange Commission",
+                "SEC",
+                "Senate",
+                "Bitcoin 2025",
+                "BTC Vegas",
+                "Web Summit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes Bitcoin consolidating near all-time highs with declining volatility while altcoin volumes increase, reflecting a market transition rather than clear directional momentum."
+    }
+}

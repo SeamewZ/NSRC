@@ -1,0 +1,35 @@
+{
+    "title": "Stablecoins Could Bring 'ChatGPT' Moment to Blockchain Adoption, Hit $3.7T by 2030: Citi",
+    "summary": "Stablecoin issuers could become one of the top U.S. Treasury holders, surpassing major sovereign nations, the report projected.",
+    "time": "2025-04-25T17:56:00",
+    "author": "Krisztian Sandor",
+    "content": "Global bank Citi has predicted 2025 could be a possible inflection point for blockchain adoption driven by stablecoins, akin to the breakout year artificial intelligence (AI) had with popular application ChatGPT.\n\n\"2025 has the potential to be blockchain’s ‘ChatGPT’ moment,\" the bank's analysts said in a report published earlier this week.\n\nAt the center of the Citi's projection are stablecoins, a class of cryptocurrencies pegged to traditional currencies like the U.S. dollar. These tokens, led by Tether's $145 billion USDT and Circle's $60 billion USDC, have seen tremendous growth recently and are increasingly being used for payments and remittances globally.\n\nCiti sees the asset class potentially growing to $1.6 trillion by 2030 in its base case from the current $230 billion, with the caveat that regulatory support and institutional integration take hold. In the bank's more optimistic scenario, the market could balloon to $3.7 trillion, though lingering structural challenges could keep the number closer to $500 billion in the bank's bear case.\n\nA major catalyst is the supportive regulatory stance in the U.S., with a recent presidential executive order directing the formation of a federal framework for digital assets, the report said. The clarity around stablecoin rules could allow these tokens to be more deeply embedded in the financial system, offering faster payments, improved transparency and more efficient asset settlement.\n\n\"This could lead to greater adoption of blockchain-based money and spur other use cases, financial and beyond, in the U.S. private and public sector,\" the authors noted.\n\nStablecoins are expected to remain heavily dollar-denominated in the future. The report anticipates that around 90% of stablecoins in circulation in 2030 will still be tied to the U.S. dollar, cementing its dominance.\n\nThis has major implications for the global financial system. Dollar stablecoin issuers could become one of the largest buyers of U.S. Treasuries, assuming that regulations push toward backing tokens with low-risk, highly liquid traditional financial assets like government bonds. Citibank estimated issuers could hold $1.2 trillion in U.S. government debt by the end of the decade, potentially surpassing all major foreign sovereign holders.\n\nMeanwhile, the central banks of countries in Europe and Asia will likely promote their own digital currencies, or CBDCs, the report noted.\n\nThe report pointed to several risks that could hamper the growth. Stablecoins de-pegged nearly 1,900 times in 2023 alone, including more than 600 instances involving major tokens, the report's authors wrote, citing Moody's data.\n\nIn extreme cases, mass redemptions—like those following the collapse of Silicon Valley Bank (SVB) that consequently hit USDC—can disrupt crypto liquidity, force automated selloffs and ripple through financial markets, the authors added.",
+    "url": "https://www.coindesk.com/markets/2025/04/25/stablecoins-could-bring-chatgpt-moment-for-blockchain-adoption-hit-usd3-7t-by-2030-citi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Citi",
+                "Tether",
+                "Circle",
+                "Citibank",
+                "Silicon Valley Bank",
+                "Moody's"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "U.S. government",
+                "central banks"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The report predicts massive growth for stablecoins ($1.6T-$3.7T by 2030) and describes 2025 as blockchain's 'ChatGPT moment' with supportive regulatory developments and institutional integration."
+    }
+}

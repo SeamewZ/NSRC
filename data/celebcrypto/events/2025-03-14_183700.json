@@ -1,0 +1,51 @@
+{
+    "title": "Cardano: Deep Dive on the Trump Reserve Token Whose Blockchain Ignores TVL",
+    "time": "2025-03-14T18:37:00",
+    "author": "Oliver Knight",
+    "summary": "The Cardano Foundation measures growth in real-world use cases and not TVL.",
+    "content": "Trading volumes for Cardano's ADA token have exploded of late with daily figures averaging around $720 million in February while exceeding an average of $1.4 billion in March.\n\nThis rise was spurred by a social media post by U.S. President Donald Trump, who mentioned ADA as one of the tokens that would be included in the nation's strategic crypto reserve.\n\nAlthough Cardano is enjoying its moment of mainstream attention, the layer-1 blockchain has been quietly emerging as a crypto juggernaut since it went live in late 2017.\n\nThe ADA token has a market cap of $25.6 billion but what's more notable is what's under the hood; data from Google shows that the Cardano blockchain has more than 5 million unique wallets and 1.3 million delegators, with thousands of new wallets being created per day.\n\nThe blockchain also has $329 million in total value locked (TVL), although Cardano Foundation CEO Frederik Gregaard believes that metric is overemphasized by crypto communities.\n\nInstead, he points to \"non-value transactions\" associated with people conducting real-world – albeit non-financial – activities on blockchain rails: Minting a decentralized ID, tracking metadata, recording documents, that sort of thing. Cardano's a hotbed of such activity, he said.\n\n\"I'm fighting to ensure that 50% of the activity is a non-value transaction,\" Gregaard told CoinDesk.\n\nOne example of this is Cardano's partnership with Veritree, which saw the Cardano community donate over 1 million ADA tokens to plant 1 million mangrove trees in Kenya, with each donation verified and tracked on the blockchain.\n\nLast week, the Cardano Foundation also announced a deal with SERPRO — Brazil's largest state-owned IT company – to accelerate blockchain adoption in South America. SERPRO processes 33 billion transactions annually for 90% of Brazil's federal administration. Additionally, 8,000 employees will also receive blockchain training.\n\nCardano's perspective differs from the likes of Solana and the slew of layer-2 networks like Base that pride themselves on total value locked (TVL) and hype-driven movements like memecoins and non-fungible tokens (NFTs).\n\nTVL on Solana grew from $2.2 billion to more than $10 billion in 2024, Cardano meanwhile zipped from a modest $445 million to $537 million in the same period.\n\nWhilst Cardano Foundation's CEO said his focus is on real-world use cases, the blockchain still boasts a bustling DeFi ecosystem under the surface.\n\nMinswap is Cardano's native decentralized exchange (DEX). Its cumulative trading volume hit $3.4 billion this month with December alone notching a near-record $271 million, DefiLlama data shows.\n\nThere are also a number of lending protocols including Liqwid, Lenfi and Optim Finance, with TVL across Cardano's lending sector exceeding $116 million.\n\nBut the key part of Gregaard's mission, he insists, is not to exceed that 50% level for financialized transactions. He sees it as staying in line with the Cardano Foundation's non-profit ethos, even if it limits potential exponential growth of hype-fueled movements like memecoins.\n\nFulfilling that ethos has its own challenges, mostly because the blockchain is run by three main entities: the Cardano Foundation, Charles Hoskinson's IOG and Emurgo. The latter two are commercial businesses, which can cause friction between them and the foundation.\n\n\"The intent of having a non-profit was that you can optimize decision-making based on 10 years, it's different than if you optimize decision-making tomorrow,\" Gregaard added.\n\nSome of the friction was highlighted by an anonymous Cardano community member in December, who penned an email on a path forward and detailed how the entities running Cardano were at loggerheads.\n\n\"CF’s recent burst of activity is part of a larger strategic play—an attempt to undermine Charles, IOG, Intersect, and the broader governance roadmap,\" the email read.\n\n\"It's been a long and difficult road, but I do agree with some of the sentiments of the whistleblower,\" Hoskinson wrote in response on X.\n\nGregaard, however, was more diplomatic about any potential rift.\n\n\"There's no monetary exchange going on between us, but we do work very closely together,\" he said.\n\n\"We sometimes go to [a conference] and we share a booth. So we come together and we sponsor booths together, that's the closest you will get to any affiliates, which is very different compared to both the Ethereum foundation or Tezos foundation, where they basically control the Treasury and control the disbursements.\"\n\n\"On the flip side, we [Cardano Foundation] are the liability umbrella for the community and the blockchain, which means that we are the one who interacts with the SEC and the CSDC and the FMA, and I negotiated MICA with the European Parliament.\"",
+    "url": "https://www.coindesk.com/business/2025/03/11/cardano-deep-dive-into-one-of-trump-s-reserve-tokens-and-a-blockchain-that-ignores-tvl",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Frederik Gregaard",
+                "Charles Hoskinson"
+            ],
+            "positions": [
+                "U.S. President",
+                "Cardano Foundation CEO"
+            ],
+            "companies": [
+                "Google",
+                "Veritree",
+                "SERPRO",
+                "IOG",
+                "Emurgo",
+                "Minswap",
+                "Liqwid",
+                "Lenfi",
+                "Optim Finance",
+                "Intersect",
+                "Ethereum foundation",
+                "Tezos foundation"
+            ],
+            "organizations": [
+                "Cardano Foundation",
+                "CoinDesk",
+                "SEC",
+                "CSDC",
+                "FMA",
+                "European Parliament"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "Cardano",
+            "Solana",
+            "Base"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes exploding trading volumes, mainstream attention from presidential endorsement, growing user adoption metrics, and multiple real-world partnerships indicating strong positive momentum for Cardano."
+    }
+}

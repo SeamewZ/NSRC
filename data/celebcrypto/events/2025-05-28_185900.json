@@ -1,0 +1,30 @@
+{
+    "title": "NYC Mayor Eric Adams Calls for the End of NYDFS' BitLicense, Proposes 'BitBond'",
+    "summary": "Speaking at Bitcoin 2025 in Las Vegas on Wednesday, Adams said getting rid of the BitLicense will \"allow us to have the free flow of Bitcoin in our city.\"",
+    "time": "2025-05-28T18:59:00",
+    "author": "Cheyenne Ligon",
+    "content": "LAS VEGAS, Nevada — Eric Adams, the mayor of New York City, called for the end of the BitLicense in a speech at Bitcoin 2025 in Las Vegas on Wednesday.\n\nDuring his speech, Adams encouraged crypto businesses to return to the U.S. and set up shop in New York, echoing comments he made last week at the city's first-ever crypto summit held at Gracie Mansion, the mayor's official home in Manhattan.\n\n\"New York is the Empire State. We don't break empires. We build empires. We're saying to you, come back home,\" Adams said. \"[I'm] the Bitcoin mayor, and I want you back in the City of New York, where you won't be attacked and criminalized. Let's get rid of the [Bit]License and allow us to have the free flow of bitcoin in our city.\"\n\nAdams has previously criticized the BitLicense, the notoriously difficult-to-obtain license issued by New York's top financial regulator, the New York Department of Financial Services (NYDFS). However, when asked about the impact of the BitLicense and NYDFS's reputation as a tough regulator during a press conference earlier this month, Adams hedged, saying it was \"good to know the city is going to have safe regulations in place for those who are investing and there's not going to be any abuses, but at the same time, we can over regulate.\"\n\nAdams also promised to fight for the creation of a so-called BitBond, probably referring to a municipal bond backed by bitcoin.\n\nSuch a bond could potentially allow residents of New York to gain exposure to the top cryptocurrency in a tax-advantaged way. The instrument would also enable the city to raise capital.\n\nAdams did not provide details about the city's potential BitBond. However, the Bitcoin Policy Institute released a policy brief in March advocating for BitBonds that would use 90% of their proceeds to fund government and 10% to purchase bitcoin.\n\nHolders of the bond would receive 1% interest annually for 10 years. Upon maturity of the bond, they would also receive 100% of bitcoin's upside up to 4.5% compounded return, then 50% of all remaining upside. Any remaining bitcoin gains would be used to constitute the government's bitcoin reserve.\n\nAdams, who was first elected as a Democrat, is currently running for re-election as an independent.",
+    "url": "https://www.coindesk.com/policy/2025/05/28/nyc-mayor-eric-adams-calls-for-the-end-of-nydfs-bitlicense-proposes-bitbond",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Adams"
+            ],
+            "positions": [
+                "NYC Mayor",
+                "Bitcoin mayor"
+            ],
+            "companies": [],
+            "organizations": [
+                "NYDFS",
+                "Bitcoin Policy Institute"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The mayor's call to eliminate restrictive BitLicense regulations and promote Bitcoin adoption in New York City represents positive regulatory sentiment that could increase market access and institutional participation."
+    }
+}

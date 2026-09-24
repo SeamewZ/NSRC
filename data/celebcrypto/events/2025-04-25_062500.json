@@ -1,0 +1,37 @@
+{
+    "title": "Nvidia Continues to Keep Crypto at Arm’s Length",
+    "summary": "A last-minute halt on a crypto announcement underscores how Nvidia still excludes blockchain projects from its flagship programs, despite continued outreach from the sector.",
+    "time": "2025-04-25T06:25:00",
+    "author": "Sam Reynolds",
+    "content": "ARB\n$0.2610\nwas set to make a splash.\n\nThe Layer 2 network, home to a growing number of decentralized AI platforms, was preparing to announce a milestone: it had been named Nvidia’s exclusive Ethereum partner for the chipmaker’s new Ignition AI Accelerator, an offshoot of its Inception program that supports promising AI startups with infrastructure credits and mentorship.\n\nThen came the pivot.\n\n“We received some last-minute comms from Nvidia requesting to pause the announcement, however, they didn’t provide any specific details as to why,” a spokesperson told CoinDesk in an email.\n\nIt’s a telling moment, and a reminder that despite crypto’s continued efforts to align with the booming AI sector, Nvidia’s programs still explicitly exclude crypto-related projects. A quick look at the Inception Accelerator’s criteria (Ignition is an offshoot of it, given the Inception badge on its site) shows a clear disqualifier: cryptocurrency.\n\nThis stance isn’t new, and while it may frustrate crypto developers looking to tap into Nvidia’s ecosystem, it reflects a longer history of distance, and occasional disparagement, from the company’s leadership.\n\nBack in 2018, co-founder and CEO Jensen Huang described the fallout from the ICO boom as giving Nvidia a “crypto hangover.” Ethereum’s price collapse left the company saddled with unsold GPU inventory, and Nvidia later paid a $5.5 million fine over how it reported crypto-related revenue impact.\n\nYears later, in a 2023 interview with The Guardian, Nvidia CTO Michael Kagan was more direct: “Crypto doesn’t bring anything useful for society,” he said, adding, “I never believed that [crypto] is something that will do something good for humanity,” contrasting it to AI.\n\nThis skepticism has stood in stark contrast to Nvidia’s embrace of artificial intelligence, and occasional tolerance of blockchain.\n\nAt the company’s 2024 Graphics Technology Conference, Huang appeared onstage with Illia Polosukhin, co-author of Attention Is All You Need, the paper that introduced Transformer models, which are the foundation for modern AI tools like ChatGPT. While Polosukhin also co-founded the NEAR blockchain, the discussion centered squarely on AI, not crypto.\n\nThe closest nod to the industry came when Huang, in characteristically broad strokes, said: “We got programmable humans, we got programmable proteins, we got programmable money.” The remark, likely rhetorical, wasn’t a signal of support for crypto, despite the AI token bulls, and indeed not of any strategic shift.\n\nEven though Nvidia has been clear on its position about crypto, some in the industry continue to interpret moments like these as cracks in the door, a potential softening that might eventually lead to inclusion. But with crypto still formally excluded from Nvidia’s flagship programs and the company declining to comment on its current stance, the door appears just as firmly shut.\n\nFor now, Nvidia’s message seems clear: crypto’s not invited.",
+    "url": "https://www.coindesk.com/news-analysis/2025/04/25/nvidia-continues-to-keep-crypto-at-arms-length",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jensen Huang",
+                "Michael Kagan",
+                "Illia Polosukhin"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "CTO",
+                "co-author",
+                "co-founder"
+            ],
+            "companies": [
+                "Nvidia",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "The Guardian",
+                "NEAR blockchain",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Nvidia's continued exclusion of crypto projects from its programs and negative historical comments from leadership about cryptocurrency's societal value."
+    }
+}

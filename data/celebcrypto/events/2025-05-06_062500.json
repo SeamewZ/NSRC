@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Developers Plan OP_RETURN Limit Removal in Next Release",
+    "summary": "Bitcoin Core’s decision to lift its long-standing 80-byte OP_RETURN limit has reignited tensions within the network’s developer and node-running communities.",
+    "time": "2025-05-06T06:25:00",
+    "author": "Sam Reynolds",
+    "content": "The debate over Bitcoin's OP_RETURN heats up, as developers of Bitcoin Core – the most popular node software – said they plan to scrap OP_RETURN entirely in the next release.\n\nThe OP_RETURN limit is an 80-byte cap on the amount of arbitrary data that can be embedded in a Bitcoin transaction using a special, unspendable output field.\n\n“Large-data inscriptions are happening regardless and can be done in more or less abusive ways,” said Core contributor and Engineer at Blockstream Greg Sanders, known as ‘instagibbs,’ in a post on Github announcing the removal. “The cap merely channels them into more opaque forms that cause damage to the network.”\n\nThe debate centered on whether lifting the 80-byte OP_RETURN limit promotes transparency and simplifies data use on Bitcoin, or whether it opens the door to abuse, spam, and a shift away from Bitcoin’s financial focus.\n\nOn Github, Sanders added that enforcing the cap has created perverse incentives pushing users to embed data in fake public keys or spendable scripts. Removing the limit, he argues, “yields at least two tangible benefits: a cleaner UTXO set and more consistent default behavior.”\n\nNot everyone is convinced. Core developer Luke Dashjr has long viewed inscriptions and other data storage as spam, and warned in April 2025 that this change was “utter insanity.”\n\nAmid the controversy, Bitcoin Knots, also maintained by Dashjr, has seen growing adoption, hitting approximately 5% share of all nodes.\n\nBitcoin Knots, a more customizable fork of Bitcoin Core, appeals to users seeking greater control over what their nodes relay or store, including allowing users to reject non-payment transactions like inscriptions.\n\nSome prominent thought leaders in the industry, like Samson Mow, are encouraging node operators not to upgrade their version of Bitcoin Core, or use Knots instead.\n\nSanders defended the removal of the cap as aligned with Bitcoin’s ethos: minimal, transparent rules.\n\n“By retiring a deterrent that no longer deters,” he wrote, “Bitcoin Core lets the fee market arbitrate competing demands.”\n\nBut that isn't bringing much consensus.\n\n“This marks a fundamental shift in the direction of Bitcoin,” one commenter warned on GitHub.\n\n\"This is the largest mistake Core can make at this juncture,\" another on Github added. “I want to be on the record saying that.”\n\nCORRECT: (May 6, 08:14 UTC): Removes \"former\" developer from seventh paragraph.",
+    "url": "https://www.coindesk.com/tech/2025/05/06/bitcoin-developers-plan-op_return-removal-in-next-release",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Greg Sanders",
+                "instagibbs",
+                "Luke Dashjr",
+                "Samson Mow"
+            ],
+            "positions": [
+                "Core contributor",
+                "Engineer at Blockstream",
+                "Core developer"
+            ],
+            "companies": [
+                "Blockstream"
+            ],
+            "organizations": [
+                "Bitcoin Core",
+                "Bitcoin Knots"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes significant controversy and division within the Bitcoin developer community about the OP_RETURN limit removal, with strong arguments on both sides but no clear market direction indicated."
+    }
+}

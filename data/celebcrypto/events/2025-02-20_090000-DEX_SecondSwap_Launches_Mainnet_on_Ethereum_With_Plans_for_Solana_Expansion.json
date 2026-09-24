@@ -1,0 +1,31 @@
+{
+    "title": "DEX SecondSwap Launches Mainnet on Ethereum With Plans for Solana Expansion",
+    "time": "2025-02-20T01:00:00",
+    "author": "Shaurya Malwa",
+    "summary": "Secondary markets for locked tokens refer to platforms or mechanisms where tokens that are under some form of lock-up or vesting schedule.",
+    "content": "Secondary token markets SecondSwap on Thursday launched its mainnet on Ethereum with the aim of providing a more efficient market for illiquid assets by eliminating intermediaries and establishing fair token value in the open market.\n\nSecondSwap uses a liquidity routing algorithm that optimizes trade execution and minimizes price slippage to ensure secure and scalable trading experiences for buyers and sellers.\n\n“By introducing a decentralized order book-style exchange, we are bringing transparency to token secondary markets,” said Kanny Lee, founder of SecondSwap, in an email to CoinDesk.\n\n“Our platform provides visibility into buy and sell orders, leveraging price discovery mechanisms such as market depth and liquidity profiling. Through seamless wallet integration, we ensure proof of control for sellers and proof of funds for buyers, enhancing security and trust.”\n\nSecondary markets for locked tokens refer to platforms or mechanisms where tokens that are under some form of lock-up or vesting schedule can be traded before they are fully released or unlocked.\n\nThese markets provide a way for holders of locked tokens to gain liquidity, meaning they can convert their holdings into cash or other assets before the tokens are fully unlocked — giving early liquidity to sellers and the chance of gaining assets at a discount for buyers.\n\nSecondSwap has introduced a bid campaign to facilitate price discovery and enhance liquidity in early weeks, allowing traders to set their own prices and support matching between buyers and sellers once the buy/sell flow feature is enabled.\n\nTraders link their wallets, accessing a list of locked tokens that they can express an interest in buying by setting their preferred price target. Participants will be notified when inventory is available at prevailing prices, ensuring early adopters can engage with new opportunities as they emerge.\n\nThe platform plans to expand to the Solana network in the coming months, a feat Lee says could unlock over $500 million in volume.\n\n“Locked token liquidity represents billions of dollars of untapped value. The impact of unlocking this liquidity cannot be understated. On Solana alone, even activating just 10% of dormant liquidity, could inject over $500 million in actionable volume,” Lee said.\n\n“It’s definitely one of the drivers for partnering with Solana at the outset. When coupled with the impact that SecondSwap’s vesting mechanism can offer memecoins - to reduce circulating supply - the Solana partnership will continue to flourish and benefit the wider market.”",
+    "url": "https://www.coindesk.com/markets/2025/02/20/dex-secondswap-launches-mainnet-on-ethereum-with-plans-for-solana-expansion",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kanny Lee"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "SecondSwap"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Solana"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of SecondSwap's mainnet with plans to unlock over $500 million in volume and inject actionable liquidity into the market indicates positive market development and increased trading activity."
+    }
+}

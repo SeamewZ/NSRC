@@ -1,0 +1,30 @@
+{
+    "title": "Fireblocks Adds Support for Sony's Soneium, First Step in Provision of Custody Services",
+    "time": "2025-02-12T01:00:00",
+    "author": "Sam Reynolds",
+    "summary": "Support for Soneium is a precursor for firms to use Fireblocks' technology to provide crypto custody services on the month-old blockchain.",
+    "content": "EMBARGO Feb 12 9 AM HK TIME\n\nFireblocks, a provider of crypto custodian technology, said it added support for Sony's Soneium blockchain, an Ethereum layer-2 network that aims to bridge the conventional internet, or Web2, and the emerging, blockchain-based Web3.\n\nFireblocks counts many large institutions among its clients, including large banks. Crypto custodians, which provide safe storage for digital assets, are essential for institutional adoption of digital assets because large capital allocators such as hedge funds or family offices require their use for insurance reasons.\n\nSupport for Soneium, a joint venture between Sony and Singapore's Startale Labs, opens the door for the provision of custody services on the nascent blockchain, which started operations only in January and has just $33.6 million in total value locked (TVL), according to DeFeLlama data. It is built with Optimism’s OP Stack to support gaming, finance and entertainment apps.\n\nFireblocks is \"committed to helping Soneium on their vision of creating an open internet that transcends boundaries,\" Omer Amsel, Fireblocks' head of Web3, said in a release. \"Together, we will provide secure, decentralized digital ownership and experiences to users and creators while offering a safe environment for digital innovation.\"",
+    "url": "https://www.coindesk.com/markets/2025/02/12/fireblocks-adds-support-for-sony-s-soneium-first-step-in-provision-of-custody-services",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omer Amsel"
+            ],
+            "positions": [
+                "head of Web3"
+            ],
+            "companies": [
+                "Fireblocks",
+                "Sony",
+                "Startale Labs",
+                "Optimism"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption through Fireblocks' custody support for Sony's Soneium blockchain, which facilitates secure digital asset storage and promotes Web3 innovation."
+    }
+}

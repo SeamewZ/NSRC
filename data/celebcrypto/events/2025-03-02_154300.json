@@ -1,0 +1,44 @@
+{
+    "title": "Donald Trump Names XRP, SOL, ADA, BTC and ETH as Part of U.S. Crypto Reserve",
+    "summary": "The U.S. president provided the first details about what a crypto reserve may look like.",
+    "time": "2025-03-02T15:43:00",
+    "author": "Nikhilesh De",
+    "content": "U.S. President Donald Trump named XRP, Solana\nSOL\n$157.39\nand\nADA\n$0.5335\nas three assets to be included in a U.S. strategic crypto reserve on Sunday, providing the first details about what such a reserve may look like.\n\nNotably, Trump did not initially mention bitcoin\nBTC\n$101,865.20\nor Ethereum\nETH\n$3,326.19\n— the two largest cryptocurrencies by market capitalization — in his statement, but he later clarified that the reserve would include these assets as well. Trump made the announcements on Truth Social, his social media platform.\n\n\"A U.S. Crypto Reserve will elevate this critical industry after years of corrupt attacks by the Biden Administration, which is why my Executive Order on Digital Assets directed the Presidential Working Group to move forward on a Crypto Strategic Reserve that includes XRP, SOL, and ADA,\" Trump stated. \"I will make sure the U.S. is the Crypto Capital of the World. We are MAKING AMERICA GREAT AGAIN!\"\n\nFollowing Trump's initial announcement, XRP, SOL, and ADA experienced significant price surges. The price of ADA soared by more than 63% within two hours after the president's post, while SOL increased by 23% and XRP by 32%.\n\nWhile fans of XRP, ADA and SOL celebrated the news, some BTC and ETH fans initially responded with a mixture of disappointment and surprise.\n\nAround an hour after his initial post, the president clarified that \"BTC and ETH, as other valuable Cryptocurrencies, will be at the heart of the Reserve.\"\n\nTrump has been discussing the idea of a strategic crypto reserve since his 2024 presidential campaign. Soon after taking office in January, he signed an executive order directing a working group to evaluate the formation of a strategic crypto reserve, but the order did not explicitly mandate that the U.S. establish one outright.\n\nThe order said the digital assets working group should \"evaluate the potential creation and maintenance of a national digital asset stockpile.\" Trump said on Sunday that the group should \"move forward\" with formally establishing the reserve. The working group will host a summit on Friday with crypto industry and government representatives.\n\nSen. Cynthia Lummis previously introduced a bill to create a strategic bitcoin reserve for the U.S. She first advocated for one at July's Bitcoin Nashville conference, where then-candidate Trump also spoke. The bill proposed by Lummis would have authorized the U.S. Treasury to acquire one million bitcoins over five years, equating to approximately 5% of the total Bitcoin supply.\n\nA number of U.S. state legislatures have already introduced bills to create their own strategic crypto reserves, though most of these efforts have failed to take off.\n\nDavid Sacks, the White House crypto and AI czar, is a limited partner of Multicoin Capital, which is invested in Solana, a blockchain ecosystem focused on providing low fees and fast transactions. Sacks said in a 2021 interview that he was \"hodling\" SOL, the blockchain's native token, though he said in a post on X late Sunday that he sold all of his cryptocurrency holdings \"prior to the start of the administration.\" TRUMP, the president's memecoin, is also built on Solana.\n\nSacks said on X (formerly Twitter) that Trump's announcement was \"consistent with his week-one EO\" shortly after Trump's posts.\n\nRipple, meanwhile, is in the midst of a years-long legal battle with the U.S. Securities and Exchange Commission, which charged the company with selling XRP — the native token of the Ripple-supported XRP Ledger blockchain — as an unregistered security during Trump's first term. In recent months, Ripple has sought to increase its profile in Washington, including by contributing heavily to Fairshake, a crypto industry super PAC, as well as to Trump's 2025 inaugural fund.\n\nUPDATE (March 2, 2025, 16:50 UTC): Adds additional information and Trump's second post.\n\nUPDATE (March 2, 17:15 UTC): Adds additional information and responses.\n\nUPDATE (March 3, 03:35 UTC): Adds new David Sacks tweet.",
+    "url": "https://www.coindesk.com/policy/2025/03/02/trump-to-establish-u-s-crypto-reserve",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Cynthia Lummis",
+                "David Sacks"
+            ],
+            "positions": [
+                "U.S. President",
+                "Sen.",
+                "White House crypto and AI czar"
+            ],
+            "companies": [
+                "Ripple",
+                "Multicoin Capital",
+                "Fairshake"
+            ],
+            "organizations": [
+                "Biden Administration",
+                "Presidential Working Group",
+                "U.S. Securities and Exchange Commission",
+                "Bitcoin Nashville conference",
+                "crypto industry super PAC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "ADA",
+            "BTC",
+            "ETH",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news explicitly states that XRP, SOL, and ADA experienced significant price surges of 63%, 23%, and 32% respectively following Trump's announcement about including them in a U.S. strategic crypto reserve."
+    }
+}

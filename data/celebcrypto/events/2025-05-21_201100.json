@@ -1,0 +1,37 @@
+{
+    "title": "NY Prosecutors: FinCEN Opinion on Samourai Wallet 'Irrelevant’ in Roman Storm Case",
+    "summary": "Storm’s lawyers asked the court to order prosecutors to turn over any potentially helpful evidence in their case against the developer.",
+    "time": "2025-05-21T20:11:00",
+    "author": "Cheyenne Ligon",
+    "content": "Prosecutors in the case against Tornado Cash developer Roman Storm are attempting to to sidestep the possibility that a New York judge forces them to hand over additional evidence that could help Storm's case.\n\nIn a Wednesday letter to the court, prosecutors pushed back against Storm’s lawyers’ assertions that they’d failed to meet their so-called Brady obligations — a constitutional requirement for prosecutors to turn over any potentially helpful evidence to the defense before trial.\n\nAt the heart of the debate is a recent production of evidence in another case in the Southern District of New York (SDNY): the legal pursuit of Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill. Both cases involve a crypto mixing service that prosecutors allege was knowingly used to launder crime proceeds,\n\nIn the Samourai Wallet case, however, prosecutors recently admitted to having a conversation with two Financial Crimes Enforcement Network (FinCEN) officials in 2023 — before pressing charges — in which the government employees said they didn’t believe the mixing service would qualify as a money transmitting business under their guidelines and didn’t need a license to operate. Lawyers for Rodriguez and Hill accused prosecutors of suppressing critical evidence and violating their right to due process. Last week, the judge overseeing the case denied their motion for a hearing on the matter, telling them instead to include their concerns in their pre-trial motion due at the end of the month.\n\nThough the cases are separate, lawyers for Roman Storm expressed concern that the prosecution’s failure to inform them of their communications with FinCEN regarding Samourai Wallet’s status as a money transmitting business also potentially constituted a Brady violation in Storm’s case.\n\nIn their Wednesday response, prosecutors said that the FinCEN conversation wasn’t evidence.t was an opinion, not a fact, they stated, and therefore not required to be turned over to the defense. Prosecutors also claimed that their discussion with FinCEN was irrelevant to Storm’s case, because it wasn’t specifically about Tornado Cash.\n\n“Tornado Cash simply was not part of the conversation,” prosecutors wrote. “While Samourai Wallet and the Tornado Cash service may share some superficial similarities, they operated quite differently.”\n\nProsecutors said that they didn’t have similar conversations with FinCEN about Tornado Cash, claiming that there were “no such interactions comparable to those described in the Rodriguez Disclosures.”\n\n“As the government has repeatedly explained to the defense in this case, the government has neither sought nor obtained an opinion from any employee at FinCEN — or any other government agency — regarding whether the Tornado Cash service is subject to registration obligations,” prosecutors wrote. “Such an opinion — especially an informal opinion offered by employees who expressly disclaim to be speaking for the agency — would not be legally admissible and would not constitute Brady material.”\n\nThe case against Storm is expected to begin on July 14 in New York.",
+    "url": "https://www.coindesk.com/policy/2025/05/21/ny-prosecutors-fincen-opinion-on-samourai-wallet-irrelevant-in-roman-storm-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Storm",
+                "Keonne Rodriguez",
+                "William Lonergan Hill"
+            ],
+            "positions": [
+                "lawyers",
+                "prosecutors",
+                "developer",
+                "co-founders",
+                "government employees",
+                "judge"
+            ],
+            "companies": [
+                "Samourai Wallet",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "FinCEN",
+                "Southern District of New York",
+                "SDNY"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ongoing legal prosecution against cryptocurrency mixing service developers, indicating regulatory crackdown and legal uncertainty in the crypto space."
+    }
+}

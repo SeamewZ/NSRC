@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Could Slide to $90K as BTC Traders Eye Fed Meeting",
+    "summary": "The Fed is widely expected to leave rates steady on Wednesday, but traders will monitor comments for economic projections and clarity on future rate cuts.",
+    "time": "2025-05-05T13:03:00",
+    "author": "Shaurya Malwa",
+    "content": "Bitcoin\nBTC\n$102,012.78\nslipped below $95,000 on Monday, with traders now eyeing a possible retreat to $90,000 or lower amid growing macro uncertainty and a shift in market focus to this week’s Federal Reserve meeting.\n\nThe pullback follows a strong two-week rally, during which BTC briefly pushed past $98,000, drawing in retail interest and institutional flows. However, some analysts are flagging a confluence of technical and macro risks that could further pressure prices.\n\n“We’re back at a key resistance zone that acted as support from December to February,” said FxPro’s Alex Kuptsikevich in an email to CoinDesk.\n\n“The next downside targets are $92,500 and $89,000. A clean break below $90,000 would be technically and psychologically damaging, taking us under the 200-day moving average.”\n\nTraders eye developments in ongoing U.S.-China tariff talks, which can tend to heavily influence bitcoin prices, and await the Federal Reserve's policy meeting later this week.\n\nThe Fed is widely expected to leave rates steady on Wednesday, but traders will monitor comments for economic projections and clarity on future rate cuts.\n\n“The combination of solid data and hopes of easing trade tensions helped markets rebound from the post-Liberation Day selloff,” Singapore-based QCP Capital noted in a morning brief.\n\n“But with earnings season winding down, the focus now shifts to the Fed and U.S.–China trade developments. Although PCE data shows that inflationary pressures are easing, heightened import tariffs risk reigniting price instability. The key question remains whether the Fed will continue to resist political pressure from Trump to cut rates or consider a shift in stance,” QCP added.\n\nDespite the short-term pullback, spot bitcoin ETFs continue to draw inflows. Net inflows last week totaled $1.81 billion, according to SoSoValue.\n\nHowever, on-chain indicators suggest caution may be warranted. Glassnode flagged that the cumulative unrealized gains for long-term bitcoin holders have reached nearly 350%, a level that historically precedes periods of heavy profit-taking.\n\nMeanwhile, Santiment data shows meme coin chatter hit a 2025 peak in recent weeks — a sign that traders may be cycling back into higher-risk bets after months of rotation into majors and ETFs.\n\nBut the shift hasn’t translated into sustained upside across the board. GORK, a memecoin tied to an AI chatbot parody account recently referenced by Elon Musk, failed to extend gains despite the high-profile attention — suggesting that celebrity-driven pumps may be losing steam in the current environment, as reported in Monday’s Crypto Daybook.",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-could-slide-to-usd90k-as-btc-traders-eye-fed-meeting",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Kuptsikevich",
+                "Elon Musk",
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "FxPro",
+                "CoinDesk",
+                "QCP Capital",
+                "SoSoValue",
+                "Glassnode",
+                "Santiment"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "GORK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin slipping below $95,000 with analysts predicting further declines to $90,000 or lower, citing technical resistance, macro uncertainty, and indicators suggesting heavy profit-taking is likely."
+    }
+}

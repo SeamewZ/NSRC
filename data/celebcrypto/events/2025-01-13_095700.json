@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Under Pressure as Goldman Trims Fed Rate Cut Expectations, BofA Sees Potential Hike After Blowout Jobs Report",
+    "time": "2025-01-13T09:57:00",
+    "author": "Omkar Godbole",
+    "summary": "Risk assets trade weak as investment banks pare back Fed rate cuts in the wake of Friday's hotter-than-expected U.S. jobs report.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nstarted the new week on a negative note as major investment banks reassessed their expectations for Federal Reserve (Fed) rate cuts following Friday's strong jobs report.\n\nThe leading cryptocurrency by market value dipped below $93,000 during the European hours, representing a 1.6% drop on the day, according to data source CoinDesk. Prices looked set to test the support zone near $92,000, which has consistently acted as a floor since late November.\n\nThe CoinDesk 20 Index, a broader market gauge, was down over 3%, with major coins like XRP, ADA, and DOGE posting bigger losses.\n\nIn traditional markets, futures tied to the S&P 500 traded 0.3% lower, pointing to an extension of Friday's 1.5% drop that pushed the index to the lowest since early November. The dollar index (DXY) neared 110 for the first time since late 2022, with elevated Treasury yields supporting further gains.\n\nData released Friday showed nonfarm payrolls increased by 256,000 in December, the most since March, surpassing expectations for 160,000 job additions and the previous figure of 212,000 by a big margin. The jobless rate declined to 4.1% from 4.2%, and the average hourly earnings came in slightly lower than expected at 0.3% month-on-month and 3.9% year-on-year.\n\nThat prompted Goldman Sachs to push out the next interest rate cut to June from March.\n\n\"Our economists now expect the Fed to cut just twice in 2025 (Jun/Dec vs Mar/Jun/Dec previously), with another rate cut in June 2026, Goldman's Economic Research note to clients on Jan. 10 said.\n\n\"If December's FOMC decision marked a significant shift back towards inflation in the Fed's relative weighting of risks, the December jobs report may have completed the pendulum swing. The soft average hourly earnings figure kept the print from sending a more alarming re-heating signal, but the case for cutting to mitigate risks to the labor market has faded into the background,\" the note explained.\n\nThe Fed's rate-cutting cycle began in September when the official reduced the benchmark borrowing cost by 50 basis points. The bank delivered quarter-point rate cuts in the following months before pausing in December to signal fewer rate cuts in 2025. BTC has surged over 50% since the first rate cut on Sept. 18, hitting record highs above $108,000 at one point.\n\nWhile Goldman and JPMorgan still expect rate cuts, Bank of America (BofA) fears an extended pause, with risks skewed in favor of a rate hike or renewed tightening. Note that the U.S. 10-year Treasury note yield, which is sensitive to interest rate, growth and inflation expectations, has already surged by 100 basis points since the Sept. 18 rate cut.\n\n\"We think the cutting cycle is over ... Our base case has the Fed on an extended hold. But we think the risks for the next move are skewed toward a hike,\" BofA analysts said in a note, according to Reuters.\n\nING said, \"The market is right to see the risk of an extended pause from the Fed\" in the light of the recent economic reports.\n\n\"That view will only increase if core inflation comes in at 0.3% month-on-month for a fifth consecutive month next week,\" ING said in a note to clients over the weekend.\n\nThe December consumer price index report is scheduled for release on Jan. 15. Some observers are worried that base effects could accelerate the headline CPI and the core CPI, adding to the hawkish Fed narrative.",
+    "url": "https://www.coindesk.com/markets/2025/01/13/bitcoin-under-pressure-as-goldman-trims-fed-rate-cut-expectations-bof-a-sees-potential-hike-after-blowout-jobs-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Goldman Sachs",
+                "Bank of America",
+                "JPMorgan",
+                "ING"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Fed",
+                "FOMC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "ADA",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin and major cryptocurrencies are trading lower as investment banks pare back Fed rate cut expectations following strong jobs data, creating negative pressure on risk assets."
+    }
+}

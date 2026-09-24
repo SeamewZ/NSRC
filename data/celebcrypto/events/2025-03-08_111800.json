@@ -1,0 +1,33 @@
+{
+    "title": "Ripple Co-founder’s $150M XRP Heist Related to LastPass Hack: ZachXBT",
+    "summary": "Larsen confirmed the incident in January, where he clarified the hack affected only his personal accounts, not Ripple’s corporate wallets.",
+    "time": "2025-03-08T11:18:00",
+    "author": "Shaurya Malwa",
+    "content": "A $150 million theft targeting Ripple co-founder Chris Larsen has been traced back to a security lapse involving the password manager LastPass, according to a forfeiture complaint filed by U.S. law enforcement on March 6 flagged by blockchain sleuth ZachXBT.\n\nZachXBT shared that the complaint detailed how Larsen’s private keys — or code to access one’s token holdings — were stored in LastPass, the widely used password manager that suffered a major breach in 2022.\n\nAt the time, hackers stole source code and technical data by compromising a developer's account. By November of that year, they used this access to infiltrate a cloud storage system, stealing encrypted customer password vaults and unencrypted metadata for an estimated 25 million users.\n\nAlthough ‘vaults’ were encrypted, weak or reused master passwords could be brute-forced, exposing stored data.\n\nHackers exploited this vulnerability, accessing Larsen’s keys and siphoning off the XRP, valued at $150 million at the time of the theft and over $600 million as of Saturday’s prices.\n\n“A forfeiture complaint filed yesterday by US law enforcement revealed the cause for the ~$150M (283M XRP) hack of Ripple co-founder, Chris Larsen's wallet in Jan 2024 was the result of storing private keys in LastPass (password manager which was hacked in 2022),” ZachXBT wrote on his Telegram channel.\n\n“Up to this point Chris Larsen had not publicly disclosed the cause of the theft,” he added.\n\nLarsen confirmed the incident in January, where he clarified the hack affected only his personal accounts, not Ripple’s corporate wallets. He is yet to publicly comment on the forfeiture notice.\n\nThe fallout from the 2022 LastPass hack has been extensive and remain ongoing. In December, The Security Alliance (SEAL), a team of cybersecurity experts focused on the crypto market, estimated that crypto losses connected to the breach had touched at least $250 million as of May 2024.",
+    "url": "https://www.coindesk.com/tech/2025/03/08/ripple-co-founder-s-usd150m-xrp-heist-related-to-lastpass-hack-zachxbt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Chris Larsen",
+                "ZachXBT"
+            ],
+            "positions": [
+                "Ripple co-founder",
+                "blockchain sleuth"
+            ],
+            "companies": [
+                "Ripple",
+                "LastPass"
+            ],
+            "organizations": [
+                "U.S. law enforcement",
+                "The Security Alliance (SEAL)"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $150 million cryptocurrency theft resulting from a security breach, which represents a negative security event for the crypto market."
+    }
+}

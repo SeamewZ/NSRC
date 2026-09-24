@@ -1,0 +1,36 @@
+{
+    "title": "Solana Bags Record Daily Fees of $35M Amid Trump Memecoin Frenzy",
+    "time": "2025-01-20T07:39:00",
+    "author": "Shaurya Malwa",
+    "summary": "Such fees are remarkably high for a low-cost blockchain, when transactions typically take fractions of a cent to settle.",
+    "content": "The world’s most-used blockchain just bagged its largest ever daily fees. On Saturday, Donald Trump’s official token, TRUMP, was issued on the Solana blockchain, which led to an uptick in trading volumes over the weekend.\n\nBetween Saturday and Sunday, the network generated fees of over $35 million and revenue of at least $14 million, DeFiLlama data shows. This volume originated from some 6 million active addresses.\n\nThese fees are more than double of Nov. 22 levels of nearly $14 million, when several AI Agent tokens populated the network and led to a trading frenzy.\n\nSuch fees are remarkably high for a low-cost blockchain, when transactions typically take fractions of a cent to settle. The TRUMP token attracted over $3 billion in trading volumes on Saturday and Sunday, with other ecosystem plays, such as Jupiter’s JUP, seeing heightened interest from traders.\n\nThe choice of Solana as an issuance network, in turn, bumped demand and sentiment for SOL tokens, as reported by CoinDesk. SOL trading volumes have rocketed from Thursday’s $3 billion to over $26 billion in the past 24 hours, with Saturday’s moves bringing weekly gains to over 46%.\n\nSOL has surged nearly 3,000% from its three-year low of $9 back in December 2022 when the implosion of crypto exchange FTX and prominent Solana backer Sam Bankman-Fried, dented sentiment for the network.\n\nLate Sunday, First Lady Melania Trump launched her own memecoin in a move that sent TRUMP spiraling down 50% at one point. The high volumes and network requests briefly caused ecosystem applications Jito and Phantom to encounter delays in Asian morning hours, though these were quickly rectified.\n\nPhantom reported 8 million transactional requests per minute in an X post. It said users swapped over $1.25 billion in volume and made 10 million transactions over a 24-hour period.",
+    "url": "https://www.coindesk.com/markets/2025/01/20/solana-bags-record-daily-fees-of-35-m-amid-trump-memecoin-frenzy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Sam Bankman-Fried",
+                "Melania Trump"
+            ],
+            "positions": [
+                "First Lady"
+            ],
+            "companies": [
+                "FTX",
+                "Phantom",
+                "Jito"
+            ],
+            "organizations": [
+                "DeFiLlama",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "TRUMP",
+            "JUP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record fees, surging trading volumes, and significant price gains for SOL and other tokens, indicating strong positive market momentum."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "SEC, Gemini Request Two-Month Pause in Lawsuit as 'Potential Resolution' in the Works",
+    "summary": "The Securities and Exchange Commission sued Gemini in 2023 over its now-defunct Earn product.",
+    "time": "2025-04-02T09:03:00",
+    "author": "Sam Reynolds",
+    "content": "A potential resolution could be coming soon in the long-running lawsuit between the U.S. Securities and Exchange Commission (SEC) and Gemini over the crypto company's Earn product.\n\nThe two submitted a joint request to the U.S. District Court for the Southern District of New York on Tuesday to consider a 60-day pause in the case as they consider a potential resolution.\n\nThe motion mirrors similar stay requests filed by the SEC in other crypto-related cases, including its cases against Binance and Tron, both of which were granted by the court. The regulator also filed a similar motion in its case against Coinbase before later dropping the suit entirely.\n\nThe SEC filed suit against Gemini and bankrupt crypto lender Genesis in January 2023, alleging that both companies had violated securities laws through the Gemini Earn program. Through the Earn program, retail investors were promised as much as 8% interest — paid by Genesis — on tokens invested through the program.\n\nWhen Genesis halted withdrawals in the wake of FTX’s November 2022 collapse, approximately $900 million in user funds were trapped on the platform, according to the SEC’s initial complaint. A public dispute between the two companies’ leadership followed, and by Jan. 10, 2023, Gemini shuttered the Earn program. Two days later, the SEC filed charges against both companies. That same month, Genesis filed for bankruptcy. In February 2024, Genesis paid the SEC a $21 million fine to settle the charges against it.\n\nA separate SEC probe into Gemini was closed in February.\n\nRead more: SEC Drops Probe into Gemini, Cameron Winklevoss Demands Recompense\n\nBoth the paused litigation and the dropped probe into Gemini are part of the SEC’s ongoing retreat from former Chair Gary Gensler’s so-called “regulation by enforcement” approach to crypto regulation. Under the leadership of Acting Chair Mark Uyeda, the agency has dropped a host of enforcement cases, including against Ripple and Cumberland DRW, and closed even more investigations into companies including Yuga Labs, OpenSea, and Uniswap Labs.\n\nRead more: Where All The SEC Cases Are",
+    "url": "https://www.coindesk.com/policy/2025/04/02/sec-gemini-request-two-month-pause-in-lawsuit-as-potential-resolution-in-the-works",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Mark Uyeda",
+                "Cameron Winklevoss"
+            ],
+            "positions": [
+                "former Chair",
+                "Acting Chair"
+            ],
+            "companies": [
+                "Gemini",
+                "Genesis",
+                "Binance",
+                "Tron",
+                "Coinbase",
+                "FTX",
+                "Ripple",
+                "Cumberland DRW",
+                "Yuga Labs",
+                "OpenSea",
+                "Uniswap Labs"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "U.S. District Court for the Southern District of New York"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the SEC's ongoing retreat from enforcement actions and dropping of probes against multiple crypto companies, indicating reduced regulatory pressure which is typically positive for the cryptocurrency market."
+    }
+}

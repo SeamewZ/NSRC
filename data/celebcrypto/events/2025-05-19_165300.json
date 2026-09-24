@@ -1,0 +1,41 @@
+{
+    "title": "XRP Futures Start Trading on CME",
+    "summary": "Spot XRP ETFs are only a matter of time, according to one industry expert.",
+    "time": "2025-05-19T16:53:00",
+    "author": "Helene Braun",
+    "content": "XRP futures started trading on the Chicago Mercantile Exchange’s (CME) derivatives platform on Monday, becoming the first regulated futures tracking the price of XRP in the U.S.\n\nTraders can trade two contract sizes: 2,500 XRP and 50,000 XRP, which will both be cash-settled and based on the SME CF XRP-Dollar Reference Rate, which tracks the price of XRP daily at 4:00 p.m. London time.\n\nCME already offers bitcoin\nBTC\n$101,803.55\n, ethereum\nETH\n$3,334.25\nand solana\nSOL\n$157.58\nfutures as well as bitcoin and ethereum options. The Group’s SOL futures, which launched in mid-March, had only booked $12.3 million in notional daily volume on the first day and closed with $7.8 million in open interest, a much lower number on an adjusted basis compared to the debut of the ether and bitcoin futures.\n\nThe price of XRP was down 3.45% over the past 24 hours.\n\nThe existence of regulated futures could mark a big step in the right direction as it relates to a spot XRP exchange-traded fund which is currently under review to be approved or denied by the Securities and Exchange Commission (SEC). Several U.S. issuers have filed to launch such a fund but have yet to receive a decision.\n\n\"CME-traded XRP futures are now *live*,\" wrote ETF Store President Nate Geraci on X. \"CFTC-regulated contracts on XRP. Spot XRP ETFs only a matter of time.\"\n\nThe former SEC under Chair Gary Gensler had previously told issuers that one of the reasons it approved the spot bitcoin and ethereum ETFs was that it already had an existing regulated futures market in the U.S.",
+    "url": "https://www.coindesk.com/markets/2025/05/19/xrp-futures-start-trading-on-cme",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nate Geraci",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "ETF Store President",
+                "Chair"
+            ],
+            "companies": [
+                "ETF Store",
+                "Chicago Mercantile Exchange",
+                "CME"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of regulated XRP futures on CME is seen as a positive step toward spot XRP ETF approval, with industry experts stating 'Spot XRP ETFs only a matter of time'."
+    }
+}

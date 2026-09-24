@@ -1,0 +1,44 @@
+{
+    "title": "UK's Delayed Regulation Hurts Plan to Be Global Crypto Hub, Executives Say: CNBC",
+    "summary": "The country is falling behind other nations in developing a welcoming environment for crypto companies.",
+    "time": "2025-05-01T13:45:00",
+    "author": "Camomile Shumba",
+    "content": "The U.K. needs to work harder at becoming a global center for the crypto industry to avoid falling behind countries like the U.S., industry executives told CNBC.\n\nThe country has been saying it wants to be a crypto hub since 2022, before the current Labour government was elected, yet only this week did it start seeking comments on draft legislation for the industry.\n\nThe European Union, meanwhile, has already implemented its Markets in Crypto Assets legislation (MiCA), which provides a uniform regime across the bloc, and the new U.S. administration of President Donald Trump is promoting the industry and relaxing regulation.\n\n“If I look at the speed of innovation, I do feel that the U.S. is ahead — although they have their own challenges. But look at Singapore, Hong Kong — again, you see much more rapid innovation,” Jaidev Janardana, the CEO of digital bank Zopa, told CNBC. “I think we are still ahead of the EU, but we can’t remain complacent with that.”\n\nTrump, for his part, has been urging departments to make crypto-friendly policies, and stablecoin legislation is working its way through the Senate. The stablecoin sector could surge 10-fold to reach $2 trillion within three years following the passage of the legislation, Standard Chartered has forecast.\n\n“Other jurisdictions have started to seize the opportunity,” said Cassie Craddock, the managing director for U.K. and Europe at blockchain firm Ripple, in an interview with CNBC.\n\nMark Fairless, CEO of payments infrastructure firm ClearBank, said his business has been looking to develop its own stablecoin and has been held back by the lack of regulatory clarity.\n\nStablecoins are “part of our medium-term, longer-term strategy,” Fairless told CNBC. “We see ourselves well set up for that.” However, he added, a ClearBank stablecoin will be possible only once there’s clarity from U.K. regulators including the Bank of England.\n\nStill, the country hasn't entirely missed the bus.\n\n\"The U.K. is still that great place to set up. We have all the ingredients there, because we’ve got the ecosystem, we do have this talent setting up new businesses,\" Lisa Jacobs, CEO of business lending platform Funding Circle, said. \"But it needs to continue. We can’t rest on our laurels.\"\n\n“I think the U.K. will get it right — but there is a risk if you get it wrong that you drive innovation to other markets,” Keith Grose, Coinbase's U.K. head, told CNBC.\n\nRead more: The UK Has Created Crypto Banking Problems",
+    "url": "https://www.coindesk.com/policy/2025/05/01/uks-delayed-regulation-hurts-plan-to-be-global-crypto-hub-executives-say-cnbc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jaidev Janardana",
+                "Cassie Craddock",
+                "Mark Fairless",
+                "Lisa Jacobs",
+                "Keith Grose",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO",
+                "managing director for U.K. and Europe",
+                "CEO",
+                "CEO",
+                "U.K. head",
+                "President"
+            ],
+            "companies": [
+                "Zopa",
+                "Ripple",
+                "ClearBank",
+                "Funding Circle",
+                "Coinbase",
+                "Standard Chartered"
+            ],
+            "organizations": [
+                "European Union",
+                "Bank of England",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes the UK falling behind other nations in crypto regulation, creating uncertainty and holding back innovation, which negatively impacts market confidence."
+    }
+}

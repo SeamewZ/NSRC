@@ -1,0 +1,27 @@
+{
+    "title": "Grayscale Lists 2 New Bitcoin ETFs Offering Income From BTC Volatility",
+    "time": "2025-04-02T13:43:00",
+    "author": "Jamie Crawley",
+    "summary": "The two New York Stock Exchange-listed funds are due to start trading on Wednesday.",
+    "content": "Crypto asset manager Grayscale has listed two new exchange-traded funds (ETFs) that offer investors a differentiated source of income through bitcoin's\nBTC\n$104,061.62\ncharacteristic volatility.\n\nThe two New York Stock Exchange-listed funds will start trading on Wednesday.\n\nThe Bitcoin Covered Call ETF (BTCC) and Bitcoin Premium Income ETF (BPI) offer covered call writing strategies, which involves selling call options to generate income on the premium received.\n\nCall options are derivatives contracts betting on the price of an asset rising. They give the holder the right, but not the obligation, to buy the asset at a predetermined price within a define period of time.\n\nBTCC will write calls very close to spot prices to deliver income for investors seeking regular cash flow, with the options premiums possibly also providing a cushion against market downturns.\n\nBPI meanwhile will target options with strike prices that are well out-of-the-money, meaning the price is much higher than the spot price. This would allow investors to participate in much of BTC's upside potential while possibly benefiting from some dividend income, according to an emailed announcement from Grayscale on Wednesday.\n\nThe options contracts that both ETFs use will track other bitcoin ETFs, including Grayscale's own Bitcoin Trust (GBTC) and Bitcoin Mini Trust\nBTC\n$104,061.62\n.\n\nDespite the surge in institutional investment into BTC through spot ETFs since their introduction in January 2024, bitcoin's volatility does not appear to be going anywhere for the time being.\n\nAfter gaining nearly 48% in the fourth quarter, the largest cryptocurrency kicked off 2025 by losing 12% in the historically bullish first quarter. It rose by 72% and 69% in the first quarters of 2023 and 2024, respectively, according to data tracked by Coinglass.\n\nTherefore, as institutional investors increase their exposure to bitcoin, there may be more demand for products such as Grayscale's that can offer differentiated sources of income to cushion against this volatility.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/grayscale-lists-two-new-bitcoin-etfs-offering-income-from-btc-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Grayscale",
+                "New York Stock Exchange"
+            ],
+            "organizations": [
+                "Coinglass"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes new institutional investment products that offer income from bitcoin volatility and suggests increased institutional exposure and demand for such products."
+    }
+}

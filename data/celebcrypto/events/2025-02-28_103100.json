@@ -1,0 +1,27 @@
+{
+    "title": "Borrowed Cash Fuels Bitcoin Purchases on Bitfinex as BTC Price Tumbles",
+    "time": "2025-02-28T10:31:00",
+    "author": "James Van Straten",
+    "summary": "Since the start of the year, bitcoin holdings bought on margin on Bitfinex have increased by over 13,000 BTC.",
+    "content": "As bitcoin's (BTC) price wilts, traders on crypto exchange Bitfinex are living up to their reputation of being dip buyers, offering some hope to battered crypto bulls given their track record of predicting market peaks and troughs.\n\nThe number of bitcoin bought on Bitfinex with borrowed cash, a bet that the BTC price will rise and leave the investor with a profit once they've repaid the loan, has risen to more than 60,000 BTC from 50,773 this month. It's jumped 2% in the past 24 hours alone, according to data from Coinglass and TradingView.\n\nThe increase in so-called margin long positions is a vote of confidence in the largest cryptocurrency, which has lost more than 20% this month and is on track for its worst monthly performance since June 2022.\n\nBitfinex traders are mainly whales — or holders of large amounts of bitcoin — who dabble with margin longs. They are known for accurately signaling bitcoin tops and bottoms and tend to accumulate during downtrends or rangebound markets, as they did in the middle of last year.\n\nLooking at a five-year timeframe, margin longs have consistently increased holdings during price swoons and reduced exposure near market peaks. This pattern was evident during the 2021 and 2024 market tops.\n\nAs the crypto market tumbles, crypto market sentiment is in a state of extreme fear, according to Coinglass' Crypto Fear & Greed Index. Over the past year, the market has only seen four days of extreme fear. It's been dominated by greed and extreme greed for over 230 days.",
+    "url": "https://www.coindesk.com/markets/2025/02/28/borrowed-cash-fuels-bitcoin-purchases-on-bitfinex-as-btc-price-tumbles",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitfinex"
+            ],
+            "organizations": [
+                "Coinglass",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased margin long positions on Bitfinex as a vote of confidence in bitcoin during a price downturn, with traders known for accurately signaling market bottoms."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "SEC Asks Court for Coinbase Case Deadline Extension, Citing 'Potential Resolution' Prospects",
+    "summary": "The SEC filed a motion Friday saying its new crypto task force could help it resolve its ongoing case against Coinbase.",
+    "time": "2025-02-14T23:41:00",
+    "author": "Nikhilesh De",
+    "content": "Attorneys for the U.S. Securities and Exchange Commission hinted at a potential settlement with Coinbase in a late Friday court filing, citing the regulator's new crypto task force.\n\nThe SEC asked a federal appeals court to extend its deadline to respond to Coinbase, which filed an appeal of a federal judge's ruling last month. District Judge Katherine Polk Failla ruled last year that the SEC had brought a plausible case that Coinbase sold unregistered securities on its platform. The exchange asked the appeals court panel to weigh in on how securities laws might apply to crypto.\n\nOn Friday, the agency asked for a four-week extension to its deadline (currently set for Feb. 14) to file its response, citing Acting SEC Chair Mark Uyeda's new crypto task force, headed by Commissioner Hester Peirce.\n\n\"The crypto task force’s work may affect and could facilitate the potential resolution of both the underlying district court proceeding and potential appellate review, conserving judicial resources. Because the Commission’s review of crypto-related issues is ongoing, the Commission requests this additional time to prepare its answer to Coinbase’s petition and for appropriate review,\" the filing said.\n\nThis is the second case the SEC asked for an extension in; earlier this week, the SEC and Binance filed for a 60-day stay in the regulator's case against that exchange and affiliated parties, saying the extension could similarly lead to a resolution. The judge overseeing that case granted the stay.",
+    "url": "https://www.coindesk.com/policy/2025/02/14/sec-asks-court-for-coinbase-case-deadline-extension-citing-potential-resolution-prospects",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Uyeda",
+                "Hester Peirce",
+                "Katherine Polk Failla"
+            ],
+            "positions": [
+                "Acting SEC Chair",
+                "Commissioner"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "crypto task force",
+                "federal appeals court",
+                "district court"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The SEC's request for an extension and mention of potential resolution suggests ongoing regulatory uncertainty rather than immediate positive or negative market impact."
+    }
+}

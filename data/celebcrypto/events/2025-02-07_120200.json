@@ -1,0 +1,38 @@
+{
+    "title": "Cardano's ADA, DOGE Slide 4% as Bitcoin Traders Await Payrolls",
+    "time": "2025-02-07T12:02:00",
+    "author": "Shaurya Malwa",
+    "summary": "Strong job growth can lead to fears of inflation and increased interest rates, while weak data might signal an economic slowdown.",
+    "content": "ADA\n$0.5422\nand\nDOGE\n$0.1655\nwere down 4% in the past 24 hours, leading losses among major tokens as traders await U.S. payrolls before further positioning in the market.\n\nBitcoin\nBTC\n$104,093.36\ntraded just over $97,300 in European morning hours Friday, down 1.7% in the past 24 hours. The broad-based CoinDesk 20 (CD20), a liquid index of the largest tokens by market capitalization, fell 2.3%.\n\n“Bitcoin failed to reclaim the $99K resistance level last night, triggering a broad selloff in the market and pushing BTC back to a new daily low of $95.6K,” Singapore-based QCP Capital said in a Telegram broadcast. “With a three-day losing streak, the outlook for crypto remains uncertain.”\n\nEther\nETH\n$3,496.01\nfell 2%, while XRP outperformed BTC with slight declines of 1.1% after a brief Thursday sell-off. Solana’s SOL was up 0.2% as investment firm VanEck predicted the token hitting $520 at the end of 2025.\n\nSome traders pointed to continued volatility in crypto markets next week.\n\n“It's been a volatile week as China has proved that it can take measures against new tariff policies,” Jeff Mei, COO at BTSE, told CoinDesk in a Telegram message. “It looks as if there is a wide breadth of tools at their disposal which can act as leverage.\n\n“Additionally, we've yet to see Trump tariffs hit the EU, so markets will likely continue to be fluctuating through the next few weeks,” Mei added, referring to the multiple tariffs issued or hinted by Trump against Canada, Mexico, EU and China last week.\n\nThe U.S. Non-Farm Payrolls (NFP) is a monthly report detailing job creation, unemployment rate, and wage changes which influences markets by affecting expectations around Federal Reserve's interest rate policies.\n\nStrong job growth can lead to fears of inflation, and raising interest rates, while weak data might signal an economic slowdown, lowering rates expectations and affecting currency and bond yields.\n\nBitcoin's price reacts to this data through shifts in risk sentiment, liquidity, and the dollar's value. Positive payrolls might bolster bitcoin — and the broader crypto market — if it spurs a risk-on market mood and vice-versa.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/cardano-ada-dogecoin-doge-slide-4-as-bitcoin-traders-await-payrolls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Mei"
+            ],
+            "positions": [
+                "COO"
+            ],
+            "companies": [
+                "QCP Capital",
+                "BTSE",
+                "VanEck"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "DOGE",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "XRP",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple cryptocurrencies experiencing price declines, a broad market selloff, and analysts expressing uncertainty about the crypto outlook."
+    }
+}

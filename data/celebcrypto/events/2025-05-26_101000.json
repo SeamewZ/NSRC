@@ -1,0 +1,33 @@
+{
+    "title": "Monero's Market Cap Flips Litecoin and Toncoin as XMR Enters Top 25 Tokens",
+    "summary": "Monero's price has more than doubled this year.",
+    "time": "2025-05-26T10:10:00",
+    "author": "Omkar Godbole",
+    "content": "Privacy-focused cryptocurrency monero\nXMR\n$345.33\nhas overtaken litecoin\nLTC\n$86.89\nand toncoin\nTON\n$1.9618\nto rank among the top 25 digital assets by market value.\n\nThe so-called flippening is characterized by XMR's market capitalization topping $7.5 billion, racing ahead of TON's $7.48 billion and LTC's $7.35 billion, according to data source Coingecko.\n\nXMR\n$345.33\nis a decentralized, peer-to-peer cryptocurrency with privacy-enhancing technologies to obscure transaction details. That makes traditional financial tracking and intercepting methods largely obsolete, which explains why criminals love cryptocurrency.\n\nEarlier this year, a media outlet linked to the Islamic State (ISIS) Pakistan Province reportedly published a poster calling for contributions of \"jihad with wealth\" and sought donations in monero.\n\nStill, prices for the controversial coin have risen over 100% to above $400 this year, hitting levels last seen in early 2021, CoinDesk data show. The rally has been supposedly led by optimism about the impending privacy upgrade and rumors of re-listing by major exchanges, including the U.S.-listed Coinbase.\n\nMeanwhile,\nLTC\n$86.89\n, considered silver to bitcoin's gold, has dropped 6% this year to trade below $100. Toncoin, which is deeply integrated into the social messaging app Telegram's economy, has dropped 25% this year.",
+    "url": "https://www.coindesk.com/markets/2025/05/26/monero-s-market-cap-flips-litecoin-and-toncoin-as-xmr-enters-top-25-tokens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Islamic State (ISIS) Pakistan Province",
+                "CoinDesk",
+                "Coingecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "Monero",
+            "XMR",
+            "Litecoin",
+            "LTC",
+            "Toncoin",
+            "TON",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Monero's significant price increase of over 100%, market cap growth surpassing other major cryptocurrencies, and positive catalysts including privacy upgrades and potential exchange re-listings."
+    }
+}

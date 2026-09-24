@@ -1,0 +1,35 @@
+{
+    "title": "AI's Lead Over Crypto for VC Dollars Increased in Q1'25, But Does This Race Really Matter?",
+    "time": "2025-03-14T06:11:00",
+    "author": "Sam Reynolds",
+    "summary": "Despite the crypto 'Trump bump' at the end of 2024, deal flow still favors Artificial Intelligence. But is there a new preference for AI over crypto?",
+    "content": "Crypto venture funding in the U.S. clocked in at approximately $861 million for the first three months of 2025, but was dwarfed by artificial intelligence's nearly $20 billion haul, according to data provided by Pitchbook, showing how investors continue to show preference to AI.\n\nData shows that investors closed 795 deals in the U.S in AI from January to March, with blockbuster deals like Databricks' $15.3 billion round and Anthropic's $2 billion raise dominating headlines.\n\nCrypto's largest blockbuster deal, in comparison, was Abu Dhabi's MGX, with a $2 billion investment into Binance – the first institutional placement in the crypto exchange. Other deals of note include a $82 million raise from payment infrastructure company Mesh, ETF issuer Bitwise's $70 million round, and digital asset bank Sygnum's $58 million offering.\n\nPrior reporting by Pitchbook shows that AI startups attracted one-third of global VC investment in 2024, totaling $131.5 billion, with nearly a quarter of new startups being an AI company across 4,318 VC deals, compared to crypto's $4.9 billion across just 706 deals.\n\nAnalysis: Has AI stolen crypto's venture dollars?\n\nBlockbuster rounds from VCs in the AI space and headline-grabbing antics, such as OpenAI's Sam Altman seeking trillions, and AI's rise from technological novelty to household name thanks to transformer models, would make one think that there's suddenly an investor preference for one over the other.\n\nHistorically, all data shows that VCs have generally favored AI over crypto, with AI and machine learning attracting consistent funding that's expanded exponentially, according to Statista data, growing from $670 million in 2011 to $36 billion in 2020 and only upwards from there.\n\nThere's only been one year where crypto beat AI for funding, which was 2021 when VCs poured $30 billion into the market compared to ABI Research's $22.3 billion AI estimate for the year.\n\nKeep in mind that all of this ignores crypto-native quirks like airdrops, which put fresh capital in the hands of users and, in turn, pump the token price, inflating the size of projects' treasuries.\n\nA recent report from Dragonfly found that between 2020 and 2024, the 11 largest airdrops generated $7 billion. This won't close the gap between AI and crypto, but it shows that there are more ways to get a dollar than traditional venture capital.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/ai-s-lead-over-crypto-for-vc-dollars-increased-in-q1-25-but-does-this-race-really-matter",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman"
+            ],
+            "positions": [],
+            "companies": [
+                "Databricks",
+                "Anthropic",
+                "Binance",
+                "Mesh",
+                "Bitwise",
+                "Sygnum",
+                "OpenAI"
+            ],
+            "organizations": [
+                "Pitchbook",
+                "MGX",
+                "Statista",
+                "ABI Research",
+                "Dragonfly"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses VC funding trends showing AI receiving significantly more investment than crypto, but presents this as an ongoing historical pattern rather than indicating a specific market impact on cryptocurrency prices."
+    }
+}

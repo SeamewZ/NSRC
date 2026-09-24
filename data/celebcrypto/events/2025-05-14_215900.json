@@ -1,0 +1,34 @@
+{
+    "title": "Banks Exploring Stablecoin Amid Fears of Losing Market Share, BitGo Executive Says",
+    "time": "2025-05-14T21:59:00",
+    "author": "Krisztian Sandor",
+    "summary": "BitGo’s stablecoin-as-a-service has drawn significant interest from U.S. and international banks, Ben Reynolds said.",
+    "content": "As the stablecoin competition is heating up with looming regulation in the U.S., traditional finance institutions are taking notice—largely out of fear of losing out to digital dollars, said Ben Reynolds, BitGo's managing director of stablecoins, at Consensus 2025 in Toronto.\n\nSpeaking at a panel discussion, he said that BitGo's recently launched stablecoin-as-a-service has seen “incredible inbound” interest from U.S. and foreign banks wanting to tokenize deposits or issue stablecoins.\n\n\"A lot of banks are just being defensive—they’re afraid they’re going to lose their deposits,” Reynolds said. \"They look at stablecoins and say: How do we not get left behind?\"\n\nYield-bearing versions of stablecoins and tokenized money market funds have seen rapid growth recently, but still make up only a fraction of the $230 billion stablecoin market.\n\nA16z’s Sam Broner said that while yield-bearing stablecoins are a promising market segment, their primary use case is for payments and transactions where users don't really care about yields. Still, a near-term killer use case could be “collateral mobility”—the ability to instantly move money to meet obligations across different platforms.\n\n\"You can’t do a lot of things with a share of a money market fund,\" Broner said. \"You’ve got lock-up periods, business-hour settlement, and contracts that have to be manually reviewed. Crypto gives you programmatic, permissionless flexibility.\"\n\nYield-bearing stablecoins could also be attractive for institutions, said Matt Kunke, crypto product strategist at BlackRock. \"If you're a DAO, protocol, or market maker, moving between crypto holdings on an exchange and your brokerage account is slow and full of friction,\" he said. \"Stablecoins that carry yield just reduce that drag.”\n\nHowever, regulatory distinctions will shape the market. “A tokenized Treasury fund is a security, and an actual stablecoin is not,” he explained. “They deserve fundamentally different markets.\"\n\nJoseph Saldana, chief financial officer of the Wyoming Stable Token Commission, pointed out that yield–generating tokens have the power to broaden investors' access compared to mutual funds that often have minimum limits of investment that \"lock out a lot of people.\"\n\n\"We want to service the underbanked and give broader access to instruments the rest of us enjoy every day,\" Saldana said.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/14/banks-exploring-stablecoin-amid-fears-of-losing-market-share-bitgo-executive-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Reynolds",
+                "Sam Broner",
+                "Matt Kunke",
+                "Joseph Saldana"
+            ],
+            "positions": [
+                "managing director of stablecoins",
+                "chief financial officer",
+                "crypto product strategist"
+            ],
+            "companies": [
+                "BitGo",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Wyoming Stable Token Commission",
+                "A16z"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant institutional interest in stablecoins and tokenization from major banks and financial institutions, indicating growing adoption and confidence in cryptocurrency infrastructure."
+    }
+}

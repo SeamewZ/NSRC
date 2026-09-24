@@ -1,0 +1,50 @@
+{
+    "title": "SOL Jumps 6%, Bitcoin Clings to $84K on Dampened Rate Cut Hopes",
+    "summary": "A human and machine view of major tokens SOL, XRP, ETH and BTC on April 17, 2024.",
+    "time": "2025-04-17T06:19:00",
+    "author": "Shaurya Malwa",
+    "content": "Crypto markets steadily rose in Asian morning hours Thursday after a sell-off the night before as Fed chair Jerome Powell dashed hopes of early rate cuts as global markets reel from the impact of newly-levied U.S. tariffs.\n\nBitcoin\nBTC\n$101,998.62\nadded 2% in the past 24 hours, data from CoinGecko shows, touching nearly $84,500. Ether\nETH\n$3,341.49\n, XRP,\nDOGE\n$0.1656\nand BNB Chain’s BNB added between 1%-3%, with Solana’s SOL leading at 6%.\n\nDown the pecking order, Hyperliquid’s HYPE surged 8.5% to lead gains among midcaps on no immediate catalyst. Celestia’s TIA dumped 4% to lead losses, as selling pressure on tokens with a long unlock schedule is increasing following Mantra DAO’s nosedive earlier this week.\n\nPowell mentioned that the Fed needed more time to see the effects of tariffs play out in the global economy. The same is likely to be true of the economic effects, which will include higher inflation and slower growth, hinting at “stagflation” — a throwback to a sizable portion of the 1970s when the U.S. experienced weak economic activity alongside double-digit inflation.\n\n“Traders had been hoping for the Fed to come in with early rate cuts to bolster markets, but it looks like that's not going to happen anytime soon,” Jeff Mei, COO at BTSE, told CoinDesk in a Telegram message. “In the short term, we expect Bitcoin to continue to trade in the $80,000 - $90,000 range until we see more clarity on tariff negotiations and rate cuts.”\n\nElsewhere, Augustine Fan, head of insights at SignalPlus, said that Powell's remarks disappointed doves by stressing their focus on protecting against tariff-driven price hikes from driving a long-term rise in inflation expectations.\n\n“Crypto traded water for the most part, though technicals remain more constructive in the near term as long as BTC can hold above 81k, with markets focused on details on Trump’s 1st trade deal when it arrives, as well as the corporate earnings season kicking into high gear starting next week,” Fan said.\n\nMeanwhile, here’s the technical analysis and patterns spotted by machines in the market today.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/sol-jumps-6-bitcoin-clings-to-usd84k-on-dampened-rate-cut-hopes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Jeff Mei",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "Fed chair",
+                "COO",
+                "head of insights"
+            ],
+            "companies": [
+                "BTSE",
+                "SignalPlus",
+                "CoinDesk",
+                "CoinGecko",
+                "Hyperliquid",
+                "BNB Chain",
+                "Mantra DAO"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "XRP",
+            "ETH",
+            "BTC",
+            "Bitcoin",
+            "Ether",
+            "DOGE",
+            "BNB",
+            "Solana",
+            "HYPE",
+            "TIA",
+            "Celestia"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto markets steadily rising with multiple cryptocurrencies gaining 1-6% despite dampened rate cut hopes."
+    }
+}

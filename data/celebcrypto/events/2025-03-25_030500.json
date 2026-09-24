@@ -1,0 +1,26 @@
+{
+    "title": "Defunct Exchange Mt. Gox Moves $1B in Bitcoin to Two Wallets",
+    "time": "2025-03-25T03:05:00",
+    "author": "Omkar Godbole",
+    "summary": "This is the third significant on-chain movement of funds by the exchange in four weeks.",
+    "content": "Defunct Japanese crypto exchange Mt. Gox made waves early Tuesday, moving large amounts of bitcoin\nBTC\n$104,248.06\nto two wallets, according to on-chain data tracking platform Arkham Intelligence.\n\nThe address associated with the exchange transferred 893 BTC ($78.11M) to its hot wallet, labelled 1Jbez and 10,608 BTC ($927.48M) to a change wallet identified as 1DcoA during Tuesday's early Asian trading hours when the cryptocurrency traded above $87,000 in the spot market.\n\nThe latest action is the exchange's third significant on-chain movement of funds in four weeks.\n\nThe exchange moved over $900 million in BTC on March 11 and over $1 billion in BTC on March 6. However, the latest coin shuffling has not impacted the spot price so far, as seen early this month.\n\nThat's in stark contrast to mid-last year, when Mt. Gox's transfer of coins spurred fears of creditor liquidations, causing price volatility.\n\nHowever, last October, the exchange extended its complete creditor payout deadline by a full year to Oct. 31, 2025, citing ongoing verification and processing requirements for claimants.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/defunct-exchange-mt-gox-moves-usd1b-in-bitcoin-to-two-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Mt. Gox"
+            ],
+            "organizations": [
+                "Arkham Intelligence"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news states that the latest coin shuffling has not impacted the spot price, unlike previous transfers that caused price volatility."
+    }
+}

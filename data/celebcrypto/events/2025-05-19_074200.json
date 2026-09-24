@@ -1,0 +1,36 @@
+{
+    "title": "Ripple Signs Two More Payment System Customers in UAE Expansion",
+    "time": "2025-05-19T07:42:00",
+    "author": "Shaurya Malwa",
+    "summary": "The agreements follow Ripple securing a license from the Dubai Financial Services Authority (DFSA) in March.",
+    "content": "Ripple said it signed on two new UAE-based customers, Zand Bank and Mamo, as it expands Ripple Payments, the firm’s blockchain-based cross-border payments platform, in the region.\n\nThe agreements follow Ripple securing a license from the Dubai Financial Services Authority (DFSA) in March, allowing it to manage global payments end-to-end for banks, fintechs and crypto firms.\n\n“Securing our DFSA license enables Ripple to better serve the demand for solutions to the inefficiencies of traditional cross-border payments,” Reece Merrick, managing director for Middle East and Africa at Ripple, said in a Monday release.\n\nZand Bank said the partnership aligns with its push toward digital finance. “We are excited to soon launch an AED-backed stablecoin,” said Chirag Sampat, head of treasury and markets.\n\nImad Gharazeddine, CEO and co-founder of Mamo, said using Ripple’s services allows the company to offer “faster and more reliable cross-border payments” for both businesses and consumers looking to scale their UAE operations.\n\nRipple Payments currently operates in over 90 payout markets and has processed more than $70 billion in volume globally. The platform is available in Dubai, the U.S., Brazil, Mexico, Australia and Switzerland.\n\nRipple uses a global network of payout partners and blockchain infrastructure to move money in minutes. In some cases, it also uses its native digital asset, XRP, as a bridge currency through its On-Demand Liquidity (ODL) service, allowing clients to instantly convert one fiat currency to another using the token.\n\nXRP prices are down 3.5% in the past 24 hours amid a broader market slump. The CoinDesk 20 Index has dropped 3.4%.",
+    "url": "https://www.coindesk.com/business/2025/05/19/ripple-signs-two-more-payment-system-customers-in-uae-expansion",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reece Merrick",
+                "Chirag Sampat",
+                "Imad Gharazeddine"
+            ],
+            "positions": [
+                "managing director for Middle East and Africa",
+                "head of treasury and markets",
+                "CEO and co-founder"
+            ],
+            "companies": [
+                "Ripple",
+                "Zand Bank",
+                "Mamo"
+            ],
+            "organizations": [
+                "Dubai Financial Services Authority",
+                "DFSA"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states that XRP prices are down 3.5% in the past 24 hours amid a broader market slump."
+    }
+}

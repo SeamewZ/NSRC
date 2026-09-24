@@ -1,0 +1,32 @@
+{
+    "title": "Monero Price Surge Likely Attributable to Large Hack: ZachXBT",
+    "summary": "XMR spiked nearly 40% early Monday following a 'suspicious transfer,' the on-chain researcher said.",
+    "time": "2025-04-28T08:56:00",
+    "author": "Sam Reynolds",
+    "content": "On-chain researcher ZachXBT may have determined why privacy coin Monero (XMR) surged as much as 40% early Monday: Someone probably got hacked.\n\nZachXBT reported that 3,520 bitcoin (BTC) ($330.7 million) was drained from an address and then swapped for XMR.\n\nMarket data shows a spike in volatility coming from an excess in buy orders for the XMR-BTC order book.\n\nMarket observers initially had a hard time determining what caused the major spike as metrics such as active wallets and network activity hadn't risen accordingly.\n\nRead More: Monero’s XMR Rockets 40% as XRP Leads Crypto Majors Gains\n\nLiquidity for XMR has been limited during the past few months as major exchanges delisted the privacy token in a bid to fight dark net markets. The lack of liquidity would have made any sizeable buy a catalyst for outsized pricing gains. CoinGecko data shows that the order depth for XMR is significantly smaller than for tokens of similar market cap.\n\nXMR is trading for over $300 according to CoinDesk markets data.",
+    "url": "https://www.coindesk.com/markets/2025/04/28/monero-price-surge-likely-attributable-to-large-hack-zachxbt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT"
+            ],
+            "positions": [
+                "on-chain researcher"
+            ],
+            "companies": [
+                "CoinGecko",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Monero",
+            "XMR",
+            "Bitcoin",
+            "BTC",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The price surge was caused by a $330.7 million hack where stolen bitcoin was swapped for Monero, indicating market manipulation rather than organic growth."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Disappointing U.S. CPI Data Sends Bitcoin Tumbling Below $95K",
+    "time": "2025-02-12T13:36:00",
+    "author": "James Van Straten",
+    "summary": "Both the headline and core rates of inflation rose faster than expected in January.",
+    "content": "U.S. inflation unexpectedly marched higher in January, sending crypto and traditional markets sharply lower.\n\nThe closely-watched Consumer Price Index (CPI) rose 0.5% in January versus an expected 0.3% and December's 0.4% pace. On a year-over-year basis, CPI was higher by 3.0% against forecasts for 2.9% and 2.9% in December.\n\nThe so-called core CPI, which excludes food and energy costs, rose 0.4% in January versus an expected 0.3% and 0.2% the previous month. Year-over-year, core CPI was higher by 3.3% versus 3.1% expected and 3.2% in December.\n\nAlready trading in downward trend this week, the price of bitcoin\nBTC\n$103,918.17\nfell sharply in the moments following the disappointing report, slumping below the $95,000 level. The broad CoinDesk 20 Index was lower by 2.9% over the past 24 hours.\n\nU.S. stock index futures fell about 1% on the news and the 10-year Treasury yield jumped 10 basis points to 4.63%. Gold dipped more than 1% and the dollar index rose 0.5%.\n\nAfter bursting through $100,000 shortly following the election victory of Donald Trump in November, bitcoin has traded rangebound between $90,000 and $109,000 over what's now been more than two months. Artificial intelligence (AI)-driven China concerns, the threat of trade wars, and higher than hoped interest rates due to continued strength in the economy and inflation have all been among the factors tempering prices.\n\nTestifying before Congress yesterday, Federal Reserve Chairman Jay Powell reiterated that additional central bank rate cuts are likely to be off the table for the foreseeable future, barring unexpected downturns in either the economy or inflation.\n\nToday's inflation data could potentially set the stage for markets to begin pricing in rate hikes in 2025 and a retest of the $90,000 area for bitcoin.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/disappointing-u-s-cpi-data-sends-bitcoin-tumbling-below-usd95k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jay Powell"
+            ],
+            "positions": [
+                "Federal Reserve Chairman"
+            ],
+            "companies": [],
+            "organizations": [
+                "Congress",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin tumbling below $95,000 and the broader crypto market declining sharply following disappointing inflation data that suggests higher interest rates."
+    }
+}

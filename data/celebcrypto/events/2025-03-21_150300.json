@@ -1,0 +1,32 @@
+{
+    "title": "Crypto Whale Who Made Millions on Leverage Trading Is a Convicted Fraudster: ZachXBT",
+    "time": "2025-03-21T15:03:00",
+    "author": "Oliver Knight",
+    "summary": "",
+    "content": "A mysterious crypto trader that made millions trading derivatives this year has been identified as William Parker, a convicted fraudster, according to blockchain sleuth ZachXBT.\n\nParker made $6.8 million on one position after going long on BTC just before Donald Trump's weekend announcement of a U.S. strategic crypto reserve, per ZachXBT. He then turned around and made another $9 million going short BTC as the price pump quickly reversed.\n\nAll of his positions used 50x leverage - a high risk strategy as it means the liquidation price of a position is close to the entry point.\n\nAnd it seems as though high risk gambling was this particular trader's speciality, as on-chain data suggests the wallet frequently interacted with Roobet, Gamdom, Shuffle, BC Game, & Metawin accounts - all crypto-based online casinos.\n\nIt turns out that the wallet connected to the trades was set as the drainer fee receiver on a phishing website in January, receiving $17.1K from a phishing draining customer in the same month, ZachXBT revealed.\n\nThe investigation then dives into a Solana wallet that was the first to interact with the trader's wallet. This SOL wallet made withdrawals from four casinos following an input validation exploit on a casino game. ZachXBT reached out to these casinos which provided him with a Telegram account of the user.\n\nThat Telegram account yielded verification that the trader was active on-chain at the same time as posting in derivatives trading chats on Telegram.\n\nZachXBT went one step further — finding a payment sent by the trader to an unnamed person on the HyperLiquid exchange. That transaction led to the uncovering of a phone number linked to a person called William Parker.\n\nParker last year was convicted and sentenced to 2 1/2 years in jail in Finland for stealing $1 million from two casinos in 2023 . He was served time in 2010 in the U.K. for multiple fraud charges related to hacking and gambling.",
+    "url": "https://www.coindesk.com/business/2025/03/21/crypto-whale-that-punted-millions-on-leverage-trading-is-a-convicted-fraudster-zachxbt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT",
+                "William Parker",
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Roobet",
+                "Gamdom",
+                "Shuffle",
+                "BC Game",
+                "Metawin",
+                "HyperLiquid"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reveals a convicted fraudster's manipulative trading activities and connections to phishing scams and casino exploits, which undermines market integrity and could damage investor confidence."
+    }
+}

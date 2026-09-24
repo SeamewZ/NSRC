@@ -1,0 +1,36 @@
+{
+    "title": "World’s Largest Sovereign Wealth Fund Has Indirect Bitcoin Exposure of More Than $355M",
+    "time": "2025-01-30T12:46:00",
+    "author": "James Van Straten",
+    "summary": "Norway’s sovereign wealth fund saw a 153% year-over-year increase in indirect bitcoin exposure in 2024, according to K33 Research.",
+    "content": "The world’s largest sovereign wealth fund, Norway’s Norges Bank Investment Management (NBIM), has amassed $356.7 million in indirect bitcoin (BTC) exposure, according to K33 Research.\n\nAt the end of 2024, the fund indirectly held 3,821 BTC, reflecting a 153% year-over-year increase from 1,507 BTC, according to K33. The data highlight the fund’s evolving indirect bitcoin exposure, growing from just 796 BTC in in 2020.\n\nNBIM also maintains stakes in a number of crypto-related public companies. As of year-end 2024, its holdings included a 0.72% stake in MicroStrategy (MSTR), equivalent of $500 million, 1.1% of Tesla (TSLA) and investments in Coinbase (COIN), Metaplanet (3350) and MARA Holdings (MARA).\n\nNBIM, which invests revenue from Norway’s oil and gas resources and is officially known as the Government Pension Fund Global, reported record annual profit of $222.4 billion, driven primarily by the artificial intelligence (AI) boom.\n\nK33 analyst Vetle Lunde makes the point that NBIM's indirect bitcoin exposure is likely a result of sector-weighted portfolios. As crypto proxies appreciate in value, their portfolio weightings increase.\n\nNBIM declined to comment.",
+    "url": "https://www.coindesk.com/markets/2025/01/30/world-s-largest-sovereign-wealth-fund-has-indirect-bitcoin-exposure-of-more-than-usd355m",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vetle Lunde"
+            ],
+            "positions": [
+                "K33 analyst"
+            ],
+            "companies": [
+                "MicroStrategy (MSTR)",
+                "Tesla (TSLA)",
+                "Coinbase (COIN)",
+                "Metaplanet (3350)",
+                "MARA Holdings (MARA)"
+            ],
+            "organizations": [
+                "Norges Bank Investment Management (NBIM)",
+                "K33 Research",
+                "Government Pension Fund Global"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports significant growth in indirect bitcoin exposure by the world's largest sovereign wealth fund, indicating institutional confidence and adoption."
+    }
+}

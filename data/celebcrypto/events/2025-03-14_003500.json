@@ -1,0 +1,36 @@
+{
+    "title": "Solana Inflation Reform Effort Fails on SIMD-0228's Dramatic Final Voting Day",
+    "time": "2025-03-14T00:35:00",
+    "author": "Danny Nelson",
+    "summary": "Solana's high inflation status quo will remain –– for now.",
+    "content": "Solana's high staking rewards will live to inflate SOL another day.\n\nA contentious effort to reform the blockchain network's generous inflation regime flopped on Thursday after supporters of SIMD-0228 failed to garner the supermajority they needed to implement the major economic change.\n\nThe surprise result delivered a blow to the Solana power brokers who rallied to replace Solana's static inflation mechanics with a market-based system. Their proposal likely would have cut the network's 4.7% annual staking rewards down to 1% or less.\n\nIn a contest that pitted Solana's influential leaders and investors – who claim the network's high staking rewards are bad for SOL's price – against small-time operators who feared the effects of a big cut to their revenue, the opposition rallied hardest on Thursday, as late-voting validators' ballots broke heavily in favor of \"no.\"\n\nThat was enough to scuttle the first major attempt at lowering Solana's uncommonly high staking emissions rate. Among the most valuable programmable blockchains by market cap, Solana issues comparatively large sums of new tokens to its validators, the computer operations that power proof-of-stake blockchains.\n\nMuch like election night in the U.S., SIMD-0228's weeklong political circus featured betting, ranting, data threads, chart-reading wonkery, endless social media debates and more than a bit of heated name-calling. One validator put their votes up for sale. Many others split their tickets.\n\nIt crescendoed with a dramatic rush of ballots cast by many of Solana's 1300 validators. In the end, the opposition won an exceptionally high turnout election that laid bare the divide between big and small validators.\n\nSolana validators are only called upon to vote when the network is grappling with a major economic change, said Jonny, the operator of the Solana Compass validator.\n\nSIMD-0228 is the third ever such vote to appear in records by StakingFacilities.com (the current proposal went up for consideration with an unrelated SIMD that passed). Its controversies sparked the highest turnout vote in the network's history.\n\nOver 66% of validators cast votes, according to a dashboard from Flipside Crypto. Together they wielded 75% of the network's voting power, a remarkable share given voting in this decentralized system is voluntary.\n\nOf participating validators with 500,000 SOL or less, over 60% voted against SIMD-0228, per a Dune dashboard. Larger validators saw the exact opposite: of validators with more than 500,000 SOL, 60% voted in favor.\n\nThe lopsided results suggest opponents' warnings of economic ruin struck a nerve with small-time validators.\n\nProponents of SIMD-0228 believe it would have solved Solana's inflation problem, which they claim drags down SOL's price. Their thinking goes like this: fewer tokens means fewer sellers, and fewer in the hands of tax collectors, too.\n\nIn place of the network's static 4.7% SOL emissions that validators receive annually, they called for a dynamic system that adjusts to nudge staking trends up or down\n\nOpponents, meanwhile, called the proposal reckless and rushed. Some told CoinDesk they suspected its co-author, the influential investment company Multicoin Capital, had written it to favor its own interests. Others publicly warned SIMD-0228 would disrupt elements of Solana's DeFi economy, or turn off institutional investors who they claimed were attracted to SOL's native yield.\n\nSome doomsayers even claimed SIMD-0228 would chip away at Solana's decentralization by forcing offline hundreds of small validators, though others dispute the size of the blow.\n\nSolana validators make money based on how much SOL they've staked, either from their own coffers or from tokens delegated to them by others. Those with smaller stakes are more acutely exposed to changes in emissions than those with bigger operators.\n\n\"Many people feel like SIMD-0228 is not the best proposal to address inflation on Solana,\" said SolBlaze, a validator operator.\n\n\"SIMD-0228 is a significant economic change, and changes on this scale deserve more time to discuss, analyze data, and iterate with feedback from different sectors of the ecosystem.\"\n\nReformists aren't going to give up the fight, said Max Resnick, one of the proposal's co-authors and an economic researcher at Anza Labs.\n\n\"We are gonna chat with the no's and come to a compromise,\" he said.",
+    "url": "https://www.coindesk.com/business/2025/03/13/s",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jonny",
+                "Max Resnick"
+            ],
+            "positions": [
+                "operator",
+                "economic researcher"
+            ],
+            "companies": [
+                "Multicoin Capital",
+                "Anza Labs"
+            ],
+            "organizations": [
+                "Solana Compass",
+                "StakingFacilities.com",
+                "Flipside Crypto",
+                "CoinDesk",
+                "SolBlaze"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The proposal to reduce inflation failed, maintaining the status quo of high staking rewards, which has mixed implications with no clear directional market impact mentioned."
+    }
+}

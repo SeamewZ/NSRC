@@ -1,0 +1,35 @@
+{
+    "title": "NFT Marketplace Magic Eden Buys Trading App Slingshot",
+    "summary": "Magic Eden wants to broaden its offering beyond NFTs and streamline crypto trading across multiple blockchains.",
+    "time": "2025-04-10T06:12:00",
+    "author": "Sam Reynolds",
+    "content": "Non-fungible token (NFT) marketplace Magic Eden has acquired Slingshot, a trading app that allows users to see their crypto balance across multiple protocols.\n\nSlingshot allows users to trade tokens from a single universal USDC balance, removing hurdles like wallet setup, bridging assets across chains, and juggling gas fees, thus expanding Magic Eden well past Solana to every chain, including bitcoin.\n\n“This acquisition is a major step forward in advancing the Magic Eden vision, which is to provide users worldwide with a seamless and safe way to buy and sell crypto and digital assets across all chains,” Jack Lu, CEO and Co-Founder of Magic Eden said in a blog post.\n\n“Pairing Slingshot’s team of product visionaries with Magic Eden’s best-in-class marketing and scaling capabilities accelerates our ability to have an impact on the future of crypto.”\n\nMagic Eden says the Slingshot acquisition will bolster its plans to offer more fiat-to-crypto onramps through platforms like Apple Pay and Venmo, and introduce AI-assisted tools for easier token discovery and trading.\n\nMagic Eden itself generated $75 million in NFT marketplace revenue in 2024, according to a post on X by Lu. Lu said that incorporating Slingshot’s abstraction tech positions it to effectively compete against centralized crypto exchanges.\n\nAt the same time, this comes as the NFT market continues to contract. A report from DappRadar shows that in 2024, NFT trading volumes fell by 19% despite a broad market bull run. More recently, the NFT marketplace X2Y2 said its closing its virtual doors citing declining trading volume.",
+    "url": "https://www.coindesk.com/markets/2025/04/10/nft-marketplace-magic-eden-buys-trading-app-slingshot",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Lu"
+            ],
+            "positions": [
+                "CEO and Co-Founder"
+            ],
+            "companies": [
+                "Magic Eden",
+                "Slingshot",
+                "Apple Pay",
+                "Venmo",
+                "X2Y2"
+            ],
+            "organizations": [
+                "DappRadar"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "Solana",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition is described as expanding Magic Eden's capabilities across multiple blockchains and positioning it to compete against centralized exchanges, indicating market expansion and innovation."
+    }
+}

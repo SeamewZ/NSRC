@@ -1,0 +1,40 @@
+{
+    "title": "Solana, Trump Memecoins Tumble as Inauguration Day Brings $700M in Crypto Liquidations",
+    "time": "2025-01-20T20:03:00",
+    "author": "Krisztian Sandor",
+    "summary": "Donald Trump did not mention crypto during his inauguration speech, leaving crypto traders' heightened expectations somewhat unfulfilled.",
+    "content": "Crypto markets saw wild price swings on Monday during Donald Trump's inauguration ceremony as heightened excitement turned to disappointment after he declined to mention crypto during his first speech.\n\nThe broad-market crypto benchmark CoinDesk 20 Index fell over 5% during the ceremony, while bitcoin (BTC) dipped to $101,000 from $106,000 before stabilizing around $103,000. Layer-1 network Solana (SOL), which was at the center of the weekend crypto frenzy of Trump-related memecoins, led losses among altcoin majors, down nearly 10% from its recent lifetime record.\n\nTRUMP, Donald Trump's official memecoin which launched Friday on Solana, tanked 30% from $50 during Trump's speech. It later recovered some of its losses but was still down roughly 20% from its session high. MELANIA — the token named for First Lady Melanie Trump and launched one day after TRUMP — plummeted as much as 46% before paring some of the losses.\n\nRead more: Bitcoin Fades From Highs After No Crypto Mentions During Trump's Inauguration Speech\n\nThe volatility also flushed leveraged crypto trading positions en masse, liquidating over $700 million of derivatives across all digital assets on exchanges through Monday, CoinGlass data shows. Nearly $500 million worth of liquidated positions were longs betting on prices to rise.\n\nIncluding the overnight selloff before the inauguration brings the total liquidations over $1.2 billion in the past 24 hours, marking the biggest leverage wipeout of this year.\n\nAnticipation for Trump's presidency was immense in the crypto industry, expecting friendlier policies towards digital assets after years of regulatory uncertainty and clampdown. However, the launch of Trump-affiliated meme tokens only days before he entered office unleashed a speculative frenzy on crypto trading platforms and irked several prominent figures in and outside the industry.\n\n“It’s absolutely preposterous that he would do this,” Nic Carter, founding partner at the crypto investment firm Castle Island Ventures, told Politico. \"They’re plumbing new depths of idiocy with the memecoin launch.”\n\nCongresswoman Maxine Waters, the top Democrat on the House Financial Services Committee, was the latest to denounce the action.\n\n\"This meme coin represents the worst of crypto and shows why many regulators, advocates, and policymakers have long been worried,\" she said in a Monday statement. \"These actions by President Trump will also further taint the crypto industry, which has long fought for legitimacy and a level playing field with other financial institutions.\"",
+    "url": "https://www.coindesk.com/markets/2025/01/20/solana-trump-memecoins-tumble-as-inauguration-day-brings-700-m-in-crypto-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Nic Carter",
+                "Maxine Waters"
+            ],
+            "positions": [
+                "First Lady",
+                "founding partner",
+                "Congresswoman",
+                "top Democrat on the House Financial Services Committee"
+            ],
+            "companies": [
+                "Castle Island Ventures"
+            ],
+            "organizations": [
+                "Politico",
+                "House Financial Services Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "bitcoin",
+            "BTC",
+            "TRUMP",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across major cryptocurrencies, massive liquidations totaling over $1.2 billion, and market disappointment following Trump's failure to mention crypto in his inauguration speech."
+    }
+}

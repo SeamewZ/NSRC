@@ -1,0 +1,32 @@
+{
+    "title": "Ukraine Considers Up to 23% Personal Income Tax on Crypto in Newly Proposed Tax Scheme",
+    "summary": "Under a proposal, certain crypto transactions would be taxed at the country’s standard 18% rate, as well as an extra 5% levy to support the country’s war costs.",
+    "time": "2025-04-09T19:15:00",
+    "author": "Camomile Shumba",
+    "content": "Ukraine’s top financial regulator is floating the idea of taxing cryptocurrency as personal income, with possible carveouts for certain foreign asset-backed stablecoins, under a newly proposed taxation matrix published on Tuesday.\n\nIn a translated letter introducing the potential new approach, Ruslan Magomedov, head of Ukraine’s National Securities and Stock Market Commission, said that effective tax policy is a necessary step in preventing financial abuse and facilitating the “legal and responsible use of digital assets.”\n\n“Establishing fair and understandable taxation rules is also a prerequisite for attracting investment and integrating the Ukrainian virtual asset market into the global financial market,” Magomedov added.\n\nUnder the NSSMC’s suggested tax scheme, certain crypto transactions — essentially those in which non-stablecoin cryptocurrencies are cashed out for fiat currency or exchanged for goods or services, and during which there were no financial losses from the transaction — would be taxed at Ukraine’s standard personal income tax rate of 18%, plus the additional 5% wartime levy that went into effect last December.\n\nCrypto-to-crypto transactions would not be subject to taxation under the proposed tax matrix, which is in line with how several other European countries including Austria and France, as well as crypto-friendly jurisdictions like Singapore, handle crypto taxation.\n\nBecause Ukraine’s tax code exempts any income generated from transactions with foreign exchange values from being taxed, the NSSMC suggested “it makes sense to consider a preferential rate or exemption from taxation” for foreign asset-backed stablecoins and certain asset-referenced tokens (ARTs). The suggested preferential tax rate under the matrix could be either 5% or 9%.\n\nThe matrix also offered a variety of taxation options for other types of crypto transactions, including mining, which the NSSMC suggested could be considered a “business activity”; staking, which the regulator said could either be “considered as business captive income” or taxed only at the cash-out stage; as well as hard-forks and airdrops, which the regulator said could either be taxed as ordinary income or only at the cash-out stage.\n\nUkraine had previously introduced a draft law similarly amending the country’s tax code to cover cryptocurrency in 2023. A 2024 analysis from Swiss blockchain analytics firm Global Ledger found that Ukraine could stand to collect over $200 million in annual taxes from crypto transactions.\n\nUkrainian President Volodymyr Zelensky officially legalized the country’s cryptocurrency sector in 2022, determining the industry’s regulators and giving them the go-ahead to create specific regulations. The National Bank of Ukraine is currently working on a draft law based on the European Union’s (EU) Markets in Crypto Assets (MiCA) regulation.\n\nUkraine has been a candidate for EU membership since 2022.\n\nCoinDesk reached out to the NSSMC for a comment.",
+    "url": "https://www.coindesk.com/policy/2025/04/09/ukraine-considers-up-to-23-personal-income-tax-on-crypto-in-newly-proposed-tax-scheme",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ruslan Magomedov",
+                "Volodymyr Zelensky"
+            ],
+            "positions": [
+                "head of Ukraine’s National Securities and Stock Market Commission",
+                "Ukrainian President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Global Ledger"
+            ],
+            "organizations": [
+                "National Securities and Stock Market Commission (NSSMC)",
+                "National Bank of Ukraine",
+                "European Union (EU)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes proposed tax regulations that establish clear rules for cryptocurrency taxation in Ukraine, which could be seen as regulatory clarity, but the implementation of taxes typically has a neutral to slightly negative market impact as it introduces compliance costs."
+    }
+}

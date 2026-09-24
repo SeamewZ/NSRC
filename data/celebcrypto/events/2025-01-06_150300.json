@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: HBAR Falls 3.5% as Index Trades Lower From Friday",
+    "time": "2025-01-06T15:03:00",
+    "author": "CoinDesk Indices",
+    "summary": "Cardano (ADA) joined Hedera (HBAR) as an underperformer, declining 3.4%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3671.0, down 0.2% (-6.46) since 4 p.m. ET last Friday.\n\n10 of 20 assets are trading higher.\n\nLeaders: RENDER (+8.4%) and FIL (+7.1%).\n\nLaggards: HBAR (-3.5%) and ADA (-3.4%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/06/coin-desk-20-performance-update-hbar-falls-3-5-as-index-trades-lower-from-friday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "HBAR",
+            "ADA",
+            "RENDER",
+            "FIL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is trading lower with more assets declining than rising, and HBAR and ADA showing significant losses of 3.5% and 3.4% respectively."
+    }
+}

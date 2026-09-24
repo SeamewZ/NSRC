@@ -1,0 +1,36 @@
+{
+    "title": "Ether Supply Squeeze? Bybit Hacker Emerges as World's 14th-Largest ETH Holder",
+    "time": "2025-02-22T13:22:00",
+    "author": "Omkar Godbole",
+    "summary": "Ether trades 2% higher as the hacked ETH is seen as a permanently lost supply.",
+    "content": "The Bybit hacker, supposedly a North Korean entity, is now one of the world's largest ether holders, which may have bullish implications for the cryptocurrency's spot price.\n\nAccording to data from Arkham Intelligence and Coinbase executive Connor Grogan, this malicious actor holds 489,000 ETH, valued at approximately $1.34 billion, constituting about 0.4% of ether's total supply, making it the 14th-largest Ether holder globally. That puts the hacker ahead of the Ethereum Foundation, Ethereum's CEO Vitalik Buterin and Fidelity.\n\nIt's important to note that the addresses linked to this entity are being closely monitored and backlisted by exchanges, which means the hacker will likely struggle to offload these coins in the market.\n\nIn simpler terms, the hacked ether supply is likely lost permanently. Furthermore, Bybit, which has reportedly secured a bridged loan from unnamed partners to cover nearly 80% of the ether lost in the Friday hack, will likely need to purchase coins in the market.\n\n\"As far as this supply is concerned, it's essentially gone. No OTC desk or exchange will facilitate the movement of such a large amount. Meanwhile, Bybit is short 402k ETH. The bridge loan may cover immediate needs, but purchasing will still be necessary,\" Vance Spencer, co-founder of the crypto VC firm Framework Ventures, said on X.\n\nThat probably explains why ether has bounced 2.6% to $2,730 from the overnight low of around $2,614. Funding rates in perpetual futures tied to ether remain positive, implying a bias for long positions, according to data source Coingecko.",
+    "url": "https://www.coindesk.com/markets/2025/02/22/ether-supply-squeeze-bybit-hacker-emerges-as-world-s-14th-largest-eth-holder",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Connor Grogan",
+                "Vitalik Buterin",
+                "Vance Spencer"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Bybit",
+                "Coinbase",
+                "Fidelity",
+                "Framework Ventures"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Arkham Intelligence"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states ether has bounced 2.6% and the hacked supply being permanently lost creates a supply squeeze that may have bullish implications for the cryptocurrency's spot price."
+    }
+}

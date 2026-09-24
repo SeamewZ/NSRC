@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Drops 3.8%, Leading Index Lower",
+    "time": "2025-04-24T13:14:00",
+    "author": "CoinDesk Indices",
+    "summary": "Bitcoin Cash (BCH) joined Uniswap as an underperformer, falling 3.0% from Wednesday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2687.87, down 1.3% (-36.46) since 4 p.m. ET on Wednesday.\n\nTwo of 20 assets are trading higher.\n\nLeaders: POL (+9.1%) and SUI (+1.9%).\n\nLaggards: UNI (-3.8%) and BCH (-3.0%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/24/coindesk-20-performance-update-uniswap-uni-drops-3-8-leading-index-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin Cash",
+            "BCH",
+            "Uniswap",
+            "UNI",
+            "POL",
+            "SUI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is down 1.3% with most assets declining, led by UNI dropping 3.8% and BCH falling 3.0%."
+    }
+}

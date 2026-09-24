@@ -1,0 +1,40 @@
+{
+    "title": "Hedge Funds Are Short Ether CME Futures Like Never Before. Is It Carry Trade or Outright Bearish Bets?",
+    "time": "2025-02-11T07:58:00",
+    "author": "Omkar Godbole",
+    "summary": "The record short interest is led by carry trades and some amount of outright bearish bets on the second-largest cryptocurrency.",
+    "content": "Hedge funds hold record short positions in ether\nETH\n$3,497.02\nfutures trading on the Chicago Mercantile Exchange (CME), raising questions about the motivations behind these positions.\n\nAt first glance, the data could suggest that sophisticated market players anticipate price slides, as discussed on social media. However, this isn’t entirely accurate; carry trades or arbitrage plays primarily drive the record short interest, but some of these short futures trades represent outright bearish bets on the cryptocurrency, per observers.\n\nAs of the week ended Feb. 4, hedge funds held a net short position of 11,341 contracts in the CME futures, according to data tracked by ZeroHedge and the Kobeissi Letter. The number has increased 40% in one week and 500% since November, according to The Kobeissi Letter.\n\n\"There is evidence suggesting that a notable portion of the short interest in Ether futures is tied to the carry trade. Despite macro headwinds and Ether's relative underperformance, U.S. ETH ETF inflows have remained steady over the past three months, coinciding with an increase in futures short interest—potentially signaling an uptick in basis trades,\" Thomas Erdösi, head of product at CF Benchmarks, told CoinDesk.\n\nCF Benchmarks provides reference rates that underpin CME's bitcoin\nBTC\n$103,962.30\nand ether derivatives.\n\nCarry trades, also known as basis trades, seek to profit from price discrepancies between the two markets. In ETH's case, it involves hedge funds shorting the CME futures while simultaneously buying the spot ether ETFs listed in the U.S.\n\n\"Hedge funds, in particular, appear to be active in this trade through regulated venues, in this case selling CME Ether Futures while buying ETHA [BlackRock's iShares Ethereum Trust ETF]. Additionally, Ethereum’s basis has occasionally exceeded Bitcoin’s, making Ether carry trades more attractive,\" Erdosi said.\n\nErdosi explained that the short interest has increased by roughly $470 million recently, which corresponds with the inflow of around $480 million in spot ETFs, which validates the argument.\n\nThat said, the overall short interest in the CME futures could involve some outright bearish bets to hedge against downside risks in ether. Traders could be shorting ether futures as a hedge against long bets in the altcoin complex.\n\n\"However, not all hedge fund short interest is necessarily driven by basis trades—some may be outright shorts given ETH’s lagging performance, particularly against other programmable settlement chains like SOL and a broader rally in altcoins,\" Erdosi added.\n\nETH options on both the CME and offshore giant Deribit show a bias for put options expiring in the near-term. It's a sign of lingering downside fears in ether.\n\nA put option gives the purchaser the right but not the obligation to sell the underlying asset at a predetermined price at a later date. A put buyer is implicitly bearish on the market, looking to hedge against or profit from an expected price drop in the underlying asset. A call buy is implicitly bullish.\n\nLong-end ETH options show pricier calls, a sign of bullish long-term expectations.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/hedge-funds-are-short-ether-cme-futures-like-never-before-is-it-carry-trade-or-outright-bearish-bets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Thomas Erdösi"
+            ],
+            "positions": [
+                "head of product"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange",
+                "CME",
+                "ZeroHedge",
+                "Kobeissi Letter",
+                "CF Benchmarks",
+                "CoinDesk",
+                "iShares Ethereum Trust ETF",
+                "Deribit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market activity with record short positions primarily driven by carry trades rather than outright bearish sentiment, while also noting lingering downside fears and bullish long-term expectations."
+    }
+}

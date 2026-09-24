@@ -1,0 +1,32 @@
+{
+    "title": "Raydium’s RAY Jumps 13% as DEX Reveals Own Token Issuance Platform",
+    "time": "2025-03-19T07:08:00",
+    "author": "Shaurya Malwa",
+    "summary": "LaunchLab will offer three types of bonding curves that match demand and price for a token and will let third-party UIs set their fees.",
+    "content": "Solana-based decentralized exchange Raydium is set to start its own token issuance platform in the coming weeks to drive more revenue to the already-popular trading service.\n\nRaydium’s native RAY token is up 13% in the past 24 hours, beating a 1.62% gain in the broader market tracked by the CoinDesk 100 (CD100) index.\n\nRaydium's LaunchLab will initially resemble the hit token issuance platform Pump.Fun, Blockworks first reported. Though developers say it will have several added features that make it more appealing for token launches.\n\nLaunchLab will have three types of bonding curves that match demand and price for a token and will let third-party UIs set their fees. A bonding curve is an automatic system that adjusts prices as tokens are bought or sold on DEXs.\n\nRaydium developer @0xINFRA said in an X post that the service could be easily added to applications that already use Raydium’s existing services — such as AMM v4, CP-Swap, CLMM pools.\n\n“We’re not here to compete with launchpads currently using Raydium — LaunchLab makes on-chain token launches easier for teams, offering a neutral, permissionless infra,” he said.\n\nAdding some more color here...\n\nLaunchLab is launching as a permissionless, customizable bonding curve program for Solana token launches and third-party UIs\n\nHere’s the deep dive on what’s coming: (1/7) https://t.co/Cs1FZ4UEJz\n\nRaydium is currently generating over $1 million in fees every day from trading across all its liquidity pools, not just those of Pump.fun tokens. However, over 30% of Raydium's daily trading volume came from Pump.fun tokens as of February, according to a Dune dashboard.\n\nPump.Fun, which lets anyone issue a token for less than $2 in capital, after which they choose the number of tokens, theme, and meme picture to accompany it. These tokens are automatically listed for trading on Raydium after reaching a $69,000 market capitalization.\n\nBut, in late February, Pump.Fun apparently moved away from using Raydium as its migration platform by launching its AMM tool (meaning tokens would be available for further trading on Pump instead of Raydium).\n\nThe two teams do not have an official partnership in place and haven't publicly commented on the recent developments.\n\nMeanwhile, @0xINFRA shut down early rumors of LaunchLab being a mere Pump.Fun fork.\n\n“Not a Pump fork, LaunchLab’s PoC UI mimics it for familiarity, but it’s far more versatile,” he said in the X post. “It’s the first of a tool suite—more models in progress to tackle diverse liquidity needs. Open to feedback and collabs for custom models. Not about stealing Pump's users—it’s about enriching Solana,” he added.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/raydium-s-ray-jumps-13-as-dex-reveals-own-token-issuance-platform",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "@0xINFRA"
+            ],
+            "positions": [
+                "developer"
+            ],
+            "companies": [
+                "Raydium",
+                "Pump.Fun",
+                "Blockworks"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "RAY",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports RAY token jumping 13% and the launch of a new token issuance platform that drives more revenue to Raydium, indicating positive market reaction and growth prospects."
+    }
+}

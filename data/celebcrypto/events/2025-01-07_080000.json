@@ -1,0 +1,36 @@
+{
+    "title": "FTX EU Sold to Backpack Exchange, Plans Regulated Crypto Derivatives Push Across Europe",
+    "summary": "FTX’s bankrupt European arm, which held a MiFID II-license under the Cyprus Securities and Exchange Commission (CySEC), was acquired by Backpack for $32.7 million.",
+    "time": "2025-01-07T08:00:00",
+    "author": "Ian Allison",
+    "content": "FTX EU, the European arm of Sam Bankman Fried’s now-bankrupt cryptocurrency trading empire, has been sold to Backpack Exchange, a crypto trading company founded by former Alameda Research and FTX employees.\n\nFTX EU, which held a MiFID II-license under the Cyprus Securities and Exchange Commission (CySEC), cost Backpack $32.7 million, the exchange said.\n\nBackpack’s new European arm will offer a full suite of crypto derivatives throughout the EU, starting out by capitalizing on its position as the only regulated perpetual futures provider across Europe, according to Armani Ferrante, CEO of Backpack Exchange.\n\nA number of crypto trading firms have applied for a MiFID license, which allows firms to also offer crypto-asset services under Europe’s new Markets in Crypto Assets (MiCA) regime, once a notification has been provided to the relevant competent national authority.\n\nCurrently, Bitstamp and Coinbase have received their MiFID II licenses, while D2X, based in the Netherlands, has also received a license and plans to deliver USD-denominated futures and options early this year. Other new entrants also aim to shift the crypto derivatives market dominance away from the likes of Panama-based centralized exchange Deribit.\n\nBackpack’s Ferrante said the firm’s MiCA notification has been submitted and he expects to go live in the first quarter of 2025.\n\n“Even though a few firms have been able to acquire approval for a limited form of a derivatives license, we’re not aware of any players that currently offer perpetuals and are live in the EU, including Coinbase and Bitstamp,” Ferrante said via email. “Once we return FTX EU customers' funds, we’re excited to begin serving a regulated perpetual futures product as a priority.”\n\nA full suite of products is being worked on, Ferrante added, although some of these may not roll out in Q1.\n\nBackpack, whose founders have contributed to the Solana ecosystem and established a successful wallet and NFT business, raised $17 million in funding last year.",
+    "url": "https://www.coindesk.com/business/2025/01/07/ftx-eu-sold-to-backpack-exchange-plans-regulated-crypto-derivatives-push-across-europe",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Bankman Fried",
+                "Armani Ferrante"
+            ],
+            "positions": [
+                "CEO of Backpack Exchange"
+            ],
+            "companies": [
+                "FTX EU",
+                "Backpack Exchange",
+                "Alameda Research",
+                "Bitstamp",
+                "Coinbase",
+                "D2X",
+                "Deribit"
+            ],
+            "organizations": [
+                "Cyprus Securities and Exchange Commission (CySEC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition of a regulated European exchange and planned expansion of crypto derivatives services indicates market growth and institutional confidence in the crypto space."
+    }
+}

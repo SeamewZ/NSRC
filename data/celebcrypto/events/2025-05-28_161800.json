@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Platform Mezo Debuts Mainnet to Build Circular BTC Economy",
+    "time": "2025-05-28T16:18:00",
+    "author": "Jamie Crawley",
+    "summary": "Mezo is built to be a Bitcoin finance platform that enables its users to unlock practical utility in BTC and thus become their own bank",
+    "content": "Blockchain venture studio Thesis, which is backed by Pantera Capital and Hack VC, has debuted its Bitcoin layer-2 network Mezo's mainnet.\n\nMezo is built to be Bitcoin finance platform that enables its users to unlock practical utility in BTC and thus become their own bank, according to an emailed announcement shared with CoinDesk.\n\nThe project debuted its testnet last year following a $21 million fundraising round led by Pantera.\n\nUsers can use their BTC as collateral to mint and spend Mezo's native stablecoin MUSD, this creating a circular economy powered by BTC.\n\nAn ongoing barrier to wider bitcoin adoption is the reticence users have to sell or spend it, which may be out of concern for losing value tied up in their holdings. This, amongst many other reasons, can explain why bitcoin has yet to fully prove itself as a form of money beyond being a store of value.\n\n\"Holders haven’t had many options to actually use their bitcoin without giving it up,\" CEO of Thesis, Matt Luongo, said.\n\n\"With [Mezo}, I can park my BTC, access a credit line and live my life. This is what being your own bank was always meant to look like. It finally lets HODLers have their cake and eat it too.\"\n\nMezo has teamed up with numerous crypto platforms that provide use cases such as e-commerce store Bitrefill, which offers gifts cards for MUSD, and BTC finance app Fold (FLD), which offers a cashback debit card and provides bitcoin rewards.\n\nRead More: Steak n’ Shake COO Says Bitcoin Payments Cut Processing Fees in Half",
+    "url": "https://www.coindesk.com/business/2025/05/28/bitcoin-platform-mezo-debuts-mainnet-to-build-circular-btc-economy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Matt Luongo"
+            ],
+            "positions": [
+                "CEO of Thesis"
+            ],
+            "companies": [
+                "Thesis",
+                "Pantera Capital",
+                "Hack VC",
+                "CoinDesk",
+                "Bitrefill",
+                "Fold",
+                "Steak n' Shake"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "MUSD",
+            "FLD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of Mezo's mainnet enables practical utility for Bitcoin holders without requiring them to sell their BTC, potentially increasing adoption and use cases."
+    }
+}

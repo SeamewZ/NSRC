@@ -1,0 +1,44 @@
+{
+    "title": "Strike CEO Mallers to Lead Bitcoin Investment Company Backed by Tether, Softbank, Brandon Lutnick",
+    "summary": "Crypto power players back $3B bitcoin SPAC as Trump-era policies spark new wave of institutional bets.",
+    "time": "2025-04-23T05:30:00",
+    "author": "Sam Reynolds",
+    "content": "Brandon Lutnick, son of U.S. Commerce Secretary Howard Lutnick and chair of Cantor Fitzgerald, is launching a listed bitcoin\nBTC\n$101,998.62\ninvestment vehicle backed by SoftBank, Tether and Bitfinex and headed by co-founder Jack Mallers, the CEO of bitcoin-focused payments app Strike.\n\nThe company, to be called Twenty One Capital after merging with Cantor Equity Partners, a special purpose acquisition company (SPAC), will be majority owned by Tether, issuer of the largest stablecoin, and cryptocurrency exchange Bitfinex, the companies said in a statement. SoftBank, an investment-holding company, will own a \"significant minority\" stake.\n\nTether and Bitfinex are contributing $1.5 billion and $600 million, respectively, while SoftBank is adding $900 million, the FT reported earlier. The FT reported the venture plans to raise another $550 million through bonds and private equity to purchase more BTC, but the official press release later upped that number to $585 million.\n\nTwenty One plans to have more than 42,000 BTC at launch, giving it the third-largest bitcoin treasury. Strategy (MSTR) has 538,200 and MARA Holdings (MARA) 47,531.\n\nThe deal mirrors Strategy’s bitcoin proxy model and would convert the BTC into equity at a valuation near $85,000 per coin, according to the release. It was announced amid renewed crypto optimism under the Trump administration, with bitcoin hovering near $93,000 and regulatory tailwinds shifting.\n\nThe company will measure its performance in BTC. Twenty One Capital is set to bring in two new metrics: Bitcoin Per Share (BPS), a measure of how much BTC each share represents, and Bitcoin Return Rate (BRR), which tracks BPS growth.\n\n“We’re not here to beat the market, we’re here to build a new one,\" Mallers said in the statement. \"A public stock, built by Bitcoiners, for Bitcoiners.”\n\nCantor Fitzgerald is one of Tether's custodians, holding the majority of its U.S. Treasuries.\n\nShares of Cantor Equity Partners are set to keep trading on Nasdaq under the CEP ticker until the transaction is finalized. Once the deal closes, Twenty One intends to trade under the ticker “XXI” on the exchange.\n\nUPDATE (April 23, 15:30 UTC): Adds Mallers as CEO in headine, first paragraph, details from official release.\nUPDATE (April 24, 05:50 UTC): Updates additional fundraising details",
+    "url": "https://www.coindesk.com/markets/2025/04/23/commerce-secretary-lutnick-s-son-teams-up-with-tether-softbank-for-usd3b-bitcoin-spac-ft",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brandon Lutnick",
+                "Howard Lutnick",
+                "Jack Mallers"
+            ],
+            "positions": [
+                "CEO",
+                "U.S. Commerce Secretary",
+                "chair",
+                "co-founder"
+            ],
+            "companies": [
+                "Twenty One Capital",
+                "Cantor Equity Partners",
+                "Cantor Fitzgerald",
+                "Tether",
+                "Bitfinex",
+                "SoftBank",
+                "Strike",
+                "Strategy",
+                "MARA Holdings"
+            ],
+            "organizations": [
+                "Trump administration",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $3 billion bitcoin investment vehicle backed by major institutional players and mentions renewed crypto optimism under the Trump administration with regulatory tailwinds shifting."
+    }
+}

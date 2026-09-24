@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin Options Flip Bullish After Powell's Transitory Inflation Remark, Ether Still Lags in Sentiment",
+    "time": "2025-03-20T07:18:00",
+    "author": "Omkar Godbole",
+    "summary": "The Fed retained forecast for two rate cuts Wednesday, with Powell calling the inflationary impact of Trump's tariffs transitory.",
+    "content": "Bitcoin\nBTC\n$104,558.40\npunters are looking at topside options bets in a bullish shift in price expectations after the Federal Reserve's (Fed) meeting, but ether\nETH\n$3,524.11\ncontinues to lag sentiment.\n\nAs of writing, BTC's short-term and long-term risk reversals, which show the implied volatility premium (demand) for bullish bets or calls versus puts, were positive, implying investor interest in chasing price gains in the leading cryptocurrency, per data source Amberdata.\n\nIt marks a shift from the bearish sentiment that prevailed weeks before the Fed meeting when short and near-dated puts were pricier than calls, reflecting downside fears.\n\n\"Frontend skew flipped calls. Flows featured 21 Mar outright calls and calendars bought, while 28 Mar puts were sold,\" institution-focused over-the-counter tech platform Paradigm noted in the Telegram chat. Institutions and large traders execute block trades via OTC platforms like Paradigm, which are then listed on Deribit.\n\nOptions are derivative contracts that give the purchaser the right but not the obligation to purchase or sell the underlying asset at a predetermined price at a later date. A call option gives the right to buy, and a put option gives the right to sell.\n\nThe bullish shift in the short and near-dated options happened as the Federal Reserve (Fed) retained the forecast for two rate cuts this year despite making the expected stagflationary adjustment in economic forecasts. The bank said it will slow the pace of balance sheet run off from April.\n\nMore importantly, Chairman Jerome Powell downplayed fears about the inflationary impact of Trump's tariffs, calling it transitory.\n\nAdditionally, the end of the prolonged legal tussle between the SEC and Ripple, which uses XRP for cross border transactions, likely aided the sentiment. XRP, with the market cap of $142.21 billion, is the world's fourth largest cryptocurrency.\n\nThese positive developments, however, are yet to translate into a positive flip in the short and near-dated ether options.\n\nAt press time, ether risk reversals showed a bias for puts out to the May expiry, retaining the pre-Fed cautious sentiment despite the looming Ethereum Pectra upgrade.\n\nThe technological update will introduce smart accounts to ethereum, blob scaling and validator UX enhancements and seen as a game changer by many. Ethereum developers launched a new test network, Hoodi, this week to carry out the impending upgrade, expected to take effect on March 26.\n\nNote that the persistent bias for ether puts could be partly driven by traders looking to hedge downside risks in other altcoins. Ether is widely seen as the altcoin leader.",
+    "url": "https://www.coindesk.com/markets/2025/03/20/bitcoin-traders-seek-topside-option-plays-after-powell-s-transitory-inflation-remark-ether-still-lags-in-sentiment",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Trump"
+            ],
+            "positions": [
+                "Chairman"
+            ],
+            "companies": [
+                "Paradigm",
+                "Deribit",
+                "Ripple",
+                "SEC"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "XRP",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a bullish shift in Bitcoin options sentiment following the Fed's rate cut forecast and Powell's transitory inflation remarks, with positive risk reversals indicating investor interest in chasing price gains."
+    }
+}

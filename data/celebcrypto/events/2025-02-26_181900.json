@@ -1,0 +1,47 @@
+{
+    "title": "Treasury Secretary Scott Bessent Hires Galaxy Digital Counsel to Advise on Crypto",
+    "summary": "Tyler Williams previously served several roles in the U.S. government.",
+    "time": "2025-02-26T18:19:00",
+    "author": "Helene Braun",
+    "content": "U.S. Treasury Secretary Scott Bessent named Galaxy Digital regulatory counsel Tyler Williams to advise on digital assets and blockchain technology policy.\n\nWilliams currently serves as head of Regulatory and Legislative Affairs & Regulatory Counsel at Galaxy Digital and also lectures part-time at The George Washington University Law School.\n\nHe has previously worked with the government, most recently as Deputy Assistant Secretary at the Department of Treasury under Steven Mnuchin from 2018 to 2020 where he advised on digital assets. He also worked under Senator Thom Tillis in the U.S. Senate and under Congressmen Robert Hurt and John Boehner in the House of Representatives.\n\nPresident Donald Trump signed an executive order earlier this month charging the Treasury and Commerce Departments with creating a sovereign wealth fund which he expects to be created before the end of this year.\n\nWhile bitcoin\nBTC\n$101,880.85\nhas not been mentioned in relation to the fund, it could potentially be a vehicle through which the government might buy and hold the crypto.\n\nTrump has previously proposed that the federal government hold digital currencies as part of its national reserve strategy. However, in an executive order, he only charged his crypto advisers with evaluating the creation of a digital asset reserve.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/treasury-secretary-scott-bessent-hires-galaxy-digital-counsel-to-advise-on-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Scott Bessent",
+                "Tyler Williams",
+                "Steven Mnuchin",
+                "Thom Tillis",
+                "Robert Hurt",
+                "John Boehner",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Treasury Secretary",
+                "Deputy Assistant Secretary",
+                "Senator",
+                "Congressmen",
+                "President",
+                "head of Regulatory and Legislative Affairs & Regulatory Counsel",
+                "regulatory counsel"
+            ],
+            "companies": [
+                "Galaxy Digital"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Department of Treasury",
+                "U.S. Senate",
+                "House of Representatives",
+                "The George Washington University Law School",
+                "Commerce Department"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The hiring of a crypto expert by the Treasury Secretary and discussion of government potentially holding digital currencies as part of national reserve strategy indicates positive regulatory and institutional adoption signals."
+    }
+}

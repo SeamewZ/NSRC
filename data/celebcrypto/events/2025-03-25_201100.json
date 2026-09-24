@@ -1,0 +1,37 @@
+{
+    "title": "GameStop to Add Bitcoin to Balance Sheet",
+    "time": "2025-03-25T20:11:00",
+    "author": "Helene Braun",
+    "summary": "Company CEO Ryan Cohen had teased possible purchases weeks ago, notably sharing a photo of himself and Strategy's Michael Saylor at a Mar-a-Lago event",
+    "content": "GameStop (GME) has added its name to the quickly-growing roster of publicly-traded companies adopting a bitcoin treasury strategy.\n\nAlongside its fourth quarter earnings report, the company said its board unanimously approved adding bitcoin as a treasury reserve asset.\n\nCEO Ryan Cohen in early February got tongues wagging when he posted a picture of himself and Strategy (MSTR) Executive Chairman Michael Saylor at Donald Trump's Mar-a-Lago.\n\nSeveral days later, Strive Asset Management CEO Matt Cole sent a letter to Cohen urging GME to use at least part of its nearly $5 billion of cash on hand to purchase bitcoin. Co-founded by Vivek Ramaswamy, Strive is an owner of GME through its ETFs.\n\n\"We believe GameStop has an incredible opportunity to transform its financial future by becoming the premier bitcoin treasury company in the gaming sector,\" wrote Cole.\n\nCohen further raised eyebrows when he tweeted out, \"Letter received.\"\n\nGME shares are up 5.7% in after hours trading. Bitcoin has gained modestly on the news, now trading at $88,500, ahead about 0.2% from 24 hours ago.\n\nGameStop (GME) has added its name to the quickly-growing roster of publicly-traded companies adopting a bitcoin treasury strategy. Alongside its fourth quarter earnings report, the company said its board unanimously approved adding bitcoin as a treasury reserve asset. CEO Ryan Cohen in early February got tongues wagging when he posted a picture of himself and Strategy (MSTR) Executive Chairman Michael Saylor at Donald Trump's Mar-a-Lago. Several days later, Strive Asset Management CEO Matt Cole sent a letter to Cohen urging GME to use at least part of its nearly $5 billion of cash on hand to purchase bitcoin. Co-founded by Vivek Ramaswamy, Strive is an owner of GME through its ETFs. We believe GameStop has an incredible opportunity to transform its financial future by becoming the premier bitcoin treasury company in the gaming sector, wrote Cole. Cohen further raised eyebrows when he tweeted out Letter received. GME shares are up 5.7% in after hours trading. Bitcoin has gained modestly on the news, now trading at $88,500, ahead about 0.2% from 24 hours ago.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/gamestop-to-add-bitcoin-to-balance-sheet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ryan Cohen",
+                "Michael Saylor",
+                "Donald Trump",
+                "Matt Cole",
+                "Vivek Ramaswamy"
+            ],
+            "positions": [
+                "CEO",
+                "Executive Chairman",
+                "Co-founded"
+            ],
+            "companies": [
+                "GameStop",
+                "Strategy",
+                "Strive Asset Management"
+            ],
+            "organizations": [
+                "Mar-a-Lago"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports that GameStop's board unanimously approved adding bitcoin as a treasury reserve asset, which led to GME shares rising 5.7% and bitcoin gaining modestly to $88,500."
+    }
+}

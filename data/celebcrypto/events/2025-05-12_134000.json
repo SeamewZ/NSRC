@@ -1,0 +1,28 @@
+{
+    "title": "Malaysia Power Theft by Illegal Crypto Miners Rose 300% Since 2018",
+    "summary": "Nationwide raids have shut down an average of 2,300 miners a year operating on stolen power since 2020.",
+    "time": "2025-05-12T13:40:00",
+    "author": "Camomile Shumba",
+    "content": "The number of electricity thefts uncovered in Malaysia soared by 300% between 2018 and end-2024, mainly due to the rise of illegal crypto mining, The Star reported on Monday.\n\nThe cases were detected in joint operations that included electricity utility Tenaga Nasional Berhad (TNB), the country's largest, the Energy Commission and the police.\n\n“Joint operations and nationwide raids have successfully shut down illegal mining setups, contributing to an increase in detected cases from 610 in 2018 to 2,397 in 2024,\" the utility said in a statement to The Star.\n\nCrypto mining is the process of discovering new blocks, verifying transactions and adding them to the blockchain that underpins digital assets. The process, especially for proof-of-work blockchains such as Bitcoin, is energy intensive, providing an incentive for unscrupulous miners to steal, rather than pay, for the electricity they use while reaping the reward in the form of new tokens for completing the process.\n\nThe largest leap in numbers occurred after 2020. Between 2020 and 2024, the average number of crypto-related electricity theft cases was 2,303 per year, TNB told The Star. The number of public complaints also rose due to increased awareness of how to report the illicit crypto mining TNB added.\n\nCrypto mining is not banned in Malaysia, but anyone who tampers with electrical installations is liable to a fine of 1 million ringgit ($232,720.50) and up to 10 years imprisonment.\n\nCoinDesk reached out to Tenaga Nasional Berhad for a comment.",
+    "url": "https://www.coindesk.com/policy/2025/05/12/malaysia-power-theft-by-illegal-crypto-miners-rose-300-since-2018",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tenaga Nasional Berhad (TNB)"
+            ],
+            "organizations": [
+                "Energy Commission",
+                "The Star",
+                "CoinDesk",
+                "police"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory crackdowns on illegal crypto mining operations and highlights the negative association between cryptocurrency mining and electricity theft."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "XRP, DOGE, ADA Slump 9% as Trump Douses Bullish Crypto Reserve Hopes",
+    "time": "2025-03-07T07:21:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders are disappointed the crypto reserve plans won’t add any buying pressure to the market, at least in the near term, with few catalysts to buoy the market.",
+    "content": "Major tokens XRP,\nDOGE\n$0.1668\nand\nADA\n$0.5413\nplummeted as much as 9% in the past 24 hours after President Donald Trump dashed hopes of a diversified U.S. strategic crypto reserve.\n\nLate Thursday, Trump directed his administration to establish a Bitcoin Strategic Reserve to hold bitcoin\nBTC\n$104,257.93\npreviously seized by the government with an additional “crypto stockpile” of other assets. Assets for the non-bitcoin stockpile will be any crypto that the government otherwise seizes.\n\nThat reversed days of bullish momentum fueled by Trump’s earlier comments at including tokens XRP, ADA, ether\nETH\n$3,514.10\nand Solana’s SOL — dousing hopes of buying pressure on all these assets using taxpayer money.\n\nDOGE spiked as much as 12% earlier in the week as NYSE Arca filed a 19b-4 with the SEC for approval of Bitwise's DOGE exchange-traded fund (ETF), with isolated hopes of it being included in the strategic reserve among some traders.\n\nBitcoin, the centerpiece of Trump’s plan, wasn’t immune, dipping 4.5% from a 24-hour high above $93,000 to under $88,000. The broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market capitalization, fell 5%, while smaller altcoins dropped as much as 10%.\n\nThe slide triggered over $400 million in liquidations on bullish bets in crypto futures, with a bulk of that stemming from BTC-tracked products at $230 million.\n\nTraders now look to the White House Crypto Summit scheduled in U.S. morning hours on Mar.7, but don’t hold high hopes for what’s to come.\n\n“Traders have lowered expectations since the strategic reserve announcement failed to live up to expectations,” Nick Ruck, director at LVRG Research, told CoinDesk in a Telegram message. “Trump hasn't promised anything substantial for Friday's summit that could reverse the impact of the trade wars, so there is still a risk-off sentiment.\n\n“Traders hold some hope for surprise announcements between Trump and individual blockchain companies, as numerous industry leaders and key government department heads will be in attendance,” Ruck added.",
+    "url": "https://www.coindesk.com/markets/2025/03/07/xrp-doge-ada-slump-9-as-trump-douses-bullish-crypto-reserve-hopes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Nick Ruck"
+            ],
+            "positions": [
+                "President",
+                "director"
+            ],
+            "companies": [
+                "Bitwise",
+                "LVRG Research"
+            ],
+            "organizations": [
+                "NYSE Arca",
+                "SEC",
+                "White House",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "DOGE",
+            "ADA",
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes major token prices plummeting up to 9%, triggering over $400 million in liquidations, and traders lowering expectations due to dashed hopes about the crypto reserve plans."
+    }
+}

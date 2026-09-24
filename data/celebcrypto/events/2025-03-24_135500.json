@@ -1,0 +1,34 @@
+{
+    "title": "Sam Altman’s World Network in Talks With Visa for Stablecoin Payments Wallet: Source",
+    "time": "2025-03-24T13:55:00",
+    "author": "Ian Allison",
+    "summary": "The move will make World Wallet into a \"mini bank account\" for anyone who wants it, according to a person familiar with the plans.",
+    "content": "World Network, the blockchain-based ecosystem built to extend the functionality of biometric identification system Worldcoin, is in talks with card giant Visa to link on-chain card features to a self-custody crypto wallet, according to a person familiar with the plans.\n\nThe aim is to bring Visa card functionality to World Network wallets, delivering a range of fintech and FX applications, fiat on and off-ramps, as well as allowing stablecoin-based payments to thousands of merchants around the world that are part of the Visa network.\n\nTools for Humanity, the company cofounded by Open AI CEO Sam Altman that oversees Worldcoin and World Network, sent out a request for product form to card issuers, which was seen by CoinDesk.\n\nWorld Network has been in talks with crypto card facilitators such as Rain, a company backed by Coinbase and Circle that provides on-chain Visa cards for projects like Optimism and Avalanche.\n\n“The plan is to build up a whole connected wallet strategy so that you can trade in all kinds of things, from FX to crypto, load to wallet, send to wallet, spend from card,” according to a source familiar with the plans. “Basically to turn World Wallet into a mini bank account for anyone who wants it.”\n\nGiven Altman's resources and general clout, \"other wallet providers should be worried,\" the source added.\n\nEarlier this month, World Network announced a World Chat application and the ability to send money in the form of crypto-based transactions between users on the network.\n\nWorldcoin, the iris scanning orb that collects biometric data for the network, has attracted more than its fair share of controversy since appearing in 2021.\n\nBig card networks like Visa and Mastercard have been working with crypto projects and wallet firms to explore ways their large networks can usefully overlap with the world of digital assets.\n\nTools for Humanity declined to comment. Rain also declined to comment. Visa did not provide a comment by publication time.",
+    "url": "https://www.coindesk.com/business/2025/03/20/openai-chief-sam-altman-s-world-network-is-working-with-payments-giant-visa-source",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman"
+            ],
+            "positions": [
+                "Open AI CEO"
+            ],
+            "companies": [
+                "World Network",
+                "Visa",
+                "Tools for Humanity",
+                "Worldcoin",
+                "Rain",
+                "Coinbase",
+                "Circle",
+                "Optimism",
+                "Avalanche",
+                "Mastercard"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes partnerships with major payment networks like Visa to enable stablecoin payments and expand crypto wallet functionality, indicating positive market expansion and adoption."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "It’s Time to Reform the Accredited Investor Rule",
+    "time": "2025-03-19T15:05:00",
+    "author": "Aaron Brogan",
+    "summary": "The shift to private-market fundraising shuts 80% of American households out of startup investing. That has to change, argue Aaron Brogan and Matt Homer.",
+    "content": "In recent weeks, President Trump has taken steps to draw investment to the United States. His proposed Gold Card would allow foreign investors to purchase legal status in the United States for $5 million. In his Joint Address to Congress, he lauded a $200 billion direct investment from Japan’s SoftBank.\n\nWhile there’s nothing wrong with soliciting offshore investment, the government is missing a key source of investment at home. The accredited investor rule — which says that individuals must have a net worth of more than $1 million, or annual income exceeding $200,000 — shuts too many Americans out of our most lucrative securities markets. It’s time to change that.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nIn the U.S., securities broadly fall into two categories: public and private. Public securities trade freely on national exchanges and are open to all investors, but they are extremely onerous to issue. Companies are required to navigate extensive regulatory and compliance requirements to “go public.” Their alternative is to stay private, and many companies like Stripe and SpaceX are choosing to do just that.\n\nPrivate markets, however, come with a catch. In exchange for easing the burden of regulation, they restrict access to accredited investors. This means that 80% of American households that do not qualify are effectively shut out. As more businesses choose to stay private, more everyday Americans are prevented from building wealth alongside them.\n\nIn the old days, public markets were the deepest and most reliable sources of capital for large, high-growth companies. This was great for the public, because it meant they had access to the best investments. Times have changed, though.\n\nAccording to SEC Commissioner Hester Peirce, “The once aspirational goal of becoming a public company seems to have lost its luster.” In recent years, private markets have grown at roughly double the rate of global public equity markets.\n\nAnd a single SEC rule is to blame.\n\nThe accredited investor rule\n\nThe accredited investor rule, 17 CFR § 230.501(a), is an SEC regulation that restricts access to private investments. It sets criteria investors must meet to participate in offerings like Regulation D, the primary exemption private companies use to raise capital. In effect, the rule blocks millions of Americans from investing in the most promising companies.\n\nAdvocates defend this rule openly. “Knowledge cannot protect people from potential losses… Only financial resources can,” Patrick Woodall, director of policy at Americans for Financial Reform, told The Wall Street Journal last year.\n\nWe disagree. This paternalistic view assumes the public must be “protected” from itself. But the accredited investor rule doesn’t protect the public. It locks them out from investing in companies shaping the future like OpenAI, Anthropic and Perplexity.\n\nThe test\n\nLast year, Sen. Tim Scott sponsored the Empowering Main Street in America Act (EMSAA), proposing, among other things, a test-in accredited investor definition.\n\nA test-in policy has clear advantages. First, it’s fair. Any American who passes can invest. Second, broader access to private markets lets more Americans share in the country’s economic success. If we’re building here, everyone should be able to buy in. Third, expanding private markets makes them more useful.\n\nBut Sen. Scott’s bill is unnecessary — a test-in accredited investor rule doesn’t require new legislation. The SEC already has the power to implement it through Sec. 2(a)(15) of the Securities Act of 1933. Because of this, an amendment to the rule on these grounds is unlikely to encounter significant legal resistance. By amending the accredited investor rule, the SEC can reshape private markets through rulemaking alone. It should start tomorrow.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/19/it-s-time-to-reform-the-accredited-investor-rule",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aaron Brogan",
+                "Matt Homer",
+                "President Trump",
+                "Hester Peirce",
+                "Patrick Woodall",
+                "Tim Scott"
+            ],
+            "positions": [
+                "SEC Commissioner",
+                "director of policy"
+            ],
+            "companies": [
+                "SoftBank",
+                "Stripe",
+                "SpaceX",
+                "OpenAI",
+                "Anthropic",
+                "Perplexity"
+            ],
+            "organizations": [
+                "SEC",
+                "Congress",
+                "Americans for Financial Reform"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses general securities regulation reform and does not mention cryptocurrencies or their market impact."
+    }
+}

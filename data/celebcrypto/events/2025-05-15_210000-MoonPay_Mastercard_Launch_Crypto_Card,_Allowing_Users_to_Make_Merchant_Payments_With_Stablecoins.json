@@ -1,0 +1,27 @@
+{
+    "title": "MoonPay Mastercard Launch Crypto Card, Allowing Users to Make Merchant Payments With Stablecoins",
+    "summary": "The partnership is set to allow crypto wallets to issue virtual Mastercards, expanding access to real-world stablecoin payments",
+    "time": "2025-05-15T13:00:00",
+    "author": "Francisco Rodrigues",
+    "content": "MoonPay has partnered with Mastercard to let users spend stablecoins at more than 150 million merchants worldwide, the company announced on Thursday.\n\nThe integration means that users of “every crypto wallet” will be able to access virtual Mastercards that draw directly from their stablecoin balances. The cards can be used at any merchant in Mastercard’s network.\n\nThe rollout comes amid a broader trend. Mastercard has last month unveiled end-to-end stablecoin capabilities as it moves deeper into the cryptocurrency economy, and partnered with OKX to launch a debit card with the exchange.\n\nSimilarly, crypto exchange Kraken teamed up with Mastercard to let its users in the UK and Europe spend their cryptocurrency at any merchant in the payments giant’s network.\n\nEarlier this year, Mastercard also began supporting tokenized real-world assets (RWAs) on its network through a partnership with Ondo Finance, which offers tokenized U.S. Treasury bills.\n\nUPDATE (May 15, 14:00 UTC): updates headline.",
+    "url": "https://www.coindesk.com/markets/2025/05/15/moonpay-users-can-now-make-stablecoins-to-make-payments-with-mastercard-partnership",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MoonPay",
+                "Mastercard",
+                "OKX",
+                "Kraken",
+                "Ondo Finance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership expands real-world utility for stablecoins by enabling payments at over 150 million merchants, indicating increased adoption and market confidence."
+    }
+}

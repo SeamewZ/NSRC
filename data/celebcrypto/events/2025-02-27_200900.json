@@ -1,0 +1,31 @@
+{
+    "title": "Tech Tumble Takes Toll on Bitcoin; Hedge Funder Targets $70K Handle in March",
+    "time": "2025-02-27T20:09:00",
+    "author": "Stephen Alpher",
+    "summary": "Crypto had plenty of reasons on its own to head lower, but now a general macro risk-off sentiment can be added to the mix.",
+    "content": "The January bursting of a massive speculative bubble in memecoins by itself seemed good enough reason for the general crypto market selloff of the past several weeks.\n\nThe declines sped up in a big way this week, though, in part thanks to growing risk-off sentiment in the previously perky stock market.\n\nDown more than 2% about 45 minutes before the close of trade on Thursday, the Nasdaq is now lower by roughly 7% over the past handful of sessions. Today's losses are being led by the chipmakers following Nvidia's (NVDA) fourth quarter earnings report last night. NVDA is lower by 5%.\n\nThe selloff in stocks came as many of the leading names were selling at lofty valuations after what seemed like months worth of unchecked gains. Toss into the mix President Trump's continual tariff threats — the latest being punitive levies against Mexico, Canada, and China to begin on Tuesday — and the stage was set for the current correction.\n\n\"Maximum caution is warranted in risk assets,\" said Quinn Thompson, founder of hedge fund Lekker Capital. \"Inflation data is coming in way too hot for the Fed to cut rates in the near-term, long-term inflation expectations are unanchoring to the upside (big red flag) and now U.S. economic data is looking like the 'Trump bump' was a dead cat bounce.\"\n\nOn crypto specifically, there's no suger-coating from Thompson: \"Every possible good news item imaginable has come and gone without much upward pressure on price,\" he said. \"Investors have forgotten that bear markets are possible and what they look like.\" He's targeting the $70,000s for bitcoin by the end of March.",
+    "url": "https://www.coindesk.com/markets/2025/02/27/tech-tumble-takes-toll-on-bitcoin-hedge-funder-targets-usd70k-handle-in-march",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Quinn Thompson"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Nvidia",
+                "NVDA",
+                "Lekker Capital"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a crypto market selloff, declining prices, risk-off sentiment, and a hedge funder targeting lower bitcoin prices by March."
+    }
+}

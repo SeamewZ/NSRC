@@ -1,0 +1,35 @@
+{
+    "title": "Cboe Set to Debut New Bitcoin Futures With FTSE Russell",
+    "time": "2025-04-08T07:35:00",
+    "author": "Helene Braun",
+    "summary": "The crypto arm of the Chicago Board of Options Exchange said that the launch comes at a pivotal moment as demand for crypto exposure grows.",
+    "content": "Cboe Futures Exchange, the crypto arm of the Chicago Board of Options Exchange, is hoping to roll out a new bitcoin\nBTC\n$103,863.27\nfutures product later this month if approved by regulators, the exchange said on Monday.\n\nThe new trading vehicle, in partnership with FTSE Russell, will be cash-settled and based on the XBTF Index, which represents 1/10th the value of the FTSE Bitcoin Index. It will settle on the last business day of each month.\n\nIf regulators approve Cboe’s application, the futures would begin trading on April 28, it said.\n\nFutures are a type of derivatives where the buyer and seller agree to trade an asset at a fixed price and date in the future. They are a popular vehicle to hedge and manage risk and capitalize on trends and market behavior.\n\n\"This launch comes at a pivotal time as demand for crypto exposure continues to grow and market participants are increasingly seeking more capital-efficient and versatile ways to gain and manage that exposure,” said Catherine Clay, Global Head of Derivatives at Cboe, in a statement.\n\nIn November 2023, Cboe became the first U.S. regulated exchange to offer both spot and leveraged derivatives trading on a single platform after it received approval from the CFTC to list margined bitcoin and ether\nETH\n$3,516.92\nfutures.\n\nUPDATE (April 9, 21:59 UTC): Corrects to reflect that Cboe Futures Exchange is rolling out the product, not Cboe Digital.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/cboe-set-to-debut-new-bitcoin-futures-with-ftse-russell",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Catherine Clay"
+            ],
+            "positions": [
+                "Global Head of Derivatives"
+            ],
+            "companies": [
+                "Cboe Futures Exchange",
+                "Cboe Digital",
+                "FTSE Russell"
+            ],
+            "organizations": [
+                "Chicago Board of Options Exchange",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of new bitcoin futures products and growing institutional demand for crypto exposure indicates positive market development and increased accessibility."
+    }
+}

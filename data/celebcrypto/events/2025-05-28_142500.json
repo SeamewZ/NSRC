@@ -1,0 +1,28 @@
+{
+    "title": "DeFi Platform Cork Protocol Suffers $12M Smart Contract Exploit",
+    "time": "2025-05-28T14:25:00",
+    "author": "Oliver Knight",
+    "summary": "Cork Protocol has paused all markets as a precaution.",
+    "content": "Decentralized finance (DeFi) platform Cork Protocol has suffered a smart contract exploit, with hackers reportedly stealing $12 million worth of wrapped staked ether (wstETH).\n\nBlockchain security monitor Cyvers noticed the exploit, stating that the malicious contract was deployed by a wallet likely funded by a service provider.\n\nIt added that $12 million worth of wstETH was quickly swapped for ETH.\n\nCork Protocol received investments from a16z crypto and OrangeDAO in September 2024.\n\n\"There was a security incident affecting the wstETH:weETH market at 11:23 UTC today,\" Cork wrote on X.\n\nCork added that it has paused all other markets as a precaution and that it is investigating the root cause.\n\nSecurity auditing company Debaub wrote that the attacker likely manipulated an issue with the smart contact's exchange rate by issuing fake tokens.",
+    "url": "https://www.coindesk.com/business/2025/05/28/a16z-backed-cork-protocol-suffers-usd12m-smart-contract-exploit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Cork Protocol",
+                "Cyvers",
+                "a16z crypto",
+                "OrangeDAO",
+                "Debaub"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "wstETH",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $12 million smart contract exploit and security breach at a DeFi platform, which represents a negative event that could undermine market confidence."
+    }
+}

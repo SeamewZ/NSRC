@@ -1,0 +1,30 @@
+{
+    "title": "U.S. Bitcoin ETFs See Third Straight Day of Outflows, Totaling $494M, as BTC Stalls",
+    "time": "2025-02-13T11:52:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin continues to trade in a range that it has set since mid-November.",
+    "content": "U.S. spot-listed bitcoin\nBTC\n$103,797.36\nexchange-traded funds (ETFs) have seen three consecutive days of outflows totaling $494 million. Wednesday's outflows were the largest of the three, with $251 million, which saw BlackRock's iShares Trust (IBIT) register a $22.1 million outflow, with Fidelity Wise Origin Bitcoin Fund (FBTC) registering the largest outflow of $102 million, according to Farside data.\n\nThe outflows coincided with low volume in the ETFs, and Wednesday saw a total of just $2.58 billion in volume. IBIT registered less than $2 billion in volume, which put it as the tenth most traded U.S. ETF, according to Coinglass data. IBIT typically falls into the top 5 most traded ETFs when bitcoin surges or gains momentum.\n\nThe lack of demand shown in the recent Goldman Sachs filing of the bitcoin ETFs shows the lackluster demand for new net long positions in these ETFs, which are primarily used as trading vehicles.\n\nBitcoin is currently at $96,000, in the middle of a trading range between $90,000 and its all-time high of $109,000, which began in mid-November.",
+    "url": "https://www.coindesk.com/markets/2025/02/13/u-s-bitcoin-etf-sees-third-straight-day-of-outflows-totaling-usd494m-as-bitcoin-stalls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "Goldman Sachs"
+            ],
+            "organizations": [
+                "iShares Trust",
+                "Farside",
+                "Coinglass"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports three consecutive days of significant outflows from Bitcoin ETFs totaling $494 million, low trading volumes, and lackluster demand for new positions, indicating negative market sentiment."
+    }
+}

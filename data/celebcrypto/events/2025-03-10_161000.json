@@ -1,0 +1,25 @@
+{
+    "title": "No Bottom in Sight as Bitcoin Funding Rate Swings",
+    "time": "2025-03-10T16:10:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin perpetual funding rates turned slightly negative, reaching an annualized rate of -2%.",
+    "content": "The bitcoin (BTC) perpetual futures funding rate is fluctuating between positive and negative, reflecting market uncertainty. As bitcoin declines and hovers around $80,000, traders are seeking direction, especially after bitcoin lost its 200-day moving average.\n\nThe funding rate, set by exchanges for perpetual futures contracts, determines periodic payments between long and short positions. A positive rate means long positions pay shorts, while a negative rate means shorts pay longs.\n\nOver the past two weeks, the funding rate has oscillated between positive and negative, indicating indecision. In bull markets, the rate typically remains positive. Recently, the daily funding rate hit a negative -0.006%, equivalent to an annualized rate of -2%, according to Glassnode data.\n\nHistorically, bitcoin bottoms have coincided with sustained negative funding rates, which typically coincide with bearish sentiment. Examples include the Covid-19 crash, the FTX collapse, and the 2021 China mining ban. However, over the past two weeks, each bitcoin rally has prompted traders to shift positions, resulting in long liquidations when the price reverses, preventing a sustained period of negative funding rates.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/no-bottom-in-sight-as-bitcoin-funding-rate-swings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode",
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin declining, negative funding rates, market uncertainty, long liquidations, and references to historical bottoms during bearish periods."
+    }
+}

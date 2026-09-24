@@ -1,0 +1,42 @@
+{
+    "title": "DeFi Borrowing Demand Plunges as Crypto Traders Deleverage Amid Market Turmoil",
+    "time": "2025-04-08T18:53:00",
+    "author": "Krisztian Sandor",
+    "summary": "The total value of borrowings on large DeFi platforms like Aave and Morpho has sharply dropped from the mid-December peak, as investors scrambled to reduce outstanding debt or got liquidated.",
+    "content": "Borrowing demand across decentralized finance (DeFi) protocols plunged sharply in the wake of the recent crypto market turmoil, a sign of widespread deleveraging as crypto investors unwound risky positions.\n\nThe average U.S. dollar stablecoin yield — what protocols pay out to lenders for lending out their assets — fell to 2.8% on Tuesday to its lowest level in a year, measured by DeFi yield-earning application vaults.fyi's benchmark. That's well below the average U.S. dollar money market rates on traditional markets (4.3%), and a hefty decline from mid-December's crypto market peak, when DeFi rates topped 18%.\n\n\"This is largely due to the market moving towards a risk-off environment where borrowing across protocols has decreased significantly,\" said Ryan Rodenbaugh, CEO of Wallfacer Labs, the team behind vaults.fyi.\n\nThe move reflects risk-off sentiment spreading across crypto markets, with investors pulling back leverage amid volatile price swings. As users repay loans and liquidations clear out under-collateralized positions, demand for borrowing dips. Meanwhile, deposits available for lending on protocols remained stable, per vaults.fyi data, meaning that declining revenue from borrowers are spread among the same amount of lenders, exerting downward pressure on yields.\n\nThat's a \"negative double-whammy\" for the rates that the remaining lenders are getting paid, Rodenbaugh said.\n\nThe sharp decline in yields and deleveraging was exacerbated by this weekend's carnage in crypto markets, as major DeFi lending protocols reported a wave of liquidations amid rapidly plunging asset prices. Bitcoin\nBTC\n$103,966.57\nand Ethereum's ETH, two assets predominantly used as collateral for crypto loans, suffered 10%-15% declines below $75,000 and $1,500, respectively.\n\nAave, the largest decentralized lending market by total value locked (TVL), processed over $110 million in forced liquidations during the Sunday-Monday market decline, Omer Goldberg, CEO of DeFi analytics firm Chaos Labs, noted citing on-chain data.\n\nSky (formerly MakerDAO), issuer of the $7 billion USDS stablecoin and one of DeFi’s largest lending platforms, also liquidated an ether whale's $74 million DAI loan collateralized by 67,570 ETH, worth $106 million at the time, on-chain data shows. Another large lender with 65,000 ETH in collateral scrambled to pay off portions of their $66 million loan to avoid a similar fate, bringing down the outstanding debt to $28 million.\n\nThe total value of borrowed assets on Aave dropped to $10 billion on Tuesday, a sharp drop from over $15 billion in mid-December, DefiLlama data shows. Morpho, another key lending protocol, saw a similar drop to $1.7 billion from $2.4 billion during the same period, per DefiLlama.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/defi-borrowing-demand-plunges-as-crypto-traders-deleverage-amid-market-turmoil",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ryan Rodenbaugh",
+                "Omer Goldberg"
+            ],
+            "positions": [
+                "CEO",
+                "CEO"
+            ],
+            "companies": [
+                "Wallfacer Labs",
+                "Chaos Labs"
+            ],
+            "organizations": [
+                "Aave",
+                "Morpho",
+                "Sky",
+                "MakerDAO",
+                "DefiLlama",
+                "vaults.fyi"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "USDS",
+            "DAI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes plunging borrowing demand, widespread deleveraging, forced liquidations, and sharp price declines across major cryptocurrencies, indicating market panic and negative sentiment."
+    }
+}

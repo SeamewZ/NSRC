@@ -1,0 +1,42 @@
+{
+    "title": "Tokenized Apollo Credit Fund Makes DeFi Debut With Levered-Yield Strategy by Securitize, Gauntlet",
+    "summary": "The offering aims to make real-world asset tokens competitive with stablecoins for DeFi yield strategies, Securitize's Reid Simon said.",
+    "time": "2025-04-30T12:17:00",
+    "author": "Krisztian Sandor",
+    "content": "DUBAI, UAE — Tokenization firm Securitize and decentralized finance (DeFi) specialist Gauntlet are planning to bring a tokenized version of Apollo's credit fund to DeFi, a notable step in embedding real-world assets into the crypto ecosystem.\n\nThe two firms are unveiling Wednesday a leveraged-yield strategy offering centered on the Apollo Diversified Credit Securitize Fund (ACRED), a tokenized feeder fund that debuted in January and invests in Apollo’s $1 billion Diversified Credit Fund. The strategy will run on Compound Blue, a lending protocol powered by Morpho,\n\nThe offering, called Levered RWA Strategy, will be first available on Polygon (POL). It is expected to expand to the Ethereum mainnet and other blockchains after a pilot phase.\n\n\"The idea behind the product is we want our securities to be plug and play competitive with stablecoin strategies writ large,\" Reid Simon, head of DeFi and credit solutions at Securitize, said in an interview with CoinDesk.\n\nThe introduction comes as tokenized RWAs — funds, bonds, credit products — gain traction among traditional finance giants. BlackRock, HSBC, and Franklin Templeton are among the firms exploring blockchain-based asset issuance and settlement. Tokenized U.S. Treasuries alone have pulled in over $6 billion, according to data from RWA.xyz.\n\nWhile institutions are experimenting with tokenization, the next challenge is making these assets usable across DeFi applications. That includes enabling their use as collateral for loans, margin trading or building investment strategies not possible on legacy rails.\n\nThe strategy employs a DeFi-native yield-optimization technique called \"looping\", in which ACRED tokens deposited into a vault are used as collateral to borrow USDC, which is then used to purchase more ACRED. The process repeats recursively to enhance yield, with exposure adjusted dynamically based on real-time borrowing and lending rates.\n\nAll trades are automated using smart contracts, reducing the need for manual oversight. Risk is actively managed by Gauntlet’s risk engine, which monitors leverage ratios and can unwind positions in volatile market conditions to protect users.\n\n\"This is expected to deliver the institutional-grade DeFi that our industry has promised for years,\" Morpho CEO and cofounder Paul Frambot said. \"This use case uniquely demonstrates how DeFi enables investors in funds like ACRED to access financial composability that is simply not possible on traditional rails.”\n\nThe vault is also one of the first uses of Securitize’s new sToken tool, which allows accredited token holders to maintain compliance and investor protections within decentralized networks. In this case, ACRED investors first mint sACRED that they can use for broader DeFi strategies without breaking regulatory rules.\n\n\"This is a strong example of the institutional-grade DeFi we’ve been working to build: making tokenized securities not only accessible, but compelling to crypto-native investors seeking strategies that objectively outpace their traditional counterparts,” Securitize CEO Carlos Domingo said in a statement.",
+    "url": "https://www.coindesk.com/markets/2025/04/30/tokenized-apollo-credit-fund-makes-defi-debut-with-levered-yield-strategy-by-securitize-gauntlet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reid Simon",
+                "Paul Frambot",
+                "Carlos Domingo"
+            ],
+            "positions": [
+                "head of DeFi and credit solutions at Securitize",
+                "CEO and cofounder",
+                "CEO"
+            ],
+            "companies": [
+                "Securitize",
+                "Gauntlet",
+                "Apollo",
+                "BlackRock",
+                "HSBC",
+                "Franklin Templeton",
+                "Morpho"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Polygon",
+            "POL",
+            "Ethereum",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption of tokenized real-world assets in DeFi, with major traditional finance firms exploring blockchain-based solutions and creating new yield strategies that enhance crypto utility."
+    }
+}

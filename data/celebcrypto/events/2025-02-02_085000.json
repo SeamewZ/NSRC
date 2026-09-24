@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Drops 8% to $93K as Asia Awakens to Trump's Trade War",
+    "time": "2025-02-02T08:50:00",
+    "author": "Omkar Godbole",
+    "summary": "As Asia begins its trading day, BTC's weakness likely reflects fears that a trade war could freeze global growth",
+    "content": "Bitcoin\nBTC\n$103,852.44\n, the leading cryptocurrency by market value and the only macro asset open for trading over the weekend, opened Asia's trading week\n\nCanadian Prime Minister Justin Trudeau said the country would impose 25% tariffs on U.S. goods, from drinks to appliances, after President Donald Trump imposed a 25% tariff on Canadian and Mexican imports and 10% on goods from China. China said it would file a case against the U.S. at the World Trade Organization while vowing unspecified countermeasures to safeguard its interests.\n\nThe renewed trade war, coupled with mass deportations of illegal migrants from the U.S., could add to inflation, weakening the case for speedy Fed rate cuts. BTC's price weakness likely reflects these concerns and offers risk-off cues to traditional risky assets. The broader crypto market followed BTC lower, with the CoinDesk 20 Index falling over 2%.",
+    "url": "https://www.coindesk.com/markets/2025/02/02/bitcoin-slips-below-usd100k-as-canada-s-trudeau-retaliates-to-trump-s-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Justin Trudeau",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Canadian Prime Minister",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "World Trade Organization",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin dropped 8% to $93K and the broader crypto market followed lower due to fears that renewed trade wars could freeze global growth and weaken the case for Fed rate cuts."
+    }
+}

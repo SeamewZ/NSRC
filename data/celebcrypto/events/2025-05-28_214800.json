@@ -1,0 +1,34 @@
+{
+    "title": "TON Under Pressure After Telegram's Pavel Durov Confirms No xAI Deal Was Signed",
+    "summary": "\"No deal was signed\" said Elon Musk, the xAI CEO, in response to an announcement earlier on Wednesday by Telegram's Pavel Durov",
+    "time": "2025-05-28T21:48:00",
+    "author": "Sam Reynolds",
+    "content": "Telegram and X have not yet actually signed a deal that would bring xAI's Grok to Telegram, despite Telegram's Pavel Durov announcing it earlier Wednesday, putting sell pressure on TON's\nTON\n$1.8985\nrecent rally.\n\nThe deal would see Telegram receive 50% of the revenue from xAI subscriptions sold via its platform, along with $300 million in cash and equity as the messaging giant looks to raise $1.5 billion via a bond offering backed by BlackRock, Mubadala, and Citadel, CoinDesk previously reported.\n\n\"No deal has been signed,\" xAI CEO Elon Musk posted late Wednesday in response to the Telegram founder's announcement.\n\nTON, a token associated with Telegram, dropped from $3.60 to $3.28 in the moments after the tweet. The token had been on a rally in the hours after the announcement, previously up 14% on-day, according to CoinDesk market data.\n\nTelegram's Pavel Durov later posted on X that Musk's statement was true.\n\"Agreed in principle, but formalities are pending,\" he wrote.\n\nUPDATE (May 28, 23:17 UTC) Updates price information, statement from Durov.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/ton-sinks-after-elon-musk-denies-xaitelegram-deal-was-signed",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pavel Durov",
+                "Elon Musk"
+            ],
+            "positions": [
+                "xAI CEO",
+                "Telegram founder"
+            ],
+            "companies": [
+                "Telegram",
+                "X",
+                "xAI",
+                "BlackRock",
+                "Mubadala",
+                "Citadel"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "TON"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "TON dropped from $3.60 to $3.28 after Elon Musk clarified that no deal had been signed, putting sell pressure on the token's recent rally."
+    }
+}

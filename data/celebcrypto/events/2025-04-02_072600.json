@@ -1,0 +1,36 @@
+{
+    "title": "Goldman Sees Yen Rising to Low 140s as Bitcoin Echoes Tech Stock Weakness",
+    "time": "2025-04-02T07:26:00",
+    "author": "Omkar Godbole",
+    "summary": "Goldman Sachs recommends the yen as a hedge against U.S. recession risks, citing its historical strength in risk-off environments.",
+    "content": "The Bitcoin-Japanese yen (BTC/JPY) pair faced a setback at key trendline resistance Wednesday, as Goldman Sachs (GS) cited the anti-risk yen as the leading hedge against rising U.S. tariff and recession risks.\n\nThe BTC/JPY trading on the Japan-based bitFlyer fell 1% after failing to take out the trendline drawn off the record high reached on Jan. 20, data from charting platform TradingView show.\n\nBTC's USD-denominated price faced similar losses. Meanwhile, Asian equity indices and the U.S. equity futures treaded water ahead of President Donald Trump's sweeping new “Liberation Day” reciprocal tariffs on Wednesday that could trigger a global trade war.\n\nThe tariff uncertainty has spurred several investment banks, including JPMorgan and Goldman Sachs, pencil in a higher chance of U.S. recession or consecutive quarterly contractions in the growth rate.\n\nSome crypto observers expect investors to treat bitcoin\nBTC\n$103,988.20\nas a haven asset should a tariff-led economic swoon materialize. Goldman, however, sees the Japanese yen, a long-preferred safe haven, as the top hedge against U.S. risks.\n\n\"The yen offers investors the best currency hedge should the chances of a US recession increase,\" Kamakshya Trivedi, head of global foreign exchange, interest rates and emerging market strategy at Goldman Sachs, said late Tuesday, according to Bloomberg.\n\nTrivedi added that the yen is also a \"very good hedge\" against U.S. labor market weakness and tends to do best when U.S. real rates [inflation-adjusted yields] and U.S. equities fall together.\n\nWhile BTC is widely seen as a digital gold or haven asset by crypto market participants, the cryptocurrency has historically moved in tandem with technology stocks. In other words, tariffs-led risk-off on Wall Street could spill over into the crypto market.\n\nAdditionally, the yen's strength could prompt the unwinding of risk-on bullish trades financed by inexpensive yen-denominated loans, contributing to overall risk aversion in financial markets. The crypto market experienced this in early August last year when the yen carry trade unravelled, leading to declines in both stocks and BTC. During that period, bitcoin plummeted from approximately $65K to $50K within a week.\n\nGoldman expects the Japanese yen to rise to the low 140s against the U.S. dollar this year. The USD/JPY pair traded at 149.77 at press time. The exchange rate is known to closely track the differential between yields on the 10-year U.S. and Japanese bonds.\n\nThe latter recently dropped to its lowest since August 2022, offering yen-bullish cues.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/bitcoin-slides-1-as-goldman-picks-yen-over-btc-amid-tariff-fears",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kamakshya Trivedi",
+                "Donald Trump"
+            ],
+            "positions": [
+                "head of global foreign exchange, interest rates and emerging market strategy at Goldman Sachs",
+                "President"
+            ],
+            "companies": [
+                "Goldman Sachs",
+                "JPMorgan",
+                "bitFlyer",
+                "Bloomberg"
+            ],
+            "organizations": [
+                "Goldman Sachs",
+                "JPMorgan"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin facing setbacks, moving in tandem with technology stocks during risk-off periods, and historical examples of price declines when yen carry trades unraveled."
+    }
+}

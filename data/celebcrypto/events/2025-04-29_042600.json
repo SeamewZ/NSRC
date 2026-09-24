@@ -1,0 +1,42 @@
+{
+    "title": "Bitcoin-Friendly Poilievre Loses Seat as Carney's Liberals Win 2025 Election",
+    "summary": "Canada's 45th election turned out to be a close one as polls narrowed in the days leading up to the end of the campaign.",
+    "time": "2025-04-29T04:26:00",
+    "author": "Sam Reynolds",
+    "content": "Bitcoin-friendly Conservative Leader Pierre Poilievre will no longer be a Member of Parliament after losing his seat in an election which saw Mark Carney's Liberal Party secure enough seats to form at least a minority government.\n\nData from Elections Canada, reported by the CBC, shows Poilievre lost his Ottawa-area seat to Liberal Bruce Fanjoy on Monday night after a 5-week election cycle triggered by Carney, the current Prime Minister, last month.\n\nOverall, the Liberal party took approximately 162 seats as of 12:00 a.m. Eastern Time, which is enough to form a minority government.\n\nThis is fewer than recent polls forecast, which projected that a Carney-led Liberal party would hit majority government territory — 172 seats — given the threats U.S. President Donald Trump made to the country's sovereignty and the punitive tariffs the White House was directing northward.\n\nHowever, CBC News noted as of midnight that votes were still coming in and it is not yet clear if the Liberals will win enough seats to form that majority government.\n\nIf present results stand under the U.K.-inspired Westminster system under which Canada operates, the Liberals would need the support of another opposition party, such as separatist-minded Bloc Quebecois, or the left-leaning New Democrat Party to pass bills in the House of Commons.\n\nA Conservative-led non-confidence motion, should it have the support of another party, would be sufficient to trigger another election — though its far too early for this to be considered.\n\nUnlike the United States, where crypto played an important role in moving the needle on winning Congressional races, and helping put Trump back in the White House, it seemed to be a muted affair in Canada.\n\nWhile both Carney and Poilievre have discussed crypto in the past, the issue didn't come up for either campaigns even though it was an important issue for many Conservative Members of Parliament.\n\nOn Polymarket, a contract asking bettors to predict the next Prime Minister of Canada crossed the $100 million mark (in U.S. dollars) in volume, and a dozen other election related questions had close to another $100 million in volume collectively.\n\nUPDATE (April 29, 2025, 06:06 UTC): Fixes typo in Bruce Fanjoy's name.",
+    "url": "https://www.coindesk.com/policy/2025/04/29/bitcoin-friendly-poilievre-loses-seat-as-carneys-liberals-win-2025-election",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pierre Poilievre",
+                "Mark Carney",
+                "Bruce Fanjoy",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Conservative Leader",
+                "Member of Parliament",
+                "Prime Minister",
+                "U.S. President"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "organizations": [
+                "Elections Canada",
+                "CBC",
+                "Liberal Party",
+                "Conservative",
+                "Bloc Quebecois",
+                "New Democrat Party",
+                "House of Commons",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news states that cryptocurrency was a 'muted affair' in the Canadian election and didn't come up in either campaign despite being an important issue for some Conservative MPs."
+    }
+}

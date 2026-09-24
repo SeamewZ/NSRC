@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin, S&P 500 Struggle Below Key Technical Level in Sign of Further BTC Price Drops",
+    "time": "2025-03-13T16:47:00",
+    "author": "James Van Straten",
+    "summary": "Short-term bitcoin holders have sold over 100,000 BTC since February.",
+    "content": "Bitcoin (BTC) continued to struggle on Thursday as it fought to stay above $80,000. The largest cryptocurrency by market cap is currently down 3% on the day. It has declined 13% in the first quarter and is about 30% off its all-time high from January.\n\nAccording to Glassnode data, short-term holders — investors who have held bitcoin for less than 155 days — are primarily considered speculators who tend to enter the market during price peaks or periods of market euphoria. Since February, they have sold more than 100,000 BTC (about $8 billion at current prices), a sign they're looking to cut losses (or lock in any profits) before prices fall further.\n\nThe decline has pushed the bitcoin price below its 200-day moving average of $86,300. The average is an important metric for long-term market trends, and BTC isn't the only risk-on investment to drop below.\n\nU.S. equities, as measured by the S&P 500, have also lost that level. The index is currently around 5,537 while the 200-day average is at 5,738.\n\nAccording to Joe Carlasare, a commercial litigator supporting bitcoin, when the S&P 500 struggles to reclaim the 200-DMA, history suggests lower prices are in the offing.\n\n\"The S&P 500 continues to struggle to reclaim the 200 day,\" he wrote on X. \"If we can’t get a big rally above it soon, it makes sense to expect lower prices Look back historically what happens when we loose the 200 day.\"",
+    "url": "https://www.coindesk.com/markets/2025/03/13/bitcoin-s-and-p-500-struggle-below-key-technical-level-in-sign-of-further-btc-price-drops",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Carlasare"
+            ],
+            "positions": [
+                "commercial litigator"
+            ],
+            "companies": [],
+            "organizations": [
+                "Glassnode",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin price declines, short-term holder selling, and technical breakdowns below key moving averages for both Bitcoin and S&P 500, indicating negative market sentiment."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Over $380M Worth of Crypto Stolen During Bybit's $1.4B Hack Has Gone Dark",
+    "summary": "The untraceable funds primarily flowed into mixers then through bridges to P2P and OTC platforms, Zhou said.",
+    "time": "2025-04-21T05:24:00",
+    "author": "Omkar Godbole",
+    "content": "Cryptocurrency exchange Bybit's CEO Ben Zhou said that 27.95% of the funds lost in the $1.4 billion exploit engineered by the North Korean Lazarus Group have gone dark or become untraceable.\n\n\"Total hacked funds of USD 1.4bn around 500k ETH. 68.57% remain traceable, 27.59% have gone dark, 3.84% have been frozen. The untraceable funds primarily flowed into mixers then through bridges to P2P and OTC platforms,\" Zhou said in an executive summary published on X on Monday.\n\nThe untraceable funds were moved into mixers before being transferred through bridges to P2P (peer-to-peer) and OTC (over-the-counter) platforms, the post explained, mentioning the use of Wasabi, a crypto mixer, to wash off a certain amount of BTC, following which a portion of these funds entered into other mixers, including Railgun, Tornado Cash and CryptoMixer.\n\nThe malicious entity then executed multiple cross-chain swaps through Thorchain, eXch, Lombard, LiFi, Stargate and SunSwap, with the final stage involving the conversion of these illicit funds into more liquid assets.\n\nThe North Korea-linked Lazarus Group hacked Bybit in February, draining 500,000 ether\nETH\n$3,341.49\nby taking \"control of the specific ETH cold wallet and transferring all the ETH in the cold wallet to this unidentified address.\"\n\nForensics reveal that of the hacked funds, a total of 432,748 ETH, representing 84.45%, has been transferred from ether to bitcoin via Thorchain. Notably, 67.25% of these funds, amounting to 342,975 ETH (around $960.33 million), has been converted into 10,003 BTC and distributed across 35,772 wallets with an average of 0.28 BTC per wallet.\n\nFurther, 1.17% of the funds, or 5,991 ETH (approximately $16.77 million), remains on the Ethereum blockchain, stashed across 12,490 wallets.\n\nLastly, the Lazarus Bounty initiative has received 5,443 bounty reports in two months, of which, 70 have been deemed valid. Zhou said the exchange needs \"more bounty hunters that can decode mixers as we need a lot of help there down the road.\"",
+    "url": "https://www.coindesk.com/markets/2025/04/21/over-usd380m-worth-of-crypto-stolen-during-bybit-s-usd1-4b-hack-has-gone-dark",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "Wasabi",
+                "Railgun",
+                "Tornado Cash",
+                "CryptoMixer",
+                "Thorchain",
+                "eXch",
+                "Lombard",
+                "LiFi",
+                "Stargate",
+                "SunSwap"
+            ],
+            "organizations": [
+                "North Korean Lazarus Group",
+                "Lazarus Bounty initiative"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach where $1.4 billion in cryptocurrency was stolen from Bybit exchange by the North Korean Lazarus Group, representing a significant negative event for market confidence."
+    }
+}

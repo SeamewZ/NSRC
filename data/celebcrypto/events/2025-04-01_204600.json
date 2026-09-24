@@ -1,0 +1,43 @@
+{
+    "title": "Stablecoin Giant Circle Files for IPO After $1.7B Stablecoin Reserve Windfall",
+    "time": "2025-04-01T20:46:00",
+    "author": "Tom Carreras",
+    "summary": "If approved, the stock of the company will be trading on the New York Stock Exchange under the symbol \"CRCL.\"",
+    "content": "Circle, the U.S.-based stablecoin issuer, is going public.\n\nThe firm filed an S-1 form with the Securities and Exchange Commission (SEC) on Tuesday. If approved, the company's stock will be trading on the New York Stock Exchange under the symbol \"CRCL.\"\n\nThe company said its reserve income from managing its stablecoin-related reserves was $1.7 billion at the end of 2024, representing 99.1% of its total revenue.\n\nCircle is behind USDC, the second largest stablecoin by market capitalization, with $60 billion in supply. The firm's IPO has been one of the most anticipated in crypto, partly because the company has been trying to go public for years.\n\nCircle's first attempt, an SPAC merger in 2021, failed because the company didn't complete the SEC's \"qualification in time,\" CEO Jeremy Allaire said at the time. Reports at the time also suggested that the U.S. Securities and Exchange Commission (SEC) simply did not sign off on the company’s plans, which Circle denied.\n\nChoosing a different path the second time around, Circle filed a draft registration for an initial public offering with the SEC in January 2024. This process has dragged on until now amid a crypto-hostile environment within the government that persisted until the inauguration of U.S. President Donald Trump.\n\nJust yesterday, reports emerged that Circle hired investment banks JPMorgan Chase and Citi to help with its IPO, potentially valuing the company at $4 billion to $5 billion. CoinDesk reported in July that the company was valued at roughly $5 billion in private secondary markets.\n\nAccording to a press release, JPMorgan Chase will act as the lead left active bookrunner in collaboration with Citigroup. Barclays, Deutsche Bank and SG Americas are also part of the syndicate.\n\nCircle is not the only crypto-adjacent company looking to go public. Since Trump's inauguration, several crypto companies have doubled down on their plans, including Ripple, Kraken, and Gemini, which are all rumored to be eyeing IPOs.\n\nArtificial Intelligence (AI) firm CoreWeave (CRWV), which benefits from a strong business relationship with bitcoin mining firm Core Scientific (CORZ), started trading on the public market on March 28.\n\nUPDATE (April 1, 21:14 UTC): Adds more information on Circle’s history of going public.",
+    "url": "https://www.coindesk.com/business/2025/04/01/stablecoin-giant-circle-files-for-ipo",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Circle",
+                "JPMorgan Chase",
+                "Citi",
+                "CoinDesk",
+                "Ripple",
+                "Kraken",
+                "Gemini",
+                "CoreWeave",
+                "Core Scientific"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "New York Stock Exchange",
+                "Barclays",
+                "Deutsche Bank",
+                "SG Americas"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Circle's IPO filing and $1.7 billion reserve windfall as positive developments for the crypto industry, with multiple other crypto companies also pursuing public listings amid improved regulatory environment."
+    }
+}

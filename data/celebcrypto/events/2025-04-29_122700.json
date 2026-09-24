@@ -1,0 +1,46 @@
+{
+    "title": "Polygon Spin-Off Miden Secures $25M to Bring Speed, Privacy to Institutional Giants",
+    "summary": "The funding round was led by a16z crypto, 1kx and Hack VC.",
+    "time": "2025-04-29T12:27:00",
+    "author": "Margaux Nijkerk",
+    "content": "Miden, a protocol specializing in privacy and fast transaction speeds for large institutions, is spinning out of Polygon and has raised $25 million in a seed round.\n\nThe funding will be used to develop the Miden's roadmap, including ecosystem expansion and developer tooling.\n\nThis round was led by a16z crypto, 1kx and Hack VC, with participation from Finality Capital Partners, Symbolic Capital, P2 Ventures, Delta Fund, and MH Ventures.\n\nMiden’s design, which makes use of zero-knowledge technology, is geared for large institutions that need transaction confidentiality when executing large payment batches. For example, the protocol could be used for “every single time Apple needed to pay a supplier, and people started to mess with their public stock price because of a misunderstanding of what's going on [on-chain],” said Azeem Khan, a co-founder of Miden, in an interview with CoinDesk.\n\nKhan shared that many of those large institutions and investors are telling the Miden team that they need some kind of privacy solution that is compliant with regulation but also doesn’t compromise on performance and decentralization.\n\nSo Miden, which should launch its main network by the end of the year, works by allowing institutions and applications to choose whether they want to execute transactions in a public or private fashion at scale, relying on the network for fast speeds and privacy.\n\n\"It's very different from most other blockchains on a technical level, and it had to be different because of the type of use cases and functionality we want to enable,” said Bobbin Threadbare, another co-founder of Miden, to CoinDesk. “I don't think something like this is possible to build on top of Ethereum or Solana.”\n\nMiden was incubated in Polygon in 2021, and was originally supposed to be a different type of scaling solution for the ecosystem. The spin-off comes as Polygon changed refocuses its efforts on its AggLayer, and as the total value locked of the protocol has dropped significantly since Miden’s launch. Currently, $864 million is locked within Polygon networks, down about 80% from the day Miden was announced at $4.4 billion, according to data from DefiLlama.\n\n“Miden is what the future of blockchains looks like,” said Sandeep Nailwal, the founder of Polygon Labs, in a press release shared with CoinDesk. “With edge execution at its core, it’s not just an upgrade — it’s the blueprint for the final form of blockchain architecture.”\n\nRead more: Polygon Starts Aggregator Program, Successful Projects Will Airdrop Up to 15% Native Token to POL Stakers",
+    "url": "https://www.coindesk.com/tech/2025/04/29/polygon-spin-off-miden-secures-25m-to-bring-speed-privacy-to-institutional-giants",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Azeem Khan",
+                "Bobbin Threadbare",
+                "Sandeep Nailwal"
+            ],
+            "positions": [
+                "co-founder",
+                "co-founder",
+                "founder"
+            ],
+            "companies": [
+                "Apple",
+                "Finality Capital Partners",
+                "Symbolic Capital",
+                "P2 Ventures",
+                "Delta Fund",
+                "MH Ventures"
+            ],
+            "organizations": [
+                "Polygon",
+                "Miden",
+                "a16z crypto",
+                "1kx",
+                "Hack VC",
+                "Polygon Labs",
+                "CoinDesk",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a $25M funding round for Miden led by prominent investors and positive statements about its technology from Polygon's founder, indicating market confidence and institutional adoption."
+    }
+}

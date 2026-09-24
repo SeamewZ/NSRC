@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin Holds Tight Despite Dismal Economic Data, Rising India/Pakistan Tensions",
+    "summary": "The Dallas Fed Manufacturing Index plunged to its lowest level since the COVID pandemic closed the economy.",
+    "time": "2025-04-28T19:57:00",
+    "author": "Tom Carreras",
+    "content": "Bitcoin\nBTC\n$102,095.25\nfell early in the U.S. trading session, but mostly held firm as poor macroeconomic news rolled in.\n\nThe top cryptocurrency late in the day was trading just below $95,000, up 0.5% over the past 24 hours. The CoinDesk 20 — an index of the top 20 largest cryptocurrencies by market capitalization excluding memecoins, exchange coins and stablecoins — was roughly flat over the same time frame.\n\nCrypto stocks like Coinbase (COIN), Strategy (MSTR) and the miners were losing modest ground after big gains last week. Notable exceptions included Janover (JNVR) and DeFi Technologies (DFTF), ahead 24% and 6.5%, respectively even as SOL — the token which both companies are aggressively accumulating — fell about 3% during the U.S. day.\n\nMeanwhile, gold rose almost 1% and the dollar index fell 0.6%. The S&P 500 and Nasdaq each peaked into the green late in the session after earlier dipping more than 1%.\n\nThe Dallas Fed Manufacturing Index, a typically little-noticed economic data point, plunged to -35.8 from -16.3 last month — much worse than analysts’ expectations of a -14.1 print and the worst performance since COVID upended the world economy.\n\n“Pretty horrible Dallas Fed Manufacturing Survey. Level hits the lowest since May 2020,” Joe Weisenthal, co-host of the Odd Lots podcast, posted on X. “All the comments are about tariffs and policy uncertainty. Add it to the list of bad soft/survey data.”\n\nHostilities between India and Pakistan might also have added to market jitters, with Pakistani Defense Minister Khawaja Muhammad Asif claiming that an Indian military incursion into Pakistan was imminent. Last week 26 people were killed in a terrorist attack in Pahalgam, a popular tourist destination in Indian-controlled Kashmir. The two countries have exchanged fire since.",
+    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-holds-tight-despite-dismal-economic-data-rising-indiapakistan-tensions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Weisenthal",
+                "Khawaja Muhammad Asif"
+            ],
+            "positions": [
+                "co-host of the Odd Lots podcast",
+                "Defense Minister"
+            ],
+            "companies": [
+                "Coinbase",
+                "Strategy",
+                "Janover",
+                "DeFi Technologies"
+            ],
+            "organizations": [
+                "Dallas Fed",
+                "CoinDesk 20",
+                "S&P 500",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Bitcoin held mostly firm with minor fluctuations despite poor economic data and geopolitical tensions, showing sideways market movement."
+    }
+}

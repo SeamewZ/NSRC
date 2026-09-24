@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Drops Below $79K as Cryptos Plunge, Stock Futures Fall Another 5%",
+    "time": "2025-04-06T21:35:00",
+    "author": "Stephen Alpher",
+    "summary": "Hedge funder Bill Ackman called President Trump's tariff plan \"economic nuclear war\" and urged a Monday pause.",
+    "content": "\"Decoupling\" and \"safe haven\" began to be used late last week as bitcoin\nBTC\n$104,608.94\nheld its own despite the continuing tumble in stock markets in response to President Trump's sweeping tariffs against U.S. trading partners.\n\nBitcoin bulls, though, may have spoken too soon.\n\nWith stock trading closed for the weekend, fearful investors turned to the 24/7 crypto markets to place bearish bets. In late Sunday afternoon action, bitcoin was trading just above $79,000 down 5% from 24 hours earlier. As stock index futures began trading later Sunday with the Nasdaq 100 opening down 5% and S&P 500 4.5%, bitcoin fell as low as $78,400.\n\nOther majors are faring far worse, among them ether\nETH\n$3,495.36\n, lower by 11% to $1,590 and solana\nSOL\n$161.67\n, down 10% to $107.\n\nThe term \"black monday\" is trending on X — a reference to Monday October 19, 1987, when the Dow Jones Industrial Average lost nearly one quarter of its value in one session. Back then, the triggering event was the threat of a currency war by then Secretary of Treasury James Baker.\n\n\"If we launch economic nuclear war on every country in the world, business investment will grind to a halt, consumers will close their wallets and pocket books, and we will severely damage our reputation with the rest of the world that will take years and potentially decades to rehabilitate,\" tweeted hedge fund billionaire Bill Ackman, who previously had been at least modestly supportive of President Trump. \"The President has an opportunity on Monday to call a time out and have the time to execute on fixing an unfair tariff system,\" he continued. \"Alternatively, we are heading for a self-induced, economic nuclear winter, and we should start hunkering down.\"\n\nThe 10-year Treasury yield is down 14 basis points from its Friday close at 3.85%.\n\nUpdated (22:05 UTC): Added early stock and bond market trading.",
+    "url": "https://www.coindesk.com/markets/2025/04/06/bitcoin-falls-to-usd79k-as-cryptos-plunge-perhaps-previewing-sunday-night-stock-action",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bill Ackman",
+                "President Trump",
+                "James Baker"
+            ],
+            "positions": [
+                "President",
+                "Secretary of Treasury"
+            ],
+            "companies": [],
+            "organizations": [
+                "Dow Jones Industrial Average",
+                "Nasdaq 100",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin dropped 5% to below $79,000 and other major cryptocurrencies fell even more sharply (ether down 11%, solana down 10%) amid stock market turmoil and investor fear."
+    }
+}

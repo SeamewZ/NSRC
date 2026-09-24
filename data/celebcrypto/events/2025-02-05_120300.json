@@ -1,0 +1,30 @@
+{
+    "title": "U.S. Spot Bitcoin ETF Inflows Surge 175% Year-Over-Year",
+    "time": "2025-02-05T12:03:00",
+    "author": "James Van Straten",
+    "summary": "Total net inflows for U.S. bitcoin-listed ETFs have seen over $40.6 billion.",
+    "content": "U.S.-listed spot bitcoin\nBTC\n$103,910.60\nexchange-traded funds (ETFs) have seen a 175% year-over-year increase in almost the first three weeks of trading. In 2025, from Jan. 13 to Feb. 5, net inflows equaled $4.4 billion, while the 2024 net inflows for the first three weeks equaled $1.6 billion.\n\nThe spot bitcoin ETFs were one of the most successful ETF launches of all time, and have accumulated over $40.6 billion in total net inflows. In the same time, BlackRock iShares Trust (IBIT) has seen a total of $40.7 billion in net inflows. While the total net inflow for all 11 spot BTC ETFs is $40.6 billion, due to Grayscale GBTC witnessing outflows of $21.9 billion.\n\nTo determine whether these inflows reflect a directional long position or are part of a basis trade—where an investor goes long on the underlying asset in the spot market while simultaneously selling futures contracts when they trade at a premium to spot.\n\nCurrently, investors can capture a premium of approximately 10%, which will eventually diminish as the spot price converges with the futures contract's expiry.\n\nAccording to Glassnode data, the Chicago Mercantile Exchange (CME), the primary venue for such trades, has seen a year-to-date decline in open interest from 180,099 BTC to 168,549 BTC, suggesting that these inflows are not primarily driven by basis trading.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/u-s-spot-bitcoin-etf-inflows-surge-175-year-over-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Grayscale"
+            ],
+            "organizations": [
+                "Glassnode",
+                "Chicago Mercantile Exchange",
+                "CME",
+                "iShares Trust"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a 175% year-over-year surge in Bitcoin ETF inflows totaling over $40.6 billion, describing it as one of the most successful ETF launches of all time."
+    }
+}

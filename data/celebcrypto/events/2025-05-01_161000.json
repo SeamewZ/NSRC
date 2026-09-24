@@ -1,0 +1,42 @@
+{
+    "title": "U.S. Congressman Pitches Crypto ATMs for Federal Government Buildings",
+    "summary": "Texas Republican Lance Gooden suggested to the agency that runs office space that installing ATMs will help align the government with Trump's crypto push.",
+    "time": "2025-05-01T16:10:00",
+    "author": "Jesse Hamilton",
+    "content": "A Texas congressman is asking the federal government to consider installing cryptocurrency ATMs in federal buildings as a way to help foster the pro-digital assets stance pushed by President Donald Trump.\n\nRepresentative Lance Gooden asked the chief of the General Services Administration — the agency that maintains the government's buildings and real estate — to look into putting the automated teller machines into those facilities as a \"signal to the public that the government is embracing innovation in a secure and responsible manner,\" according to a Thursday letter reviewed by CoinDesk.\n\n\"Expanding accessibility to crypto ATMs within federal buildings aligns with President Trump’s vision of positioning the United States as a global leader in cryptocurrency and blockchain technology,\" he said.\n\nThe GSA already hosts some traditional ATMs in a few of its facilities, according to its website.\n\nThe letter requested GSA Acting Administrator Stephen Ehikian review the feasibility of executing the proposal in a way that includes \"clear guidelines for the installation and operation of crypto ATMs, focusing on robust identity verification measures and transparency in transaction fees.\"\n\nThis proposal lands as the devices have drawn attention for their use in scams, inspiring Senator Dick Durbin, an Illinois Democrat, to push the Crypto ATM Fraud Prevention Act that would put limits on big transactions. And New Jersey is weighing a new bill that would require the ATM operators to warn users about potential scams and provide live customer service.\n\nAt least one of the ATM operators, Bitcoin Depot, reported last month that transactions and revenue from the machines were down, even as bitcoin\nBTC\n$102,205.43\ntrading grew during the recent rise in the price.\n\nGooden's committee assignments don't put him in direct touch with the crypto legislation currently moving through Congress, though advocacy group Stand With Crypto has given him an \"A\" grade for industry friendliness. As a freshman congressman in 2019, Gooden co-authored a bill to declare that managed stablecoins should be regulated by the Securities and Exchange Commission, but more recently, he co-sponsored legislation that opposed a U.S. central bank digital currency (CBDC) — aligning with the industry in general opposition of government digital dollars.",
+    "url": "https://www.coindesk.com/policy/2025/05/01/u-s-congressman-pitches-crypto-atms-for-federal-government-buildings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lance Gooden",
+                "Donald Trump",
+                "Stephen Ehikian",
+                "Dick Durbin"
+            ],
+            "positions": [
+                "Texas congressman",
+                "Representative",
+                "President",
+                "Acting Administrator",
+                "Senator",
+                "freshman congressman"
+            ],
+            "companies": [
+                "Bitcoin Depot"
+            ],
+            "organizations": [
+                "General Services Administration",
+                "CoinDesk",
+                "Congress",
+                "Stand With Crypto",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal to install cryptocurrency ATMs in federal buildings aligns with President Trump's vision of positioning the U.S. as a global leader in cryptocurrency and represents government adoption and accessibility expansion."
+    }
+}

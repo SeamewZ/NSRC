@@ -1,0 +1,44 @@
+{
+    "title": "U.S. Stablecoin Bill Could Clear Senate Next Week, Proponents Say",
+    "summary": "Senator Bill Hagerty, who backed the Senate's version of the legislation, predicted the body will \"make history\" next week by passing the bill.",
+    "time": "2025-05-16T22:37:00",
+    "author": "Jesse Hamilton",
+    "content": "Despite recent setbacks, U.S. legislation to regulate stablecoin issuers may be heading toward debate and passage next week, according to the backers of the bill known as the \"Guiding and Establishing National Innovation for U.S. Stablecoins\" (GENIUS) Act.\n\n“Next week, the Senate will make history when we debate and pass the GENIUS Act that establishes the first ever pro-growth regulatory framework for payment stablecoins,” said Senator Hagerty, a Tennessee Republican who sponsored the bill to set U.S. standards for stablecoins, which are typically dollar-based tokens such as Circle's\nUSDC\n$1.0002\nand Tether's\nUSDT\n$1.0004\nthat are vital to crypto trading activity.\n\nThe latest draft of the bill began circulating this week, and a copy seen by CoinDesk showed language had been adjusted in modest ways to help satisfy Democrats concerned with consumer protection and national security elements. In one addition, the bill insisted the big public companies such as Meta wouldn't be approved as issuers of the tokens, though consumer advocates cautioned that private companies such as Elon Musk's social media site X would be eligible.\n\nHagerty paired his statement with one from Senator Kirsten Gillibrand, the New York Democrat who has also pushed this legislation. Her sentiment carried what may have been a shade less confidence about the outcome, and the two lawmakers have ample reason to put a strong public face on a negotiation that's faced headwinds.\n\n“Stablecoins are already playing an important role in the global economy, and it is essential that the U.S. enact legislation that protects consumers, while also enabling responsible innovations,” Gillibrand said in the statement, contending that \"robust consumer protections\" are included in the latest version. “The crafting of this bill has been a true bipartisan effort, and I’m optimistic we can pass it in the coming days.”\n\nThe Senate has experienced considerable volatility on the bill in the past two weeks, with its recent failure to clear a so-called cloture vote that would have moved it forward into a formal debate. It's headed toward a second vote on Monday in which it needs 60 votes to advance, which would need to include several Democrats. The Senate would then have some time to continue debating the language and possibly make changes before moving on to actually passing the bill.\n\nDemocrats had been critical of its potential for abuse and for stablecoin involvement from corporate giants, but the biggest stink has been raised around President Donald Trump's own interest in crypto businesses, including World Liberty Financial's stablecoin play.\n\nRead More: U.S. Senate's Stablecoin Push Still Alive as Bill May Return to Floor: Sources\n\nA previous version of the bill had easily advanced out of the Senate Banking Committee with a bipartisan vote before some of the same Democrats that approved it later raised objections. But the Senate has more crypto-friendly Democrats in this session than the last, when the Senate Banking Committee denied any progress for crypto bills.\n\nThe House of Representatives is also working on its own version, which would have to be melded with the Senate's before Trump could sign the new standards into law. Representative French Hill, the Republican chairman of the House Financial Services Committee, acknowledged at Consensus 2025 in Toronto that Trump's crypto involvement has added friction to the lawmakers' negotiations.\n\nRead More: Trump’s Memecoin, Crypto Stake Make Legislating ‘More Complicated’: Rep. French Hill",
+    "url": "https://www.coindesk.com/policy/2025/05/16/u-s-stablecoin-bill-could-clear-senate-next-week-proponents-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bill Hagerty",
+                "Kirsten Gillibrand",
+                "Elon Musk",
+                "Donald Trump",
+                "French Hill"
+            ],
+            "positions": [
+                "Senator",
+                "Tennessee Republican",
+                "New York Democrat",
+                "Republican chairman of the House Financial Services Committee"
+            ],
+            "companies": [
+                "Circle",
+                "Tether",
+                "Meta",
+                "X",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Senate",
+                "Senate Banking Committee",
+                "House of Representatives",
+                "House Financial Services Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes potential passage of pro-growth stablecoin legislation that would establish the first regulatory framework for payment stablecoins, which is positive for cryptocurrency market regulation and adoption."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "The U.S. War on Crypto Isn’t Over",
+    "summary": "The fact that the Trump administration has installed many crypto-friendly people in positions of power doesn’t mean that the industry will now get a free pass.",
+    "time": "2025-02-26T17:20:00",
+    "author": "Renato Mariotti",
+    "content": "In the wake of the appointment of a U.S. crypto czar and the announcement of comprehensive crypto legislation, many believe the era of “regulation by enforcement” in the U.S. is over. But while the SEC and CFTC now have crypto-friendly chairmen, both state regulators and Attorneys General are poised to take their place as aggressive crypto enforcers.\n\nFor years, the SEC’s aggressive “regulation by enforcement” approach stifled the growth of the crypto industry and caused many to call for a comprehensive regulatory framework that would put an end to the “war on crypto” once and for all. For this reason, many in the industry banded together to lend their support to pro-crypto candidates.\n\nThat strategy bore fruit. Donald Trump was elected as the first president to tout his support for the crypto industry, despite his somewhat antagonistic stance towards crypto during his previous term. Since taking office, Trump appointed David Sacks as the nation’s first “Crypto Czar,” established a President’s Working Group on Digital Asset Markets and appointed interim SEC and CFTC Chairs that have already been expressing their support for the crypto industry.\n\nBut those federal changes won’t end aggressive enforcement actions from state regulators who face public pressure to take action to reign in crypto. Many in the industry have already faced aggressive enforcement from regulators like the New York Department of Financial Services (NYDFS), which recently obtained a $37 million settlement from a crypto lending platform. Regulators like NYDFS were aggressive even when the SEC engaged in aggressive tactics against crypto, so when the SEC scales back its efforts, you can expect them to fill in the void.\n\nOther states are following New York’s lead. In late 2023, California enacted the Digital Financial Assets Law, which empowered its Department of Financial Protection and Innovation to license and regulate digital assets. And the Illinois legislature recently began to consider a new bill called the Digital Assets and Consumer Protection Act that would empower the state to regulate any company engaged in “digital asset business activity” with an Illinois resident.\n\nIt’s possible that new federal legislation could limit the ability of state regulators to bring their own enforcement matters. On Feb. 4, House and Senate Committee Chairs expressed confidence in the passage of comprehensive legislation that would create a regulatory framework for crypto within the next 100 days. Because federal law preempts state law, the new legislation could rein in some state regulatory activity.\n\nBut even if state regulators are hemmed in by new legislation, that legislation would not limit the ability of state Attorneys General to file lawsuits alleging fraud by crypto-related businesses. State AGs previously brought those lawsuits when the SEC’s “regulation by enforcement” crusade was in full swing. In 2023, New York Attorney General Letitia James filed a lawsuit alleging that a crypto trading platform falsely represented itself as an exchange. Later that year, the platform settled for $22 million and agreed not to do business with New Yorkers going forward.\n\nTo be sure, a national regulatory framework and having pro-crypto regulators in Washington will provide more certainty and predictability for the crypto industry. But anyone who believes that “regulation by enforcement” is at an end is naïve. You can still expect aggressive lawsuits and regulator activity in the years to come. The venue may move from the SEC to the states, but the impact on crypto businesses and their customers will remain.",
+    "url": "https://www.coindesk.com/opinion/2025/02/26/the-u-s-war-on-crypto-isn-t-over",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "David Sacks",
+                "Letitia James"
+            ],
+            "positions": [
+                "Crypto Czar",
+                "SEC Chair",
+                "CFTC Chair",
+                "President",
+                "House and Senate Committee Chairs",
+                "New York Attorney General"
+            ],
+            "companies": [
+                "crypto lending platform",
+                "crypto trading platform"
+            ],
+            "organizations": [
+                "SEC",
+                "CFTC",
+                "New York Department of Financial Services",
+                "NYDFS",
+                "President's Working Group on Digital Asset Markets",
+                "Department of Financial Protection and Innovation",
+                "Illinois legislature"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article emphasizes that despite federal crypto-friendly appointments, aggressive enforcement from state regulators and attorneys general will continue, creating ongoing regulatory uncertainty and legal challenges for crypto businesses."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Crypto Daybook Americas: Fintechs, Funds ‘Hoarding Bitcoin’ Even as Bulls Pause for Breath",
+    "time": "2025-05-16T11:18:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for May 16, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe global crypto corporate-adoption narrative is thriving even as bitcoin\nBTC\n$104,850.17\nand the wider crypto market take a bull breather, potentially establishing a base for a new high.\n\nMéliuz, a publicly listed Brazilian fintech firm, announced Thursday the purchase of 274.52 BTC. It now holds 320.2 BTC worth over $33.3 million. On Wednesday, Bahrain-listed A1 Abraaj Restaurants Group disclosed an initial purchase of 5 BTC with plans to scale holdings significantly.\n\nEric Trump, the second-eldest son of President Donald Trump, captured the feeling on day 2 of CoinDesk's Consensus Toronto event: \"I'm traveling. I'm on a plane. Everybody in the world is trying to hoard bitcoin right now. Everybody. I hear it from sovereign wealth funds. I hear it from the wealthiest families. I hear from the biggest companies.\"\n\nWhile the global adoption race no doubt favors a continued bull market, some recent developments, such as the crumbling bipartisan support for the GENUIS Act aimed at creating a national regulatory framework for payment stablecoins and the Coinbase (COIN) data breach, are concerning.\n\n\"While many are cheering COIN's entry into the S&P 500, it's been quite the week otherwise,\" Quinn Thompson, chief investment officer at Lekker Capital, said on X. \"Obstructing the stablecoin bill to prolonging their regulatory capture at the industry's expense, losing customer funds and jeopardizing personal data and now an SEC investigation. What amazing timing, too, that this was all announced after the S&P 500 inclusion pump that insiders sold into.\"\n\nOn Thursday, Coinbase's shares tanked 7% as the exchange confirmed an ongoing SEC investigation into potentially inflated user metrics from 2021.\n\nAdd to the pot that inflows into U.S.-listed spot BTC exchange-traded funds (ETFs) have slowed (see Chart of the Day), alongside large sell orders at around $105,000. FTX creditors are set to receive over $5 billion in distributions starting May 30, as part of the second phase of the bankrupt exchange’s court-approved recovery plan.\n\nAll this indicates scope for price volatility in the short term. Stay alert!\n\nCoinDesk's Consensus is taking place in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/16/crypto-daybook-americas-fintechs-funds-hoarding-bitcoin-even-as-bulls-pause-for-breath",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Eric Trump",
+                "Donald Trump",
+                "Quinn Thompson",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "chief investment officer"
+            ],
+            "companies": [
+                "Méliuz",
+                "A1 Abraaj Restaurants Group",
+                "Coinbase",
+                "Lekker Capital",
+                "FTX"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "SEC",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed signals with positive corporate bitcoin adoption alongside negative factors like regulatory uncertainty, Coinbase investigation, and slowing ETF inflows, suggesting short-term volatility rather than clear directional momentum."
+    }
+}

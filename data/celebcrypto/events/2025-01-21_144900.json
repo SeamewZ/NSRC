@@ -1,0 +1,37 @@
+{
+    "title": "CoinDesk Indices Rolls Out New Index That Diversifies Exposure Beyond the Top 20 Digital Assets",
+    "time": "2025-01-21T14:49:00",
+    "author": "Omkar Godbole",
+    "summary": "CoinDesk's parent company Bullish has already listed a perpetual futures contract tied to the new index, in its platform.",
+    "content": "CoinDesk Indices, a subsidiary of CoinDesk, has introduced the CoinDesk 80 Index to address the increasing institutional demand for liquidity across diverse digital assets.\n\nThe new offering is designed to track the performance of the next 80 digital assets beyond the CoinDesk20 Index, according to a press release. The Bullish exchange, which has surpassed $1 trillion in cumulative trading volume since its inception in November 2021, has listed a perpetual futures contract tied to the new index under the ticker CD80/USDC-PERP. Bullish is the parent company of CoinDesk.\n\nThe index currently counts crypto market makers GSR and STS Digital among its clients. \"We’re excited about the broader opportunity this brings to expand liquidity, empower informed trading strategies, and further the maturation of the crypto ecosystem,\" Jon Loflin, Chief Investment Officer, GSR, told CoinDesk.\n\nWith rising demand from institutional investors for digital assets derivative markets, the new index will provide traders with broader market exposures in the altcoin sector. \"The CoinDesk 80 Index Perpetual Future will enable us to efficiently manage market exposure arising from our wide-ranging altcoin option offering to our clients. It is another innovative product from Bullish, enhancing their strong product suite and bringing index derivatives forward,\" Maxime Seiler, CEO of STS Digital Ltd, said.\n\nKey features of the CoinDesk 80 Index include a focus on liquid and large-market assets, with minimal exclusions for stablecoins and wrapped tokens alongside comprehensive liquidity screening. The index constituents are weighted by market cap, with a 5% cap per asset to ensure diversification.\n\n\"The demand for index products is growing as digital assets become an established part of global financial markets,\" said Tom Farley, CEO of Bullish. \"We are excited to launch the CoinDesk 80 Index Perpetual Futures Contract on our platform, leveraging our tight spreads, deep liquidity, and robust regulatory framework to support market participants.\"\n\nA year ago, CoinDesk Indices debuted the CoinDesk20 Index, a benchmark for larger-cap digital assets. Since then, it has seen over $12 billion in total trading volume and is linked to a dozen investment products globally.",
+    "url": "https://www.coindesk.com/markets/2025/01/21/coin-desk-indices-rolls-out-new-index-that-diversifies-exposure-beyond-the-top-20-digital-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jon Loflin",
+                "Maxime Seiler",
+                "Tom Farley"
+            ],
+            "positions": [
+                "Chief Investment Officer",
+                "CEO"
+            ],
+            "companies": [
+                "CoinDesk Indices",
+                "Bullish",
+                "GSR",
+                "STS Digital Ltd",
+                "STS Digital"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "CD80",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of the CoinDesk 80 Index and associated perpetual futures contract addresses growing institutional demand, expands liquidity, and provides broader market exposure in the altcoin sector, indicating market maturation and confidence."
+    }
+}

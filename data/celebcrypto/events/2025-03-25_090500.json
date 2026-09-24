@@ -1,0 +1,34 @@
+{
+    "title": "BlackRock to List Bitcoin ETP in Europe in First Crypto Foray Outside U.S.",
+    "time": "2025-03-25T09:05:00",
+    "author": "Jamie Crawley",
+    "summary": "BlackRock's IBIT is by far the largest of the 12 spot bitcoin ETFs listed in the U.S., with net assets of over $50 billion.",
+    "content": "BlackRock (BLK), the global asset manager behind the largest U.S. spot bitcoin (BTC) exchange-traded fund (ETF), listed a bitcoin exchange-traded product (ETP) in Europe on Tuesday, its first crypto ETP outside North America.\n\nThe iShares Bitcoin ETP started trading on Xetra and Euronext in Paris under the ticker IB1T and on Euronext Amsterdam as BTCN, according listing details on iShares' website.\n\nThe company's iShares Bitcoin Trust ETF (IBIT) is by far the largest of the 12 spot bitcoin ETFs listed in the U.S., with net assets worth over $50 billion and cumulative net inflows of just under $40 billion, according to data tracked by SoSoValue. An equivalent product listed in Canada in January.\n\nAlthough the listing of bitcoin ETFs in the U.S. at the start of 2024 was considered a watershed moment for the crypto industry, similar products have existed in Europe for several years as ETPs.\n\nDigital asset managers CoinShares and 21Shares have led the way, accounting for nine of the top 20 ETPs by assets between them, according to data tracked by ETFbook. CoinShares Physical Bitcoin ETP is the largest, with $1.3 billion under management and a 0.25% fee.\n\nCoinbase (COIN), which provides custody for IBIT, will do the same for the BlackRock's European product. The fee for the European ETP is temporarily reduced by 10 basis points to 0.15% until the end of 2025.\n\nBlackRock's ETP introduction was reported earlier by Bloomberg.\n\nUPDATE (March 25, 11:34 UTC): Adds trading started in first paragraph, Canada ETF in third, European industry in fourth.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/blackrock-to-list-bitcoin-etp-in-europe-in-first-crypto-foray-outside-u-s",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "CoinShares",
+                "21Shares",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Xetra",
+                "Euronext",
+                "iShares",
+                "ETFbook",
+                "SoSoValue",
+                "Bloomberg"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "BlackRock expanding its bitcoin ETP offerings to Europe represents continued institutional adoption and market confidence in cryptocurrency."
+    }
+}

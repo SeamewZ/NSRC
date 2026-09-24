@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin, the Haven Crypto Bulls Hoped for, Is More a Barometer of Risk: Godbole",
+    "summary": "Bitcoin, rather than behaving as a digital gold, has solidified as a proxy for risk, validating FX market participants who track it as a gauge of speculative sentiment.",
+    "time": "2025-04-17T08:36:00",
+    "author": "Omkar Godbole",
+    "content": "President Donald Trump's trade war has introduced significant volatility to financial markets since March, prompting investors to chase assets they believe provide a hedge in this turbulent environment.\n\nWhat's clear: Bitcoin (BTC) is not one of them, much to the dismay of bullish investors who have long thought of the largest cryptocurrency as digital gold either as a store of value or a haven investment. The reality is that since the onset of the trade war, bitcoin has become more closely correlated with the Aussie dollar-yen pair (AUD/JPY), the foreign exchange market’s risk barometer.\n\nData from TradingView show the 90-day correlation coefficient between bitcoin and the AUD/JPY pair flipped positive in late February and has since hit the highest since November 2021. The tit-for-tat tariff war between the two nations has led to a staggering 245% cumulative levy on Chinese imports to the U.S., leading to Federal Reserve Chairman Jerome Powell reiterating stagflation risks on Wednesday.\n\nThe correlation of 0.80 — the maximum value is 1 — is considered strong, implying that the two variables, BTC and AUD/JPY, are closely related in their movements in the same direction.\n\nIn contrast, bitcoin's 90-day correlation with gold flipped negative in late February and has since dropped to -0.80, just above the minimum -1. It means the two are closely related in their movements, but in opposite directions.\n\nThe Australian dollar, being China-sensitive and the home currency of a commodity-exporting nation, is seen as a risk currency. The yen is a safe haven because Japan has been a net international creditor for decades with near-zero interest rates.\n\nWhen global markets are optimistic and commodity demand rises, the AUD typically appreciates, reflecting a higher risk appetite among investors and the yen drops. The opposite holds true when they become risk-averse.\n\nTraders, therefore, monitor AUD/JPY as a risk indicator, viewing uptrends as positive signs for risk assets like stocks, and vice versa. Bitcoin, which was already emerging in a comparable role, has strengthened its position. The correlation data indicates that BTC is now as much a proxy for risk sentiment as AUD/JPY.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/bitcoin-the-haven-crypto-bulls-hoped-for-is-more-a-barometer-of-risk-godbole",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "President",
+                "Federal Reserve Chairman"
+            ],
+            "companies": [],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news indicates Bitcoin has become strongly correlated with risk assets rather than serving as a safe haven, which is negative for its perceived value as digital gold."
+    }
+}

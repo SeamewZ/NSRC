@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin May Be Headed Towards a 2021-Like Double Top",
+    "time": "2025-05-14T11:40:00",
+    "author": "Oliver Knight",
+    "summary": "Several on-chain metrics are pointing toward waning momentum as bitcoin attempts to reach its January record just above $109,000.",
+    "content": "Bitcoin\nBTC\n$104,723.54\nhas changed a lot in four years, distancing itself from shady centralized entities like FTX and emerging as the plat du jour among institutional investors. However, this month’s drive back into six-figures amid cooling tariff tensions is presenting a number of warning signs that appear eerily similar to the 2021 cycle high.\n\nIn 2021, bitcoin made an historic record high in April of $65,000, coinciding with a flurry of activity from Michael Saylor’s (then-named) MicroStrategy and the IPO of Coinbase (COIN). The excitement was capitalized on by shrewd traders, who shorted the big news and rode BTC down to an eventual bottom at $28,000 just two months later.\n\nThen, as the entire industry began preparing for a sustained bear market or even the end of bitcoin (remember the Chinese mining ban), BTC turned tail and began a rally that didn’t stop for four months. This relentless surge to the upside resulted in a new record high of $69,000, despite all on-chain metrics pointing towards a bearish outcome.\n\nOminously, the current price action this time around is being accompanied by those same on-chain metrics telling a similar story about a potential double top.\n\nThe first of those metrics is weekly RSI, which is exhibiting three strikes of bearish divergence from March 2024, December 2024 and May 2025. RSI is an indicator that compares averages gains with average losses over a set period to gauge potentially overbought or oversold conditions. Bearish divergence is where RSI is trending to the downside whilst price is trending to the upside.\n\nThis, coupled with trading volumes that are lower compared to the initial move above $100K, suggests that the momentum of this swing higher is dwindling. Volumes are down across both crypto and institutional venues, with volume on CME BTC futures failing to surpass 35,000 contracts during three of the previous four weeks. The initial move saw volumes regularly exceed 65,000 contracts, hitting more than 85,000 on three occasions. One contract on the CME is worth 5 bitcoin ($514,000).\n\nLike in 2021, open interest is also diverging from price action, currently Open interest 13% lower than the initial drive to $109K in January while price is just 5.8% lower. Four years ago when bitcoin hit $69,000, open interest was 15.6% lower than the initial $65,000 high despite the price being 6.6% higher.\n\nThe similarities with 2021 are clear but it’s worth noting that the crypto market structure is entirely different than four years ago. Mostly thanks to Michael Saylor's Strategy and a growing number of corporate copycats ramping up BTC acquisitions at any cost, the presence of institutional interest is far higher in this cycle. There is also the element of spot bitcoin ETFs, which allows intuitional investors and companies to acquire BTC in a traditional regulated venue.\n\nAs learned in 2021, on-chain metrics can be an inaccurate measure of forecasting price action. It is feasible that BTC breaks a new record high after Trump inevitably reveals details of a U.S. bitcoin treasury, but that could also become a “sell the news event,” in which traders attempt to capitalize on emotional buying from uninformed retail investors.\n\nWhat the indicators do suggest is that whilst a new record high could be formed like in 2021, the momentum of this move is waning and analysts who are boldly calling for $150K or even $200K price targets could be in for a rude awakening once the sell-off truly begins. Bitcoin entered more than a one-year bear market at the end of 2021, resulting in substantial layoffs across the industry and the implosion of several trading firms, centralized lending companies and DeFi protocols.\n\nThis time around, the market has several other elements to consider if prices begin to tumble. Notably, MSTR’s leveraged BTC position, the emerging BTC DeFi industry that has $6.3 billon in total value locked (TVL), and the billions of frothy dollars that bounce around the memecoin ecosystem, which is known to disproportionately contract during times of market pressure",
+    "url": "https://www.coindesk.com/markets/2025/05/14/bitcoin-may-be-headed-towards-a-2021-like-double-top",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor"
+            ],
+            "positions": [],
+            "companies": [
+                "MicroStrategy",
+                "Coinbase",
+                "FTX",
+                "CME"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article highlights multiple bearish technical indicators including RSI divergence, declining trading volumes, and open interest divergence while drawing parallels to the 2021 double top pattern that preceded a significant market downturn."
+    }
+}

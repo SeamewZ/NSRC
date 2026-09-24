@@ -1,0 +1,51 @@
+{
+    "title": "The Protocol: Vana Introduces Token Standard for Data-Backed Assets",
+    "summary": "Also: Manufacturers are building ASICs that look like servers.",
+    "time": "2025-04-02T21:24:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nVANA’S DATA-BACKED TOKEN STANDARD: Crypto enthusiasts might have heard of the ERC-20 token standard, which provides guidelines to ensure that tokens created on the Ethereum smart contract blockchain are compatible and can interact with other tokens and applications within the network. A similar standard for data-backed tokens, called VRC-20, has now emerged. Vana, an EVM-compatible Layer 1 blockchain that helps users monetize personal data by bundling it into DataDAOs for AI model training, introduced the new standard early this week to boost trust and transparency in the market for data-backed digital assets. The VRC-20 standard design includes specific criteria such as fixed supply, governance, and liquidity rules while ensuring real data access by tying tokens to actual data utility. Additionally, it promotes continuous liquidity through rewards that ensure market stability. \"This isn’t speculation. This is real financialization of data,\" Vana noted on X. Vana launched its mainnet in December, with VANA as its native cryptocurrency. Since then, the network has onboarded over 12 million data points through multiple DataDAOs, reflecting strong demand for user-owned data. DataDAOs or data liquidity pools are decentralized marketplaces that bring data on-chain as transferable digital tokens. DLPs are where data is contributed, tokenized and made ready for use in applications such as AI model training. — Omkar Godbole Read more.\n\nHASHGRAPH LINES UP Q3 PRIVATE CHAIN: Hashgraph, the blockchain development firm focusing on the Hedera (HBAR) network, is building a private, permissioned blockchain for enterprises in highly regulated industries with plans to debut in the third quarter of 2025. HashSphere, built with Hedera's technology, aims to bridge private and public distributed ledgers, ensuring compliance with regulations while maintaining interoperability, the company said Monday. Hashgraph is looking to provide services to asset managers, banks and payment providers seeking secure, low-cost cross-border transactions with stablecoins.While public blockchains offer security and transparency, enterprises in industries like finance and payments often face compliance challenges, particularly with know your customer (KYC) and anti-money laundering (AML) requirements. HashSphere addresses this by restricting access to verified participants, enabling firms to develop tokenized assets, AI-powered services and other blockchain-based products while meeting regulatory standards. The network also integrates Hedera’s existing tools, including the Token Service for managing digital assets and the Consensus Service for recording transactions with trusted timestamps. The platform is compatible with the Ethereum Virtual Machine (EVM), allowing developers to deploy decentralized applications using Solidity and other EVM languages. — Kris Sandor Read more.\n\nASICS TO BE MORE LIKE SERVERS: In the beginning, there were only CPUs, then GPUs, for bitcoin mining. Then came the mighty ASIC in 2013, and with it, the “shoebox” form factor that has become emblematic of the bitcoin mining industry. What comes next? ASIC manufacturers are increasingly betting on a hydro-cooled server rack design to become a substantial portion of bitcoin mining fleets, leaning into the “direct-to-chip” cooling for further efficiency gains. Last September, Bitmain announced its model U3S21EXPH developed in a partnership with Hut 8. Its U3 design means that one unit takes up three spaces in a traditional server rack. MicroBT soon followed with its M63 Hydro series, as did Bitdeer’s Sealminer A2 Hydro unit. Following suit, Auradine released its server rack model, the AH3880, this March. Its U2 design, which occupies two server slots, is a bit smaller, but it packs more hashrate per unit of space at 600 TH/s (or 300 TH/s per slot) versus Bitmain’s 860 TH/s (286.66 TH/s per slot). The benefit of a server rack ASIC lies in standardization. Bitcoin miners are increasingly marching in step with the traditional datacenter industry, and that industry could see 40% adoption of direct liquid-to-chip cooling by 2026, according to data center developer Cyrus One. If miners adopt this design, then theoretically, they can optimize their supply chains by converging on server designs that are becoming best practice in the big-boy data center sector. — Colin Harper, Blockspace Read more.\n\nGENSYN CEO BEN FIELDING: Ten years ago, when he was still a young AI researcher beginning his PhD track, Ben Fielding explored how “swarms” of AI — clusters of many different models — could talk to each other and learn from each other, which might improve the collective whole. There was just one problem: He was handcuffed by the realities of that noisy machine beneath his desk. And he knew he was outgunned by Google and other Big Tech. Compute constraints would always be an issue, he realized. The solution? Decentralized AI. Fielding co-founded Gensyn (along with Harry Grieve) in 2020, or years before Decentralized AI became fashionable. The project was initially known for building decentralized compute, but the vision is actually something wider: “The network for machine intelligence.” They’re building solutions up and down the tech stack. And now, a decade after Fielding’s noisy desk annoyed his lab-mates, the early tools of Gensyn are out in the wild. Gensyn recently released its “RL Swarms” protocol (a descendant of Fielding’s PhD work) and just launched its Testnet — which brings blockchain into the fold. Fielding talked with Jeff Wilser about AI Swarms, how blockchain snaps into the puzzle, and shares why all innovators — not just tech giants — “should have the right to build machine learning technologies.” — Jeff Wilser Read more.",
+    "url": "https://www.coindesk.com/tech/2025/04/02/the-protocol-vana-introduces-token-standard-for-data-backed-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Omkar Godbole",
+                "Kris Sandor",
+                "Colin Harper",
+                "Ben Fielding",
+                "Harry Grieve",
+                "Jeff Wilser"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder"
+            ],
+            "companies": [
+                "Vana",
+                "Hashgraph",
+                "Bitmain",
+                "Hut 8",
+                "MicroBT",
+                "Bitdeer",
+                "Auradine",
+                "Cyrus One",
+                "Gensyn",
+                "Google"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "The Protocol",
+                "DataDAOs",
+                "Hedera",
+                "Blockspace"
+            ]
+        },
+        "cryptocurrencies": [
+            "VANA",
+            "HBAR",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including new token standards, enterprise blockchain adoption, mining efficiency improvements, and decentralized AI advancements that collectively indicate growth and innovation in the cryptocurrency sector."
+    }
+}

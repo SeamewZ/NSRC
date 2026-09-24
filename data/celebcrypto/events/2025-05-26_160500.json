@@ -1,0 +1,34 @@
+{
+    "title": "Dubai Unveils Real Estate Tokenization Platform on XRP Ledger Amid $16B Initiative",
+    "time": "2025-05-26T16:05:00",
+    "author": "Krisztian Sandor",
+    "summary": "The new platform lets investors buy fractional ownership in Dubai property, with title deeds tokenized on the XRP Ledger network.",
+    "content": "The Dubai Land Department (DLD), a government agency for the real estate industry, has launched its first tokenized real estate platform as part of a government-backed effort that could see $16 billion worth of real estate digitized by 2033.\n\nThe platform, called Prypco Mint and developed in partnership with real estate fintech firm Prypco, allows investors to purchase fractional ownership in Dubai properties using local currency starting at 2,000 dirhams, or about $540, according to a Sunday press release by the agency.\n\nIn the initial phase, the platform only supports dirham transactions and is available to United Arab Emirates ID cardholders, but the agency said it plans to expand access globally in the near future and integrate more platforms later. Zand Digital Bank is serving as the banking partner, while regulatory oversight comes from the UAE Central Bank, Dubai’s Virtual Assets Regulatory Authority (VARA) and the Dubai Future Foundation through its Real Estate Sandbox.\n\nThe technical backbone of the project is tokenization specialist Ctrl Alt’s infrastructure, which has selected the XRP Ledger blockchain to place property title deeds on. The company said it has directly integrated with DLD’s systems to ensure that the blockchain records stay in sync with traditional government real estate ledgers.\n\nThe launch builds on Dubai's initiative that aims to accelerate tokenization, a red-hot crypto trend, of the city's booming property market. The agency projected that tokenized real estate could account for 7%, roughly $16 billion, of the city's total property transactions by 2033.\n\nTokenization stands for using blockchains for moving and recording ownership of traditional financial instruments like bonds, funds or real estate, attracting a slew of global banks and asset managers with the promise of operational gains and faster, cheaper settlements. It could be a huge opportunity: tokenized assets could grow to a multiple trillion-dollar market over the next few years, as projected by Ripple, BCG, McKinsey and others.\n\nRead more: Ripple, BCG Project $18.9T Tokenized Asset Market by 2033",
+    "url": "https://www.coindesk.com/business/2025/05/26/dubai-unveils-real-estate-tokenization-platform-on-xrp-ledger-amid-usd16b-initiative",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Prypco",
+                "Zand Digital Bank",
+                "Ctrl Alt",
+                "Ripple",
+                "BCG",
+                "McKinsey"
+            ],
+            "organizations": [
+                "Dubai Land Department (DLD)",
+                "United Arab Emirates Central Bank",
+                "Virtual Assets Regulatory Authority (VARA)",
+                "Dubai Future Foundation",
+                "Real Estate Sandbox"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major government-backed initiative using XRP Ledger for real estate tokenization with a projected $16 billion market, indicating institutional adoption and positive market confidence."
+    }
+}

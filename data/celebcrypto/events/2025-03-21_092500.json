@@ -1,0 +1,35 @@
+{
+    "title": "Bakkt Names Akshay Naheta as Co-CEO Amid Stablecoin Payments Push",
+    "time": "2025-03-21T09:25:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The partnership aims to integrate Bakkt’s trading platform with DTR’s stablecoin-based payments infrastructure",
+    "content": "Bakkt Holdings (BKKT) is bringing on Akshay Naheta as co-CEO and entering a strategic partnership with Naheta’s payments startup, Distributed Technologies Research (DTR), as the firm moves to unlock new revenue streams.\n\nNaheta, a former SoftBank executive with past investments in Nvidia and ARM, will officially join Bakkt’s leadership team from today. Alongside current CEO Andy Main, he’s expected to help steer the company deeper into blockchain-enabled payments. Naheta is also joining Bakkt’s board of directors.\n\nThe centerpiece of the announcement is a planned integration of Bakkt’s trading and brokerage platform with DTR’s stablecoin-based payments infrastructure. DTR’s infrastructure, according to a press release, leverages a suite of APIs, blockchain technology, and a proprietary routing system to help reduce costs and complexity in its solutions.\n\nBakkt says the combination will unlock new revenue streams in both crypto trading and cross-border payments, pending regulatory approvals.\n\nBakkt’s share price plummeted over 18% over the past three days after it revealed that neither Bank of America (BAC) nor the crypto trading app Webull Pay would renew their agreements with the firm.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Akshay Naheta",
+                "Andy Main"
+            ],
+            "positions": [
+                "co-CEO",
+                "CEO",
+                "board of directors",
+                "former SoftBank executive"
+            ],
+            "companies": [
+                "Bakkt Holdings",
+                "Distributed Technologies Research",
+                "SoftBank",
+                "Nvidia",
+                "ARM",
+                "Bank of America",
+                "Webull Pay"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bakkt's share price plummeted over 18% after losing agreements with Bank of America and Webull Pay, indicating negative market reaction despite the new partnership announcement."
+    }
+}

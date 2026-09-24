@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Is Not a Payments Platform",
+    "summary": "Jack Dorsey says Bitcoin needs payments to scale. Rena Shah, COO of Trust Machines, disagrees. It can continue to be this asset of generational wealth or store of value against inflation, while actually being an active asset across an evolving financial ecosystem, she says.",
+    "time": "2025-04-10T21:51:00",
+    "author": "Rena Shah",
+    "content": "Twitter founder Jack Dorsey recently said that the Bitcoin community should focus on scaling payments in order to remain relevant. “I think it has to be payments for [Bitcoin] to be relevant on the everyday,\" he told Haley Berkoe on the 21 in 21 podcast.\n\nI disagree.\n\nAs someone in the trenches with Bitcoin builders, who also talks to market-makers and investors, I fundamentally disagree with the idea that payments are the path forward for actual Bitcoin adoption.\n\nThe only way to grow Bitcoin’s relevance is by creating more functionality for everyday users to do something with their bitcoin that doesn’t involve selling or sending it away (i.e. hodling). That’s especially true on the institutional side, where a good corporate strategy involves more than just holding BTC on a balance sheet.\n\nBitcoin is a generational asset. Understanding that most holders don’t plan to sell, you have to look at how you keep the chain healthy. As the rewards for miners shrink each halving cycle, finding sustainable ways to incentivize them will be a big part of the discussion around Bitcoin over the next decade. Scaling activity to Layer 2s, like Stacks, that can bring smart contract functionality to the ecosystem without compromising the base layer, creates far more opportunities than simply scaling payments alone.\n\nBitcoin has established itself as “digital gold” in 2025. Individuals, institutions and countries are holding it as a safe-haven reserve investment. This trend does not lend itself to a future as a payments vehicle; instead, it creates a ripe opportunity for Bitcoiners to participate in Bitcoin DeFi and make BTC a productive asset.\n\nA recent Binance research report stated that only about 0.8% of bitcoin is currently being used in DeFi. That means there’s nearly $1 trillion in untapped potential value on-chain if we can create a clear case for building on Bitcoin.\n\nBitcoin's core strength is its security, decentralization, and finite supply. Knowing that, why would someone look to use their BTC as a form of payment? Instead, through DeFi protocols, you are already able to bridge your bitcoin to an L2 and borrow stablecoins. Since BTC is now considered by most as generational wealth, it becomes your best collateral. DeFi allows you to use digital assets as payment, while keeping your BTC securely stored on the Bitcoin blockchain. Bitcoin DeFi unlocks BTC as the most pristine form of collateral.\n\nI agree with Dorsey when he said that Bitcoin won’t succeed if \"[Bitcoin] fails to be relevant to people on a daily basis.” But we can grow long-lasting relevancy by allowing people to do more on-chain through Bitcoin DeFi.\n\nAny builders working on platforms that extend Bitcoin's functionality, allowing for lending, borrowing, and other financial services without compromising its security, will come out as the new leaders in this space. If we leverage these L2s, we will see people create savings accounts filled with bitcoin, earn yield in bitcoin, take out loans against their bitcoin, and virtually all of those actions will be abstracted by the scalable L2s.\n\nBitcoin can continue to be this asset of generational wealth or store of value against inflation, while actually being an active asset across an evolving financial ecosystem.\n\nUtility lies in creating opportunities to do more, not in making your morning coffee purchase in BTC.",
+    "url": "https://www.coindesk.com/opinion/2025/04/10/bitcoin-is-not-a-payments-platform",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Dorsey",
+                "Rena Shah",
+                "Haley Berkoe"
+            ],
+            "positions": [
+                "COO",
+                "founder"
+            ],
+            "companies": [
+                "Trust Machines",
+                "Twitter",
+                "Binance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article emphasizes Bitcoin's growing utility as collateral in DeFi, highlights $1 trillion in untapped potential value, and describes institutional adoption as a safe-haven asset, all indicating positive market development."
+    }
+}

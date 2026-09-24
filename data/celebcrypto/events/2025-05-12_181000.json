@@ -1,0 +1,39 @@
+{
+    "title": "Here's Why ICON Rebranded to SODAX and Abandoned its Layer-1",
+    "time": "2025-05-12T18:10:00",
+    "author": "Sam Reynolds",
+    "summary": "Crypto might now be in the outsourcing phase of capitalism.",
+    "content": "The last time\nICX\n$0.07287\nwas making headlines, it was at the height of the ICO bubble when it was competing with Tron and Filecoin to buy BitTorrent in a high-profile bidding war.\n\nICON, once heralded as the “Korean Ethereum,” peaked early in 2018 but later struggled to retain relevance amid fierce competition and a changing narrative.\n\nNow, ICON is back in the news, as it recently announced that it has rebranded to SODAX and is migrating its entire DeFi infrastructure from its own Layer-1 blockchain to Sonic, an EVM-compatible network focused on high-speed, low-cost transactions.\n\nSonic itself is a product of a rebrand, shifting from the name Fantom in 2024.\n\nIn an interview with CoinDesk, ICON founder Min Kim explained the logic behind shifting from running an independent blockchain to effectively outsourcing that part of the operation to Sonic’s Layer-1 infrastructure.\n\n“Back in 2017, we had to build our own Layer-1 because there wasn’t any other infrastructure available,” Kim said. “Today, buying and maintaining your own Layer-1 property just doesn't make sense anymore because there are cheaper, better options available.”\n\nAccording to Kim, outsourcing infrastructure to Sonic allows his team to streamline expenses and sharpen their strategic focus on DeFi products.\n\n“It significantly cuts our operating expenses by millions of dollars,” Kim told CoinDesk. “There's less inflation for our tokens, and all of this just makes financial sense.”\n\nThis isn't all that dissimilar from the manufacturing world. Foxconn and Taiwan Semiconductor are billion-dollar companies because firms like Apple and Nvidia don't have their own factories.\n\nSimilarly, ICON no longer needs to bear the high fixed costs and risks associated with running an entire blockchain.\n\n“Maintaining a decentralized network with validators around the world is a huge undertaking,” Kim explained. “We have eight years of experience running our own Layer-1. It's tedious, costly, and very stressful. Outsourcing to Sonic allows us to focus on innovation and delivering products that people actually want.”\n\nKim also highlighted the risk reduction benefits, noting that ICON’s DeFi layer can remain unaffected by infrastructure issues at Sonic, creating a valuable risk separation.\n\n“There's de-risking,” he explained. “If Sonic gets hacked, obviously it’s bad, but it’s not directly our fault. Sonic focuses solely on security and validator infrastructure, so we and other DeFi builders can focus on creating applications closer to end-users.”\n\nThe strategy comes as ICON seeks to reinvent itself amid diminished market influence. Once a top 20 cryptocurrency, ICON’s ICX token crashed nearly 99% from its all-time highs by late 2018, and has since not recovered, according to CoinGecko data, as investors moved toward platforms better able to capitalize on the rise of DeFi and NFTs.\n\n“Layer-1 infrastructure just doesn't make sense for most projects,” Kim argued. “Many underestimated the effort, the capital expenses involved. There's been a misguided premium investors placed on Layer-1 projects, thinking an ecosystem would naturally build itself. But that’s costly and rarely sustainable.”\n\nNow rebranded as SODAX and focused on cross-chain liquidity products, the project is migrating ICX tokens to a new token, SODA. While Sonic and SODAX’s tokens remain distinct, Kim emphasized that Sonic’s fee-monetization mechanisms will channel transaction fees back to SODA holders.\n\n“Sonic allows 90% of transaction fees to flow back to SODA token holders,” Kim noted, underscoring the economic incentive of their strategic pivot.\n\nAsked if this outsourcing model represents a broader trend, Kim predicted that many projects currently running Layer-1s will likely reconsider as market cycles shift.\n\n“Ethereum and Solana are great examples as they’re fully focused on validators and network security,\" he said. \"We’re at the forefront of reversing the trend of launching your own Layer-1s. It’s just not viable for most projects long-term.”\n\nAs the era of premium valuations for proprietary Layer-1 platforms ends, more projects, Kim said, are going to just focus on the product and not the infrastructure with ICON – now SODAX – leading the way on this.\n\n“We’re going back to basics, lowering our costs, streamlining operations, and doubling down on what we originally wanted to do: put financial products directly into people’s hands.”",
+    "url": "https://www.coindesk.com/markets/2025/05/12/here-s-why-icon-rebranded-to-sodax-and-abandoned-its-layer-1",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Min Kim"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Apple",
+                "Nvidia",
+                "Foxconn",
+                "Taiwan Semiconductor"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "ICX",
+            "Tron",
+            "Filecoin",
+            "BitTorrent",
+            "Ethereum",
+            "Solana",
+            "SODA"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a strategic rebranding and infrastructure migration by a single project without clear market-wide price implications or broader market sentiment indicators."
+    }
+}

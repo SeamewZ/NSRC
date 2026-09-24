@@ -1,0 +1,27 @@
+{
+    "title": "Ethereum's Vitalik Buterin Proposes Design to Make Running Nodes Easier",
+    "summary": "A new proposal from Ethereum’s co-founder would let users run lightweight nodes without storing the entire blockchain, trimming costs for node operators.",
+    "time": "2025-05-19T12:12:00",
+    "author": "Shaurya Malwa",
+    "content": "Ethereum co-founder Vitalik Buterin has proposed a new design to reduce the hardware burden for running a network node, framing it as a step toward a fully decentralized network that doesn’t require sophisticated infrastructure to help maintain.\n\nIn a blog post published on Sunday, Buterin introduced the concept of “partially stateless nodes,” allowing users to store only a subset of Ethereum’s data, rather than the entire blockchain that clocks in at over 1.3 terabytes (TB).\n\nThe proposed goal is to allow everyday users, not just institutions, to run nodes on personal devices. A node is an electronic device that connects to a blockchain network to help verify transactions and keep a copy of the ledger.\n\nCurrently, operating a full Ethereum node requires significant disk space, often over 1 TB, making it impractical for most users. While third-party services offer access to blockchain data, they come with privacy and censorship trade-offs, Buterin noted.\n\nInstead, his new model suggests letting each node store only the data most relevant to the user, while verifying other parts of the chain on demand using cryptography.\n\nThe “local-first” approach mirrors a library system: you keep the books you use often, and borrow the rest when needed.\n\n“This type of node would give the benefits of direct local access to the state that a user needs to care about, as well as maximal full privacy of access to that state,” Buterin wrote.\n\nThe system would also allow users to configure what data their node stores, like common smart contracts, tokens, or specific apps, using a simple onchain setting. Users wouldn’t need to store Merkle proofs (the complex cryptographic trees that secure blockchain state), as only raw data suffices.\n\nThe proposal builds on the ongoing implementation of EIP-4444, which aims to limit node history storage to 36 days, with older data distributed across the network using erasure coding — ensuring the chain remains permanent without burdening any single operator.\n\nThe proposal is still in its early stages, but it could shape the next phase of the network’s decentralization roadmap.",
+    "url": "https://www.coindesk.com/tech/2025/05/19/ethereums-vitalik-buterin-proposes-design-to-make-running-nodes-easier",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal aims to increase Ethereum's decentralization by making node operation more accessible, which is a positive development for network health and adoption."
+    }
+}

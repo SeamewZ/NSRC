@@ -1,0 +1,33 @@
+{
+    "title": "FBI Seizes $200,000 in Crypto From Hamas-Linked Wallets, Accounts",
+    "summary": "The seized funds represent just a portion of the more than $1.5 million in donations that the DOJ alleges flowed through the accounts.",
+    "time": "2025-03-27T18:28:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Federal Bureau of Investigation (FBI) seized more than $200,000 in cryptocurrency from several wallets and exchange accounts linked to the Palestinian militant group Hamas, according to a Thursday announcement.\n\nAccording to the FBI, more than $1.5 million in crypto — largely in the form of donations from Hamas supporters around the world — has flowed through the seized wallets and exchange accounts since last October. The wallet addresses were allegedly promoted in a group chat claiming to be associated with Hamas, a U.S. and European Union-designated terrorist organization, and donations were subsequently laundered through a series of crypto exchanges and transactions.\n\n“These seizures show that this office will search high and low for every cent of money going to fund Hamas, wherever it is found, and in whatever form of currency,” U.S. Attorney Edward R. Martin Jr. of the District of Columbia said in a statement. “Hamas is responsible for the death of many U.S. and Israeli nationals, and we will stop at nothing to stop their campaign of terror and murder.”\n\nApproximately $90,000 in crypto was seized from an undisclosed number of wallets, and another $112,000 was taken from three exchange accounts, according to the FBI’s release, and the accounts were registered to Palestinian individuals living in Turkey “and elsewhere.”\n\nThe U.S. Treasury Department and other foreign governments have previously sanctioned Hamas-linked financial networks and facilitators of crypto transfers, seized Hamas-linked crypto accounts. In April 2023, Israel’s Defense Ministry’s National Bureau for Counter Terror Financing (NBCTF) seized nearly 200 cryptocurrency accounts tied to Palestinian currency exchanges. According to a report from blockchain analytics firm TRM Labs, the NBCTF has seized “tens of millions” of dollars in crypto from Hamas-linked accounts over the last few years.\n\nAccording to the U.S. Treasury, Hamas has been using cryptocurrency to move some of its money since at least 2020, in order to mitigate the risks of physically transporting cash and to evade financial monitoring.",
+    "url": "https://www.coindesk.com/policy/2025/03/27/fbi-seizes-usd200-000-in-crypto-from-hamas-linked-wallets-accounts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Edward R. Martin Jr."
+            ],
+            "positions": [
+                "U.S. Attorney of the District of Columbia"
+            ],
+            "companies": [
+                "TRM Labs"
+            ],
+            "organizations": [
+                "FBI",
+                "DOJ",
+                "Hamas",
+                "U.S. Treasury Department",
+                "European Union",
+                "Israel's Defense Ministry",
+                "National Bureau for Counter Terror Financing (NBCTF)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes government seizures of cryptocurrency from terrorist-linked accounts, which represents regulatory enforcement and negative sentiment around crypto's use for illicit activities."
+    }
+}

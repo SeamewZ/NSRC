@@ -1,0 +1,32 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Slides to $83K as U.S. Tariffs Rattle Stocks, Currencies",
+    "time": "2025-04-03T11:15:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for April 3, 2025",
+    "content": "CORRECT (April 3, 11:30 UTC): Corrects headline to say bitcoin fell after the announcement; an earlier version of the story said it held steady.\n\nBy James Van Straten (All times ET unless indicated otherwise)\n\nLiberation Day is done, and markets finally have clarity on U.S. tariffs. Starting April 5, all U.S. trading partners will face a minimum of a 10% import tariff, with higher, country-specific tariffs kicking in on April 9 for about 60 countries.\n\nPresident Donald Trump introduced the tariffs based on perceived trade imbalances and non-tariff barriers, saying the goal is to encourage reshoring of production, generate revenue to help fund tax cuts and level the playing field for U.S. manufacturers.\n\nAmong the most affected countries is China, which faces a new 34% tariff on top the existing levy, bringing its total to 54%. Many other Asian economies have also been hit hard, while the European Union faces a 20% tariff.\n\nThere’s been growing interest in how the U.S. determined the tariff rates, which the administration called reciprocal. One user on X claims to have cracked the formula: Take a country’s trade deficit with the U.S. and divide it by that country’s exports to the U.S.\n\nFor example, Vietnam exports $136.6 billion to the U.S. and imports just $13.1 billion, resulting in a $123.5 billion trade deficit. When you divide the deficit by exports, you get about 90%, which aligns with the implied reciprocal tariff rate the U.S. has applied.\n\nGlobal stocks are under pressure, with the Nikkei 225 losing 2.8% after dropping as much as 4.6% and the FTSE 100 losing more than 1%. Nasdaq futures are down over 3.5%. Vietnam led losses in Asia, falling 5.5% in its worst single-day drop for over four years.\n\nThe dollar weakened, too, with the yen rallying to 147 against the U.S. currency and the pound to 1.31. The dollar index (DXY) fell to 102.5. Bitcoin\nBTC\n$104,850.17\nremains firm above $83,000, though still below its 200-day moving average of $86,400 — a key level it needs to reclaim.\n\nThe all-important U.S. 10-year Treasury yield is hovering just above 4%, the lowest level since October, which is seen as a positive for the administration to get interest rates down. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/03/crypto-daybook-americas-bitcoin-defies-sell-off-as-u-s-tariffs-rattle-stocks-currencies",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Donald Trump",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Farside Investors"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin fell to $83K and remains below its key 200-day moving average of $86,400 amid global market pressure from U.S. tariff announcements."
+    }
+}

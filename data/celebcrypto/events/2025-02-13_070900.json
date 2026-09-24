@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin Miner Riot Adds New Board Member to Push AI Pivot",
+    "time": "2025-02-13T07:09:00",
+    "author": "Sam Reynolds",
+    "summary": "Riot also announced it has hired investment banks Evercore and Northland Capital Markets to lead discussions with potential AI and HPC partners.",
+    "content": "Bitcoin\nBTC\n$103,797.36\nminer Riot Platforms appointed three new directors to its board as it explores potential opportunities in artificial intelligence (AI) and high-performance computing (HPC).\n\nThe additions include Michael Turner, former president of Oxford Properties and global head of real estate at OMERS, one of Canada's largest pension funds, alongside Jaime Leverton, ex-CEO of Hut 8 Mining (HUT), and Doug Mouton, a data center development veteran from Microsoft and Meta, the company said in a release on Thursday.\n\nThe appointments come as Riot considers repurposing its mining infrastructure, particularly its Corsicana Facility in Texas, for AI workloads, and has tapped investment banks Evercore and Northland Capital Markets to assist with this transition.\n\nRiot’s move follows a broader industry trend as miners seek new revenue streams amid rising energy costs and lower mining rewards after the recent Bitcoin halving.\n\nCoinDesk reported in October that Core Scientific (CORZ), one of RIOT's rivals, has been building AI-focused infrastructure since 2019.",
+    "url": "https://www.coindesk.com/markets/2025/02/13/btc-miner-riot-announces-new-board-appointments-to-push-ai-pivot",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Turner",
+                "Jaime Leverton",
+                "Doug Mouton"
+            ],
+            "positions": [
+                "former president of Oxford Properties and global head of real estate at OMERS",
+                "ex-CEO of Hut 8 Mining",
+                "data center development veteran from Microsoft and Meta"
+            ],
+            "companies": [
+                "Riot Platforms",
+                "Evercore",
+                "Northland Capital Markets",
+                "Hut 8 Mining",
+                "Microsoft",
+                "Meta",
+                "Core Scientific"
+            ],
+            "organizations": [
+                "Oxford Properties",
+                "OMERS"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Riot's strategic pivot to AI and HPC, hiring investment banks for partnerships, and following industry trends for new revenue streams, indicating positive business development and market confidence."
+    }
+}

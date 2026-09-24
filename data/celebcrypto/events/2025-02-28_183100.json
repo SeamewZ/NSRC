@@ -1,0 +1,40 @@
+{
+    "title": "Why DeFi Projects Could Be Ready to Outperform: Kaiko Research",
+    "time": "2025-02-28T18:31:00",
+    "author": "Tom Carreras",
+    "summary": "Regulatory clarity may provide a boost for DeFi projects.",
+    "content": "Bitcoin\nBTC\n$103,821.49\ntook the spotlight from the rest of the crypto market in 2024, but the Trump administration is quickly changing the rules of the game and a rotation into other assets could end up happening, according to crypto data firm Kaiko Research\n\nIn fact, the decentralized finance (DeFi) sector isn’t looking too bad, Kaiko research analysts Adam McCarthy and Dessislava Aubert wrote in a new report.\n\nThe company’s DeFi index (KSDEFI) has outpaced ether\nETH\n$3,487.34\nsince the instrument’s inception in October 2023, bringing in roughly 75% returns in that span of time. That’s remarkable considering that most of the protocols included in the index are built on Ethereum.\n\n“This outperformance may persist into the latter half of 2025, as several assets within the index benefit from strong tailwinds,” the report said. “This trend highlights the decreasing correlation between the DeFi index and ETH over time, as the decentralized finance sector continues to expand beyond the Ethereum ecosystem.”\n\nThe index is composed of 11 DeFi tokens, the most heavily weighted being UNI, AAVE and ONDO. At least four of these tokens have powerful tailwinds for the rest of the year, the report said.\n\nFor example, regulatory developments in the U.S. may open up possibilities for decentralized exchange Uniswap and decentralized lender Aave to implement fee switches for each of their respective tokens, meaning that protocol fees may end up getting distributed to UNI and AAVE holders.\n\nTokenization protocol Ondo Finance, for its part, will likely benefit from an acceleration of the tokenization trend as Wall Street keeps wading deeper into crypto, the report said.\n\n“Regulatory constraints in key markets have been a significant hurdle [since 2020], but they are only part of the challenge. DeFi has also faced structural issues, including high user friction due to fees and security concerns. However, with regulatory scrutiny easing, the sector now has abundant opportunities for growth,” the report said.",
+    "url": "https://www.coindesk.com/markets/2025/02/28/why-defi-projects-could-be-ready-to-outperform-kaiko-research",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Adam McCarthy",
+                "Dessislava Aubert"
+            ],
+            "positions": [
+                "research analysts"
+            ],
+            "companies": [
+                "Kaiko Research",
+                "Uniswap",
+                "Aave",
+                "Ondo Finance"
+            ],
+            "organizations": [
+                "Trump administration",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "UNI",
+            "AAVE",
+            "ONDO"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights DeFi sector outperformance, regulatory clarity providing growth opportunities, and strong tailwinds for multiple DeFi tokens."
+    }
+}

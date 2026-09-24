@@ -1,0 +1,44 @@
+{
+    "title": "Solana, Dogecoin, XRP Plunge 10% as Bloody Start to Week Sees $770M Long Liquidations",
+    "time": "2025-01-27T07:51:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders of BTC-tracked products lost $238 million in the past 24 hours, majorly in early European and Asian afternoon hours.",
+    "content": "Bullish bets on higher crypto prices lost $770 million in the past 24 hours as bitcoin fell under $100,000, leading to some majors rapidly losing momentum in a bloody start to the week.\n\nSolana’s SOL and\nDOGE\n$0.1648\ndropped more than 10% to lead losses among majors, while ether\nETH\n$3,494.44\n, BNB Chain’s bnb,\nXRP\n$2.2742\nand Cardano’s ADA fell as much as 9%. Overall market cap fell 8.5% as of Asian afternoon hours Monday.\n\nTokens outside of the top twenty and across different sectors showed similar woes, with memecoin pepe (PEPE), layer 1 upstart\nAPT\n$2.6913\n, Gate.io’s GATE and AI Agent creation platform Virtuals (VIRTUALS) losing as much as 18%.\n\nJupiter’s JUP was the only token in green with a 3.5% gain over the past 24 hours on the back of a decision to buy back tokens from the open market from the fees generated on its trading platform — which may equate to hundreds of millions in net buying volumes in a year.\n\nBitcoin slumped under $99,000 early Monday as traders took profits ahead of the first U.S. FOMC meeting this year. It tracked losses in U.S. stock futures, which fell as traders digested information about the cost and capabilities of China-based DeepSeek, threatening an otherwise costly narrative spearheaded by OpenAI.\n\nFutures markets reflected these losses, with traders of BTC-tracked products losing $238 million in the past 24 hours, majorly in early European and Asian afternoon hours. SOL and DOGE bets lost a cumulative $50 million, altcoin-tracked products lost $138 million and ether-tracked futures lost $84 million.\n\nThe largest single liquidation order happened on HTX, a tether-margined BTC trade valued at $98.4 million.\n\nLiquidation happens when a trader has insufficient funds to keep a leveraged trade open. The crypto market's high volatility means liquidations are a common occurrence, although major events such as Monday’s can provide actionable cues for further market sentiment or positioning.\n\nThe liquidation can signal an overstretched market, indicating that a price correction has occurred, while price-chart areas with high liquidation volumes can act as support or resistance levels where price might reverse due to the absence of further selling pressure from liquidated positions.\n\nHowever, if the market continues declining, those with short positions might see this as validation, potentially increasing their bets. Conversely, contrarian traders might view heavy liquidation as a buying opportunity, expecting a price recovery once the sell-off momentum wanes.",
+    "url": "https://www.coindesk.com/markets/2025/01/27/solana-dogecoin-xrp-plunge-10-as-bloody-start-to-week-sees-usd770m-long-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Gate.io",
+                "HTX"
+            ],
+            "organizations": [
+                "FOMC",
+                "OpenAI",
+                "DeepSeek"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Dogecoin",
+            "DOGE",
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "BNB",
+            "Cardano",
+            "ADA",
+            "PEPE",
+            "APT",
+            "GATE",
+            "VIRTUALS",
+            "JUP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes major cryptocurrency price plunges, $770 million in long liquidations, and overall market cap decline of 8.5%."
+    }
+}

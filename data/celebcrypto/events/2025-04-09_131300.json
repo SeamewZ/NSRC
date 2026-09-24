@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: SUI Drops 3.8% as Index Trades Lower from Tuesday",
+    "time": "2025-04-09T13:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Stellar (XLM) joined Sui (SUI) as a top underperformer, declining 2.7%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2164.45, down 0.9% (-20.67) since 4 p.m. ET on Tuesday.\n\nSix of the 20 assets are trading higher.\n\nLeaders: LTC (+1.7%) and LINK (+1.7%).\n\nLaggards: SUI (-3.8%) and XLM (-2.7%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/09/coindesk-20-performance-update-sui-drops-3-8-as-index-trades-lower-from-tuesday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "XLM",
+            "LTC",
+            "LINK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is trading down 0.9% with more assets declining than rising, and the top performers show only modest gains while laggards show significant losses."
+    }
+}

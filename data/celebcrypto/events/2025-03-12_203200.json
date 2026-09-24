@@ -1,0 +1,35 @@
+{
+    "title": "Crypto Rally Doesn't Hold After Soft Inflation Data",
+    "time": "2025-03-12T20:32:00",
+    "author": "Tom Carreras",
+    "summary": "Bitcoin managed a knee-jerk move above $84,000 after the U.S. CPI report, but returned to roughly flat for the day.",
+    "content": "The crypto sector was mostly flat for the day, as a short rally following better than hoped U.S. inflation data quickly lost steam.\n\nBitcoin\nBTC\n$104,361.89\nis trading at $82,800, down 0.5% in the last 24 hours. The CoinDesk 20 — an index of the top 20 cryptocurrencies excluding exchange coins, stablecoins and memecoins — is lower by 0.8% in the same period of time.\n\nPulling that broader gauge lower was ether\nETH\n$3,511.09\nis the worst performing asset in the index and currently off 3.5% to roughly $1,880. At 0.022, the ETH/BTC ratio is now at the same level as it was in April 2020, right before DeFi summer brought projects such as Uniswap and MakerDao into the spotlight. The ETH/BTC ratio has plunged a staggering 67% since its all-time high in November 2021.\n\nRead more: Inflation Relief as U.S. CPI Dips to Less Than Forecast 2.8% in February\n\n“Today's lower-than-expected CPI should be bullish, signaling faster rate cuts, but crypto hasn't reacted strongly,\" Dr. Youwei Yang, Chief Economist at BIT Mining, told CoinDesk by email. \"Weeks of market fear require more than a single good print to regain confidence.\"\n\n“The real issue is Trump’s aggressive tariffs, which risk making inflation stickier while also crashing markets,” Yang added, also mentioning the layoffs initiated by the Department of Government Efficiency (DOGE). “This puts the Fed in a bind: High inflation from tariffs makes rate cuts harder. Market crashes and job losses pressure the Fed to cut rates sooner. Cutting too early could reignite inflation, making future policy tougher.”\n\nThe market currently expects the Federal Reserve to restart rate cuts, perhaps as soon as May or June, with the possibility of as many of 100 basis points in cuts by October.\n\nU.S. stocks enjoyed a modest bounce on Wednesday after a roughly 10% plunge over the past few weeks. The Nasdaq closed with a 1.2% advance while the S&P 500 managed a 0.5% gain.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/crypto-rally-doesn-t-hold-after-soft-inflation-data",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dr. Youwei Yang",
+                "Trump"
+            ],
+            "positions": [
+                "Chief Economist"
+            ],
+            "companies": [
+                "BIT Mining"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Department of Government Efficiency (DOGE)",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes the crypto market as 'mostly flat' with a short rally that 'quickly lost steam' and quotes an economist saying crypto hasn't reacted strongly to positive inflation data."
+    }
+}

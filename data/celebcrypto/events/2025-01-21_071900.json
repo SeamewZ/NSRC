@@ -1,0 +1,39 @@
+{
+    "title": "TRUMP, MELANIA Tokens Plunge 50% as Trump Inauguration Fails to Buoy Bitcoin",
+    "time": "2025-01-21T07:19:00",
+    "author": "Shaurya Malwa",
+    "summary": "Data shows TRUMP amassed over $19 billion in volumes over a 24-hour period, while MELANIA saw $4.5 billion exchange hands.",
+    "content": "A short-lived Trump family token frenzy has left hopeful investors with steep losses.\n\nOfficial memecoins of U.S. President Donald Trump and First Lady Melania are down as much as 60% in the past 24 hours amid heavy profit-taking after Monday’s inauguration. Futures tracking the two tokens have fared similarly bad for traders — with liquidation losses at nearly $70 million for those betting on higher prices.\n\nThese are not thinly-traded tokens where prices are easy to shift, either. Data shows TRUMP amassed over $19 billion in volumes over a 24-hour period, while MELANIA saw $4.5 billion exchange hands.\n\nMajor tokens, such as Tron's TRX and Cardano’s ADA did under $4 billion in volumes in the same period, indicative of the high interest in the Trump family-themed tokens.\n\nOverall buying volumes are stalling in line with prices on trading application Moonshot, which was among the first to offer TRUMP to retail traders. A Dune dashboard created by @Seoulcalibur.eth shows volumes have dropped from an average above $6 million on Jan.18 to Jan.19, to just over $1 million in the past 24 hours.\n\nCrypto markets expected Trump to mention the asset class in his inaugural speech — such as plans of a promised strategic bitcoin reserve — but the lack of relevant words saw BTC fall from a Monday high above $109,000 to just over $101,000 in Asian morning hours Monday.\n\nTraders remain optimistic about a pro-crypto policy in the near term, however, with a focus on Solana’s SOL tokens.\n\n“Launching $TRUMP on SOL proves to be a significant endorsement of the chain, making it plausible that the SOL ETF could gain approval much earlier than expected,” Singapore-based QCP Capital said in a Tuesday broadcast. “With increased media exposure from similar launches, retail inflows will likely come streaming in.”\n\n“The launch of Trump's memecoin appeals not only to the retail memecoin moonshot masses, but also to major institutions as it solidifies the president's pro-crypto stance. Institutional investors are on the edge of their seats, awaiting concrete pro-crypto policies that could significantly influence the future of the economy,” the firm added.",
+    "url": "https://www.coindesk.com/markets/2025/01/21/trump-melania-tokens-plunge-50-as-trump-inauguration-fails-to-bouy-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Melania"
+            ],
+            "positions": [
+                "U.S. President",
+                "First Lady"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Moonshot"
+            ],
+            "organizations": [
+                "Tron",
+                "Cardano"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "TRUMP",
+            "MELANIA",
+            "TRX",
+            "ADA",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes token prices plunging 50-60%, heavy profit-taking, $70 million in liquidation losses, and Bitcoin falling from $109,000 to $101,000 due to lack of expected crypto policy mentions."
+    }
+}

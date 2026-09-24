@@ -1,0 +1,36 @@
+{
+    "title": "Trump Orders Creation of Sovereign Wealth Fund",
+    "summary": "Such a fund could be a vehicle through which the government might accumulate bitcoin.",
+    "time": "2025-02-03T18:34:00",
+    "author": "Stephen Alpher",
+    "content": "U.S. President Donald Trump signed an executive order Monday afternoon charging the Treasury and Commerce Departments with creating a sovereign wealth fund.\n\nWhile Treasury Secretary Scott Bessent has expressed at least cautious interest in crypto, Commerce Secretary nominee Howard Lutnick has been a loud champion for the sector. His bond trading powerhouse Cantor Fitzgerald is the custodian for stablecoin giant Tether's massive holdings of government paper, and Lutnick himself has talked about his own personal massive exposure to bitcoin\nBTC\n$101,926.60\n.\n\nAppearing alongside Trump in the Oval Office Monday, Bessent said he expected the sovereign wealth fund to be created in the next 12 months. While bitcoin reportedly was not mentioned at the signing, a sovereign wealth fund could potentially be a vehicle through which the government might buy and hold the crypto.\n\nBitcoin rose modestly to $99,600 in wake of the executive order news.",
+    "url": "https://www.coindesk.com/policy/2025/02/03/trump-orders-creation-of-sovereign-wealth-fund",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Scott Bessent",
+                "Howard Lutnick"
+            ],
+            "positions": [
+                "U.S. President",
+                "Treasury Secretary",
+                "Commerce Secretary nominee"
+            ],
+            "companies": [
+                "Cantor Fitzgerald",
+                "Tether"
+            ],
+            "organizations": [
+                "Treasury Department",
+                "Commerce Department"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin rose modestly to $99,600 following the executive order news about creating a sovereign wealth fund that could potentially buy and hold cryptocurrency."
+    }
+}

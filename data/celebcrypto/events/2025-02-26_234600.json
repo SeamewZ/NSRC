@@ -1,0 +1,33 @@
+{
+    "title": "Bybit and Safe Custody Are at Odds on Who's to Blame for $1.5B Hack",
+    "time": "2025-02-26T23:46:00",
+    "author": "Oliver Knight",
+    "summary": "The apparent stand-off mirrors that of WazirX and Liminal Custody, which blamed each other following a $230 million exploit last July.",
+    "content": "Cryptocurrency exchange Bybit has published a forensic review on last week's $1.5 billion hack, revealing that its systems had not been infiltrated and that the issue seemed to have stemmed from compromised Safe wallet infrastructure.\n\nBybit concluded from the review that \"the credentials of a Safe developer were compromised,\" which allowed the Lazarus hacking group to gain unauthorized access to the Safe wallet and subsequently deceive Bybit staff into signing the malicious transaction.\n\nHowever, a person familiar with the matter told CoinDesk that despite the wallet's infrastructure being compromised by social engineering, the hack would not have been possible had Bybit not \"blind signed\" the transaction. The term refers to a mechanism where a smart contract transaction is approved without comprehensive knowledge of its contents.\n\nSafe also issued a statement saying that \"Safe smart contracts [were] unaffected, an attack was conducted by compromising a Safe {Wallet} developer machine which affected an account operated by Bybit.\" It also pointed out that a \"forensic review of external security researchers did NOT indicate any vulnerabilities in the Safe smart contracts or source code of the frontend and services.\"\n\nThe apparent back and forth between both companies mirrors that of WazirX and Liminal Custody, which blamed each other following a $230 million exploit last July.\n\nOn-chain data analyzed by ZachXBT shows that Lazarus is attempting to launder the stolen funds, with 920 wallets currently being tainted with the ill-gotten gains. The funds, perhaps inadvertently, have been commingled with stolen funds from hacks targeting Phemex and Poloniex, linking Lazarus Group to all three.\nRead more: Bybit Declares ‘War on Lazarus’ as It Crowdsources Effort to Freeze Stolen Funds",
+    "url": "https://www.coindesk.com/business/2025/02/26/bybit-and-safe-custody-blame-each-other-over-usd1-5b-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT"
+            ],
+            "positions": [
+                "developer"
+            ],
+            "companies": [
+                "Bybit",
+                "Safe",
+                "WazirX",
+                "Liminal Custody",
+                "Phemex",
+                "Poloniex"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "Lazarus"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $1.5 billion hack involving multiple cryptocurrency exchanges and the Lazarus hacking group, which represents a significant security breach and negative event for the cryptocurrency market."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Bitlayer Joins Forces With Antpool, F2Pool, and SpiderPool to Supercharge Bitcoin DeFi",
+    "time": "2025-05-27T01:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Bitlayer has partnered with major Bitcoin mining pools to promote the adoption of BitVM, a technology enabling Bitcoin-native DeFi.",
+    "content": "Bitlayer, a Bitcoin Layer 2 built on the BitVM paradigm, has partnered with three of the world’s largest bitcoin\nBTC\n$106,226.07\nmining pools — Antpool, F2Pool, and SpiderPool — in a first-of-its-kind collaboration to accelerate the real-world adoption of BitVM, a breakthrough technology focused on enabling Bitcoin-native DeFi.\n\nBitcoin’s ecosystem has lagged behind other Layer 1s like Ethereum for years due to technical limitations — especially its lack of support for Turing-complete smart contracts. Bitlayer’s BitVM paradigm addresses this by offering Bitcoin-equivalent security and Turing completeness without altering Bitcoin’s core protocol or compromising its foundational design.\n\nBut turning that vision into reality requires the cooperation of miners — the entities that create new blocks and validate transactions in exchange for BTC. That’s precisely what this new partnership secures.\n\nThe three mining pools, representing over 36% of Bitcoin’s total computing power (hashrate), have agreed to support non-standard transactions (NSTs) — a critical piece of BitVM’s challenge-response mechanism, the firms said. Their support removes a key bottleneck to BitVM deployment and brings the system closer to widespread use.\n\nNSTs are transactions that are valid under Bitcoin’s consensus rules but are not relayed by the default Bitcoin Core software, making them hard to get confirmed on-chain without miner cooperation.\n\nUnder this partnership, Antpool, F2Pool, and SpiderPool will serve as guardians of the BitVM Bridge, ensuring NSTs are reliably included in blocks and become part of Bitcoin’s immutable ledger.\n\nThe BitVM bridge is a special tool that facilitates secure and reliable movement of BTC into other blockchain ecosystems — such as rollups, cross-chain protocols, and smart contracts — without relying on centralized intermediaries. It opens the door for broader Bitcoin DeFi applications while preserving the network’s robust security guarantees.\n\n“BitVM represents the most credible path to bring on-chain validation to Bitcoin while maintaining its core security. This partnership solves the critical last-mile challenge of getting Non-Standard Transactions included on-chain,” said Kevin He, co-founder of Bitlayer, in a press release shared with CoinDesk.\n\nThis isn’t just a milestone for Bitlayer — it’s a strategic win for miners as well, especially as they face dwindling income due to per-block BTC rewards being cut in half every four years.\n\nAndy, CEO of Antpool, noted that Bitlayer's BitVM can help drive new economic activity and fee-based income for miners.\n\n\"Built on BitVM, Bitlayer enables BTC to flow into DeFi and Layer 2 ecosystems. That means more use, more fees, and long-term sustainability for miners,\" Andy said in the press release.\n\nLeon Liang, chief strategy officer at F2Pool, emphasized the importance of innovation, saying, \"we want to support high-quality projects like Bitlayer that expand what Bitcoin can do.”\n\nSpiderPool CTO Kenway spoke to the broader potential of Bitcoin as a financial services platform, stating, \"This partnership lets us unlock new possibilities for Bitcoin DeFi. It enhances Bitcoin’s utility while reinforcing miners’ central role in the ecosystem.”\n\nBitlayer’s collaboration with mining giants follows recent integrations with major Layer 1 ecosystems like Sui, Base, Arbitrum, and Starknet. Together, these partnerships reflect a growing demand for secure, Bitcoin-native DeFi infrastructure that scales.\n\nBitlayer is actively onboarding more validators and early adopters to help secure and expand the BitVM Bridge — and to build what could become the cornerstone of Bitcoin’s next evolution.",
+    "url": "https://www.coindesk.com/business/2025/05/27/bitlayer-joins-forces-with-antpool-f2pool-and-spiderpool-to-supercharge-bitcoin-defi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kevin He",
+                "Andy",
+                "Leon Liang",
+                "Kenway"
+            ],
+            "positions": [
+                "co-founder",
+                "CEO",
+                "chief strategy officer",
+                "CTO"
+            ],
+            "companies": [
+                "Bitlayer",
+                "Antpool",
+                "F2Pool",
+                "SpiderPool",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership with major mining pools representing over 36% of Bitcoin's hashrate removes key bottlenecks for Bitcoin DeFi adoption and is described as driving new economic activity and fee-based income for miners."
+    }
+}

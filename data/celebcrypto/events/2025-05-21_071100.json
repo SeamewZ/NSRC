@@ -1,0 +1,30 @@
+{
+    "title": "CME's XRP Futures Have Pulled In Nearly $30M Since Debut, Fueling XRP ETF Hopes",
+    "summary": "Strong institutional interest in CME’s new XRP futures contracts is reviving hopes for a U.S.-listed spot XRP ETF, as the token gains traction in regulated markets.",
+    "time": "2025-05-21T07:11:00",
+    "author": "Shaurya Malwa",
+    "content": "XRP futures contracts on the Chicago Mercantile Exchange (CME) recorded over $19 million in notional trading volume on their first day and at least $10 million on Tuesday, data shows.\n\nThe inaugural trade, a block transaction, was cleared by Hidden Road on May 18. CME's XRP futures are available in two sizes: standard contracts representing 50,000 XRP and micro contracts representing 2,500 XRP. Both are cash-settled and benchmarked to the CME CF XRP-Dollar Reference Rate, calculated daily at 15:00 UTC.\n\nStandard contracts bagged a volume of 7.5 million XRP on Monday and 2.95 million XRP on Tuesday, while micro contracts did 517,000 XRP on Monday and at least 1.2 million XRP on Tuesday.\n\nMarket participants see the launch of these regulated futures contracts as a step toward the potential approval of a spot XRP exchange-traded fund (ETF) in the United States.\n\n“Spot XRP ETFs only a matter of time,” Nate Geraci, President of the ETF Store, said in an X post Monday.\n\nDespite the strong debut of the futures contracts, XRP's spot price remained relatively stable, trading around $2.38, with a slight increase of 0.42% over the past 24 hours.\n\nRead more: XRP Futures Rack Up $1.5M Trading Volumes on CME Debut",
+    "url": "https://www.coindesk.com/markets/2025/05/21/cmes-xrp-futures-have-pulled-in-nearly-30m-since-debut-fueling-xrp-etf-hopes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nate Geraci"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Hidden Road",
+                "ETF Store"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange (CME)"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights strong institutional interest in regulated XRP futures and explicitly states this is reviving hopes for a spot XRP ETF, indicating positive market sentiment and confidence."
+    }
+}

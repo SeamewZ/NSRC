@@ -1,0 +1,46 @@
+{
+    "title": "Bitcoin Begins to Decouple From Nasdaq as U.S. Stocks Crumble",
+    "time": "2025-04-04T16:36:00",
+    "author": "Krisztian Sandor",
+    "summary": "Is the long-awaited \"decoupling\" finally here? Bitcoin bulls hope so.",
+    "content": "After a frustrating few weeks in which bitcoin\nBTC\n$104,030.61\nprices seemed to move tick for tick with the Nasdaq, the world's largest crypto is showing some signs of going its own way as stock prices go from struggling to plunging.\n\nWith the Nasdaq following up its 6% tumble on Thursday with another 5% decline halfway through the day on Friday, the price of bitcoin is holding at around $83,000. That's about 1% higher over the past 24 hours and lower by just 3.5% since President Trump announced his tariff package on Wednesday evening.\n\nBitcoin is also greatly outperforming crypto-related stock like Coinbase (COIN), MicroStrategy (MSTR), Semler Scientific (SMLR) and the miners, all of which are down double-digit percentages over the past two sessions.\n\nThe broader crypto market is also flashing strength, with the CoinDesk 20 Index climbing higher, led by 4%-5% gains of XRP, Solana's SOL and Cardano's ADA.\n\n\"Bitcoin has shown impressive resilience,\" said David Hernandez, crypto investment specialist at digital asset manager 21Shares. \"After briefly dipping below $82,000, it rebounded quickly, reinforcing its status as a macro hedge in times of macroeconomic stress.\"\n\nThe decoupling — if it persists — could bode well for BTC's appeal among institutional investors seeking refuge from shaky stock markets, Hernandez added.\n\nGeoff Kendrick, digital asset research head of Standard Chartered Bank, argued last week that bitcoin trades like a tech stock most of the time but could feature as a hedge at market panic, such as the March 2023 U.S. regional banking crisis. \"Over the last 36 hours I think we can also add 'U.S. isolation' hedge to the list of bitcoin uses,\" he said in a Friday note.\n\nHowever, the newfound strength could be due to companies with BTC investment programs like Michael Saylor's Strategy or GameStop bidding, said Sean Farrell, head of digital assets at Fundstrat.\n\n\"Still in the camp that this is due to the multibillion-dollar corporate treasury twap happening,\" Farrell posted on X on Friday. \"But if we maintain this strength through the weekend, we're gonna have to revisit those priors.\"",
+    "url": "https://www.coindesk.com/markets/2025/04/04/bitcoin-begins-to-decouple-from-nasdaq-as-u-s-stocks-crumble",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Hernandez",
+                "Geoff Kendrick",
+                "Sean Farrell",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "crypto investment specialist",
+                "digital asset research head",
+                "head of digital assets"
+            ],
+            "companies": [
+                "Coinbase",
+                "MicroStrategy",
+                "Semler Scientific",
+                "21Shares",
+                "Standard Chartered Bank",
+                "Fundstrat",
+                "GameStop"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "Solana",
+            "SOL",
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin showing resilience and decoupling from falling stock markets, with analysts calling it a 'macro hedge' and noting institutional appeal during market stress."
+    }
+}

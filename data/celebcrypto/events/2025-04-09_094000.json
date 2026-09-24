@@ -1,0 +1,35 @@
+{
+    "title": "Powell Likely to Wait Until Trump Blinks, 'Dr. Doom' Roubini Says",
+    "time": "2025-04-09T09:40:00",
+    "author": "Omkar Godbole",
+    "summary": "Roubini, known as Dr. Doom for predicting the 2008 financial meltdown, warned against relying on the Fed for a swift resolution to market instability.",
+    "content": "Nouriel Roubini, the economist who predicted the 2008 global financial meltdown to earn himself the nickname Dr. Doom, warned traders against relying on the Federal Reserve for a swift resolution to the financial market instability sparked by President Donald Trump's tariffs on international trade.\n\nA week ago, Trump announced sweeping tariffs against many nations, including a hefty levy on Chinese imports that's now been lifted to 104%. Financial markets cratered on concerns the move will drag the U.S. and other economies into recession.\n\nThe Nasdaq 100 has lost 12% and bitcoin (BTC), the largest cryptocurrency by market value, dropped 10%, hitting prices below $75,000 at one point. Volatility in the U.S. Treasury market exploded, with yields on longer-dated bonds surging, sending prices lower even as equity markets swooned. That has raised fears of a full-blown dollar liquidity crisis like the one observed five years ago during the COVID crash.\n\nSpeculation is rife the Federal Reserve will soon take action to ease liquidity conditions, as it did in 2020, putting a floor under asset prices. Traders have priced in at least five quarter-point interest-rate cuts from Fed Chair Jerome Powell for this year, according to the CME's FedWatch tool. Roubini suggests that won't happen.\n\n\"There is, of course, a game of chicken between the Trump put and the Powell put. But I would say that the strike price for the Powell put is going to be lower than the strike price for the Trump put, meaning Powell is going to wait until it’s Trump who blinks,\" Roubini told Bloomberg.\n\nIn other words, Powell will likely wait for Trump to temper his rhetoric before intervening to stabilize market volatility. This approach makes sense given the current market instability is largely a result of Trump's tariffs.\n\nThe sentiment could quickly reverse with a single-social media post from Trump announcing a possible trade deal or negotiation with China. An episode from early this week is symptomatic. On Monday, an unconfirmed report of a tariff pause triggered a sharp surge in market valuations, only for the news to later be debunked as false.\n\nRoubini, who runs Roubini Macro Associates, expects inflation to be sticky in a new world of higher tariffs, hurting longer-dated bonds. That partly explains the swoon in the 10- and 30-year U.S. Treasury notes and the resulting surge in yields.\n\nAt the same time, he said he expects the U.S. to avoid slipping into a recession, contrary to the market zeitgeist and pricing in betting platforms, which suggests an over 50% chance of the economy facing back-to-back quarterly contractions in the growth rate.",
+    "url": "https://www.coindesk.com/markets/2025/04/09/powell-likely-to-wait-until-trump-blinks-dr-doom-roubini-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nouriel Roubini",
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "Fed Chair",
+                "President"
+            ],
+            "companies": [
+                "Roubini Macro Associates"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Nasdaq 100",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states bitcoin dropped 10% due to market instability caused by Trump's tariffs and warns against expecting swift Fed intervention to stabilize markets."
+    }
+}

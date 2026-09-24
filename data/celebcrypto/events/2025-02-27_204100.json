@@ -1,0 +1,35 @@
+{
+    "title": "How SenseiNode Is Building Proof-of-Stake Infrastructure in Latin America",
+    "summary": "Staking service provider SenseiNode operates from Brazil, Argentina, Mexico, Chile, Costa Rica and Colombia.",
+    "time": "2025-02-27T20:41:00",
+    "author": "Tom Carreras",
+    "content": "A lot of attention is paid to the decentralization of the Bitcoin network.\n\nBitcoin miners should set up shop in a number of different jurisdictions in order to prevent any kind of regulatory capture of the network, so the thinking goes. Some members of the crypto community even saw China’s 2021 crypto ban as a positive because it forced mining operations — up until then clustered in the Middle Kingdom — to spread out to various other continents.\n\nThat discourse isn’t as prevalent when it comes to Proof-of-Stake networks like Ethereum and Solana, but staking firm SenseiNode aims to make such blockchains as resilient as possible by spinning up validator infrastructure in Latin America.\n\n“When we started, 99% of nodes were located in Europe, the US and some in Asia,” SenseiNode CEO Pablo Larguia told CoinDesk in an interview. “We were the first to bring geographic and jurisdictional decentralization to Latin America.”\n\nWith roughly $800 million worth of assets staked through its platform, SenseiNode is the 15th largest staking firm globally. The largest of them, Kiln, manages over $7 billion.\n\nSenseiNode operates in various Latin American countries, including Brazil, Argentina, Mexico, Chile, Costa Rica and Colombia. It also has nodes set up in the U.S. and Germany. The common point in all of these jurisdictions is that SenseiNode uses local and regional data centers.\n\n“Most of the nodes in the US and Europe are hosted in Amazon Web Services. At the end of the day, that’s a point of centralization,” Larguia said.\n\nData centers in Latin America usually aren’t as advanced as Western ones, however, which has forced SenseiNode to take on an educational role in some cases and help build the necessary infrastructure to run staking services.\n\nRead more: Staked Ether Is Creating a Benchmark for the Crypto Economy, Says ARK Invest\n\nRequirements for running nodes vary from protocol to protocol, Larguia said. For example, some projects may have larger storage requirements if their blockchain history is older.\n\nNode costs also differ. You only need $300 per month to run an Ethereum validator, while a Solana validator will cost $800 per month. However, there are no limits to how many tokens you can delegate to a single Solana validator, contrary to Ethereum validators, which are limited to 32 ETH each. Ethereum staking is therefore more expensive to handle for SenseiNode than Solana staking.\n\n“For Polkadot and Avalanche, we have like two or three nodes, but for Ethereum we have like 9,000,” Larguia said.",
+    "url": "https://www.coindesk.com/tech/2025/02/27/how-senseinode-is-building-proof-of-stake-infrastructure-in-latin-america",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pablo Larguia"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "SenseiNode",
+                "Kiln",
+                "Amazon Web Services"
+            ],
+            "organizations": [
+                "ARK Invest"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Solana",
+            "Polkadot",
+            "Avalanche"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes SenseiNode's expansion of staking infrastructure in Latin America, which increases geographic decentralization and resilience of Proof-of-Stake networks, indicating positive market development and growth."
+    }
+}

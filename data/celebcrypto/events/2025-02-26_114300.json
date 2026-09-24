@@ -1,0 +1,44 @@
+{
+    "title": "Circle CEO Jeremy Allaire Wants Dollar-Backed Stablecoins to Register in U.S.: Bloomberg",
+    "summary": "“It shouldn’t be a free pass, right?” Jeremy Allaire, a co-founder of stablecoin issuer Circle said.",
+    "time": "2025-02-26T11:43:00",
+    "author": "Camomile Shumba",
+    "content": "Jeremy Allaire, co-founder and CEO of stablecoin issuer Circle, says companies issuing digital tokens pegged to the dollar should be registered in the U.S.\n\n“It shouldn’t be a free pass, right?” Allaire said in an interview with Bloomberg. “Where you can just ignore the U.S. law and go do whatever the hell you want wherever and sell into the United States.” Circle's USDC is the second-largest dollar-backed stablecoin by market cap, lagging behind Tether's USDT.\n\nCrypto has featured heavily since the start of President Donald Trump's presidency. In January he issued an executive order laying out specific actions, including one being for the nation to move forward with a more crypto-friendly regulatory framework. In February, Tennessee Senator Bill Hagerty introduced a stablecoin oversight bill that would establish a regulatory regime for U.S. dollar-backed coins.\n\n“Whether you’re an offshore company or based in Hong Kong, if you want to offer your dollar stablecoin in the U.S., you should need to register in the U.S. just like we have to go register everywhere else,” Allaire said.\n\nThese comments were echoed by Dante Disparte, Circle's Chief Strategy Officer & Head of Global Policy and Operations.\n\n\"All companies that issue dollar stablecoins - whether they’re startups or based outside the U.S. - should have the opportunity to register in the United States and compete on a level playing field – no company that issues dollar stablecoins should get a free pass from safety and soundness rules and appropriate prudential supervision,\" Disparte, told CoinDesk in a statement.\n\nThe stablecoin sector has a total market cap of $232 billion and underpins cryptocurrency trading. The tokens are also often used in international money transfers. Companies including PayPal say they plan to expand their stablecoin businesses.\n\nMichelle Gill, the general manager of PayPal’s small business and financial services group, told Bloomberg that the company intends to integrate its PYUSD stablecoin, ranked 10th largest by market cap at CoinGecko, into more of its products in the coming months.\n\nPayPal did not get back to CoinDesk with a comment.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/circle-ceo-jeremy-allaire-wants-dollar-backed-stablecoins-to-register-in-u-s-bloomberg",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire",
+                "Donald Trump",
+                "Bill Hagerty",
+                "Dante Disparte",
+                "Michelle Gill"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder",
+                "President",
+                "Senator",
+                "Chief Strategy Officer & Head of Global Policy and Operations",
+                "general manager"
+            ],
+            "companies": [
+                "Circle",
+                "Tether",
+                "PayPal"
+            ],
+            "organizations": [
+                "Bloomberg",
+                "CoinDesk",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USDT",
+            "PYUSD"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses regulatory developments and company statements about stablecoin registration requirements, which represents ongoing policy discussions rather than clear positive or negative market-moving events."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Bitwise Files to Launch Dogecoin ETF",
+    "time": "2025-01-28T22:06:00",
+    "author": "Helene Braun",
+    "summary": "The asset manager is among a number of issuers seeking ETFs for the memecoin.",
+    "content": "Crypto asset manager Bitwise has uploaded documents to launch an exchange-traded fund (ETF) tied to the price of\nDOGE\n$0.1648\n, a filing with the US. Securities and Exchange Commission on Tuesday shows.\n\nThe filing, an S-1 document, is a requirement for companies seeking to issue a new security and be listed on a public stock exchange.\n\nEarlier this month, investment managers Rex Shares and Osprey Funds filed paperwork for several crypto ETFs, including dogecoin among other memecoins.\n\nHowever, Bitwise’s filing differs in that it is filed under the ‘33 Act as opposed to the 40 Act, which Rex and Osprey filed under, Bloomberg Intelligence senior ETF analyst Eric Balchunas pointed out.\n\nS-1s filed under the ‘33 Act are typically used for niche, commodity-based ETFs while filing under the 40 Act provides stronger investor protection as it requires the issuer to meet further SEC rules. The 40 Act, for example, limits leverage and short-selling and requires stricter fiduciary oversight and governance, among other things.\n\nBitwise is the issuer of several crypto ETFs and has several applications pending, including one for an\nXRP\n$2.2742\nETF.\n\nWhile the S-1 documents is a first step in launching an ETF, the more crucial filing is the 19b-4, which is required to signal a requisite rule change at the stock exchange seeking to list the investment and ties the SEC to a strict deadline.\n\nWhile memecoin ETFs were a nearly unthinkable investment vehicle under Gray Gensler’s SEC, which gave issuers a hard time launching a spot bitcoin ETF, the possibility of such funds now seems more likely than ever after the inauguration of President Donald Trump.\n\nNot only has Trump promised crypto-friendly policies, but after the launch of his own memecoins, TRUMP and MELANIA, it’s become clear that the President himself is a fan of memecoins.",
+    "url": "https://www.coindesk.com/markets/2025/01/28/bitwise-files-to-launch-dogecoin-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Balchunas",
+                "Gray Gensler",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Bloomberg Intelligence senior ETF analyst",
+                "President"
+            ],
+            "companies": [
+                "Bitwise",
+                "Rex Shares",
+                "Osprey Funds"
+            ],
+            "organizations": [
+                "US Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "XRP",
+            "TRUMP",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple ETF filings for memecoins and suggests increased likelihood of approval under the new administration's crypto-friendly policies, indicating positive market sentiment."
+    }
+}

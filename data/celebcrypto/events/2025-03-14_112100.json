@@ -1,0 +1,34 @@
+{
+    "title": "Gold's Historic Rally Leaves Bitcoin Behind, But the Trend May Reverse",
+    "time": "2025-03-14T11:21:00",
+    "author": "James Van Straten",
+    "summary": "Gold rallies on strong ETF inflows, geopolitical uncertainty, and market volatility.",
+    "content": "Spot gold surpassed $3,000 an ounce for the first time before retreating to $2,990. Gold futures for April delivery also broke the $3,000 mark on Thursday.\n\nThe precious metal is now up over 15% this year, driven by strong ETF inflows, geopolitical uncertainty, and continued concerns over U.S. equities amid ongoing tariff discussions by former President Donald Trump.\n\nMeanwhile, gold priced in British pounds has yet to reach its all-time high of £2,363, currently sitting around £300 below that level.\n\nCharlie Morris, founder of ByTree and manager of the BOLD ETF, which includes both bitcoin and gold, has observed a divergence between gold and bitcoin ETFs and expects this trend to reverse soon.\n\n“In the last 30 days, gold ETFs have seen $10 billion in inflows, while bitcoin ETFs have experienced $5 billion in outflows,” Morris noted. “Sooner or later, the flows will reverse again—just as they always do.”\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/gold-s-historic-rally-leaves-bitcoin-behind-but-the-trend-may-change",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charlie Morris",
+                "Donald Trump"
+            ],
+            "positions": [
+                "founder",
+                "manager",
+                "former President"
+            ],
+            "companies": [
+                "ByTree"
+            ],
+            "organizations": [
+                "BOLD ETF",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports bitcoin ETFs have experienced $5 billion in outflows while gold ETFs saw inflows, indicating negative sentiment toward bitcoin."
+    }
+}

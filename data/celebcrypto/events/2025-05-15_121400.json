@@ -1,0 +1,34 @@
+{
+    "title": "DEX Aggregator CoW Swap Targets 33% Trading Boost With Collaboration Feature, More Rewards",
+    "summary": "The new system will let solvers work together to offer traders the best swaps.",
+    "time": "2025-05-15T12:14:00",
+    "author": "Tim Craig",
+    "content": "CoW Swap, a decentralized exchange aggregator, is set to introduce a feature it says will boost the number of transactions it can handle and offer more rewards to those who facilitate trades.\n\nThe feature, called Combinatorial Auctions, will let solvers, those who route trades for the aggregator, work together for the first time to offer traders the best swaps. Aggregators are one-stop shops that search multiple DEXs to find the one that offers the most cost-efficient trades.\n\nCoW Swap's existing system is “rigid because only a single solver can win each auction,” Andrea Canidio, a senior research economist at CoW DAO, told CoinDesk. “Only one can succeed, forcing the other order to wait for the next auction.”\n\nUnder the new system, which passed a DAO vote on Thursday, multiple solvers will be able to propose more efficient solutions to pending orders, if they exist.\n\n“If a combined solution creates shared value for all parties, it wins; otherwise, different solvers can fulfill different orders independently,” Canidio said.\n\nCoW DAO estimates the move could increase order throughput by around 33%. That’s significant, as competition among DEX aggregators heats up.\n\nOver the past week, CoW Swap and rival aggregator 1inch have been neck-and-neck at around $2 billion in trading volume each on Ethereum, according to DefiLlama data. If CoW Swap’s new feature works as predicted and increases trading throughput, it could help it pull ahead.\n\nCoW Swap works differently to most other decentralized exchanges and aggregators. Instead of using liquidity pools to facilitate trades, like Uniswap, it uses a peer-to-peer system. Users submit trades then third parties — solvers — compete to match buyers with sellers efficiently in a single transaction. The main benefit of this system is that it prevents traders falling victim to negative forms of maximal extractable value, or MEV.\n\nWith more solvers able to participate on CoW Swap at the same time, the average rewards they can earn should increase by around 25%, CoW DAO said.\n\nWhile that’s great for solvers, it isn’t so cut and dried for the protocol.\n\nCow Swap solvers are compensated in COW tokens, the protocol’s governance token. If, for example, CoW Swap pays out more in rewards without a commensurate amount of increased trading, it will hurt the protocol’s efficiency.\n\nCanidio said she expects CoW Swap to benefit from higher transaction throughput with “a less-than-proportional rise in solver rewards.”\n\nSimply put, Combinatorial Auctions should make CoW Swap more efficient.\n\nCoW Swap says it expects testing of the new system to start around May 20, and the full launch on all chains to happen around June 3.\n\nRead more: Why One of Uniswap DAO’s Most Outspoken Members Just Walked Away in Frustration",
+    "url": "https://www.coindesk.com/tech/2025/05/15/dex-aggregator-cow-swap-targets-33-trading-boost-with-collaboration-feature-more-rewards",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrea Canidio"
+            ],
+            "positions": [
+                "senior research economist"
+            ],
+            "companies": [
+                "CoW Swap",
+                "1inch",
+                "Uniswap"
+            ],
+            "organizations": [
+                "CoW DAO",
+                "CoinDesk",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "COW",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a new feature expected to increase trading throughput by 33% and boost solver rewards by 25%, indicating positive development and growth potential for CoW Swap."
+    }
+}

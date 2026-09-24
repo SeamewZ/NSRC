@@ -1,0 +1,37 @@
+{
+    "title": "Coinbase CLO Critiques U.S. Treasury's Claim That Court Ruling on Tornado Cash Is Moot",
+    "summary": "Grewal warns that without a final court judgment, there's no assurance that Tornado Cash won't be re-sanctioned in the future.",
+    "time": "2025-03-24T13:24:00",
+    "author": "Omkar Godbole",
+    "content": "Paul Grewal, chief legal officer at crypto exchange Coinbase (COIN), criticized the U.S. Treasury's recent filing that seeks to moot the necessity of a final court judgment regarding Tornado Cash after having delisted the crypto mixer from the sanctions list.\n\nOn Friday, the Treasury Department's sanctions watchdog removed Tornado Cash from its global blacklist while also removing over 100 ether\nETH\n$3,327.59\naddresses from the Specially Designated Nationals list. The platform was backlisted in 2022 for its alleged role in laundering $445 million stolen by the North Korea-linked Lazarus cybercrime group.\n\nThe Treasury then argued that the action of delisting Tornado Cash resolved the issue at hand and that a final court ruling ordering it to remove the crypto mixer from its sanctions list was no longer necessary, according to a court filing dated March 21.\n\nGrewal, however, said the Treasury's attempts to have the case declared moot is an attempt to sidestep a ruling from the Fifth Circuit Court of Appeals that will leave the door open for a renewed blacklisting and sanctions.\n\n\"After grudgingly delisting TC, they now claim they've mooted any need for a final court judgment. But that's not the law, and they know it,\" Grewal said on X. \"Under the voluntary cessation exception, a defendant's decision to end a challenged practice moots a case only if the defendant can show that the practice cannot 'reasonably be expected to recur.'\"\n\nCoinbase funded the court case that made its way to the appeals court, Van Loon vs. Treasury.\n\nGrewal cited the example of the FBI v. Fikre case, in which the government removed Yonas Fikre, a U.S. citizen and Sudanese emigree, from the No Fly List, and argued in court that this action rendered Fikre's lawsuit moot. Fikre had brought a lawsuit alleging that the government unlawfully placed him on the No Fly List.\n\nBut, the Ninth Circuit reversed that decision saying that the party seeking to moot a case based on its own voluntary cessation of challenged conduct must show that the conduct cannot “reasonably be expected to recur.”\n\nIn Tornado Cash's case, the Treasury hasn't provided any assurance that it won't re-sanction the crypto mixer.\n\n\"Here, Treasury has likewise removed the Tornado Cash entities from the SDN, but has provided no assurance that it will not re-list Tornado Cash again. That's not good enough, and will make this clear to the district court,\" Grewal noted.",
+    "url": "https://www.coindesk.com/policy/2025/03/24/coinbase-clo-critiques-u-s-treasury-s-claim-that-court-ruling-on-tornado-cash-is-moot",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Grewal",
+                "Yonas Fikre"
+            ],
+            "positions": [
+                "chief legal officer"
+            ],
+            "companies": [
+                "Coinbase",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Treasury Department",
+                "Fifth Circuit Court of Appeals",
+                "North Korea-linked Lazarus cybercrime group",
+                "Ninth Circuit",
+                "FBI"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses ongoing legal uncertainty about potential future sanctions on Tornado Cash without indicating clear positive or negative market price implications."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "GameStop Tumbles 25% Following Bitcoin Convertible Bond Plan. What's Happening?",
+    "time": "2025-03-27T18:42:00",
+    "author": "Krisztian Sandor",
+    "summary": "The sell-off might have to do with the convertible note pricing, while some speculated that it's a sign of investor disapproval of the bitcoin acquisition plans.",
+    "content": "Shares of GameStop (GME), the embattled video game retailer turned memestock darling, plunged 25% on Thursday, more than erasing all the gains since the company earlier this week announced it will add bitcoin\nBTC\n$104,608.94\nas a treasury reserve asset.\n\nGME fell to just above $21 during the session, trading at its lowest price since October and down over 28% from its Wednesday peak of nearly $30.\n\nThe price action happened after the company unveiled plans late Wednesday for a $1.3 billion, 0% convertible note offering to raise money for its BTC acquisition plan. After an initial wave of euphoria among the crypto crowd, the hype died down on Thursday after investors took a closer look at the financing.\n\n\"Many existing shareholders dislike the move, so a switch is happening with large volume,\" Louis Liu, chief investment officer of Mimesis Capital, said in an X post.\n\nThe sharp sell-off may also have to do with the convertible bond pricing period, as prospective bond buyers might be selling or shorting the stock. James Van Straten, senior analyst at CoinDesk, noted that MicroStrategy (MSTR) and Semler Scientific (SMLR) shares also declined during pricing periods of their convertible note offerings.\n\n\"We suspect that GameStop's share price will drift lower prior to the issuance of the convert, particularly given that a convert investor will receive a zero coupon and will be required to have faith that the GameStop meme phenomenon will persist for another five years,\" said Wedbush analyst Michael Pachter, who has an underperform rating on GME.\n\nPachter argued that the company is following Strategy’s playbook, but MSTR trades at less than twice the value of its bitcoin, while GME trades at more than twice its cash holdings.\n\n\"We expect the offering to fall flat,\" Pachter continued. “We find it hard to understand why any investor would pay more than 2x cash value for the potential for GameStop to convert that cash into BTC, particularly since the same investors can invest in BTC or a BTC ETF themselves.”\n\nGME is only the latest Wall Street firm to convert some of its cash into bitcoin. The trend started with Strategy, the company led by bitcoin proponent Michael Saylor, which years ago announced it would use its cash reserves to buy the cryptocurrency. MSTR’s success following the transition caused many other companies to follow, especially recently as U.S. President Donald Trump has promised to make the U.S. the center for digital asset development.\n\nWhile Saylor has long vouched for more companies, especially those with large cash reserves, and even the U.S. as a country, to adopt bitcoin as a reserve strategy, not everybody agrees.\n\n“Gambling on companies buying Bitcoin is not a good investment strategy,” said well-known bitcoin gadfly Peter Schiff in a post on X. “$GME has lost all of yesterday's Bitcoin-inspired 15% gain. Shares are now down 2% over the two days combined. Now that all the fools have already rushed in, smarter investors are selling as they realize that wasting cash buying Bitcoin is not a viable long-term business model.”",
+    "url": "https://www.coindesk.com/markets/2025/03/27/gamestop-tumbles-25-following-bitcoin-convertible-bond-plan-what-s-happening",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Louis Liu",
+                "James Van Straten",
+                "Michael Pachter",
+                "Michael Saylor",
+                "Peter Schiff"
+            ],
+            "positions": [
+                "chief investment officer",
+                "senior analyst",
+                "analyst",
+                "bitcoin proponent",
+                "well-known bitcoin gadfly"
+            ],
+            "companies": [
+                "GameStop",
+                "Mimesis Capital",
+                "CoinDesk",
+                "MicroStrategy",
+                "Semler Scientific",
+                "Wedbush"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes GameStop's stock plunging 25% following its bitcoin acquisition plan, with analysts and investors expressing disapproval and skepticism about the strategy."
+    }
+}

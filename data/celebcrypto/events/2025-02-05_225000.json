@@ -1,0 +1,56 @@
+{
+    "title": "The Protocol: Ethereum’s Wall Street Cheerleader",
+    "summary": "Also: Arbitrum integrates Bitcoin; UBS tests ZKSync for gold",
+    "time": "2025-02-05T22:50:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, CoinDesk’s Opinion and Features editor.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nETHEREUM’S WALL STREET GUY: Ethereum is facing an identity crisis. Its native token, ether\nETH\n$3,340.48\n, is underperforming against competitors, and longtime builders are beginning to question whether the chain's technology is falling behind – and if its community is losing focus. The Ethereum Foundation, the nonprofit that stewards Ethereum's development, has been blamed for many of the network's struggles. Co-founder Vitalik Buterin is spearheading a massive leadership shake-up at the organization, but his central influence over the process has sparked its own controversy. Meanwhile, rival ecosystems like Solana are capitalizing on the uncertainty, attracting top talent and outpacing ETH in the market. Amid this turbulence, a new project, Etherealize, is aiming to bring ETH to Wall Street. Founded by former banker Vivek Raman, Etherealize seeks to bridge the gap between traditional finance and Ethereum, positioning ETH as a serious asset class. Raman, who spent a decade in banking before discovering crypto, believes his traditional finance background gives him a unique perspective. He has spent the past four years laying the groundwork for Etherealize, choosing to launch in January – a time of heightened market optimism driven by expectations of a crypto-friendly White House, even as Ethereum grapples with internal disputes and price stagnation. In an interview with CoinDesk’s Margaux Nijkerk, Raman talks about how he came to create Etherealize, how that group is marketing ETH on Wall Street and discusses banks’ views on layer-2 rollups. Read more.\n\nAVALANCHE CUTS USER COSTS: The cost of using Avalanche, a DeFi-focused smart-contract blockchain, has slumped since the implementation of the Avalanche9000 upgrade on Dec. 16, sending the number of transactions up by more than a third. Since the upgrade, the proof-of-stake blockchain's usage fees known as gas have averaged roughly 75% less than in the months beforehand, data from Flipside and Bitquery show. The number of transactions has increased by 38% to an average of 354,691 a day. Avalanche, the world's fifth-largest smart-contract blockchain by the market value of its native token AVAX, boasts of a multichain structure of C-Chain, which handles smart contracts, P-Chain for managing staking and validator coordination and X-Chain for processing asset transfers. The upgrade comprised seven improvement proposals, including ACP-125, which lowered the base fee to run smart contracts on the C-Chain to 1 nAVAX from 25 nAVAX. One nAVAX is a billionth of an AVAX. The upgrade also replaced the hefty validator fee of 2,000 AVAX with a monthly subscription of 1 to 10 AVAX, opening doors for projects of all sizes to introduce layer 1 (L1) protocols on Avalanche.The goal of the upgrade was to make every component of the Avalanche tech stack cheaper by reducing C-Chain fees and removing capital requirements for L1 validators, Stephen Buttolph, Ava Labs' chief protocol architect, told Decrypt in November. Read more.\n\nUBS TESTS ZKSYNC: Swiss banking giant UBS said that it completed a proof-of-concept of its UBS Key4 Gold offering on the Ethereum layer-2 network ZKsync. The simulation, which was conducted on a ZKsync test network, is a sign of renewed interest in blockchain technology among traditional financial institutions. This isn’t UBS’ first experiment with blockchain. The bank previously launched a tokenized money market investment fund, uMint, which is also built on Ethereum. UBS’ Key4 Gold is one of the bank's offerings that lets its Swiss clients purchase a direct claim to physical gold. “It allows for fractional gold investments with real-time pricing, deep liquidity, secure physical storage, and optional physical delivery,” the team said in a press release shared with CoinDesk. The project already exists on the bank's private blockchain, the UBS Gold Network, but the team was looking for ways to scale its project while preserving its privacy. “They came to the conclusion that only zero-knowledge made sense for them, and so they wanted to really put this in practice for a product that they already have live and what this could look like if they use the validium instead,” Pearl Imbach, a Senior Business Development Manager at Matter Labs, the main developer firm behind ZKsync, told CoinDesk in an interview. ZKsync is a zero-knowledge rollup, a type of layer 2 scaling system that aims to increase the speed of blockchain transactions and reduce their fees, by using zero-knowledge cryptography. A validum is a different type of layer-2, similar to that of a rollup, but stores the data of those transactions off-chain. The test transaction may signal that UBS could be looking more closely at using layer-2 technologies to power some of its activities. However, the bank didn't say whether they would come out with their own layer-2, and Matter Labs' Imbach told CoinDesk that a rollup might not be the right fit for them. “Is this the right product [for UBS]? Perhaps not, but it is something we're just talking openly about, and thinking about what could actually be a good use case for them,” Imbach told CoinDesk. Read more.\n\nARBITRUM BRINGS BTC: Arbitrum, one of the leading Layer-2 networks, has announced a new integration with Bitcoin through BitcoinOS, a smart contract system for the leading crypto. The integration allows for a “hybrid rollup” providing more ways for bitcoin holders to interact with Ethereum. \"BitcoinOS's integration with Arbitrum demonstrates how our technology can support innovative Bitcoin ecosystem expansion,\" said Nina Rong, Head of Partnerships at Arbitrum Foundation. \"This collaboration showcases Arbitrum's ability to enable trustless bridging and programmability for Bitcoin, while maintaining the network's core security principles. We're excited to see BitcoinOS leverage our network to unlock the massive $2 trillion Bitcoin liquidity pool for DeFi and smart contract applications.\" Arbitrum already has the highest TVL of any Ethereum L2 (about $16 billion) as well as 8,333 Wrapped Bitcoin (WBTC).\n\nTop cats\n\nBitcoin ransom down payments\n\nRegulatory and policy",
+    "url": "https://www.coindesk.com/tech/2025/02/05/the-protocol-ethereum-s-wall-street-cheerleader",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Vitalik Buterin",
+                "Vivek Raman",
+                "Margaux Nijkerk",
+                "Stephen Buttolph",
+                "Nina Rong",
+                "Pearl Imbach"
+            ],
+            "positions": [
+                "CoinDesk’s Opinion and Features editor",
+                "Co-founder",
+                "former banker",
+                "Head of Partnerships at Arbitrum Foundation",
+                "chief protocol architect",
+                "Senior Business Development Manager"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Etherealize",
+                "UBS",
+                "Matter Labs",
+                "Arbitrum Foundation",
+                "Ava Labs",
+                "Flipside",
+                "Bitquery",
+                "Decrypt"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "AVAX",
+            "nAVAX",
+            "WBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights multiple positive developments including institutional adoption (UBS testing ZKSync, Etherealize bridging ETH to Wall Street), technical improvements reducing costs (Avalanche upgrade), and major integrations (Arbitrum with Bitcoin) that collectively suggest growing market confidence and expansion."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin, Ether Rise After Court Nixes Trump's Tariffs",
+    "time": "2025-05-29T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for May 29, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\nrose and stock index futures surged early Thursday after a U.S. court declared President Donald Trump’s broad-based tariffs regime invalid. The positive sentiment was buoyed by AI giant Nvidia's upbeat earnings.\n\nOn-chain data showed large wallets, those holding over 10,000 BTC, have shifted to selling from buying as the largest cryptocurrency holds close to its record high, with an increase in exchange deposits also pointing to selling pressure. Meanwhile, options market data signaled potential for volatility ahead of Friday's monthly settlement.\n\nEther\nETH\n$3,515.90\n, the second-largest cryptocurrency by market value, jumped to $2,780, the highest since Feb. 24, consistent with the bullish signals from the derivatives market. The token has been bid this week, supposedly on SharpLink's $425 million Treasury plan. Notably, U.S.-listed spot ether ETFs saw a net inflow of $84.89 million on Wednesday, extending their streak to eight consecutive days.\n\nCanada-listed investment firm Sol Strategies said it filed a preliminary prospectus with local securities regulators to raise up to $1 billion to boost its investment in the Solana ecosystem. Still, SOL was flattish at around $170.\n\nIn the broader market, TON, PEPE and FLOKI led other coins higher while FARTCOIN, PI and JUP nursed most losses. Open interest in TON perpetual futures surged 33% to $190 million, clocking the highest since Feb. 18.\n\nStablecoin issuer Circle froze wallets connected to the Libra token containing millions of dollars worth of USDC. Metaplanet issued $21M in bonds to finance more bitcoin purchases.\n\nIn traditional markets, some investment banks said Trump has other tools to sidestep the court ruling on tariffs. Yields on the longer duration Treasury notes ticked higher, suggesting dollar strength. Stay alert!\n\nBy Oliver Knight\n\nSpot BTC ETFs\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/29/crypto-daybook-americas-bitcoin-ether-rise-after-court-nixes-trump-s-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump",
+                "Oliver Knight"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Nvidia",
+                "SharpLink",
+                "Sol Strategies",
+                "Metaplanet",
+                "Circle",
+                "Farside Investors"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "SOL",
+            "TON",
+            "PEPE",
+            "FLOKI",
+            "FARTCOIN",
+            "PI",
+            "JUP",
+            "Libra",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin and Ether rising, positive sentiment from court ruling and Nvidia earnings, ether ETFs seeing net inflows, and several altcoins leading gains."
+    }
+}

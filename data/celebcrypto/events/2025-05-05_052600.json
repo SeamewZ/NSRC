@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Hovers Above $94K as Market Awaits News on U.S.- China Trade Deal",
+    "summary": "The market is cautiously optimistic that a deal can be reached and traders are taking a breather.",
+    "time": "2025-05-05T05:26:00",
+    "author": "Sam Reynolds",
+    "content": "Bitcoin\nBTC\n$102,012.78\nopened the trading week flat above $94,000 as traders waited for news from Beijing on the progress of a trade deal with the U.S.\n\nThe CoinDesk 20 (CD20), a measure of the performance of major digital assets, was down 1.5%, trading below 2,700.\n\n\"XRP and Bitcoin bounced back from the tariff shocks in April, but have yet to make a significant movement upwards,\" Nick Ruck, director at LVRG Research, told CoinDesk in a Telegram message. \"Investors may be overly cautious about risk assets such as crypto due to the current US macroeconomic climate, despite Bitcoin's trend breaking away from its correlation with US equities.\"\n\nMajor markets in Asia were closed on Monday, with Hong Kong, mainland China, Japan, and Korea closed, leading to thin liquidity and trading volumes.\n\nA potential thaw in U.S.–China trade relations dominated macro headlines. Over the weekend, China’s Commerce Ministry said it was reviewing a U.S. proposal to resume negotiations, while President Trump hinted Beijing “wanted to do a deal.”\n\n\"We remain optimistic that crypto prices will surge to new highs in the long term as institutional adoption continues to deepen with Real World Asset (RWA) launches and integrations with crypto-native platforms,\" Ruck added.\n\nPolymarket bettors are skeptical, however, with prediction markets giving a 21% chance that a trade deal will be reached by June, and a 47% chance the White House will lower tariffs by the end of May.\n\nAlthough details were vague on this potential trade deal, markets took notice. The Chinese yuan strengthened to a six-month high near ¥7.19, while regional currencies rallied.\n\nThe standout mover was the New Taiwan Dollar (NTD), which surged to a two-year high around NT$29.6 per U.S. dollar as last week ended.\n\nThe spike was driven by $1.4 billion (NT$42.9 billion) in foreign equity inflows and surging confidence in Taiwan’s tech sector after TSMC reported a 60% jump in quarterly profits. Taiwan’s central bank intervened to curb volatility but denied political pressure, calling the move market-driven.\n\nFurther compounding BTC's relative stagnation is that its encountering significant resistance as it tests key technical and on-chain levels, according to a recent report by Glassnode.\n\nBitcoin is struggling to break through the $93,000–$95,000 range, an area aligned with both the short-term holder cost basis and the 111-day moving average, marking a crucial battleground for market momentum, the report argues.\n\n\"These levels represent a critical inflection point that must be upheld. Failure to stabilize above these levels would push the price back into the consolidation range, and return many investors to a state of meaningful unrealized loss,\" the report reads.\n\nHowever, above $100,000, there is less sell-side pressure due to a smaller volume of coins in that range. If bitcoin can overcome the resistance around $95,000-$98,000 it could enter a relatively clear path toward new price discovery and possibly a new all-time high, the report added.",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-hovers-above-94k-as-market-awaits-news-on-us-china-trade-deal",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Ruck",
+                "President Trump"
+            ],
+            "positions": [
+                "director"
+            ],
+            "companies": [
+                "LVRG Research",
+                "TSMC"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Commerce Ministry",
+                "White House",
+                "Glassnode",
+                "Polymarket"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market is described as waiting for news, with Bitcoin hovering in a tight range and facing technical resistance while investors remain cautious despite long-term optimism."
+    }
+}

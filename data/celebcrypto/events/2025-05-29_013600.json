@@ -1,0 +1,42 @@
+{
+    "title": "Asia Morning Briefing: All Eyes on TON as Elon Musk Pours Cold Water on xAI Deal Talks",
+    "summary": "PLUS: BlueSky's Jay Graber says decentralization has a place in her growing social network, but not blockchain or crypto. Trump administration goes to court over trade dispute.",
+    "time": "2025-05-29T01:36:00",
+    "author": "Sam Reynolds",
+    "content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.\n\nTelegram's blockbuster deal with xAI, which would see Elon Musk's AI company integrate into Telegram and the two firms share revenue, is still a work in progress despite an announcement from Pavel Durov earlier Wednesday, U.S. time, that the deal was inked.\n\nTON, a token affiliated with Telegram's ecosystem, is trading at $3.30, rallying there from $3 after the initial – now refuted – announcement of the partnership was made. The token is down from an earlier high of $3.68, after Elon Musk posted on X that no deal had been signed between the two companies. TON is still up 11% on the day, according to CoinDesk market data.\n\nWhile Durov has now confirmed that no deal has been signed, the Telegram founder said there is an \"agreement in principle\" which might be why TON still has significant support at the $3.30.\n\nAll eyes will be on Telegram and xAI as the Asia business day begins to see if more clarification comes from either side.\n\nVANCOUVER—Jay Graber, the CEO of fast-growing decentralized social media platform Bluesky, got her start in Web3 as a developer for privacy coin zCash, but she wants to keep her X competitor firmly in Web2.\n\nSpeaking at Web Summit in Vancouver on Wednesday, Graber argued blockchain technology’s permanence and resource-intensive design make it unsuitable for consumer-oriented social networks, where content is fleeting and personal.\n\n“Why do you need your picture of what you post for lunch being maintained forever in this digital archive?” she asked on stage, highlighting the inherent scalability and cost limitations that drove her decision to avoid blockchain at Bluesky.\n\nGraber, to be sure, isn't against crypto. She says there's still genuine value in the technology for things like payments and digital identity, even if sometimes Web3 often presents solutions in search of a problem, and has a trend of gravitating towards centralization.\n\n“There’s a period where everyone was creating blockchain like this hammer, and we were just going to try blockchain for everything,” Graber said. “Every system that's trying to do it ends up with concentrations because it's easy, and convenience ultimately wins at the end of the day.\"\n\nFor her, Bluesky's future lies in combining the ideals of decentralization, such as user autonomy and portability, with practical, Web2 infrastructure to create a platform that prioritizes users' needs.\n\n\"Blockchain will probably find its place somewhere in the world of technology, but Bluesky is not on a blockchain because we're just making the best choices for our users,” she concluded.\n\nShares of Nvidia rose roughly 4% in after-hours trading Wednesday after reporting stronger-than-expected first-quarter earnings, highlighted by a 69% revenue increase from last year and a 73% jump in its data center business driven by robust demand for AI chips. Net income rose 26% to $18.8 billion, boosting Nvidia’s year-to-date performance modestly higher, CoinDesk previously reported.\n\nThe earnings report provided a slight lift to AI-related crypto tokens like\nTAO\n$392.76\n, NEAR Protocol, and\nICP\n$5.0465\n, though gains were modest.\n\nHowever, Nvidia tempered future expectations, cautioning that second-quarter revenue might fall short of market estimates due to tariff-related trade tensions between the U.S. and China.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/asia-morning-briefing-all-eyes-on-ton-as-elon-musk-pours-cold-water-on-xai-deal-talks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk",
+                "Pavel Durov",
+                "Jay Graber"
+            ],
+            "positions": [
+                "CEO",
+                "founder",
+                "developer"
+            ],
+            "companies": [
+                "xAI",
+                "Telegram",
+                "Bluesky",
+                "Nvidia",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Trump administration",
+                "Web Summit"
+            ]
+        },
+        "cryptocurrencies": [
+            "TON",
+            "zCash",
+            "TAO",
+            "NEAR Protocol",
+            "ICP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed signals with TON rallying then pulling back after Musk's clarification, AI tokens getting a slight lift from Nvidia earnings, and Bluesky's CEO expressing blockchain skepticism, resulting in overall unclear market direction."
+    }
+}

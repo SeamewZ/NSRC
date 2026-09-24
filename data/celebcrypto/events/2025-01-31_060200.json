@@ -1,0 +1,37 @@
+{
+    "title": "Sam Bankman-Fried’s Parents Seek Presidential Pardon for Their Son: Report",
+    "summary": "Joseph Bankman and Barbara Fried have engaged with individuals connected to Trump's inner circle to discuss potential clemency for their 32-year-old son.",
+    "time": "2025-01-31T06:02:00",
+    "author": "Shaurya Malwa",
+    "content": "The parents of prisoned crypto fraudster Sam Bankman-Fried are reportedly exploring how to secure a presidential pardon from President Donald Trump for their son, according to a Bloomberg report.\n\nJoseph Bankman and Barbara Fried, both professors at Stanford Law School and part of FTX’s inner circle, are reportedly engaging with individuals connected to Trump's inner circle, according to the report.\n\nIn recent weeks SBF's parents have tried to engage with the Trump administration to discuss potential clemency for their 32-year-old son, who was handed a 25-year prison sentence after being convicted of fraud. The specifics of whether direct communications with the White House have occurred remain unclear, per Bloomberg.\n\nThe appeal for a pardon leans on Trump's recent history of using his clemency powers to free widely-supported individuals, such as Silk Road founder Ross Ulbricht. Unlike Ulbricht, however, Bankman-Fried lacks widespread public support, though he argues his sentence is excessively harsh, especially since most FTX customers have recovered their financial losses.\n\nThe recovery is based on the crypto-owned by the customers at the time of FTX's demise.\n\nBankman-Fried's FTX, formerly the world's third largest crypto exchange, went bust in November 2022 after a CoinDesk scoop said the platform's sister concern, Alameda Research, was on shaky financial footing.\n\nIt was later found that Alameda used backdoor code to raid billions in customer funds from FTX — an arrangement helmed by Bankman-Fried and other Alameda founding members.\n\nThe once-crypto titan has since been sentenced to 25 years in prison and ordered to forfeit $11 billion after getting convicted of seven counts of fraud, conspiracy, and money laundering.",
+    "url": "https://www.coindesk.com/policy/2025/01/31/sam-bankman-fried-s-parents-seek-presidential-pardon-for-their-son-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Bankman-Fried",
+                "Joseph Bankman",
+                "Barbara Fried",
+                "Donald Trump",
+                "Ross Ulbricht"
+            ],
+            "positions": [
+                "President",
+                "professors at Stanford Law School",
+                "Silk Road founder"
+            ],
+            "companies": [
+                "FTX",
+                "Alameda Research",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Stanford Law School",
+                "Trump administration",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses legal proceedings and pardon efforts related to past FTX fraud, with no direct mention of current market price movements or immediate market implications."
+    }
+}

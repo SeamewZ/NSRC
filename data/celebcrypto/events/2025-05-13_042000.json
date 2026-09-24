@@ -1,0 +1,46 @@
+{
+    "title": "What to Expect at Consensus 2025",
+    "time": "2025-05-13T04:20:00",
+    "author": "Benjamin Schiller",
+    "summary": "CoinDesk’s annual event kicks off this Wednesday in Toronto.",
+    "content": "How is crypto changing the face of finance? What’s next for stablecoins, tokenization, and Web 3 marketing? How will digital assets be regulated in the future?\n\nThese are just some of the questions up for debate as Consensus 2025 kicks off in Toronto this Wednesday. Staged this year at the Metro Toronto Convention Center, crypto’s oldest “big tent” event gets underway at a pivotal moment for the industry.\n\nCrypto is front-and-center in the national conversation and this year’s event will feature many names making news and making waves.\n\nEric Trump, whose mining startup, American Bitcoin, this morning announced that it plans to go public, is a headline speaker on Thursday.\n\nWe’ll hear from Bo Hines, head of the Presidential Council of Advisers for Digital Assets, on the White House strategy to pass legislation on crypto this year.\n\nDave Portnoy, founder of Barstool Sports, will sit for a fireside chat to discuss crypto culture, memecoins and the future of investing.\n\nThere’s an Open Money Summit featuring the biggest names in DeFi, a Brand and Creator Summit for companies positioning themselves for the next phase of the internet, and an AI Summit with a packed schedule of speakers at the intersection of AI and blockchain.\n\nOther headline speakers include Chris Pavlovski (Rumble), Charles Hoskinson (Cardano), Kevin O’Leary (Shark Tank), Adrienne Harris (NYDFS), Justin Sun, David Goyer and dozens more from across the crypto and blockchain industry.\n\nOur Explorations stage will have in-depth discussions on hot topics such as DePIN, crypto policy, staking, advanced trading, and Canada’s Web3 future.\n\nWe’ll also have a Hackathon (organized with EasyA), Pitchfest, a Research Symposium (with IEEE), a showing of the movie \"Vitalik: An Ethereum Story\" with the director (and special guests) and dozens of side-events and parties to attend across Toronto.\n\nFor coverage of Consensus 2025 including interviews with speakers, see here.\nThe full agenda can be found here.\n\nVisit CoinDesk.com for a livestream and ongoing coverage of all the news, rumors and gossip from crypto’s annual gathering.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/13/what-to-expect-at-consensus-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Trump",
+                "Bo Hines",
+                "Dave Portnoy",
+                "Chris Pavlovski",
+                "Charles Hoskinson",
+                "Kevin O'Leary",
+                "Adrienne Harris",
+                "Justin Sun",
+                "David Goyer"
+            ],
+            "positions": [
+                "head of the Presidential Council of Advisers for Digital Assets",
+                "founder of Barstool Sports"
+            ],
+            "companies": [
+                "American Bitcoin",
+                "Barstool Sports",
+                "Rumble",
+                "Cardano",
+                "Shark Tank",
+                "EasyA"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "White House",
+                "NYDFS",
+                "IEEE"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The event features high-profile speakers discussing crypto adoption, regulatory progress, and industry growth, indicating positive momentum and market confidence."
+    }
+}

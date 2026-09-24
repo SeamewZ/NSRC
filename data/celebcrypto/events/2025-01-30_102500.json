@@ -1,0 +1,32 @@
+{
+    "title": "Avalanche Blockchain's December Upgrade Cut Usage Fees by 75%",
+    "summary": "The upgrade was designed to make Avalanche cheaper. It worked.",
+    "time": "2025-01-30T10:25:00",
+    "author": "Omkar Godbole",
+    "content": "The cost of using Avalanche, a DeFi-focused smart-contract blockchain, has slumped since the implementation of the Avalanche9000 upgrade on Dec. 16, sending the number of transactions up by more than a third.\n\nSince the upgrade, the proof-of-stake blockchain's usage fees known as gas have averaged roughly 75% less than in the months beforehand, data from Flipside and Bitquery show. The number of transactions has increased by 38% to an average of 354,691 a day.\n\nAvalanche, the world's fifth-largest smart-contract blockchain by the market value of its native token AVAX, boasts of a multichain structure of C-Chain, which handles smart contracts, P-Chain for managing staking and validator coordination and X-Chain for processing asset transfers.\n\nThe upgrade comprised seven improvement proposals, including ACP-125, which lowered the base fee to run smart contracts on the C-Chain to 1 nAVAX from 25 nAVAX. One nAVAX is a billionth of an AVAX.\n\nThe upgrade also replaced the hefty validator fee of 2,000 AVAX with a monthly subscription of 1 to 10 AVAX, opening doors for projects of all sizes to introduce layer 1 (L1) protocols on Avalanche.\n\nThe goal of the upgrade was to make every component of the Avalanche tech stack cheaper by reducing C-Chain fees and removing capital requirements for L1 validators, Stephen Buttolph, Ava Labs' chief protocol architect, told Decrypt in November.",
+    "url": "https://www.coindesk.com/tech/2025/01/30/avalanche-blockchain-s-december-upgrade-cut-usage-fees-by-75",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Stephen Buttolph"
+            ],
+            "positions": [
+                "chief protocol architect"
+            ],
+            "companies": [
+                "Ava Labs"
+            ],
+            "organizations": [
+                "Flipside",
+                "Bitquery"
+            ]
+        },
+        "cryptocurrencies": [
+            "Avalanche",
+            "AVAX",
+            "nAVAX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The upgrade significantly reduced usage fees by 75% and increased transaction volume by 38%, indicating positive network adoption and improved accessibility."
+    }
+}

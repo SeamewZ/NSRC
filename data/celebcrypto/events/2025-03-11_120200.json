@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin's $100K Call Takes the Crown From $120K Bet as Most Popular Options Play on Deribit",
+    "time": "2025-03-11T12:02:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders opt for a more conservative bet, reassessing their expectations in the wake of the recent price sell-off.",
+    "content": "The recent crypto market downturn has caused the once-popular $120,000 bitcoin\nBTC\n$104,293.00\noptions bet to lose its crown to the $100,000 bet in a sign that traders are reassessing their bullish expectations.\n\nAt press time, the $100,000 call was the most popular BTC options contract on the exchange, boasting a notional open interest of $1.55 billion. The notional open interest represents the dollar value of the number of active option contracts at a given time.\n\nMeanwhile, the $120,000 call, the former leader up until last month, stood at the number two position, with a notional open interest of $1.33 billion.\n\nA call gives the purchaser the right but not the obligation to purchase the underlying asset at a predetermined price at a later date. A call buyer is implicitly bullish on the market. Hence, a significant built-up of open interest in higher strike out-of-the-money calls, such as $100,000 and $120,000, reflects bullish expectations.\n\nThe shift lower in the most preferred call to the $100,000 strike likely shows traders opting for a more conservative bet in the wake of the recent price crash to under $80,000. Additionally, it may signal a broader reassessment of bullish sentiment.\n\nThe 25-delta risk reversals, which measure the difference between implied volatility (demand) for higher strike calls relative to lower strike puts, show negative readings or bias for protective put options out to the May end expiry. It's representative of fears of an extended price slide in the market.\n\nThe pricing remains bullish in favor of call options after May. Besides, the dollar value of the total number of calls open at press time was over $16 billion – nearly twice more than $8.35 billion in put options.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/bitcoin-s-usd100k-call-takes-the-crown-from-usd120k-bet-as-most-popular-options-play-on-deribit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Deribit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes traders shifting to more conservative bets due to recent price sell-off, with risk reversals showing negative readings and bias for protective puts indicating fears of extended price slide."
+    }
+}

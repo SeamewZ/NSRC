@@ -1,0 +1,27 @@
+{
+    "title": "Coinbase Stock Decline Can't Stop Highly Leveraged Long ETF Rollouts",
+    "time": "2025-03-15T17:43:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The ETF allows investors to capitalize on the volatility of Coinbase's stock without directly holding shares.",
+    "content": "Leverage Shares by Themes has launched a new exchange-traded fund (ETF) tied to the Nasdaq-listed cryptocurrency exchange Coinbase (COIN) stock despite a downturn in the crypto-related shares.\n\nThe Leverage Shares 2X Long Coinbase Daily ETF (COIG) is designed to deliver twice the daily return of Coinbase’s stock price, offering traders an amplified exposure to the U.S.’s largest cryptocurrency exchange. The ETF, which carries an expense ratio of 0.75%, is listed on Nasdaq, according to a press release.\n\nThe launch comes amid a significant cryptocurrency market downturn that saw bitcoin\nBTC\n$104,591.22\ndrop by around 19% over the last three months, from over $105,000 to now stand at wrought $84,000. COIN shares saw even worse performance, losing nearly 42% of their value during the same period.\n\nThe new ETF allows investors to take advantage of Coinbase’s stock performance volatility without directly holding shares.\n\nThese types of single-stock leveraged ETFs, for both longs and shorts sides, are typically used for short-term trading due to the high levels of risks associated with daily compounding. The profits and losses for both types of these are amplified when the prices of the underlying stocks move significantly.\n\nRead more: Leveraged ETFs Tied to Strategy See Trading Volume Surge as Bitcoin-HODLer MSTR Teeters on 200-Day Average",
+    "url": "https://www.coindesk.com/markets/2025/03/15/coinbase-stock-decline-can-t-stop-highly-leveraged-long-etf-rollouts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase",
+                "Leverage Shares",
+                "Leverage Shares by Themes",
+                "Nasdaq"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a significant cryptocurrency market downturn with bitcoin dropping 19% and Coinbase shares losing 42% of their value over the last three months."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Hackers Are Using Fake GitHub Code to Steal Your Bitcoin: Kaspersky",
+    "summary": "The attack starts with seemingly legitimate GitHub projects — like making Telegram bots for managing bitcoin wallets or tools for computer games.",
+    "time": "2025-02-26T06:29:00",
+    "author": "Shaurya Malwa",
+    "content": "The GitHub code you use to build a trendy application or patch existing bugs might just be used to steal your bitcoin\nBTC\n$102,205.43\nor other crypto holdings, according to a Kaspersky report.\n\nGitHub is popular tool among developers of all types, but even more so among crypto-focused projects, where a simple application may generate millions of dollars in revenue.\n\nThe report warned users of a “GitVenom” campaign that’s been active for at least two years but is steadily on the rise, involving planting malicious code in fake projects on the popular code repository platform.\n\nThe attack starts with seemingly legitimate GitHub projects — like making Telegram bots for managing bitcoin wallets or tools for computer games.\n\nEach comes with a polished README file, often AI-generated, to build trust. But the code itself is a Trojan horse: For Python-based projects, attackers hide nefarious script after a bizarre string of 2,000 tabs, which decrypts and executes a malicious payload.\n\nFor JavaScript, a rogue function is embedded in the main file, triggering the launch attack. Once activated, the malware pulls additional tools from a separate hacker-controlled GitHub repository.\n\n(A tab organizes code, making it readable by aligning lines. The payload is the core part of a program that does the actual work — or harm, in malware’s case.)\n\nOnce the system is infected, various other programs kick in to execute the exploit. A Node.js stealer harvests passwords, crypto wallet details, and browsing history, then bundles and sends them via Telegram. Remote access trojans like AsyncRAT and Quasar take over the victim’s device, logging keystrokes and capturing screenshots.\n\nA “clipper” also swaps copied wallet addresses with the hackers’ own, redirecting funds. One such wallet netted 5 BTC — worth $485,000 at the time — in November alone.\n\nActive for at least two years, GitVenom has hit users hardest in Russia, Brazil, and Turkey, though its reach is global, per Kaspersky.\n\nThe attackers keep it stealthy by mimicking active development and varying their coding tactics to evade antivirus software.\n\nHow can users protect themselves? By scrutinizing any code before running it, verifying the project’s authenticity, and being suspicious of overly polished READMEs or inconsistent commit histories.\n\nBecause researchers don’t expect these attacks to stop anytime soon: “We expect these attempts to continue in the future, possibly with small changes in the TTPs,” Kaspersky concluded in its post.",
+    "url": "https://www.coindesk.com/tech/2025/02/26/hackers-are-using-fake-github-code-to-steal-your-bitcoin-kaspersky",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Kaspersky"
+            ],
+            "organizations": [
+                "GitHub"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach where hackers are stealing bitcoin and other cryptocurrencies through malicious code, which creates negative sentiment and potential losses for crypto holders."
+    }
+}

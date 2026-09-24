@@ -1,0 +1,33 @@
+{
+    "title": "Saylor Teases New Bitcoin Buy After Strategy’s $7.69 Billion Q1 Buying Spree",
+    "summary": "Strategy paused BTC buys as bitcoin tumbled in Q1, but Saylor signaled additional purchases may be coming.",
+    "time": "2025-04-13T18:12:00",
+    "author": "Francisco Rodrigues",
+    "content": "Bitcoin\nBTC\n$101,682.65\nproponent Michael Saylor has hinted the company he co-founded, Strategy (MSTR), may be set to announce an additional BTC purchase this week shortly after revealing it expects a net loss in the first quarter of the year over unrealized losses on its massive BTC holdings.\n\nThe company has added 80,785 BTC to its balance sheet since the beginning of the year after raising a total of $7.69 billion during the first quarter, with over half of that coming from common stock sales. Most, if not all, of those funds were used to buy bitcoin.\n\nOn Sunday, Saylor posted a BTC holdings tracker to X, a move that typically precedes a purchase announcement, commenting there are “no tariffs on orange dots.” The comment implies the company’s BTC purchases were unaffected by the reciprocal tariffs Donald Trump introduced earlier this month and the ensuing U.S.-China trade war.\n\nThe company paused its buying during the week ending April 6. Its crypto stash is currently worth roughly $44.59 billion, and was acquired for $35.63 billion.\n\nStrategy currently holds 528,185 BTC bought at an average price of $67,458 according to Bitcointreasuries data equivalent to 2.515% of the cryptocurrency’s total supply.",
+    "url": "https://www.coindesk.com/markets/2025/04/13/saylor-teases-new-bitcoin-buy-after-strategy-s-usd7-69-billion-q1-buying-spree",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Donald Trump"
+            ],
+            "positions": [
+                "co-founded"
+            ],
+            "companies": [
+                "Strategy",
+                "MSTR"
+            ],
+            "organizations": [
+                "X",
+                "Bitcointreasuries"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates potential additional Bitcoin purchases by a major institutional holder, which typically signals market confidence and buying pressure."
+    }
+}

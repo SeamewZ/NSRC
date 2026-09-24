@@ -1,0 +1,33 @@
+{
+    "title": "Coinbase’s Layer 2 System Base Gets a Marketplace Linked to Gas Revenue",
+    "time": "2025-01-14T13:00:00",
+    "author": "Ian Allison",
+    "summary": "Dragonfly-backed startup Alkimiya unveils a DeFi market for betting on the price of blockspace on the Base rollup.",
+    "content": "The runaway success of Base, the Coinbase-owned Ethereum overlay blockchain designed for faster, cheaper transactions, has prompted the creation of a market linked to the fluctuating cost of the total gas needed to power the network, allowing speculators to bet on recurring utility spikes on the layer 2 system.\n\nTaking a cue from the way traders speculate and hedge in traditional energy markets, Alkimiya, a startup backed by Coinbase Ventures as well as firms like Dragonfly and Castle Island Ventures, enables users to go long or short on the cost of transactions being included in blocks, or “blockspace” – a representation of the storage and computational capacity of a blockchain.\n\n“Paying for blockspace is like paying for other energy sources, such as cars paying for petrol or aeroplanes paying for jet fuel,” said Alkimiya founder Leo Zhang in an interview. “Traditional energy markets have developed that allow airlines to hedge against their jet fuel price, for example, and we think there should be a better price discovery mechanism for how people price and use this core energy resource, which is blockspace.”\n\nLaunched in August 2023, Base has outperformed its layer 2 rivals, generating over $14 million in the last month. Increased activity on Base means the cumulative gas paid to the network can fluctuate dramatically, from as low as 10 ETH to as high as 200 ETH in a single day.\n\nUnlike many other blockchains, Base does not have a token and has no plans to issue one. Alkimiya’s smart contracts allow users to bet on how the cost of Base blockspace might fluctuate thanks to the introduction of AI agents, for instance, or on-chain events like the arrival of a particular memecoin, NFT or airdrop.\n\nUnder the hood, Alkimiya uses a very common decentralized finance (DeFi) architecture where an oracle tracks the gas being consumed by users on Base, and a system of smart contracts facilitate the accounting and logic, Zhang explained.\n\n“A user can purchase this contract that tracks the total amount of gas paid to the Base roll up itself,” Zhang said. “And the reason this is doable is because it’s entirely transparent. There's no centralized exchange where everything is in a black box.”",
+    "url": "https://www.coindesk.com/business/2025/01/14/coinbase-s-layer-2-system-base-gets-a-marketplace-linked-to-gas-revenue",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Leo Zhang"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Coinbase",
+                "Alkimiya",
+                "Dragonfly",
+                "Castle Island Ventures"
+            ],
+            "organizations": [
+                "Coinbase Ventures"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Base's 'runaway success' generating over $14 million in revenue and the creation of new DeFi markets, indicating positive market development and innovation."
+    }
+}

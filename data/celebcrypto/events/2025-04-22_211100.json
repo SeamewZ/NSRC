@@ -1,0 +1,44 @@
+{
+    "title": "Bitcoin Tops $93K as Trump's U.S-China Tariff Optimism Fuels Crypto Rally",
+    "summary": "Altcoins led by ETH, DOGE, SUI followed BTC higher as Treasury Secretary Bessent's comments on U.S.-China trade boosted risk appetite.",
+    "time": "2025-04-22T21:11:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin\nBTC\n$101,998.62\nsurged past $93,000 on Tuesday afternoon, climbing nearly 7% amid renewed investor optimism and fresh hopes of a thaw in U.S.-China trade tensions, but headwinds persist that could cap further upside, analytics firm CryptoQuant cautioned.\n\nMarkets were buoyed by morning remarks from U.S. Treasury Secretary Scott Bessent, who reportedly told investors at a closed-door JPMorgan event that the tariff standoff with China was unsustainable. Bessent said de-escalation would come “in the very near future,” characterizing current conditions as a “trade embargo.” However, he cautioned that a more comprehensive deal between the two nations could take even years.\n\nThen President Trump, speaking to reporters in the White House later in the afternoon, said that U.S. tariffs on China \"will come down substantially\" from the current 145% level, allaying concerns of a spiraling trade war.\n\nHe also added that he has no intention of firing Federal Reserve Chair Jerome Powell, following recent pressure on the head of the U.S. central bank to lower interest rates.\n\nThe largest crypto by market capitalization rose just shy of $93,400 following Trump's comments, its strongest price since early March. Altcoins followed BTC higher, with Ethereum's ether\nETH\n$3,341.49\nrising 8% over the past 24 hours above $1,700, and\nDOGE\n$0.1656\nand Sui's native token (SUI) gaining 8.6% and 11.7%, respectively. The broad-market crypto benchmark CoinDesk 20 Index advanced 5.2%.\n\nStocks recovered from yesterday's decline, with the S&P 500 and the tech-heavy Nasdaq finishing the session 2.5% and 2.7% higher, respectively. Gold, meanwhile, sharply reversed from its record price of $3,500 during the day and was down 1%.\n\n\"As capital rotates into safe-haven and inflation-hedging assets, BTC and gold are proving to be key beneficiaries of the exodus from USD risk,\" analysts at hedge fund QCP Capital said in a Telegram broadcast.\n\nThey highlighted rejuvenating inflows to spot U.S.-listed BTC ETFs and the return of the so-called Coinbase price premium, suggesting demand from American institutional investors. BTC ETF booked over $381 million net inflows on Monday adding to Thursday's $107 million, according to Farside Investors data.\n\nBut not all signs point to a sustained breakout.\n\nDespite the price jump, on-chain data points to fragility beneath the surface, CryptoQuant analysts said in a Tuesday report.\n\nBitcoin’s apparent demand has decreased by 146,000 BTC over the past 30 days—an improvement from the sharp drop in March, but still negative. CryptoQuant's demand momentum metric, which tracks new investor interest, has deteriorated further to its most bearish level since October 2024, the report noted.\n\nMarket liquidity remains soft, with the report using USDT's market cap growth as a proxy for crypto liquidity. USDT grew $2.9 billion over the past two months, below its 30-day average. Historically, BTC rallies coincided with USDT growth above $5 billion, a threshold not yet met.\n\nAdding to the caution, bitcoin is now facing a key resistance zone between $91,000 and $92,000 at around the \"Trader’s On-chain Realized Price\" metric, a level that has often served as resistance in bearish conditions. CryptoQuant's on-chain bull score classified current market conditions as bearish, suggesting a pause or pullback could follow if sentiment weakens.\n\nUPDATE (April 22, 21:42 UTC): Adds President Trump's comments on U.S.-China trade from a press conference and following price action.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/bitcoin-tops-usd91k-as-trade-optimism-fuels-crypto-rally-but-demand-headwinds-remain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Jerome Powell",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "President",
+                "Federal Reserve Chair",
+                "Treasury Secretary"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Coinbase",
+                "CryptoQuant",
+                "QCP Capital",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Federal Reserve",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "DOGE",
+            "SUI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin surging nearly 7% past $93,000 with altcoins following higher, driven by positive trade optimism and institutional ETF inflows."
+    }
+}

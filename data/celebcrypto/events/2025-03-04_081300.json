@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Price Support Near $82K Under Threat as Nasdaq Triggers 'Double Top'",
+    "time": "2025-03-04T08:13:00",
+    "author": "Omkar Godbole",
+    "summary": "The technical outlook has worsened for both BTC and Nasdaq.",
+    "content": "Research service Ecoinometrics stated on Monday that bitcoin's\nBTC\n$103,808.19\nlong-term recovery is closely tied to the Nasdaq's ability to trend upward, highlighting the significant positive correlation between the two.\n\nUnfortunately for crypto bulls, the Nasdaq triggered a major bearish reversal pattern known as a \"double top\" on Monday, putting BTC's 200-day simple moving average (SMA) support at risk.\n\nBitcoin, the leading cryptocurrency by market value, has dropped over 10% in the past 24 hours, reversing Sunday's price rally to $95,000. At one point early today, prices tested the 200-day SMA support at $82,587, as shown by data from the charting platform TradingView.\n\nThe 200-day SMA is commonly regarded as a key indicator of long-term trends, with price declines below this level often interpreted as a signal of potential significant losses ahead.\n\nThe possibility of BTC's price moving below the long-term average cannot be ruled out, as Wall Street's tech-heavy Nasdaq fell 2.2% Monday, triggering a double top breakdown.\n\nThe double top comprises two peaks separated by a trough and takes roughly two to six weeks to form. The gap between the two peaks must be equal to or less than 5%, with the spread between peaks and the trough being at least 10%, according to technical analysis theory.\n\nThese are guidelines and not rules; the backdrop is more important, meaning the pattern should appear after a prolonged uptrend to be valid, which is the case with Nasdaq.\n\nNasdaq has formed two peaks near $22,200 since mid-December, with a trough at $20,538. The index ended Tuesday below the trough support, confirming the double-top bearish reversal pattern.\n\nPer technical analysis theory, the subsequent decline could be at least 70% of the distance between the peaks and the trough, which means the Nasdaq could go as low as 19,400. The pattern's historical failure rate is 11%, according to CMT's analysis books. This means that breakdowns lead to deeper losses more often than not.\n\nBoth Nasdaq and BTC lost bullish momentum in December and have since topped out to trade close to their respective 200-day averages.\n\nBelow the 200-day SMA, the next support for bitcoin is seen directly at the former record high (resistance)-turned-support at $73,757.",
+    "url": "https://www.coindesk.com/markets/2025/03/04/bitcoin-s-200-day-average-support-under-threat-as-nasdaq-triggers-double-top",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ecoinometrics",
+                "TradingView",
+                "CMT"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping over 10%, testing key support levels, and being threatened by a bearish Nasdaq double-top pattern that could lead to deeper losses."
+    }
+}

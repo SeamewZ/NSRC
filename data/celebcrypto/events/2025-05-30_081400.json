@@ -1,0 +1,44 @@
+{
+    "title": "Dogecoin Dives 9%; Cardano’s ADA, SOL Slump 6% as Renewed Tariff Fears Jolt Markets",
+    "summary": "A fast-moving legal reversal saw the U.S. Court of Appeals for the Federal Circuit issue a temporary stay on Wednesday’s lower court ruling that had struck down the tariffs.",
+    "time": "2025-05-30T08:14:00",
+    "author": "Shaurya Malwa",
+    "content": "Dogecoin\nDOGE\n$0.1648\nnosedived 9%, while Cardano’s ADA\nADA\n$0.5333\nand Solana’s SOL\nSOL\n$157.15\neach fell 6% in the past 24 hours as Trump’s reinstated tariffs reignited trade tensions.\n\nA swift legal reversal saw the U.S. Court of Appeals for the Federal Circuit issue a temporary stay on Wednesday’s lower court ruling that had struck down the tariffs, allowing them to remain in place while the government appeals.\n\nThe tariffs, announced on April 2 and dubbed “Liberation Day” duties by Trump, target nearly all U.S. trading partners and were imposed under the 1977 International Emergency Economic Powers Act.\n\nBitcoin\nBTC\n$101,723.18\nslid below $106,000 while ether\nETH\n$3,323.43\nlost the $2,700 mark amid the renewed uncertainty. The broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market capitalization, fell 4%.\n\n“The price of Bitcoin fell after Trump’s tariffs were reinstated by an appeals court, while U.S. GDP figures showed the economy shrank in the first quarter,” said Nick Ruck, director at LVRG Research, in a Telegram message.\n\n“Gold surged higher as jobless claims increased and corporate profits fell. Although the Fed continues to see inflation as a threat, we’re optimistic that Bitcoin will rebound as investors look for long-term value holds during volatile market fluctuations,” Ruck added.\n\nMarket sentiment appeared cautious, with the total crypto market capitalization flat at $3.42 trillion.\n\n“Cryptocurrencies prefer not to notice positive stock market movements as they are related to tariffs and company reports, not money supply,” noted Alex Kuptsikevich, chief market analyst at FxPro, in an email to CoinDesk.\n\n“Bitcoin retreated from the trading range’s upper boundary at $110k to its lower boundary at $107K. This rest at previous highs effectively removes the local overheating of the market.”",
+    "url": "https://www.coindesk.com/markets/2025/05/30/dogecoin-dives-9-cardanos-ada-sol-slump-6-as-renewed-tariff-fears-jolt-markets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Nick Ruck",
+                "Alex Kuptsikevich"
+            ],
+            "positions": [
+                "director",
+                "chief market analyst"
+            ],
+            "companies": [
+                "LVRG Research",
+                "FxPro",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Court of Appeals for the Federal Circuit",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL",
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple cryptocurrencies experiencing significant price declines (9% for Dogecoin, 6% for ADA and SOL, Bitcoin sliding below key levels) due to renewed tariff fears and market uncertainty."
+    }
+}

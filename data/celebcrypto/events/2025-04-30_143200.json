@@ -1,0 +1,38 @@
+{
+    "title": "Banks Must Adopt Crypto or 'Be Extinct in 10 Years,' Eric Trump Says",
+    "time": "2025-04-30T14:32:00",
+    "author": "Helene Braun",
+    "summary": "The son of U.S. President Donald Trump said the current financial system is broken and blockchain technology is the fix.",
+    "content": "Eric Trump, son of U.S. President Donald Trump and executive vice president of the Trump Organization, said banks will need to utilize blockchain technology if they want to survive the next decade.\n\n“The modern financial system is broken, it’s slow, it’s expensive,” he said in an interview with CNBC on Wednesday. “There’s nothing that can be done on blockchain that can’t be done better than the way that the current financial institutions are working. SWIFT is an absolute disaster.” The Society for Worldwide Interbank Financial Telecommunication, or SWIFT, is the banking industry's international system for messaging and payments instructions.\n\nTrump, who will take the stage at CoinDesk’s flagship Consensus 2025 event in Toronto this May, has long been an advocate for the technology and — together with his brother Donald Trump Jr. — has been involved in several crypto projects, most recently the launch of a stablecoin called USD1.\n\n“You can open up a [decentralized finance] app right now, you can open up any cryptocurrency app, and you can send money, wallet to wallet, instantaneously, without the expense, without the variability” of banks, he said.\n\nThe traditional banking system favors the ultra-wealthy, Eric Trump said, which is one of the reasons why he became curious about the industry.\n\n“What actually got me into [cryptocurrency] is the fact I realized our banking system was weaponized against the vast majority of people in our country, either the people that don’t have the zeros on their balance sheet, or people who might have worn that red hat that said ‘Make America Great Again.’ And it forced me into the crypto world. And I’m telling you, if the banks don’t watch what’s coming, they’re going to be extinct in 10 years,” he said.\n\nMany U.S. banks have been experimenting and effectively using blockchain technology for years, most prominently JPMorgan, as the industry’s popularity has grown. However, crackdowns by the previous administration under President Joe Biden made it difficult to tap the full potential — something that is supposed to change under the current president.\n\nEarlier this week, fintech SoFi announced a major push into crypto after suspending services in 2023 in its effort to become a regulated bank. On Tuesday, CEO Anthony Noto said there’s been a “fundamental shift” in the crypto landscape in the U.S., allowing it to reenter the industry without fear.",
+    "url": "https://www.coindesk.com/business/2025/04/30/banks-must-adopt-crypto-or-be-extinct-in-10-years-eric-trump-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Trump",
+                "Donald Trump",
+                "Donald Trump Jr.",
+                "Joe Biden",
+                "Anthony Noto"
+            ],
+            "positions": [
+                "U.S. President",
+                "executive vice president of the Trump Organization",
+                "CEO"
+            ],
+            "companies": [
+                "Trump Organization",
+                "JPMorgan",
+                "SoFi"
+            ],
+            "organizations": [
+                "CNBC",
+                "CoinDesk",
+                "Society for Worldwide Interbank Financial Telecommunication",
+                "SWIFT"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Eric Trump's strong endorsement of blockchain technology and cryptocurrency adoption by banks, combined with mentions of regulatory changes and companies reentering the crypto space, suggests positive market sentiment and increased institutional interest."
+    }
+}

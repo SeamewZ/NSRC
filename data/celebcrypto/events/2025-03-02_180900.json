@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin Reserve in 100 Days of Trump's Presidency? Market Is Still Skeptical",
+    "time": "2025-03-02T18:09:00",
+    "author": "Sam Reynolds",
+    "summary": "Polymarket bettors give a BTC reserve a better chance of becoming a reality in 2025, but still aren't sure about it.",
+    "content": "A weekend Truth Social post from President Donald Trump set in motion the first steps in creating a strategic U.S. bitcoin\nBTC\n$103,891.83\nreserve, but Polymarket traders are skeptical that it will happen within the first 100 days.\n\nAs of press time, Polymarket bettors are giving a 23% chance that a strategic BTC reserve will be created within the first 100 days of the Trump presidency – or by April 30th, 2025.\n\nRules of the contract say that the U.S. government will need to specifically hold bitcoin – and not from confiscation – by 11:59 PM ET on April 29 for this to resolve to yes. Announcements of the creation of a reserve do not count.\n\nChances of a reserve coming true spiked from 11% to 23% in the moments after Trump's announcement. Another contract that asks if a reserve will be created by the end of 2025 currently has a 65% chance of resolving to yes.\n\nInitially, Trump's social media post announcing the creation of the reserve only named XRP and SOL as components of the reserve—which caused their value to spike—before clarifying that BTC and ETH would also be included in the reserve.\n\nOne of the most profitable traders of the 100-day crypto reserve contract is Theo5, which appears to be affiliated with a French trader who created a series of accounts, including Theo4, to directionally bet on Trump's victory in the November 2024 election.\n\nTheo5 currently has posted a $40,000 profit on his no position.\n\nMeanwhile, a trader known as Polywog lost $73,000 on their yes position and also lost over $560,000 by incorrectly betting on the outcome of the 2025 election.",
+    "url": "https://www.coindesk.com/markets/2025/03/02/market-still-skeptical-about-a-btc-reserve-in-100-days",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Theo5",
+                "Theo4",
+                "Polywog"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Polymarket",
+                "Truth Social"
+            ],
+            "organizations": [
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "SOL",
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Trump's announcement of creating a strategic bitcoin reserve caused cryptocurrency values to spike and increased market confidence in the reserve's creation by 2025."
+    }
+}

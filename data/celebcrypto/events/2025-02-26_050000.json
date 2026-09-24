@@ -1,0 +1,37 @@
+{
+    "title": "XRP, BNB Edge Higher as Bitcoin Bulls Eye $90K After Tuesday Bloodbath",
+    "time": "2025-02-26T05:00:00",
+    "author": "Shaurya Malwa",
+    "summary": "The move higher was in line with a CoinDesk analysis on Tuesday, as a five-month low in a sentiment index and a large-scale liquidation event indicated assets were likely oversold and could see relief in the short term.",
+    "content": "Bitcoin\nBTC\n$103,749.01\nneared $89,000 in Asian morning hours after a 24-hour low of $86,200, slightly improving market sentiment with major tokens showing signs of a recovery.\n\nXRP and BNB Chain’s BNB led a gradual majors rebound Wednesday as traders continue to reel from Tuesday’s carnage — one that saw overall capitalization drop as much as 10% and at least $1.2 billion in losses on bullish bets.\n\nXRP rose 3%, while BNB and Solana’s SOL added 5%.\nDOGE\n$0.1623\nand Cardano’s ADA showed a slight 1.2% gain, while Tron’s TRX was down 5% in the past 24 hours. The broad-based CoinDesk 20 (CD20) was down 2%.\n\nThe move higher was in line with a CoinDesk analysis on Tuesday, as a five-month low in a sentiment index and a large-scale liquidation event indicated assets were likely oversold and could see relief in the short term.\n\nGold fell 1.3% on Tuesday after a profit-taking bout following a record rally where it touched a new high Monday, but rose higher in Asian morning hours Wednesday.\n\nReasons for Tuesday’s panic ranged from money flowing out of bitcoin ETFs, with over $1 billion pulled out in the last two weeks, to a stronger yen, a perceived safe-haven currency whose growth tends to pull down riskier bets.\n\nExpectations for easier U.S. Federal Monetary policy have surged, however, with prediction markets putting chances of a May rate cut to 30% over the past week, and the chances of two rate cuts by June have more than tripled to 15%.\n\nThese hopes come after a gauge of U.S. consumer confidence marked its deepest fall since August 2021, decreasing 7 points in February to 98.3 in its third straight decline. U.S economic data and policies tend to impact prices of risk assets such as bitcoin, as crypto traders bet on expectations of retail participation as idle cash frees up.\n\nHopes of an altcoin rally remain muted among traders, with fresh dollar inflows expected to flow exclusively to BTC.\n\nBTC finally broke out of its range, dipping below 90k for the first time in a month and now hovering just below that level, triggering over USD 200mm in liquidations over the past few hours.\n\nMarket sentiment remains under pressure following Trump’s decision to implement tariffs on Canada and Mexico and curb Chinese investment. Front-end gamma was covering as BTC broke lower, with 1M implied volatility now back around 50v, while skews interestingly remain largely unchanged.\n\n“Zooming out, equities, fixed income, and gold have largely shrugged off the data points previously blamed for broader market weakness, with BTC remaining flat,” Singapore-based QCP Capital said in a broadcast message late Tuesday. “Rising BTC dominance and sliding altcoin prices suggest that alt bulls may already be fully long, with any new dollar inflows going exclusively into BTC.”\n\n“We remain cautious. Recent BTC demand has been driven primarily by institutions like MicroStrategy financed through equity-linked note issuances. With crypto-related issuance accounting for roughly 19% of total issuance over the last 14 months, the market for such financing may be nearing saturation — potentially dampening institutional demand if spot continues to stay muted,” it added.\n\nPlayers like Strategy (previously MicroStrategy) have been the main drivers of BTC demand in the past weeks and months, funding their purchases by raising their stock. But here’s the catch: companies might struggle to justify more purchases since the hype isn’t increasing prices.Less institutional buying could cool off BTC demand and lead to big investors pulling back, affecting the market further.",
+    "url": "https://www.coindesk.com/markets/2025/02/26/xrp-bnb-edge-higher-as-bitcoin-bulls-eye-usd90k-after-tuesday-bloodbath",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "MicroStrategy",
+                "QCP Capital",
+                "Strategy"
+            ],
+            "organizations": [
+                "U.S. Federal Monetary",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "BNB",
+            "SOL",
+            "DOGE",
+            "ADA",
+            "TRX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant market losses including a 10% drop in overall capitalization, $1.2 billion in losses on bullish bets, large-scale liquidations, money flowing out of bitcoin ETFs, and cautious institutional sentiment."
+    }
+}

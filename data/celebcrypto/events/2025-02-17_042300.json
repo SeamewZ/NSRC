@@ -1,0 +1,30 @@
+{
+    "title": "Javier Milei Faces Charges in Argentina Over LIBRA: AP",
+    "time": "2025-02-17T04:23:00",
+    "author": "Sam Reynolds",
+    "summary": "Milei deleted posts promoting the token and claimed he was unaware of its development.",
+    "content": "Lawyers in Argentina are pressing charges against the country's president, Javier Milei, over this weekend's 'rug pull' of the Libra token, the Associated Press reports.\n\nThe AP says that the plaintiffs are accusing Milei of committing fraud as they claim when Milei withdrew messages supporting the token it lost its value, and this move 'rug pulled' investors.\n\nMilei's office has said publicly that it was unaware of the exact details behind the token, and only posted about it as he does with other projects and startups based in Argentina.\n\n“The President shared a post on his personal accounts announcing the launch of KIP Protocol’s project, as he does daily with many entrepreneurs who wish to launch projects in Argentina to create jobs and attract investments,” the President’s Office told the AP, noting that they met with the team behind it at Milei's office.\n\nMilei has not yet been formally charged with a crime, with AP reporting that prosecutors will meet Monday to determine if the case is worth pursuing.\n\nMeanwhile, on-chain researchers have determined that the team behind Libra may be the same behind the Melania token given the number of similar wallets.",
+    "url": "https://www.coindesk.com/markets/2025/02/17/javier-milei-faces-charges-in-argentina-over-usdlibra-ap",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "KIP Protocol"
+            ],
+            "organizations": [
+                "Associated Press"
+            ]
+        },
+        "cryptocurrencies": [
+            "LIBRA",
+            "Melania"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a 'rug pull' fraud allegation against Argentina's president involving cryptocurrency tokens, which typically creates negative market sentiment and investor distrust."
+    }
+}

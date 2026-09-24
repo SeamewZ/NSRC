@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin DeFi Network Arch Finds VC Backer for Early-Stage Projects",
+    "time": "2025-04-09T16:33:00",
+    "author": "Danny Nelson",
+    "summary": "Arch Network is working with DPI Capital to write first checks for \"pillar\" protocols building on the Bitcoin DeFi project.",
+    "content": "Bootstrapping decentralized finance (DeFi) on any blockchain usually requires a mix of builders with big ideas and funders to back them. That much is as true for baselayers as it is for the financial protocols launching atop them.\n\nArch Labs, whose eponymous network is one of the many projects trying to bring DeFi to Bitcoin, had no trouble raising its $7 million launch capital from big-name venture firms last year. Now it's shifting focus to help fund those smaller protocols that could make the whole network boom.\n\nIn that goal it has found a willing partner. An entire venture company, DPI Capital, is dedicating millions of dollars in resources toward backing early-stage DeFi projects that enter Arch's first accelerator program, called Keystone.\n\n\"We're really focused on the pillars right now, the things that are most important for growth,\" said Brent Fisher, a general partner at Caymans Islands-registered DPI Capital. That means finding and funding compelling projects building borrow-and-lend protocols, decentralized exchanges, stablecoin platforms and real world asset (RWA) plays.\n\nIt's not unheard of for venture firms to go big on a single protocol. Early Solana investor Multicoin Capital also backs many of the smaller ecosystem projects that drive activity on the blockchain. But even that giant diversifies beyond Solana. For example, it led last year's investment in Arch.\n\nDPI used to have a more diversified risk appetite as it chased deals across the Etheruem ecosystem. But not anymore. \"I'm going all in on Arch,\" Fisher said.\n\nDPI's yet-to-close fund will be a quasi-official venture wing for early stage projects on Arch alone. Such myopic focus carries a lot of risk. First, that the \"pillar\" protocols DPI picks as leaders prove the theory. Second, and more importantly, that Arch itself will catch on.\n\nFisher's more focused on the counterpoint: that Arch is the winning bet, and no strategy's better than betting on all its horses.\n\n\"This has huge potential, potentially even to knock out on Ethereum,\" said Brent Fisher, general partner.\n\nHis Arch bull case stems from Bitcoin's enduring status as the world's most valuable crypto asset. The crypto is nearly one trillion dollars more valuable than Ethereum despite lacking a strong internal DeFi ecosystem, which has long been the runner-up's claim to fame.\n\nPlenty of family offices, investment companies and increasingly exchange-traded funds hold BTC and do so without much concern for their inability to deploy those coins into low risk yield plays on the Bitcoin Network, as they might with ETH on Ethereum Network.\n\n\"I think that that play is huge, because, as you see these ETFs with Black Rock and ARK and so forth, for them to even get a Delta neutral strategy of 10% is a game changer,\" Fisher said.\n\nArch's Bitcoin-powered programmability layer allows for such activity, Fisher said. They're not the only network with this kind of vision, but Fisher says it's the only one with a \"true native self custody model\" instead of some sort of bridging or wrapping mechanism. Keeping bitcoin on the network eliminates a level of risk, he said.\n\nArch's Keystone accelerator is thus a natural pipeline for DPI to get a right-of-first refusal look at many of the teams angling to launch their BitcoinFi tech on the platform. DPI will write checks of up to $250,000 for the teams it likes and then help them find other investors and scale.",
+    "url": "https://www.coindesk.com/business/2025/04/09/bitcoin-defi-network-arch-finds-vc-backer-for-early-stage-projects",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brent Fisher"
+            ],
+            "positions": [
+                "general partner"
+            ],
+            "companies": [
+                "Arch Labs",
+                "Arch Network",
+                "DPI Capital",
+                "Multicoin Capital",
+                "Black Rock",
+                "ARK"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant venture capital investment, institutional backing, and optimistic projections about Bitcoin DeFi's potential to compete with Ethereum, indicating market confidence and growth potential."
+    }
+}

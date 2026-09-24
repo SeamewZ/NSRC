@@ -1,0 +1,32 @@
+{
+    "title": "Ether's Freefall Below $1.9K Roils DeFi, Jeopardizes Crypto Loan Backed by $130M in ETH",
+    "time": "2025-03-10T19:35:00",
+    "author": "Krisztian Sandor",
+    "summary": "Falling ETH prices also threaten other DeFi loans, with potential liquidations that could further impact the token's price.",
+    "content": "Ethereum's ETH has been spiraling on Monday, jeopardizing a large decentralized finance (DeFi) loan on lending platform Sky (formerly Maker) of being liquidated.\n\nThe borrower in danger took out a $74 million loan in DAI stablecoin by pledging 65,680 ETH as collateral, worth nearly $130 million earlier today, per a Sky vault data dashboard.\n\nOn an already weak day for crypto markets, ETH plunged nearly 10% to $1,820, below the loan's liquidation level slightly above $1,900.\n\nBlockchain data by Debank shows that the borrower withdrew 2,000 ETH, worth nearly $4 million at current prices, from crypto exchange Bitfinex earlier Monday and deposited the assets to the Maker vault, propping up the loan's collateral to avoid liquidation. As ETH prices continued to fall, the borrower withdrew $1.6 million of USDT stablecoin from Binance, exchanged it to DAI and deposited to Maker to reduce the debt to $73.1 million.\n\nFollowing the transactions, the liquidation level for the loan stood at $1,836 price of ETH, still dangerously close as ETH traded at around $1,870 recently.\n\nRead more: Ether Came Dangerously Close to Massive Liquidation. Here Are Some Levels to Watch\n\nIt's not the only DeFi loan in danger of rapidly falling ETH prices. There are some $13.6 million worth of loans at a liquidation level $1,857 ETH, and another $117 million of loans being liquidated at $1,780, DefiLlama data shows. There are some $366 million of debt to be liquidated if ETH falls another 20%, per DefiLlama data.\n\nLiquidations in DeFi may have a significant impact on a collateral asset's price, as the protocol sells or actions off the collateral of a liquidated loan, exacerbating the selling pressure.\n\nUPDATE (March 10, 19:58 UTC): Added the borrower's latest blockchain transaction to reduce debt.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/ether-s-freefall-below-usd1900-jeopardizes-crypto-loan-backed-by-usd130m-ether",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitfinex",
+                "Binance"
+            ],
+            "organizations": [
+                "Sky",
+                "Maker",
+                "Debank",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum",
+            "DAI",
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ETH plunging nearly 10%, multiple DeFi loans facing liquidation risks totaling hundreds of millions of dollars, and liquidations exacerbating selling pressure on ETH prices."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Crypto Staking Doesn't Violate U.S. Securities Law, SEC Says",
+    "summary": "The SEC's latest staff statement addresses crypto staking, though it noted that it was not binding guidance.",
+    "time": "2025-05-30T03:24:00",
+    "author": "Nikhilesh De",
+    "content": "Crypto staking, under certain circumstances, does not appear to implicate U.S. securities law, a branch of the U.S. Securities and Exchange Commission said late Thursday.\n\nThe SEC's Division of Corporation Finance published a staff statement — the latest in a series from the regulator — spelling out how the regulator may evaluate proof-of-stake networks, mainly noting that covered activities do not \"involve the offer and sale of securities\" — meaning the SEC won't sue any person or company participating in those activities.\n\nNode operators and validators, custodians, delegates, nominators and entities staking assets either on their own, staking directly with a third party or staking on behalf of an asset's owners fall into this bucket, the staff statement said. In this, the SEC seems to suggest that staking will be treated identically to mining, the consensus mechanism securing networks like Bitcoin\nBTC\n$101,710.32\n, which the SEC clarified also did not implicate securities laws in a similar staff statement last month.\n\nThe SEC's staff statement was \"very clear for a subject that can be a little bit complicated,\" said Lorien Gabel, the CEO of staking-focused crypto firm Figment. And its main upside appears to be saying that various activities U.S. companies might have shied away from in the past are okay now.\n\n\"They included some ancillary staking activities. For example, we provide insurance around slashing [and we also provide] modified unbonding periods,\" he said. \"And they said that actually doesn't mean that you're a manager of assets as a staking provider.\"\n\nThe SEC statement said companies that want to provide those types of services, or even pooled staking, can do so, he said.\n\nThursday's statement is an incremental but important update from the regulator, said Alison Mangiero, the head of staking policy at the Crypto Council for Innovation.\n\n\"This reaffirms that there's going to be similar treatment for stakers that there is for miners. And I think it's especially important because, given under [former SEC Chair Gary] Gensler, there were so many enforcement actions that were focused on staking as a service … we saw a lot of those cases dismissed, and the Coinbase case dismissed with prejudice,\" she said. \"We assumed that this would be the stance, but actually having a staff statement that asserts it, I think is crucially important.\"\n\nThe fact it came just days before the SEC faces a deadline on a number of applications to bring staking into spot ether\nETH\n$3,320.54\nexchange-traded funds (ETFs) is telling, she said.\n\nIt's likely that the ETF providers would have received staking approvals regardless, but the SEC statement will likely start speeding up the process for securing those approvals, Gabel said.\n\nAs with the SEC's previous staff statements, Thursday's included a footnote clarifying that it is very narrowly tailored and certain restrictions would apply. It is not a replacement for rulemaking done through the actual commissioners and \"has no legal force or effect,\" the footnote said.\n\n\"This statement only addresses certain activities involving Covered Crypto Assets that do not have intrinsic economic properties or rights, such as generating a passive yield or conveying rights to future income, profits, or assets of a business enterprise,\" another footnote said.",
+    "url": "https://www.coindesk.com/news-analysis/2025/05/29/crypto-staking-doesnt-violate-us-securities-law-sec-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lorien Gabel",
+                "Alison Mangiero",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "CEO",
+                "head of staking policy",
+                "former SEC Chair"
+            ],
+            "companies": [
+                "Figment",
+                "Coinbase"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Division of Corporation Finance",
+                "Crypto Council for Innovation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's statement that crypto staking does not violate securities law provides regulatory clarity and removes legal uncertainty, which is positive for market confidence and adoption."
+    }
+}

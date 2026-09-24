@@ -1,0 +1,33 @@
+{
+    "title": "Coinbase Could Pay Customers Up to $400M for Data Breach",
+    "time": "2025-05-15T11:28:00",
+    "author": "Oliver Knight",
+    "summary": "The exchange fired staff involved in the breach on the spot and will press criminal charges.",
+    "content": "Coinbase expects to pay $180 million to $400 million relating to remediation costs and voluntary customer reimbursements related to this incident, which saw attackers gain access to users personal information.\n\nCoinbase received an email communication from the unknown threat actor on May 11, according to the firm. Attackers were able to access customers personal details, such as name, address, phone number, masked social security number, masked bank account numbers and other crucial details.\n\nThey accessed those details by essentially bribing Coinbase's overseas employees/contractors and subsequently demanding customer details to be sent. The exchange fired staff involved in the breach on the spot and referred to U.S. and international law enforcement. It will also press criminal charges.\n\n\"Based on facts that continue to evolve, the Company has preliminarily estimated expenses to be within the range of approximately $180 million to $400 million relating to remediation costs and voluntary customer reimbursements relating to this Incident,\" the exchange said in an SEC filing.\n\nShares of Coinbase fell over 4% to under $253 during early U.S. trading hours.\n\nThe crypto exchange said in a blog post that it will \"reimburse customers who were tricked into sending funds to the attacker.\" It has also offered a $20 million bug bounty for anyone that provides information leading to an arrest.\n\nThe confirmation of cyber criminal activity comes three months after on-chain sleuth ZachXBT claimed that Coinbase users had lost $300 million to social engineering scams.\n\nCoinbase also said that the criminals secured government ID images, account balances and corporate data. Two-factor authentication codes and private keys were not breached, it added.\n\nWhen asked for comment on the breach, Coinbase directed CoinDesk to the blog post and a statement from Coinbase CEO Brian Armstrong.\n\nArmstrong said that he \"received a ransom note\" for $20 million in bitcoin\nBTC\n$107,661.53\nin exchange for these attackers not releasing some information they claim to have obtained on Coinbase customers.\n\nUPDATE (May 15, 12:48 UTC): Updates headline, adds details on the breach.\n\nUPDATE (May 15, 14:19 UTC): Adds details on the breach and share price details.\n\nCORRECTION (May 15, 16:49 UTC): Changes \"breach\" in the second paragraph for \"email received by threat actor.\" Adds \"remediation and voluntary reimbursements in the opening paragraph.",
+    "url": "https://www.coindesk.com/business/2025/05/15/coinbase-says-criminals-stole-customer-data-offers-20m-bug-bounty",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brian Armstrong",
+                "ZachXBT"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. and international law enforcement",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach at Coinbase involving customer data theft, ransom demands, and significant financial losses, causing the company's shares to fall over 4%."
+    }
+}

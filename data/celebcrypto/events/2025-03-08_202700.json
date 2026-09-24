@@ -1,0 +1,38 @@
+{
+    "title": "Arkham Launches New Tag to Track Crypto Influencers’ Wallets",
+    "time": "2025-03-08T20:27:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The blockchain analytics firm currently lists over 950 addresses linked to high-profile crypto figures.",
+    "content": "Blockchain analytics firm Arkham Intelligence has launched a new tagging system on its platform, allowing users to track cryptocurrency transactions of influential figures in the cryptocurrency space.\n\nThe feature, announced via a post on X, applies to those with more than 100,000 followers on the microblogging platform, labeling them as \"key opinion leaders\" or KOLs and linking their associated wallet addresses.\n\nThe new tag currently features 950 addresses. Among those identified are Ethereum co-founder Vitalik Buterin, crypto entrepreneur Justin Sun, Binance founder and former CEO Changpeng Zhao, Yearn Finance and Sonic Labs co-founder Andre Cronje, and U.S. President Donald Trump.",
+    "url": "https://www.coindesk.com/markets/2025/03/08/arkham-launches-new-tag-to-track-crypto-influencers-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin",
+                "Justin Sun",
+                "Changpeng Zhao",
+                "Andre Cronje",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Ethereum co-founder",
+                "crypto entrepreneur",
+                "Binance founder and former CEO",
+                "Yearn Finance and Sonic Labs co-founder",
+                "U.S. President"
+            ],
+            "companies": [
+                "Arkham Intelligence",
+                "Binance",
+                "Yearn Finance",
+                "Sonic Labs"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a new analytics feature for tracking crypto influencers' wallets, which is a neutral informational development rather than a market-moving event."
+    }
+}

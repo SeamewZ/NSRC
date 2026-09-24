@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Data Indicates Ripe Buying Period as BTC Nears $95K",
+    "time": "2025-01-10T10:29:00",
+    "author": "Shaurya Malwa",
+    "summary": "BTC neared $95,000 in European morning hours Friday after a slump in U.S. hours sent it to near $90,000 late Thursday, down 10% from a weekly high above $120,000.",
+    "content": "Economic data and general profit-taking may have dented an early bitcoin\nBTC\n$104,608.94\nrally, but data tracking investor behavior indicates buying current price levels could benefit those looking for an entry into BTC markets.\n\nOnchain data shows bitcoin’s Spent Output Profit Ratio (SOPR) has crept up to 0.987 as of Friday, suggesting that investors who have held bitcoin for less than six months are selling at a loss. Historically, this scenario has often preceded price recoveries, indicating a potential buying opportunity.\n\nOther well-followed cycle indicators, such as Market Value to Realized Value and the Puell Multiple, and a short-term investor ratio of 60% point to the market not having reached its peak, and this week’s correction does not appear to signify the end of the bullish cycle, per CryptoQuant contributing analyst Mac_D.\n\n“As short-term investors experience more pain, it often presents better opportunities for accumulation,” MAC_D said in a Thursday post. “If there is further decline from the current price, smart investors will likely accumulate the coins sold cheaply by short-term investors. Therefore, selling coins at this juncture might prove to be a very unwise decision.”\n\nSOPR measures the profit or loss of spent bitcoin outputs by comparing the value of coins when they were last moved to their value when they are spent again. The short-term SOPR focuses on coins moved within a relatively short timeframe (less than 155 days), and can indicate market sentiment, where a value less than 1 might suggest capitulation or a market bottom, potentially signaling a good time to buy.\n\nMVRV compares Bitcoin's total market cap (market value) to the \"realized cap,\" which values each Bitcoin at the price at which it last moved. It is used to gauge whether Bitcoin is overbought or oversold, helping to predict potential market tops or bottoms.\n\nBTC neared $95,000 in European morning hours Friday after a slump in U.S. hours sent it to near $90,000 late Thursday, down 10% from a weekly high above $120,000.\n\nFresh economic data sent U.S. treasury yields soaring on Thursday, leading to a fall in equities and a concurrent drop in risk assets such as bitcoin. The latest Institute for Supply Management (ISM) report on U.S. service providers was stronger than anticipated, with the prices-paid measure reaching its highest point since early 2023.\n\nTraders are eying the release of U.S. non-farm payrolls (NFP) later Friday before further positioning, as CoinDesk reported. Strong NFP numbers indicate a robust economy, hinting at possible interest rate hikes, which tends to be bad for risk assets such as bitcoin.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/bitcoin-data-indicates-ripe-buying-period-as-btc-nears-95-k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mac_D"
+            ],
+            "positions": [
+                "CryptoQuant contributing analyst"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Institute for Supply Management (ISM)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates that on-chain data shows potential buying opportunities and suggests the market hasn't reached its peak, with analysts recommending accumulation at current levels."
+    }
+}

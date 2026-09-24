@@ -1,0 +1,40 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Dominance Nears 4-Year High as BTC Defies Global Jitters",
+    "time": "2025-04-15T11:15:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for April 15, 2025",
+    "content": "By James Van Straten (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\ncontinues to defy global economic uncertainty, inching closer to reclaiming $86,000. It is now less than 3% away from its \"Liberation Day\" high. To put the move into perspective, bitcoin dominance — which measures BTC’s share of the total cryptocurrency market cap — is approaching 64%, a level not seen since January 2021.\n\nIn contrast, the Nasdaq 100 is still 5% away from its own Liberation Day high, underscoring bitcoin's relative strength versus U.S. equities.\n\nAccording to X account Cheddar Flow, the S&P 500 has just formed a \"death cross\" — a traditionally bearish signal that occurs when the 50-day moving average falls below the 200-day moving average. The last time this happened was March 15, 2022, when S&P 500 initially rose by 11% in the following week, only to be followed by a 20% decline. Bearish sentiment is also reflected in the options market, where investors are reportedly buying large volumes of NVDA puts, signaling expectations of lower prices.\n\nIn a Bloomberg interview on Monday, Treasury Secretary Scott Bessent reaffirmed confidence in the U.S. bond market, dismissing concerns that foreign nations are dumping Treasuries.\n\n\"I am not seeing a dumping of U.S. Treasuries,\" Bessent said. \"The Treasury has lots of tools, but we're a long way from needing them.\" He also emphasized the enduring status of the U.S. dollar as the world’s reserve currency, despite the DXY index — which measures the dollar's value against a basket of major trading partners — falling below 100 and dropping over 10% in recent weeks.\n\nBessent also confirmed that the Trump administration is seeking a new Federal Reserve Chair to replace Jerome Powell, with interviews set to begin later in the year. He concluded the interview by suggesting that the VIX (S&P 500 volatility index) may have peaked after the largest one-day percentage drop in its history last week. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/04/14/crypto-daybook-americas-bitcoin-dominance-nears-4-year-high-as-btc-defies-global-jitters",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Scott Bessent",
+                "Jerome Powell",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "Treasury Secretary",
+                "Federal Reserve Chair"
+            ],
+            "companies": [
+                "Bloomberg",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "X account Cheddar Flow",
+                "Trump administration",
+                "Treasury",
+                "Federal Reserve",
+                "Nasdaq 100",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin is described as defying global economic uncertainty, approaching its previous high with strong dominance at a 4-year peak, showing relative strength versus U.S. equities."
+    }
+}

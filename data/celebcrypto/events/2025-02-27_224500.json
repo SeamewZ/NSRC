@@ -1,0 +1,30 @@
+{
+    "title": "SEC Publishes Memecoin Stance Reinforcing Hester Peirce’s Comments",
+    "summary": "Memecoins aren’t securities, the agency said on Thursday.",
+    "time": "2025-02-27T22:45:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Securities and Exchange Commission (SEC) is officially washing its hands of memecoins.\n\nThe federal securities regulator said that memecoins — which it defined as a “type of crypto asset inspired by internet memes, characters, current events or trends for which the promoter seeks to attract an enthusiastic online community to purchase the memecoin and engage in its trading” — are more like collectibles than securities, according to a staff statement from the SEC’s corporate finance division published on Thursday. Because memecoins have “limited or no use or functionality,” they do not meet the definition of a security under the Howey Test and are therefore outside the SEC’s jurisdiction.\n\nThe statement is a formalization of comments made by Commissioner Hester Peirce — the leader of the SEC’s newly-created Crypto Task Force, which has been at the vanguard of the agency’s about-face on crypto regulation since it was formed in January — earlier this month during an interview with Bloomberg TV. In the interview, Peirce said that “many” of the memecoins on the market fall outside the SEC’s jurisdiction.\n\n“If people want to buy a token or product that lacks a clear long-term value proposition, they should feel free but should not be surprised some day if the price drops,” Peirce wrote in her roadmap for crypto regulation published earlier this month. “In this country, people generally have a right to make decisions for themselves, but the counterpart to that wonderful American liberty is the equally wonderful American expectation that people must decide for themselves, not look to Mama Government to tell them what to do or not to do, nor to bail them out when they do something that turns out badly.”\n\nSuch legal interpretations from the securities regulator don't have the weight of formal regulation, but industries overseen by the SEC and other federal regulators tend to follow these kinds of staff statements closely. The infamous Staff Accounting Bulletin No. 121 — guidance known as SAB 121 that was offered by agency accounting staffers — caused turmoil in the crypto sector and the bankers who felt constrained by it until the bulletin was erased by the SEC's current leadership. In this case, a footnote in the staff memecoin statement points out that it's \"not a rule, regulation, guidance, or statement\" approved by the commission.\n\nThough Peirce has made it clear that American investors are responsible for doing their own due diligence on the tokens they buy, the SEC has not ruled out the possibility of stepping in and using its enforcement powers in the case where memecoins are used to evade securities laws.\n\n“Notwithstanding the foregoing, this statement does not extend to the offer and sale of meme coins that are inconsistent with the descriptions set forth above, or products that are labeled “meme coins” in an effort to evade the application of the federal securities laws by disguising a product that otherwise would constitute a security,” the staff statement said. “As noted above, the Division will evaluate the economic realities of the particular transaction.”",
+    "url": "https://www.coindesk.com/policy/2025/02/27/sec-publishes-memecoin-stance-reinforcing-hester-peirce-s-comments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hester Peirce"
+            ],
+            "positions": [
+                "Commissioner",
+                "leader of the SEC's newly-created Crypto Task Force"
+            ],
+            "companies": [
+                "Bloomberg TV"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Crypto Task Force"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's statement that memecoins are not securities and outside their jurisdiction removes regulatory uncertainty, which is positive for the cryptocurrency market."
+    }
+}

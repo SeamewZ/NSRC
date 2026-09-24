@@ -1,0 +1,40 @@
+{
+    "title": "U.S. Residents Missed as Much as $2.6B in Potential Revenue From Geoblocked Airdrops",
+    "time": "2025-03-11T13:00:00",
+    "author": "Ian Allison",
+    "summary": "The U.S. government lost as much as $1.4 billion in potential tax revenue, a report from Dragonfly found.",
+    "content": "Draconian crypto regulation that stopped U.S. citizens from benefiting from airdrops — a way of rewarding communities of users by distributing free tokens — has cost Americans as much as $2.6 billion in potential revenue and the government as much as $1.4 billion in lost tax income in the past four years, according to venture capital firm Dragonfly.\n\nIn a report published Tuesday, the digital assets-focused firm presented a range of figures, based on a sample of 11 major airdrops that generated over $7.16 billion since 2020. The list includes the likes of 1inch, EigenLayer, Arbitrum, Athena, Optimism and LayerZero. The average median claim per eligible address involved in these airdrops was found to be $4,562.\n\n“We realized there's a real need for data that can actually show the effect of regulation by enforcement and how those policies impact individuals, the overall economy and the U.S. government,” Dragonfly associate general counsel Jessica Furr said in an interview. “So we decided to focus on airdrops as a discrete use case from crypto to see how the present policies may have created some negative externalities.”\n\nThe report estimates that between $1.84 billion and $2.64 billion in potential revenue was lost to U.S. users from 2020–2024 due to geoblocking, a technique of fencing off U.S. IP addresses so that crypto projects could avoid incurring the wrath of regulators like the Securities and Exchange Commission (SEC).\n\nThe figures may be even higher. Using a larger sample of 21 geoblocked airdrops analyzed by CoinGecko, Dragonfly found the total potential revenue lost to U.S. residents could have been between $3.49 billion and $5.02 billion from 2020–2024.\n\nYears of regulatory uncertainty in the U.S. have had a chilling effect on crypto innovation, scaring startups off-shore, while larger companies have been served with subpoenas and become engaged in lawsuits with regulators.\n\nAs well as blockchain builders, venture capital firms such as Union Square Ventures and Andreessen Horowitz were also targeted by the SEC for investing in platforms like Uniswap, which the Dragonfly report cites as the last major airdrop not to be geoblocked in the U.S.\n\nDragonfly is not the only VC firm to highlight U.S. geoblocking: New York City-based Variant Fund also produced a report looking at how crypto firms are left with no choice but the blunt tool of simply excluding all Americans for fear of being targeted by regulators.\n\n“If the rules are not clear about what projects can do, it becomes better to just geoblock to avoid getting into trouble,” Furr said. “Being pulled into an expensive litigation where you have to defend yourself can shut projects down because they can't foot that bill.”\n\nAlmost a quarter of all active crypto addresses worldwide are controlled by U.S. residents, and the number of users in America geoblocked since 2020 amounts to some 5.2 million, the report says. The figure excludes those who revert to using virtual private networks (VPNs) to beat geofencing measures.\n\nDragonfly also arrived at an estimated tax revenue lost due to geoblocked airdrop income between 2020 and 2024, which it pegs at between $525 million to $1.38 billion in personal and corporate taxes.\n\nUPDATE (March 11, 16:00 UTC): Adds larger airdrop sample size data from CoinGeko in fifth paragraph.",
+    "url": "https://www.coindesk.com/business/2025/03/11/venture-capital-firm-dragonfly-weighs-cost-of-geoblocked-airdops-to-u-s-crypto-holders",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jessica Furr"
+            ],
+            "positions": [
+                "associate general counsel"
+            ],
+            "companies": [
+                "Dragonfly",
+                "1inch",
+                "EigenLayer",
+                "Arbitrum",
+                "Athena",
+                "Optimism",
+                "LayerZero",
+                "Union Square Ventures",
+                "Andreessen Horowitz",
+                "Uniswap",
+                "Variant Fund",
+                "CoinGecko"
+            ],
+            "organizations": [
+                "U.S. government",
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes how U.S. regulatory uncertainty and geoblocking have cost Americans billions in potential revenue and tax income, creating a chilling effect on crypto innovation and scaring startups offshore."
+    }
+}

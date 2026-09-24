@@ -1,0 +1,37 @@
+{
+    "title": "MetaDAO Hires Futarchy's Creator Robin Hanson as Adviser",
+    "time": "2025-02-13T18:16:00",
+    "author": "Danny Nelson",
+    "summary": "Hanson, who devised the new form of governance a quarter century ago, gives a boost to the year-old crypto group.",
+    "content": "MetaDAO's push to revolutionize governance via markets-based decision-making is getting a boost from the creator of its creed: Robin Hanson.\n\nThe crypto group on Thursday hired Hanson – a George Mason University economics professor who created the notion of futarchy a quarter century ago – as a paid adviser. His addition gives an intellectual and likely optical edge to the year-old project that commands a throng of Solana crypto-governance wonks.\n\nFutarchy rests on the premise that markets are better at determining optimal outcomes than politicians or even their voters – the popular power centers of modern politics. Futarchaic systems of governance look more like a prediction market than a ballot box.\n\nHow it works, at least in metaDAO's version, is perhaps best understood by examining the way metaDAO addressed the question, \"Should MetaDAO hire Robin Hanson as an advisor?\" To do so, the project spun up markets where traders could speculate on the price of META tokens if Hanson were to be hired, and if he weren't.\n\nRead more: 'The Goal Is Number Go Up': Inside a DAO’s Radical Governance Experiment\n\nHanson is being hired because MetaDAO traders pushed the price of META higher in the scenario where he was brought on board. Essentially, that his participation would be more beneficial to the project than his absence, and well worth the 20.9 META ($24,000) he'll be paid over two years.\n\nHanson's not in it for the money but rather the \"glory.\" He devised futarchy because he believes governance is fundamentally broken. In his mind, and MetaDAO's, markets where people have a financial incentive to make good decisions reach better outcomes than political systems do\n\n\"If we could actually have a better governance mechanism, we could change the world,\" he said.\n\nThe pseudonymous co-founder of MetaDAO, who goes by Proph3t, has been talking with Hanson about their creation's design for at least a year. Proph3t brought the effort to formally hire Hanson before MetaDAO earlier this week.\n\nHis work will \"primarily be mechanism design and strategy advice,\" according to the proposal page. It may also see Hanson co-author blog posts with MetaDAO about \"new futarchic mechanisms.\"\n\nMetaDAO debuted at last year's Solana hacker house mtnDAO in Salt Lake City. It was a hit among the crypto builders there who froze work on their own projects to trade its decision markets en masse. MetaDAO's governance markets have since been adopted by a growing number of projects in the Solana ecosystem, including Jito.\n\nMetaDAO isn't the only futarchy-focused project that Hanson is engaging with, but he said its the farthest-along public effort. Crypto adherents are especially open to futarchy because it aligns with the innovation-tinged stories that he said they tell themselves when grasping for the meaning behind their wealth.\n\n\"When people make money in the world they need to tell themselves a story about why they made the money,\" Hanson said, \"crypto people tell themselves it's their insight to potential innovation and changing the world.\"",
+    "url": "https://www.coindesk.com/business/2025/02/13/metadao-hires-futarchy-s-creator-robin-hanson-as-advisor",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robin Hanson",
+                "Proph3t"
+            ],
+            "positions": [
+                "economics professor",
+                "paid adviser",
+                "co-founder",
+                "creator"
+            ],
+            "companies": [
+                "MetaDAO"
+            ],
+            "organizations": [
+                "George Mason University",
+                "Solana",
+                "mtnDAO",
+                "Jito"
+            ]
+        },
+        "cryptocurrencies": [
+            "META",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes MetaDAO traders pushing META token prices higher when Hanson was hired, indicating market confidence in the project's future prospects."
+    }
+}

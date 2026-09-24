@@ -1,0 +1,35 @@
+{
+    "title": "Publicly Traded U.S. Crypto Miners Double Bitcoin Holdings to Almost 100K in a Year",
+    "time": "2025-01-17T10:24:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin holdings for public U.S.-listed companies have more than doubled since January 2024.",
+    "content": "Publicly traded U.S. crypto mining companies doubled their bitcoin\nBTC\n$104,608.94\nholdings last year, taking the total to 92,473 valued at $8.6 billion as of end-December while the price of the largest cryptocurrency rose 120%, according to data from TheMiningMag.\n\nThe biggest amount, almost half of the total, is held by MARA Holdings (MARA) with 44,893 BTC. MARA has the second-largest stash among publicly listed companies, surpassed only by MicroStrategy's (MSTR) 450,000 BTC.\n\nThe strategy of investing in bitcoin and keeping it for the long term, known as HODL after a typing error made more than a decade ago, has grown in popularity in the past 12 months.\n\nThree other miners hold more than 10,000 BTC: Riot Platforms (RIOT) with 17,722 BTC, Hut 8 (HUT) with 10,171 BTC and CleanSpark (CLSK) with 10,097 BTC, according to Bitcoin Treasuries.\n\nNot all miners subscribe to the HODL playbook. IREN (IREN), TeraWulf (WULF), and Core Scientific (CORZ) all keep very little bitcoin or none at all. Due to the competitive nature of the business, these companies have pivoted into the artificial intelligence (AI) and high-performance computing (HPC) industries.\n\nShare prices haven't matched bitcoin's trajectory. In general, the miners underperformed bitcoin and other crypto-related equities, such as MicroStrategy. Standout performers Core Scientific and Terawulf, with their new AI focus, both saw over 300% returns.\n\nThis year, though, the miners that HODL bitcoin have strongly benefited, with RIOT, HUT and CLSK all outperforming bitcoin. Only Bitdeer (BTDR) has generated negative returns, after seeing a strong performance in 2024.",
+    "url": "https://www.coindesk.com/markets/2025/01/17/publicly-traded-u-s-crypto-miners-double-bitcoin-holdings-to-almost-100-k-in-a-year",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MARA Holdings",
+                "MicroStrategy",
+                "Riot Platforms",
+                "Hut 8",
+                "CleanSpark",
+                "IREN",
+                "TeraWulf",
+                "Core Scientific",
+                "Bitdeer"
+            ],
+            "organizations": [
+                "TheMiningMag",
+                "Bitcoin Treasuries"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports that publicly traded U.S. crypto mining companies doubled their bitcoin holdings to 92,473 BTC valued at $8.6 billion while bitcoin's price rose 120%, indicating strong institutional accumulation and market confidence."
+    }
+}

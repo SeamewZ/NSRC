@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Ordinals Project Taproot Wizards Plans Long-Awaited Sale of Signature NFTs",
+    "summary": "The Wizards were inscribed on the Bitcoin blockchain two years ago and are now being made available for sale",
+    "time": "2025-03-11T15:00:00",
+    "author": "Jamie Crawley",
+    "content": "CORRECTION (March 11, 15:40 UTC): Removes incorrect figure from headline. The earlier version said Taproot Wizards was looking to raise around $34 million, based on the sale of 2,121 wizards at 0.2 BTC each. However, many buyers would pay only 0.1 BTC because of participation in the Quantum Cats sale of a year ago. An updated figure can't be determined.\n\nBitcoin ordinals project Taproot Wizards will puts its signature collection of Microsoft Paint-style cartoon wizards up for auction this month, following a similar sale last year that raised $13 million.\n\nTaproot Wizards plans to auction 2,121 non-fungible tokens (NFTs) of its signature \"magic internet JPEGs,\" which harken back to a 2013 bitcoin meme: \"magic internet money,\" later this month, according to an emailed statement. The Wizards were inscribed on the Bitcoin blockchain two years ago and are now being made available for sale.\n\nThe project last year sold a collection of 3,000 \"Quantum Cats\" to raise support for the Bitcoin improvement proposal (BIP) OP_CAT. Despite being marred by technical issues, the collection quickly sold out, raising 300 BTC in the process.\n\nStarting on March 25, the Wizards will initially be offered to buyers on a whitelist for 0.2 BTC ($16,000).\n\nAny wizards not taken being sold in a Dutch auction. The starting price will be higher than 0.2 BTC and revealed closer to the auction, a spokesperson told CoinDesk in a Telegram message.\n\nOP_CAT was included in Bitcoin's original code by pseudonymous founder Satoshi Nakamoto, who subsequently removed it due to concerns that it could expose the network to risks such as a denial-of-service (DoS) attack.\n\nDevelopers have been attempting to bring it back in order to allow Ethereum-style smart-contract functionality, thus significantly adding to the utility that is possible on the original blockchain.\n\nTaproot Wizards' goal is to \"meme OP_CAT back into existence,\" through initiatives such as the NFT sales, it said. Last month, the project raised $30 million in funding for the building of an ecosystem of applications using OP_CAT.",
+    "url": "https://www.coindesk.com/tech/2025/03/11/taproot-wizards-looks-to-raise-over-usd34m-in-long-awaited-sale-of-signature-nfts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Satoshi Nakamoto"
+            ],
+            "positions": [
+                "pseudonymous founder"
+            ],
+            "companies": [
+                "Microsoft",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Taproot Wizards",
+                "Bitcoin"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes successful NFT sales raising millions, new funding of $30 million, and efforts to expand Bitcoin's utility through OP_CAT implementation, indicating positive market activity and development."
+    }
+}

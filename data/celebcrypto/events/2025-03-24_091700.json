@@ -1,0 +1,25 @@
+{
+    "title": "Ether Supply on Centralized Exchanges Hits 9-Year Low",
+    "time": "2025-03-24T09:17:00",
+    "author": "Omkar Godbole",
+    "summary": "The number of ether held in wallets tied to centralized exchanges has dropped to the lowest since November 2015.",
+    "content": "The number of ether\nETH\n$3,520.38\nheld in wallets tied to centralized exchanges has dropped to an over nine-year low of 8.97 million tokens, according to data tracked by CryptoRank and Santiment.\n\nThat's the lowest tally since November 2015.\n\nThe continued exodus of coins from centralized trading platforms may result in reduced availability of coins in the market, potentially leading to an upward price surge.\n\n\"Investors continue moving ETH to cold storage, reducing available liquidity. BTC saw a similar trend in January when exchange reserves hit a 7-year low, followed by a sharp price surge,\" CryptoRank said.\n\nThe number of BTC held on centralized exchanges hit a seven-year low on Jan. 13 following which prices climbed from roughly $90K to over $109K in the subsequent days.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/ether-supply-on-centralized-exchange-hits-9-year-low-of-8-97m-eth",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CryptoRank",
+                "Santiment"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that reduced exchange reserves 'may result in reduced availability of coins in the market, potentially leading to an upward price surge' and cites a similar BTC trend that was followed by a sharp price increase."
+    }
+}

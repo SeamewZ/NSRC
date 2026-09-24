@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin Whales Seem to Be Calling a Top as BTC Price Consolidates",
+    "summary": "Large holders are shifting from accumulation to distribution as market is in rangebound levels.",
+    "time": "2025-05-29T08:05:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin\nBTC\n$101,815.99\nis currently consolidating between $107,000 and $109,000, remaining just a few percentage points shy of its all-time high. While this tight range may appear stable on the surface, on-chain data suggests a shift in sentiment among some of the market's most influential participants, the large holders known as whales.\n\nGlassnode’s Accumulation Trend Score, a measure of accumulation behavior across various wallet-size cohorts, offers deeper insight into this evolving market dynamic.\n\nThe metric evaluates the strength of purchasing by combining the size of wallet entities with the volume of bitcoin acquired over the past 15 days. For the largest holders, the value has dropped to 0.4. A reading closer to 1 indicates strong buying, whereas a level near 0 points to sales. Crucially, wallets associated with exchanges and miners are excluded from this analysis to provide a clearer picture of investor behavior.\n\nWhat stands out is that entities holding 10,000 BTC or more typically classified as whales were the first to begin accumulating at the market’s April lows at around $75,000. Now, they are starting to reduce their holdings while the other wallet cohorts remain in accumulation mode. This pivot suggests a strategic shift, potentially driven by a desire to lock in profits near historic highs or a more cautious outlook on short-term price direction.\n\nSupporting evidence for this shift in behavior comes from exchange-flow data that shows whale wallets had been steadily withdrawing bitcoin over the past month, a bullish signal that implies they were not looking to sell their holdings in the short term.\n\nThis trend now appears to be reversing. In two of the past three days, whales have deposited BTC back onto exchanges, a pattern commonly associated with imminent selling activity.\n\nThis nuanced behavior raises the critical question: Are whales anticipating a local top?",
+    "url": "https://www.coindesk.com/markets/2025/05/29/bitcoin-whales-seem-to-be-calling-a-top-as-btc-price-consolidates",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news indicates Bitcoin whales are shifting from accumulation to distribution and depositing BTC onto exchanges, suggesting they anticipate a local top and are preparing to sell."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Bitstamp to Roll Out Regulated Derivatives Trading in Europe: Sources",
+    "time": "2025-01-21T13:57:00",
+    "author": "Ian Allison",
+    "summary": "Leveraging its MiFID credentials, Bitstamp is preparing a regulated perpetual swap offering.",
+    "content": "Bitstamp, the longest running cryptocurrency exchange, plans to roll out regulated crypto derivatives trading in Europe, according to two people with knowledge of the matter.\n\nWith its long-standing focus on compliance, Bitstamp is one of a select group of crypto trading platforms to hold a Markets in Financial Instruments (MiFID) license, a pan-European regulatory framework for trading securities and derivatives, which was amended in 2022 to encompass crypto assets.\n\n“With its MiFID license in Europe, Bitstamp plans to launch a fully regulated perpetual swap offering,” one of the people said.\n\nThe arrival of regulatory clarity in Europe, when it comes to crypto and tokens, has prompted the planned introduction of crypto derivatives trading from firms holding MiFID II licenses, such as Point72 Ventures-backed D2X, and Backpack Exchange, which is in the process of acquiring the remains of FTX EU and its licenses.\n\nThe vast majority of crypto derivatives volume is offshore and the aim of these new entrants is to shift market dominance away from the likes of Panama-based centralized exchange Deribit.\n\nIn June of last year, it was announced that fintech giant Robinhood would be acquiring Bitstamp, whose future looks bright, not only in Europe but also in the U.S. where it holds multiple state licenses, including a coveted New York State BitLicense.\n\nBitstamp declined to comment because the plans are not yet public.",
+    "url": "https://www.coindesk.com/business/2025/01/21/bitstamp-to-roll-out-regulated-derivatives-trading-in-europe-sources",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitstamp",
+                "Point72 Ventures",
+                "D2X",
+                "Backpack Exchange",
+                "FTX EU",
+                "Deribit",
+                "Robinhood"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the expansion of regulated crypto derivatives trading in Europe, which brings regulatory clarity and institutional participation to the market."
+    }
+}

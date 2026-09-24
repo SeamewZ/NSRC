@@ -1,0 +1,24 @@
+{
+    "title": "S&P 500 Enters Correction Territory, What Does This Mean for Bitcoin?",
+    "time": "2025-03-14T11:18:00",
+    "author": "James Van Straten",
+    "summary": "Historical analysis on S&P 500 and bitcoin corrections.",
+    "content": "The S&P 500 has now entered correction territory, defined as a 10% decline from its all-time high. A further 10% drop would signal a bear market. But is it time to panic? Since Bitcoin’s creation in 2009, the S&P 500 has experienced multiple 20% corrections.\n\nFollowing the 2008 global financial crisis the index had plunged nearly 60%. In 2019, amid bitcoin’s bear market, the S&P 500 declined by 20%, bitcoin fell as much as 85% from its all-time high. The covid-19 crash in March 2020 saw the index drop almost 40% with bitcoin shedding 60% of its value. Most recently in 2022, the index corrected by 25%, bitcoin bottomed out one month later after dropping by a further 25% to a cycle low of $15,000.\n\nHistorically, 10% corrections in the S&P 500 have been common. Meanwhile, bitcoin has dropped 30% from its all-time high during this correction. Looking at past bull market corrections, such declines are a normal occurrence, with the most recent 30% correction happening in August 2024 during the yen carry trade unwind.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/s-and-p-500-enters-correction-territory-what-does-this-mean-for-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple historical instances where S&P 500 corrections were accompanied by significant bitcoin price declines, including bitcoin dropping 30% from its all-time high during the current correction."
+    }
+}

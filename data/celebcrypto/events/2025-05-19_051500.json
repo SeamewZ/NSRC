@@ -1,0 +1,27 @@
+{
+    "title": "Binance, Kraken Thwarted Social Engineering Attacks Similar to Coinbase Hack",
+    "summary": "Attackers reportedly tried bribing support agents, but Binance and Kraken’s internal systems blocked the attempts.",
+    "time": "2025-05-19T05:15:00",
+    "author": "Francisco Rodrigues",
+    "content": "Binance and Kraken, two of the world’s largest cryptocurrency exchanges, were recently targeted in a wave of social engineering attacks similar to the one that led to a major data breach at Coinbase.\n\nHackers approached customer support agents with bribery offers and detailed instructions for contacting attackers through Telegram, Bloomberg reports citing people familiar with the matter. Both exchanges managed to block the attempts without losing any customer data.\n\nThe exchanges faced tactics mirroring those used against Coinbase (COIN), which earlier this week revealed it expects to pay $180 million to $400 million in remediation costs and customer reimbursements after attackers gained access to their personal information.\n\nThat breach led to a $20 million ransom demand after the attackers managed to bribe Coinbase’s overseas employees/contractors to get customer information. The exchange has fired the staff involved and has contacted law enforcement.\n\nAt Binance, internal systems including artificial intelligence bots helped detect bribery-related messages, shutting down conversations before they escalated. Policies that limit access to customer data unless users initiate contact also helped mitigate risk.\n\nCoinbase’s reportedly started seeing unusual activity in January, and last December, rival exchanges had begun warning the company about unusual activity targeting its largest clients.",
+    "url": "https://www.coindesk.com/web3/2025/05/19/binance-kraken-thwarted-social-engineering-attacks-similar-to-coinbase-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "customer support agents",
+                "overseas employees/contractors"
+            ],
+            "companies": [
+                "Binance",
+                "Kraken",
+                "Coinbase",
+                "Bloomberg"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple security breaches and social engineering attacks targeting major cryptocurrency exchanges, indicating ongoing security vulnerabilities in the industry."
+    }
+}

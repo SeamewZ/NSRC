@@ -1,0 +1,36 @@
+{
+    "title": "First XRP ETF in the U.S. to Go Live on Tuesday With Launch of Teucrium’s Leveraged Fund",
+    "time": "2025-04-08T06:01:00",
+    "author": "Shaurya Malwa",
+    "summary": "Teucrium’s leveraged ETF arrives amid a flurry of applications for spot XRP ETFs still under SEC review.",
+    "content": "Teucrium Investment Advisors will debut the first-ever XRP exchange-traded fund (ETF) in the U.S.\n\nThe Teucrium 2x Long Daily XRP ETF (XXRP) give investors a 2x leveraged exposure to the closely related Ripple token. XXRP will start trading on the NYSE Arca on Tuesday even before a standard \"spot\" XRP ETF has been approved by regulators.\n\n“Very odd (maybe a first) that a new asset’s first ETF is leveraged. Spot XRP still not approved, although our odds are pretty high,” Bloomberg Intelligence analyst Eric Balchunas said in an X post.\n\nTypically, ETFs tracking emerging assets like cryptocurrencies begin with unleveraged \"spot\" funds — those that directly hold the underlying asset — before more complex leveraged products are introduced.\n\nTeucrium will charge a management fee of 1.85%. The firm cautioned that XRP’s price volatility and declining usage on the Ripple network could pose challenges to the fund’s performance, reflecting broader concerns about the token’s adoption and market stability.\n\nTeucrium’s leveraged ETF arrives amid a flurry of applications for spot XRP ETFs still under SEC review. Major fund managers, including WisdomTree, Bitwise, 21Shares, Canary Capital, and Franklin Templeton, have filed proposals to bring unleveraged XRP ETFs to market.\n\nThe SEC has previously acknowledged these applications, and decisions expected in the coming months could pave the way for additional XRP investment options.\n\nXRP is up 6.5% in the past 24 hours, in line with a broader market move higher.\n\nCORRECT (April 8, 14:27 UTC): Adds dropped words in ETF's name in second paragraph.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/first-xrp-etf-in-the-u-s-to-go-live-on-tuesday-with-launch-of-teucrium-s-leveraged-fund",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "Bloomberg Intelligence analyst"
+            ],
+            "companies": [
+                "Teucrium Investment Advisors",
+                "WisdomTree",
+                "Bitwise",
+                "21Shares",
+                "Canary Capital",
+                "Franklin Templeton"
+            ],
+            "organizations": [
+                "SEC",
+                "NYSE Arca"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "XXRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of the first XRP ETF in the U.S. represents institutional adoption and increased investment accessibility, with XRP price up 6.5% and multiple major fund managers filing for additional XRP ETFs."
+    }
+}

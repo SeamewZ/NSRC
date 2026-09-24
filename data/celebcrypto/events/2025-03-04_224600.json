@@ -1,0 +1,49 @@
+{
+    "title": "Coinbase, Chainlink, Strategy Among Companies Attending Trump's Crypto Summit",
+    "summary": "U.S. President Donald Trump is slated to host the summit.",
+    "time": "2025-03-04T22:46:00",
+    "author": "Jesse Hamilton",
+    "content": "Executives from a wide array of crypto companies, including Coinbase, Chainlink and Exodus, will represent the industry Friday at U.S. President Donald Trump's first White House crypto summit.\n\nCoinbase CEO Brian Armstrong, Chainlink Labs co-founder Sergey Nazarov, Exodus CEO J.P. Richardson and Strategy Chairman Michael Saylor have all confirmed their attendance at the event, which will also feature \"big donors,\" according to two people who asked not to be named.\n\nRobinhood CEO Vlad Tenev also hinted that he would attend the summit, posting a screen capture from the movie National Treasure on X (formerly Twitter) and captioning it \"see you soon, DC.\" Both Cameron and Tyler Winkelvoss, co-founders of crypto exchange Gemini, will be in attendance.\n\nTrump himself—who said he would host the summit—David Sacks—Trump's crypto and AI czar—and Bo Hines, the executive director of the President's Working Group on Digital Assets—will represent the White House.\n\nIt's unclear just how many crypto executives will attend or what the event's agenda may include.\n\nThe U.S. Securities and Exchange Commission (SEC) recently closed a long-running probe into Robinhood Crypto and dropped its enforcement suit against Coinbase. Both firms made seven-figure donations to President Donald Trump’s inaugural committee — Coinbase contributed $1 million, and Robinhood contributed $2 million. Other crypto firms that are thought to be represented at the crypto summit, including Ripple and Circle, also made large donations.\n\nA Ripple spokesperson referred CoinDesk to the White House when asked if any Ripple executive would attend the Friday summit. Representatives for Circle did not return a request for comment.",
+    "url": "https://www.coindesk.com/policy/2025/03/04/coinbase-chainlink-strategy-among-companies-attending-trump-s-crypto-summit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Brian Armstrong",
+                "Sergey Nazarov",
+                "J.P. Richardson",
+                "Michael Saylor",
+                "Vlad Tenev",
+                "Cameron Winkelvoss",
+                "Tyler Winkelvoss",
+                "David Sacks",
+                "Bo Hines"
+            ],
+            "positions": [
+                "U.S. President",
+                "CEO",
+                "co-founder",
+                "Chairman",
+                "crypto and AI czar",
+                "executive director"
+            ],
+            "companies": [
+                "Coinbase",
+                "Chainlink",
+                "Exodus",
+                "Robinhood",
+                "Gemini",
+                "Ripple",
+                "Circle"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. Securities and Exchange Commission (SEC)",
+                "President's Working Group on Digital Assets"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The event shows major crypto companies engaging with the White House and recent positive regulatory developments including the SEC closing probes and dropping enforcement suits."
+    }
+}

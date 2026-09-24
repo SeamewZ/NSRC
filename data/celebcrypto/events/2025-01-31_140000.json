@@ -1,0 +1,32 @@
+{
+    "title": "UBS Tests ZKSync's Layer-2 Tech, Showing Deeper TradFi Interest in Crypto",
+    "summary": "The Swiss banking giant, which has been experimenting with blockchain, tapped the layer-2 firm to test whether it could scale its current Key4 Gold program.",
+    "time": "2025-01-31T14:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Swiss banking giant UBS said that it completed a proof-of-concept of its UBS Key4 Gold offering on the Ethereum layer-2 network ZKsync.\n\nThe simulation, which was conducted on a ZKsync test network, is a sign of renewed interest in blockchain technology among traditional financial institutions. This isn’t UBS’ first experiment with blockchain. The bank previously launched a tokenized money market investment fund, uMint, which is also built on Ethereum.\n\nUBS’ Key4 Gold is one of the bank's offerings that lets its Swiss clients purchase a direct claim to physical gold. “It allows for fractional gold investments with real-time pricing, deep liquidity, secure physical storage, and optional physical delivery,” the team said in a press release shared with CoinDesk.\n\nThe project already exists on the bank's private blockchain, the UBS Gold Network, but the team was looking for ways to scale its project while preserving its privacy. “They came to the conclusion that only zero-knowledge made sense for them, and so they wanted to really put this in practice for a product that they already have live and what this could look like if they use the validium instead,” Pearl Imbach, a Senior Business Development Manager at Matter Labs, the main developer firm behind ZKsync, told CoinDesk in an interview.\n\nZKsync is a zero-knowledge rollup, a type of layer 2 scaling system that aims to increase the speed of blockchain transactions and reduce their fees, by using zero-knowledge cryptography. A validum is a different type of layer-2, similar to that of a rollup, but stores the data of those transactions off-chain.\n\nThe test transaction may signal that UBS could be looking more closely at using layer-2 technologies to power some of its activities. However, the bank didn't say whether they would come out with their own layer-2, and Matter Labs' Imbach told CoinDesk that a rollup might not be the right fit for them. “Is this the right product [for UBS]? Perhaps not, but it is something we're just talking openly about, and thinking about what could actually be a good use case for them,” Imbach told CoinDesk.\n\nThis isn't the first time a banking giant has used ZKsync's technology for its own products. Deutsche Bank said in December that it was also planning to build a layer-2 with ZKsync’s technology, indicating how blockchain technology can co-exist or even make traditional financial institutes' products work better.\n\n“What we are offering now, with privacy on top [of the blockchain] is something that is super interesting, and we're doing more and more of these use cases now,” Imbach told CoinDesk.\n\nRead more: Deutsche Bank's L2 Blockchain to Be 'Public and Permissioned,' Says Tech Partner",
+    "url": "https://www.coindesk.com/tech/2025/01/31/ubs-tests-zksync-s-layer-2-tech-showing-deeper-tradfi-interest-in-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pearl Imbach"
+            ],
+            "positions": [
+                "Senior Business Development Manager"
+            ],
+            "companies": [
+                "UBS",
+                "Matter Labs",
+                "Deutsche Bank"
+            ],
+            "organizations": [
+                "ZKsync",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows traditional financial giant UBS testing layer-2 blockchain technology, indicating growing institutional adoption and confidence in crypto infrastructure."
+    }
+}

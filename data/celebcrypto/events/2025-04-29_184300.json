@@ -1,0 +1,40 @@
+{
+    "title": "Tornado Cash Can’t Be Sanctioned Again, Texas Judge Rules",
+    "summary": "In December, a U.S. appeals court ruled that the U.S. Treasury’s Office of Foreign Asset Control (OFAC) exceeded its statutory authority in sanctioning Tornado Cash.",
+    "time": "2025-04-29T18:43:00",
+    "author": "Cheyenne Ligon",
+    "content": "Tornado Cash is officially safe from U.S. sanctions, following a district court ruling on Monday.\n\nThe Treasury Department’s Office of Foreign Asset Control (OFAC) removed Tornado Cash from its sanctions list in March, several months after an appeals court ruled that the agency had “overstepped its Congressionally-defined authority” by sanctioning the crypto mixing service’s smart contracts back in 2022.\n\nHowever, the way that OFAC de-listed Tornado Cash, and the subsequent notices and motions its lawyers filed with the court in March, left apparent wiggle room for the agency to put the mixing service back on its no-fly list in the future, a federal judge said. The Treasury attorneys argued that, because OFAC had revoked sanctions against Tornado Cash before the district court’s final judgment (but after the appeals court’s decisive ruling), the issue was moot.\n\nBut, to the six plaintiffs in Van Loon vs. Treasury — all users of Tornado Cash — the issue was not, in fact, moot. In an April 21 filing, their lawyers blasted OFAC’s response to the Fifth Circuit’s ruling, calling it “a study in chaos” and accusing them of “wav[ing] the mootness flag” in a last-ditch effort to “evade an adverse judgment.”\n\n“Enough is enough,” lawyers for the plaintiff told the judge. “It is time for this Court to do what the Fifth Circuit ordered months ago … Defendants’ designation must be held unlawful and set aside.”\n\nIn his sternly-worded ruling yesterday, U.S. District Judge Robert Pitman of the Western District of Texas said that the case was not moot, and sided with the plaintiffs, ruling that OFAC’s designation of Tornado Cash was unlawful and the agency is therefore permanently enjoined from enforcing sanctions against it.\n\n“[OFAC does] not suggest they will not sanction Tornado Cash again, and they may seek to ‘reenact precisely the same [designation] in the future’,” Pitman wrote. “Rather than acknowledge that the Fifth Circuit’s order required delisting Tornado Cash, Defendants state that they exercised their 'discretion' in deciding to do so based on more general policy and legal considerations.”\n\nThe U.S. Department of Justice (DOJ) is currently pursuing criminal charges against two Tornado Cash developers, Roman Storm and Roman Semenov, who were charged in 2023 with conspiracy to commit money laundering, conspiracy to operate an unlicensed money transmitter, and conspiracy to violate U.S. sanctions. Semenov remains on OFAC’s sanctions list.\n\nEarlier this month, U.S. Deputy Attorney General Todd Blanche sent DOJ staff a memo informing them of narrowing crypto-related enforcement priorities. Staff were instructed to no longer pursue cases against crypto exchanges, mixing services or offline wallets “for the acts of their end users or unwitting violations of regulations.” Blanche ordered any ongoing investigations that were not compliant with these new priorities to be dropped, and said that his office would work with the DOJ’s criminal division to decide how to proceed with any ongoing litigation that didn’t meet the new enforcement standards.\n\nThe memo has already made waves in ongoing crypto litigation. Prosecutors in the case against the two founders of crypto mixer Samourai Wallet filed a joint request with defense lawyers on Monday, asking the court for a 16-day extension in various deadlines as they decided whether or not to drop charges under the auspices of Blanche’s memo.\n\nA host of prominent figures in the crypto industry also signed on to a letter from the DeFi Education Fund to White House AI and Crypto Czar David Sacks on Monday, urging U.S. President Donald Trump to intervene in the case to “discontinue the Biden-era Department of Justice’s lawless campaign to criminalize open-source software development” and the prosecution of Storm.\n\nRead more: Samourai Wallet Prosecutors Are Considering Dropping Charges Under New DOJ Enforcement Priorities: Filing",
+    "url": "https://www.coindesk.com/policy/2025/04/29/tornado-cash-can-t-be-sanctioned-again-texas-judge-rules",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Robert Pitman",
+                "Roman Storm",
+                "Roman Semenov",
+                "Todd Blanche",
+                "David Sacks",
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. District Judge",
+                "U.S. Deputy Attorney General",
+                "White House AI and Crypto Czar",
+                "U.S. President"
+            ],
+            "companies": [
+                "Tornado Cash",
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Office of Foreign Asset Control (OFAC)",
+                "U.S. Department of Justice (DOJ)",
+                "Fifth Circuit",
+                "DeFi Education Fund"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The ruling that Tornado Cash cannot be sanctioned again and the DOJ's narrowing of crypto enforcement priorities represent positive regulatory developments that reduce legal uncertainty for the cryptocurrency industry."
+    }
+}

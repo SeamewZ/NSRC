@@ -1,0 +1,36 @@
+{
+    "title": "Proof-of-Work Crypto Mining Doesn’t Trigger Securities Laws, SEC Says",
+    "summary": "In a staff statement published Thursday, the SEC said that both solo mining and mining pool operations would fail the first prong of the Howey Test.",
+    "time": "2025-03-20T20:36:00",
+    "author": "Cheyenne Ligon",
+    "content": "Proof-of-work cryptocurrency mining does not trigger federal securities laws, according to a Thursday staff statement from the U.S. Securities and Exchange Commission (SEC) which told mining operators they do not need to register their transactions with the regulator.\n\nThe statement, published by the SEC’s Division of Corporation Finance, declared that both solo proof-of-work crypto mining and pooled proof-of-work crypto mining do not meet the definition of a securities transaction under the Howey Test — the legal framework used to determine whether a transaction represents an investment contract — because they are “not undertaken with a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others.”\n\nThe statement puts to rest any lingering fears that the SEC’s enforcement division could turn its gaze on proof-of-work crypto miners. Though the agency, under the leadership of former Chair Gary Gensler, begrudgingly admitted that bitcoin was a commodity rather than a security, the agency’s enforcement suit against Utah-based Green United, an alleged ponzi scheme accused of defrauding customers in a cloud mining scheme, prompted concerns among some in the industry that the agency would eventually crack down on legitimate crypto miners.\n\nThe SEC said that Thursday’s statement is “part of an effort to provide greater clarity on the application of the federal securities laws to crypto assets” — something the industry has been pushing for for years. Under the new leadership of Acting Chair Mark Uyeda, who established a Crypto Task Force spearheaded by crypto-friendly Commissioner Hester Peirce, the agency has rapidly begun reversing course on its approach to crypto, dropping lawsuits and investigations started under Gensler and repealing the controversial Staff Accounting Bulletin 121.\n\nThursday’s staff statement comes shortly after the SEC put out a similar staff statement in February declaring most memecoins to be outside the regulator’s jurisdiction.\n\nRead more: As Congress Talks Up Its Earth-Shaking Bill, Regulators Are Already at Work\n\nUnder its new leadership, the SEC has signaled a much greater willingness to work with the crypto industry to craft better, clearer regulations moving forward. On Friday, the agency will host a roundtable discussion on what makes a cryptocurrency a security – the first in a series of roundtable discussions between the regulator and industry participants.",
+    "url": "https://www.coindesk.com/policy/2025/03/20/proof-of-work-crypto-mining-doesn-t-trigger-securities-laws-sec-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Mark Uyeda",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "former Chair",
+                "Acting Chair",
+                "Commissioner"
+            ],
+            "companies": [
+                "Green United"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "SEC's Division of Corporation Finance",
+                "Crypto Task Force",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's statement provides regulatory clarity that proof-of-work mining doesn't trigger securities laws, removing uncertainty and signaling a more cooperative approach to crypto regulation."
+    }
+}

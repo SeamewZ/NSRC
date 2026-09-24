@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin Rally Stalls Below $110K as Short-Term Holders Take $11B Profits",
+    "summary": "Most U.S. markets were closed for Monday's holiday, but European stocks reacted positively to Trump's moratorium on 50% tariffs.",
+    "time": "2025-05-26T19:58:00",
+    "author": "Krisztian Sandor",
+    "content": "After softly rising over the weekend, bitcoin\nBTC\n$101,754.63\nslipped back to $109,000 on Monday in sluggish trading as traditional U.S. markets remained closed in observance of Memorial Day.\n\nThe top cryptocurrency is still up 1.7% in the last 24 hours and only a breath away from the all-time high it notched last week.\n\nLooking at the CoinDesk 20 — an index of the top 20 digital coins by market capitalization, except for stablecoins, memecoins and exchange coins — the day’s big winner is decentralized exchange Uniswap\nUNI\n$5.1914\n, which saw its token rise 6.6%. Tokens for Chainlink\nLINK\n$14.85\nand Avalanche\nAVAX\n$16.53\nalso gained 3.3% and 3.4% respectively.\n\nThe gains happened overnight, spurred by the Trump administration's temporary walkback on EU tariffs. Trump said on Sunday that the implementation of 50% tariffs on EU goods — which on Friday he’d called to go into effect on June 1 and caused a sell-off in risk assets including cryptocurrencies — would be delayed until July 9. European stocks, initially shaken by the threat, rebounded on the news.\n\nWhile the crypto market retraced some of the losses in the weekend tumble, BTC has likely entered a choppy phase as traders digest the rapid, almost 50% run from the April lows, Bitfinex analysts said in a Monday report.\n\nIncreased profit-taking by short-term holders could also cap bitcoin's near-term upside: this investor cohort realized $11.4 billion in cumulative profits over the past 30 days, compared to $1.2 billion in the previous 30-day period, the report noted.\n\n\"At these levels, the risk emerges that profit-taking outpaces new demand inflows,\" Bitfinex analysts wrote. \"Unless thereʼs a corresponding rise in new capital entering the market to absorb this supply, prices may begin to stall or even retrace.\n\n\"The next few days will be key to gauge whether the dip to $106,000 has set the range lows or a bigger reset is in the cards, the report said. If a deeper pullback materializes, the key level to watch is the short-term holder cost basis around $95,000, the average price this group bought the asset, the authors noted.\n\nStrong inflows to U.S. spot bitcoin ETFs — totaling $5.3 billion in May so far —, low volatility and lack of froth suggest that bitcoin will likely resume its uptrend into the third quarter of the year after a pause, the analysts argued.\n\nRead more: Bitcoin Regains $110K After Weekend Sell-Off; ADA, DOGE Lead Uptick in Crypto Majors",
+    "url": "https://www.coindesk.com/markets/2025/05/26/bitcoin-rally-stalls-below-110k-as-short-term-holders-take-11b-profits",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Bitfinex",
+                "Uniswap"
+            ],
+            "organizations": [
+                "Trump administration",
+                "EU"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "UNI",
+            "Chainlink",
+            "LINK",
+            "Avalanche",
+            "AVAX",
+            "ADA",
+            "DOGE"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes bitcoin stalling below $110K with profit-taking capping near-term upside, while also noting some altcoin gains and potential for resumed uptrend after a pause, indicating mixed/moderate market conditions."
+    }
+}

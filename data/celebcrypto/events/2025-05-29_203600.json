@@ -1,0 +1,48 @@
+{
+    "title": "Bitcoin Slides Below $106K; Analyst Sees Ether Breakout Looming",
+    "summary": "Despite the pullback, BTC holding above the round-number $100,000 level for 20 consecutive days is a bullish sign, LMAX Group market strategist said.",
+    "time": "2025-05-29T20:36:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin\nBTC\n$101,815.99\nquietly slid to its weakest price in nine days on Thursday afternoon as crypto markets cooled off after a multi-week rally from the April lows.\n\nThe top cryptocurrency hit a session low of $105,750 before rebounding to just above $106,000. It was down 1.5% in the last 24 hours, but still only 5% away from record high levels.\n\nThe CoinDesk 20 — an index of the top 20 cryptocurrencies by market capitalization except for exchange coins, memecoins and stablecoins — has slumped 0.9% in the last 24 hours, with solana\nSOL\n$157.90\nand avalanche\nAVAX\n$16.54\nunderperforming BTC with losses of 1.8% and 2%, respectively. Meanwhile, Ethereum's ether\nETH\n$3,330.11\nand XRP\nXRP\n$2.2518\ndefied the downtrend with 1%-2% gains.\n\nCrypto stocks have had a relatively muted session. Coinbase (COIN) is down 2.7% but Strategy (MSTR) has risen 0.8%. Bitcoin mining firms Bitfarms (BITF), Bit Digital (BTBT), CleanSpark (CLSK) and Greenidge Generation Holding (GREE) booked roughly 4% losses.\n\nA check on traditional markets showed U.S. equities giving back most of the gains on yesterday's court ruling that blocked the Trump administration's global tariffs.\n\nHowever, a U.S. appeals court today reinstated the tariffs while the government appealed the earlier ruling, perhaps adding to investor uncertainty.\n\nLMAX Group market strategist Joel Kruger expects a volatile ride with tariffs again back in focus with the ongoing appeal and the self-imposed July 9 deadline for trade deals approaching, but still sees further upside for digital assets.\n\n“Bitcoin remains robust in the latter half of the week, consolidating just below its recent peak while steadfastly holding above $100,000 for 20 consecutive days, underscoring persistent bullish momentum,\" he said.\n\nKruger also noted that Ethereum's ether shows signs of snapping its multi-year downtrend against BTC, as the corporate crypto treasury bonanza has reached the second-largest digital asset with SharpLink Gaming's (SBET) $425 million fundraising plan.\n\nArthur Aziz, founder and investor of B2 Ventures, said that ETH is coiling for a breakout but warned of downside risks.\n\nSharing his technical analysis in a note, he said the $2,750 level has posed significant barrier capping gains over the past weeks, while the $2,550-2,450 area emerged as a key support level. He noted that ETH is forming a bullish ascending triangle pattern, which historically preceded rallies to higher prices.\n\n\"The stage for a future $3,000 level breakout is being set right now,\" he said. However, \"abusing\" leverage in futures markets could trigger a \"sharp breakdown\" below the $2,550-2,450 support zone in cascading selling.",
+    "url": "https://www.coindesk.com/markets/2025/05/29/bitcoin-slides-below-106k-analyst-sees-ether-breakout-looming",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joel Kruger",
+                "Arthur Aziz"
+            ],
+            "positions": [
+                "market strategist",
+                "founder and investor"
+            ],
+            "companies": [
+                "LMAX Group",
+                "Coinbase",
+                "Strategy",
+                "Bitfarms",
+                "Bit Digital",
+                "CleanSpark",
+                "Greenidge Generation Holding",
+                "SharpLink Gaming",
+                "B2 Ventures"
+            ],
+            "organizations": [
+                "Trump administration",
+                "U.S. appeals court"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "solana",
+            "SOL",
+            "avalanche",
+            "AVAX",
+            "XRP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market movements with Bitcoin pulling back but holding key support levels, some altcoins declining while others gain, and analysts expressing both bullish technical patterns and downside risk warnings."
+    }
+}

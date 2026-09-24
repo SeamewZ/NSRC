@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Network Hashrate Growth Was Muted in January: JPMorgan",
+    "time": "2025-02-05T07:49:00",
+    "author": "Will Canny",
+    "summary": "Mining difficulty fell 2% from the previous month, which is relatively uncommon, the report said.",
+    "content": "The Bitcoin network hashrate, a proxy for competition in the industry and mining difficulty, rose slightly in January, Wall Street bank JPMorgan (JPM) said in a research report on Monday.\n\nThe monthly average network hashrate rose 1% to 785 exahashes per second (EH/s), the bank noted, while mining difficulty fell 2% month-on-month.\n\nThe month-end, weekly moving average hashrate was 781 EH/s, a 2% decline from the end of December, the report said.\n\n\"This is relatively uncommon, and a modest tailwind for bitcoin\nBTC\n$104,608.94\nmining economics,\" analysts Reginald Smith and Charles Pearce wrote, adding that network difficulty remains 25% higher than before the halving event last April.\n\nAccording to a CoinDesk report from Tuesday, Bitcoin's 7-day moving average hashrate hit an all-time high of 833 exahashes per second (EH/s).\n\nMining profitability also inched higher in January. The bank estimated that miners earned an average of $57,200 per EH/s in daily block reward revenue, an increase of less than 1% from December.\n\nThe total market cap of the bitcoin miners that the bank tracks rose 5% from the month previous.\n\nCipher Mining (CIFR) and Riot Platforms (RIOT) outperformed, gaining 23% and 16% respectively, after announcing high performance computing (HPC) related news.\n\nTeraWulf (WULF) underperformed in January, with the shares dropping 16%.\n\nRead more: Bitcoin Miners Bitdeer, CleanSpark, Core Scientific Initiated at Outperform by KBW",
+    "url": "https://www.coindesk.com/markets/2025/02/05/bitcoin-network-hashrate-growth-was-muted-in-january-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Cipher Mining",
+                "Riot Platforms",
+                "TeraWulf",
+                "Bitdeer",
+                "CleanSpark",
+                "Core Scientific",
+                "KBW"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports increased mining profitability, rising miner market caps, and describes the hashrate situation as a 'modest tailwind for bitcoin mining economics'."
+    }
+}

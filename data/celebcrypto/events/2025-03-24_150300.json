@@ -1,0 +1,37 @@
+{
+    "title": "The SEC Crypto Roundtable Was a Missed Opportunity",
+    "summary": "The event, bringing together commissioners and leading crypto lawyers, focused on long-standing debates rather than solutions for the future, says Renato Mariotti.",
+    "time": "2025-03-24T15:03:00",
+    "author": "Renato Mariotti",
+    "content": "While Friday’s SEC Crypto Task Force Roundtable was a refreshing change from the prior administration’s “regulation by enforcement” approach, it focused on yesterday’s problems instead of proposals that could shape the regulatory framework that will govern crypto going forward.\n\nSince 1946, the question of whether a product is a “security” or “commodity” has been governed by the Supreme Court’s decision in SEC v. W.J. Howey Co. Courts have struggled to uniformly apply the “Howey” test to digital assets, which should not be surprising because it’s a decades-old decision about citrus groves.\n\nDigital assets do not cleanly fit into either the “security” or “commodity” bucket. They are something entirely new. But the distinction between securities and commodities matters under the law because the SEC regulates securities and the CFTC regulates products that include commodities.\n\nCongress is considering new legislation that resembles last year’s FIT21 bill. That legislation will move past the outmoded Howey test and sharply define how particular digital assets are classified.\n\nFriday’s roundtable, which included a dozen or so prominent crypto lawyers alongside members of the SEC’s crypto taskforce, should have served as a jumping off point for ideas and proposals that the SEC could use as input to legislators considering the new legislative framework for crypto. But, instead, much of the discussion focused on years-old debates about the four-party Howey Test, and philosophical discussions about the nature of securities.\n\nTo be sure, some participants in the roundtable – like a16z General Counsel Miles Jennings – made important proposals, such as Jennings’ call to focus on the economic reality rather than the legal relationship between the issuer and the investor. But much of the panel’s time was spent debating everything from Bitcoin’s use in ransomware attacks to the SEC’s recent staff guidance regarding meme coins.Given the SEC and CFTC will likely share regulatory authority over digital assets in any new legislation, the line between the two regulators is very important to the crypto industry. The goal should be the creation of clear rules that issuers can follow to ensure compliance regardless of whether their token is deemed to be a “security” or a “commodity.”\n\nWhile I applaud Commissioner Hester Peirce’s creation of the roundtable, along with her characteristic openness and transparency, Friday’s roundtable was a missed opportunity. She should have invited CFTC Acting Chairman Caroline Pham and her team to participate, or at least to attend. The CFTC was not mentioned once during the roundtable, and the crypto industry needs the SEC and CFTC to work together seamlessly in the years to come.\n\nCongress is moving forward with its own answer to the question of when digital assets are securities, whether or not the SEC decides to provide Congress with any input. For the sake of the crypto industry, I hope that Commissioner Peirce’s next roundtable is focused on fostering ideas that will inform the legislation that will shape the industry for years to come.",
+    "url": "https://www.coindesk.com/opinion/2025/03/24/the-sec-crypto-roundtable-was-a-missed-opportunity",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Renato Mariotti",
+                "Miles Jennings",
+                "Hester Peirce",
+                "Caroline Pham"
+            ],
+            "positions": [
+                "General Counsel",
+                "Commissioner",
+                "Acting Chairman"
+            ],
+            "companies": [
+                "a16z"
+            ],
+            "organizations": [
+                "SEC",
+                "CFTC",
+                "Supreme Court",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The event is described as a missed opportunity that focused on old debates rather than providing clear regulatory solutions, indicating no immediate positive or negative market impact."
+    }
+}

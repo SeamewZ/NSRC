@@ -1,0 +1,35 @@
+{
+    "title": "Trump Media Starts New Fintech Platform Truth.Fi Focusing on Crypto, ETFs",
+    "time": "2025-01-29T14:56:00",
+    "author": "Krisztian Sandor",
+    "summary": "Truth.Fi is the latest endeavor of Donald Trump-affiliated companies into the digital asset space after World Liberty Financial and launching an \"official\" memecoin.",
+    "content": "Trump Media and Technology Group (DJT), the company that operates the social media site Truth Social, announced Wednesday it is launching a financial services platform focusing on crypto and customized exchange-traded funds.\n\nThe company's board approved an investment of up to $250 million at major asset manager Charles Schwab (SCHW). The funds may be allocated to customized separately managed accounts (SMAs), customized exchange-traded funds (ETFs) and bitcoin\nBTC\n$107,661.53\nand similar cryptocurrencies or crypto-related securities, according to a filing to the Securities and Exchange Commission.\n\nCharles Schwab will also broadly advise on Truth.Fi's investments and strategy, according to the press release.\n\n“Truth.Fi is a natural expansion of the Truth Social movement,\" Trump Media CEO and Chairman Devin Nunes said in a statement. \"We began by creating a free-speech social media platform, added an ultra-fast TV streaming service, and now we’re moving into investment products and decentralized finance.\n\nDJT shares are higher by 10.4% on Wednesday following the news..\n\nTruth.Fi is the latest endeavor of Donald Trump-affiliated companies into the digital asset space. Trump and his family backed the decentralized finance (DeFi) protocol World Liberty Financial. Trump also launched an \"official\" memecoin on Solana a few days prior to his Jan. 20 inauguration, igniting a speculative frenzy among crypto traders and irking several crypto industry figures.",
+    "url": "https://www.coindesk.com/business/2025/01/29/trump-media-launches-fintech-platform-truth-fi-focusing-on-crypto-etfs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Devin Nunes"
+            ],
+            "positions": [
+                "CEO and Chairman"
+            ],
+            "companies": [
+                "Trump Media and Technology Group",
+                "DJT",
+                "Charles Schwab",
+                "SCHW",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports DJT shares rising 10.4% following the announcement and mentions a $250 million investment allocation that may include bitcoin and cryptocurrencies, indicating positive market reaction and institutional interest."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Solana Validators Made Over $25M in Fees on TRUMP, MELANIA Memecoins",
+    "time": "2025-01-22T08:03:00",
+    "author": "Shaurya Malwa",
+    "summary": "Of the 4.5 million daily active users on Solana, 1.5 million were unique tippers, showcasing interest in token sniping on platforms like Meteora and Orca.",
+    "content": "Solana's validators experienced a record influx of over 100,000 SOL, worth nearly $25.8 million, in fees and tips due to intense trading activity of the TRUMP and MELANIA tokens.\n\nThe peak occurred on Jan. 20, with validators receiving over 87,000 SOL, driven largely by the TRUMP token's rally, before MELANIA attracted bets. The surge in activity led to 24.7 million transaction bundles to ensure success.\n\nOf the 4.5 million daily active users on Solana, 1.5 million were unique tippers, showcasing interest in token sniping on platforms like Meteora and Orca.\n\nBundles on Solana refer to collections of transactions that are grouped together and sent to validators for processing. Tippers are users or bots who include additional fees (or tips) in their transactions to incentivize validators to prioritize their transactions in the block.\n\nThe trading activity briefly raised passive income for stakers to 7.14% annually, while inflation rates fell below 5%. TRUMP was trading at $42 on Wednesday morning, up 25% in the past 24 hours, while MELANIA registered slight losses trading at $4.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/solana-validators-made-over-25-m-in-fees-on-trump-melania-memecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Meteora",
+                "Orca"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "TRUMP",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record validator fees, increased trading activity, price rallies for TRUMP token, and raised passive income for stakers, all indicating positive market momentum."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Dogecoin Futures Set New Record as Analysts Target $1 DOGE in 2025",
+    "time": "2025-01-07T09:11:00",
+    "author": "Shaurya Malwa",
+    "summary": "Whale transactions and large withdrawals from exchange signal demand for the largest memecoin by market capitalization.",
+    "content": "AI Agents and stock market parody tokens may have been all the rage in recent weeks, but big players are active in\nDOGE\n$0.1623\nmarkets, with some targeting a $1 level in 2025.\n\nData from multiple sources shows an uptick in interest from whales, a colloquial term for wealthy and influential market participants, with a spike in transactions worth above $100,000 over the weekend. Such activity may serve as a precursor to a move higher.\n\nJanuary has historically served as the memecoin’s best-performing month with an average return of 85%, data shows, though it had outlier performances of 250% and 700% in 2014 and 2021, respectively. It has a median performance of 5%, the second-highest after 8% for October.\n\nFutures markets tracking the token set a fresh record in terms of open interest on Monday, with number of active contracts zooming to 10.35 billion DOGE from 7.50 billion DOGE over the weekend. That has surpassed a March 2024 peak of 10 billion DOGE, data from CoinGlass shows.\n\nOpen interest is the total number of unsettled derivative contracts. A bump in open interest can signal new money entering the market, potentially confirming current price trends and indicating upcoming volatility.\n\nHigh open interest might suggest a strong trend continuation. CoinDesk market analyst Omkar Godbole expects prices to reach 50 cents in the coming weeks, based on price-chart analysis.\n\n“DOGE has risen back above the closely monitored 50-day SMA, coinciding with a renewed upswing in the 10-day SMA, signaling a bullish bias,” Godbole said. “Additionally, the discount on Coinbase compared to Binance has disappeared. This suggests a strong likelihood that prices will break through the current three-day resistance at $0.40, potentially pushing toward 50 cents and beyond.”\n\nSMA, or simple moving average, is a measure of average prices for any asset over a specified period that can be used to determine resistance and support levels.\n\n“However, trading volumes on Coinbase remain low compared to the levels seen during the November rally, which warrants caution as long as the $0.40 resistance remains intact,” he added.\n\nSome expect DOGE to touch a memetic milestone level of $1 in 2025, a nearly 50% higher target than the token’s lifetime peak of 70 cents in 2021.\n\n“Dogecoin will finally hit $1, with the world’s largest and oldest memecoin touching a $100bn market cap,” Galaxy Digital head of research Alex Thorn wrote in a markets predictions post for the year. “However, the Dogecoin market cap will be eclipsed by the Department of Government Efficiency, which will identify and successfully enact cuts in amounts exceeding Dogecoin’s 2025 high-water mark market cap.”\n\nMuch of DOGE’s rally in recent has been fueled by bullish sentiment around the meme’s endorsement by technology entrepreneur Elon Musk in the Trump administration.\n\nMusk has kickstarted plans for a “Department of Government Efficiency,” abbreviated as D.O.G.E, to make government spending more efficient.\n\nThat has fueled expectation among traders that there could be more chatter of “DOGE” in mainstream media and retail trading circles, fueling attention and interest in dogecoin, as a CoinDesk analysis first noted in mid-October.",
+    "url": "https://www.coindesk.com/markets/2025/01/07/dogecoin-futures-set-new-record-as-analysts-target-1-doge-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Alex Thorn",
+                "Elon Musk"
+            ],
+            "positions": [
+                "CoinDesk market analyst",
+                "Galaxy Digital head of research",
+                "technology entrepreneur"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance",
+                "Galaxy Digital"
+            ],
+            "organizations": [
+                "Department of Government Efficiency",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased whale activity, record futures open interest, technical breakout signals, and analyst predictions of price increases to $0.50 and $1, all indicating positive market sentiment."
+    }
+}

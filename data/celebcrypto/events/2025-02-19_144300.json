@@ -1,0 +1,32 @@
+{
+    "title": "Binance.US Restores US Dollar Deposits and Withdrawals After Surviving Chokepoint 2.0",
+    "time": "2025-02-19T14:43:00",
+    "author": "Ian Allison",
+    "summary": "Access to fiat services begins Wednesday, and will be gradually rolled out to all eligible customers over the coming days, Binance.US said.",
+    "content": "Binance.US, a regulated cryptocurrency exchange serving American customers, has finally seen its US dollar fiat services restored, after the firm’s ability to handle USD deposits and withdrawals was choked out of existence under the Biden administration.\n\nAccess to fiat services begins Wednesday and will be gradually rolled out to all eligible customers over the coming days, Binance.US said. Users will be able to deposit and withdraw USD with zero fees using bank transfer (ACH) and continue buying, selling, converting and trading over 160 cryptocurrencies, the company said in a press statement.\n\nAn overzealous Securities and Exchange Commission (SEC) led by chair Gary Gensler decided, post-FTX, that Binance.US must be guilty of something, and the regulator did its best to snuff out the firm. Despite losing billions in business and being forced to cut 70% of its staff, Binance.US continued to operate as a crypto-to-crypto-only exchange from July 2023 until the present day.\n\n“Before we lost fiat, we were neck and neck with Kraken as the second or third largest US exchange, but obviously, we’ve fallen off significantly thanks to Operation Chokepoint 2.0, the SEC and all that mess,” said Binance.US Chief Operating Officer Christopher Blodgett in an interview.\n\n“We've made some very hard but healthy decisions in terms of our cost structure and right-sizing, and we've never been leaner or meaner or more ready to deliver an excellent product at a reasonable price – and today's the day,” he said.\n\nBlodgett said the firm currently has several banking partners in the mix, as well as the firm the exchange is going live with today, which was not named at this time.\n\nBinance.US is affiliated with the global Binance platform but operates as a separate U.S. company.",
+    "url": "https://www.coindesk.com/business/2025/02/19/binance-us-restores-us-dollar-deposits-and-withdrawals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Christopher Blodgett",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "Chief Operating Officer",
+                "chair"
+            ],
+            "companies": [
+                "Binance.US",
+                "Kraken",
+                "FTX"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The restoration of USD deposits and withdrawals for Binance.US customers after regulatory challenges represents improved accessibility and functionality for US cryptocurrency traders."
+    }
+}

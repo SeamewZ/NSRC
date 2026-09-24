@@ -1,0 +1,38 @@
+{
+    "title": "Pakistan to Explore Blockchain for Multibillion Dollar Remittances From Abroad: Adviser",
+    "summary": "Blockchain technology could help improve the speed and lower the cost of cash transfers from migrant workers, Bilal bin Saqib said in an interview.",
+    "time": "2025-03-10T12:23:00",
+    "author": "Omkar Godbole",
+    "content": "Pakistan, one of the top 10 nations for remittances from abroad, may leverage blockchain technology to streamline the process, Bilal bin Saqib, chief adviser to the finance minister and a member of the recently established Pakistan Crypto Council (PCC), said Monday.\n\nOverseas Pakistanis sent over $31 billion in 2023-24 via traditional channels that are often slow and expensive, Saqib told CoinDesk in an interview. Fees can exceed 5%.\n\nRemittances are earnings that migrants send back home, either as cash or as goods. The cash from abroad is a lifeline in many countries, where it acts as a buffer during crises and a potential driver of sustainable growth.\n\n\"The PCC will investigate blockchain-based remittance solutions to reduce costs and delays,\" he said. \"Additionally, we’ll invest in blockchain education, upskilling programs, and Web3 development to cultivate talent, boost employment, and drive economic growth.\"\n\nBlockchain technology could help improve fund transfers from overseas by disintermediating entities like correspondent banks, potentially reducing the cost of cross-border transactions significantly, the OECD observed in 2020.\n\nTrading in cryptocurrencies and stablecoins remains prohibited in Pakistan under a 2018 circular from the State Bank of Pakistan (SBP) banning financial institutions from facilitating crypto transactions.\n\nStill, the country is one of the five Asian nations featured in Chainalysis' 2024 Global Crypto Adoption Index. A significant percentage of the population is using digital assets to hedge against inflation and volatility in the foreign exchange rate and the broader economy.\n\n\"This reflects significant demand despite the regulatory vacuum. With over 60% of Pakistan’s 240 million people under 30, our tech-savvy youth are poised to drive blockchain and Web3 innovation,\" Saqib said. \"The PCC aims to unlock this untapped potential by advocating for a clear, progressive regulatory framework.\"\n\nThe PCC is also exploring initiatives like tokenizing real-world assets and establishing regulatory sandboxes while ensuring compliance with Financial Action Task Force (FATF) standards. The FATF removed Pakistan from the gray list in 2022.\n\n\"Illegal crypto outflows are a concern,\" he said \"Without regulation, cryptocurrencies can facilitate untracked cross-border transactions, exacerbating dollar shortages. The PCC’s first step is to establish a robust, transparent regulatory framework mandating know-your-customer (KYC) and anti-money laundering (AML) compliance for all crypto activities.\"\n\nRegulatory policies are starting to evolve globally, including in Southeast Asia, in the wake of President Donald Trump's support for the digital assets industry after winning the U.S. presidential election.\n\nLast week, Trump announced plans for a strategic bitcoin reserve, which will be formed from BTC and other coins seized during enforcement actions. Saqib wasn't sure if such a move suited Pakistan.\n\n\"While building a BTC reserve from seized assets could be appealing, Pakistan’s crypto enforcement is nascent, and illicit holdings are rarely intercepted at scale. Any move toward a strategic reserve would require careful dialogue with the IMF and FATF to avoid jeopardizing international support or Pakistan’s post-gray-list status,\" Saqib said.",
+    "url": "https://www.coindesk.com/tech/2025/03/10/pakistan-to-explore-blockchain-for-multibillion-dollar-remittances-from-abroad",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bilal bin Saqib",
+                "Donald Trump"
+            ],
+            "positions": [
+                "chief adviser to the finance minister",
+                "member of the Pakistan Crypto Council (PCC)",
+                "President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Chainalysis"
+            ],
+            "organizations": [
+                "Pakistan Crypto Council (PCC)",
+                "State Bank of Pakistan (SBP)",
+                "OECD",
+                "Financial Action Task Force (FATF)",
+                "IMF"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Pakistan's exploration of blockchain for remittances and plans for progressive crypto regulation indicate growing institutional adoption and regulatory clarity in a major emerging market."
+    }
+}

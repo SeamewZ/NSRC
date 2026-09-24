@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Hedera (HBAR) Falls 12% as All Assets Trade Lower",
+    "time": "2025-02-25T14:16:00",
+    "author": "CoinDesk Indices",
+    "summary": "Aave (AAVE) was also among the underperformers, declining 11.6% from Monday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2822.97, down 7.2% (-218.33) since 4 p.m. ET on Monday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: APT (-3.8%) and DOT (-4.7%).\n\nLaggards: HBAR (-12.0%) and AAVE (-11.6%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/25/coindesk-20-performance-update-hedera-hbar-falls-12-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "HBAR",
+            "AAVE",
+            "APT",
+            "DOT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that all 20 assets in the CoinDesk 20 Index are trading lower with significant declines, indicating a broad market downturn."
+    }
+}

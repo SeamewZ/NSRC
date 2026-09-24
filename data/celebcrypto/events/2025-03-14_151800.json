@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin-Related Convertible Bond ETF Comes to Market",
+    "time": "2025-03-14T15:18:00",
+    "author": "Helene Braun",
+    "summary": "Convertible debt from Michael Saylor's Strategy comprises the majority of the REX Bitcoin Corporate Treasury Convertible Bond ETF holdings.",
+    "content": "REX Shares has launched a first-of-its-kind convertible-bonds exchange-traded fund (ETF), allowing investors exposure to the convertible debt issued by corporates to add bitcoin to their balance sheet.\n\nCalled the REX Bitcoin Corporate Treasury Convertible Bond ETF (BMAX), the fund is necessarily mostly made up of convertible paper issued by Michael Saylor's Strategy (MSTR), by far the largest issuer of such debt. Other top 10 holdings include the convertible notes of bitcoin miners Marathon Digital (MARA) and Riot Platforms (RIOT).\n\n“Until now, these bonds have been difficult for individual investors to reach,” said Greg King, CEO of Rex Financial, in a statement. “BMAX removes those barriers, making it easier to invest in the strategy pioneered by Michael Saylor — leveraging corporate debt to acquire Bitcoin as a treasury asset.”\n\nThe fund officially launched today, and trades on the Nasdaq. It has a gross expense ratio of 0.85% and was seeded with $25 million in assets.\n\nShares of the ETF are higher in early trading as bitcoin has rallied from an overnight low of around $80,000 to above $84,000.",
+    "url": "https://www.coindesk.com/markets/2025/03/14/bitcoin-related-convertible-bond-etf-comes-to-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Greg King"
+            ],
+            "positions": [
+                "CEO of Rex Financial"
+            ],
+            "companies": [
+                "REX Shares",
+                "Strategy (MSTR)",
+                "Marathon Digital (MARA)",
+                "Riot Platforms (RIOT)",
+                "Nasdaq"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports that shares of the new Bitcoin-related ETF are higher in early trading as bitcoin has rallied from $80,000 to above $84,000, indicating positive market movement and investor confidence."
+    }
+}

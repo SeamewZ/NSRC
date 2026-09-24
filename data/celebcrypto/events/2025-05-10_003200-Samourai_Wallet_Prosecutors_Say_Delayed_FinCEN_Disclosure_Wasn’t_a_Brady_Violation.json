@@ -1,0 +1,35 @@
+{
+    "title": "Samourai Wallet Prosecutors Say Delayed FinCEN Disclosure Wasn’t a Brady Violation",
+    "summary": "At most, the late disclosure impacts one of the two charges against Samourai Wallet’s co-founders, prosecutors said in their Friday letter to the judge.",
+    "time": "2025-05-09T16:32:00",
+    "author": "Cheyenne Ligon",
+    "content": "Prosecutors in the Samourai Wallet case have denied accusations that they suppressed critical evidence in their criminal case against the crypto mixing service’s two co-founders, Keonne Rodriguez and William Lonergan Hill.\n\nIn a letter to the court filed Friday, prosecutors urged Judge Richard Berman of the Southern District of New York (SDNY) to deny Rodriguez and Hill’s recent motion for a hearing to litigate the government’s tardy disclosure of a conversation between prosecutors and the Financial Services Enforcement Network (FinCEN). In that conversation, which took place six months before charges were filed, FinCEN officials told prosecutors that Samourai Wallet didn’t meet their definition of a money transmitting business and thus didn’t need a license to operate.\n\nDespite FinCEN’s guidance, prosecutors went ahead with their case, charging both Rodriguez and Hill with one count each of conspiracy to commit money laundering and conspiracy to operate an unlicensed money transmitting business. Through Samourai Wallet, prosecutors have alleged that the two men “intentionally and successfully laundered over $100 million in crime proceeds of all types” and explicitly marketed their services to “Dark/Gray Market Participants” including hackers and fraudsters.\n\nBy not telling the defense about their communication with FinCEN until last month, lawyers for Rodriguez and Hill say the government violated due process — a so-called Brady violation, named for the landmark Supreme Court case Brady v. Maryland in 1963, in which the court held that the government must hand over any exculpatory or material evidence (basically, anything suggesting that the defendant isn’t actually guilty of the crime they’ve been charged with) to the defense in a timely manner.\n\nHowever, prosecutors have denied that they’ve committed any Brady violations in the Samourai Wallet case. In their letter to the judge, they laid out a host of reasons that the timing of their disclosure of the FinCEN conversation was fair play. First, they argued that their conversation with the FinCEN employees represented their “individual, informal and caveated opinions” on whether Samourai Wallet would have been required to register as a money transmitting business, rather than a formal finding by the regulator itself.\n\n“Courts have repeatedly held that these types of legal opinions — or opinions of any kind — are not Brady material; facts are Brady material,” prosecutors wrote.\n\nProsecutors also said that, even if the material were relevant to the defense’s case, they had turned it over to the defense seven months ahead of trial, writing: “There is no need for court intervention when the defendants have received discovery materials sufficiently in advance of trial to effectively use the information.”\n\nIn their own letter to the court earlier this week, lawyers for Samourai Wallet said that their clients had been unfairly prejudiced by the government’s lack of disclosure, arguing that it could have impacted the magistrate judge’s bail decision or the court’s ruling on an early motion to dismiss the case entirely.\n\nProsecutors pushed back against this argument, saying that the bulk of the case against Samourai Wallet was not tied to the money transmitting charge and was instead tied to Rodriguez and Hill’s alleged money laundering scheme — the more serious of the two charges against them, carrying a hefty 20 year maximum prison sentence.\n\nThe back-and-forth over the potential Brady violation comes after the defense asked prosecutors to drop their case under the auspices of the so-called Blanche Memo, a recent memo from Deputy Attorney General Todd Blanche, ordering U.S. Department of Justice (DOJ) staff to narrow their crypto enforcement priorities. Under the Blanche memo, prosecutors were ordered to stop pursuing litigation against crypto exchanges or mixing services for the actions of their end users.\n\nFollowing the request, prosecutors met with the defense to consider the request on April 10. Nearly a month later, the government still has not reached a decision either way, which some former SDNY prosecutors have characterized as unusual in conversations with CoinDesk.",
+    "url": "https://www.coindesk.com/policy/2025/05/09/samourai-wallet-prosecutors-say-delayed-fincen-disclosure-wasn-t-a-brady-violation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Keonne Rodriguez",
+                "William Lonergan Hill",
+                "Richard Berman",
+                "Todd Blanche"
+            ],
+            "positions": [
+                "Deputy Attorney General",
+                "magistrate judge"
+            ],
+            "companies": [
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "Financial Services Enforcement Network (FinCEN)",
+                "Southern District of New York (SDNY)",
+                "Supreme Court",
+                "U.S. Department of Justice (DOJ)",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing legal proceedings and regulatory uncertainty around a specific crypto mixing service, but does not indicate broader market price movements or clear directional impact on cryptocurrency markets."
+    }
+}

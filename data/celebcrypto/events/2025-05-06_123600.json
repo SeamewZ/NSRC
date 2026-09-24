@@ -1,0 +1,44 @@
+{
+    "title": "Bitcoin Traders Seek Downside Protection Ahead of Fed Chair Powell’s Comments",
+    "summary": "We have only seen some nuanced demand for protective BTC puts, reflecting limited caution among sophisticated traders, Deribit's CEO told CoinDesk.",
+    "time": "2025-05-06T12:36:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,997.67\noptions market flows signal moderate risk aversion ahead of Federal Reserve (Fed) Chair Jerome Powell's expected remarks on a potential June rate cut Wednesday.\n\n\"While the Federal Reserve is widely expected to hold rates steady at this week’s meeting, we have only seen some nuanced demand for protective BTC puts, reflecting limited caution among sophisticated traders,\" said Luuk Strijers, CEO of leading crypto options exchange Deribit.\n\nA put option gives the purchaser the right but not the obligation to sell the underlying asset at a predetermined price on or before a specific date. Think of it as an insurance against price swoons. Traders typically buy put options when looking to profit from or protect long spot market positions from market downturns.\n\nDeribit is the world's leading crypto options exchange, registering billions of dollars in daily trading volume. On Deribit, one options contract represents one BTC.\n\nStrjers explained that the broader options market hasn't shown a strong directional bias or decisive tilt toward downside hedging.\n\n\"Spot BTC has retraced to around $94k, and Deribit’s DVOL, our implied volatility index, sits at 45 — levels we last observed in June 2024. Overall, this suggests a moderate risk-off sentiment, but not yet a panic-driven rush for protection,\" Strijers said.\n\nHowever, traders operating on decentralized exchange Derive.XYZ seemed more cautious and worried about downside risks.\n\n\"There's evidence of downside protection as traders are also purchasing puts at $82K, $78K, and $76K strikes, likely due to concerns over Federal Reserve board meeting that could lead to no rate cuts – or worse, hikes,\" Dr. Sean Dawson, head of Research at the leading decentralized on-chain options AI-powered platform Derive.XYZ, told CoinDesk in an email.\n\nDerive, formerly Lyra, is one of the leading on-chain options platform, accounting for over 20% of the total on-chain activity of $1.38 billion in April, according to data source DeFiLlama.\n\nOn Wednesday, the Fed is likely to keep the benchmark interest rate steady in the range of 4.25%-4.50%. That's a foregone conclusion.\nAt the same time, Powell is likely to maintain the broad data-dependent stance at the post-decision press conference.\n\nHowever, Powell could be asked about the prospects of a rate cut in June and the economic uncertainty stemming from President Donald Trump's recent tit-for-tat trade war with China.\n\nThe DEX traders' anxiety likely stems from what Powell could say about the two issues.\n\nUntil last Friday's hotter-than-expected nonfarm payrolls release, markets expected the Fed to cut rates by a quarter percentage point in June. However, the strong jobs report has shifted market expectations, with traders now seeing just a 30% chance of a move in June.\n\n\"Market participants will be watching closely next week’s FOMC meeting to see if the Fed provides a stronger signal that it is considering resuming rate cuts at the following FOMC meeting in June. After today’s solid nonfarm payrolls report for April, it is less likely that the Fed will set up a cut in June, which is now more dependent on the incoming US economic data rolling over in the month ahead,\" Lee Hardman, senior currency analyst at MUFG, said in a note to clients on May 2.\n\nRisk assets, including BTC, may come under pressure if Powell strongly pushes back against the June rate cut, voicing stagflation fears. Similar reaction may be seen if the assessment of uncertainty in the policy statement is upgraded to reflect trade war developments since April.\n\nBank of America (BofA), however, expects Powell to keep the door open for a potential rate cut in June.\n\n\"Powell will probably get asked about the prospects of a June rate cut. The bar for that seems high, given that the 90-dat pause on the reciprocal tariffs doesn't end until July. Still, we don't think Powell would want to rule out a June cut,\" BofA's global research team said in a note to clients on May 2.\n\n\"It is easier to simply state that the Fed is data dependent and vigilant to risks to both of its mandates And then let the data speak.\"",
+    "url": "https://www.coindesk.com/markets/2025/05/06/bitcoin-traders-seek-downside-protection-ahead-of-fed-chair-powell-s-comments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers",
+                "Jerome Powell",
+                "Sean Dawson",
+                "Donald Trump",
+                "Lee Hardman"
+            ],
+            "positions": [
+                "CEO",
+                "Fed Chair",
+                "head of Research",
+                "President",
+                "senior currency analyst"
+            ],
+            "companies": [
+                "Deribit",
+                "Derive.XYZ",
+                "CoinDesk",
+                "Bank of America",
+                "MUFG",
+                "DeFiLlama"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "FOMC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes moderate risk aversion with limited downside protection demand and mixed trader sentiment, indicating neither strong bullish nor bearish momentum ahead of Powell's comments."
+    }
+}

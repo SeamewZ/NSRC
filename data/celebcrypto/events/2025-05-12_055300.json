@@ -1,0 +1,27 @@
+{
+    "title": "Hacking Attempt on Lido Results in 1.4 Ether Lost From Oracle Provider",
+    "summary": "A private key belonging to Chorus One was compromised, and a governance vote is underway to switch oracle keys.",
+    "time": "2025-05-12T05:53:00",
+    "author": "Shaurya Malwa",
+    "content": "Lido, Ethereum’s largest liquid staking protocol, avoided a major security incident after one of its nine oracle keys was compromised in what appears to be a low-impact but serious breach involving validator operator Chorus One.\n\nLido secures over 25% of all ether\nETH\n$3,340.48\nstaked on Ethereum, making it one of the most systemically important protocols in the Ethereum ecosystem.\n\nThe compromised key was tied to a hot wallet used for oracle reporting, leading to the theft of just 1.46 ETH ($4,200) in gas fees. No user funds were affected, and no broader compromise was detected, per X posts from both Lido and Chorus One.\n\nLido’s oracle system is a blockchain-based tool that supplies Ethereum consensus data to Lido’s smart contracts using a 5-of-9 quorum mechanism. This means that even if upto 4 keys are compromised, the system can function securely.\n\nContributors first detected the suspicious activity early Sunday after a low-balance alert triggered a closer look at the address. It revealed unauthorized access to an oracle private key used by Chorus One that was originally created in 2021 and not secured to the same standards as newer keys, the firm said in an X post.\n\nIn response, Lido has launched an emergency DAO vote to rotate the compromised oracle key across three contracts: the Accounting Oracle, the Validators Exit Bus Oracle, and the CS Fee Oracle. The new key has been generated using better security controls to avoid any repeat.\n\nThe hack occurred just as several other oracle operators were experiencing unrelated node issues, including a minor Prysm bug introduced by Ethereum’s recent Pectra upgrade, briefly delaying oracle reports on May 10.\n\nThe compromised address (0x140B) is being replaced by a new secure address (0x285f), with the on-chain vote already approved and in its 48-hour objection period as of Asian morning hours Monday.\n\nUPDATE (May 12, 08:00 UTC): Updates headline and story with Lido's comment.",
+    "url": "https://www.coindesk.com/tech/2025/05/12/ethereum-staking-giant-lido-loses-just-14-eth-in-hacking-attempt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Chorus One",
+                "Lido"
+            ],
+            "organizations": [
+                "DAO"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach involving a compromised private key and theft of funds from a major Ethereum staking protocol, which represents a negative security incident."
+    }
+}

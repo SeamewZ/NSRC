@@ -1,0 +1,46 @@
+{
+    "title": "Bitcoin Edges Higher to $84K as Analyst Warns of Another Leg Down for Crypto",
+    "time": "2025-03-17T21:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "A crypto rally to new highs may have to wait until later this year, said Coinbase Institutional's head of research.",
+    "content": "Crypto markets climbed higher on Monday with bitcoin\nBTC\n$104,608.94\ntrading above $84,000 as another positive day for U.S. stocks extended their rise lifting risk assets.The largest cryptocurrency was up, the broader crypto market was up 1.8%, while the broad-market CoinDesk 20 Index slightly outperformed with a 2.4% advance during the same period. Ethereum's ether\nETH\n$3,495.36\nstabilized above $1,900 and was 2.8% higher, while several altcoin majors including SUI, AAVE, ICP and NEAR booked more than 5%.\n\nSolana also edged 3% higher in line with the broader market, as the first day of SOL futures trading on institutional-focused marketplace CME failed to make a difference on investor sentiment.\n\nEthena's governance token (ENA) rallied 7% on the news of developing a proprietary blockchain with tokenized asset issuer Securitize, aiming to connect decentralized finance (DeFi) and traditional institutions.\n\nKey U.S. stock indexes extending their bounce into this week gave a favorable backdrop for risk assets. However, LMAX Group strategist Joel Kruger warned that the monthly S&P500 chart suggests a sustained correction for U.S. equities, which could weigh on cryptocurrencies.\n\n\"When we consider the state of global trade tension and concerns around a slowdown in the US economy, all at a time when it’s increasingly uncertain how much more accommodation the Fed can offer, there is indeed worry stocks could fall further,\" Kruger said.\n\nHe noted there's a potential for a lower low for BTC to revisit the 2024 March peak at $73,000-$74,000.\n\nThe market near-universally expects the Fed to keep rates unchanged during this week's Federal Open Market Committee's meeting, but investors should keep an eye on any potential change in the central bank's balance sheet runoff, or quantitative tightening (QT) program, said David Duong, head of research at Coinbase Institutional.\n\n\"We think the Fed might pause or end its QT program this week, as bank reserve levels are near the 10-11% of GDP levels that are commonly considered sufficient for maintaining financial stability,\" he wrote in a Monday report.\n\nHe said the recent crypto selloff was largely due to macro concerns and deteriorating liquidity conditions, which could turn for the better during the next quarter, providing tailwind for asset prices. \"Crypto prices could find their bottom in the next few weeks before rebounding to new highs later this year,\" he concluded.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bitcoin-stalls-at-usd84k-ahead-of-fomc-meeting-analyst-warns-of-another-leg-down-for-crypto",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joel Kruger",
+                "David Duong"
+            ],
+            "positions": [
+                "head of research",
+                "strategist"
+            ],
+            "companies": [
+                "Coinbase Institutional",
+                "LMAX Group",
+                "CME",
+                "Securitize"
+            ],
+            "organizations": [
+                "Fed",
+                "Federal Open Market Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "SUI",
+            "AAVE",
+            "ICP",
+            "NEAR",
+            "Solana",
+            "SOL",
+            "Ethena",
+            "ENA"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed signals with current price increases countered by analyst warnings of potential declines and macroeconomic concerns."
+    }
+}

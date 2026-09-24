@@ -1,0 +1,24 @@
+{
+    "title": "The Bitcoin Iceberg: Buyers Await Beneath The Bearish Surface",
+    "time": "2025-01-10T06:53:00",
+    "author": "Omkar Godbole",
+    "summary": "The market depth shows dominance of buy orders at levels away from the going market rate.",
+    "content": "The bitcoin\nBTC\n$104,608.94\nmarket resembles an iceberg at the moment, with the surface revealing a dominance of sellers that paints an overtly bearish sentiment. However, at deeper levels beneath the surface, bargain hunters are quietly waiting to snap up coins and potentially put a floor under prices.\n\nOn the major spot and perpetual futures exchanges, the uptrend at the quote level, the going market rate, has flipped to a downtrend, indicating more traders are willing to sell at the market price, according to data source Hyblock Capital.\n\nThe order book depth from quote level (0%) and 1% shows a similar pattern. Order book depth represents the combined value of buy and sell orders at specific levels (1%, 2%, 5%) from the ongoing market price. It shows the market's ability to absorb large orders at stable prices.\n\n\"At the quote level, there was an upward trend, which has now shifted to a downward trend, indicating a selling pressure, which is generally where market makers (MMs) operate. Between the quote level to 1%, the action is the same as the MMs,\" Hyblock Capital said in an analysis post on X.\n\nMoreover, the seller dominance near the quote level is hardly surprising, given the recent price action in BTC, which has seen the leading cryptocurrency decline from over $102,000 to $94,000 in days, mainly due to renewed U.S. inflation concerns. On Thursday, at one point, prices slipped as low as $92,500.\n\nBut the real story is the continued uptrend in market depth from 2% to 5%., which points to more bids relative to asks at price levels away from the going market rate. In other words, buyers are waiting to enter the market at those levels.\n\n\"Between 1% - 2% and 2% - 5% of the book, we see increased demand (more bids than asks over time),\" Hyblock added.\n\nBitcoin changed hands at around $94,000 at press time, with traders awaiting Friday's U.S. nonfarm payrolls release to provide the next directional cue to risk assets.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/the-bitcoin-iceberg-buyers-await-beneath-the-bearish-surface",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Hyblock Capital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant buyer demand at deeper price levels (2%-5% from market rate) which could put a floor under prices and indicates underlying market confidence despite surface-level selling pressure."
+    }
+}

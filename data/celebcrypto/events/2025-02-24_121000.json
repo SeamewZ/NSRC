@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Daybook Americas: Bybit Hack Fails to Ruffle Feathers, Traders Eye SOL ETF",
+    "time": "2025-02-24T12:10:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Feb. 24, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nBitcoin and ether, the two largest digital assets by market value, remain largely within their recent trading ranges two days after the $1.5 billion hack of Bybit, one of the top cryptocurrency exchanges.\n\nPerpetual funding rates for both are positive, indicating a bias for long positions that benefit from price rises. Bitcoin options trading on Deribit show a bullish bias for call options across all time frames, while those tied to ether show a downside bias into March. The bias for ether puts, however, has been present since well before the hack.\n\nMeanwhile, Volmex Finance's 30-day bitcoin implied volatility index has dropped to an annualized 48.45%, the lowest since July, according to charting platform TradingView. Ether's implied volatility has reversed the minor weekend spike from 67% to 70%.\n\nThe calm is a sign of market maturity, according to QCP Capital. \"The price action underscores the growing maturity of the crypto landscape since the FTX collapse in 2022, particularly in the crypto credit market,\" the trading firm said. \"Every facet of crypto — from custodial and security solutions to corporate governance and transparency — has strengthened with each past crisis.\"\n\nOverall, the crypto community is reassured by Bybit’s ability to manage over $6 billion in withdrawals following the hack. Plus, the exchange has filled the gap in its ETH reserves.\n\nAccording to Mena Theodorou, a co-founder of crypto exchange Coinstash, all eyes will be on Solana's SOL as Franklin Templeton, one of the world’s largest asset management firms, has submitted a spot SOL ETF proposal to the SEC. In addition, 11.2 million SOL (2.3% of total supply) from the FTX estate are scheduled to be unlocked on March 1, which could breed market volatility. That has already boosted volume in SOL put options on Deribit.\n\nPresident Donald Trump's decision to audit gold reserves at Fort Knox in Kentucky has piqued interest in the crypto community. \"While routine gold audits are rare, the timing is notable as Trump continues to push a pro-crypto narrative. If the gold supply turns out to be lower than expected, it could reinforce Bitcoin’s case as digital gold — and possibly even as a superior reserve asset,\" Theodorou said in an email.\n\nIn traditional markets, the yen continues to gain ground against the U.S. dollar and growth-sensitive commodity currencies such as the Australian dollar, calling for caution on the part of the risk asset bulls. Stay alert\n\nBy Francisco Rodrigues\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/24/crypto-daybook-americas-bybit-hack-fails-to-ruffle-feathers-traders-eye-sol-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Mena Theodorou",
+                "Donald Trump",
+                "Francisco Rodrigues"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Bybit",
+                "Deribit",
+                "Volmex Finance",
+                "TradingView",
+                "QCP Capital",
+                "Coinstash",
+                "Franklin Templeton",
+                "FTX"
+            ],
+            "organizations": [
+                "SEC",
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market shows mixed signals with positive funding rates and bullish bitcoin options but downside bias for ether and potential volatility from SOL unlocks, while the Bybit hack failed to cause significant disruption."
+    }
+}

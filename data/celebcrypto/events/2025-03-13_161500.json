@@ -1,0 +1,27 @@
+{
+    "title": "Gold Jumps to New Record, for Now Winning Debate Against Bitcoin as Risk-Off Asset",
+    "time": "2025-03-13T16:15:00",
+    "author": "Krisztian Sandor",
+    "summary": "The yellow metal has risen as stocks (and bitcoin) have crumbled over the past few weeks.",
+    "content": "After the meekest of rallies yesterday following some soft inflation numbers, U.S. stocks Thursday are once again headed sharply lower and apparently pulling bitcoin\nBTC\n$104,523.82\nalong for the ride.\n\nJust ahead of the noon hour on the east coast, the Nasdaq is lower by 1.7% and the S&P 500 by 1.2% After pushing to nearly $85,000 on Wednesday, bitcoin has retreated all the way back to $81,000, off 1% over the past 24 hours.\n\nGold, though, is doing what it's been doing for a thousand years — providing a haven during times of distress. The yellow metal is ahead by 1.5% to a new record high and within $10 of pushing through $3,000 per ounce for the first time ever.\n\nSince the Nasdaq peaked for the year three weeks ago, that gauge has dropped almost 15%. Gold over that time frame has gained about 1%, while bitcoin is lower by nearly 20%.\n\nThe current outperformance might remind investors of the late summer/early fall of 2024, when crypto markets along with stocks treaded water in a sideways range while gold carved out new highs. While BTC consolidated between $50,000 and $70,000 between March and October, gold climbed almost 40% to $2,800. Bitcoin eventually rallied to above $100,000, buoyed by Trump's election victory, while the gold gains stalled as money flowed from havens into risk assets.\n\nHighlighting where the capital is flowing, gold exchange-traded funds enjoyed their largest 30-day average inflows since early 2022, adding 3 million ounces worth of yellow metal to the funds, according to Bold.report data.\n\nIn contrast, U.S.-listed spot bitcoin ETFs saw $5 billion in outflows in since February, experiencing the worth negative streak in their one-year history, per SoSoValue data.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/gold-jumps-to-new-record-for-now-winning-debate-against-bitcoin-as-risk-off-asset",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Bold.report",
+                "SoSoValue"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin retreating to $81,000, being down 20% over three weeks, and experiencing $5 billion in ETF outflows while gold outperforms as a safe haven asset."
+    }
+}

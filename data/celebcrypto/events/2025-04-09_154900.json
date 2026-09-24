@@ -1,0 +1,27 @@
+{
+    "title": "Tax-Loss Harvesting for Multi-Asset Crypto Portfolios: A Primer",
+    "time": "2025-04-09T15:49:00",
+    "author": "Connor Farley",
+    "summary": "Systematic moves can unlock tax savings for direct index-style crypto portfolios, says Truvius’ Connor Farley.",
+    "content": "The digital asset class is highly technical. Powered by blockchain technology and globally traded 24/7, digital asset markets are fast-moving and awash in data. A systematic investment approach may lend itself well to such a market.\n\nSystematic investing can also unlock a critical and particularly well-suited feature for multi-asset crypto portfolios: automated tax-loss harvesting.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nInvestors buy assets they expect to appreciate over time, but markets ebb and flow, and no asset perpetually rises without experiencing some losses along the way. Sometimes, investors hold assets at a loss.\n\nWhen investors hold one or more of their assets at a loss, they can sell the depreciated asset(s), realize the loss and use those realized losses to offset realized gains or ordinary income. Simultaneously, investors re-invest the proceeds from selling the depreciated assets to purchase similar assets (e.g., selling Home Depot stock and re-purchasing Lowe’s stock), thus also generally maintaining their original portfolio exposure.\n\nThe outcome? Investors pay less in taxes at the end of the year while still maintaining their exposure — deferring near-term tax obligations and getting to keep more invested today for greater long-term compounded growth.\n\nSoftware and algorithms are better suited to systematically exploit tax-loss harvesting (TLH) opportunities vs. manual human involvement. To effectively harvest losses, investors need to track their cost basis and purchase dates and perform the requisite trading across all of their holdings — all tasks that are more effectively handled by a mechanical process, especially when scaling up this technique for multi-asset portfolios with dozens of digital assets.\n\nTLH is a systematic technique that allows investors to get more from their holdings. Large, diversified liquid portfolios lend themselves well to this technique since investors can easily trade the underlying assets and replace assets with similar ones (ex: selling Coca-Cola stock and replacing it with Pepsi stock).\n\nThe same is true for crypto markets — portfolios with dozens of digital assets generally have greater TLH flexibility compared to single-asset holdings or portfolios with only a small number of digital assets.\n\nIn fact, this tax-savvy investing technique may work particularly well for crypto assets, which exhibit relatively higher volatility compared to other asset classes like equities and fixed income. While crypto’s volatility may deter some investors, TLH provides a silver lining.\n\nSince TLH requires re-establishing one’s cost basis by selling and replacing individual assets, there are several investment choices that may not be as well-suited to TLH:\n\nInvestors can use direct-index crypto separately managed accounts (SMAs) from crypto SMA managers to access liquid, actively managed multi-asset portfolios that encompass dozens of assets, rebalance automatically and perform automated TLH.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/04/09/tax-loss-harvesting-for-multi-asset-crypto-portfolios-a-primer",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Connor Farley"
+            ],
+            "positions": [],
+            "companies": [
+                "Truvius",
+                "Home Depot",
+                "Lowe's",
+                "Coca-Cola",
+                "Pepsi"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes tax-loss harvesting as a positive technique that can unlock tax savings and provide greater long-term compounded growth for crypto investors."
+    }
+}

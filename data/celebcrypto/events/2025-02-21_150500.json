@@ -1,0 +1,26 @@
+{
+    "title": "Bybit Makes Liquidation Data More Transparent Aiming to Lure Institutional Investors",
+    "time": "2025-02-21T15:05:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The move is meant to help lure instituional investors and improve market transparency.",
+    "content": "Major cryptocurrency exchange Bybit said all of its liquidation data is now publicly available through an upgrade to its application programming interface (API).\n\nWith the upgrade, the API delivers liquidation data updates every 500 milliseconds, twice as fast as the previous version, which provided just one update per second per trading pair, it said.\n\nThe change ensures that every liquidation event is captured in real time, eliminating blind spots that previously obscured the true scope of market activity\n\n“The real spirit of crypto is transparency. By making all liquidation data fully public, we’re empowering traders and analysts with the insights they need,” CEO and co-founder Ben Zhou said in a statement.\n\nLiquidation data helps traders identify market trends, support and resistance levels, and potential volatility spikes. Examining the data will provide traders, analysts, and institutional investors with real-time insights into market activity.\n\nEarlier this month, significant volatility led to over $2.2 billion in liquidations being reported in just 24 hours. At the time, Zhou said that the “real total liquidation is a lot more than $2B, by my estimation it should be at least $8-10B.”\n\nHe revealed that on Bybit alone, liquidations hit $2.1 billion in the previous 24 hours. API limitations, he said, were to blame for the lack of proper data on these events.",
+    "url": "https://www.coindesk.com/markets/2025/02/21/bybit-makes-liquidation-data-more-transparent-aiming-to-lure-institutional-investors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder"
+            ],
+            "companies": [
+                "Bybit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bybit's move to increase transparency and attract institutional investors, which typically indicates market confidence and positive development."
+    }
+}

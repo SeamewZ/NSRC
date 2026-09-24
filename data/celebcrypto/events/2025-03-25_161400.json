@@ -1,0 +1,28 @@
+{
+    "title": "Abracadabra Drained of $13M in Exploit Targeting Cauldrons Tied to GMX Liquidity Tokens",
+    "time": "2025-03-25T16:14:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The attack targeted pools tied to GMX liquidity tokens, specifically “cauldrons” using GM tokens as collateral.",
+    "content": "Decentralized lending platform Abracadabra.Finance suffered an attack that drained $13 million worth of cryptocurrency from pools tied to GMX liquidity tokens.\n\nBlockchain security firm PeckShield flagged that contracts involving decentralized exchange GMX and Abracadabra were compromised, leading to the theft of 6,260 ETH, worth around $12.98 million at the time of writing.\n\nThe exploit focused on so-called \"cauldrons,\" isolated lending markets in Abracadabra where users can borrow against crypto collateral. These particular cauldrons relied on GM tokens, which represent liquidity positions in GMX, a decentralized exchange platform.\n\nGMX distanced itself from the incident. In a post on X, an account associated with the exchange said that GMX’s contracts themselves were unaffected. The team later said the breach was “solely related to the Abracadabra/Spell cauldrons,” which used GM tokens as collateral but did not involve GMX’s core infrastructure.\n\nIn a statement on X, Abracadabra confirmed the exploit and said core contributors and engineers were investigating the incident to its “fully audited” cauldron. The protocol noted that gmCauldrons had been audited by Guardian Audits — the same firm that audited GMX contracts — and were part of a broader security infrastructure involving monitoring and response tools.\n\nThe protocol offered the attacker a 20% bug bounty and invited them to negotiate via email or an on-chain message.\n\nAbracadabra is working with Guardian and GMX as well as other security partners in assessing the extent of the damage and how the attack was executed. A full post-mortem will follow once the investigation concludes, and no user collateral was affected, it said.\n\nLast year Abracadabra.Finance suffered a $6.49 million exploit that caused its Magic Internet Money (MIM) stablecoin to lose its peg to the U.S. dollar.",
+    "url": "https://www.coindesk.com/business/2025/03/25/abracadabra-drained-of-usd13m-in-exploit-targeting-cauldrons-tied-to-gmx-liquidity-tokens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "PeckShield",
+                "Guardian Audits"
+            ],
+            "organizations": [
+                "Abracadabra.Finance",
+                "GMX"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "MIM"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $13 million security breach and exploit targeting a decentralized lending platform, which represents a negative event that could undermine market confidence."
+    }
+}

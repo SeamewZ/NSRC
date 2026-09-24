@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Falls 1.9%, Leading Index Lower",
+    "time": "2025-03-25T13:48:00",
+    "author": "CoinDesk Indices",
+    "summary": "Aave (AAVE) was also among the underperformers, declining 1.9%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2780.73, down 0.9% (-23.96) since 4 p.m. ET on Monday.\n\nNine of 20 assets are trading higher.\n\nLeaders: AVAX (+4.1%) and ADA (+2.3%).\n\nLaggards: BCH (-1.9%) and AAVE (-1.9%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/25/coindesk-20-performance-update-bitcoin-cash-bch-falls-1-9-leading-index-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin Cash",
+            "BCH",
+            "Aave",
+            "AAVE",
+            "AVAX",
+            "ADA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is down 0.9% with more assets declining than rising, led by BCH and AAVE both falling 1.9%."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Worldcoin Rival Humanity Protocol's Valuation Jumps to $1.1B After Fresh Fund Raise",
+    "time": "2025-01-27T14:03:00",
+    "author": "Jamie Crawley",
+    "summary": "The protocol aims to rival OpenAI founder Sam Altman's Worldcoin project, which is built around scanning users' irises.",
+    "content": "Decentralized identity project Humanity Protocol has closed a $20 million funding round, raising its valuation to $1.1 billion.\n\nThe funding round was co-led by Pantera Capital and Jump Crypto, according to an emailed announcement.\n\nThe project last raised $30 million at a $1 billion valuation in May 2024\n\nHumanity plans to use the new capital to accelerate the development of its Proof of Humanity consensus mechanism and integrate it into leading Web3 platforms.\n\nThe protocol, which uses palm scans to verify identity, aims to rival OpenAI founder Sam Altman's Worldcoin project, which is built around scanning users' irises.\n\nRead More: Lido Co-Founders Said to Plot Competitor to Sam Altman's World Network",
+    "url": "https://www.coindesk.com/business/2025/01/27/worldcoin-rival-humanity-protocol-s-valuation-jumps-to-usd1-1b-after-fresh-fund-raise",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman"
+            ],
+            "positions": [
+                "OpenAI founder"
+            ],
+            "companies": [
+                "Pantera Capital",
+                "Jump Crypto",
+                "Lido"
+            ],
+            "organizations": [
+                "Humanity Protocol",
+                "Worldcoin"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a successful $20 million funding round that increased Humanity Protocol's valuation to $1.1 billion, indicating strong investor confidence and capital inflow into the cryptocurrency space."
+    }
+}

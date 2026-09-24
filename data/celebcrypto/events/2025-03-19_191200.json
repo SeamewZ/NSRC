@@ -1,0 +1,40 @@
+{
+    "title": "First Solana Futures ETF to Hit Markets This Week",
+    "time": "2025-03-19T19:12:00",
+    "author": "Helene Braun",
+    "summary": "The products are a significant step forward for the approval of a spot Solana ETF.",
+    "content": "Two exchange-traded funds (ETFs) tracking futures in Solana\nSOL\n$161.81\nare coming on the market on Thursday.\n\nAccording to a filing with the Securities and Exchange Commission (SEC), Volatility Shares LLC is launching two ETFs, the Volatility Shares Solana ETF (SOLZ) which will track Solana futures and the Volatility Shares 2X Solana ETF (SOLT), which offers leveraged exposure.\n\nSOLZ will have a management fee of 0.95% while traders will be charged 1.85% for SOLT, according to the filing.\n\nThe products will be the first-ever funds tracking futures in Solana, which at a market cap of $66.5 billion is the sixth largest cryptocurrency on the market. The token is up 6% over the past 24 hours, in line with the broader crypto market.\n\nThe launch of these funds could be significant in the approval of a spot Solana ETF, which would hold the token directly. The SEC has stated in the past that in order to approve a spot product, they would like to see an established futures market for the asset.\n\nAfter the launch of the spot Bitcoin\nBTC\n$104,558.40\nand Ether\nETH\n$3,524.11\nETFs last year, issuers have been looking to bring further crypto-related products to the market.\n\nSeveral issuers, including Grayscale, Franklin Templeton and VanEck, have filed paperwork to launch a spot Solana ETF, which have yet to be reviewed by the SEC. Bloomberg Intelligence ETF analysts believe there to be a 75% chance for those funds to be approved by the end of this year.\n\nHowever, a decision likely won’t be made before Paul Atkins, who has been nominated by President Donald Trump to serve as chair of the SEC, is confirmed by the Senate. There is currently no hearing scheduled for Atkins.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/first-solana-futures-etf-to-hit-markets-this-week",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Atkins",
+                "Donald Trump"
+            ],
+            "positions": [
+                "chair of the SEC"
+            ],
+            "companies": [
+                "Volatility Shares LLC",
+                "Grayscale",
+                "Franklin Templeton",
+                "VanEck",
+                "Bloomberg Intelligence"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission (SEC)",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of the first Solana futures ETFs and the 75% approval chance for spot Solana ETFs by year-end indicate growing institutional adoption and regulatory progress for Solana."
+    }
+}

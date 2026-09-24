@@ -1,0 +1,32 @@
+{
+    "title": "Hackers Impersonate Saudi Crown Prince to Promote Fake ‘Official’ Memecoins",
+    "time": "2025-02-17T12:12:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The promotional posts have been deleted and the Saudi Law Conference, whose account was compromised, issued a statement on it.",
+    "content": "Hackers took control of the Saudi Law Conference's social-media account on X, using it to impersonate Crown Prince Mohammed bin Salman and promote fraudulent cryptocurrencies.\n\nIn a series of now-deleted posts, the scammers used the name and image of the crown prince, who serves as Saudi Arabia’s prime minister, to promote an “Official Saudi Arabia Memecoin” as well as a “FALCON Memecoin.” The posts were accompanied by contract addresses to identify the tokens.\n\nThe conference, a major legal event in the country, confirmed on LinkedIn that the official X account was compromised and advised users that any “content published through the account does not represent our views or official positions in any way.”\n\n“We confirm that we are urgently working to regain control of the account and disclaim all responsibility for any unauthorized posts made during this period. We also apologize to our followers for any inconvenience this may cause and urge everyone to exercise caution and refrain from engaging with any suspicious content posted through the account until further notice,” the Saudi Law Conference wrote.\n\nThe incident comes amid controversy surrounding Argentine President Javier Milei over a post promoting a memecoin called Libra and its subsequent removal.\n\nDisclaimer: Statements from the Saudi Law Conference for this article were translated with the use of artificial intelligence.",
+    "url": "https://www.coindesk.com/markets/2025/02/17/hackers-impersonate-saudi-crown-prince-to-promote-fake-official-memecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mohammed bin Salman",
+                "Javier Milei"
+            ],
+            "positions": [
+                "Crown Prince",
+                "prime minister",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "Saudi Law Conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Official Saudi Arabia Memecoin",
+            "FALCON Memecoin",
+            "Libra"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach involving fraudulent cryptocurrency promotion through impersonation of high-profile figures, which undermines market confidence and highlights security risks."
+    }
+}

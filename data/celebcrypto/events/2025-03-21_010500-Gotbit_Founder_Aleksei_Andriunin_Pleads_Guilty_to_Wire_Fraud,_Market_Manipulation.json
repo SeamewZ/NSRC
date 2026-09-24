@@ -1,0 +1,34 @@
+{
+    "title": "Gotbit Founder Aleksei Andriunin Pleads Guilty to Wire Fraud, Market Manipulation",
+    "summary": "Prosecutors are recommending that Andriunin, 26, spends no more than 24 months in a U.S. prison.",
+    "time": "2025-03-20T17:05:00",
+    "author": "Cheyenne Ligon",
+    "content": "Gotbit founder Aleksei Andriunin struck a plea deal with U.S. prosecutors on Wednesday that will see him serve no more than 24 months behind bars for his role in what prosecutors described as a “wide-ranging conspiracy” to manipulate token prices for paying clients.\n\nAndriunin, a 26-year-old Russian national, was extradited to the U.S. from Portugal last month and charged with two counts of wire fraud and conspiracy to commit market manipulation and wire fraud – charges which carry a maximum combined sentence of 25 years in prison. In exchange for a reduced sentence, Andriunin pleaded guilty to all three counts. He also agreed to forfeit approximately $23 million in stablecoins tied to his crimes. The government is not seeking any other fine.\n\nIn their indictment last October, prosecutors alleged that Gotbit was basically a market manipulator for hire, offering wash-trading services to paying crypto projects who wanted to artificially inflate the volume and price of their tokens.\n\nAndriunin’s guilty plea is not entirely surprising: he was never coy about Gotbit’s business activities. In a 2019 interview with CoinDesk, Andriunin – then a 20-year-old college sophomore at Moscow State University – admitted that his business was “not entirely ethical” and detailed how he used bot trading to create enough artificial trade volume for a project to be listed on CoinMarketCap.\n\nRead more: For $15K, He’ll Fake Your Exchange Volume – You’ll Get on CoinMarketCap\n\nGotbit is not the only market maker offering these services. At the same time that Andriunin and his company were charged, along with two other employees, U.S. prosecutors charged a handful of other firms, including CLS Global, MyTrade and ZMQuant, as well as several of the companies’ employees and promoters, with similarly offering for-hire market manipulation services.\n\nAndriunin’s sentencing date has not yet been set.",
+    "url": "https://www.coindesk.com/policy/2025/03/20/gotbit-founder-aleksei-andriunin-pleads-guilty-to-wire-fraud-market-manipulation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aleksei Andriunin"
+            ],
+            "positions": [
+                "founder",
+                "college sophomore"
+            ],
+            "companies": [
+                "Gotbit",
+                "CLS Global",
+                "MyTrade",
+                "ZMQuant"
+            ],
+            "organizations": [
+                "U.S. prosecutors",
+                "Moscow State University",
+                "CoinMarketCap",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a market manipulation conspiracy involving multiple firms artificially inflating token prices and volume, which undermines market integrity and investor confidence."
+    }
+}

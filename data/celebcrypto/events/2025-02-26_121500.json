@@ -1,0 +1,51 @@
+{
+    "title": "Crypto Daybook Americas: Risk-Off Remains the Theme as Market Settles",
+    "time": "2025-02-26T12:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Feb. 26, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe crypto market is looking to regain some poise after yesterday's tumble with on-chain indicators showing signs of capitulation in bitcoin. Some tokens, like MakerDAO's MKR, stand out with a 20% gain in 24 hours, thanks to the DAO's buyback and burn process.\n\nIP, the native token of decentralized intellectual property-focused blockchain Story Protocol, is also in the green, having risen nearly 40%. The token's price has doubled in two weeks after being listed on South Korean exchanges.\n\nOther notable outperformers include Celestia's TIA along with XDC, QNT and HYPE. Data tracked by blockchain sleuth Lookonchain shows whales have been buying the dip in the HYPE token. XRP, meanwhile, is hanging on to a key Fibonacci level, keeping bulls' hope for bigger gains alive.\n\nAccording to Matthew Hougan, chief investment officer of Bitwise Asset Management, the crypto market is digesting the end of the recent memecoin frenzy, which could be replaced by productive sectors such as stablecoins, real-world assets and DeFi. \"But until they start making their presence felt, the loss of energy will create a drag on the market,\" Hougan said on X.\n\nOn the macroeconomic front, the optimism seen after the Nov. 4 election is being replaced by caution, as evidenced by Tuesday's release of the U.S. consumer confidence. The gauge dropped to an eight-month low, and the one-year inflation expectations were highest for 1.5 years, with President Donald Trump's tariffs singled out as the primary concern in almost every household and business survey.\n\nThe dour sentiment and a strengthening yen might keep the upside in risk assets restricted for some time. Earlier this week, Belgium's central bank's head, Pierre Wunsch, warned that the ECB risks sleep-walking into too many rate cuts. The Fed, for its part, is unlikely to do QE anytime soon. (Sure, the January meeting minutes discussed an end of quantitive tightening, but that does not mean quantitative easing.)\n\nSpeaking of key events to watch out for, the Senate Banking Committee, led by Senator Cynthia Lummis, is set to revisit crypto regulations during Wednesday's scheduled hearing titled “Exploring Bipartisan Legislative Frameworks for Digital Assets.\" Stay alert!\n\nBy Francisco Rodrigues\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/26/crypto-daybook-americas-risk-off-remains-the-theme-as-market-settles",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Matthew Hougan",
+                "Donald Trump",
+                "Pierre Wunsch",
+                "Cynthia Lummis",
+                "Francisco Rodrigues"
+            ],
+            "positions": [
+                "chief investment officer",
+                "head",
+                "Senator"
+            ],
+            "companies": [
+                "Bitwise Asset Management",
+                "MakerDAO",
+                "Story Protocol",
+                "Lookonchain",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Senate Banking Committee",
+                "ECB",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "MKR",
+            "IP",
+            "TIA",
+            "XDC",
+            "QNT",
+            "HYPE",
+            "XRP",
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with some tokens gaining while overall sentiment remains cautious due to macroeconomic concerns and the end of the memecoin frenzy."
+    }
+}

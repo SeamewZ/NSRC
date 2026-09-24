@@ -1,0 +1,32 @@
+{
+    "title": "Fidelity Files for Onchain U.S. Treasury Fund, Joining the Asset Tokenization Race",
+    "time": "2025-03-23T07:53:00",
+    "author": "Krisztian Sandor",
+    "summary": "Tokenized money market funds has grown sixfold in a year to 4.8 billion, currently led by BlackRock's product.",
+    "content": "Asset manager Fidelity Investments has filed paperwork to register a blockchain-based, tokenized version of its U.S. dollar money market fund, aiming to join the tokenized asset race.\n\nAccording to a Friday filing to the U.S. Securities and Exchange Commission (SEC), the company seeks to register an \"OnChain\" share class of its Fidelity Treasury Digital Fund (FYHXX) and use blockchains as transfer agent. FYHXX holds cash and U.S. Treasury securities and was launched late last year.\n\nThe Onchain class of the fund currently uses the Ethereum\nETH\n$3,647.31\nnetwork, and the firm may expand to other blockchains in the future, the filing said. The registration is subject to regulatory approval, with the product expected to become effective on May 30.\n\nThe filing happened as global banks and asset managers increasingly put traditional financial instruments such as government bonds, credit, and funds on blockchain rails, a process often referred to as tokenization of real-world assets (RWAs). They do so to pursue operational and efficiency gains and faster, around-the-clock settlements.\n\nFidelity, with $5.8 trillion in assets under management, is the latest traditional financial heavyweight seeking to enter the fast-growing tokenized U.S. Treasuries space.\n\nBlackRock (BLK), in partnership with digital asset firm Securitize, launched a similar tokenized T-bill fund last March called BUIDL and has become the market leader with nearly $1.5 billion of assets, rwa.xyz data shows.\n\nFranklin Templeton's fund, which was the first on-chain money market product, gathered $689 million in assets since its 2021 debut.\n\nThe entire tokenized U.S. Treasury market is currently worth $4.77 billion, growing almost 500% over the past year, per rwa.xyz.\n\nFidelity is also one of the largest issuers of spot bitcoin and ether exchange-traded funds (ETF) in the U.S., with its $16.5 billion FBTC and $780 million FETH, per SoSoValue data.",
+    "url": "https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Fidelity Investments",
+                "BlackRock",
+                "Securitize",
+                "Franklin Templeton"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major traditional financial institutions like Fidelity and BlackRock entering the tokenization space, which indicates growing institutional adoption and confidence in blockchain technology."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Vitalik Buterin Proposes Replacing Ethereum’s EVM With RISC-V",
+    "summary": "Buterin argues that transitioning Ethereum to the open-source RISC-V architecture will “greatly improve the efficiency of the Ethereum execution layer.”",
+    "time": "2025-04-21T18:32:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum co-founder Vitalik Buterin shared a new proposal over the weekend that would radically overhaul the system that powers its smart contracts.\n\nButerin's suggestion, which he posted on Ethereum's primary developer forum, involves replacing the Ethereum Virtual Machine, the software engine that powers programs on the network, with RISC-V, a popular open-source framework that offers built-in encryption and other benefits. .\n\nThe EVM is a key piece of Ethereum's underlying design and has been seen as one of the main elements that helped the network succeed in a crowded field of other blockchains. Many non-Ethereum networks have used the EVM to build their own chains, as has a growing ecosystem of layer-2 networks built atop Ethereum, including Coinbase's Base chain.\n\nThe EVM has long played an essential role in Ethereum's development. Other chains that use it can seamlessly connect with apps on Ethereum, and developers on EVM-based networks can transition more smoothly to building applications directly within the Ethereum ecosystem.\n\nButerin argued that transitioning Ethereum to a RISC-V architecture will “greatly improve the efficiency of the Ethereum execution layer, resolving one of the primary scaling bottlenecks, and can also greatly improve the execution layer’s simplicity.” (The execution layer is the part of the network that reads smart contracts.)\n\nThe RISC-V architecture, which has seen limited adoption in other blockchain ecosystems, like Polkadot, could offer \"efficiency gains over 100x\" for certain kinds of applications, according to Buterin. These improvements could reduce the network's costs — long seen as a major barrier to adoption.\n\nAmong the primary benefits of RISC-V is its native support for certain kinds of encryption. Transitioning to the new architecture could, in Buterin's view, be a simpler alternative to the community's current plan, which involves rebuilding the EVM around zero-knowledge cryptography.\n\nButerin’s proposal is something developers would tackle over the long term, comparable to projects like the Beam Chain, which is looking to revamp Ethereum’s consensus layer.\n\nThe RISC-V comes at a time of broader soul-searching for the Ethereum community. Recently, transaction volumes have declined, and Ethereum's token has lagged behind the broader market.\n\nEarlier this year, the Ethereum Foundation, the primary non-profit that supports the development of the broader Ethereum ecosystem, underwent a leadership transition in an attempt to remedy the impression among community members that the ecosystem lacked a clear roadmap and was losing its lead compared to competitors.\n\nRead more: Top Ethereum Researcher's Dramatic Proposal Draws Standing-Room-Only Crowd in Bangkok",
+    "url": "https://www.coindesk.com/tech/2025/04/21/vitalik-buterin-proposes-replacing-ethereums-evm-with-risc-v",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Polkadot"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal promises efficiency gains over 100x, reduced network costs, and improved execution layer efficiency, which are positive developments for Ethereum."
+    }
+}

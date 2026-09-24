@@ -1,0 +1,32 @@
+{
+    "title": "Hashed's Simon Kim Says AI Has a 'Black Box' Problem",
+    "time": "2025-01-14T17:41:00",
+    "author": "Sam Reynolds",
+    "summary": "Centralized AI is opaque, centralized, and a huge burden for intellectual property owners. Here's how he thinks blockchain fixes this.",
+    "content": "Hashed's Simon Kim believes the future of artificial intelligence hinges on a radical shift: breaking open the black box of centralized models like OpenAI and building a decentralized, transparent ecosystem powered by blockchain.\n\nFor Kim, CEO of South Korea’s leading crypto VC fund, the urgency is clear. AI's unchecked centralization threatens to create a \"god\" we don’t understand, while blockchain offers the tools to reward creators, protect intellectual property, and provide transparency into generative AI – which has been widely criticized for its bias and selective reasoning.\n\n\"AI is being centralized. OpenAI is not open, and it is controlled by very few people, so it's quite dangerous. Making this type of [closed source] foundational model is similar to making a 'god', but we don't know how it works,\" he said in an interview with CoinDesk.\n\nKim argues that open-source AI models like Meta's Llama are an example of how AI can be built with decentralization and transparency in mind.\n\nBut he says the lack of robust incentive mechanisms for data providers – i.e. everyone who uses the internet – is still a problem.\n\n\"AI models are just crawling the original content on the web and giving answers without compensating the creators,\" Kim said.\n\nKim believes we can fix this by developing a “copyright layer” where rights holders can track how their content is used – and re-used – by AI while being paid along the way.\n\nHashed thinks it’s found a solution to this with Story, an IP management protocol that it led a Series-B round in last year.\n\nThe fund hasn't invested in any decentralized AI projects yet, but feels it is building exposure to the space via its investment in Story.\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\n\"We definitely need a blockchain-based IP system to incentivize the original creator, both the creator and the remixers,\" Kim continued.\n\nKim is far from the only voice calling for open source AI development. A growing chorus of voices from Meta's Mark Zuckererg to the Economist's editorial board all agree that the black box of closed source AI – the deity whose decisions and workings remain a mystery – has to go for the industry to mature.\n\nBut it's up to Kim to convince them that the solution lies in blockchain and crypto.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/14/hasheds-simon-kim-says-ai-has-a-black-box-problem",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Simon Kim",
+                "Mark Zuckerberg"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Hashed",
+                "OpenAI",
+                "Meta"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Economist",
+                "Consensus Hong Kong"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news presents blockchain as a solution to AI's problems, advocating for blockchain-based systems to incentivize creators and provide transparency, which suggests positive adoption potential for cryptocurrency technology."
+    }
+}

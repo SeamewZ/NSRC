@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: SUI Drops 5.9% as Index Trades Lower",
+    "summary": "Avalanche (AVAX) was also among the underperformers, falling 2.4% from Thursday.",
+    "time": "2025-05-02T13:10:00",
+    "author": "CoinDesk Indices",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2786.55, down 0.4% (-11.45) since 4 p.m. ET on Thursday.\n\nFour of 20 assets are trading higher.\n\nLeaders: BCH (+1.8%) and BTC (+0.4%).\n\nLaggards: SUI (-5.9%) and AVAX (-2.4%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/02/coindesk-20-performance-update-sui-drops-5-9-as-index-trades-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "AVAX",
+            "BCH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is trading lower with most assets declining, led by significant drops in SUI (-5.9%) and AVAX (-2.4%)."
+    }
+}

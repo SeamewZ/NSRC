@@ -1,0 +1,30 @@
+{
+    "title": "Short-Term BTC Holders Quit, CME Open Interest Slid by Record During Monday's Price Drop",
+    "time": "2025-01-28T10:47:00",
+    "author": "James Van Straten",
+    "summary": "As observed by many metrics, Monday's capitulation in bitcoin looks like a textbook local bottom.",
+    "content": "Short-term bitcoin (BTC) holders exited the market at a loss Monday as tumbling prices also saw derivative traders throw in the towel, leading to a significant decline in open futures bets on the Chicago Mercantile Exchange.\n\nShort-term holders, defined by Glassnode as addresses with a history of holding coins for less than 155 days, sent over 21,000 BTC ($2.2 billion) to exchanges at a loss as the largest cryptocurrency fell as much as 4.7%, the most in two weeks, according to CoinDesk Indexes pricing.\n\nThe transfer to exchanges, often a precursor to sales, was the second-biggest this month and may reflect that purchasers who'd bought when the price was near record highs around $108,000 toward the start of the year were spooked by the sudden slide back into the five digits.\n\nThese addresses, owned by active traders, new entrants and weak hands, tend to be sensitive to price gyrations and often succumb when prices slide. BTC fell to under $98,000 as the weekend release of the Chinese startup DeepSeek challenged U.S. leadership in AI and technology.\n\nOther corners of the market also hinted at capitulation, often observed at local price bottoms. For instance, the perpetual funding rates for BTC flipped negative, a sign of stronger demand for bearish bets. That’s usually when bitcoin reaches a low such as on Jan. 13, when bitcoin dipped below $90,000 and Aug. 5, during the yen carry trade unwind.\n\nThe de-risking also happened on the Chicago Mercantile Exchange, a proxy for institutional activity, which saw the biggest notional drop in open interest (OI) alongside a double-digit slide in chipmaker Nvidia (NVDA). Notional bitcoin OI fell a record $2.4 billion (17,000 in BTC terms), driving the basis lower, according to Glassnode data.\n\nU.S. listed bitcoin exchange-traded funds (ETFs) saw a massive outflow of $457.6 million. A similar outflow occurred Jan. 13, according to Farside data.",
+    "url": "https://www.coindesk.com/markets/2025/01/28/short-term-btc-holders-quit-cme-open-interest-slid-by-record-during-monday-s-price-drop",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "DeepSeek",
+                "Nvidia",
+                "Glassnode",
+                "CoinDesk",
+                "Farside"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes short-term holders exiting at a loss, record declines in open interest, negative funding rates, and massive ETF outflows, all indicating market panic and capitulation."
+    }
+}

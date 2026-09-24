@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin ETFs Suffer $582M Net Outflow, Second-Highest Tally Ever",
+    "time": "2025-01-09T07:55:00",
+    "author": "Omkar Godbole",
+    "summary": "The ETFs bleed money as renewed U.S. inflation fears dent Fed rate cuts and boost bond market volatility",
+    "content": "Investors withdrew substantial amounts from the U.S.-listed spot bitcoin\nBTC\n$104,111.73\nand ether\nETH\n$3,484.20\nexchange-traded funds (ETFs) Wednesday as macroeconomic uncertainties cast a shadow over the cryptocurrencies' price prospects.\n\nEleven bitcoin ETFs recorded a combined net outflow of $582 million, marking the second-largest total since these alternative investment vehicles began trading a year ago, according to data from SoSoValue. The large outflow comes shy of the record withdrawal of $680 million on Dec. 19.\n\nFidelity's FBTC led the outflows, losing a record $258 million, with BlackRock's IBIT bleeding $124 million.\n\nEther ETFs bled $159.3 million, the largest tally since July 26, when these public funds processed withdrawals worth $162 million.\n\nThese large outflows coincide with renewed U.S. inflation fears, which have fueled bond market volatility, sending risk assets lower. Over the past three days, bitcoin's price has plummeted by nearly 8.5%, marking yet another bull failure to establish a foothold above the $100,000 mark.\n\nMinutes from the Federal Reserve's Dec. 18 meeting released Wednesday showed officials believed the central bank was nearing the point that called for a slowing policy-easing pace. The notes also revealed concerns about the inflationary impact of the incoming President Donald Trump's policies.\n\nStill, some analysts remain optimistic, expecting a renewed upswing following Friday's nonfarm payrolls report.\n\n\"The U.S. employment report on Friday is highly anticipated by investors, as it will provide critical insights into the health of the U.S. economy. We expect limited volatility heading into the weekend and recommend maintaining a heavy exposure to digital assets, with a preference for Bitcoin over Ethereum,\" Valentin Fournier, analyst at BRN said in an email.",
+    "url": "https://www.coindesk.com/markets/2025/01/09/bitcoin-etfs-suffer-582-m-net-outflow-second-highest-tally-ever",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Valentin Fournier",
+                "Donald Trump"
+            ],
+            "positions": [
+                "analyst",
+                "President"
+            ],
+            "companies": [
+                "Fidelity",
+                "BlackRock",
+                "BRN"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "SoSoValue"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports substantial ETF outflows totaling $582 million, bitcoin price plummeting 8.5%, and risk assets declining due to inflation fears and bond market volatility."
+    }
+}

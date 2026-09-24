@@ -1,0 +1,25 @@
+{
+    "title": "Why Strategy's Preferred Stock, STRK, Is Defying MSTR's Downturn",
+    "time": "2025-03-13T11:48:00",
+    "author": "James Van Straten",
+    "summary": "STRK has risen 3% since its February launch, while MSTR has dropped over 20%.",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of Strategy (MSTR).\n\nStrike (STRK), the preferred stock issued by bitcoin buyer Strategy (MSTR) has been listed for just over a month and is currently 3% higher than at its Feb. 5 introduction. Strategy's common stock, on the other hand, is 20% lower over the same period.\n\nPreferred stock like STRK can be thought of as a hybrid of equity and debt. Holders have a greater right to dividend payments than common stock owners if the company makes them and also to the company's assets in the event of a liquidation. STRK is a perpetual issue, which lacks a maturity date (like equity) and pays a fixed dividend (like debt).\n\nThose features mean preferred stock tends to be less volatile than the common stock. That certainly seems to be the case for STRK. According to Strategy's dashboard, STRK has a 26% correlation with MSTR and a slightly negative -7% correlation with bitcoin (BTC). It's also less volatile, at 49%, compared with bitcoin’s roughly 60% and MSTR’s volatility exceeding 100%.\n\nLast week, Strategy announced a $21 billion at-the-market (ATM) offering for STRK. That is, it's prepared to sell up to that amount of the stock at the current market price over a period of time. If all the STRK is sold, the company would face a total annual dividend bill of about $1.68 billion.\n\nGenerating that amount of cash means the company would either to sell common stock through an ATM offering — unlikely given the depressed share price as of late —or use cash generated from operations or proceeds from any convertible debt raised.\n\nSTRK offers an 8% annual dividend yield based on its $100 liquidation preference and at the currently price of $87.45, offers an effective yield of around 9%. As with debt, the higher the STRK price, the lower the yield, and vice versa.\n\nSTRK also includes a feature allowing each share to be converted into 0.1 share of common stock, equivalent to a 10-to-1 ratio, when the MSTR price reaches or exceeds $1,000. Strategy stock closed at $262.55 on Wednesday, for the option to become viable it would have to appreciate significantly, offering potential upside beyond STRK’s fixed dividend.\n\nAs an income-generating product with lower volatility, STRK presents a more stable option with potential upside. However, the massive ATM offering could impact this potential upside, similar to how ATM share sales have affected the common stock’s performance.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/why-strategy-s-preferred-stock-strk-is-defying-mstr-s-downturn",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Strategy",
+                "Strike"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed performance with STRK rising 3% while MSTR dropped 20%, and discusses both positive features (lower volatility, dividend yield) and potential concerns (massive ATM offering impact)."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "FTX Bankruptcy Estate Hits Out Over 'Unauthorized' Sale of FTX EU to Backpack Exchange",
+    "summary": "Backpack, which announced its acquisition of the European arm of bankrupt exchange FTX on Monday, has not been authorized by FTX to make any distributions to any FTX customers or other creditors, the FTX bankruptcy estate said.",
+    "time": "2025-01-09T06:18:00",
+    "author": "Ian Allison",
+    "content": "The FTX bankruptcy estate has disputed the recently announced sale of FTX EU to Backpack, the cryptocurrency exchange and wallet firm founded by former FTX and Alameda employees.\n\nThe FTX estate said Backpack “has no involvement whatsoever in the U.S. Bankruptcy Court-approved process for returning funds to any FTX customers and other creditors,” and that a press release about the sale from Backpack on Monday was issued without the knowledge or involvement of FTX.\n\nBackpack had announced plans to pay back FTX EU creditors, as well as setting out how it plans to operate a regulated crypto derivatives service using the licenses acquired in the sale.\n\n“Backpack has not been authorized by FTX to make any distributions to any FTX customers or other creditors, including any former FTX EU customers,” the FTX bankruptcy estate said in its statement.\n\nIn March of 2024, the FTX bankruptcy court approved the sale of FTX EU to Patrick Gruhn and Robin Matzke, the co-founders of Digital Assets, a firm acquired by Sam Bankman Fried in 2021; Gruhn and Matzke stayed on to lead FTX’s expansion into Europe.\n\nIn an attempt to clarify the situation, Backpack said it bought FTX EU from Gruhn and Matzke, a transaction that has also been completed and reflected on official public records since June 2024, and which has been approved by CySec, the Cyprus financial regulator.\n\n“As a licensed entity, the transfer of the FTX EU entity was subject to regulatory approval by CySec. In December 2024, CySec approved Backpack’s purchase following a lengthy diligence process. Following such approval, the FTX estate is obligated to transfer the shares as set out in the court-approved sales and purchase agreement. We look forward to the completion of the transfer so that, like the FTX bankruptcy estate, we can begin to return customer funds to former FTX EU customers,” Backpack said in a statement issued on Thursday.\n\nFTX EU will be renamed to Backpack EU and Backpack EU will be solely responsible for redistributing former FTX EU customer funds, Backpack said.\n\nFormer FTX EU boss Patrick Gruhn said that in May of last year he initiated a change of control proceeding for the FTX EU Ltd. subsidiary with CySEC, which is required to transfer the shares of the regulated Investment Firm.\n\n“In this very complex Bankruptcy proceeding I assume FTX wanted to make clear that FTX has no direct relationship with Backpack and will not distribute funds from the U.S. bankruptcy estate. However, FTX EU will be renamed to Backpack EU and will of course distribute the former FTX EU funds to the clients,” Gruhn said via email.",
+    "url": "https://www.coindesk.com/business/2025/01/09/ftx-bankruptcy-estate-hits-out-over-unauthorized-sale-of-ftx-eu-to-backpack-exchange",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Patrick Gruhn",
+                "Robin Matzke",
+                "Sam Bankman Fried"
+            ],
+            "positions": [
+                "co-founders",
+                "former FTX EU boss"
+            ],
+            "companies": [
+                "Backpack",
+                "FTX EU",
+                "Digital Assets",
+                "Backpack Exchange",
+                "Alameda"
+            ],
+            "organizations": [
+                "FTX bankruptcy estate",
+                "U.S. Bankruptcy Court",
+                "CySec",
+                "Cyprus financial regulator"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a dispute over asset transfers and creditor repayments between bankruptcy entities, which creates uncertainty but doesn't indicate clear market-wide positive or negative price pressure."
+    }
+}

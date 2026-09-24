@@ -1,0 +1,36 @@
+{
+    "title": "Aethir's Mark Rydon: Decentralizing AI Computing",
+    "time": "2025-01-08T14:55:00",
+    "author": "Sam Reynolds",
+    "summary": "Aethir's co-founder, a speaker at Consensus Hong Kong, explains why the company pivoted its GPU network away from gaming to AI compute.",
+    "content": "Aethir’s decentralized Graphics Processing Units (GPUs) network began as a solution for cloud gaming, but co-founder Mark Rydon says the company is now focused on artificial intelligence — an industry where soaring demand for compute power is driving up GPU value and colliding with U.S.-China geopolitics.\n\nAethir, founded in 2022, is one of the most talked about protocols in the Decentralized Physical Infrastructure (DePIN) space because of its real-world utility.\n\nDePIN protocols are networks where people collaborate to offer a service in exchange for a token.\n\nIn the last year, the space has become extremely hot, with CoinGecko giving DePIN coins a $33 billion market cap. Hundreds of DePINs are appearing for every vertical imaginable from flight tracking data to mapping.\n\nAethir is one of the prominent projects in decentralized compute, showing that AI can be powered by distributed computing as well as large, centralized data centers.\n\nGPUs were once the sole domain of gamers. Companies like Nvidia and AMD raced to make their GPU chips more powerful so that gamers could enjoy their virtual worlds with greater fidelity and resolution.\n\nAnd then, sometime around 2006, researchers at Nvidia discovered that the GPUs’ strength of parallel computing – which makes graphics better and better – was also good for crunching massive amounts of data and could accelerate traditional computing workloads.\n\nThis series is brought to you by Consensus Hong Kong. Come and experience the most influential event in Web3 and Digital Assets, Feb.18-20. Register today and save 15% with the code CoinDesk15.\n\nBut this was 2006 and verticals like AI weren't on anyone's radar. Nvidia continued to trade for under $1.\n\nFast forward to today, and Nvidia challenges Apple for the title of the world's most valuable company. In the last few years, GPUs have become the backbone of the AI revolution, fueling everything from generative AI models to advanced machine learning algorithms.\n\nLike the journey of Nvidia and GPUs, Aethir began by offering idle GPUs from data centers to bolster cloud gaming platforms before, as co-founder Mark Rydon explained in an interview with CoinDesk, deciding that the real money was in AI.\n\n\"We started Aethir within a gaming context,\" said Rydon. \"But we quickly realized that the enterprise-capable GPU cloud we were building had massive relevance to AI sectors. AI runtime customers will pay a lot more than gamers, and the demand for compute in AI is just incredible.\"\n\nIncredible, indeed. TrendForce, a market research firm, puts the value of the AI server industry to be $205 billion, which is impressive as they estimate that the value of servers, as a whole, to be just over $300 billion.\n\nAethir acts as a marketplace for GPU compute, offering idle GPUs to businesses needing on-demand capacity without the overhead of owning or maintaining their own hardware.\n\nFor researchers outside of prestige institutions, this is huge. They can get access to the computing power, without the massive capital expense of buying their own infrastructure.\n\n“This is the most expensive compute that there’s ever been, and if you’re not efficient in managing that compute, it’s a huge capital drain,” Rydon said during an interview on the sidelines of Devcon in Bangkok last November. \"Our decentralized approach allows us to scale into regions…that need compute the most but can least afford it.\"\n\nGiven Nvidia's leadership in the AI space, Chinese researchers are eager to get access to these ultra-powerful chips that are generations ahead of what's available domestically.\n\nBut geopolitics have gotten in the way. The U.S. Department of Commerce prohibits the sale of Nvidia's most advanced chips, such as the H100, to China to keep Beijing one step behind.\n\nIn August 2024, the Wall Street Journal reported that Chinese firms were bypassing U.S. export controls by renting decentralized GPU computing power abroad using firms similar to Aethir.\n\n“We don’t accept high performance computing [requests] from places like China. You can’t if you have H100s,\" Rydon said. \"They’re not meant to be in China. We geofence and don’t allow that compute to onboard.”\n\nFor all the push towards decentralization in Web3, Rydon explained that Aethir isn't entirely permissionless.\n\n\"This is necessary for $100 million deals to happen,” Rydon said.\n\nThere needs to be a Web2 layer to track service agreements that define the performance and reliability standards for enterprise clients, and Know Your Customer (KYC) processes, which verify the identities of participants to ensure regulatory compliance.\n\n\"I don’t think anyone knows how to build truly permissionless hardware networks,\" he said. \"The risk to your bottom line as a business is too high if someone can onboard and offboard whenever they want with no penalty.”",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/01/08/aethirs-mark-rydon-decentralizing-ai-computing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mark Rydon"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Aethir",
+                "Nvidia",
+                "AMD",
+                "Apple",
+                "TrendForce",
+                "Wall Street Journal"
+            ],
+            "organizations": [
+                "U.S. Department of Commerce",
+                "CoinGecko",
+                "Consensus Hong Kong",
+                "CoinDesk",
+                "Devcon"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights Aethir's pivot to AI computing within the growing $33 billion DePIN market, showcasing real-world utility and enterprise adoption that signals positive momentum for decentralized infrastructure projects."
+    }
+}

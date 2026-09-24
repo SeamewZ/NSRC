@@ -1,0 +1,35 @@
+{
+    "title": "BlackRock, Securitize Expand $1.7B Tokenized Money Market Fund BUIDL to Solana",
+    "time": "2025-03-25T13:27:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The fund now has $1.7 billion in assets and is spread across seven different blockchains as BlackRock expands its presence in the crypto space.",
+    "content": "BlackRock’s tokenized money market fund, BUIDL, has become available on Solana, Securitize announced, marking another step in the asset manager’s push into blockchain-based finance.\n\nThe expansion makes BUIDL available on seven blockchains, including Ethereum, Polygon, Aptos, Arbitrum and Optimism. Only 62 wallets currently hold BUIDL on-chain, however, according to rwa.zyz data.\n\nThe fund, officially the BlackRock USD Institutional Digital Liquidity Fund, combines a short-term yield-bearing portfolio of cash and U.S. Treasuries with the settlement and transfer capabilities of blockchain. Since its introduction on Ethereum in 2023, the fund has drawn in $1.7 billion and is on track to cross $2 billion by early April, according to Securitize.\n\n“In the year since BUIDL’s launch, we’ve experienced significant growth in demand for tokenized real-world assets, reinforcing the value of bringing institutional-grade products on-chain,” said Carlos Domingo, co-founder and CEO of Securitize, in a statement. “As the market for RWAs and tokenized treasuries gains momentum, expanding BUIDL to Solana—a blockchain known for its speed, scalability, and cost efficiency—is a natural next step.”\n\nMoney market funds typically allow investors to earn interest on idle cash, but they come with trading limitations such as limited operating hours. Blockchain versions like BUIDL allow for constant access.\n\nBlackRock isn’t alone. Franklin Templeton offers a similar tokenized fund that currently has a $692 billion market capitalization and 558 holders, and Figure Markets recently launched YLDS, an interest-bearing stablecoin. Other major tokenized treasury funds include the Hashnote Short Duration Yield Coin (USYC) and Ondo U.S. Dollar Yield.\n\nThe tokenized Treasury market is one of the fastest-growing sectors among tokenized assets, growing nearly sixfold over the past year and recently crossing $5 billion in market capitalization, rwa.xyz data show.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/blackrock-securitize-expand-usd1-7b-tokenized-money-market-fund-buidl-to-solana",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Carlos Domingo"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "BlackRock",
+                "Securitize",
+                "Franklin Templeton",
+                "Figure Markets"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Ethereum",
+            "Polygon",
+            "Aptos",
+            "Arbitrum",
+            "Optimism"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of BlackRock's $1.7B tokenized fund to Solana and multiple blockchains represents significant institutional adoption and growth in tokenized real-world assets."
+    }
+}

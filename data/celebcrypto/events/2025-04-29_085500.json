@@ -1,0 +1,34 @@
+{
+    "title": "Circle Wins Regulatory Nod From Abu Dhabi Watchdog as USDC Hits $62B",
+    "time": "2025-04-29T08:55:00",
+    "author": "Krisztian Sandor",
+    "summary": "The stablecoin issuer received in-principle approval from ADGM's Financial Services Regulatory Authority to operate as a money services provider.",
+    "content": "Circle, the issuer of the second-largest stablecoin, USDC, said it received in-principal regulatory approval from Abu Dhabi, paving the way for an expansion across the Middle East.\n\nThe Financial Services Regulatory Authority (FSRA) of Abu Dhabi Global Market (ADGM) granted the company the preliminary green light to operate as a money services provider, edging closer to a full license after incorporating in the financial hub last December.\n\nThe approval \"advances our strategy to establish deep roots in markets embracing the onchain economy, creating new pathways for investment and innovation in the region,\" Circle CEO Jeremy Allaire said in a statement on Tuesday.\n\nThe company also announced a partnership with Hub71, Abu Dhabi's tech ecosystem, which includes initiatives in ADGM’s digital regulatory sandbox, grants to startup founders and offers access to institutional networks.\n\nThe company did not comment on further plans in the region due to a \"quiet period\" after filing paperwork in the U.S. to be listed as a public company, a spokesperson said.\n\nStablecoins, which are cryptocurrencies pegged to fiat currencies like the U.S. dollar, are a rapidly growing group of digital assets and a key piece of infrastructure in the blockchain-based economy. They are widely used for crypto trading, and are becoming increasingly popular in the everyday economy for payments and remittances as a cheaper and faster alternative to traditional banking systems. The total stablecoin market capitalization sits around $230 billion, according to rwa.xyz data.\n\nRead more: Stablecoins Could Bring 'ChatGPT' Moment to Blockchain Adoption, Hit $3.7T by 2030: Citi\n\nCircle's flagship USDC token, fully reserved with dollar assets such as government bonds, is a key player in this field with a $62 billion supply, up over 40% in 2025.\n\nAs regulations around stablecoins advance globally, the company has been courting global jurisdictions to enter. Circle claimed the bragging rights as the first large stablecoin issuer to comply with the European Union's MiCA regulations last year. It also launched USDC last month in Japan with SBI Holdings.\n\nLast week, Circle unveiled a cross-border payments network to further boost stablecoin use.",
+    "url": "https://www.coindesk.com/business/2025/04/29/circle-wins-regulatory-nod-from-abu-dhabi-watchdog-as-usdc-hits-usd62b",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Circle",
+                "SBI Holdings"
+            ],
+            "organizations": [
+                "Financial Services Regulatory Authority",
+                "Abu Dhabi Global Market",
+                "ADGM",
+                "Hub71",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes regulatory approval for a major stablecoin issuer, expansion into new markets, and significant growth in USDC supply, all indicating positive market development and institutional adoption."
+    }
+}

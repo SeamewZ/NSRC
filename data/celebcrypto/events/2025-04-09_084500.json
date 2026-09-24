@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin Likely to Become More Volatile After Entering $70K–$80K 'Air Pocket'",
+    "time": "2025-04-09T08:45:00",
+    "author": "James Van Straten",
+    "summary": "Low supply concentration in this range may lead to heightened volatility.",
+    "content": "The bitcoin (BTC) price is likely to become more volatile after dipping below $75,000 twice in the past week as it extends its drop from the all-time high of $109,000 reached on Jan 20.\n\nThat's taken it into what Glassnode shows as an “air pocket” between $70,000 and $80,000 created after the largest cryptocurrency soared following President Donald Trump's election victory in November.\n\nThe largest cryptocurrency climbed to over $100,000 from $70,000 after the vote without ever revisiting its starting point. Historically, when bitcoin rallies without consolidating at key levels, it often returns to retest them later. This lack of price interaction implies low supply, increasing the likelihood of rapid movement.\n\nOne way of showing this is to look at bitcoin's unspent transaction output (UTXO), which represents the amount of bitcoin received but unspent, i.e. still available for use in transactions.\n\nThe UTXO Realized Price Distribution (URPD) shows the prices at which existing bitcoin UTXOs last moved. In this version, each holder’s average acquisition price is used to sort their full balance into the appropriate price bucket.\n\nIn order to establish a sustainable move — either higher or lower — bitcoin will likely need to consolidate within this \"air pocket\" range. As illustrated in the chart, less than 2% of total supply sits here, suggesting that price action in this region could remain volatile due to the lack of supply.\n\nAround 25% of bitcoin's supply is currently held at a loss, primarily by short-term holders who bought within the last 155 days.",
+    "url": "https://www.coindesk.com/markets/2025/04/09/bitcoin-likely-to-become-more-volatile-after-entering-usd70k-usd80k-air-pocket",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes bitcoin entering a volatile 'air pocket' range where it needs to consolidate before establishing a sustainable move in either direction, indicating sideways market action rather than clear bullish or bearish momentum."
+    }
+}

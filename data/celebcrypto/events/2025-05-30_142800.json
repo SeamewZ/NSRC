@@ -1,0 +1,32 @@
+{
+    "title": "Ethereum Upgrades Have Failed to Boost Network Activity in Meaningful Way: JPMorgan",
+    "summary": "Neither the number of transactions nor active addresses has increased significantly following recent network upgrades, the report said.",
+    "time": "2025-05-30T14:28:00",
+    "author": "Will Canny",
+    "content": "The Ethereum blockchain has yet to see a significant increase in activity despite successive upgrades, investment bank JPMorgan (JPM) said in a research report.\n\n\"Neither the number of daily transactions nor the number of active addresses saw a material increase post recent upgrades,\" analysts led by Nikolaos Panigirtzoglou wrote in the Wednesday report.\n\nStill, total value locked (TVL) on Ethereum increased between the Dencun upgrade in March 2024 and Pectra earlier this month, the bank noted, possibly due to increased lending and borrowing on decentralized exchanges (DEXs), but the increase looks lower in dollar terms than in the blockchain's ether\nETH\n$3,323.43\ntoken.\n\nEthereum activated the Pectra upgrade on May 7. The update aims to streamline staking, enhance wallet functionality and improve overall efficiency.\n\nPectra makes the ETH token and Ethereum itself more appealing to institutions, the bank said. It distinguishes the network from competitors, but the upgrades haven't boosted activity in a meaningful way.\n\nThe bank noted that following the Dencun upgrade, both average and total fees fell, in part because of a shift toward layer 2 chains.\n\nEther's circulating supply also increased after Dencun, which raised concerns about the crypto \"becoming an inflationary asset amid subdued transaction activity,\" JPMorgan said.\n\nFutures positioning suggests that institutions played a large role in the recent rally in ether, the report added. Ether has risen more than 45% in the past month, CoinDesk data show.\n\nRead more: Ether Only Crypto Major in Green, XRP Muted After Mammoth Treasury Plans",
+    "url": "https://www.coindesk.com/markets/2025/05/30/ethereum-upgrades-have-failed-to-boost-network-activity-in-meaningful-way-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nikolaos Panigirtzoglou"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "JPM"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The report highlights that Ethereum upgrades failed to meaningfully boost network activity despite some positive institutional interest and price appreciation, presenting mixed signals."
+    }
+}

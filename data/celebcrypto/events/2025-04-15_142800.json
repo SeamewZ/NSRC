@@ -1,0 +1,23 @@
+{
+    "title": "ZKSync Admin Wallet Compromised, $5M Stolen",
+    "time": "2025-04-15T14:28:00",
+    "author": "Oliver Knight",
+    "summary": "The ZK token is down by 13.7% in the past 24 hours.",
+    "content": "An admin wallet for layer-2 blockchain ZKsync was compromised on Tuesday with the hacker taking off with $5 million worth of ZK tokens.\n\nThe stolen funds were the \"remaining unclaimed tokens from the ZKsync airdrop,\" ZKsync wrote on Twitter, before saying that \"necessary security measures are being taken.\"\n\nThe protocol's ZK token has dropped almost 14% over the past 24 hours. Volume has increased by 96% to $71 million in the same period.\n\nZKsync said the attack was an isolated incident and that it is confined to the token airdrop contract.",
+    "url": "https://www.coindesk.com/business/2025/04/15/zksync-admin-wallet-compromised-usd5m-stolen",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "ZKsync"
+            ]
+        },
+        "cryptocurrencies": [
+            "ZK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach where $5M was stolen and the ZK token dropped 13.7%, indicating negative market impact."
+    }
+}

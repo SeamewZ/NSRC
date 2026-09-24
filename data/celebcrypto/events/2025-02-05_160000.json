@@ -1,0 +1,31 @@
+{
+    "title": "Textile, 3Box Labs Merge in Decentralized Data Tie-Up for AI Agents",
+    "time": "2025-02-05T16:00:00",
+    "author": "Danny Nelson",
+    "summary": "The crypto-data veterans shared venture backers and product lines.",
+    "content": "Two venture-backed veterans of crypto's data storage subsector, Textile and 3Box Labs, the builder of Ceramic, have merged in an all-stock deal, CoinDesk has learned.\n\nThe companies will operate under Textile's brand and retain their staff and data infrastructure- focused product lines. Textile CEO Andrew Hill will head the merged organization.\n\nSelf-described \"friendly competitors,\" Textile and 3Box Labs raised funds from the same VC firms and offered overlapping products, 3Box Labs co-founder Michael Sena said. Between them, the companies have raised at least $42 million since 2019.\n\n\"We came to the conclusion that the future we're building toward is an identical one,\" he said in an interview.\n\nThat future is one where people, companies and, especially, AI agents lean on permissionless blockchain rails for data storage, access and verification. Cheap and accessible data storage is a common tech pain point that some proponents of crypto say tokenized economies can improve.\n\nAI's precipitous rise is putting an even greater spotlight on the subsector, as Textile sees it. Agents — artificial intelligence-powered bots that can make decisions and take actions in pursuit of a goal — are one of crypto's big new infatuations, with potential for trading and more.\n\nAll those agents will need data to feed their decisions, however. That's where the newly joined Textile sees its opening. It will build what a press release called \"the intelligence layer for the multi-agent economy.\"\n\n\"It's pretty clear that our sweet spot of expertise — how to move, store, share verifiable data on crypto rails — is becoming very relevant to agent builders,\" said Hill.\n\nHe said blockchains offer a natural platform for agents to operate: They speak the \"lingua franca\" of this tech-driven world. Textile is building a blockchain network atop which agents can interact, access data and even sell alpha amongst themselves.\n\nOf course, the crypto industry's AI minds haven't yet figured out what agents are best-suited to do. Many builders are trying out many different things. Momentum is high, though, Hill said, and progress is coming fast.",
+    "url": "https://www.coindesk.com/business/2025/02/05/textile-3box-labs-merge-in-decentralized-data-tie-up-for-ai-agents",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrew Hill",
+                "Michael Sena"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder"
+            ],
+            "companies": [
+                "Textile",
+                "3Box Labs",
+                "Ceramic"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The merger between two established crypto data companies to build infrastructure for AI agents on blockchain rails indicates growth and innovation in the crypto sector, suggesting positive market development."
+    }
+}

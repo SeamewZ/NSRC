@@ -1,0 +1,41 @@
+{
+    "title": "Ondo Finance's $185M Tokenized U.S. Treasury Offering to Join the XRP Ledger",
+    "time": "2025-01-28T13:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The expansion will allow institutional investors to mint and redeem OUSG tokens around the clock using Ripple's RLUSD stablecoin.",
+    "content": "Ondo Finance, a tokenized real-world asset platform, is bringing its $185 million U.S. Treasury token to the enterprise-focused XRP Ledger network to expand the offering for institutions, the companies said Tuesday.\n\nThe Ondo Short-Term US Government Treasuries (OUSG) token is backed by BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL) and allows qualified investors to mint and redeem tokens around the clock near instantaneously using the Ripple's RLUSD stablecoin. The deployment is set to go live within the next six months, Ondo Finance said in a blog post.\n\nBoth Ripple, the development firm closely related to the XRP Ledger, and Ondo Finance committed seed investments in the token on the XRP Ledger for initial liquidity. They did not reveal the size of the allocations.\n\nONDO, the governance token of Ondo Finance, advanced 4% on the news.\n\nTokenization of real-world assets (RWA) is a rapidly growing industry that involves representing traditional finance assets such as bonds, credit and funds on a blockchain. Participants do so in pursuit of faster settlements and increased efficiency compared with traditional banking plumbing.\n\nTokenized versions of U.S. Treasury notes spearheaded the trend, and have more than quadrupled over the past year to become a $3.5 billion asset class, rwa.xyz data shows.\n\n“The 24/7 intraday settlement enabled by tokenized assets like OUSG marks a transformative shift in capital flow management, breaking free from traditional trading hours and slow settlements,\" Markus Infanger, a senior vice president of RippleX, an XRP Ledger development firm, said in a statement. \"These low-risk, high-quality liquidity options not only provide better accessibility for investors but also introduce greater stability to blockchain-based markets.\n\nOUSG follows OpenEden's TBILL as the second tokenized treasury product available on XRP Ledger. OUSG previously was available on Ethereum, Polygon and Solana.\n\nUPDATE (Jan. 28, 14:00 UTC): Adds ONDO price advance on the news release in fourth paragraph.",
+    "url": "https://www.coindesk.com/business/2025/01/28/ondo-finance-s-usd185m-tokenized-u-s-treasury-offering-joins-the-xrp-ledger",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Markus Infanger"
+            ],
+            "positions": [
+                "senior vice president of RippleX"
+            ],
+            "companies": [
+                "Ondo Finance",
+                "BlackRock",
+                "Ripple",
+                "OpenEden"
+            ],
+            "organizations": [
+                "XRP Ledger",
+                "USD Institutional Digital Liquidity Fund",
+                "RippleX"
+            ]
+        },
+        "cryptocurrencies": [
+            "OUSG",
+            "RLUSD",
+            "ONDO",
+            "XRP",
+            "TBILL",
+            "Ethereum",
+            "Polygon",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports that ONDO token advanced 4% on the announcement and describes the expansion as providing better accessibility for investors and greater stability to blockchain-based markets."
+    }
+}

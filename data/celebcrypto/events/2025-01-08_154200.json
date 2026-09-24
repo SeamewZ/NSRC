@@ -1,0 +1,25 @@
+{
+    "title": "Crypto Prices Under Pressure From Global Rise in Yields",
+    "time": "2025-01-08T15:42:00",
+    "author": "James Van Straten",
+    "summary": "A sharp gain in interest rates didn't dent crypto's price rally through late 2024, but that may not be the case anymore.",
+    "content": "Crypto markets had been on a nice bull run the the final quarter of 2024, but the trend of rising government bond yields across the globe appears to have become to strong to ignore.\n\nConsidered the benchmark that sets the standard across the world, the U.S. 10-year Treasury yield has risen to 4.70% as of Wednesday, nearing a mulit-year high and now up more than 100 basis points increase since the Federal Reserve first cut its fed funds rate in September.\n\nThe action in the U.K. has been even more extreme, with the 30-year Gilt yield on Wednesday rising to 5.35%, its highest level since 1998. It's now ahead by 105 basis points since the Fed's first rate cut in September.\n\nLarge jumps in interest rates aren't limited to the U.S. and U.K., as Germany, Italy and Japan — to name three — have experienced similar action. Japan's 10-year JGB yield, in fact, has risen to 1.18% — a relatively tiny number, but its highest level in nearly 15 years.\n\nRising yields through much of the last several months didn't appear to impede crypto price action, where bitcoin and a number of other digital assets rose to record or multi-year highs in early-mid December. The price action since is a different story, with bitcoin — for instance — down more than 10% from its record above $108,000 set just three weeks ago and several other majors lower by even larger amounts.\n\nThere's always an exception and this time around it's China, where yields are falling sharply on deflation worries. According to an X post by The Kobeissi Letter, China has been experiencing its longest period of deflation since 1999.",
+    "url": "https://www.coindesk.com/markets/2025/01/08/crypto-prices-under-pressure-from-global-rise-in-yields",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "The Kobeissi Letter"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes crypto prices declining significantly with bitcoin down more than 10% from its record high due to rising global bond yields creating pressure on the market."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Gold ETFs Inflow Takes Over Bitcoin ETFs Amid Historic Rally",
+    "time": "2025-03-15T17:26:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Rising gold prices and strong bitcoin ETF outflows have pushed gold ETFs ahead as the precious metal prices hit record.",
+    "content": "Gold exchange-traded funds (ETFs) have overtaken bitcoin ETFs in assets under management as investors shift toward the traditional safe-haven asset as BTC price tumbled more than 19% over the past three months, while the precious metal climbed 12.5%.\n\nBitcoin ETFs, which saw significant inflows following their U.S. launch in January last year, have experienced major outflows, losing about $3.8 billion since Feb. 24 of this year, according to Farside Investors data. Meanwhile, gold ETFs recorded their highest monthly inflows since March 2022 last month, according to the World Gold Council.\n\nThese flows have meant that gold ETFs have now “reclaimed the asset crown over bitcoin ETFs,” as Bloomberg Senior ETF analyst Eric Balchunas said on social media.\n\nSpot bitcoin ETFs listed in the U.S. first surpassed gold ETFs in assets under management in December 2024 as the cryptocurrency market surged after Donald Trump's victory in the U.S. presidential elections.\n\nMeanwhile, gold has been seeing a significant run. This Friday, it exceeded the $3,000 per ounce mark for the first time ever, with gold futures for April delivery breaking through the same level earlier in the week.\n\nMarket volatility and geopolitical uncertainty have been helping the price of the precious metal rise as demand for a safe haven continues to grow.\nRead more: Gold's Historic Rally Leaves Bitcoin Behind, But the Trend May Reverse",
+    "url": "https://www.coindesk.com/markets/2025/03/15/gold-etfs-inflow-takes-over-bitcoin-etfs-amid-historic-rally",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Balchunas",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Senior ETF analyst"
+            ],
+            "companies": [
+                "Farside Investors"
+            ],
+            "organizations": [
+                "World Gold Council",
+                "Bloomberg"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin ETF outflows of $3.8 billion and BTC price tumbling more than 19% over the past three months while gold ETFs see strong inflows."
+    }
+}

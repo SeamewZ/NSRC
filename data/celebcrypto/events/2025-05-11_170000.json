@@ -1,0 +1,37 @@
+{
+    "title": "Bitcoin DeFi Security Improves as Rootstock Boosts Hashrate Share",
+    "summary": "Rootstock is one of numerous projects looking to bring greater utility to Bitcoin by expanding the provision for DeFi with smart contracts.",
+    "time": "2025-05-11T17:00:00",
+    "author": "Jamie Crawley",
+    "content": "Decentralized finance (DeFi) on the Bitcoin blockchain may still be in its infancy relative to Ethereum, but Bitcoin DeFi (BTCFi) is becoming safer and cheaper, crypto analytics firm Messari said in a new report.\n\nA central participant is Rootstock, one of the oldest Bitcoin layer-2 projects, crypto analytics firm Messari said in its \"State of Rootstock\" report, published on Thursday.\n\nRootstock is now secured by 81% of Bitcoin's total hashrate, meaning miners that account for amount the hashrate are also approving transactions on the layer 2. The figure was just 56% before the the onboarding of Foundry and Spiderpool, the world's largest and sixth-largest mining pools, respectively, in February.\n\nMessari also observed that transaction fees on Rootstock are 95% cheaper than the average Bitcoin transaction and 55% cheaper than those on Ethereum.\n\nRootstock is one of numerous projects looking to bring greater utility to Bitcoin through expanding the provision for DeFi with smart contracts, enabled by \"BitVMX\", a modified version of the BitVM programming language. Other prominent Bitcoin layer-2 projects include Stacks and BOB (\"Build on Bitcoin\").\n\nThe project has also connected with bridging protocol LayerZero to enable Rootstock-native applications to connect with dozens of other blockchains, including Ethereum and Solana. Its momentum sets the stage for growing adoption of BTCFi through the remainder of 2025, according to Messari.\n\n“As BTCFi continues to grow, Rootstock is well-positioned for broader adoption through core upgrades like a 60% reduction in transaction fees, alongside sustained investment in builder education and incentive programs,\" Messari analyst Andrew Yang said.\n\nRead More: Bitcoin's Role in DeFi Is 'Untapped Opportunity,' Binance Research Says",
+    "url": "https://www.coindesk.com/tech/2025/05/10/bitcoin-defi-security-improves-as-rootstock-boosts-hashrate-share",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrew Yang"
+            ],
+            "positions": [
+                "Messari analyst"
+            ],
+            "companies": [
+                "Messari",
+                "Foundry",
+                "Spiderpool",
+                "Binance"
+            ],
+            "organizations": [
+                "Rootstock",
+                "LayerZero",
+                "Stacks",
+                "BOB"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant improvements in Bitcoin DeFi security, cheaper transaction fees, growing adoption potential, and positive analyst commentary about broader adoption through 2025."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "AI Fake May Have Scammed Firms for Millions in FTX Claims: Report",
+    "summary": "Inca Digital has built a case against a shadowy figure cheating trading firms for more than $5 million in claims from the liquidation of the FTX exchange.",
+    "time": "2025-02-18T14:00:00",
+    "author": "Jesse Hamilton",
+    "content": "At least two unnamed companies have been taken in by an alleged shapeshifting fraudster selling millions of dollars in fake FTX liquidation claims by apparently using artificial intelligence to help mask his appearance in video calls with buyers, according to an investigation conducted by data firm Inca Digital.\n\nA thief (or thieves) is said to have made off with at least $5.6 million by posing as a person looking to sell his high-dollar FTX liquidation claims, which checked out as valid even though they were not ultimately connected to the person allegedly scamming buyers. The potential thief may have used face-swapping video technology in calls and also is said to have faked other credentials, said officials at Inca Digital that had been asked to lend help.\n\n\"It's likely happening to more people than we know about,\" said Adam Zarazinski, CEO of analytics and risk-intelligence company Inca Digital, in a CoinDesk interview. Getting the word out, he said, might warn others that this has been happening in the run-up to FTX payouts starting to go out this week.\n\nThe stolen funds were quickly laundered through non-U.S. exchanges including Binance, and it remains unclear whether federal law enforcement officials are pursuing data on the involved exchanges. Inca Digital detailed the scam in a report released on Tuesday.\n\nThe criminal collapse of the global FTX exchange left billions in assets to be distributed to creditors in a process that's supposed to start as soon as next week. Naturally, a secondary market has developed for the sums yet to be distributed.\n\nSome of the conclusions in Inca's report are evidence-backed guesses as to what happened, the document notes. But the person or people behind the reported theft are said to have made video calls to speak with staffs of the firms buying claims, and in those calls, the video passed initial muster but subsequently raised questions about whether it was real — an increasingly common occurrence during the rise of AI fakery.\n\nBesides the allegedly fraudulent video presence, the buyers were also shown identification that had been faked, provided with false addresses in Singapore and were — possibly most importantly — given real claim data. Such data is sometimes publicly available online, but it's also been the subject of data breaches from firms involved in the bankruptcy proceedings, the report said.\n\nZarazinski said that this kind of theft may increasingly prey on the surging crypto markets, especially considering the recent boost in industry activity from the administration of President Donald Trump.\n\n\"For every opportunity, there are also bad guys lurking behind that opportunity,\" he said.\n\nUPDATE (February 18, 2025, 22:35 UTC): Adds update on FTX payouts.",
+    "url": "https://www.coindesk.com/policy/2025/02/14/ai-fake-may-have-scammed-firms-for-millions-in-ftx-claims-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Adam Zarazinski",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Inca Digital",
+                "FTX",
+                "Binance",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a multi-million dollar scam involving fake FTX liquidation claims using AI deception, which undermines market confidence and highlights security vulnerabilities in cryptocurrency trading."
+    }
+}

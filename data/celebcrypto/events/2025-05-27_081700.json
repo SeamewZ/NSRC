@@ -1,0 +1,31 @@
+{
+    "title": "Quantum Computing Could Break Bitcoin-Like Encryption Far Easier Than Intially Thought, Google Researcher Says",
+    "summary": "A new research paper from a Google researcher slashed the estimated quantum resources needed to break RSA encryption, which is used by some crypto wallets.",
+    "time": "2025-05-27T08:17:00",
+    "author": "Shaurya Malwa",
+    "content": "A new research paper by Google Quantum AI researcher Craig Gidney shows that breaking widely used RSA encryption may require 20 times fewer quantum resources than previously believed.\n\nThe finding did not specifically mention bitcoin\nBTC\n$102,205.43\nor other cryptocurrencies, but took aim at the encryption methods that form the technical backbone used to secure crypto wallets and, in some cases, transactions.\n\nRSA is a public-key encryption algorithm used to encrypt and decrypt data. It relies on two different but linked keys: a public key for encryption and a private key for decryption.\n\nBitcoin doesn’t use RSA, but relies on elliptic curve cryptography (ECC). However, ECC can also be broken by Shor’s algorithm, a quantum algorithm designed to factor large numbers or solve logarithm problems — which form the heart of public key cryptography.\n\nECC is a way to lock and unlock digital data using mathematical calculations called curves (which compute only in one direction) instead of big numbers. Think of it as a smaller key that’s just as strong as a larger one.\n\nWhile 256-bit ECC keys are significantly more secure than 2048-bit RSA keys, quantum threats scale nonlinearly, and research like Gidney’s compresses the timeline by which such attacks become feasible.\n\n“I estimate that a 2048-bit RSA integer could be factored in under a week by a quantum computer with fewer than one million noisy qubits,” Gidney wrote. This was a stark revision from his 2019 paper, which estimated such a feat would require 20 million qubits and take eight hours.\n\nTo be clear: no such machine exists yet. IBM’s most powerful quantum processor to date, Condor, clocks in at just over 1,100 qubits, and Google’s Sycamore has 53.\n\nQuantum computing leverages the principles of quantum mechanics, using quantum bits or qubits instead of traditional bits.\n\nUnlike bits, which represent either a 0 or a 1, qubits can represent both 0 and 1 simultaneously due to quantum phenomena like superposition and entanglement. This allows quantum computers to perform multiple calculations at once, potentially solving problems that are currently intractable for classical computers.\n\n“This is a 20-fold decrease in the number of qubits from our previous estimate,” Gidney said in a post.\nA 20x efficiency boost in quantum cost estimation for RSA may reflect algorithmic trends that could eventually apply to ECC too. RSA is still very widely used in TLS, email encryption, and certificate authorities, which are all vital to the infrastructure crypto often piggybacks on.\n\nResearchers, such as the quantum research group Project 11, are actively exploring whether even weakened versions of Bitcoin’s encryption can be broken by today’s quantum hardware.\n\nThe group earlier this year launched a public bounty offering 1 BTC (~$85,000) to anyone able to break tiny ECC key sizes — between 1 and 25 bits — using a quantum computer.\n\nThe goal isn't to break Bitcoin today, but to measure how close current systems can be.",
+    "url": "https://www.coindesk.com/tech/2025/05/27/quantum-computing-could-break-bitcoin-like-encryption-far-easier-than-intially-thought-google-researcher-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Craig Gidney"
+            ],
+            "positions": [
+                "Google Quantum AI researcher"
+            ],
+            "companies": [
+                "Google",
+                "IBM"
+            ],
+            "organizations": [
+                "Project 11"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The research shows quantum computers could break cryptocurrency encryption with far fewer resources than previously thought, posing a significant security threat to crypto wallets and transactions."
+    }
+}

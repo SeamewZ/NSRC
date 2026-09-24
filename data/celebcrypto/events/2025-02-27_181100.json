@@ -1,0 +1,44 @@
+{
+    "title": "SEC Plans to Drop Enforcement Suit Against ConsenSys’ MetaMask, CEO Joe Lubin Says",
+    "summary": "The SEC accused the company’s wallet tool of being an unregistered securities broker.",
+    "time": "2025-02-27T18:11:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Securities and Exchange Commission (SEC) is dropping yet another case against an American crypto company, as the regulator continues its strategic retreat from the so-called “regulation by enforcement” approach to crypto regulation it took under the leadership of former Chairman Gary Gensler.\n\nJoe Lubin, CEO of Brooklyn-based crypto software company ConsenSys, said in a Thursday X post that the SEC has agreed to drop its ongoing securities enforcement case against ConsenSys’s MetaMask wallet tool. Like the agency’s decision to drop its case against crypto exchange Coinbase, which was announced last week, the move must first be approved by the agency’s commissioners.\n\n“We were committed to fighting this suit until the bitter end but welcome this outcome. No company wants to be the target of agency enforcement, but at the same time, it was our duty and honor to stand up for blockchain software developers in the hour it was most needed, as I’m sure our industry peers who also stood up against regulatory overreach would tell you,” Lubin wrote.\n\nThe SEC sued ConsenSys over MetaMask last June, alleging that the popular wallet tool was an unregistered securities broker that “engaged in the offer and sale of securities.” The suit came approximately two weeks after the SEC informed ConsenSys that it would close its probe into Ethereum 2.0, which ConsenSys had previously sued the regulator over in April 2024, citing regulatory overreach.\n\nThe SEC’s decision to drop its enforcement suit against ConsenSys is the latest in a string of dropped cases and investigations into crypto companies, including Gemini, Robinhood Crypto, Uniswap Labs, OpenSea and Coinbase. It's also asked courts to pause ongoing cases against Binance and the Tron Foundation, as well as their affiliated companies and executives.\n\nThe agency is currently overhauling its approach to crypto regulation under the new leadership of Acting Chair Mark Uyeda, who created a Crypto Task Force – spearheaded by crypto-friendly Commissioner Hester Peirce – just one day after Gensler’s departure. In a statement earlier this month, Peirce laid out the SEC’s roadmap for crypto regulation, and urged companies to be patient as the agency figured out how to “disentangle” itself from ongoing litigation.\n\n“We appreciate the SEC’s new leadership and the pro-innovation, pro-investor path they are taking,” Lubin wrote. “We will remain deeply engaged with public and private policymakers going forward. Crypto wants the U.S. to address the best interests of consumers and businesses alike, and we are already on our way to making that happen.”\n\nThe SEC declined to comment.",
+    "url": "https://www.coindesk.com/policy/2025/02/27/sec-plans-to-drop-enforcement-suit-against-consensys-metamask-ceo-joe-lubin-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joe Lubin",
+                "Gary Gensler",
+                "Mark Uyeda",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "CEO",
+                "former Chairman",
+                "Acting Chair",
+                "Commissioner"
+            ],
+            "companies": [
+                "ConsenSys",
+                "Coinbase",
+                "Gemini",
+                "Robinhood Crypto",
+                "Uniswap Labs",
+                "OpenSea",
+                "Binance",
+                "Tron Foundation"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Crypto Task Force"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC dropping enforcement cases against multiple crypto companies and shifting to a more pro-innovation regulatory approach indicates reduced regulatory pressure and increased market confidence."
+    }
+}

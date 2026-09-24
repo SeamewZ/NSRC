@@ -1,0 +1,34 @@
+{
+    "title": "Nasdaq Files for In-Kind Redemptions for BlackRock Spot Bitcoin ETF",
+    "time": "2025-01-24T21:47:00",
+    "author": "Krisztian Sandor",
+    "summary": "The Securities and Exchange Commission had previously only allowed cash redemptions when the spot bitcoin ETFs were approved last January.",
+    "content": "Nasdaq has filed a proposed rule change to allow in-kind creation and redemption for the BlackRock iShares Bitcoin Trust (IBIT), according to a Friday filing to the U.S. Securities and Exchange Commission (SEC).\n\nThe process allows large institutional investors, called authorized participants (APs), to buy and redeem shares of the fund directly to bitcoin\nBTC\n$104,164.74\n.\n\nIt is considered to be more efficient as it allows APs to closely monitor the demand for the ETF and act quickly by buying or selling shares of the fund without cash being involved. Retail investors are not eligible to participate.\n\nWhen the SEC first approved spot bitcoin ETFs, including IBIT, last January, the agency allowed the launch of the funds with cash redemption instead of bitcoin.\n\n\"It should have been approved in the first place but Gensler/Crenshaw didn't want to allow it for a whole host of reasons they gave,\" Bloomberg Intelligence ETF analyst James Seyffart wrote on X. \"Mainly [they] didn't want brokers touching actual Bitcoin.\"\n\nBlackRock's IBIT is the largest spot BTC ETF on the market, attracting nearly $40 billion of inflows in its first year, making it the most successful ETF debut ever.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/nasdaq-files-for-in-kind-redemptions-for-blackrock-spot-bitcoin-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Seyffart"
+            ],
+            "positions": [
+                "Bloomberg Intelligence ETF analyst"
+            ],
+            "companies": [
+                "Nasdaq",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "BlackRock iShares Bitcoin Trust",
+                "IBIT"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The approval of in-kind redemptions for BlackRock's IBIT ETF is considered more efficient and allows institutional investors to directly trade shares for bitcoin, indicating increased institutional adoption and market confidence."
+    }
+}

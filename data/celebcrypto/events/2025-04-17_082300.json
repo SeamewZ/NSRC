@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin and U.S. Equities Show Early Signs of Fading Correlation",
+    "summary": "Safe-haven asset charts its own course amid market turbulence.",
+    "time": "2025-04-17T08:23:00",
+    "author": "James Van Straten",
+    "content": "Wednesday’s price action between bitcoin\nBTC\n$101,998.62\nand U.S. equities caught investors’ attention highlighting early signs of a fading correlation between the two.\n\nIn a typical diversified portfolio, assets are expected to show little to no correlation. For example, gold has continued to hit all-time highs, setting 12 new daily records this year, demonstrating a clear dislocation from U.S. equities.\n\nWhile bitcoin has often been labeled a leveraged play on the Nasdaq 100, recent trend suggest that relationship may be weakening.\n\nTake BlackRock’s iShares Bitcoin Trust (IBIT), which trades only during regular U.S. market hours. On Wednesday, it closed up 0.46%, even as the Nasdaq 100 plunged more than 3% , down as much as 4.5% at one point, which would’ve marked its fifth-largest point decline in history.\n\nStrategy (MSTR), a bitcoin-levered play included in the Invesco QQQ Trust (QQQ) finished the day up 0.30%, even as all of the Magnificent Seven tech stocks closed in the red, underscoring the growing divergence.\n\nThroughout the day, the correlation between bitcoin and the Nasdaq fluctuated. For instance, while Fed Chair Jerome Powell was speaking, both assets dropped in tandem. However, bitcoin later rebounded above $84,000, while the Nasdaq continued to hit new intraday lows before recovering into the close.\n\nPowell’s comments leaned more hawkish than expected, citing inflation concerns driven by tariff uncertainty and increases, labeling them an “evolving risk.” Short-term inflation expectations have also moved higher.\n\nMarkets were especially unsettled by Powell’s response to the question: Is there a Fed put for the stock market? Is there a Fed put for the stock market? Powell's reply: “I’m going to say no.”\n\nThe “Fed put” is a long-held market theory suggesting the Fed will step in to stabilize markets during sharp downturns, a safety net that bitcoin, as a bearer asset, inherently lacks. The open question now: Was Powell bluffing, or is the Fed truly stepping away from its role as market backstop?",
+    "url": "https://www.coindesk.com/markets/2025/04/17/bitcoin-and-u-s-equities-show-early-signs-of-fading-correlation",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell"
+            ],
+            "positions": [
+                "Fed Chair"
+            ],
+            "companies": [
+                "BlackRock",
+                "Strategy",
+                "Invesco"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin showed resilience by rebounding and closing positive while traditional markets plunged, indicating decoupling and independent strength."
+    }
+}

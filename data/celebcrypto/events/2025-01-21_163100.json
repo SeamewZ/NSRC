@@ -1,0 +1,49 @@
+{
+    "title": "Investment Management Firms Want to Bring Trump Coin to Institutions With a New ETF",
+    "time": "2025-01-21T16:31:00",
+    "author": "Helene Braun",
+    "summary": "The memecoin, which was launched by the President on Friday, saw its price plummet nearly 26% over the past 24 hours.",
+    "content": "Crypto issuers surely seem to think anything is possible now that Donald Trump is in office.\n\nExchange-traded fund issuer Rex Shares and crypto asset manager Osprey Funds on Tuesday filed for numerous crypto-focused exchange-traded funds (ETF), including a Trump ETF, according to a filing with the Securities and Exchange Commission (SEC) on Tuesday.\n\nThe ETF would track the price of TRUMP, the memecoin launched by the President himself on Friday, a few days before his inauguration. The coin amassed nearly $17 billion in trading volume over the past 24 hours while dropping nearly 25% over the same period.\n\nFirst Lady Melania Trump also launched her own token called MELANIA, which currently trades at roughly $4. Both tokens are memecoins and therefore have no intrinsic value. Traders simply bet on the tokens' price rising or falling.\n\nAn ETF tracking the price of it would therefore offer no value to buyers.\n\n“This to me seems like issuers pushing the envelope with a new SEC administration while at the same time trying a novel structure for providing exposure to digital assets in an ETF wrapper,” said James Seyffart, an ETF analyst at Bloomberg Intelligence.\n\nThe issuers also filed documents to launch an ETF tracking the price of\nDOGE\n$0.1636\n, another memecoin. In one of his first executive orders, Trump established a \"Department of Government Efficiency\" by renaming the U.S. Digital Service. While the entity is supposedly tasked with streamlining certain government agencies and departments, its website at press time just featured a picture of the dogecoin mascot.\n\nThe SEC under former Chair Gary Gensler was careful when approving ETFs tracking cryptocurrencies. It took issuers years to receive the green light to launch a spot bitcoin\nBTC\n$104,491.18\nETF as well as a spot ethereum\nETH\n$3,507.69\nETF. It's unclear how quickly these latest applications, which also include ETFs tracking BONK (another memecoin), XRP (associated with the company Ripple) and SOL (a layer 1 blockchain), might be approved.\n\nBloomberg Intelligence Senior ETF Analyst Eric Balchunas called the Trump ETF application “surreal.”",
+    "url": "https://www.coindesk.com/markets/2025/01/21/investment-management-firm-wants-to-bring-trump-coin-to-institutions-with-a-new-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Melania Trump",
+                "James Seyffart",
+                "Gary Gensler",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "President",
+                "First Lady",
+                "ETF analyst",
+                "former Chair",
+                "Senior ETF Analyst"
+            ],
+            "companies": [
+                "Rex Shares",
+                "Osprey Funds",
+                "Bloomberg Intelligence",
+                "Ripple"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "Department of Government Efficiency",
+                "U.S. Digital Service"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "MELANIA",
+            "DOGE",
+            "BTC",
+            "ETH",
+            "BONK",
+            "XRP",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports Trump Coin's price plummeting nearly 26% and describes memecoins as having no intrinsic value, indicating negative price action and lack of fundamental value."
+    }
+}

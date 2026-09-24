@@ -1,0 +1,29 @@
+{
+    "title": "Chainalysis Buys Israeli Fraud Detection Startup Alterya for $150M",
+    "time": "2025-01-13T19:00:00",
+    "author": "Danny Nelson",
+    "summary": "Alterya's AI driven fraud models have \"substantial opportunities in the traditional market.\"",
+    "content": "Blockchain analytics company Chainalysis said Monday it had acquired fraud detection startup Alterya. The deal carried a price tag of $150 million, according to Business Insider.\n\nChainalysis, the largest company tracing illicit crypto flows on behalf of financial institutions and governments, plans to bolster its scam-stopping capabilities with Alterya, CEO Jonathan Levin told CoinDesk.\n\nThe two companies attack a thematically similar problem – bad actors on the blockchain – from different positions. Chainalysis amasses troves of intel on crypto wallets to trace where money is moving. Alterya, meanwhile, uses data on scammers to nix their transactions mid-route.\n\n\"Alterya has collected the most comprehensive set of information about all of the scammers' financial infrastructure that's out there,\" Levin said. Exchanges that plug into its dataset can flag transactions initiated by potential victims, stopping the crime before it happens.\n\nChainalysis already collects reams of data about crypto scammers, and there's significant overlap between its in-house blacklist and Alterya's, Levin said. But the startup's got an even bigger list than that of Chainalysis. By combining the two companies' capabilities, he expects to sniff out yet more scammers.\n\nThe acquisition continues Chainalysis' poaching of Israeli-based crypto security startups, after last month's buyout of Hexagate. All teams will work out of a new, combined office in Tel Aviv, Levin said. That could position the company well to further tap what he called Israel's \"very deep talent market for this kind of work.\"\n\nWhile Chainalysis is best-known for its work in the cryptospace, it is now moving to combat financial fraud more broadly. Alterya's AI driven fraud models have \"substantial opportunities in the traditional market,\" Levin said, and the requisite data to help banks and other financial institutions stop fraud.",
+    "url": "https://www.coindesk.com/business/2025/01/13/chainalysis-buys-israeli-fraud-detection-startup-alterya-for-150-m",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jonathan Levin"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Chainalysis",
+                "Alterya",
+                "Business Insider",
+                "CoinDesk",
+                "Hexagate"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition strengthens fraud detection capabilities in the crypto space, which enhances market security and investor confidence."
+    }
+}

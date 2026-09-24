@@ -1,0 +1,25 @@
+{
+    "title": "FTX’s Initial $1.2B Payout Process to Creditors Is Underway",
+    "time": "2025-02-18T17:03:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The payments are being distributed in U.S. dollars through BitGo and Kraken.",
+    "content": "Creditors of the collapsed cryptocurrency exchange FTX with claims below $50,000 have started receiving their payouts, which include 9% annual interest accrued since November 2022.\n\nMultiple users on the FTX subreddit have reported receiving funds on accounts at crypto exchange Kraken with the added interest on top. Creditors are scheduled to receive roughly 119% of their adjudicated claim value, according to the bankruptcy plan.\n\nArkham Intelligence also pointing to FTX’s wallet outflows as evidence of the payments, which it says are expected to total around $1.2 billion.\n\nCreditors with claims exceeding the $50,000 threshold are set to begin receiving their payments in the second quarter, with around $16 billion set to be distributed in total.\n\nThe funds are being distributed in U.S. dollars through both BitGo and Kraken. According to screenshots shared on Reddit, Kraken also distributed trading-fee credits to users. The move is seen as a way for Kraken to distribute the payouts without profiting from them.",
+    "url": "https://www.coindesk.com/business/2025/02/18/ftx-s-initial-usd1-2b-payout-process-to-creditors-is-underway",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "FTX",
+                "BitGo",
+                "Kraken"
+            ],
+            "organizations": [
+                "Arkham Intelligence"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The distribution of $1.2 billion to FTX creditors with interest payments represents a positive resolution to the exchange's collapse and restores funds to market participants."
+    }
+}

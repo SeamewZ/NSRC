@@ -1,0 +1,35 @@
+{
+    "title": "BTC Staking Platform Core Seeks Further Institutional Reach With APAC Custodian Cobo",
+    "summary": "Core, the issuer of lstBTC, will enable Cobo's institutional clients to earn yield on BTC holdings while maintaining full control over their assets.",
+    "time": "2025-03-07T16:00:00",
+    "author": "Jamie Crawley",
+    "content": "Bitcoin (BTC) staking layer Core has teamed up with Singapore-based custodian Cobo to expand its institutional reach into the Asia-Pacific (APAC) region.\n\nCore, issuer of the liquid-staking token lstBTC, will enable Cobo's institutional clients to earn a return on BTC holdings while maintaining full control over their assets, according to an emailed announcement shared with CoinDesk on Friday.\n\nNumerous projects are now offering BTC holders a means of earning yield, potentially unlocking untold liquidity into the decentralized finance (DeFi) industry. They also provide alternative revenue sources to miners, which can help to offset declining Bitcoin block subsidies.\n\nCore's staking protocol has secured over 6,200 BTC ($548 million) with its blockchain secured by around 76% of Bitcoin's hashrate, according to Friday's announcement.\n\n“Our integration with Cobo greatly enhances the Core ecosystem by onboarding liquidity from high-caliber institutional clients,” said Brendon Sedo, initial contributor at Core.\n\nLast month, Core partnered with Maple Finance and custodians BitGo, Copper and Hex Trust in another move that promised to broaden access to BTC staking for institutions.",
+    "url": "https://www.coindesk.com/tech/2025/03/07/btc-staking-platform-core-seeks-further-institutional-reach-with-apac-custodian-cobo",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brendon Sedo"
+            ],
+            "positions": [
+                "initial contributor"
+            ],
+            "companies": [
+                "Core",
+                "Cobo",
+                "Maple Finance",
+                "BitGo",
+                "Copper",
+                "Hex Trust"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership enables institutional clients to earn yield on BTC holdings and expands access to BTC staking, indicating positive market development and increased institutional adoption."
+    }
+}

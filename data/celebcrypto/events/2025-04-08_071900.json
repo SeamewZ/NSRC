@@ -1,0 +1,40 @@
+{
+    "title": "XRP, Dogecoin Surge 10% as Crypto Markets Stage Relief Rally",
+    "time": "2025-04-08T07:19:00",
+    "author": "Shaurya Malwa",
+    "summary": "Total crypto market cap has pulled back to levels seen in early November, when Donald Trump's victory triggered a break through a resistance level.",
+    "content": "Bitcoin (BTC) clawed its way back to almost $80,000, staging a relief rally after dipping below $75,000 late Monday and spurring a run-up in major tokens.\n\nDOGE\n$0.1638\n, BNB Chain’s BNB, XRP and Cardano’s ADA rose as much as 10%, alleviating some of the past 24 hours' losses. The broad-based CoinDesk 20 (CD20) added nearly 9%.\n\nOverall, crypto market cap has pulled back to levels seen in early November last year, when Donald Trump's victory triggered a rally that propelled the total value through a level that had been seen as offering resistance to further gains.\n\nEquity markets staged a bounce late Monday as rumors of an impending tariff respite caused the S&P 500 to soar over 7%, and then gave up nearly all those gains after the White House called the speculation “fake news.”\n\nCrypto-tracked futures amassed over $1.2 billion in liquidations on Monday as major cryptocurrencies slumped more than 20% at one point, setting the stage for a bounce as traders cut short positions and reversed overextended selling, as CoinDesk noted.\n\nMeanwhile, traders are eying bitcoin price action for cues on dip buying, with some saying they are cautious due to the uncertainty caused by the tariff wars.\n\n“We're optimistic that investors seeking safe havens may look to buy the dip on Bitcoin if it can show some relative strength against traditional assets during an eventual recovery period in the short term,” Jupiter Zheng, a partner at HashKey Capital, told CoinDesk in a Telegram message. “While global markets are experiencing record sell-offs, Bitcoin has also declined but remains relatively stable.”\n\nAlex Kuptsikevich, FxPro's chief market analyst, said the market looked “emotionally oversold” and while a rebound was in place, the catalysts required for it to be a reversal were “not yet in place.”\n\n“Crypto market sentiment has returned to the extreme fear zone of 23, which is significantly higher than what we see in equities,” he said in an email. \"This does not mean that cryptocurrency investors are more confident about the future. Rather, it signals that the sell-off here is more organised, making it more dangerous.”",
+    "url": "https://www.coindesk.com/markets/2025/04/08/xrp-dogecoin-surge-10-as-crypto-markets-stage-relief-rally",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jupiter Zheng",
+                "Alex Kuptsikevich"
+            ],
+            "positions": [
+                "partner",
+                "chief market analyst"
+            ],
+            "companies": [
+                "HashKey Capital",
+                "FxPro"
+            ],
+            "organizations": [
+                "White House",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "DOGE",
+            "BNB",
+            "XRP",
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a relief rally with major cryptocurrencies surging 10%, Bitcoin climbing back to $80,000, and the CoinDesk 20 adding nearly 9% after recent declines."
+    }
+}

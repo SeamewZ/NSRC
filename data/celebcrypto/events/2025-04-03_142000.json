@@ -1,0 +1,25 @@
+{
+    "title": "Ethereum Developers Lock in May 7 for Pectra Upgrade",
+    "summary": "The decision to schedule Pectra was made just over a week after the upgrade went live on the Hoodi testnet without any hiccups.",
+    "time": "2025-04-03T14:20:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum developers set May 7 as the target date for the long-awaited Pectra upgrade on Thursday, beginning the countdown for the blockchain's biggest changes since March 2024.\n\nPectra contains a series of improvements aimed at making Ethereum more user-friendly and efficient. One such improvement is adding \"smart contract\" capabilities to wallets, which can make them easier to use and recover.\n\nThe decision to schedule Pectra was made during a call between Ethereum's core developers — just over a week after the upgrade went live on the Hoodi testnet without any hiccups. Pectra's test on Hoodi was the third and final dry-run of the upgrade. Two earlier tests had bugs, which led the developers to delay the upgrade on Ethereum’s mainnet.\n\nPectra consists of 11 major code changes, or \"Ethereum improvement proposals\" (EIPs), that will be shipped all at once. Together, the features aim to improve the staking experience, introduce wallet features, and update the overall network.\n\nOne of the main Pectra changes that will benefit Ethereum validators is EIP-7251, which will increase the amount of ETH one can stake from 32 to 2,048. The change is meant to alleviate the experience for those staking across multiple validators, who can now set that up under one node instead of multiple.\n\nRead more: Ethereum’s Final Pectra Test Goes Live on Hoodi Network",
+    "url": "https://www.coindesk.com/tech/2025/04/02/ethereum-developers-lock-in-may-7-for-pectra-upgrade",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Ethereum developers",
+                "Hoodi testnet"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The successful testnet deployment and scheduled mainnet upgrade with user-friendly improvements and enhanced staking capabilities indicate positive development progress for Ethereum."
+    }
+}

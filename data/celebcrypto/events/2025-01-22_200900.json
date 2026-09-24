@@ -1,0 +1,35 @@
+{
+    "title": "XRP, Solana Prices Rise After Report of Leaked CME Futures Addition",
+    "time": "2025-01-22T20:09:00",
+    "author": "Krisztian Sandor",
+    "summary": "In a now deleted \"staging subdomain\" page CME reported to have said futures contracts for XRP and SOL will go live on Feb. 10.",
+    "content": "Payments-focused cryptocurrency XRP and the world's most-used blockchain Solana\nSOL\n$160.41\nprices spiked on Wednesday afternoon after a report that the Chicago Mercantile Exchange (CME) is adding futures contracts for both.\n\nAccording to a post on X, CME has posted the futures page for XRP and SOL in their \"staging subdomain.\"\n\nA screenshot of the website shows that the regulated futures could start trading on Feb. 10, pending regulatory approval. The website was not accessible at the time of publication.\n\n“We’ve seen a slew of ETF filings for SOL and XRP futures ETFs. Typically these would use CME or CBOE futures but we don’t have any yet,” Bloomberg Intelligence ETF analyst James Seyffart told CoinDesk. “I would expect CME to list those futures in the next month assuming those issuers know something we don’t.”\n\nXRP and SOL jumped as much as 3% in the minutes after the post started circulating on social media, TradingView data showed.\n\nA CME representative told CoinDesk later Wednesday that releasing the webpage was an \"error\" and that the company has yet to decide whether to list those products.\n\n“A beta page from our website was released in error earlier today,” the spokesperson said. “Many mock-ups are included in that test environment. No decisions have been made regarding XRP or SOL futures contracts.\"\n\nSOL and XRP erased all initial gains and sunk lower with the broader crypto market.\n\nUPDATE (Jan. 22, 10:09 UTC): Adds comments from Bloomberg ETF analyst.\n\nUPDATE (Jan. 23, 14:57 UTC): Adds CME spokesperson's comment and XRP, SOL price action.\n\nRead More: Solana Bull Bets Big on SOL Rallying to $400",
+    "url": "https://www.coindesk.com/markets/2025/01/22/xrp-solana-prices-rise-after-report-of-leaked-cme-futures-addition",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Seyffart"
+            ],
+            "positions": [
+                "Bloomberg Intelligence ETF analyst"
+            ],
+            "companies": [
+                "CME",
+                "CBOE",
+                "CoinDesk",
+                "Bloomberg Intelligence",
+                "TradingView"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Initial price spikes were erased after CME clarified the futures announcement was an error, resulting in prices sinking lower with the broader market."
+    }
+}

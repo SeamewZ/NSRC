@@ -1,0 +1,32 @@
+{
+    "title": "Federal Judge Dismisses SEC Case Against Richard Heart, Citing Lack of Jurisdiction",
+    "summary": "Heart raised over $1 billion across three different unregistered securities offerings, the SEC had alleged",
+    "time": "2025-03-01T02:05:00",
+    "author": "Sam Reynolds",
+    "content": "A federal judge has dismissed the U.S. Securities and Exchange Commission’s (SEC) lawsuit against Richard Heart, the founder of HEX, PulseChain and PulseX, ruling that the agency lacked jurisdiction because the project did not specifically target U.S. investors.\n\n“The relevant online communications described in the Complaint during the offer periods consist of untargeted, globally available information,” Judge Carol Bagley Amon wrote in her ruling. “The SEC failed to plead sufficient facts to suggest that Heart’s online statements were purposefully directed to the United States rather than a global audience.”\n\nUnder U.S. securities law, the SEC must prove that a defendant intentionally engaged with the U.S. market, but the court found Heart’s communications were “untargeted, globally available information,” which failed to demonstrate a deliberate effort to solicit U.S. investors, and noted that the tokens were not available on U.S. exchanges.\n\nThe court also ruled that the participation of U.S. persons in the project did not give the SEC jurisdiction stating that the complaint “merely alleges that an unspecified number of U.S.-based investors participated in the offerings,” without demonstrating that transactions occurred in the U.S.\n\nThe SEC has the option to appeal the ruling or amend it within 20 days.",
+    "url": "https://www.coindesk.com/policy/2025/02/28/federal-judge-dismisses-sec-case-against-richard-heart-citing-lack-of-jurisdiction",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Richard Heart"
+            ],
+            "positions": [
+                "founder",
+                "federal judge"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "HEX",
+                "PulseChain",
+                "PulseX",
+                "court"
+            ]
+        },
+        "cryptocurrencies": [
+            "HEX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The dismissal of the SEC lawsuit against a major cryptocurrency founder due to lack of jurisdiction is a positive regulatory development that reduces legal uncertainty in the crypto space."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Noble’s New ‘AppLayer’ Lets Developers Build Stablecoin Tools on Celestia",
+    "summary": "The aim of Noble’s AppLayer is to let developers build new financial tools and apps with high throughput of stablecoins and reliable stablecoin infrastructure.",
+    "time": "2025-04-16T03:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Noble, a blockchain for issuing real-world assets (RWA) and stablecoins, announced Wednesday that it will expand its platform by introducing “AppLayer,” an Ethereum-compatible rollup that allows developers to create their own RWA applications and infrastructure.\n\nNoble’s AppLayer aims to let developers build new financial tools optimized for real-world assets like stablecoins — digital assets whose value is pegged to another asset, like the U.S. dollar.\n\nAppLayer will leverage Celestia, a data availability blockchain that aims to bring down storage costs for data-intensive blockchain networks. Celestia, like Noble, is plugged into the Cosmos blockchain ecosystem and is compatible with the Ethereum Virtual Machine (EVM), meaning it can read smart contracts from other Ethereum-based chains.\n\nThe Noble team stated in a press release viewed by CoinDesk that it will launch its Ethereum-compatible AppLayer rollup in the third quarter of 2025.\n\n“Noble plans to unlock its cross-ecosystem potential as EVM applications continue to seek reliable and seamless access to native stablecoin liquidity,” the team wrote. “Noble’s AppLayer will be seamlessly integrated with a number of blue chip DeFi projects born in the Ethereum ecosystem.”\n\nStablecoins have received considerable attention in recent weeks, with the U.S. Congress preparing significant stablecoin legislation later this year. Entities including President Trump’s World-Liberty Financial, banking giant Fidelity, and the U.S. state of Wyoming have also expressed plans to create their own stablecoins.\n\nNoble launched in March 2023 as an application-specific blockchain, or \"appchain,\" purpose-built for stablecoin issuance within the Cosmos ecosystem. Initially, it aimed to expand liquidity Cosmos by enabling native asset issuance through the Inter-Blockchain Communication (IBC) protocol, which is the technology used by Cosmos-based blockchains to transfer assets and other data.\n\nOver time, Noble has extended its reach beyond Cosmos, integrating with Ethereum and other ecosystems to facilitate quick stablecoin transfers. Additionally, in March, Noble introduced USDN, a yield-bearing stablecoin backed by U.S. Treasury bills.\n\n“Building stablecoin issuance infrastructure over the past two years has given us a deep appreciation for the transformative potential of stablecoins to onboard the world to crypto,” said Jelena Djuric, co-founder and CEO at Noble, in the press release. “The Noble AppLayer, built with Celestia's technology underneath, finally gives builders the freedom to build highly scalable and performant stablecoin-native applications.”\n\nRead more: How a Ph.D. Student's Research Paper Turned Celestia Into $345M Blockchain Project Overnight",
+    "url": "https://www.coindesk.com/tech/2025/04/15/noble-s-new-applayer-lets-developers-build-stablecoin-tools-on-celestia",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jelena Djuric"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Noble",
+                "Celestia",
+                "CoinDesk",
+                "World-Liberty Financial",
+                "Fidelity"
+            ],
+            "organizations": [
+                "U.S. Congress",
+                "U.S. state of Wyoming"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "USDN"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes infrastructure expansion for stablecoin development and integration with major ecosystems, indicating positive market development and institutional interest."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Coinbase Q4 Earnings Expected to Show Best Volume Since 2021",
+    "time": "2025-02-12T15:31:00",
+    "author": "Helene Braun",
+    "summary": "The crypto exchange reports fourth quarter results after the close on Thursday.",
+    "content": "The fourth quarter was a good one for crypto and Wall Street analysts expect leading U.S. exchange Coinbase (COIN) to have posted a big jump in earnings from the prior three months.\n\nRevenue for the fourth quarter is expected to have been $1.8 billion, according to FactSet, up from $1.26 billion in the third quarter. Earnings-per-share are estimated to have risen to $1.99 from $0.41.\n\nMaybe more importantly, thanks to the major rally across crypto following Donald Trump's presidential election victory, analysts expect exchange volume to have risen to $195.9 billion in the year's final three months from $185.3 billion in the third quarter. That $195.9 billion figure would be the strongest quarterly result since the fourth quarter of 2021.\n\n“We maintain our bullish thesis on COIN, seeing the company well positioned to benefit as crypto begins a potential transition into a new era,” analysts at Citi bank wrote in a note.\n\nThe bank has a buy rating on the stock and this week increased its price target to $350 from $275. Shares on Tuesday are trading at $270, ahead nearly 90% from the year-ago level. The Citi team, however, does expect Coinbase to report fourth quarter revenue of $1.7 billion, missing the $1.8 billion consensus estimate.\n\nThe November election was a “monumental catalyst for the crypto ecosystem,\" wrote JPMorgan’s Ken Worthington, who nevertheless remains neutral on the shares. He sees fourth quarter revenue at $1.77 billion, also a miss from the $1.8 billion estimate.\n\nWhile the final months of 2024 had many catalysts for crypto and thus Coinbase, 2025 is hard to predict as policy changes typically take some time to go into effect, say some Wall Street analysts.\n\n“For [2025], we assume static crypto prices and factor more normalized volumes resulting in 6% YoY transaction revenue growth vs. consensus of 3% growth,” Citi said.\n\n“Not unlike in the past, we expect the stock to remain as a 'risk-on' play throughout 2025 and will likely remain volatile around macro developments and swings in market sentiment,\" Citi continued. \"That being said, we expect the next 1-2 years to be highly formative for Coinbase’s business model/competitive strategy, as well as for the greater digital asset space.”\n\nOne of Coinbase’s main priorities over the past year has been to diversify its revenue stream, 50% of which still comes from trading fees. Retail traders, which pay the highest trading fee, still have not returned to the same levels seen in 2021, according to research firm Kaiko. The share of volume coming from that clientele shrank to just 18%, down from 40% in 2021, which continues to weigh on transaction revenue, Kaiko said.\n\nAccording to Citi, Coinbase could solve this issue in 2025 by leaning further into the tokenization of assets, embedded smart contract applications and Web3, the potential efficiencies in cross-border and remittance, as well as using the blockchain as an AI governance tool, among others.\n\n“In our view, the next evolution for Coinbase’s growth trajectory will rely on utility… an area with many proofs-of-concepts, but perhaps waiting to be unlocked with clearer rules,” the bank’s analysts wrote.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/coinbase-q4-earnings-expected-to-see-best-volume-since-2021",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Ken Worthington"
+            ],
+            "positions": [
+                "analysts",
+                "president"
+            ],
+            "companies": [
+                "Coinbase",
+                "Citi",
+                "JPMorgan",
+                "FactSet",
+                "Kaiko"
+            ],
+            "organizations": [
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major crypto rally following the presidential election, expected strong quarterly results for Coinbase, and analysts maintaining bullish positions on the stock."
+    }
+}

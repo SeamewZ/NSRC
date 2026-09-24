@@ -1,0 +1,40 @@
+{
+    "title": "Trump Issues Crypto Executive Order to Pave U.S. Digital Assets Path",
+    "summary": "President Donald Trump has signed a long-awaited crypto order that sets a federal agenda meant to move U.S. digital assets businesses into friendly oversight.",
+    "time": "2025-01-23T20:34:00",
+    "author": "Jesse Hamilton",
+    "content": "U.S. President Donald Trump has come through with an eagerly awaited executive order on crypto that directs his administration to establish friendly policies to put the industry on solid U.S. footing and looking into establishing a \"digital asset stockpile.\"\n\nAfter years of courtroom combat with federal authorities, Trump's order issued on Thursday could allow the digital assets sector to move forward in the U.S. with a more welcoming framework set by the White House. Such orders are more of a beginning than an end in federal policy, but the pro-crypto president has taken that first step.\n\nBitcoin surged briefly above $106,000 from around $103,000 in the minutes following the news before retracing most of the gains. Recently, BTC changed hands at $103,500, down 0.51% over the past 24 hours.\n\nThursday's order said it would protect Americans from persecution if they developed software, were miners or validators or otherwise transacted \"for lawful purposes.\"\n\nThe order created a working group, chaired by Trump's czar for crypto and AI (venture capitalist David Sacks) and composed of various Cabinet officials, the heads of the Securities and Exchange Commission and Commodity Futures Trading Commission and other White House officials. Though the order does not itself establish a strategic bitcoin reserve, it does direct the working group to \"evaluate the potential creation and maintenance of a national digital asset stockpile.\"\n\nThe group has to identify all regulations that currently touch crypto within 30 days, recommend modifying or rescinding those regulations within 60 days and file a report with new recommendations within 180 days.\n\nTrump's order additionally bans work on a U.S. central bank digital currency in his administration, saying that the agencies under his authority are \"prohibited from undertaking any action to establish, issue, or promote CBDCs within the jurisdiction of the United States or abroad.\"\n\nThe executive order also revoked former President Joe Biden's 2022 executive order on crypto, and directed the Treasury Department to similarly revoke its digital asset framework stemming from that order.\n\nWhen Trump had failed to issue the document among his opening flurry of executive orders, crypto insiders grew increasingly tense about the new relationship he's promised. But behind the scenes, leaders at the U.S. markets regulators — the Securities and Exchange Commission and Commodity Futures Trading Commission — were already prepping this week to move digital assets businesses out of the multi-year penalty box the previous agency officials kept them in.\n\nExecutive orders can present tricky legal questions. Neither Congress nor independent regulatory agencies — such as the SEC — are technically held to their demands, but Trump's Republican allies in those places are likely to defer to the wishes represented by the document.\n\nThe Republican-majority Congress has its own plans regarding crypto oversight, including reopening the legislative process that had already produced a market-structure and a stablecoin bill in the last session. It's unclear whether the process Trump is putting in motion will encourage lawmakers to pause their own efforts on crypto in the meantime.\n\n\"I look forward to partnering with President Trump and his team to bring clarity, choice, and opportunity to this important sector of our 21st century economy,” said Senate Banking Committee Chairman Tim Scott, a South Carolina Republican who just took over that committee, in a Thursday statement.\n\nUPDATE (Jan. 23, 2024, 20:58 UTC): Adds additional detail.\n\nUPDATE (Jan. 23, 21:10 UTC): Adds further information from executive order and context around its effects.\n\nUPDATE (Jan. 23, 21:14 UTC): Adds comment from Senator Tim Scott.",
+    "url": "https://www.coindesk.com/policy/2025/01/23/trump-issues-crypto-executive-order-to-pave-u-s-digital-assets-path-reports",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "David Sacks",
+                "Joe Biden",
+                "Tim Scott"
+            ],
+            "positions": [
+                "President",
+                "czar for crypto and AI",
+                "venture capitalist",
+                "Senate Banking Committee Chairman",
+                "South Carolina Republican"
+            ],
+            "companies": [],
+            "organizations": [
+                "White House",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "Treasury Department",
+                "Congress",
+                "Senate Banking Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin surged briefly above $106,000 following the news of Trump's pro-crypto executive order that establishes friendly policies for the digital assets industry."
+    }
+}

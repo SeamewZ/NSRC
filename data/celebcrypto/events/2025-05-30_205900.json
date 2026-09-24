@@ -1,0 +1,38 @@
+{
+    "title": "Trump's Memecoin Dinner Questioned by Top Democrat on House Judiciary Committee",
+    "summary": "Jamie Raskin, the ranking Democrat on the House panel overseeing the legal system, asked the president to produce the guest list of his private event.",
+    "time": "2025-05-30T20:59:00",
+    "author": "Jesse Hamilton",
+    "content": "A senior Democrat in the House of Representatives, Jamie Raskin, joined his name to lawmakers seeking answers about President Donald Trump's recent dinner for top investors in his memecoin, sending questions directly to Trump.\n\nRaskin, the ranking Democrat on the House Judiciary Committee, has been a vocal critic of the president and becomes the latest of many from his party to probe details about the event, which they've called out as evidence of White House corruption. Because Raskin is in the minority party, his demands are unlikely to lead to further congressional action unless they regain the House or Senate in next year's elections.\n\n\"I write today to demand that you release the names of all the attendees at this dinner and provide information about the source of the money they each used to buy $TRUMP coins, so that we can prevent illegal foreign government emoluments from being pocketed without congressional consent,\" Raskin wrote this week to the president, joining many counterparts in the Senate in seeking the information, including Senators Elizabeth Warren, Chris Murphy and Richard Blumenthal.\n\n\"We deserve to know who is paying for access to our president, and what steps you took to ensure that the funds you receive are legitimate and legal, rather than the proceeds from foreign states or monarchs or illegal activities,\" Rasking said, specifically highlighting Tron founder Justin Sun, a guest who was a major early investor in Trump's family crypto operations.\n\nRead More: Democrats Threaten Lawsuits, Join Protests Ahead of Trump Memecoin Dinner",
+    "url": "https://www.coindesk.com/policy/2025/05/30/trump-s-memecoin-dinner-questioned-by-top-democrat-on-house-judiciary-committee",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jamie Raskin",
+                "Donald Trump",
+                "Elizabeth Warren",
+                "Chris Murphy",
+                "Richard Blumenthal",
+                "Justin Sun"
+            ],
+            "positions": [
+                "ranking Democrat on the House Judiciary Committee",
+                "president"
+            ],
+            "companies": [
+                "Tron"
+            ],
+            "organizations": [
+                "House of Representatives",
+                "House Judiciary Committee",
+                "White House",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "$TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes congressional scrutiny and allegations of corruption surrounding Trump's memecoin, which creates regulatory uncertainty and negative political pressure on cryptocurrency markets."
+    }
+}

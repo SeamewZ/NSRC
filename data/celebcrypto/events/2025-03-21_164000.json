@@ -1,0 +1,31 @@
+{
+    "title": "South Korea Plans Sanctions Against KuCoin, Others: Report",
+    "summary": "The Financial Intelligence Unit (FIU) classified a number of exchanges who are not registered as targets for sanctions",
+    "time": "2025-03-21T16:40:00",
+    "author": "Jamie Crawley",
+    "content": "UPDATE (March 27, 13:20 UTC): Removes BitMEX from headline, story after Hankyung updated its report to remove the exchange. A previous version of this article included BitMEX, following Hankyung's coverage.\n\nSouth Korean financial authorities are planning sanctions against crypto exchanges that are operating illegally in the country, business newspaper Hankyung reported on Friday.\n\nThe Financial Intelligence Unit (FIU) classified a number of exchanges who are not registered as Virtual Asset Service Providers (VASPs) as targets for sanctions, according to a machine-translated version of the report.\n\nThe exchanges targeted — KuCoin, CoinW, Bitunix and KCEX — have been found to be operating Korean-language websites without reporting to the FIU, according to the report. For that reason, they are classed as illegal businesses, as per the country's regulations, Hankyung said.\n\n\"We are currently reviewing blocking access to unreported overseas exchanges that are providing services to domestic investors through consultation with the Korea Communications Standards Commission,\" an FIU official said, according to the translation of the report.\n\n\"We are organizing damage cases and related data to strengthen communication between authorities, and we expect to see tangible measures taken within this year.\"\n\nLast month, South Korean crypto exchange Upbit was prohibited from allowing new customers to transfer assets to its platform for three months due to non-compliance with its obligations as a regulated provider.\n\nKuCoin commented: \"We are closely monitoring regulatory developments across all jurisdictions, including Korea, and will fully cooperate with any regulatory requirements,\" it said in a statement over Telegram.\n\nRead More: Crypto Exchange Bithumb Raided by South Korean Prosecutors Over Embezzlement Allegations: Report\n\nUPDATE (March 24, 16:30 UTC): Adds KuCoin response and adds that quotes from the Hankyung article are based on a machine-translated version of the report.",
+    "url": "https://www.coindesk.com/policy/2025/03/21/south-korea-plans-sanctions-against-bitmex-kucoin-others-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "FIU official"
+            ],
+            "companies": [
+                "KuCoin",
+                "CoinW",
+                "Bitunix",
+                "KCEX",
+                "Upbit",
+                "Bithumb"
+            ],
+            "organizations": [
+                "Financial Intelligence Unit (FIU)",
+                "Korea Communications Standards Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory sanctions and potential blocking of crypto exchanges in South Korea, which represents a negative regulatory crackdown on the cryptocurrency market."
+    }
+}

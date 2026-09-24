@@ -1,0 +1,32 @@
+{
+    "title": "Movement Labs Suspends Rushi Manche Amid Coinbase Delisting, Token-Dumping Scandal",
+    "summary": "Movement Labs cites 'ongoing events' as the reason for suspension.",
+    "time": "2025-05-02T03:16:00",
+    "author": "Sam Reynolds",
+    "content": "Movement Labs announced today on X that it had suspended co-founder Rushi Manche.\n\nThe move to suspend Manche comes as Coinbase delisted the MOVE token, after CoinDesk reported that Movement Labs is investigating how a market maker tied to Web3Port acquired and dumped over 5% of the token’s supply, triggering a price crash.\n\nBinance had previously banned the market maker at the center of this, Web3Port, from its platform.\n\nThe MOVE token is down about 20% on the day, according to CoinDesk market data.",
+    "url": "https://www.coindesk.com/markets/2025/05/02/movement-labs-suspends-rushi-manche-after-coinbase-delists-move-token",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rushi Manche"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Movement Labs",
+                "Coinbase",
+                "Web3Port",
+                "Binance"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "MOVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a token-dumping scandal causing a 20% price crash and Coinbase delisting of the MOVE token."
+    }
+}

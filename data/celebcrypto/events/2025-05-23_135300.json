@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Market Sees $300M Liquidations as Trump Tariff Threats Flush Late Bulls",
+    "summary": "The leverage flush happened as crypto prices quickly dropped on renewed trade war fears, with BTC slipping 3% from near record highs.",
+    "time": "2025-05-23T13:53:00",
+    "author": "Krisztian Sandor",
+    "content": "Crypto traders betting on a steady bitcoin\nBTC\n$101,754.63\nrally got a sharp reminder of headline risk from Donald Trump's latest tariff threats.\n\nOver $300 million worth of leveraged derivatives positions were liquidated across centralized exchanges in the past four hours, according to CoinGlass data, as crypto prices plunged following the news.\n\nNearly all liquidations came from long positions—traders betting on higher prices. BTC longs accounted for $107 million of the total, while Ethereum's ether\nETH\n$3,331.23\nfollowed with close to $87 million. Other tokens, including Solana's SOL\nSOL\n$157.39\n, dogecoin\nDOGE\n$0.1651\n, and SUI\nSUI\n$2.0249\nsaw liquidations ranging between $10 million and $18 million.\n\n\"Nice aggregate flush of long leverage and de-risk selling from spot,\" well-followed crypto trader Skew noted in an X post early Friday. \"All driven by headlines once again.\"\n\nThe sell-off came after Trump proposed a 50% tariff on imports from the European Union starting next month, along with a 25% tariff on iPhones manufactured outside the U.S., reigniting fears of an escalating trade war.\n\nAs a result, BTC and major altcoins such as Ether\nETH\n$3,331.23\n, XRP\nXRP\n$2.2497\n, and Cardano\nADA\n$0.5341\nfell 3% to 4%, while smaller-cap tokens like Uniswap\nUNI\n$5.1914\nand SUI\nSUI\n$2.0249\ndropped 5% to 7% over the past 24 hours.\n\nCrypto trader named James Wynn, who gained attention recently opening a $1.1 billion BTC long bet with 40x leverage on the Hyperliquid exchange, also slipped underwater on the massive position. Currently, the trader is sitting on $7.5 million of unrealized losses, and the position could be liquidated if BTC slips to $102,000, according to a screenshot shared on X.\n\nInterestingly, the long liquidations came amid a recent unusual tilt toward short positions in BTC derivatives despite record prices, CoinDesk reported on Thursday.\n\nRead more: Why Are Bitcoin Traders Aggressively Shorting as BTC Hits New Record High?",
+    "url": "https://www.coindesk.com/markets/2025/05/23/crypto-market-sees-usd300m-liquidations-as-trump-tariff-threats-flush-late-bulls",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Skew",
+                "James Wynn"
+            ],
+            "positions": [
+                "long positions",
+                "short positions"
+            ],
+            "companies": [
+                "Hyperliquid exchange"
+            ],
+            "organizations": [
+                "European Union",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL",
+            "dogecoin",
+            "DOGE",
+            "SUI",
+            "XRP",
+            "Cardano",
+            "ADA",
+            "Uniswap",
+            "UNI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes $300 million in liquidations, price drops of 3-7% across major cryptocurrencies, and traders suffering significant losses due to negative trade war headlines."
+    }
+}

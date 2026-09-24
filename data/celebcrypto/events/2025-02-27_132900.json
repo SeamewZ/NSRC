@@ -1,0 +1,45 @@
+{
+    "title": "PayPal-Backed Raise Secures $63M to Expand Blockchain-Based Gift Card System",
+    "time": "2025-02-27T13:29:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The company aims to bring digital gift cards on-chain, turning them into a “programmable retail currency.”",
+    "content": "Raise, a PayPal-backed company specializing in digital gift cards and loyalty programs, has raised a $63 million round led by Haun Ventures. The round brings Raise’s total funding to over $220 million.\n\nOther participants included Amber Group, Anagram, and GSR, among others, according to a press release. The Chicago-based company is set to use the funds to develop its blockchain-backed Smart Cards and expand the Retail Alliance Foundation, a non-profit focused on securing and modernizing the global gift card network.\n\nThe company aims to make gift cards a “fully programmable retail currency” that strengthens brand loyalty. \"This isn't a reaction to market trends -- it's the result of years of investment, research, and infrastructure-building to bring a fully on-chain, programmable retail currency to life,” the platform’s founder and CEO George Bousis told CoinDesk.\n\n“The crypto industry needs real utility now more than ever. Investors are demand substance over speculation, and consumers are tired of broken promises,” Bousis added.\n\n“We’ve spend over a decade exploring how blockchain can drive real-world change in the multi-trillion-dollar gift card industry.”\n\nAlong with the funding round, the company announced a new board of directors featuring Marco Santori, former CLO of Kraken; George Ruan, co-founder of Honey; Matt Maloney, founder of GrubHub; and Bjorn Wagner, CEO of Parity Technologies. Their experience spans fintech, crypto, and e-commerce.",
+    "url": "https://www.coindesk.com/business/2025/02/27/paypal-backed-raise-secures-usd63m-to-expand-blockchain-based-gift-card-system",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "George Bousis",
+                "Marco Santori",
+                "George Ruan",
+                "Matt Maloney",
+                "Bjorn Wagner"
+            ],
+            "positions": [
+                "founder and CEO",
+                "former CLO",
+                "co-founder",
+                "founder",
+                "CEO"
+            ],
+            "companies": [
+                "PayPal",
+                "Raise",
+                "Haun Ventures",
+                "Amber Group",
+                "Anagram",
+                "GSR",
+                "Kraken",
+                "Honey",
+                "GrubHub",
+                "Parity Technologies"
+            ],
+            "organizations": [
+                "Retail Alliance Foundation",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant funding for blockchain-based gift card infrastructure and emphasizes real utility over speculation, indicating positive market development."
+    }
+}

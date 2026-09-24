@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin's 'Coinbase Premium' Muted Amid Reports Trump Plans to Designate Crypto a National Policy",
+    "time": "2025-01-17T05:49:00",
+    "author": "Omkar Godbole",
+    "summary": "BTC trades at a slight discount on Coinbase relative to Binance, data from CryptoQuant show.",
+    "content": "Stars cannot align more positively for crypto in the U.S., the world's largest economy, if the latest media reports are anything to go by. Still, one key indicator shows a lack of excitement among U.S. investors.\n\nLate Thursday, Bloomberg reported that President-elect Donald Trump will likely issue an executive order announcing crypto as a national imperative or priority with a voice in his administration. Trump could also announce the creation of a crypto advisory that will advocate the digital asset industry's policy goals.\n\nThe report comes amid heightened expectations that Trump will announce an executive order supporting the creation of a strategic bitcoin reserve on the first day of the office.\n\nTrump, a one-time crypto skeptic, embraced the industry in the lead-up to the November elections, raising hopes for easier regulations and widespread adoption of digital assets. On Friday, the crypto industry will host the \"Inaugural Crypto Ball\" in support of Trump, hoping he will live up to his promises after taking office on Jan. 20.\n\nAn executive order declaring the creation of a strategic bitcoin reserve and policy priority would starkly contrast the largely anti-crypto Biden administration, under which agencies took more than 100 enforcement actions against the industry.\n\nEven so, BTC is trading at a slight discount on the Nasdaq-listed Coinbase exchange relative to the global bourse Binance Holdings. It's a sign of muted U.S. demand for the leading cryptocurrency.\n\nThe chart by CryptoQuant shows gyrations in the Coinbase premium indicator, which measures the spread between BTC's price on Coinbase and Binance.\n\nBTC's November-December surge from $70,000 to over $108,000 was led by U.S. investors, as evident from the consistent Coinbase premium during that period.\n\nThere's yet to be comparable bullish pricing on Coinbase, despite expectations for significant positive developments in the U.S. Perhaps much of the Trump optimism was factored in during the November-December rally, and U.S. traders are now waiting to see if the incoming president will follow through on his promises.\n\nBTC changed hands at $101,600 at press time. The prices has largely held between $90,000 and $108,000 since mid-December, CoinDesk Indices data shows.",
+    "url": "https://www.coindesk.com/markets/2025/01/17/bitcoins-coinbase-premium-muted-amid-reports-trump-plans-to-designate-crypto-a-national-policy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President-elect"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance Holdings",
+                "Bloomberg",
+                "CryptoQuant",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Biden administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Despite positive political developments, BTC is trading at a discount on Coinbase with muted U.S. demand and prices holding in a range since mid-December."
+    }
+}

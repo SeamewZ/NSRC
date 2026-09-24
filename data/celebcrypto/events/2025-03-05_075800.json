@@ -1,0 +1,25 @@
+{
+    "title": "Ethereum’s ‘Pectra’ Upgrade Moves Closer to Mainnet After Sepolia Test",
+    "summary": "The upgrade, which introduces smart contract capabilities for wallets and increases validator stake limits, is nearing deployment.",
+    "time": "2025-03-05T07:58:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum’s long-awaited Pectra upgrade took a major step forward early Wednesday with its successful deployment on the Sepolia test network.\n\nThe biggest upgrade to Ethereum since 2024, Pectra consists of 11 major features, or \"Ethereum improvement proposals\" (EIPs), that will be shipped all at once. Together, the features aim to enhance staking, wallet functionality, and overall network efficiency.\n\nSepolia's Pectra upgrade, which was completed at 07:29:36 UTC, followed a failed test on Ethereum’s Holesky testnet last week. A misconfiguration among validators resulted in a chain split, rendering Holesky temporarily unusable.\n\nTestnets mimic a main blockchain and are used by developers to test code changes in a low-stakes environment. Holesky, which has a validator structure closer to Ethereum’s mainnet than Sepolia, was seen as a critical proving ground for Pectra. (Developers are still working to get Holesky back into operation and have set up an alternative developer network as a temporary testing ground for validators.)\n\nEthereum developers are set to meet on Mar. 6 to discuss Pectra's mainnet release timeline. With only one fully successful test, developers may opt to delay the mainnet deployment to ensure stability.\n\nOne key Pectra proposal that will benefit Ethereum validators is EIP-7251, which increases the maximum amount of ETH one can stake from 32 to 2,048. The change is meant to address today's clunky staking system, where validators who stake more than their 32 ETH must split their stake across multiple nodes.\n\nAnother highly-anticipated proposal, EIP-7702, would let crypto wallets temporarily function as smart contracts. The change moves Ethereum closer to account abstraction, enabling wallets to offer more user-friendly features. For example, users could pay transaction fees in stablecoins instead of ETH, set up automatic payments for subscriptions, or recover access to their wallets without relying on complex seed phrases.\n\nPectra's rocky test cycle comes as Ethereum's developers are under pressure to ship upgrades more quickly. Some Ethereum fans fear the network is losing its edge to newer chains like Solana, which has gained mindshare in recent months due to its popularity among meme coin users.\n\nThe price of ETH has also recently underperformed relative to other major coins, and the Ethereum Foundation—the non-profit steward of the network's development—has been beset by leadership drama.\n\nRead more: Ethereum’s Pectra Upgrade Goes Live on ‘Holesky’ Testnet, but Fails to Finalize",
+    "url": "https://www.coindesk.com/tech/2025/03/05/ethereum-s-pectra-upgrade-moves-closer-to-mainnet-after-sepolia-test",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes both positive technical upgrades for Ethereum and negative factors like testnet failures, competitive pressure from Solana, and recent ETH price underperformance, creating a mixed picture."
+    }
+}

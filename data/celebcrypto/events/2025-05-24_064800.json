@@ -1,0 +1,44 @@
+{
+    "title": "Dogecoin, Cardano’s ADA, XRP Fall 7% in Weekend Bloodbath",
+    "summary": "Market capitalization slumped 5% as traders took profits on the week-long rally ahead of the weekend.",
+    "time": "2025-05-24T06:48:00",
+    "author": "Shaurya Malwa",
+    "content": "The crypto market turned red over the weekend, with\nDOGE\n$0.1651\n, Cardano’s ADA, and XRP each dropping over 7% as profit-taking set in after a strong week.\n\nBitcoin fell from a daily high of $111,200 to just over $107,000 on Friday, causing a swift change in sentiment. The drop came as President Donald Trump revived fears of a tariff war with the European Union — threatening a 50% levy as talks were “going nowhere.”\n\nMarket cap shed 5% and the broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens, fell 2.2% as traders moved to lock in gains amid rising volatility.\n\nThe move comes despite bitcoin touching fresh highs above $111,500 just days earlier, with ETF inflows, stablecoin legislation, and institutional buying supporting its rally. But those same tailwinds haven’t kept altcoins afloat in the short term.\n\n“Bitcoin reaching a new all-time high also carries altcoins toward a bullish direction,” said Haiyang Ru, co-CEO of HashKey Group, said in a Telegram message. “But if BTC’s volatility picks up again, traders may rotate into regulated stablecoins — especially with new frameworks in the U.S. and Hong Kong easing that transition.”\n\nAlex Kuptsikevich, chief analyst at FxPro, crypto sentiment recently hit levels last seen in January, just as BTC and ETH reached critical resistance zones. “Unlike previous BTCUSD rallies, the current movement is not just momentum-driven but backed by real demand and macro factors,” he noted.\n\nStill, markets are showing signs of fatigue. Ethereum is struggling to break past its 200-day moving average near $2,650, while altcoins that previously surged — such as HYPE and EIGEN — are now cooling off after double-digit gains.\n\nAnalysts warn that if BTC doesn’t establish a new support zone, altcoin losses could deepen.\n\nFor now, the weekend pullback displays the fragility of rallies in low-liquidity conditions and the speed at which sentiment can turn.",
+    "url": "https://www.coindesk.com/markets/2025/05/24/dogecoin-cardanos-ada-xrp-fall-7-in-weekend-bloodbath",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Haiyang Ru",
+                "Alex Kuptsikevich"
+            ],
+            "positions": [
+                "President",
+                "co-CEO",
+                "chief analyst"
+            ],
+            "companies": [
+                "HashKey Group",
+                "FxPro"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Cardano's ADA",
+            "ADA",
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "HYPE",
+            "EIGEN"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price drops across major cryptocurrencies, market capitalization slumping 5%, and traders taking profits amid rising volatility."
+    }
+}

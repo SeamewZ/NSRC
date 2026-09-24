@@ -1,0 +1,32 @@
+{
+    "title": "Lyft Taps Solana’s Hivemapper for Real-Time, Crowdsourced Mapping Upgrade",
+    "summary": "The move underscores the growing role of crowdsourced geospatial intelligence in the transportation industry.",
+    "time": "2025-05-14T15:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Bee Maps, a project on Hivemapper, one of the largest decentralized physical infrastructure networks (DePIN) focused on mapping data on Solana, shared Wednesday that it has teamed up with ride-hailing giant Lyft to provide them more accurate mapping data.\n\nThe move underscores the growing role of crowdsourced geospatial intelligence in the transportation industry, and signals that ride-sharing companies are turning towards this type of infrastructure for better maps.\n\nHivemapper allows drivers to contribute to mapping data using AI-enabled dash cams that automatically detect and update real-time changes on roads—like construction zones or altered road signs—helping keep digital maps current and accurate.\n\n“For mobility to actually work and for autonomy to become reality, maps can't be an afterthought—they need to be crowdsourced, live, accurate, and open,” said Ariel Seidman, CEO and co-founder of Bee Maps, in a press release with CoinDesk. “We're proud to arm a true innovator like Lyft with the constantly updated street-level spatial intelligence that enables their vision.”\n\nBee Maps is an application built on top of the Hivemapper network, which is part of the growing DePIN (Decentralized Physical Infrastructure Networks) movement, which leverages blockchain incentives to crowdsource the development of real-world infrastructure. In Bee Maps’ case, contributors earn crypto rewards for collecting street-level imagery using Hivemapper cameras. This data is processed with AI to extract important features—like road signs, lane markings, and construction zones—which are continuously updated on the platform.\n\nThe move between Lyft and Bee Maps comes as NATIX, another DePIN mapping project on Solana, shared it has teamed up with taxi service Grab, to offer better mapping technologies.\n\nRead more: Solana’s Natix and Grab Team Up to Expand DePIN Mapping Into U.S., Europe\n\nCORRECTION (May 14, 2025, 16:02 UTC): Clarified about the relationship between Bee Maps and Hivemapper throughout the story, and changed the hed to reflect that Lyft tapped Hivemapper, not Bee Maps.",
+    "url": "https://www.coindesk.com/tech/2025/05/14/lyft-taps-solanas-bee-maps-for-real-time-crowdsourced-mapping-upgrade",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ariel Seidman"
+            ],
+            "positions": [
+                "CEO and co-founder"
+            ],
+            "companies": [
+                "Lyft",
+                "Bee Maps",
+                "Hivemapper",
+                "NATIX",
+                "Grab",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership between Lyft and Hivemapper (built on Solana) demonstrates real-world adoption of blockchain technology and DePIN networks, which is positive for cryptocurrency market confidence."
+    }
+}

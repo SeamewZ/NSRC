@@ -1,0 +1,43 @@
+{
+    "title": "Justin Sun-Linked Wallet Leading Access to Trump Dinner Tagged as Belonging to HTX",
+    "time": "2025-05-22T16:05:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Sun, a Chinese-born crypto billionaire, is also involved with the Trump-linked ecosystem through a $75 million investment in World Liberty Financial.",
+    "content": "The Solana wallet address credited with making Justin Sun the top holder of the TRUMP memecoin for a private dinner and VIP reception with U.S. President Donald Trump later Thursday probably belongs to Sun-linked crypto exchange HTX.\n\nSeveral blockchain explorers, including Arkham Intelligence and SolanaFM, tag the wallet as belonging to the cryptocurrency exchange, which acknowledged Sun as its leader in a 2023 blog post.\n\nThat address now holds about $23.3 million worth of TRUMP tokens, according to on-chain data and appears at the top of the event’s leaderboard, which is posted on a website publicized by Trump on his X account. The wallet is tagged “Sun.”\n\nSun, the founder of the Tron blockchain, said on social media that he was the top TRUMP holder in the sweepstake. The sweepstake rewards large TRUMP token holders with access to an event hosted at a Trump-owned golf club near Washington, D.C.\n\nHTX, formerly known as Huobi, was acquired by About Capital, a Hong Kong investment firm, in October 2022. Sun denied that he was involved in the acquisition in an interview with CoinDesk TV at the time. He did, however, join the exchange as a member of its global advisory board. Huobi later identified Sun as its leader in the blog post.\n\nIn 2023, the platform rebranded to HTX, a nod to Huobi, Tron and \"exchange.\" At the time, the exchange pointed to a “commitment being all in TRON.”\n\nSun’s connection to the Trump-linked ecosystem also involves a $75 million investment in World Liberty Financial tokens, a decentralized finance initiative backed by the president's family.\n\nThe Chinese-born crypto billionaire was sued by the U.S. Securities and Exchange Commission (SEC) under the Biden administration. The regulator alleged he had been “manipulating the market” for tokens tied to his ventures and paid celebrities “to tout” these tokens.\n\nThat suit has been put on hold under the Trump administration’s SEC leadership as the parties looked to find a “potential resolution.” Under the current administration, the regulator has dismissed several lawsuits and investigations against crypto firms, including Coinbase, Kraken and Uniswap.\n\nDonald Trump’s memecoin was launched just days before his inauguration earlier this year. It was met with criticism from the crypto industry and among lawmakers, over the timing of the launch and its allocation to Trump-affiliated insiders.\n\nTRUMP is at the time of writing trading at $14.64, up 11% in the last 24 hours.",
+    "url": "https://www.coindesk.com/business/2025/05/22/justin-sun-linked-wallet-leading-access-to-trump-dinner-tagged-as-belonging-to-htx",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Justin Sun",
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President",
+                "founder of the Tron blockchain",
+                "member of its global advisory board",
+                "Chinese-born crypto billionaire"
+            ],
+            "companies": [
+                "HTX",
+                "Huobi",
+                "About Capital",
+                "World Liberty Financial",
+                "Coinbase",
+                "Kraken",
+                "Uniswap"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Biden administration",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "Solana",
+            "Tron"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights increased political acceptance of cryptocurrency through Trump's memecoin event and mentions the SEC dismissing lawsuits against crypto firms under the current administration, suggesting positive regulatory developments."
+    }
+}

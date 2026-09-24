@@ -1,0 +1,42 @@
+{
+    "title": "Celsius Founder Alex Mashinsky Sentenced to 12 Years in Prison for Fraud",
+    "summary": "Mashinsky pled guilty to securities and commodities fraud charges last December.",
+    "time": "2025-05-08T19:42:00",
+    "author": "Cheyenne Ligon",
+    "content": "NEW YORK, NY — Alex Mashinsky, the founder and former CEO of bankrupt crypto lending platform Celsius Network, was sentenced to 12 years in prison on Thursday for fraud.\n\nJudge John Koeltl of the Southern District of New York (SDNY) handed down the sentence, saying the 12 years — composed of a 120-month sentence to be served concurrently with a separate 144-month sentence for the two charges Mashinsky pled guilty to — reflected Mashinsky’s “extremely serious” crimes. The sentence splits the difference between the mere one year and a day in prison requested by his defense team, and the 20 years suggested by prosecutors. He has also agreed to forfeit $48 million and several pieces of real estate.\n\n“No matter what the sentence, the sentence will not cure the monetary or psychological harm caused to the victims,” Koeltl said.\n\nBefore Celsius’ collapse in 2022, Mashinsky repeatedly lied to investors about the safety of their deposits. He falsely claimed that Celsius had regulatory approval, he insisted that the platform did not make uncollateralized loans when, in fact, it did, and he lied about selling his CEL tokens while manipulating the price for his own financial gain – making over $48 million in profit from CEL alone, prosecutors said. Mashinsky’s poor leadership and self-dealing drove Celsius into bankruptcy, leaving a gaping $1.2 billion hole — which prosecutors said is more like $7 billion at today’s prices — in the company’s balance sheet.\n\nWhen Celsius did collapse, over 100,000 creditors claimed they lost a collective $4.7 billion according to initial bankruptcy documents.\n\n“Alexander Mashinsky targeted retail investors with promises that he would keep their ‘digital assets’ safer than a bank, when in fact he used those assets to place risky bets and to line his own pockets,” U.S. Attorney Jay Clayton said in a statement. “In the end, Mashinsky made tens of millions of dollars while his customers lost billions. America’s investors deserve better. The case for tokenization and the use of digital assets is strong but it is not a license to deceive. The rules against fraud still apply, and the SDNY will hold those who flout them accountable for their crimes.”\n\nIn both their pre-sentencing documents and in their testimony in court on Thursday, Mashinsky and his lawyers attempted to downplay the one-time CEO’s role in the fraud. His lawyers told the court that Mashinsky “has not a malicious bone in his body” and that the government’s attempt to characterize him as the architect of a fraud scheme was “a hoax.”\n\nMashinsky wept as his lawyer, Marc Mukasey, told the court of his personal characteristics — including his military service in the Israeli army, his alleged track record of hiring homeless people to work at his various companies and, bafflingly, about his ongoing work on a non-fiction book about gravity since his arrest — which he urged the judge to consider as mitigating factors for Mashinsky’s sentence. When Mashinsky himself spoke to the judge, he cried intermittently as he apologized for the harm caused to his victims.\n\n“As someone who came from nothing, I recognize how hard people work to earn, save and invest in crypto,” Mashinsky said. “I respectfully ask the victims for forgiveness and I apologize to all of them for my mistakes. I’m truly sorry.”\n\nSix of those victims spoke in court on Thursday, detailing their pain and suffering in the aftermath of Celsius’ collapse.\n\nOne victim, Cameron Crewes, told the court that Mashinsky and his lawyers’ spin on his conduct was a “horrific minimization” of the damage he caused at Celsius.\n\n“Defense says he’s working on a new book about gravity, but he seems not to understand the gravity of the situation,” Crewes said, adding that at least 231 Celsius creditors have died since the platform’s collapse, and will never be made whole.\n\nAnother creditor, Hollis Waite, described how he was “woefully unprepared” to send his two young children to college after losing a significant chunk of his savings in Celsius. Yet another, Hugh Mitton, told the court that he’d lost sleep, his mental health, and his time since Celsius’ collapse. Mitton took issue with Mashinsky’s lawyers’ characterization that he was voluntarily missing his son’s college graduation, also on Thursday, in order to attend his sentencing and take responsibility for his crimes.\n\n“[He] doesn’t make mention of all the people who can no longer afford to send their kids to university,” Mitton said.\n\nBoth victims and prosecutors pointed to Mashinsky’s continued failure to take real accountability for the actions that led to Celsius’ downfall, as well as the financial gain he and his wife Krissy made from Celsius, even during its collapse and subsequent bankruptcy – after which Krissy sold t-shirts saying “Unbankrupt Yourself,” a spin on Celsius’ “Unbank Yourself” slogan.\n\nMashinsky was stone-faced as he listened to his victims’ testimony. When the judge handed down the sentence, he seemed genuinely surprised, saying:\n\n“I feel that while I am here to take responsibility, I am taking responsibility for a thousand employees. Not one of them has come forward to say what they have done. That’s it, your honor.”\n\nAs part of his plea agreement, Mashinsky is unable to appeal his sentence. He was ordered to self-report to prison to start his sentence in September. His lawyers requested that he be allowed to serve his sentence at FCI Otisville, a medium-security prison in New York that's also a temporary home to Mango Markets exploiter Avi Eisenberg, who was recently sentenced to four years in prison for the possession of child pornography.\n\nIf he serves the entirety of his sentence, Mashinsky will be 72-years-old upon release.",
+    "url": "https://www.coindesk.com/policy/2025/05/08/celsius-founder-alex-mashinsky-sentenced-to-12-years-in-prison-for-fraud",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Mashinsky",
+                "John Koeltl",
+                "Jay Clayton",
+                "Marc Mukasey",
+                "Cameron Crewes",
+                "Hollis Waite",
+                "Hugh Mitton",
+                "Krissy",
+                "Avi Eisenberg"
+            ],
+            "positions": [
+                "founder",
+                "former CEO",
+                "Judge",
+                "U.S. Attorney",
+                "lawyer"
+            ],
+            "companies": [
+                "Celsius Network"
+            ],
+            "organizations": [
+                "Southern District of New York (SDNY)",
+                "Israeli army"
+            ]
+        },
+        "cryptocurrencies": [
+            "CEL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The sentencing of Celsius' founder for fraud involving billions in customer losses and market manipulation creates negative sentiment and regulatory scrutiny for the cryptocurrency market."
+    }
+}

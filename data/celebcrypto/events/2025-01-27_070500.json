@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Dives to Under $99K as DeepSeek, FOMC Steal Trump Effect",
+    "time": "2025-01-27T07:05:00",
+    "author": "Shaurya Malwa",
+    "summary": "Much of the concern draws from a possible overvaluation in U.S. tech companies as DeepSeek’s latest AI model is significantly cheaper to produce and was built using open-source technology that is easy to access.",
+    "content": "Bitcoin\nBTC\n$104,055.88\ndropped to under $99,000 early Monday as traders took profits ahead of the first U.S. FOMC meeting this year, scheduled for later this week, and China-based AI stalwart DeepSeek impacted U.S. tech sector sentiment.\n\nTraders expect no indications of a rate cut at the two-day FOMC meeting scheduled for Jan. 28 to Jan. 29, which has typically impacted bitcoin prices as investors either prefer or move away from risk assets.\n\n“U.S. economic data shows that there may be less need for a federal interest rate cut in the near term,” Ben El-Baz, managing director of HashKey Global, told CoinDesk in a Telegram message.\n\n“Concerns over trade wars and tariffs linger, but a bullish sentiment remains strong as MicroStrategy and Trump's World Liberty Financial continue purchasing crypto.”\n\nBTC dropped nearly 6% from a Sunday high of over $105,000, with a steep drop coming as Asian markets opened Monday. This came despite a major catalyst on Friday, when U.S. President Donald Trump ordered the creating of a crypto policy group to advise and drive the country's industry within six months.\n\nCrypto market capitalization fell 8%, while the broad-based CoinDesk 20 (CD20) fell more than 8.14%.\n\nThe drop tracked a fall in U.S. stock indices — whose movements bitcoin tends to mirror — with futures of the S&P 500 and Nasdaq 100 down as much as 2.15% on Monday ahead of the market open.\n\nMuch of the concern draws from a possible overvaluation in U.S. tech companies as DeepSeek’s latest AI model is significantly cheaper to produce and was built using open-source technology that is easy to access.\n\nAs CoinDesk reported Monday, data from DeepSeek posted on Hugging Face, a forum of the AI industry, shows that its model outperforms OpenAI, all while being built on a budget of $6 million and a fraction of the Graphics Processing Units (GPUs) that OpenAI uses – which recently closed a $6.6 billion round with a valuation of over $157 billion.\n\nOpenAI has previously asked for trillions of dollars in funding to build AI systems at scale and is part of the new U.S. project Stargate, which has attracted $500 billion in investments and includes Trump SoftBank and Oracle, to build AI data centers in the country.\n\nHowever, DeepSeek’s reported costs and features threaten the established narrative of needing vast computational resources for AI innovation, potentially reducing the competitive edge of U.S. tech firms and questioning the sustainability of their high valuations — impacting broader market sentiment and bitcoin in the near term.\n\nAs such, traders loaded on $95,000 strike options for bitcoin to protect against the downside ahead of the week, indicating that expectations of a move lower remain prevalent in the market.\n\n“The desk observed growing interest in the Jan $95,000 strikes as the market scrambled for downside protection after BTC lost momentum during yesterday's U.S. session,” traders at Singapore-based QCP Capital said in a Saturday broadcast.\n\n“With no major catalysts before next week’s FOMC meeting, the market is likely to remain range-bound until there is more clarity on how the recent weak CPI reading has influenced the Fed’s upcoming policy decisions,” QCP added at the time.",
+    "url": "https://www.coindesk.com/markets/2025/01/27/bitcoin-dives-to-usd100k-as-deepseek-fomc-steal-trump-effect",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben El-Baz",
+                "Donald Trump"
+            ],
+            "positions": [
+                "managing director",
+                "U.S. President"
+            ],
+            "companies": [
+                "HashKey Global",
+                "MicroStrategy",
+                "World Liberty Financial",
+                "DeepSeek",
+                "OpenAI",
+                "SoftBank",
+                "Oracle",
+                "QCP Capital"
+            ],
+            "organizations": [
+                "FOMC",
+                "CoinDesk",
+                "Hugging Face",
+                "U.S. project Stargate",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin dropped nearly 6% to under $99,000 with crypto market capitalization falling 8% as traders took profits ahead of the FOMC meeting and DeepSeek's AI developments negatively impacted tech sector sentiment."
+    }
+}

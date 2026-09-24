@@ -1,0 +1,29 @@
+{
+    "title": "Ethereum Developers Launch New Testnet for Pectra Upgrade After Earlier Setbacks",
+    "summary": "Core developers hope the third attempt will clear the path for a major blockchain update by May.",
+    "time": "2025-03-13T19:13:00",
+    "author": "Sam Kessler",
+    "content": "Following two problematic tests of Ethereum's upcoming Pectra upgrade, the network's core developers decided on Thursday to create a new testnet to demonstrate the code update a final time before deployment.\n\n\"A new testnet, Hoodi, is going live Monday to wrap up Pectra testing,\" said Tim Beiko, who coordinates the ecosystem's core developers at the Ethereum Foundation, in an X post following a developer call on Thursday. Pectra will be tested on Hoodi on Wednesday, March 26 — when the test chain will be upgraded to the new version of Ethereum and evaluated for performance and stability.\n\nPectra includes several code changes designed to make Ethereum faster, more efficient, and more user-friendly for both users and developers. One of the most significant improvements adds \"smart contract\" functionality to addresses, allowing user wallets to be programmed with new features, such as the ability to pay transaction fees in currencies other than ETH.\n\nIf the Hoodi test succeeds, Beiko said developers will launch the upgrade after approximately 30 days, subject to further testing. Should everything proceed as planned, Ethereum users can expect Pectra to reach the ecosystem's main network in late April or early May.\n\nThe Hoodi testnet was created following complications with Pectra tests on Sepolia and Holesky, Ethereum's primary test networks. In both instances, configuration errors prevented proper testing of the Pectra upgrade. In Holesky's case, the network was offline for multiple weeks due to the flawed test issues.\n\nTest networks like Holesky, Sepolia, and Hoodi function almost identically to the main Ethereum network but are generally free to use and not intended to support real value. Major upgrades like Pectra are typically implemented on Ethereum's test networks before full deployment on the mainnet, as any disruptions on the actual Ethereum network could be extremely costly.\n\nAccording to Beiko, Sepolia and Holesky — which are now running Pectra successfully — serve different testing purposes. \"If you need to test validator exits, be on the lookout for [Hoodi]! Everything else can be tested on Sepolia & Holesky,\" Beiko stated in his Thursday post on X.\n\nPectra's technical setbacks come during a challenging period for Ethereum. The network has faced mounting pressure from declining ETH prices, leadership transitions at the Ethereum Foundation, and growing skepticism about its ability to maintain market dominance amid competition from newer blockchains like Solana. Industry figures view the successful implementation of Pectra as crucial for restoring confidence in Ethereum's technical roadmap.\n\nCORRECTION: (Fri 14, 07:04 UTC) Changes name of testnet from Hooli to Hoodi.",
+    "url": "https://www.coindesk.com/tech/2025/03/13/ethereum-developers-launch-new-testnet-for-pectra-upgrade-after-earlier-setbacks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tim Beiko"
+            ],
+            "positions": [
+                "coordinates the ecosystem's core developers"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The successful implementation of Pectra is viewed as crucial for restoring confidence in Ethereum's technical roadmap amid current challenges."
+    }
+}

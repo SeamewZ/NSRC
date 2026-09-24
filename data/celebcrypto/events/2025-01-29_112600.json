@@ -1,0 +1,36 @@
+{
+    "title": "Crypto Exchanges Bitstamp, Crypto.com Suspend Some Stablecoin Services to Meet MiCA",
+    "summary": "From Jan. 31, Bitstamp and Crypto.com will no longer offer certain services from stablecoins, like Tether USDT, Paypal USD.",
+    "time": "2025-01-29T11:26:00",
+    "author": "Camomile Shumba",
+    "content": "Digital asset exchanges Bitstamp and Crypto.com will suspend certain token services deemed unauthorized under the European Union's Markets in Crypto Assets legislation (MiCA).\n\nStablecoins' Tether's USDt, and Paypal's PYUSD, among others, will no longer be available for trading from Bitstamp's pro and basic trading modes on Jan 31, the company said in a notice to its customers on Wednesday. However, custody of those assets will be permitted on the platform.\n\nMeanwhile, Crypto.com's statement said that from Jan. 31, it will no longer offer certain services from stablecoins, like Tether USDT, Paypal USD, Pax dollar alongside Crypto.com Staked ETH and Crypto.com Staked SOL. CoinDesk reached out to Tether, Paypal and Paxos for a comment.\n\nExchanges are required to follow the European Union's bespoke rules for crypto assets, known as MiCA. These rules require stablecoin issuers and staking service providers to have the necessary authorization to be accessed by Europeans. The rules impact all 30 nations in the European Economic Area.\n\n“In line with MiCA regulatory requirements, we will suspend the purchase of affected assets on the 31st January, 2025,” a Crypto.com spokesperson told CoinDesk.\n\nEU regulators sent out a notice last week urging exchanges to ensure compliance with its stablecoin rules under MiCA within the next two months. The European Securities and Markets Authority urged exchanges to stop offering unauthorized stablecoin tokens to EU clients.\n\n\"Crypto.com Staked ETH and Crypto.com Staked SOL are classified as Liquid Staked Tokens (LST),\" under MiCA, someone familiar with the matter said. As some LSTs may qualify as Asset Reference Tokens (ART) under MiCA regulatory definitions, Crypto.com has chosen to delist these assets, they added.\n\nRead more: EU's Restrictive Stablecoin Rules Take Effect Soon and Issuers Are Running Out of Time\n\nUpdate (Jan 29, 16:32 UTC): Adds Bitstamp news to the first and second paragraph, headline and bullets.",
+    "url": "https://www.coindesk.com/policy/2025/01/29/crypto-com-will-suspend-tether-paypal-stablecoin-services-in-europe-due-to-mica",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "spokesperson"
+            ],
+            "companies": [
+                "Bitstamp",
+                "Crypto.com",
+                "Tether",
+                "Paypal",
+                "Paxos",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "European Union",
+                "European Securities and Markets Authority"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "PYUSD",
+            "ETH",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes exchanges suspending trading of major stablecoins and staked tokens due to regulatory compliance requirements, which restricts market access and reduces trading options for European users."
+    }
+}

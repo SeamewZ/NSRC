@@ -1,0 +1,32 @@
+{
+    "title": "U.S. Law Enforcement Seizes $31M in Crypto Tied to Uranium Finance Hack",
+    "summary": "Hackers made off with approximately $50 million when the automated market maker was exploited in 2021.",
+    "time": "2025-02-24T23:03:00",
+    "author": "Cheyenne Ligon",
+    "content": "U.S. authorities have seized about $31 million in crypto tied to the 2021 hack of Uranium Finance, according to a Monday X post from the Southern District of New York (SDNY).\n\nAccording to the post, the seizure was the result of a joint effort between SDNY and Homeland Security Investigations (HSI) in San Diego. A spokesperson for SDNY did not return CoinDesk’s request for comment before press time, and no further details about the seizure or any related investigation were immediately available.\n\nUranium Finance was essentially a clone of automated market maker (AMM) Uniswap deployed on Binance’s BNB chain (then called Binance Smart Chain). In April 2021, a hacker exploited a bug in Uranium’s pair contracts to steal $50 million in various tokens. At the time of the incident, the Uranium Finance hack was one of the largest monetary exploits in decentralized finance (DeFi) history.\n\nRead more: Binance Chain DeFi Exchange Uranium Finance Loses $50M in Exploit\n\nAfter the exploit, the hacker attempted to launder a portion of the funds in a variety of ways, including using crypto mixer Tornado Cash, depositing small amounts of crypto into centralized exchanges, and, according to blockchain sleuth ZachXBT, perhaps through purchasing rare and highly valuable Magic: The Gathering trading cards.\n\nUranium Finance shuttered after the hack, leaving victims without answers or financial restitution. The partial recovery, which comes nearly four years after the initial attack, offers the first glimmer of hope for victims to see some of their money returned.",
+    "url": "https://www.coindesk.com/policy/2025/02/24/u-s-law-enforcement-seizes-usd31m-in-crypto-tied-to-uranium-finance-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT"
+            ],
+            "positions": [
+                "spokesperson"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Binance",
+                "Uranium Finance",
+                "Uniswap",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "Southern District of New York (SDNY)",
+                "Homeland Security Investigations (HSI)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The seizure of stolen crypto funds by law enforcement demonstrates regulatory progress in combating crime, which could boost market confidence."
+    }
+}

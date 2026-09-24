@@ -1,0 +1,33 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Whiplash Shakes Market as U.S. Yield Spike Threatens Bull Run",
+    "time": "2025-05-19T11:18:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for May 19, 2025",
+    "content": "By James Van Straten (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\nstarted the week on a positive note, rising above $107,000 — the highest since Jan. 24, according to CoinDesk data —before pulling back to $102,000 during the Asian morning.\n\nDespite the retracement, the largest cryptocurrency continues to trend upward, forming higher highs and higher lows within an ascending consolidation channel, while its market dominance rose above 64%.\n\nThere's a bullish bias in the options market, too. Deribit data shows a heavy concentration of call open interest above $100,000, particularly at the $110,000, $115,000 and $120,000 strike prices for May 30, when $8 billion in notional value expires. Call options, which give holders the right to buy BTC at a specific price, are typically used to bet that the price will rise to or above that level.\n\nAnother sign of strong demand comes from Glassnode data showing widespread accumulation across all wallet cohorts from holders of less than 1 BTC to over 10,000 BTC. The accumulation trend score rose to 0.87; the maximum value is 1.\n\nFor a note of caution, take a look at the U.S. 30-year Treasury yield, which topped 5% as Moody’s Ratings downgraded the debt to Aa1 from Aaa, citing fiscal concerns in the U.S. The last time the yield rose that high, April 9, bitcoin dropped to a monthly low of $75,000.\n\nMeanwhile, the U.K. overtook China as the second-largest holder of U.S. debt, and Tether’s U.S. Treasury holdings are poised to surpass Germany’s, potentially placing it among the top 20 foreign holders. At a time when the U.S. is actively seeking buyers for its bonds, none may be more critical than the issuer of the largest stablecoin. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/19/crypto-daybook-americas-bitcoin-whiplash-shakes-market-as-u-s-yield-spike-threatens-bull-run",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Shaurya Malwa"
+            ],
+            "positions": [],
+            "companies": [
+                "CoinDesk",
+                "Deribit",
+                "Glassnode",
+                "Moody's Ratings",
+                "Tether"
+            ],
+            "organizations": [
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's upward trend, bullish options market activity, widespread accumulation across wallet cohorts, and rising market dominance despite a minor pullback."
+    }
+}

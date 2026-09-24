@@ -1,0 +1,42 @@
+{
+    "title": "U.S. Senate Moves Toward Action on Stablecoin Bill",
+    "summary": "U.S. Senate Majority Leader John Thune has started the process toward a vote on the legislation to establish rules for stablecoin issuers.",
+    "time": "2025-05-01T23:32:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Senate may soon vote on legislation that would establish U.S. regulations for the issuers of stablecoins, also marking the first time the chamber has considered a major crypto bill.\n\nSenate Majority Leader John Thune, a South Dakota Republican, started the ball rolling to fast-track the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act, which is the Senate's version of two similar bills rolling through both chambers of Congress. The House of Representatives is expected to follow closely behind on its own voting. Thune's move to expedite the bill is meant to limit delays and floor action in order to get it done more quickly. It's so far unclear precisely when the Senate vote will happen, but an earlier vote on the effort in the Senate Banking Committee had approved it with a wide bipartisan majority of 18-6. The House Financial Services Committee also advanced its similar bill in April.\n\n“I look forward to passing the GENIUS Act in short order to keep digital asset innovation in America, protect customers, and make sure foreign companies are playing by the same rules,” said Senator Bill Hagerty, the Tennessee Republican who authored the bill, in a statement. It's also backed by Senator Tim Scott, the chairman of the Senate Banking Committee.\n\nPresident Donald Trump's self-described crypto sherpa, Bo Hines, the executive director of the Presidential Council of Advisers for Digital Assets, told CoinDesk earlier this week that the two bills are as much as 90% similar and that members of both chambers are seeking to work out the differences.\n\nHagerty said he would introduce an updated version of the bill earlier Thursday.",
+    "url": "https://www.coindesk.com/policy/2025/05/01/us-senate-moves-toward-action-on-stablecoin-bill",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John Thune",
+                "Bill Hagerty",
+                "Tim Scott",
+                "Donald Trump",
+                "Bo Hines"
+            ],
+            "positions": [
+                "Senate Majority Leader",
+                "South Dakota Republican",
+                "Tennessee Republican",
+                "chairman of the Senate Banking Committee",
+                "executive director of the Presidential Council of Advisers for Digital Assets",
+                "President",
+                "crypto sherpa"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "Senate Banking Committee",
+                "House of Representatives",
+                "House Financial Services Committee",
+                "Congress",
+                "Presidential Council of Advisers for Digital Assets"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bipartisan progress on stablecoin regulation that aims to keep digital asset innovation in America and establish clear rules, which typically provides regulatory clarity and boosts market confidence."
+    }
+}

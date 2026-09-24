@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: UNI Plunges 14.4% Over Weekend as All Assets Decline",
+    "time": "2025-01-27T14:14:00",
+    "author": "CoinDesk Indices",
+    "summary": "Render (RENDER) joined Uniswap (UNI) as an underperformer, falling 12.5% since Friday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3657.28, down 7.0% (-274.43) since 4 p.m. ET on Friday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BTC (-4.1%) and BCH (-4.9%).\n\nLaggards: UNI (-14.4%) and RENDER (-12.5%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/27/coindesk-20-performance-update-uni-plunges-14-4-over-weekend-as-all-assets-decline",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "UNI",
+            "RENDER",
+            "BTC",
+            "BCH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that all 20 assets in the CoinDesk 20 Index are trading lower with significant declines, including UNI plunging 14.4% and RENDER falling 12.5%."
+    }
+}

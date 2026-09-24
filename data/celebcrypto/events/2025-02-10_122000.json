@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Difficulty Hits New Highs as Key Metric Signals Miner Capitulation and Possible Bottom",
+    "time": "2025-02-10T12:20:00",
+    "author": "James Van Straten",
+    "summary": "Hash Ribbon signals miner capitulation, which tends to mark a local bottom in the bitcoin price.",
+    "content": "Bitcoin\nBTC\n$104,608.94\ndifficulty hit an all-time high of 114.7 trillion (T) following a 5.6% upward adjustment over the weekend, according to CoinWarz.\n\nThis coincides with the Hash Ribbon metric signaling a miner capitulation. Hash Ribbon, is a market indicator, which hints at a local bottom for bitcoin\nBTC\n$104,608.94\nand often forms when miners capitulate — when mining costs exceed profitability.\n\nAccording to Glassnode data, miner capitulation began in early February. Bitcoin is down over 4% month-to-date. Historically, when this metric signals capitulation, it has marked local price bottoms.\n\nIf this pattern holds, bitcoin’s bottom could be around $91,000. The last capitulation signal occurred in October 2024, just before BTC surged 50%.\n\nThis rise in difficulty is due to bitcoin’s rising hash rate, which hit an all-time high on Feb. 4. Mining difficulty adjusts every 2,016 blocks, targeting an average block time of 10 minutes.\n\nAs difficulty increases, mining becomes more competitive, placing additional pressure on miners. January’s production data reflects this, with Riot Platforms (RIOT) being the only major public miner to report a month-over-month production increase.",
+    "url": "https://www.coindesk.com/markets/2025/02/10/bitcoin-difficulty-hits-new-highs-as-key-metric-signals-miner-capitulation-and-possible-bottom",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Riot Platforms (RIOT)"
+            ],
+            "organizations": [
+                "CoinWarz",
+                "Glassnode"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that miner capitulation historically marks local price bottoms and suggests bitcoin's bottom could be around $91,000, with the last capitulation preceding a 50% surge."
+    }
+}

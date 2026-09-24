@@ -1,0 +1,35 @@
+{
+    "title": "Effort to Kill IRS Crypto Rule Clears U.S. Senate Hurdle",
+    "summary": "With a split among Democrats, the Senate resolution to erase the IRS' DeFi-focused crypto broker rule passed with a massive majority and is now up to the House.",
+    "time": "2025-03-04T22:59:00",
+    "author": "Jesse Hamilton",
+    "content": "Strong support from many Democrats helped win a victory for a U.S. Senate effort to erase a Biden administration crypto tax rule on Tuesday, clearing what may have been the most difficult hurdle toward eliminating the Internal Revenue Service's new broker rule that was set to include decentralized finance (DeFi).\n\nThe Senate voted 70-27 to approve a resolution under the authority of the Congressional Review Act to cut out the expansion of the IRS' broker rule as if it never existed. But the House of Representatives will still have to follow with a matching approval, after which President Donald Trump can sign it into law.\n\nAt that point, not only is the rule stricken from the books, but the IRS is blocked from pursuing similar policy in the future.\n\n\"DeFi is a microcosm of the crypto revolution,\" Senator Ted Cruz, the resolution's sponsor, said in remarks on the Senate floor before the vote on what he called an \"incoherent\" federal overreach. He argued that the rule targeting software developers as brokers (and compelling them to disclose user data and personal information) didn't make sense. \"Their software never holds or controls user funds.\"\n\nThe mixed Democratic support that helped give the effort an overwhelming victory (in Senate terms) was reminiscent of votes in the previous session, such as one to repeal the Securities and Exchange Commission's crypto accounting rule. They demonstrate a strong bipartisan support for digital assets causes, and that may bode well for this year's legislative initiatives aiming for stablecoin and market-structure laws that put crypto formally into federal oversight.\n\nThe DeFi Education Fund called the Senate development the \"first of many historic milestones in the regulation of digital assets in the United States.\"\n\nCruz noted that, in addition to the political trends in which more Republicans tended to back such crypto matters, the support from Democrats showed another \"clear delineating line\" that demonstrated younger members were more likely to support the effort than older ones.\n\n\"Let's rescind this rule, and let's unleash the future,\" Cruz said.\n\nThe House Financial Services Committee had already cleared a matching resolution and recommended its approval in a House floor vote, which is still pending. The White House indicated earlier today that the president is likely to give the resolution a speedy signature.\n\nCheyenne Ligon contributed reporting.\n\nUPDATE (March 4, 2025, 23:39 UTC): Adds comment from the DeFi Education Fund.",
+    "url": "https://www.coindesk.com/policy/2025/03/04/effort-to-kill-irs-crypto-rule-clears-u-s-senate-hurdle",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ted Cruz",
+                "Donald Trump",
+                "Cheyenne Ligon"
+            ],
+            "positions": [
+                "Senator",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "IRS",
+                "U.S. Senate",
+                "House of Representatives",
+                "Congressional Review Act",
+                "DeFi Education Fund",
+                "House Financial Services Committee",
+                "White House",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The Senate resolution to eliminate IRS crypto tax rules for DeFi passed with strong bipartisan support, which reduces regulatory burden and is seen as positive for digital assets development."
+    }
+}

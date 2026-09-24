@@ -1,0 +1,45 @@
+{
+    "title": "Pump.Fun Hit With Proposed Class Action Lawsuit Alleging Securities Violations",
+    "summary": "The suit alleges that Pump.fun has made nearly $500 million in fees from helping users generate memecoins.",
+    "time": "2025-01-30T21:36:00",
+    "author": "Cheyenne Ligon",
+    "content": "Memecoin generator Pump.fun was hit with another proposed class action lawsuit on Thursday, accusing the company and its executives of raking in nearly $500 million in fees while violating U.S. securities laws.\n\nThe suit, filed in the Southern District of New York (SDNY), hinges on the crypto industry’s biggest lingering question — when is a token a security? Though the suit alleges that every token created using Pump.fun’s platform is a security, and thus subject to U.S. securities laws, that’s far from a matter of settled law. Under the new Donald Trump Administration, the U.S. Securities and Exchange Commission (SEC) has indicated it's changing tack on crypto regulation, creating a new crypto task force charged with establishing a clear regulatory framework for the industry.\n\nThe lead plaintiff in Thursday's suit, Diego Aguilar, claimed to have lost money trading three Pump.fun-created memecoins in particular — FWOG, FRED and GRIFFAIN. Though Pump.fun does not itself create any of the tokens covered in the suit, the filing accuses the company of “orchestrat[ing] this scheme by providing automated tools that allow anyone to create and sell nearly worthless digital Tokens in minutes” and thus qualifies as a “joint issuer” of all tokens launched on its platform.\n\nAguillar’s suit names a U.K.-registered company called Baton Corporation, which it alleges is the operator of Pump.fun, as well as three of the company’s co-founders — COO Alon Cohen, CTO Dylan Kerler and CEO Noah Tweedale. Cohen declined to comment, telling CoinDesk that he was speaking for himself and not the company. The other members of the team could not be reached by press time.\n\nThe law firm that filed the suit, New York-based Wolf Popper LLP, filed another class action suit against Pump.fun just two weeks ago. That suit, filed on Jan. 16, has a different lead plaintiff but similarly accuses Baton Corporation and its three co-founders of selling an unregistered security — the PNUT token, a Solana-based memecoin inspired by Peanut the Squirrel, which the suit claims reached a $1 billion market capitalization. At the time of publication, the PNUT token is down 89% from its high of $2.25 last November.\n\nWolf Popper LLP, along with crypto litigation-focused firm Burwick Law, is also behind the recent class action lawsuit filed against the promoters of the HAWK token, a memecoin tied to influencer Hailey Welch, a.k.a. Hawk Tuah.\n\nThough Pump.fun only launched a year ago, the Solana-based memecoin factory is no stranger to controversy. Last March, the U.K financial regulator issued a warning against the platform, leading Pump.fun to ban U.K.-based users. It also came under fire for its now-disable livestream feature, which allowed some users to promote their tokens with violent or sexual content.\n\nRead more: Crypto Gets Shock Video Does as Users Stream NSFW Content to Pump Their Memecoins\n\nThe suit is seeking damages and attorneys’ fees.\n\nDanny Nelson contributed reporting.",
+    "url": "https://www.coindesk.com/policy/2025/01/30/pump-fun-hit-with-proposed-class-action-lawsuit-alleging-securities-violations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Diego Aguilar",
+                "Alon Cohen",
+                "Dylan Kerler",
+                "Noah Tweedale",
+                "Hailey Welch",
+                "Danny Nelson"
+            ],
+            "positions": [
+                "COO",
+                "CTO",
+                "CEO"
+            ],
+            "companies": [
+                "Baton Corporation",
+                "Wolf Popper LLP",
+                "Burwick Law"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Southern District of New York (SDNY)",
+                "U.K financial regulator"
+            ]
+        },
+        "cryptocurrencies": [
+            "FWOG",
+            "FRED",
+            "GRIFFAIN",
+            "PNUT",
+            "HAWK",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple class action lawsuits alleging securities violations against a major memecoin platform, regulatory warnings, and significant token price declines, all of which create negative sentiment for the cryptocurrency market."
+    }
+}

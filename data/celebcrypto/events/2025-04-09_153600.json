@@ -1,0 +1,32 @@
+{
+    "title": "Trump-Backed World Liberty Financial Begins Selling ETH as Losses Top $125M",
+    "time": "2025-04-09T15:36:00",
+    "author": "Oliver Knight",
+    "summary": "It sold ETH at $1,465 after buying it at $3,259.",
+    "content": "World Liberty Financial, the Donald Trump family-backed DeFi project, reportedly started to sell its ether (ETH) stash at $1,465 a token despite purchasing the asset for $3,259 at the start of the year.\n\nOn-chain data from Arkham shows that a wallet closely tied to World Liberty Financial sold 5,471 ETH for around $8 million on Wednesday after racking up a $125 million loss.\n\nThe sale comes just two months after Eric Trump, the U.S. president's son, said it was a great time to buy ETH, which was trading at $2,880.\n\nThe main World Liberty Financial wallet still holds $98 million worth of crypto, $11.7 million of which is in ether.\n\nDonald Trump wrote on Wednesday that it is a \"great time to buy\" on Truth Social while global markets tumbled on the escalating risks of a trade war.\n\nSince Trump was inaugurated on Jan. 20 the Nasdaq is down by 20%, S&P 500 by 17% and bitcoin (BTC) by 24%.\n\nThe TRUMP and MELANIA memecoins have fared worse, losing 83% and 95%, respectively, since Trump's Jan. 20 inauguration.\n\nWorld Liberty Financial did not immediately respond to CoinDesk's request for comment.",
+    "url": "https://www.coindesk.com/business/2025/04/09/trump-backed-world-liberty-financial-begins-selling-eth-as-losses-top-usd125m",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Trump"
+            ],
+            "positions": [
+                "U.S. president's son"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC",
+            "TRUMP",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant losses from a Trump-backed project selling ETH at a major loss, declining crypto prices, and memecoins losing 83-95% of their value."
+    }
+}

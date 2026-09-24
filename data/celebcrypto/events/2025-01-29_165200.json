@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Miner Riot Platforms Targeted by Second Activist Investor: Reuters",
+    "time": "2025-01-29T16:52:00",
+    "author": "Aoyon Ashraf",
+    "summary": "The move comes after another activist investor, Starboard, had taken a stake in the miner late last year.",
+    "content": "Bitcoin miner Riot Platforms (RIOT) finds itself a target of a second activist investor, with Reuters reporting investment management giant D.E. Shaw as having taken an unspecified stake.\n\nThe move by D.E. Shaw, which manages $70 billion in assets, comes just weeks after another activist investor, Starboard Value (roughly $9 billion in AUM), took a position in Riot. At the time of Starboard's investment, the WSJ reported the investor as pushing Riot to convert some of its bitcoin mining sites into data centers that could host machines to enable high-performance computing (HPC) for big tech companies.\n\nReuters didn't specify if D.E. Shaw will put similar pressure on the miner. However, the report noted, the investment firm has been known to sometimes pursue an activist strategy with a preference towards negotiating with companies out of the limelight.\n\nEarlier this month, Riot said it started a formal evaluation of potential artificial intelligence/HPC uses for its remaining 600 megawatts (MW) of power capacity at one of its facilities.\n\nThe bitcoin mining industry has faced an intense profit squeeze following the bitcoin halving earlier this year (which slashed mining profitability), leading some miners to look for ways to diversify their revenue sources. While there was some excitement in investor sentiment and share prices in recent months after Riot peer Core Scientific (CORZ) signed a multi-billion dollar deal with a hyperscaler — a firm operating large-scale data centers for cloud computing and AI — that vanished this week with the emergence of China's DeepSeek, which reportedly will require only a tiny fraction of the computing power U.S.-based AI plays were thought to need.\n\nCORZ, to name just one, is lower by about 30% since Monday. For its part RIOT is lower by 18% over the same period and is roughly flat on a year-over-year basis. Shares are up 1% today.",
+    "url": "https://www.coindesk.com/business/2025/01/29/bitcoin-miner-riot-gets-hit-with-second-activist-investor-reuters-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Riot Platforms",
+                "D.E. Shaw",
+                "Starboard Value",
+                "Core Scientific",
+                "DeepSeek"
+            ],
+            "organizations": [
+                "Reuters",
+                "WSJ"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin miners facing profit squeezes, share price declines (RIOT down 18%, CORZ down 30%), and diminished AI computing demand expectations."
+    }
+}

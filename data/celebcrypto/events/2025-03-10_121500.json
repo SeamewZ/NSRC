@@ -1,0 +1,43 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Slumps as Investors Flock to 'Doomsday Asset' Gold",
+    "time": "2025-03-10T12:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for March 10, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe crypto market continues to lose ground, driven by disappointment over the absence of a plan for the U.S. government to buy bitcoin under the newly announced strategic reserve plan and amid persistent macroeconomic concerns.\n\nBTC fell to $80,000 late Sunday, trading below the 200-day simple moving average, and ether took out a macro bullish trendline with a dip below the long-held support of $2,100. Other coins followed the two majors, posting bigger losses.\n\n\"Many investors are pulling out of bitcoin, viewing it as a risky asset class for the first time since Trump took the White House,\" said Zach Burks, CEO and founder of NFT-service provider Mintology. \"It’s no longer playing its role as a store of value. Gold prices have spiked as many go back to the original ‘doomsday asset,’ which is no surprise as tariffs and grenades continues to get thrown across the free world.\"\n\nThe tariffs are making it harder for the Fed to move forward with rate cuts despite the continued decline trend in real-time inflation indicators. On Friday, Fed chairman Jerome Powell said the central bank is waiting for greater clarity on Trump's policies before making the next move.\n\nMeanwhile, Japan's fastest base pay rise in 32 years strengthened the case for a BOJ rate hike, pushing the nation's bond yields and the yen higher. Bouts of strength in the haven currency typically breed downside volatility in risk assets.\n\nStill, some observers are unsure if the market weakness, particularly seen over the weekend, could be long-lasting. \"Trading volumes over the weekend were extremely low, reducing the value of the bearish signal,\" Alex Kuptsikevich, the FxPro chief market analyst, told CoinDesk.\n\n\"We note that sellers push the price down in periods of low liquidity, but the price bounces back with the arrival of institutional buyers. It looks like the big buyers have enough liquidity left to buy out the drawdown,\" Kuptsikevich said. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/03/10/crypto-daybook-americas-bitcoin-slumps-as-investors-flock-to-doomsday-asset-gold",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Zach Burks",
+                "Jerome Powell",
+                "Alex Kuptsikevich",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "CEO and founder",
+                "Fed chairman",
+                "chief market analyst"
+            ],
+            "companies": [
+                "Mintology",
+                "FxPro",
+                "CoinDesk",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "U.S. government",
+                "Fed",
+                "BOJ"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin slumping to $80,000, trading below key technical levels, and investors pulling out of bitcoin while flocking to gold as a safe haven asset."
+    }
+}

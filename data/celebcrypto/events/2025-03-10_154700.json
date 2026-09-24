@@ -1,0 +1,32 @@
+{
+    "title": "Crypto Funds Bleed $4.75B as Market Drop Erases Post-Election Gains",
+    "time": "2025-03-10T15:47:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Despite the decline in assets under management, cryptocurrency prices remain above pre-election levels.",
+    "content": "Crypto investment products have been seeing weekly outflows for four consecutive weeks now, with $876 million withdrawn last week, bringing the four-week total to $4.75 billion.\n\nThe sustained withdrawals and an ongoing cryptocurrency market drawdown have erased gains made since November 2024 after Donald Trump won the U.S. Presidential elections, pushing total assets under management (AUM) down by $39 billion to $142 billion.\n\nInvestor sentiment in the U.S. is particularly bearish, with $922 million in outflows, while investors in Europe and Canada brought in modest inflows, data from CoinShare’s Digital Asset Fund Flows report shows.\n\nInvestment products focused on bitcoin saw $756 million in outflows, while products shorting the cryptocurrency saw $19.8 million in withdrawals, the largest since December 2024 according to the report.\n\nEthereum-focused products endured $89 million outflows, while products focusing on solana\nSOL\n$161.52\n, XRP, and\nSUI\n$2.0672\nsaw inflows of $16.4 million, $5.6 million, and $2.7 million respectively.\n\nDespite the collapse in assets under management for cryptocurrency investment products, cryptocurrency prices remain above the levels seen before Trump was elected. Bitcoin is up more than 21% since Nov. 5, while the broader CoinDesk 20 Index is up around 30% over the same period.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/crypto-funds-bleed-usd4-75b-as-market-drop-erases-post-election-gains",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. Presidential"
+            ],
+            "companies": [
+                "CoinShare"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "Solana",
+            "SOL",
+            "XRP",
+            "SUI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes sustained outflows from crypto investment products totaling $4.75 billion, erasing post-election gains and showing particularly bearish investor sentiment in the U.S."
+    }
+}

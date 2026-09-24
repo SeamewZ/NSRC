@@ -1,0 +1,41 @@
+{
+    "title": "DAO Infrastructure Provider Tally Raises $8M to Scale On-Chain Governance",
+    "summary": "Tally is used by decentralized autonomous organizations (DAOs) to manage the governance process.",
+    "time": "2025-04-22T13:00:00",
+    "author": "Sam Reynolds",
+    "content": "Tally, a leader in on-chain governance tooling, has secured $8 million in Series A funding aimed at scaling its governance technology to more crypto-native decentralized autonomous organizations (DAOs).\n\nTally is best known for the Tally Protocol, which powers infrastructure to help leading protocols conduct effective on-chain governance of their DAOs, including Arbitrum, Uniswap DAO, ZKsync, Wormhole, Eigenlayer, Obol and Hyperlane.\n\n\"We've built this complete stack of software for operating these on-chain organizations,\" Dennison Bertram, CEO and co-founder of Tally Protocol, said in an interview with CoinDesk. \"We can take you from your idea to launching your token, to distributing your membership or ownership, all the way to the value accrual for your protocol.\"\n\nThe platform began as a DAO governance tool and has evolved into the most widely adopted software stack for on-chain organizations across the Ethereum and Solana blockchains, it said in a release.\n\n\"On-chain governance and capital formation could, in theory, dramatically reduce the complexity and cost of forming and operating organizations by moving these processes entirely into software rather than traditional jurisdictions guided by platforms like Tally,\" Bertram said.\n\nOne day, on-chain organizations might be seen as a way to compete with nation states, he argued, referencing the costly and lawyer-intensive process of registering foundations and other legal entities typically used for crypto.\n\n\"Whoever embraces crypto really fully might actually be embracing fully the future,\" he said.\n\nOne issue that Tally aims to tackle with funding from the Series A is low voter participation and apathy in DAO governance, which has led to sometimes controversial outcomes.\n\nLast year, for example, a group of CompoundDAO token holders, called Golden Boys, successfully passed a controversial proposal to create a yield-bearing product called goldCOMP.\n\nDespite initially gaining traction, the proposal faced significant controversy due to perceived irregularities, low voter turnout and a lack of widespread community engagement.\n\nUltimately, the Golden Boys agreed to cancel goldCOMP, which highlighted the broader issue of governance apathy within DAOs rather than any technical exploit or malicious intent.\n\n\"Many of the people that you should expect to vote 'no' on something like this didn't show up,\" Bertram said in an earlier interview. \"What it shows is that the democratic process of governing a DAO is imperfect and needs improvement.\"\n\nTo address this, Tally has developed staking mechanisms designed to reward active governance participants economically. Users can stake their governance tokens to receive Tally Liquid Staked Tokens (tLSTs), earning passive, auto-compounding yields while retaining voting rights within DAOs.\n\n“This fundraise is really about leaning into the original vision,” Bertram said. “Now that we've proven that this works, that you can have these large organizations, it's time to really scale it up.”\n\nBertram also emphasized that recent regulatory clarity and shifts in attitude toward crypto governance in the U.S. have opened the door for increased institutional participation in DAOs.\n\n“With this clarity, we're going to get a lot more participation, not necessarily from average Joe token holders, but actually from large organizations that depend on the infrastructure they're building on,” he said. “These organizations are going to need and want the ability to actually govern the infrastructure that they operate on.”\n\nUltimately, Bertram sees Tally’s role as pivotal in advancing decentralized governance and unlocking greater economic value for token holders by directly rewarding active, informed participants.\n\n\"Given the new acceptance of crypto as a key driver of future value in America, it's time to scale it beyond crypto and make it a core primitive for creating new organizations,” he said.\n\nThe round was led by Appworks and Blockchain Capital with participation from BitGo amongst others.\n\nTally previously raised $7.5 million in 2021 across two funding rounds.",
+    "url": "https://www.coindesk.com/tech/2025/04/22/dao-infrastructure-provider-tally-raises-usd8m-to-scale-on-chain-governance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dennison Bertram"
+            ],
+            "positions": [
+                "CEO and co-founder"
+            ],
+            "companies": [
+                "Tally",
+                "CoinDesk",
+                "Appworks",
+                "Blockchain Capital",
+                "BitGo"
+            ],
+            "organizations": [
+                "DAO",
+                "Tally Protocol",
+                "Arbitrum",
+                "Uniswap DAO",
+                "ZKsync",
+                "Wormhole",
+                "Eigenlayer",
+                "Obol",
+                "Hyperlane",
+                "CompoundDAO",
+                "Golden Boys"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $8M funding round for DAO infrastructure, regulatory clarity enabling institutional participation, and scaling of on-chain governance technology, all indicating positive market development and confidence."
+    }
+}

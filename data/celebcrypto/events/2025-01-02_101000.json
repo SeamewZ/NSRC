@@ -1,0 +1,33 @@
+{
+    "title": "KuCoin Enables Crypto Point-of-Sale Payments by QR-Code",
+    "summary": "The crypto exchange joins a number of crypto payment providers enabling customers to pay with crypto.",
+    "time": "2025-01-02T10:10:00",
+    "author": "Helene Braun",
+    "content": "KuCoin has introduced a feature for merchants to allow customers to pay for purchases directly from their account on the crypto exchange.\n\nMerchants can integrate the tool, called KuCoin Pay, into their payment systems. Customers pay by scanning a QR code or using the KuCoin app, the exchange said in a press release.\n\nThe exchange joins a number of crypto payment providers in facilitating direct payments for customers, a feature that’s supposed to bridge the gap between crypto and the legacy payments infrastructure.\n\nIn August, for example, digital payments platform Flexa announced a similar product with retailers including Chipotle, Mikimoto, Regal Cinemas and 99 Ranch Market.\n\nThe new infrastructure supports 54 cryptocurrencies, including bitcoin\nBTC\n$107,661.53\n, ether\nETH\n$3,722.54\nand the USDT and USDC stablecoins.\n\nSeveral merchants, who expect to launch the feature in January, have signed up for the product, a spokesperson for KuCoin said. Their names cannot be disclosed at this time.",
+    "url": "https://www.coindesk.com/business/2025/01/02/kucoin-enables-crypto-point-of-sale-payments-by-qr-code",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "KuCoin",
+                "Flexa",
+                "Chipotle",
+                "Mikimoto",
+                "Regal Cinemas",
+                "99 Ranch Market"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes KuCoin enabling crypto point-of-sale payments and joining other providers in facilitating direct crypto payments, which bridges the gap between crypto and legacy payment infrastructure and supports adoption."
+    }
+}

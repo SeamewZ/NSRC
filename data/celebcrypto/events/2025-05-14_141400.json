@@ -1,0 +1,32 @@
+{
+    "title": "JPMorgan’s Kinexys Connects With Public Blockchain on Ondo Chain Testnet Debut",
+    "time": "2025-05-14T14:14:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The testnet deal links JPMorgan’s Kinexys payments network to Ondo Chain using Chainlink’s cross-chain tech",
+    "content": "JPMorgan (JPM) took its first step onto a public blockchain network through its Kinexys Digital Payments platform, settling a tokenized U.S. Treasury transaction on Ondo Chain’s testnet.\n\nThe pilot, detailed in a press release shared with CoinDesk, marks the debut of a Delivery versus Payment (DvP) transaction on the testnet, a new layer-1 blockchain designed to support institutional-grade real-world assets.\n\nKinexys, which the release says processes an average of over $2 billion in daily transaction volume, handled the payment leg, while Ondo Finance’s tokenized short-term Treasury fund (OUSG) formed the asset leg. Chainlink Runtime Environment — a system for coordinating cross-chain workflows —secured the settlement across the two networks.\n\nThis is the first time Kinexys, the Wall Street bank's permissioned network, has executed a transaction on a public blockchain. The move signals a shift as the bank explores ways to extend its institutional payments infrastructure into the growing market for real-world asset tokenization.\n\n“ By securely and thoughtfully connecting our institutional payments solution with both external public and private blockchain infrastructures seamlessly, we can offer our clients and the broader financial ecosystem a wider range of benefits and scalable solutions for settling transactions,” Nelli Zaltsman, head of settlement solutions at Kinexys, said in the statement.\n\nTraditional finance often struggles with DvP transactions, which require payments to be made before or at the same time as delivery of securities, due to fragmented systems and manual steps that delay settlement, the release notes.\n\nIt points to data suggesting payment and settlement failures have cost market participants over $900 billion in the past 10 years. Blockchain technology, it says, can be leveraged to conduct simultaneous cross-chain transactions.\n\nJPMorgan has been expanding its blockchain-based payments network, having recently added support for British-pound denominated accounts.",
+    "url": "https://www.coindesk.com/business/2025/05/14/jpmorgans-kinexys-connects-with-public-blockchain-on-ondo-chain-testnet-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nelli Zaltsman"
+            ],
+            "positions": [
+                "head of settlement solutions at Kinexys"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Ondo Finance",
+                "Chainlink"
+            ],
+            "organizations": [
+                "JPMorgan",
+                "Kinexys",
+                "Ondo Chain",
+                "Chainlink"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes JPMorgan's first transaction on a public blockchain, signaling institutional adoption and expansion into real-world asset tokenization, which is positive for cryptocurrency market growth."
+    }
+}

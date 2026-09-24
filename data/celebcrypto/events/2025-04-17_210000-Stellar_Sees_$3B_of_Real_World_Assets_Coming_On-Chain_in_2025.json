@@ -1,0 +1,37 @@
+{
+    "title": "Stellar Sees $3B of Real World Assets Coming On-Chain in 2025",
+    "time": "2025-04-17T13:00:00",
+    "author": "Ian Allison",
+    "summary": "The Stellar blockchain has made new partnerships with Paxos, Ondo, Etherfuse and SG Forge.",
+    "content": "Stellar, a superfast and low fee-public blockchain, says it plans to hold $3 billion in real-world asset (RWA) value and power $110 billion in RWA volume by the end of 2025.\n\nThe goal set by the Stellar Development Foundation (SDF), the nonprofit that supports the development and growth of the Stellar network, is building on existing partnerships with the likes of Franklin Templeton and Wisdom Tree.\n\nIn addition, Stellar is welcoming a new round of tokenization specialists such as Paxos, Ondo, Etherfuse and SG Forge, the blockchain innovation division of French bank Société Générale.\n\n“We have a goal of powering $3 billion in real-world asset value on Stellar in 2025,” Lauren Thorbjornsen, VP and chief of staff at Stellar Development Foundation, said in an interview. “That would be more than a 10x increase from the $290 million in RWA we had in Stellar at the end of December 2024. But already we see a lot of growth happening on the network, just in the first quarter of this year.”\n\nTokenizing a range of existing financial assets has become all the rage among traditional finance firms over the past year or so, with major companies including BlackRock entering the space.\n\nStellar, established in 2014 by former Ripple CTO Jed McCaleb, is designed to facilitate fast and low-cost cross-border transactions between any pair of currencies or assets.",
+    "url": "https://www.coindesk.com/business/2025/04/17/stellar-sees-usd3b-of-real-world-assets-coming-on-chain-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jed McCaleb",
+                "Lauren Thorbjornsen"
+            ],
+            "positions": [
+                "former Ripple CTO",
+                "VP and chief of staff at Stellar Development Foundation"
+            ],
+            "companies": [
+                "Paxos",
+                "Ondo",
+                "Etherfuse",
+                "SG Forge",
+                "Franklin Templeton",
+                "Wisdom Tree",
+                "BlackRock",
+                "Société Générale",
+                "Ripple"
+            ],
+            "organizations": [
+                "Stellar Development Foundation (SDF)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant growth projections for real-world asset tokenization on Stellar, including a 10x increase in RWA value and major new partnerships with traditional finance firms, indicating strong market confidence and expansion."
+    }
+}

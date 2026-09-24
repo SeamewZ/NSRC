@@ -1,0 +1,44 @@
+{
+    "title": "Filecoin’s Clara Tsao: Building an Open and Trusted Internet",
+    "time": "2025-04-28T14:21:00",
+    "author": "Jeff Wilser",
+    "summary": "Clara Tsao, founding officer of the Web3 storage pioneer, is a speaker with the AI Summit at Consensus 2025.",
+    "content": "Did AI write the sentence that you’re reading right now? Did AI create the photograph you just saw online? Was the shocking, controversial story that tipped an election actually real, or AI-fueled misinformation?\n\nThese are questions Clara Tsao has wrestled with for years, ranging from protecting national security (where she was the CTO of a team focused on countering homegrown extremism) to creating a better internet, where she’s co-founder of the Trust & Safety Professional Association. (She also somehow finds time to be the President of the White House Presidential Innovation Fellows and serve as Senior Advisor at Tech Against Terrorism.)\n\n“For me, it's always been about, how do we bring more democracy to the web, because it's an open network that everyone should have the fundamental human right to access,” says Tsao, a Founding Officer at the Filecoin Foundation, and who will appear onstage at the AI Summit at Consensus 2025.\n\nTsao knows that AI, in a sense, is making all of these jobs harder. So Filecoin is focused on using blockchain to ensure digital authenticity and sniff out fakes. “AI is going to turbocharge everything that we see today, for good and for bad,” says Tsao. “And at the end of the day, I think everybody wants to know if they’re talking to an AI or to a human.”\n\nInterview has been condensed and lightly edited for clarity.\n\nHow has AI complicated the mission for an open and trusted internet?\n\nClara Tsao: So one of the biggest risks with AI is, how can we tell if something is AI or bot-generated, versus something that we know might be a human in the loop. And when I was working on topics like countering foreign influence operations, how do you prove that a bad actor actually came from a country that we know might be trying to intervene with us?\n\nCan you give an example?\n\nThere was a period, I think in 2016, when Facebook actually took down a bunch of media channels that came from Russia, because it was linked to the Internet Research Agency, which is a group that was definitely trying to push propaganda during the election. So it’s about being able to prove the source of information, and making sure that people are not falling victim to misinformation.\n\nAnd fakes are getting easier and easier to create, thanks to AI…\n\nRight. And with AI-generated images and AI-generated news, it could be easy for the very bad actors to use that technology for evil.\n\nCan you connect the dots of how blockchain helps crack this problem?\n\nOne thing that’s great about decentralized technologies — and decentralized storage specifically — is you can actually prove how data is changed over the course of time, because we store every piece of data by hash, not by location.\n\nSo let’s say we have a data set, and we're worried that maybe the data is being manipulated. Maybe a government is coming in and changing something so that it can fit their political agenda. There are many reasons why preserving information is more important than ever, and that's something that we can absolutely do with Filecoin.\n\nWho are you working with specifically?\n\nWe've worked with tons of amazing nonprofits over the years, like MuckRock, to make sure we can not only archive and preserve critical information, but also make sure it's tamper-proof, make sure it's resilient. For example, if it's information that journalists pull from, that we can have resilient copies of it all around the world. We can also use that same technology to really prove that this journalist took a certain photo.\n\nIn certain elections, there might be disinformation about whether something actually happened or not, and you can have photographers use decentralized technologies. And we have a ton of applications of companies building on top of Filecoin today, that help verify this image was taken from this device at this point of time.\n\nThat’s really powerful in terms of not just day-to-day journalism, but also in being able to be admissible in courts. In Ukraine, there might be war photos that might be taken out of context. And we’re able to preserve a number of key photographs that can one day be admissible in international criminal courts for human rights situations.\n\nHow are you now thinking about Filecoin’s mission?\n\nWe can help verify if you’re talking to AI or a human. We can help store data at a fraction of the cost. We can make sure that data is more accurate, because most AI data-sets are built off training tons of data. And storing data is very expensive. So our goal is to make storing data affordable for everyone, and making sure that people are also pulling from as much data as possible, so AI agents aren't only trained from a subset.\n\nAnd finally, we can have a place where it's not just monopolies being able to access tons of data. People can have a choice on where to store it, how to store it. So they’re not locked into a walled garden where they can never get out.\n\nLove it. Thanks Clara. See you in Toronto at Consensus!\n\nJeff Wilser will host the AI Summit at Consensus 2025, and is host of The People’s AI: The Decentralized AI Podcast.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/04/28/filecoins-clara-tsao-building-an-open-and-trusted-internet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Clara Tsao",
+                "Jeff Wilser"
+            ],
+            "positions": [
+                "Founding Officer",
+                "CTO",
+                "co-founder",
+                "President",
+                "Senior Advisor",
+                "host"
+            ],
+            "companies": [
+                "Filecoin Foundation",
+                "Facebook"
+            ],
+            "organizations": [
+                "Web3 storage pioneer",
+                "Trust & Safety Professional Association",
+                "White House Presidential Innovation Fellows",
+                "Tech Against Terrorism",
+                "Internet Research Agency",
+                "MuckRock",
+                "Consensus 2025",
+                "AI Summit",
+                "The People's AI: The Decentralized AI Podcast"
+            ]
+        },
+        "cryptocurrencies": [
+            "Filecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Filecoin's practical applications in combating AI misinformation and ensuring data authenticity, which positions the cryptocurrency as a valuable solution in the growing AI era."
+    }
+}

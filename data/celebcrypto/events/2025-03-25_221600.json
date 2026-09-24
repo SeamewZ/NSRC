@@ -1,0 +1,44 @@
+{
+    "title": "Tokenized Treasuries Hit $5B Milestone as Fidelity Touts RWA Potential for Collateral",
+    "time": "2025-03-25T22:16:00",
+    "author": "Krisztian Sandor",
+    "summary": "Using tokenized assets to satisfy margin requirements could help asset managers improve capital efficiency, said Cynthia Lo Bessette.",
+    "content": "The market value of tokenized U.S. Treasuries this week surpassed the $5 billion for the first time, rwa.xyz data shows, as demand for blockchain-based real-world assets (RWAs) accelerates.\n\nThe asset class grew by $1 billion through just two weeks, led by inflows into asset management giant BlackRock's and digital asset firm Securitize's market leading BUIDL.\n\nCrypto tokens backed by U.S. Treasuries are at the forefront of the tokenization trend, which have captivated a host of global financial behemoths and digital asset firms. Fidelity Investments is the latest large U.S. asset manager seeking to create a tokenized money market fund, filing for regulatory approval last week to launch its Fidelity Treasury Digital Liquidity on the Ethereum blockchain.\n\n\"We see promise in tokenization and its ability to be transformative to the financial services industry by driving transactional efficiencies with access and allocation of capital across markets,\" Cynthia Lo Bessette, head of Fidelity Digital Asset Management, told CoinDesk in a statement.\n\nTokenized Treasuries allow investors to park idle cash on blockchains to earn a yield — like with a money market fund. Increasingly, they are also used as a reserve asset for decentralized finance (DeFi) protocols. Another use case with significant potential is using these tokens as collateral in trading and asset management.\n\n\"In looking at use-cases, posting a tokenized asset as non-cash collateral to satisfy margin requirements could improve operational infrastructures and enhance capital efficiency,” she added.\n\nHer words echo Donna Milrod's, chief product officer of State Street, another Boston-based asset management and banking giant that is exploring tokenization of bonds and money market funds. She said in an earlier interview that collateral tokens could have helped avoid or alleviate, for example, the \"liability-driven\" crisis in 2022, allowing pension funds and asset managers to use money market fund tokens for margin calls instead of liquidating their assets to raise cash.\n\nRead more: Tokenization Allows More Efficient Collateral Transfers, Digital Asset, Euroclear and World Gold Council Found in Pilot Project\n\nThe growth trend won't stop anytime soon.\n\nSecuritize said earlier today that BUIDL is on track to surpass $2 billion in assets by early April from $1.7 billion currently. Meanwhile, Spark, the ecosystem partner of DAI stablecoin issuer Sky (formerly MakerDAO), plans to allocate $1 billion to BUIDL, Superstate's USTB and Centrifuge's fund managed with Anemoy and Janus Henderson.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/tokenized-treasuries-hit-usd5b-milestone-as-fidelity-investments-touts-rwa-potential-as-collateral",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cynthia Lo Bessette",
+                "Donna Milrod"
+            ],
+            "positions": [
+                "head of Fidelity Digital Asset Management",
+                "chief product officer of State Street"
+            ],
+            "companies": [
+                "Fidelity Investments",
+                "BlackRock",
+                "Securitize",
+                "Superstate",
+                "Centrifuge",
+                "Anemoy",
+                "Janus Henderson",
+                "Sky",
+                "MakerDAO",
+                "Euroclear",
+                "World Gold Council"
+            ],
+            "organizations": [
+                "Fidelity Digital Asset Management",
+                "State Street",
+                "Spark"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "DAI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights rapid growth in tokenized treasuries reaching $5 billion, institutional adoption by major financial firms like Fidelity and BlackRock, and positive statements about tokenization's transformative potential for financial services."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Dogecoin Surges 7% as Bitcoin, XRP See Brief Rally on Hopes of Trade War Easing",
+    "time": "2025-03-25T06:30:00",
+    "author": "Shaurya Malwa",
+    "summary": "PLUS: AI tokens remained stable despite a prominent technology backer saying investments in the sector are occurring “ahead of demand.”",
+    "content": "DOGE\n$0.1654\njumped 7% as majors staged a relief rally on Tuesday driven by talks of the upcoming U.S. tariffs, due on April 2, being more measured than initially expected.\n\nAs per reports, President Donald Trump's planned \"reciprocal tariffs\" set for April 2 may be more targeted than previously threatened, with some countries exempt and existing metal levies possibly not stacking.\n\nThe tariffs unsettled markets in February, shocking stocks and cryptocurrencies alike with bitcoin\nBTC\n$104,294.25\ndropping 17.6% to below $80,000 from its January peak.\n\nLast week, the Federal Reserve raised inflation forecasts and lowered growth projections, likely due to Trump's trade stance, but described the tariff-driven inflation as temporary while maintaining plans for two rate cuts in 2025, supporting risk assets.\n\nThis, along with the possibility of milder tariffs, has boosted market optimism, and memecoins are leading the charge. DOGE, pepecoin (PEPE), mog (MOG),\nFLOKI\n$0.0₄5974\n, among others, are up more than 5% in the past 24 hours, with the meme sector up 5.6% on average, per CoinGecko data.\n\nThat has beaten a 3% run in bitcoin, Solana’s SOL and XRP, with the broad-based CoinDesk 20 (CD20) index up 2.7%.\n\nMemecoins jump or act as beta bets when ether\nETH\n$3,517.53\nor bitcoin rise because they’re highly speculative assets with amplified sensitivity to broader crypto market trends.\n\nRetail traders often see relief in majors as a signal of bullish sentiment across the crypto ecosystem — chasing higher-risk, higher-reward opportunities like memecoins, which are typically cheaper and can deliver rapid gains in relatively shorter periods.\n\nElsewhere, Artificial Intelligence (AI) majors are stable after Alibaba’s Joe Tsai said he sees sign of a bubble forming in the ecosystem, the category is up 4.5% in the last 24 hours, according to CoinGecko data.\n\n“I start to see the beginning of some kind of bubble,” Tsai said during an HSBC conference in Hong Kong. “I start to get worried when people are building data centers on spec. There are a number of people coming up, funds coming out, to raise billions or millions of capital.”\n\nInvestment in AI appears to be occurring ahead of current demand, Tsai believes.\n\nNEAR protocol, the largest AI token by market cap, is flat in trading today, but up 14% in the last week as the market continues to positively digest news that Coinbase and the biggest names in AI were working together to collaboratively develop AI agent technology.\n\nStory’s IP token also continues to do well, up 8% on-day, as the project continues to secure notable Hollywood and Korean popstar intellectual property to monetize on its chain. Story has pitched its project as a way for rights holders to survive the AI revolution by easily creating frameworks to license their content for AI training.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/dogecoin-surges-7-as-bitcoin-xrp-see-brief-rally-on-hopes-of-trade-war-easing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Joe Tsai"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Alibaba",
+                "Coinbase",
+                "HSBC"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "PEPE",
+            "MOG",
+            "FLOKI",
+            "SOL",
+            "ETH",
+            "NEAR"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple cryptocurrencies surging 3-7% due to market optimism about potential trade war easing and Federal Reserve rate cut plans."
+    }
+}

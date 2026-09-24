@@ -1,0 +1,47 @@
+{
+    "title": "Bitcoin Sinks Amid Profit-Taking After FOMC Rally, but $100K Probability Rises",
+    "time": "2025-03-21T08:14:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders cautioned that Thursday’s moves would be a relief rally, with the $80,000 support level one to watch for.",
+    "content": "Bitcoin\nBTC\n$104,638.42\nand other major tokens lost more than 3% as Thursday’s rally was met with profit-taking during Asian morning hours Friday — in line with expectations.\n\nOverall crypto market capitalization fell 3.2% in the past 24 hours, with BTC sliding from $86,000 to under $84,000, ether\nETH\n$3,527.36\ndropping below $2,000 and Solana's SOL falling 5%.\n\nXRP showed steady declines bringing Wednesday’s 10% spike to a 4.8% gain over a weekly basis, while BNB Chain’s BNB continued to edge higher, bringing weekly gains to over 8%.\n\nAt press time, Tron’s TRX and TON were the only major tokens in the green, rising 2% each.\n\nTRX was floated on Solana for the first time ever on late Thursday in an attempt to expand its user base. TON saw retail demand after the Toncoin Foundation said that venture capital firms now hold over $400 million worth of the asset after fresh investments.\n\nWednesday’s Federal Open Market Committee (FOMC) meeting delivered a brief upside catalyst markets had been waiting for, propelling BTC past $85,000 as no rate cuts were announced.\n\nHowever, the Fed said it would scale back its “quantitative tightening” program starting in April which traders likely interpreted as an indirect rate cut, Singapore-based QCP Capital noted in a Telegram broadcast. Options markets have started to position accordingly.\n\n“The chance of BTC reaching above $100K by June 30 has increased from 20% to nearly 30% in the last 24 hours,” Dr. Sean Dawson, head of research at onchain options platform derive.xyz, told CoinDesk in an email.\n\n“While the probability of ETH remaining above $2000 by June 30 is now a coin flip – was 40% 24 hours ago. Nearly 60% of ETH options traded on Derive.xyz in the last 24 hours were calls bought, indicating a bullish sentiment. For BTC, 34% of all volume was bought, reflecting demand for downside protection,” Dawson added.\n\nFxPro’s Alex Kuptsikevich, who eyes the $80,000 support level as a critical area to watch for a break of support, maintained a cautious tone.\n\n“It’s important to note that the crypto market has yet to break above its 200-day moving average, currently sitting close to $2.9 trillion. A strong rally above this level could trigger an active buying phase, but there’s also a risk of bears setting up a trap, as they’ve done several times before,” Kuptsikevich said in a Telegram message.\n\n“For bitcoin to maintain momentum, staying above this key level is crucial. If it does, it could spark renewed interest in buying a variety of coins that have been in a correction phase for a while,” he added, referring to broader altcoin and memecoin markets.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/bitcoin-xrp-sol-sink-on-profit-taking-after-fomc-rally",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dr. Sean Dawson",
+                "Alex Kuptsikevich"
+            ],
+            "positions": [
+                "head of research at onchain options platform derive.xyz"
+            ],
+            "companies": [
+                "QCP Capital",
+                "FxPro",
+                "CoinDesk",
+                "derive.xyz",
+                "Toncoin Foundation"
+            ],
+            "organizations": [
+                "Federal Open Market Committee (FOMC)",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "BNB Chain",
+            "BNB",
+            "Tron",
+            "TRX",
+            "TON",
+            "Toncoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with profit-taking causing price declines, but also notes increased probability of Bitcoin reaching $100K and bullish options positioning, creating an unclear overall impact."
+    }
+}

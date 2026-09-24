@@ -1,0 +1,36 @@
+{
+    "title": "Coinbase Leaps Into Supreme Court Case in Defense of User Data Going to IRS",
+    "summary": "The U.S. crypto exchange filed a brief in a longstanding privacy battle over records the tax agency sought on customers' crypto transactions.",
+    "time": "2025-04-30T15:00:00",
+    "author": "Jesse Hamilton",
+    "content": "Coinbase (COIN) filed a brief in the U.S. Supreme Court case involving an Internal Revenue Service request for data on hundreds of thousands of its customers back in 2016, arguing the court should \"protect Americans' privacy interests in digital information stored by third-party service providers.\"\n\nThe U.S. tax agency — in an action during the first administration of President Donald Trump — had been seeking financial records under the stance that the individuals's transaction records should be made available once they'd shared their information with a third party. In this instance, that party was Coinbase. The exchange fought to narrow the request through court battles and eventually was compelled to deliver a much narrower scope of data.\n\n\"The court should intervene to clarify that the third-party doctrine does not allow the IRS to conduct dragnet searches,\" Coinbase contended in its amicus brief filed on Wednesday in the case that has wide privacy implications.\n\nIn 2020, one of the customers, James Harper, a Bitcoin\nBTC\n$102,205.43\nresearcher, filed a lawsuit against the IRS, accusing it of improper overreach in its demand for records. Years later, Harper — a lawyer and fellow and the American Enterprise Institute — has his argument before the high court.\n\n\"User anonymity vanishes — and the blockchain becomes susceptible to easy surveillance — when the government acquires information that allows it to match a public key or wallet address to a user’s identity,\" Coinbase noted.\n\n\"This John Doe summons invaded a sphere in which over 14,000 Americans had a reasonable expectation of privacy against a warrantless IRS trawl for extensive personal and financial information,\" the company argued.\n\nRepresenting the government's case, the Department of Justice had previously argued that \"a person lacks a reasonable expectation of privacy in information voluntarily provided to a third party, including bank records pertaining to him.\"\n\nRead More: How a Lawsuit Against the IRS Is Trying to Expand Privacy for Crypto Users",
+    "url": "https://www.coindesk.com/policy/2025/04/30/coinbase-leaps-into-supreme-court-case-in-defense-of-user-data-going-to-irs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Harper",
+                "Donald Trump"
+            ],
+            "positions": [
+                "lawyer and fellow",
+                "President"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "U.S. Supreme Court",
+                "Internal Revenue Service",
+                "IRS",
+                "Department of Justice",
+                "American Enterprise Institute"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes an ongoing legal privacy battle with mixed implications - privacy protection arguments could be positive for crypto adoption, but government surveillance concerns could be negative, resulting in unclear overall market impact."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "USDe Issuer Ethena Labs Integrates Chaos Labs' Edge Proof of Reserves Oracles to Strengthen Risk Management",
+    "summary": "The Edge Proof of Reserves Oracles provide a real-time, transparent mechanism to verify that token issuers like Ethena hold sufficient reserves.",
+    "time": "2025-02-25T07:36:00",
+    "author": "Omkar Godbole",
+    "content": "Ethena Labs has integrated Chaos Labs' data authenticity technology, Edge Proof of Reserves oracles, to strengthen the risk management framework for its synthetic dollar token USDe.\n\nEdge oracles will independently verify the total dollar value of the USDe's reserves and the reserve coverage of USDe's supply and confirm that reserves are governance-approved and delta-neutral. Chaos Labs shared the announcement exclusively with CoinDesk.\n\nUSDe, a synthetic stablecoin, maintains a soft peg with the U.S. dollar through an automated delta-hedging strategy that shorts bitcoin and ether perpetual futures to offset changes in the prices of these cryptocurrencies.\n\nThe synthetic stablecoin experienced volatility over the weekend, falling to 0.982 against tether and 0.988 against USDC, per Kaiko, amid fears that the protocol has multi-million dollar exposure to Bybit's ether\nETH\n$3,340.48\nderivatives market. The exchange was hacked late Friday, with a malicious entity draining over $1 billion in ether.\n\nThe so-called de-peg, however, was short-lived as Ethena assured investors that all assets backing USDe were held off-exchange and its reserve fund was more than enough to compensate for any losses from the Bybit exploit.\n\nThe integration with Chaos Labs adds another layer of credibility to USDe's reserves, ensuring they stay secure and transparent.\n\nThe Edge Proof of Reserves (PoR) oracles will constantly monitor the reserve levels of tokens and check the collateral backing them. This is done by smoothly integrating off-chain data from custodians and centralized exchanges into the on-chain environment, ensuring scalable and robust support for institutional-grade applications.\n\nThe integration also provides automated alerts to notify users of any data anomalies or if reserve levels fall below the required thresholds. Verified data is publicly displayed on Ethena’s transparency page and attestor interfaces, keeping stakeholders informed.\n\n\"This integration ensures continuous, independent verification of reserves, fostering greater transparency and security for all users. By leveraging real-time, tamper-resistant data, Ethena reinforces its commitment to a robust and reliable synthetic dollar,\" the announcement said.\n\nChaos Labs' Edge oracle ensures security and privacy while providing real-time and transparent data verification, including for reserves held off-chain or across different blockchains.\n\nThese oracles have secured over $200 billion in volume, delivering risk management to decentralized finance (DeFi) giants like AAVE, Jupiter, GMX, and Tether.\n\nFeb. 26, 02:36 UTC: Updates the volume figure in the last paragraph to $200 billion and spells out Edge Proof of Reserves in the lede.",
+    "url": "https://www.coindesk.com/tech/2025/02/25/usde-issuer-ethena-labs-integrates-chaos-labs-edge-proof-of-reserves-oracles-to-strengthen-risk-management",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ethena Labs",
+                "Chaos Labs",
+                "CoinDesk",
+                "Bybit",
+                "Kaiko",
+                "AAVE",
+                "Jupiter",
+                "GMX",
+                "Tether"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDe",
+            "bitcoin",
+            "ether",
+            "ETH",
+            "tether",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of transparent reserve verification technology and Ethena's assurance that all assets are held off-exchange with sufficient reserves to cover losses from the Bybit exploit demonstrates strengthened risk management and market confidence."
+    }
+}

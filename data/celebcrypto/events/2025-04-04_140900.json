@@ -1,0 +1,37 @@
+{
+    "title": "A Blueprint for Digital Assets in America",
+    "summary": "The chairmen of the House Financial Services and Agriculture Committees outline six principles to guide digital assets legislation.",
+    "time": "2025-04-04T14:09:00",
+    "author": "French Hill",
+    "content": "In 2008, an anonymous person or group of people known only as “Satoshi Nakamoto” released a now-seminal document, the Bitcoin White paper, introducing a peer-to-peer system for value of exchange without intermediaries.\n\nWith this revolutionary concept, the idea of a “digital asset” was born. Soon after, developers and entrepreneurs expanded on this concept, developing systems where value was exchanged not just for its own sake, but for services and digital products.\n\nOver the past decade, innovators have built permissionless, decentralized networks for computing services, file storage, asset exchange, cellular coverage, Wi-Fi connectivity, mapping tools, lending services, and more. Because digital assets can be used for services that anyone can offer and anyone can access, the use-cases – both financial and non-financial – are potentially endless.\n\nDespite this promise, these networks have courted criticism. The Biden-Harris Administration attempted to block this innovative advance through a relentless campaign of lawsuits and enforcement actions without providing the regulatory clarity the digital asset ecosystem and its innovators and users so desperately needed.\n\nThe Securities and Exchange Commission (SEC) failed to clarify how existing securities laws apply and — more importantly — don’t apply to digital asset transactions. This lack of regulatory clarity stifled the digital asset ecosystem, pushing growth out of the United States to jurisdictions that have established clear rules of the road.\n\nTo address these failures, Congress began exploring ways to modernize the regulatory structure to accommodate the unique characteristics of digital assets and how they could be used in our financial system. These efforts culminated in a series of bills aimed at clarifying how digital assets could be used in the financial system, ensuring investor protection and fostering innovation.\n\nIn the 118th Congress, the House Committees on Financial Services and Agriculture launched a historic joint effort to address digital asset regulation. This led to the first-ever passage of bipartisan digital asset market structure legislation in a chamber of Congress. This collaboration enabled Congress to address longstanding challenges in the ecosystem and lay the foundation for a fit for purpose framework under the leadership of President Trump.\n\nThis Congress, both the House and Senate are committed to creating a clear path forward for the digital asset ecosystem. As we move ahead, it is crucial that the framework is both balanced and iron-clad for the future. To accomplish this, we have set out principles for digital asset legislation.\n\nFirst, legislation must promote innovation. We seek to protect opportunities for innovators to create and utilize digital assets, while ensuring users can lawfully transact with one another.\n\nSecond, legislation must provide clarity for the classification of assets. Users of digital assets should clearly understand the nature of their holdings, including whether they qualify as securities or non-securities.\n\nThird, legislation must codify a framework for the issuance of new digital assets. The framework should permit issuers to raise capital through the sale of new digital assets under the jurisdiction of the SEC. It should protect retail investors and require developers to disclose relevant information to help users understand the unique characteristics of digital asset networks.\n\nFourth, the legislation must establish the regulation of spot market exchanges and intermediaries. Centralized, custodial exchanges and intermediaries facilitating transactions with non-security digital assets should adhere to similar requirements as other financial firms.\n\nCongress should provide the Commodity Futures Trading Commission (CFTC) with the authority to impose requirements over these entities necessary to protect customers, limit conflicts of interest, ensure appropriate execution of customer orders, and provide disclosures.\n\nFifth, the legislation must establish best practices for the protection of customer assets. Entities registered with the SEC or CFTC should be required to segregate customer funds and hold them with qualified custodians. Customer funds should also be protected during bankruptcy.\n\nSixth, and finally, the legislation must protect innovative decentralized projects and activities. Congress should ensure that decentralized protocols, which pose different risks and benefits, are not subject to regulations designed for centralized, custodial firms. In safeguarding decentralized activities, Congress must also protect an individual’s right to self-custody their digital assets.\n\nWe look forward to both Committees continuing our legislative work together to fulfill President Trump’s request to make America the “crypto capital of the planet.” In May, our Committees will host our second joint hearing to discuss digital asset market structure legislation.\n\nOur goal is to bring much-needed regulatory clarity to this rapidly evolving industry, ensuring that America continues to lead in shaping the future of digital finance.",
+    "url": "https://www.coindesk.com/opinion/2025/04/04/a-blueprint-for-digital-assets-in-america",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Satoshi Nakamoto",
+                "President Trump"
+            ],
+            "positions": [
+                "chairmen of the House Financial Services and Agriculture Committees",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "House Financial Services Committee",
+                "House Agriculture Committee",
+                "Biden-Harris Administration",
+                "Securities and Exchange Commission",
+                "SEC",
+                "Congress",
+                "House Committees on Financial Services and Agriculture",
+                "Commodity Futures Trading Commission",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news outlines bipartisan legislative efforts to provide regulatory clarity and promote innovation in digital assets, which is generally positive for cryptocurrency markets."
+    }
+}

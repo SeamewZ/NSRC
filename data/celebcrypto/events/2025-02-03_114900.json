@@ -1,0 +1,27 @@
+{
+    "title": "THORChain to Issue Equity Tokens to Battle $200M Debt After Pausing Bitcoin, Ether Lending",
+    "time": "2025-02-03T11:49:00",
+    "author": "Shaurya Malwa",
+    "summary": "TCY tokens will be distributed at a rate of 1 TCY per dollar of defaulted debt, turning lenders and savers into equity holders.",
+    "content": "THORChain's members passed “Proposal6” to convert nearly $200 million of unserviceable debt into equity via a new token, TCY (Thorchain Yield), with a total supply of 200 million tokens.\n\nThis action was taken after suspending THORFi services on Jan. 23 due to financial uncertainties, as CoinDesk reported.\n\nTCY tokens will be distributed at a rate of 1 TCY per dollar of defaulted debt, turning lenders and savers into equity holders. THORChain plans to establish a RUNE/TCY liquidity pool with $500,000 starting at $0.1 per TCY, funded by $5 million from the treasury.\n\nHolders of TCY will receive 10% of THORChain's revenue indefinitely, providing a long-term incentive and recovery mechanism for those affected by the debt crisis — although the timeline for total financial recovery remains uncertain.\n\nTHORChain's cross-chain swaps, its main service, remain unaffected. Prices of the platform’s native RUNE are down 10% in the past 24 hours alongside a broader market fall, extending 30-day losses to nearly 50%.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/thorchain-to-issue-equity-tokens-to-battle-usd200m-debt-after-pausing-bitcoin-ether-lending",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "THORChain",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ether",
+            "TCY",
+            "RUNE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes THORChain pausing lending services due to $200M debt, converting debt to equity tokens, and RUNE price dropping 10% in 24 hours and 50% over 30 days."
+    }
+}

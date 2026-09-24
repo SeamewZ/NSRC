@@ -1,0 +1,30 @@
+{
+    "title": "Can Bitcoin Break Conference Curse at This Week's Las Vegas Event?",
+    "summary": "Bitcoin has been on a heater over the past few weeks, but previous years' conferences have proven to be decent selling opportunities.",
+    "time": "2025-05-27T15:08:00",
+    "author": "James Van Straten",
+    "content": "As bitcoin\nBTC\n$101,754.63\nenters this week’s Bitcoin Conference in Las Vegas priced at roughly a record high above $109,000, traders and analysts are closely watching whether it what's become a trend of poor performance after these events.\n\nHistorical data compiled by Galaxy Research across five prior conferences from San Francisco in 2019 to Nashville in 2024 reveals that bitcoin has generally fared poorly both during and especially after these gatherings.\n\nFor example, the 2019 event saw a 10% decline during the conference and BTC went on to tumble 24% over the following month. The 2022 conference in Miami showed a similar trajectory: down 1% during the event and a steep 29% slide in the month after. Both of those instances, however, occurred in the middle of bear markets.\n\nEven in bull market years like 2023, though, price action remained flat or slightly negative.\n\nThe most recent 2024 conference in Nashville in July — which featured then-presidential candidate Donald Trump promising a strategic bitcoin reserve — posted a 4% gain during the event, but a fast 20% decline shortly after, coinciding with the unwinding of the yen carry trade that triggered a broader risk-off move across global markets.\n\nThe setup this year — which is set to feature current Vice President J.D. Vance — could be materially different as institutional engagement is rising. Still, with historical data stacked against it, bitcoin faces a psychological hurdle as much as a technical one. Conference weeks have become sell-the-news moments.",
+    "url": "https://www.coindesk.com/markets/2025/05/27/can-bitcoin-break-conference-curse-at-this-weeks-las-vegas-event",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "J.D. Vance"
+            ],
+            "positions": [
+                "then-presidential candidate",
+                "current Vice President"
+            ],
+            "companies": [
+                "Galaxy Research"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article highlights historical data showing Bitcoin typically performs poorly during and after conferences, describing them as 'sell-the-news moments' with multiple examples of significant price declines."
+    }
+}

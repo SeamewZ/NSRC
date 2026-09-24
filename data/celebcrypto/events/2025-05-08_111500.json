@@ -1,0 +1,41 @@
+{
+    "title": "Crypto Daybook Americas: Trump Trade Tease Lifts Market While Movement's Fees Evaporate",
+    "time": "2025-05-08T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for May 8, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nThe crypto market is a sea of green as traders look past the stagflation specter raised by the Fed on Wednesday and cheer President Donald Trump's hint of a big trade-deal announcement with a major trading partner.\n\nBitcoin jumped 2.6%, nearing $100,000, even with the WSJ reporting that the announcement could be more of a framework for talks than actual confirmation of an agreement. The wider market put in bigger gains, with XRP, ETH, ADA, DOGE and several other coins rising 4% to 6%. Tokens associated with memecoin projects, layer 1s and DeFi are leading the market higher.\n\nIn key news, cumulative inflows into the U.S.-listed spot bitcoin exchange-traded funds (ETFs) have hit an all-time high of $40.62 billion, signaling continued institutional adoption. (Check Chart of the Day.)\n\nOn Thursday, Arizona became the second U.S. state to pass a bitcoin reserve bill. The regulation allows the state to take ownership of abandoned coins in the event that the owner ignores messages sent within three years. It also lets the state make BTC investments.\n\nAn ether whale ICO participant sold 5,200 ETH at $9.54 million, extending a series of recent liquidations. The whale still holds 8,300 ETH ($15.28 million).\n\nDecentralized layer-1 blockchain Avalanche's C-Chain registered the highest amount of transactions in two years, with the median gas cost of just $0.00078. The AVAX token traded 7% higher at $21 at press time.\n\nStripe unveiled a new feature called Stablecoin Financial Accounts, powered by Bridge, unlocking access to dollar-denominated services in over 100 countries.\n\nOn the macro front, the first quarter U.S. unit labor cost data will be watched by traders for signs of sticky wage price inflation that could potentially delay the Fed rate cuts. Stay alert!\n\nCoinDesk's Consensus is taking place in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/08/crypto-daybook-americas-trump-trade-tease-lifts-market-while-movement-s-fees-evaporate",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Stripe",
+                "Farside Investors",
+                "Bridge"
+            ],
+            "organizations": [
+                "Fed",
+                "WSJ"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "ETH",
+            "ADA",
+            "DOGE",
+            "AVAX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the crypto market as 'a sea of green' with multiple cryptocurrencies showing significant price gains and positive developments like record ETF inflows and state-level bitcoin adoption."
+    }
+}

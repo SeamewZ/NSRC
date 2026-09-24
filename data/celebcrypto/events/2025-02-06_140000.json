@@ -1,0 +1,32 @@
+{
+    "title": "DEX Aggregator 1inch Integrates ZKsync to Boost Cross-Chain Swaps",
+    "time": "2025-02-06T14:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The integration aims to provide faster and cheaper transactions for users.",
+    "content": "Decentralized exchange (DEX) aggregator 1inch Network has expanded its cross-chain swapping capabilities by integrating ZKsync, a layer-2 scaling solution for Ethereum to provide faster and cheaper transactions when moving crypto between different networks.\n\nThe integration, announced via a press release shared with CoinDesk, allows its users to seamlessly execute cross-chain swaps involving ZKsync. 1inch said that this feature, powered by its “Fusion+” technology and launched in beta last September, has already facilitated millions in trading volume.\n\n\"With bridgeless, trust-minimized cross-chain swaps now available on ZKsync Era, 1inch expects a notable uptick in trading volumes and user adoption,\" Sergej Kunz, co-founder of 1inch told CoinDesk.\n\n1inch’s system offers an alternative to traditional bridging. Network fees are covered by “resolvers” instead of users themselves. These resolvers, which must stake 1INCH tokens to have that status, compete with each other to ensure users get the best possible rates.\n\n\"Lower fees, faster finality, and enhanced security should attract both seasoned DeFi users and newcomers, fueling broader market participation and liquidity growth across the 1inch ecosystem,\" Kunz\n\nBuilt using zero-knowledge technology, a type of layer-2 scaling system, ZKsync offers significantly lower gas fees compared to Ethereum’s main network while boosting transaction speeds. Despite these speed and cost advantages, it leverages the security of the Ethereum blockchain.\n\nZKsync’s roadmap shows that the network aims to reach 10,000 transactions per second and is exploring technologies that could potentially eliminate transaction fees in the future.\n\nMost recently, Swiss banking giant UBS said it's testing ZKsync’s technology for one of its gold-backed financial products.",
+    "url": "https://www.coindesk.com/business/2025/02/06/dex-aggregator-1inch-integrates-zksync-to-boost-cross-chain-swaps",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sergej Kunz"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "1inch Network",
+                "UBS"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "ZKsync"
+            ]
+        },
+        "cryptocurrencies": [
+            "1INCH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration provides faster and cheaper transactions, expects increased trading volumes and user adoption, and enhances security features which should attract more market participation."
+    }
+}

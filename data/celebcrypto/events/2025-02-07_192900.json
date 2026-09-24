@@ -1,0 +1,37 @@
+{
+    "title": "Startup Founded by Citi Alumni to Launch XRP-Backed Securities",
+    "time": "2025-02-07T19:29:00",
+    "author": "Helene Braun",
+    "summary": "Receipts Depositary Corp. already offers bitcoin and ether-backed securities and is now looking to expand its product suite by adding XRP.",
+    "content": "Receipts Depositary Corp. (RDC), a start-up founded by a group of former Citigroup executives, is planning to launch XRP-backed securities, according to people familiar with the matter.\n\nThis will give institutions access to\nXRP\n$2.2614\nsecurities through U.S. regulated market infrastructure.\n\nThe company will offer depositary receipts similar to the American depositary receipts (ADRs) that represent foreign stocks on U.S. equity exchanges.\n\nThe product will be offered to qualified institutional buyers only via transactions exempt from registration under the Securities Act of 1933. As such, it does not need approval from the Securities and Exchange Commission (SEC).\n\nFox Business reported the news earlier Friday.\n\nThe securities will be cleared by the Depository Trust Company (DTC), similar to RDC’s already existing offerings of bitcoin\nBTC\n$104,080.65\nand ether\nETH\n$3,496.80\nbacked securities.\n\nIn a press release in January 2024, RDC founder and CEO Ankit Mehta, said that using depositary receipts brings many benefits, such as their “tried and true structure, providing direct ownership of the underlying asset and easy inclusion in institutional products.”\n\nSeveral companies have taken steps to bring XRP to an institutional crowd as the native cryptocurrency of the Ripple network has seen tremendous growth over the past year. Several asset managers and exchange-traded fund (ETF) providers have applied for ETFs tracking the price of XRP.\n\nThe difference between an ETF and depository receipts is that while shares in a potential XRP ETF would be redeemed for cash, depositary receipts would offer direct ownership of the cryptocurrency.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/startup-founded-by-citi-alumni-to-launch-xrp-backed-securities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ankit Mehta"
+            ],
+            "positions": [
+                "founder",
+                "CEO"
+            ],
+            "companies": [
+                "Receipts Depositary Corp.",
+                "Citigroup",
+                "Fox Business"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "Depository Trust Company"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of XRP-backed securities through regulated market infrastructure provides institutional access and indicates growing institutional adoption of XRP."
+    }
+}

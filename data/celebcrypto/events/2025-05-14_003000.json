@@ -1,0 +1,38 @@
+{
+    "title": "Slow Blockchain Governance Leaves Crypto Exposed to Quantum Threats",
+    "time": "2025-05-14T00:30:00",
+    "author": "Sam Reynolds",
+    "summary": "Securing a whole chain will take too long, so why not go piece by piece with the largest whales putting their stash in quantum vaults first.",
+    "content": "Quantum computing poses a real threat to crypto, and slow-moving governance processes risk leaving blockchains vulnerable, according to Colton Dillion, a co-founder of Quip Network, which provides quantum-proof vaults for storing digital assets.\n\nWhile the technology, which uses the quantum states of subatomic particles to perform calculations instead of transistors and binary code, is still in its infancy, companies including Google and Microsoft are pressing forward with research and development. The goal is a massive step-up in speed that makes tough calculations like cracking encryption, such as that used to protect blockchains, faster and simpler.\n\nAnd when quantum computing becomes available, any attacker is unlikely to announce their presence immediately.\n\n“The threat won’t start with Satoshi’s keys getting stolen,\" Dillion said in an interview. “The real quantum attack will look subtle, quiet, and gradual, like whales casually moving funds. By the time everyone realizes what’s happening, it’ll be too late.\"\n\nDillion's doomsday scenario involves a quantum-computing-powered double-spend attack. In theory, quantum computing could reduce the mining power required for a traditional 51% attack down to about 26%, Dillion said.\n\n\"So now you've compromised the 10,000 largest wallets. You rewind the chain, liquidate those 10,000 largest wallets, then double spend all the transactions, and now you've really got a nuclear bomb,” is how he imagines it.\n\nThe industry, of course, is working to find a solution.\n\nBitcoin developer Agustin Cruz, for instance, proposed QRAMP, a Bitcoin Improvement Proposal (BIP) that mandates a hard-fork migration to quantum-secure addresses. Quantum startup BTQ has proposed replacing the proof-of-work consensus system that underpins the original blockchain entirely with quantum-native consensus.\n\nThe problem is that the proposals must gain community approval. Blockchain governance, such as Bitcoin Improvement Proposals (BIPs) and their Ethereum equivalents, Ethereum Improvement Proposals (EIPs), tends to be rife with politics, making it a long, inherently cautious process.\n\nFor example, the Bitcoin community's recent resolution on the OP_RETURN function was years in the making, with months of developer debates about what's considered the \"proper\" use of the blockchain. Ethereum's upgrades, like the Merge, also faced lengthy debates and delays.\n\nDillion argues that the governance process leaves crypto dangerously exposed because quantum computing threats will evolve much faster than the protocols can respond.\n\n“Everyone's trying to do this from the top down by starting with a BIP or an EIP and getting everyone's buy-in together. But we think that this is a very difficult, heavy lift,” he said.\n\nQuip Network’s quantum-proof vaults aim to circumvent the political inertia by allowing immediate user-level adoption without requiring protocol upgrades. The vaults leverage hybrid cryptography, blending classical cryptographic standards with quantum-resistant techniques to provide blockchain-agnostic security.\n\nEffectively, they allow the whales, holders of large amounts of a cryptocurrency, to secure their stashes while waiting for the machinations of blockchain governance to get it together. Crypto communities can't afford leisurely debates, he argues.\n\n“The BIP and EIP processes are great for governance, but terrible for rapid threat response,” said Dillion. \"When quantum hits, attackers won’t wait for community consensus.”\n\nColton Dillon is speaking at the IEEE Canada Blockchain Forum, part of Consensus 2025 in Toronto. The IEEE is a Knowledge Partner of Consensus.\n\nRead more: Quantum Computing Group Offers 1 BTC to Whoever Breaks Bitcoin's Cryptographic Key",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/13/slow-blockchain-governance-leaves-crypto-exposed-to-quantum-threats",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Colton Dillion",
+                "Agustin Cruz"
+            ],
+            "positions": [
+                "co-founder",
+                "Bitcoin developer"
+            ],
+            "companies": [
+                "Quip Network",
+                "Google",
+                "Microsoft",
+                "BTQ"
+            ],
+            "organizations": [
+                "IEEE Canada Blockchain Forum",
+                "Consensus",
+                "IEEE"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes quantum computing as a serious threat that could enable devastating attacks on cryptocurrencies, with slow governance processes leaving blockchains dangerously exposed."
+    }
+}

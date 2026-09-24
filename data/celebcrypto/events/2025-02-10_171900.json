@@ -1,0 +1,39 @@
+{
+    "title": "Hong Kong’s Patient Approach to Regulating Crypto Will Pay Off: LegCo's Duncan Chiu",
+    "time": "2025-02-10T17:19:00",
+    "author": "Sam Reynolds",
+    "summary": "Devising clear rules for the industry is important, but it can also help to wait for others to move first, argues Chiu.",
+    "content": "Crypto regulations are a competitive business in Asia, with places such as Hong Kong and Singapore vying to become Asia’s crypto hub and capture the business associated with that status.\n\nThe challenge, though, lies in crafting a rulebook that balances investor protections with a welcomingness to businesses and new capital. And here, Hong Kong has an advantage over places like Japan or Korea, since its common-law framework for traditional finance has made its economy one of the most open and free in the world.\n\nA recent report from a Canadian think tank deemed Hong Kong the “freest economy” in the world, with Singapore just behind it in second place. However, with crypto Hong Kong has moved relatively slowly, especially compared to Singapore.\n\nBut Duncan Chiu, a member of Hong Kong’s Legislative Council and chair of its Technology and Innovation committee, which oversees Hong Kong’s technology parks and research facilities, says the territory’s initial caution with respect to regulating crypto comes with advantages.\n\n“Being a late mover is a good thing sometimes because you have a clear picture,” said Chiu in a recent interview with CoinDesk.\n\nFor example, he pointed to how the Monetary Authority of Singapore (MAS), the city-state’s main financial regulator, has moved quickly to pass rules for crypto. MAS initially regulated crypto under its Payment Services Act, treating crypto inaccurately as a payment tool rather than an asset class. Japan did the same thing early on, forcing later revisions in 2024 as DeFi and tokenization eventually gained traction.\n\n“While Hong Kong started late, the good thing is there were clearer patterns of how these products were being used,\" said Chiu, who is one of the most prominent voices for crypto in Hong Kong, along with fellow LegCo member Johnny Ng.\n\nChiu further pointed out how the original bitcoin white paper labeled the asset class as electronic cash, while the market reality is it’s become more of a commodity — a view shared by the U.S. Commodity and Futures Trading Commission — as another example of how market behavior around crypto has evolved and needed regulations to adapt.\n\nOne of the key issues Chiu said he'd like to work on in the LegCo is building a clear classification for different types of digital assets, such as cryptocurrencies vs. stablecoins, while also working with global regulators to ensure alignment among them.\n\n“We need clear definitions and segmentation,” Chiu explained. “Some assets should be regulated like securities, while others should remain unregulated, like memecoins.”\n\nAccording to Chiu, memecoins should be treated as collectibles, much like Pokémon cards or stamps.\n\n\"Memecoins don’t have functionality behind them — they don’t use smart contracts,” Chiu said. “They’re just collectible items, so I see no reason to regulate them like financial products.\"\n\nGiven how unique crypto is as an asset class, some jurisdictions, such as Dubai and its Virtual Assets Regulatory Authority (VARA), have created their own separate regulator for virtual assets.\n\nWhen asked whether he felt Hong Kong should take the same path, Chiu recalled that in his early years in the LegCo, he had initially supported the creation of a digital version of the Securities and Futures Commission (SFC), the territory's markets regulator, called the “eSFC.”\n\nHowever, Hong Kong’s government has instead chosen to keep crypto oversight under existing financial regulators. The SFC has a dedicated digital asset team, while the Hong Kong Monetary Authority (HKMA) oversees stablecoins. Chiu said that for now, he’s satisfied with this arrangement, especially as the SFC expands its headcount even as the government calls for austerity elsewhere.\n\n“The government’s intention is to keep everything under the SFC. They will have a team inside the SFC, and they’re hiring. We just approved that in LegCo,” Chiu noted.\n\nChiu sees establishing OTC trading and custodian regulations as the next major priorities for the LegCo, while leaving building rules around crypto derivatives and leveraged trading to the SFC and crypto exchanges, rather than passing new laws.\n\nChiu considers crypto regulation a top-five priority, the others mostly being around Hong Kong's economic recovery and public safety issues.\n\nBut he acknowledges that not all of his fellow LegCo members share this same urgency regarding crypto regulation, with some wanting to focus on building more stringent investor protection mechanisms first, in order to to avoid another FTX or JPEX, both of whose failures left many in Hong Kong — and around Asia — with a big hole in their digital wallets\n\nHowever, there's only so much legislative bandwidth available. Hong Kong’s job market is weak, and the real estate sector is on the precipice of a painful correction. Hong Kong is also caught between the U.S. and Mainland China in Donald Trump's next trade war, making an economic recovery challenging for the territory.\n\n“Some LegCo members are big supporters of virtual assets, but not all, of course,” Chiu said. \"They all have different priorities.\"",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/10/hong-kong-s-patient-approach-to-regulating-crypto-will-pay-off-legco-s-duncan-chiu",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Duncan Chiu",
+                "Johnny Ng"
+            ],
+            "positions": [
+                "member of Hong Kong’s Legislative Council",
+                "chair of Technology and Innovation committee",
+                "fellow LegCo member"
+            ],
+            "companies": [
+                "FTX",
+                "JPEX"
+            ],
+            "organizations": [
+                "Hong Kong’s Legislative Council",
+                "Technology and Innovation committee",
+                "Monetary Authority of Singapore",
+                "U.S. Commodity and Futures Trading Commission",
+                "Virtual Assets Regulatory Authority",
+                "Securities and Futures Commission",
+                "Hong Kong Monetary Authority"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents Hong Kong's deliberate regulatory approach as advantageous, with clear support for crypto development and planned regulatory frameworks that balance investor protection with business growth."
+    }
+}

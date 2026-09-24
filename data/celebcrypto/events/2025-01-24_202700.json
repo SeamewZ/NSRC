@@ -1,0 +1,49 @@
+{
+    "title": "TRUMP Token Frenzy Drives Solana Stablecoin Supply to $10B, Record DEX Volumes",
+    "time": "2025-01-24T20:27:00",
+    "author": "Krisztian Sandor",
+    "summary": "While Circle's USDC led stablecoin growth on Solana, other issuers also expanded their stablecoins to the network recently, one analyst noted.",
+    "content": "Solana\nSOL\n$159.63\n, the layer-1 blockchain designed for high-speed and low-cost transactions, has been at the center of a trading frenzy with Donald Trump's memecoin driving stablecoin supply on the network to a fresh record-high.\n\nThe total stablecoin supply on Solana has surged to $10.5 billion, doubling since the start of January, according to data source Artemis. Circle's USDC led the increase surpassing $8 billion in total circulation on Solana, adding more than $4 billion this month, while Tether's USDT grew to $2 billion from $917 million, per Artemis. Stablecoins are a key piece of infrastructure in the crypto economy, serving as a popular source of liquidity for crypto trading.\n\nSolana and its ecosystem of in-built protocols built have become a bustling hub for trading and launching tokens in red-hot, fast-growing crypto sectors such as memecoins and crypto AI agents.\n\nThe network's stablecoin liquidity growth was steady over the past months as digital asset markets rejuvenated with crypto-friendly Trump's election victory, but it skyrocketed with the launch of TRUMP coin Jan. 17, the \"official\" memecoin tied to the U.S. President. Released on Solana, the token garnered massive trading volume across decentralized exchanges, driving transaction activity and liquidity inflows to the network.\n\nBefore the token got listed on popular centralized exchanges like Binance and Coinbase, trading with the TRUMP coin was first available on decentralized exchange (DEX) Meteora paired against the USDC stablecoin, David Duong and David Han from Coinbase Institutional Research, noted in a Friday report. That said, fast-moving traders first needed to first acquire USDC to buy the coin, driving USDC inflows to the network.\n\nAlong with stablecoin growth, trading volume on Solana-based decentralized exchanges (DEX) also soared to record highs of more than $25 billion daily, executing 74% of overall DEX trading volume on all blockchains, the report noted.\n\n\"Staggering numbers,\" Sean Farrell, head of digital asset research at Fundstrat, said in an X post.\n\nThe increased activity was reflected in Solana's native token (SOL) price, posting the largest gain through this week with 20% among the broad-market CoinDesk 20 Index members, vastly outperforming bitcoin's\nBTC\n$104,055.88\n2% advance.\n\nRead more: Solana Bull Bets Big on SOL Rallying to $400\n\nWhile USDC and Tether's USDT dominate the stablecoin market on Solana — as they do in the broader crypto landscape — there's a growing number of up-and-coming issuers that recently expanded to the blockchain, noted Tom Wan, head of data at Entropy Advisors.\n\nLast week, Hong Kong-based First Digital added native support on Solana for its $1.8 billion FDUSD fiat-backed stablecoin. DeFi lending behemoth Sky, formerly MakerDAO, also brought its yield-generating USDS stablecoin to the network in November.",
+    "url": "https://www.coindesk.com/markets/2025/01/24/trump-token-frenzy-drives-solana-stablecoin-supply-to-usd10b-record-dex-volumes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Duong",
+                "David Han",
+                "Sean Farrell",
+                "Tom Wan",
+                "Donald Trump"
+            ],
+            "positions": [
+                "head of digital asset research at Fundstrat",
+                "head of data at Entropy Advisors"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance",
+                "First Digital",
+                "Entropy Advisors",
+                "Fundstrat",
+                "Tether",
+                "Circle",
+                "Meteora",
+                "MakerDAO",
+                "Sky"
+            ],
+            "organizations": [
+                "Coinbase Institutional Research"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "USDC",
+            "USDT",
+            "BTC",
+            "TRUMP",
+            "FDUSD",
+            "USDS"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes record-breaking stablecoin supply growth, soaring DEX volumes, and significant price gains for SOL, all indicating strong positive market momentum."
+    }
+}

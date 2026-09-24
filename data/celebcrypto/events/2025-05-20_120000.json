@@ -1,0 +1,39 @@
+{
+    "title": "Kraken Rolls Out Regulated Crypto Derivatives in Europe",
+    "time": "2025-05-20T12:00:00",
+    "author": "Ian Allison",
+    "summary": "Kraken is offering derivatives trading in digital assets, compliant with Europe's Markets in Financial Instruments Directive (MiFIDII).",
+    "content": "Kraken is rolling out regulated crypto derivatives trading in Europe, compliant with the European Union's Markets in Financial Instruments Directive (MiFID II).\n\nThe crypto exchange's perpetual and fixed maturity futures contracts will now be available for retail and institutional customers in the European Economic Area (EEA), the firm said on Tuesday.\n\nPermission to trade crypto derivatives came via a Cypriot investment firm called Greenfield Wealth, which Kraken acquired earlier this year, securing the exchange a license from the Cyprus Securities and Exchange Commission (CySEC).\n\nThe crypto derivatives space has seen some significant moves lately, with big players like U.S.-listed Coinbase (COIN) acquiring leading trading platform Deribit. In Europe, exchanges such as Bitstamp and Gemini are entering the fold, while the MiFID II license held by FTX EU has been acquired by BackPack.\n\nKraken also made a $1.5 billion acquisition of NinjaTrader to drive derivatives trading in the U.S. As well as its European license, Kraken acquired Crypto Facilities, a U.K. FCA-regulated crypto futures platform, in 2019.\n\nKraken’s joined-up approach means the contracts European clients will have access to already command a relatively high volume, roughly between $1 billion and $2 billion per day, according to Shannon Kurtas, head of exchange at Kraken.\n\n“This is not offering access to a new trading venue or new contracts,” Kurtas said in an interview. “These are existing contracts that have material volume trading on them and along with that comes established liquidity, better execution costs and fiat rails for getting collateral in and out efficiently and cheaply.”\n\nThe recent introduction of Kraken’s Embed crypto connectivity application means neobanks and fintechs in Europe can also offer derivatives, as well as spot, to their clients, Kurtas said.\n\nPicking up licenses in smaller and arguably more nimble jurisdictions like Cyprus and Malta has become a well-trodden path for Crypto firms with deep pockets.\n\n“More nimble is probably a fair characterization,” Kurtas said. “Also, there's been an established set of firms, particularly in the CFD space, who traditionally have offered retail access to FX derivatives and CFDs, and so there's kind of a nexus of individuals, firms and know-how, if you will, in the area for these products.”",
+    "url": "https://www.coindesk.com/business/2025/05/20/kraken-rolls-out-regulated-crypto-derivatives-in-europe",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Shannon Kurtas"
+            ],
+            "positions": [
+                "head of exchange at Kraken"
+            ],
+            "companies": [
+                "Kraken",
+                "Greenfield Wealth",
+                "Coinbase",
+                "Deribit",
+                "Bitstamp",
+                "Gemini",
+                "FTX EU",
+                "BackPack",
+                "NinjaTrader",
+                "Crypto Facilities"
+            ],
+            "organizations": [
+                "European Union",
+                "European Economic Area (EEA)",
+                "Cyprus Securities and Exchange Commission (CySEC)",
+                "U.K. FCA"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Kraken expanding regulated crypto derivatives trading in Europe with established liquidity and better execution costs, indicating market growth and institutional adoption."
+    }
+}

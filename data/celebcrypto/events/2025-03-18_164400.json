@@ -1,0 +1,35 @@
+{
+    "title": "Multicoin's Samani Explains Why SOL ETF Could Trounce ETH's",
+    "time": "2025-03-18T16:44:00",
+    "author": "Danny Nelson",
+    "summary": "Solana generates a lot more fees with a much smaller market cap than Ethereum, Samani argued.",
+    "content": "Solana doesn't yet have an exchange-traded fund, but one of the asset's biggest backers is betting the Wall Street-friendly vehicle could come in 2025 — and believes it's well-positioned to trounce Ethereum's various similar products.\n\nMulticoin Capital's Kyle Samani — a major investor in SOL and countless subordinate protocols — has been publicly pressing the Securities and Exchange Commission (SEC) to look favorably upon a SOL ETF. His bullish pronouncements therefore might come as little surprise.\n\nBut onstage Tuesday at Blockworks' Digital Asset Summit in New York City, Samani explained his view why Solana is better placed to appeal to traditional investors than Ethereum did. It's all about the money: the fees being generated on-chain, compared to the value of the asset's totality.\n\n\"A lot of the reason why the ETH ETF didn't have a super strong reception was a lot of investors looked at ETH and said 'show me the fees,' Samani said.\n\nBy his telling, they didn't find much proof to justify investing at its high prices.\n\nStock traders often look at a company's price to earnings ratio in deciding whether it's over or undervalued; in other words, when to invest. Crypto doesn't have such a clean metric, but blockchains still have revenue and tokens that can be mushed together for similar effect.\n\nSamani believes Solana's theoretical P/E ratio is much healthier from an investing standpoint than Ethereum's. His onstage math placed Solana as trading at 30 to 50 times its P/E whereas Ethereum is trading closer to 1,000 times.\n\nSolana's P/E ratio is \"much more in line with high-growth tech stocks,\" Samani said.\n\nIf the logic plays out then traditional investors might be expected to believe Solana has more upside than Ethereum, and invest accordingly.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/multicoin-s-samani-explains-why-sol-etf-could-trounce-eth",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kyle Samani",
+                "Samani"
+            ],
+            "positions": [
+                "major investor"
+            ],
+            "companies": [
+                "Multicoin Capital"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "Blockworks' Digital Asset Summit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news presents bullish arguments about Solana's potential ETF outperforming Ethereum's based on favorable fee generation and P/E ratio comparisons."
+    }
+}

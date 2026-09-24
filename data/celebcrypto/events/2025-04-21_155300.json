@@ -1,0 +1,27 @@
+{
+    "title": "Strategy’s Bitcoin Buying Spree Has Minimal Impact on Prices, TD Cowen Says",
+    "summary": "TD Cowen analysts evaluated the Strategy’s treasury activity against bitcoin trading volume and price action over the past six months.",
+    "time": "2025-04-21T15:53:00",
+    "author": "Helene Braun",
+    "content": "Despite its growing footprint as a major corporate holder of bitcoin\nBTC\n$101,998.62\n, Strategy’s large-scale purchases of the cryptocurrency appear to have little, if any, influence on its price, according to a research paper by TD Cowen.\n\nThe findings published Monday challenge a popular theory among skeptics — that Strategy’s aggressive buying spree is helping prop up bitcoin’s value, and that without its continued demand, prices would falter. But based on the data, that argument doesn’t hold much weight, the analysts said.\n\nStrategy recently issued another 1.8 million shares under its at-the-market (ATM) offering, raising an additional $842 million in net proceeds. The funds were used to purchase 6,556 bitcoins, boosting the firm’s bitcoin yield this quarter by 1% to 12.1%. However, when measured against the broader bitcoin market, these purchases are just a drop in the bucket.\n\nAccording to the TD Cowen analysis, Strategy’s bitcoin buys have typically accounted for just 3.3% of weekly trading volume on average. Over the past 27 weeks, the company’s total activity amounted to 8.4% of volume — but this figure was skewed by a handful of weeks where its buying briefly surged past 20%. In eight of those weeks, Strategy didn’t buy any bitcoin at all.\n\n“Our conclusion is that in most periods, it doesn't appear plausible that Strategy's purchases could have had a sustained, material impact on the price of bitcoin,” TD Cowen analysts wrote.\n\nThe analysis further tested the relationship between Strategy’s bitcoin purchases and market prices — and found it to be statistically weak. The correlation coefficient between Strategy’s weekly bitcoin buy volume and BTC price at week’s end came in at just 25%. When comparing purchases to weekly price changes, the correlation rose only slightly to 28%.\n\nGiven a correlation coefficient close to 0 suggests no or weak correlation, these results indicate little to no link between Strategy’s actions and short-term market movements — let alone any kind of sustained price influence, the paper said.\n\nAnother common critique is that Strategy frequently purchases more bitcoin than is mined in a given period, implying it’s creating upward price pressure. While technically true, the analysis shows this argument misunderstands how the bitcoin market works.\n\nOver the past six months, secondary bitcoin trading has outpaced mining volume by nearly 20 times. Even removing Strategy’s purchases from the equation, secondary market activity still exceeds new supply by 17 times. In that environment, miners and buyers alike are price takers — not setters.\n\n“As we have seen, its purchases represent a very small percentage of total bitcoin trading volume; thus the idea that it is somehow having a profound or even notable impact on bitcoin price action seems incongruous, to us,” TD Cowen said.\n\nWhile Strategy’s influence on the bitcoin market may be overstated, the value it’s generated for shareholders is harder to ignore.\n\nLast week’s purchases created an estimated incremental gain of 5,281 bitcoins, bringing quarter-to-date gains to nearly $600 million. Since the beginning of 2023, Strategy has increased its bitcoin holdings by 306%, while only expanding its fully diluted share count by 94% — a strong showing for a company using bitcoin as a strategic treasury asset.\n\nWith $1.53 billion in remaining ATM capacity and board approval for a larger share authorization, Strategy is well-positioned to continue this strategy — without disrupting the very market it’s betting on.\n\n“We expect Strategy will continue to drive positive BTC Yield for the foreseeable future. While BTC Yield will likely fall to the extent bitcoin continues to rise in price, the dollar value of incremental gains from Strategy's Treasury Operations could remain highly advantageous to shareholders,” the analysts wrote.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/04/21/strategy-s-bitcoin-buying-spree-has-minimal-impact-on-prices-td-cowen-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Strategy",
+                "TD Cowen"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The analysis concludes that Strategy's bitcoin purchases have minimal impact on prices with weak statistical correlation, indicating no sustained market influence."
+    }
+}

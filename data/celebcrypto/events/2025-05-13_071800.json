@@ -1,0 +1,33 @@
+{
+    "title": "Donald Trump Jr. Squashes Rumors of ‘Truth Social’ Memecoin",
+    "time": "2025-05-13T07:18:00",
+    "author": "Shaurya Malwa",
+    "summary": "Any claims or attempts of a Truth Social token are by \"scammers,\" the younger Trump said in an X post.",
+    "content": "Donald Trump Jr. has denied viral rumors by crypto influencers that Truth Social — the conservative social media platform tied to former President Donald Trump — is launching a memecoin.\n\nInfamous influencer Ran Neuner pushed claims and a viral post on an upcoming Truth Social token, saying it was from the same team as the TRUMP memecoin.\n\n“There’s no truth whatsoever about Truth Social launching a memecoin,” Trump Jr. wrote on X late Monday. “Don’t be fooled by false information people are circulating.”\n\nThe clarification amid a wave of unaffiliated “Truth”-themed tokens appearing across Ethereum and Solana-based trading platforms, data from DEXTools shows.\n\nWLFI\n$0.1137\n— a DeFi project tied to the Trump family — reaffirmed Trump Jr.’s statement.\n\n“Don’t be fooled. There is no new Trump crypto project,” WLFI posted on X. “WLFI is the only DeFi project backed by the Trumps. Anyone else pushing fake tokens is just a scammer trying to take advantage of people who don’t know better.”\n\nThe Trump-backed Truth Social, launched in 2022, has never officially engaged with crypto despite growing speculation around political tokens.\n\nThe platform does intend to launch a rewards coin with an attached digital wallet, however, per a shareholder letter from late April.",
+    "url": "https://www.coindesk.com/markets/2025/05/13/donald-trump-jr-squashes-rumors-of-truth-social-memecoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump Jr.",
+                "Ran Neuner",
+                "Donald Trump"
+            ],
+            "positions": [
+                "former President"
+            ],
+            "companies": [
+                "Truth Social",
+                "WLFI",
+                "DEXTools"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "TRUMP",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports denial of a rumored memecoin launch and warns about scam tokens, which creates negative sentiment and could reduce market confidence in related crypto projects."
+    }
+}

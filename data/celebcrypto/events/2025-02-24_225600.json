@@ -1,0 +1,31 @@
+{
+    "title": "Ethereum’s Pectra Upgrade Goes Live on ‘Holesky’ Testnet, but Fails to Finalize",
+    "summary": "The upgrade was pushed out on Monday, but it wasn't entirely clear why the test network was not finalizing.",
+    "time": "2025-02-24T22:56:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum’s Pectra upgrade went live on the Holesky testnet on Monday but failed to finalize in the expected time.\n\nPectra was activated on the Holesky testnet at 21:55 UTC (4:55 p.m. ET), but did not initially finalize according to blockchain data.\n\nFinality is the state in which, once a transaction is confirmed and added to a block, it is immutable and cannot be reversed. A testnet is a network that copies a main blockchain (in this case Ethereum), and is used to test upgrades or new code before it goes to the main network.\n\nIt is not immediately clear why the Pectra upgrade did not finalize on Holesky. Ethereum developers were discussing Monday over the Eth R&D Discord channel what the issue could be.\n\nThis is not the first time an upgrade has not finalized on an Etheruem test network. In January 2024, when the developers were testing the Dencun upgrade, the hard fork did not initially finalize on the Goerli testnet.\n\nThe Pectra hard fork combines together 11 major upgrades, or \"Ethereum improvement proposals\" (EIPs), into one package. At the heart of this is EIP-7702, which is supposed to improve the user-experience of crypto wallets. The proposal, which was scribbled by Ethereum co-founder Vitalik Buterin in just 22 minutes, will allow wallets to have some smart contract capabilities, as part of a broader strategy to bring account abstraction to Ethereum — a concept that makes the usability of wallets a lot less clunky.\n\nAnother key proposal, EIP-7251, will allow validators to increase the maximum amount they can stake from 32 to 2,048 ETH. The proposal is supposed to ease some of the technicalities that validators who stake ETH face today: Those that stake more than their 32 ETH have to spread that across multiple validators, making the process a bit of a nuisance. By lifting the maximum stake limit and combining those validators, it could speed up the process of setting up new nodes.\n\nHolesky is the first of two testnets to run through a simulation of Pectra. The next test is supposed to occur on the Sepolia testnet on Mar. 5. But according to Christine Kim, a Vice President of Research at Galaxy, developers could delay it depending on the scale of today's issue.\n\nAfter Pectra goes live on both testnets, developers will ink in a final date to activate the upgrade on mainnet.\n\nPectra was originally on track to be Ethereum’s biggest upgrade to date, and it's the first big change to the blockchain in almost a year. Developers decided that Pectra was too ambitious, and they agreed to split the original package into two.\n\nRead more: Ethereum Developers Finally Schedule ‘Pectra’ Upgrade",
+    "url": "https://www.coindesk.com/tech/2025/02/24/ethereum-s-pectra-upgrade-goes-live-on-holesky-testnet-but-fails-to-finalize",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin",
+                "Christine Kim"
+            ],
+            "positions": [
+                "Vice President of Research"
+            ],
+            "companies": [
+                "Galaxy"
+            ],
+            "organizations": [
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The upgrade failed to finalize on the testnet, indicating technical issues, but this is a test environment and developers are investigating, with no immediate market impact mentioned."
+    }
+}

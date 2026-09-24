@@ -1,0 +1,40 @@
+{
+    "title": "Monero’s XMR Rockets 40% as XRP Leads Crypto Majors Gains",
+    "summary": "Trading volumes for XMR zoomed from an average of $50 million on a seven-day rolling basis to over $220 million in the past 24 hours",
+    "time": "2025-04-28T06:35:00",
+    "author": "Shaurya Malwa",
+    "content": "Crypto markets rose Monday, with bitcoin (BTC) trading above $94,000 and the CoinDesk 20, a measure of the performance of the largest cryptocurrencies, adding 2.2% by the middle of the European morning.\n\nXRP led majors' gains, rising almost 7%, driven by a ProShares ETF approval that will see three futures-tracked products go live on April 30. Cardano’s ADA gained more than 3% and BNB Chain’s BNB added 1%. Ether\nETH\n$3,345.73\nwas unchanged.\n\nOne exception to the relatively dormant market was privacy coin\nXMR\n$343.67\n, which surged more than 40% to as high as $371, a level not seen since May 2021. It was recently trading around $264, up 15% over 24 hours.\n\nTrading volumes zoomed from an average of $50 million on a seven-day rolling basis to over $220 million in the past 24 hours.\n\nThe behavior likely followed a possible exploit. On-chain research ZachXBT identified a \"suspicious transfer\" of 3,520 BTC ($330.7 million) that was then swapped into XMR. The sudden increase in demand for the relatively illiquid token caused the price to spike, ZachXBT said in post on X.\n\nThe privacy-centric token is based on the CryptoNote protocol, which ensures that all its transactions are unlinkable and untraceable.\n\nSentiment among traders carried over from last week with a near-term bullish view intact but with a cautious attitude as macroeconomic headwinds remain.\n\n“Bitcoin has maintained a relatively stable range above $92k as Trump's administration soften tariff policies of the crypto industry,” Jupiter Zheng, Partner, Liquid Fund and Research, HashKey Capital, told CoinDesk in a Telegram message. “This crypto-friendly attitude can boost Bitcoin and other cryptocurrencies to develop their own market direction, less correlated with US equities, and enable more growth and innovation in the industry.\"\n\nBroader equity markets showed mixed movements on Monday. A regional gauge advanced 0.6% while futures for the S&P 500 declined 0.6%, indicating a four-day US equities rally may snap. Gold pared last week’s gains after a record-breaking rally. Hong Kong's Hang Seng index was also flat as were other major indexes around Asia.\n\nUPDATE (April 28, 9:25 UTC): Adds possible exploit as reason for XMR surge in fifth paragraph; updates prices.",
+    "url": "https://www.coindesk.com/markets/2025/04/28/moneros-xmr-rockets-40-as-xrp-leads-crypto-majors-gains",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT",
+                "Jupiter Zheng"
+            ],
+            "positions": [
+                "Partner, Liquid Fund and Research"
+            ],
+            "companies": [
+                "ProShares",
+                "HashKey Capital",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Monero",
+            "XMR",
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "Cardano",
+            "ADA",
+            "BNB Chain",
+            "BNB",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto markets rising with bitcoin trading above $94,000, the CoinDesk 20 adding 2.2%, and multiple cryptocurrencies showing gains including XRP up 7% and XMR surging 40%."
+    }
+}

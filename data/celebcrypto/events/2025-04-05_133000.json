@@ -1,0 +1,40 @@
+{
+    "title": "Why OFAC Delisted Tornado Cash",
+    "summary": "The Treasury Department may not have had any choice but to remove its designation of the crypto mixer.",
+    "time": "2025-04-05T13:30:00",
+    "author": "Nikhilesh De",
+    "content": "Last month, the U.S. Treasury Department's Office of Foreign Asset Control delisted Tornado Cash from its sanctions list, months after an appeals court ruled that the watchdog could not designate the mixer's smart contracts.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nIn November 2024, a Fifth Circuit Court of Appeals panel ruled that the Treasury Department's Office of Foreign Assets Control (OFAC) couldn't sanction smart contracts tied to crypto mixer Tornado Cash. Last month, OFAC delisted Tornado Cash entirely, though it left developer Roman Semenov on its Specially Designated Nationals list.\n\nWhether Tornado Cash could be sanctioned to begin with has been a point of contention for the crypto industry. The Fifth Circuit ruling sparked a rally in the TORN token's price and raised hopes that it would be more difficult for the U.S. government to block legal uses of mixers.\n\nTornado Cash's delisting included smart contract addresses and other components of the overall mixer, and followed November's ruling. The delisting may have been an effort to preempt a court ruling that would force OFAC to permanently delist Tornado Cash.\n\nBacking up a little: A group of developers sued OFAC after Tornado Cash was first sanctioned with backing from crypto exchange Coinbase. That case, Van Loon v. Treasury, received an initial ruling from a district court judge that was favorable to the Treasury Department. On appeal, however, the Fifth Circuit ruled — somewhat narrowly — that smart contracts were outside the scope of OFAC's jurisdiction. The appeals court panel threw the case back down to the district court to sort out next steps.\n\nOn March 21, the same day it removed Tornado Cash from its sanctions list, OFAC filed a notice telling the court that the removal meant the legal case remedies cot \"the matter is now moot.\"\n\nPeter Van Valkenburgh, the executive director at Coin Center, said the November decision left OFAC with few options.\n\n\"They could have waited for the court to invalidate the sanctions or they could have delisted them themselves, and they delisted themselves,\" he said. \"You can read that two ways. You can read that as 'I want to try and preserve some ability to fight in the future or [make] some other listing,' [and] that's really tough because that Fifth Circuit opinion is really bad for them.\"\n\nThe other read for the delisting is OFAC just wanted the matter resolved quickly, he said.\n\nLeah Moushey, an attorney with Miller & Chevalier, said the court may choose to reject OFAC's filing because there's an open question as to whether Tornado Cash can be redesignated in the future. She pointed to a Supreme Court case with thematic similarities.\n\nThe court said in that case, FBI v. Fikre, that the U.S. government had not sufficiently proven that just removing an individual from a no-fly list meant he would never be placed back on the list.\n\nOFAC may have to show in this case that Tornado Cash can't be designated again.\n\nAnother open question for Tornado Cash is whether the delisting has any bearing on the U.S. Department of Justice's criminal case against developer Roman Storm. After the Fifth Circuit ruling, Storm's attorneys filed a motion asking the judge overseeing the criminal case to dismiss the indictment, but the judge has already ruled that the case should move forward.\n\n\"The judge determined that the scope of the alleged conduct went beyond the interactions with the smart contract,\" Moushey said. The Fifth Circuit ruling did not discuss Tornado Cash as an entity.\n\nVan Valkenburgh noted that OFAC left its sanctions against Semenov in place, and the DOJ will continue to try and argue Storm conspired to violate sanctions.\n\nThe Storm case is currently set for trial in July.\n\nWednesday\n\nThursday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!\n\nUPDATE (April 7, 2025, 16:10 UTC): Adds \"alleged\" to quote.",
+    "url": "https://www.coindesk.com/policy/2025/04/05/why-ofac-delisted-tornado-cash",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Semenov",
+                "Peter Van Valkenburgh",
+                "Leah Moushey",
+                "Roman Storm"
+            ],
+            "positions": [
+                "executive director",
+                "attorney"
+            ],
+            "companies": [
+                "Coinbase",
+                "Miller & Chevalier"
+            ],
+            "organizations": [
+                "U.S. Treasury Department",
+                "Office of Foreign Asset Control",
+                "Fifth Circuit Court of Appeals",
+                "CoinDesk",
+                "Coin Center",
+                "U.S. Department of Justice",
+                "Supreme Court"
+            ]
+        },
+        "cryptocurrencies": [
+            "TORN"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The Fifth Circuit ruling sparked a rally in the TORN token's price and raised hopes that it would be more difficult for the U.S. government to block legal uses of mixers."
+    }
+}

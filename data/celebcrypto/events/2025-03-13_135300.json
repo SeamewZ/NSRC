@@ -1,0 +1,34 @@
+{
+    "title": "Circle Plans to Bring $1B Tokenized Treasury Issuer Hashnote Under Bermuda License",
+    "time": "2025-03-13T13:53:00",
+    "author": "Krisztian Sandor",
+    "summary": "The stablecoin issuer acquired Hashnote earlier this year with plans to expand its USYC token as collateral option for institutional investors.",
+    "content": "Circle Internet Group, Inc., the company behind the $58 billion USDC stablecoin, said on Thursday it plans to bring its recently acquired Hashnote Tokenized Money Market Fund (TMMF) under Bermuda’s regulatory oversight. The fund, which manages nearly $1 billion assets, will be incorporated into Circle’s existing Digital Assets Business Act (DABA) license, the company said in a press release.\n\nHashnote issues USYC, the largest tokenized money market fund, according to rwa.xyz data. By integrating USYC with USDC, Circle aims to allow seamless movement between a yield-bearing asset and one of the most widely used stablecoins and boost USYC as a collateral option on exchanges, custodians and prime brokers.\n\nCircle CEO Jeremy Allaire emphasized Bermuda’s role in digital asset regulation, calling it a “natural choice” for USYC operations. The Bermuda Monetary Authority (BMA) first granted Circle a comprehensive license in 2021, and the firm has since maintained a presence in the jurisdiction.\n\n\"Digital financial products like USYC and USDC are strengthening Bermuda’s digital connectivity and our leadership in international business markets,\"\nPremier of Bermuda David Burt said in a statement.",
+    "url": "https://www.coindesk.com/business/2025/03/13/circle-plans-to-bring-usd1b-tokenized-treasury-issuer-hashnote-under-bermuda-license",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Allaire",
+                "David Burt"
+            ],
+            "positions": [
+                "CEO",
+                "Premier of Bermuda"
+            ],
+            "companies": [
+                "Circle Internet Group, Inc.",
+                "Hashnote",
+                "rwa.xyz"
+            ],
+            "organizations": [
+                "Bermuda Monetary Authority (BMA)"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USYC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Circle's expansion of institutional investment options and regulatory integration, which indicates market growth and increased institutional adoption."
+    }
+}

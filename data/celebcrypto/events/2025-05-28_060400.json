@@ -1,0 +1,28 @@
+{
+    "title": "Sui Network Steps in to Compensate Cetus Losses in Full After $223M Exploit",
+    "summary": "The Sui Foundation has extended a loan to Cetus to fully reimburse affected users, with repayment contingent on an upcoming on-chain community vote.",
+    "time": "2025-05-28T06:04:00",
+    "author": "Shaurya Malwa",
+    "content": "Cetus Protocol, the largest decentralized exchange (DEX) on the Sui blockchain, has secured a loan from the Sui Foundation to compensate users in full following a $223 million exploit last week.\n\nThese funds apply only to cover the bridged assets, and are separate from the frozen funds subject to an onchain community vote.\n\n“Using our cash and token treasuries, we are now in a position to fully cover the stolen assets currently off-chain if the locked funds are recovered through the upcoming community vote,” Cetus said in an X post.\n\n“This includes a critical loan from the Sui Foundation, making a 100% recovery for all affected users possible.”\n\nThe recovery plan hinges partly on the outcome of a pending on-chain governance proposal, which would authorize the use of frozen funds to complete user reimbursements.\n\n“These are extraordinary measures taken to protect the Sui community,” the Sui Foundation said in a statement, adding that a “full recovery is possible” with the community’s support.\n\nThe exploit of Cetus last week involved an attacker manipulating spoof tokens, such as BULLA, to exploit flawed price curves and reserve logic, allowing them to drain SUI, USDC, and other real assets from liquidity pools without depositing equivalent value.\n\nAt the time, over $162 million in stolen tokens were frozen on-chain, while the remainder were bridged out through multiple paths. The attacker’s wallet (which is still active) was last seen holding over 12.9 million SUI, with additional assets likely swapped or obfuscated across networks.\n\nIn response, Cetus paused its smart contracts and initiated an investigation, while its governance token, CETUS, dropped nearly 40% at the time. Trading activity across Sui’s DeFi ecosystem slowed amid liquidity concerns and broader scrutiny of protocol safety.\n\nNow, with the new secured loan from the Sui Foundation, Cetus says it is in a position to begin reimbursing users immediately.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/sui-network-steps-in-to-compensate-cetus-losses-in-full-after-223m-exploit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Cetus Protocol"
+            ],
+            "organizations": [
+                "Sui Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "USDC",
+            "CETUS",
+            "BULLA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The Sui Foundation's loan to fully compensate users after a major exploit demonstrates strong institutional support and confidence in the ecosystem, which is positive for market sentiment."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "title": "XRP Rockets 11% as Bitcoin Starts New Year With Bullish Bang",
+    "time": "2025-01-02T08:02:00",
+    "author": "Shaurya Malwa",
+    "summary": "South Korean trading volumes supported an outperformance in XRP, as a CoinDesk analysis noted earlier this week.",
+    "content": "Crypto majors zoomed higher in the past 24 hours as the market entered a widely expected bullish year, with bitcoin\nBTC\n$104,608.94\ninching above $95,000 to shake off losses from last week.\n\nA CoinDesk analysis from Tuesday flagged unusually high trading volumes for XRP stemming from South Korean exchanges, which has historically acted as a harbinger for price volatility with a bias to the upside.\n\nXRP surged 11% to lead growth among majors as of Thursday, led by $1.3 billion worth of trading volumes on Korea-focused exchange UpBit.\n\nAmong other majors, Cardano’s ADA, Solana’s SOL and Chainlink’s LINK added as much as 8%. Ether\nETH\n$3,495.36\nand BNB Chain’s BNB rose 3%, while memecoins\nDOGE\n$0.1623\nand\nSHIB\n$0.0₅9068\nadded 5%.\n\nThe broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens by market capitalization, minus stablecoins, rose 5.8%.\n\nThe anticipation of a more crypto-friendly administration under incoming U.S. president Donald Trump, who has made campaign promises for crypto friendly policies and a strategic bitcoin reserve, is largely fuelling optimism for 2025.\n\nThe Bitcoin halving event in 2024 historically led to a bullish trend in the following year due to the reduced supply of new tokens entering the market. The broader crypto market also tends to follow a four-year cycle influenced by the halvings — with memecoins, AI and real-world assets expected to be market leaders.\n\nPredictions aren’t limited to mere cycles, however. Firms such as Galaxy Research predict large-scale institutional, corporate, and nation-state adoption in bitcoin investments, with at least five Nasdaq-100 companies and five nation-states expected to adopt the asset.\n\nThe firm targets a $185,000 level for bitcoin and $5,500 for ether\nETH\n$3,495.36\nthis year.\n\nSingapore-based QCP Capital mirrors that sentiment: “For 2025, while optimism surrounds crypto-friendly regulations post-Trump inauguration, we think the key catalyst may come in January as institutions readjust asset allocations.”\n\n“With BTC now broadly adopted by a broad spectrum of institutions, allocations are likely to increase, strengthening Bitcoin dominance, stabilizing spot movements, and shifting volatility dynamics closer to equities,” the firm said in a Telegram broadcast on Tuesday. “Expect stronger demand for downside puts for hedging and more covered call selling on the topside.”\n\nSome say bitcoin becoming a mainstream asset may further reduce its infamous volatility, leading to even more adoption among institutional firms.\n\n“Mainstream's effect on crypto is most evident through BTC's high correlation to the SPX, remaining the most correlated asset as we end 2024,” Augustine Fan, head of insights at SOFA, told CoinDesk in a Telegram message. “Another sign of BTC heading towards being a mainstream asset class is its declining realized volatility, which would eventually add more diversification benefits and alpha to the traditional 60/40 portfolio.”\n\n“Volatility should continue to decline as an asset class matures, as our long-standing view is that crypto would be no different,” Fan added.",
+    "url": "https://www.coindesk.com/markets/2025/01/02/xrp-rockets-11-as-bitcoin-starts-new-year-with-bullish-bang",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "head of insights",
+                "incoming U.S. president"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Galaxy Research",
+                "QCP Capital",
+                "SOFA",
+                "UpBit"
+            ],
+            "organizations": [
+                "BNB Chain",
+                "Nasdaq-100"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "ADA",
+            "Cardano",
+            "SOL",
+            "Solana",
+            "LINK",
+            "Chainlink",
+            "ETH",
+            "Ether",
+            "BNB",
+            "DOGE",
+            "SHIB"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes widespread price increases across major cryptocurrencies, institutional adoption expectations, and positive market sentiment driven by anticipated crypto-friendly policies."
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "title": "The Next Ethereum Will Come From a Dorm Room (or a College Dropout)",
+    "time": "2025-05-01T14:46:00",
+    "author": "Antonio Gomes",
+    "summary": "Many of the most successful crypto projects come from founders who don’t wait for permission from institutions, says Antonio Gomes, President of the Blockchain Education Network.",
+    "content": "Before Ethereum had a market cap, it was just an idea in a college dropout’s head.\n\nCrypto’s biggest companies aren’t being planned in boardrooms. They’re being built in dorm rooms, group chats, and hackathons by founders who don’t wait for permission (many of them don’t finish college at all). This is not a coincidence. It’s a repeat of a pattern we’ve seen before: bold ideas, early action, and zero regard for institutional timelines.\n\nIn 2014, a group of students launched the Blockchain Education Network (BEN) to connect students exploring bitcoin and blockchain across college campuses. Within a year, BEN had grown to over 160 chapters in more than 35 countries.\n\nWhat started as grassroots education quickly became a launchpad for builders.\n\nBEN became a catalyst for its core members and for a global cohort of students who saw crypto as a blank canvas. Some dropped out. Others stayed in. Nearly all started building before the rest of the world caught on. Projects fostered by that ecosystem have gone on to collectively reach over $20 billion in peak valuations, including IOTA, Optimism, Bitso, Augur, Wanchain, Notional and Roll.\n\nThat same spirit of early action led me and Erick Pinos, former president of MIT’s Bitcoin Club, to co-found Dropout Capital, backing young, technical founders who move before the world notices.\n\nErick Pinos will speak at Consensus 2025 on May 16 in a panel titled “The Talent Pipeline: How to Find a Job in Crypto.”\n\nAs Pinos puts it:\n\n“Over the past seven years we’ve met with countless student founders and at least half a dozen have become unicorns…we’re excited to give others the opportunity to be a part of funding the next generation of blockchain innovation.”\n\nThis urgency isn’t new. It’s the same drive that shaped early tech giants. Steve Jobs (Apple), Steve Wozniak (Apple), Jack Dorsey (Twitter, Square), and Patrick & John Collison (Stripe) all left college behind to build companies that redefined their industries.\n\nWeb3 founders are following the same path\n\nSome of crypto’s most influential founders started the same way:\n\n• Vitalik Buterin dropped out of the University of Waterloo to launch Ethereum (peaked at $500 billion+)\n\n• Charles Hoskinson left the University of Colorado before founding Cardano (peaked at $70 billion)\n\n• Jed McCaleb, co-founder of Ripple and Stellar, dropped out of UC Berkeley (Ripple peaked at $130 billion)\n\n• Jesse Powell left Cal State to build Kraken (valued at $10 billion)\n\n• Shayne Coplan dropped out of NYU in his first semester to start Polymarket (estimated at $1 billion)\n\n• Joey Krug left Pomona to co-found Augur (peaked at $1 billion)\n\n• Jeremy Gardner, who co-founded Augur with Krug, dropped out of the University of Michigan (peaked at $1 billion)\n\n• Jinglan Wang left Wellesley to build Eximchain and later helped lead Optimism (peaked at $11 billion+)\n\n• Noah Tweedale, co-founder of Pump.fun, never enrolled (estimated at $1 billion+)\n\nAt Dropout Capital, we’ve backed early-stage companies including:\n\n• Vana, founded at MIT, building a decentralized data marketplace\n\n• SatLayer, started by MIT alumni and former VCs, creating Bitcoin-native compute for AI\n\n• Tenderize, launched by students at Marquette University, building a liquid staking marketplace\n\n• Algebra.Finance, founded by a Ph.D. in Computer Science with a background in mobile operating systems, rethinking on-chain prediction infrastructure\n\nOne place where these stories, and the stories of the next generation are already being shared is ChainStories, a podcast I host alongside Erick.\n\nChainStories takes listeners behind the scenes of some of the most successful projects in crypto, including Plume Network, YesNoError, Algebra.Finance, Virtuals.io, TON, Horizon Labs, and many others, breaking down how real companies are built from idea to launch, and helping founders and VCs understand the decisions, tradeoffs, and risks that happen long before anyone notices.\n\nThe future of crypto isn’t being theorized at conferences or slow-walked through corporate committees.\n\nIt’s being built by people who move early, take risks, and start building before the world even realizes what’s happening. And, if history is any guide, the companies that matter most won’t be the ones that waited.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/01/the-next-ethereum-will-come-from-a-dorm-room-or-a-college-dropout",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Antonio Gomes",
+                "Erick Pinos",
+                "Steve Jobs",
+                "Steve Wozniak",
+                "Jack Dorsey",
+                "Patrick Collison",
+                "John Collison",
+                "Vitalik Buterin",
+                "Charles Hoskinson",
+                "Jed McCaleb",
+                "Jesse Powell",
+                "Shayne Coplan",
+                "Joey Krug",
+                "Jeremy Gardner",
+                "Jinglan Wang",
+                "Noah Tweedale"
+            ],
+            "positions": [
+                "President of the Blockchain Education Network",
+                "former president of MIT's Bitcoin Club",
+                "co-founder"
+            ],
+            "companies": [
+                "Apple",
+                "Twitter",
+                "Square",
+                "Stripe",
+                "Ethereum",
+                "Cardano",
+                "Ripple",
+                "Stellar",
+                "Kraken",
+                "Polymarket",
+                "Augur",
+                "Eximchain",
+                "Optimism",
+                "Pump.fun",
+                "Vana",
+                "SatLayer",
+                "Tenderize",
+                "Algebra.Finance",
+                "Plume Network",
+                "YesNoError",
+                "Virtuals.io",
+                "TON",
+                "Horizon Labs"
+            ],
+            "organizations": [
+                "Blockchain Education Network",
+                "MIT's Bitcoin Club",
+                "Dropout Capital",
+                "University of Waterloo",
+                "University of Colorado",
+                "UC Berkeley",
+                "Cal State",
+                "NYU",
+                "Pomona",
+                "University of Michigan",
+                "Wellesley",
+                "Marquette University",
+                "ChainStories"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "IOTA",
+            "Cardano",
+            "Ripple",
+            "Stellar"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights successful crypto projects with billions in valuations and emphasizes early innovation and growth potential in the crypto space."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Smokey The Bera to Make Berachain More Resilient to Crypto Volatility",
+    "time": "2025-05-15T15:36:00",
+    "author": "Tim Craig",
+    "summary": "Market reflexivity is a big problem in DeFi.",
+    "content": "Berachain is focused on building “decorrelated populations” of users to guard against market reflexivity, said Smokey the Bera, theblockchain’s pseudonymous founder, onstage at CoinDesk’s Consensus 2025 event in Toronto.\n\nReflexivity is a big concern in decentralised finance and crypto. It refers to the self-reinforcing effect of market sentiment. Rising prices often attract buyers and create a positive feedback loop. However, the same process can operate in reverse leading to a catastrophic collapse in prices.\n\nBerachain’s plan for the second and third quarters is to support profitable businesses that exist in web2 and are uncorrelated to the existing DeFi and crypto markets.\n\nDoing so will help Berachain guard against reflexivity, helping it weather market volatility and retain deep liquidity, Smokey said.\n\nSmokey was joined by Jason Atkins from market making firm Auros, when they discussed all things to do with liquidity — essentially how easily and quickly a crypto asset can be bought or sold without a significant impact on its price.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/15/smokey-the-bera-to-make-berachain-more-resilient-to-crypto-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Smokey the Bera",
+                "Jason Atkins"
+            ],
+            "positions": [
+                "pseudonymous founder",
+                "market making firm"
+            ],
+            "companies": [
+                "Auros"
+            ],
+            "organizations": [
+                "Berachain",
+                "CoinDesk",
+                "Consensus 2025"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Berachain's plan to build decorrelated populations and support profitable web2 businesses to guard against market reflexivity and weather volatility, which indicates proactive measures to maintain market stability and confidence."
+    }
+}

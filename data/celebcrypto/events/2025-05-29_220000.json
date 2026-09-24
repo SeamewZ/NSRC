@@ -1,0 +1,45 @@
+{
+    "title": "SEC Files to Dismiss Long-Running Lawsuit Against Binance",
+    "summary": "The SEC sued Binance in June 2023, but moved to pause the case after Donald Trump retook the Oval Office.",
+    "time": "2025-05-29T22:00:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Securities and Exchange Commission moved to drop its long-running lawsuit against crypto exchange Binance on Thursday, without providing an explanation in a court filing.\n\nThe SEC and Binance filed a joint motion, noting that the case had already been paused while the SEC's new crypto task force worked to \"develop a regulatory framework for crypto assets.\"\n\n\"In the exercise of its discretion and as a policy matter, the Commission believes the dismissal of this Litigation is appropriate,\" the joint filing said. \"... the Commission's decision to seek dismissal of this Litigation does not necessarily reflect the Commission's position in any other litigation or proceeding.\"\n\nThe SEC has not published a framework yet, though lawmakers in the U.S. House of Representatives introduced their formal bill to define how the SEC and its sister agency, the Commodity Futures Trading Commission, would each oversee digital assets earlier on Thursday.\n\nThe parties want the case dismissed with prejudice, meaning the SEC would not be able to bring this lawsuit against Binance again in the future. The filing also includes provisions to block Binance or its affiliated entities and executives from filing a suit or complaint against the SEC tied to the lawsuit, which was brought in June 2023 against Binance, Binance.US and Binance founder Changpeng CZ Zhao.\n\nJudge Amy Berman Jackson, who's overseeing the case, previously ruled that the SEC had brought plausible charges against the exchange and allowed most the lawsuit to proceed last year.\n\nIn a statement, an external spokesperson for Binance.US said they were \"pleased that the SEC fully dismissed its charges against Binance.US, confirming what we have always known — that the company did not violate U.S. securities laws.\"\n\n\"Today’s news is a major milestone for our company, as putting this matter to rest allows us to focus entirely on growing our business and work on restoring our relationships that were impacted by the SEC,\" the statement said. \"We are excited about the future of Binance.US and crypto in the U.S. and look forward to continuing to offer access to crypto in the U.S., while maintaining our commitment to compliance and our customers.\"\n\nThursday's filing just marks the latest withdrawal for the SEC, which already moved to drop over a dozen other investigations and lawsuits. Prior to 2025, the SEC was investigating non-fungible token marketplaces and suing crypto exchanges. Binance was just one exchange the SEC alleged was illegally operating as an unregistered broker, clearinghouse and exchange. Others included Coinbase and Kraken.\n\nThe SEC's about-turn came after Donald Trump retook office as the U.S. President, appointing Commissioner Mark Uyeda as acting chair and nominating Paul Atkins to be the agency's full chair. Atkins was confirmed and sworn into office last month.\n\nLast week, Binance announced it would list USD1, a stablecoin issued by World Liberty Financial, a crypto company tied to Trump, some of Trump's children and some of his affiliates.\n\nEarlier Thursday, SEC Commissioner Hester Peirce said during an appearance at Bitcoin 2025 in Las Vegas that some crypto investors should not expect a bailout or government protection if they invest in speculative digital assets.\n\nUPDATE (May 29, 2025, 22:08 UTC): Adds additional detail.\n\nUPDATE (May 29, 22:45): Adds Binance.US statement.\n\nUPDATE (May 29, 23:05): Adds USD1 note.",
+    "url": "https://www.coindesk.com/policy/2025/05/29/sec-files-to-dismiss-regulators-long-running-lawsuit-against-binance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Changpeng CZ Zhao",
+                "Mark Uyeda",
+                "Paul Atkins",
+                "Hester Peirce"
+            ],
+            "positions": [
+                "U.S. President",
+                "acting chair",
+                "Commissioner",
+                "external spokesperson",
+                "founder"
+            ],
+            "companies": [
+                "Binance",
+                "Binance.US",
+                "World Liberty Financial",
+                "Coinbase",
+                "Kraken"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "U.S. House of Representatives",
+                "Commodity Futures Trading Commission",
+                "Bitcoin 2025"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's dismissal of its long-running lawsuit against Binance removes regulatory uncertainty and is described as a 'major milestone' that allows the company to focus on growth, which typically boosts market confidence."
+    }
+}

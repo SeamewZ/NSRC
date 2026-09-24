@@ -1,0 +1,28 @@
+{
+    "title": "Ethereum Preps for Biggest Code Change Since the Merge With Pectra Upgrade",
+    "summary": "The upgrade is focused on making the Ethereum blockchain more user-friendly and efficient.",
+    "time": "2025-05-05T14:21:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum developers are preparing for Wednesday's much anticipated Pectra upgrade, set to bring the biggest code change to the blockchain since the Merge in 2022.\n\nPectra – a blend of the names Prague + Electra – consists of two upgrades happening on Ethereum’s consensus and execution layers at the same time.\n\nThe upgrade is focused on making the Ethereum blockchain more user-friendly and efficient. Pectra consists of 11 major code changes, or \"Ethereum improvement proposals\" (EIPs), that will improve the staking experience on the network, introduce new wallet features, and update the functionality of the blockchain.\n\nOne of the main changes coming to the blockchain is EIP-7702, which gives wallets smart contract capabilities, moving them towards a technological trend known as “account abstraction.” The change will allow wallets to add user-friendly features, like the ability to pay gas fees with currencies other than ether (ETH.)\n\nAnother major change, known as EIP-7251, will make the staking experience for validators easier. After Pectra, validators will be able to increase the maximum amount of ETH they can stake from 32 to 2,048, meaning those who stake across multiple validators can now consolidate them under one node. This should mean that it will take less time to spin up a new node and alleviate the cumbersome experience of setting up the equipment.\n\nSome of the changes in Pectra have been planned for a few years, even though developers originally targeted this all to go live in 2024. However, due to the complexities of the code changes, Pectra was delayed until the first quarter of 2025. After the initial delay, developers tested the upgrade twice on two different testnets and both networks experienced bugs, requiring the developers to create a third test, delaying the upgrade once again.\n\n“The Pectra fork is coming to Ethereum mainnet soon! Please don't forget to update your nodes,” wrote Ethereum Foundation devops engineer Parithosh Jayanthi on X.\n\nThe price of ETH has fallen nearly 42% in the last 12 months, while the broader market gauge, CoinDesk 20 Index, dipped about 1.5%.\n\nRead more: Ethereum Developers Lock in May 7 for Pectra Upgrade",
+    "url": "https://www.coindesk.com/tech/2025/05/05/ethereum-preps-for-pectra-upgrade-biggest-code-change-since-the-merge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Parithosh Jayanthi"
+            ],
+            "positions": [
+                "Ethereum Foundation devops engineer"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While the news describes positive technical upgrades for Ethereum, it also mentions ETH price has fallen 42% in the last 12 months and the upgrade experienced multiple delays and bugs, creating mixed signals about market impact."
+    }
+}

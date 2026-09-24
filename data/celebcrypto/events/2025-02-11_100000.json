@@ -1,0 +1,30 @@
+{
+    "title": "Crypto Investors Lost Over $500M in Memecoin Rug Pulls and Scams in 2024",
+    "time": "2025-02-11T10:00:00",
+    "author": "Oliver Knight",
+    "summary": "The majority of scams involved gaining access to notable people's social media accounts through social engineering.",
+    "content": "More than $500 million was lost to memecoin rug pulls and scams in 2024, according to a report by crypto intelligence platform Merkle Science.\n\nThe most prolific scams involved social engineering, which is a technique that relies on impersonation and manipulation to gain access to someone's personal data - often in this case celebrities or well-known tech figures.\n\nOne of these cases saw scammers compromise French footballer Kylian Mbappe's X account. Once they gained access, a link was posted to a nefarious memecoin which rose to a $460 million market cap before being rug pulled.\n\nThere was also a case involving music artist Wiz Khalifa that targeted his 35.7 million followers on X. A fake WIZ token was promoted, rising to a $3.4 million market cap before plummeting to zero.\n\n\"These scams aren’t just opportunistic—they’re highly coordinated operations that exploit trust at scale,\" Robert Whitaker, director of law enforcement affairs at Merkle Science told CoinDesk.\n\n\"Hackers are no longer just breaching wallets or exchanges; they’re hijacking the credibility of celebrities and industry leaders to manipulate markets in real time. Our research shows that meme coin rug pulls alone accounted for hundreds of millions in losses this year, with platforms like X being the primary battleground.\"\n\nMerkle Science's report reveals that 75% of all attacks took place on X and 19% on YouTube. 44% of the reported social engineering scams resulted in rug pulls, while phishing attacks was also attributed to 44% of all scams.",
+    "url": "https://www.coindesk.com/business/2025/02/11/crypto-investors-lost-over-usd500m-in-memecoin-rug-pulls-and-scams-in-2024",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kylian Mbappe",
+                "Wiz Khalifa",
+                "Robert Whitaker"
+            ],
+            "positions": [
+                "director of law enforcement affairs"
+            ],
+            "companies": [
+                "Merkle Science",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "WIZ"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports over $500 million lost to memecoin rug pulls and scams, describing coordinated operations that exploit trust and manipulate markets, indicating negative market impact."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "World Liberty's Stablecoin Now Available on Multiple Networks Via Chainlink",
+    "summary": "The integration, initially supporting Ethereum and BNB Chain, addresses cross-chain security concerns and aims to expand USD1’s reach, the firms said.",
+    "time": "2025-05-16T17:32:00",
+    "author": "Francisco Rodrigues",
+    "content": "World Liberty Financial’s USD1 stablecoin is now operable across multiple blockchains through an integration with Chainlink’s Cross-Chain Interoperability Protocol (CCIP), the companies announced Friday.\n\nThat’s according to World Liberty Financial’s team, Chainlink co-founder Sergey Nazarov, and the son of U.S. President Donald Trump, Eric Trump, who announced the cross-chain capabilities at Consensus 2025.\n\nUSD1, a U.S. dollar-backed stablecoin launched by the decentralized finance protocol inspired by Trump, has seen significant growth since its debut, reaching $2 billion in market capitalization. The stablecoin was used to close MGX’s $2 billion investment in Binance.\n\nIt still trails behind industry leaders Tether and Circle, whose leading stablecoins have a $151 billion and $60.6 billion market cap, respectively.\n\nThe token is backed by short-term U.S. Treasuries and fiat reserves held by BitGo Trust. The stablecoin was for now largely siloed within single blockchain ecosystems, yet the CCIP integration will allow it to move freely across blockchains.\n\nEthereum and BNB Chain are the first blockchains being integrated, though additional blockchain support is expected in the future. The integration, the firms say, tackles a long-standing hurdle in the stablecoin market: cross-chain security.\n\nHistorically, vulnerabilities in cross-chain bridges have cost users nearly $3 billion, they added.\n\n“Chainlink's battle-tested infrastructure delivers the institutional-grade security and extensive reach needed to deliver USD1 into the hands of millions across a growing number of active, on-chain ecosystems,” said Zach Witkoff, co-founder of World Liberty Financial.\n\n\"Chainlink is absolutely critical to merging traditional finance and decentralized finance, which has been our mission at World Liberty Financial ever since the start,\" said World Liberty co-founder Zak Folkman. \"We don't see a world where DeFi exists in its own ecosystem and traditional finance carries on but we believe in a very short amount of time that they will, in fact, merge and just be the future of finance. So to that end, World Liberty Financial, our USD1 token is now bridgeable across chain thanks to the incredible people at CCIP which have enabled this cross chain compatibility, currently.\"\n\nThe collaboration builds on an earlier integration where Chainlink’s price oracles were used to support World Liberty’s deployment of an Aave v3 instance.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/world-liberty-s-stablecoin-now-available-on-multiple-networks-through-chainlink-s-interoperability-protocol",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sergey Nazarov",
+                "Eric Trump",
+                "Donald Trump",
+                "Zach Witkoff",
+                "Zak Folkman"
+            ],
+            "positions": [
+                "co-founder",
+                "co-founder",
+                "U.S. President",
+                "co-founder",
+                "co-founder"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "Chainlink",
+                "Binance",
+                "BitGo Trust",
+                "MGX",
+                "Tether",
+                "Circle"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USD1",
+            "Ethereum",
+            "BNB Chain"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration addresses cross-chain security concerns and expands USD1's reach across multiple blockchains, indicating positive market development and institutional adoption."
+    }
+}

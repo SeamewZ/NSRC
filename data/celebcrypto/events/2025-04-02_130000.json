@@ -1,0 +1,30 @@
+{
+    "title": "Creators of DeFi Firm Aave Simplify Its Family Self Custody Wallet",
+    "time": "2025-04-02T13:00:00",
+    "author": "Ian Allison",
+    "summary": "Avara, the parent company of Aave, is allowing users of its Family Wallet to onboard with email or SMS, rather than messing around with seed phrases.",
+    "content": "Avara, the parent company of decentralized finance (DeFi) platform Aave, has simplified its self-custody Family Wallet by replacing complicated seed phrases with emails and SMS, making wallet creation and recovery painless in a bid to onboard more users.\n\nFamily allows users to manage assets across various Ethereum Virtual Machine (EVM) networks, using passkeys like fingerprint or face scans, tied to the users’ device, Avara said in an emailed statement. Avara has also launched a new web dashboard for the Family Wallet where users can manage their account, as well as send, receive, and manage assets, the firm said.\n\nHolders of digital assets are rightly skittish about leaving their crypto on exchanges or in anyone else’s custody, particularly after events like the collapse of FTX. That said, self-custody wallets place the full responsibility of key management on the user which can be intimidating for newcomers.\n\n“For the past two years, we've been working on Family Accounts, a new feature where users that download the Family iOS application of the wallet can simply sign up with email or a phone number,” said Avara CEO Stani Kulechov in an interview.\n\nAvara has also released a ConnectKit function aimed at developers who want to integrate the Family Wallet, Kulechov added.\n\nOther seedless wallets in the market such as Zengo, Argent and Coinbase Wallet, use techniques like multi-party computation, secure enclaves, smart contracts and biometrics to do the job.",
+    "url": "https://www.coindesk.com/business/2025/04/02/creators-of-defi-firm-aave-simplify-its-family-self-custody-wallet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Stani Kulechov"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Avara",
+                "Aave",
+                "Zengo",
+                "Argent",
+                "Coinbase Wallet",
+                "FTX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes simplification of wallet onboarding which aims to bring more users into the cryptocurrency ecosystem, indicating positive market development."
+    }
+}

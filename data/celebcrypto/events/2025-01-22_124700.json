@@ -1,0 +1,48 @@
+{
+    "title": "Dogecoin Sinks After Brief D.O.G.E Pump; SOL, HYPE Lead Crypto Rebound",
+    "time": "2025-01-22T12:47:00",
+    "author": "Shaurya Malwa",
+    "summary": "Crypto majors showed mixed movement as bitcoin (BTC), ether (ETH) and BNB Chain’s bnb gained under 1% in the past 24 hours, while Solana’s SOL and XRP surged as much as 7%.",
+    "content": "DOGE\n$0.1654\nretraced Tuesday's gains while Solana’s SOL jumped 8% higher as crypto markets rebounded on Wednesday to reverse some losses from earlier in the week.\n\nDOGE fell 7.5% amid profit taking, data shows, to trade at 36 cents in European noon hours, paring gains after a jump from 34 cents to 38 cents on Tuesday — when it surged following the display of its token’s logo on the Elon Musk-led Department of Government Efficiency website.\n\nThe website was later updated in Asian morning hours Wednesday to show another animated image of a dog. It was updated again in the afternoon to showcase only its name and a dollar sign.\n\nCrypto majors showed mixed movement as bitcoin\nBTC\n$104,608.94\n, ether\nETH\n$3,495.36\nand BNB Chain’s BNB gained under 1% in the past 24 hours, while Solana’s SOL and XRP surged as much as 7%. The broad-based CoinDesk 20 (CD20) returned 2.57%.\n\nHyperliquid’s HYPE token zoomed 13%, returning the most among large-cap tokens above a $5 billion capitalization. As such, traders look to Donald Trump’s executive orders and tariff decisions for cues on market positioning.\n\n“Crypto markets have dipped as traders take profit and wait to see the potential impact of tariffs on Mexico and Canada, which could impact stock markets when the US stock market opens tomorrow,” Jeff Mei, COO at BTSE said in a Telegram message.\n\n“However, we are optimistic that in the coming days and weeks, Trump will issue executive orders and roll back anti-crypto policies set by the Biden administration. With the recent appointment of pro-crypto Caroline Pham as CFTC Commissioner, we're already seeing positive signals,” Mei added.\n\nTraders such as FxPro’s Alex Kuptsikevich mirrored the thoughts in an email to CoinDesk.\n\n“The market’s rapid recovery is indicative of continued interest in risk assets. Bitcoin traded near the $105K mark. It was quickly bought back on Tuesday when it fell to $101K, but when it reached the $107K level early Wednesday afternoon, the market shifted to sellers. Clearly, optimism is high in the market, but an additional factor is needed for new momentum,” Kuptsikevich said.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/dogecoin-sinks-after-brief-d-o-g-e-pump-sol-hype-lead-crypto-rebound",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk",
+                "Donald Trump",
+                "Jeff Mei",
+                "Alex Kuptsikevich",
+                "Caroline Pham"
+            ],
+            "positions": [
+                "COO",
+                "CFTC Commissioner"
+            ],
+            "companies": [
+                "BTSE",
+                "FxPro"
+            ],
+            "organizations": [
+                "Department of Government Efficiency",
+                "BNB Chain",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "SOL",
+            "Solana",
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "BNB",
+            "XRP",
+            "HYPE",
+            "Hyperliquid"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market movement with some cryptocurrencies gaining while others decline, and traders waiting for policy cues rather than showing clear directional momentum."
+    }
+}

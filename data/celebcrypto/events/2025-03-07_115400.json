@@ -1,0 +1,52 @@
+{
+    "title": "Bitcoin, Ether, Solana Traders Chase Downside Protection, XRP Stands Out, as Trump's Crypto Plan Disappoints",
+    "time": "2025-03-07T11:54:00",
+    "author": "Omkar Godbole",
+    "summary": "Short-dated puts tied to BTC, ETH, and SOL trade at a premium relative to calls, according to Block Scholes.",
+    "content": "U.S. President Donald Trump signed an executive order Thursday to establish a digital asset reserve that retains bitcoin\nBTC\n$103,960.62\nand altcoins seized in enforcement actions without making new purchases.\n\nThe absence of new purchases means that, for now, the so-called reserve serves merely as a strategic stockpile that will not inject any buying pressure in the market. That has traders feeling disappointed and chasing short-dated put options in BTC, ether\nETH\n$3,498.35\nand solana\nSOL\n$160.63\n, according to Deribit, data tracked by Block Scholes. The sentiment, however, remains resilient in XRP.\n\nA put option offers the buyer the right to sell the underlying asset at a predetermined price at a later date. In other words, it protects the buyer from potential price slides.\n\nSkews, which measure the difference in implied volatility (demand) between the so-called 25-delta (lower strike) puts and higher strike calls, show short-dated BTC, ETH, and SOL puts trading at a premium relative to calls. That's a sign of downside fears.\n\n\"Short-tenor skews for BTC, ETH, and SOL options once again express a demand for puts. April expiries and beyond, however, still maintain a bullish tilt for BTC and ETH, while XRP options hold a positive skew at all tenors longer than 1 week,\" Andrew Melville, research analyst at Block Scholes, told CoinDesk, adding that derivatives are largely mirroring the market's disappointment following Trump's long-awaited Strategic Reserve executive order.\n\n\"Both BTC and ETH’s term structures are flattening from the significantly inverted levels that has characterized most of March. At-the-money volatility levels at the front-end have dropped sharply by over 10 points as the market has priced out some of the uncertainty ahead of Friday's doubleheader of NFP and Crypto Summit,\" Melville added.\n\nTraders are now looking forward to Friday's White House crypto summit to bring good news to the market.\n\n\"The outcomes could significantly influence the regulatory landscape and institutional sentiment toward digital assets, shifting toward clarity on token classification, tax incentives, and reduced enforcement actions, possibly dismantling barriers for banks and funds,\" Ryan Lee, chief analyst at Bitget Research, said in an email.\n\n“Key market signals to watch include concrete guidelines on securities laws, the reserve’s structure, regulatory leniency from figures like SEC’s Mark Uyeda, and hints of legislative backing—each capable of driving a bullish surge or, if vague, sparking volatility,\" Lee added.\n\nThe U.S. nonfarm payrolls report for February, due at 13:30 UTC, is eyed as well. The data is expected to show the pace of job creations improved to 160K from January's 143K, with the jobless rate holding steady at 4%. Meanwhile, the average hourly earnings are forecast to have risen 0.3% month-on-month in February, down from January's 0.5%, according to Reuters estimates tracked by FXStreet.\n\nA weaker-than-expected data would validate renewed hopes for at least three Federal Reserve rate cuts this year, potentially supporting risk assets, including BTC.\n\nHowever, the sustainability of gains is under question, given the inflationary impact of Trump's tariffs.\n\n\"The interest rate market has shifted expectations, now anticipating three rate cuts this year instead of just one. However, this outlook may be overly optimistic, as the Fed will likely prioritize monitoring Trump's impact on inflation. This process could take months, if not quarters, to fully assess. As a result, the Fed may maintain a neutral stance for the time being,\" Markus Thielen, founder of 10x Research, said in a note to clients Friday.\n\n\"Additionally, the \"Fed put\"—the level at which the Fed would step in to support markets—could be set lower under Trump than it would be under a Kamala Harris or Joe Biden administration, meaning policymakers may tolerate more market volatility before intervening,\" Thielen added.",
+    "url": "https://www.coindesk.com/markets/2025/03/07/bitcoin-ether-solana-traders-chase-downside-protection-xrp-stands-out-as-trump-s-crypto-plan-disappoints",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Andrew Melville",
+                "Ryan Lee",
+                "Mark Uyeda",
+                "Markus Thielen",
+                "Kamala Harris",
+                "Joe Biden"
+            ],
+            "positions": [
+                "U.S. President",
+                "research analyst",
+                "chief analyst",
+                "founder"
+            ],
+            "companies": [
+                "Block Scholes",
+                "Deribit",
+                "CoinDesk",
+                "Bitget Research",
+                "10x Research",
+                "FXStreet",
+                "Reuters"
+            ],
+            "organizations": [
+                "White House",
+                "Federal Reserve",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes traders chasing short-dated put options for BTC, ETH, and SOL due to disappointment with Trump's executive order that lacks new purchases, indicating downside fears and negative market sentiment."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Good Vibes Shattered as Trump Revives Trade War, Sending Bitcoin Tumbling Below $109K",
+    "summary": "The president Friday morning threatened an imminent 50% tariff on all EU imports as well as a 25% levy on imported Apple iPhones.",
+    "time": "2025-05-23T12:14:00",
+    "author": "Stephen Alpher",
+    "content": "What was setting up to be a somewhat sleepy session ahead of the holiday weekend is no more as President Trump woke up and chose to reignite what had been cooling trade tensions.\n\n\"The European Union ... has been very difficult to deal with,\" said the president in a Truth Social posting. \"Our discussions with them are going nowhere! Therefore, I am recommending a straight 50% tariff on the EU, starting on June 1.\"\n\nThe leader of the free world also took aim at Apple (AAPL) and its CEO Tim Cook. \"I have long ago informed Tim Cook of Apple that I expect their iPhones that will be sold in the U.S. will be manufactured and built in the U.S., not India or anyplace else. If that's not the case, a tariff of at least 25% must be paid by Apple.\"\n\nU.S. stock index futures quickly moved from modest gains to nearly 2% declines, with Apple falling 3.6%. Above $111,000 prior to the news, the price of bitcoin\nBTC\n$101,754.63\nquickly pulled back to $108,600.",
+    "url": "https://www.coindesk.com/markets/2025/05/23/good-vibes-shattered-as-trump-revives-trade-war-bitcoin-tumbles-below-usd109k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Tim Cook"
+            ],
+            "positions": [
+                "president",
+                "CEO"
+            ],
+            "companies": [
+                "Apple",
+                "AAPL"
+            ],
+            "organizations": [
+                "European Union",
+                "EU"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin price tumbled from above $111,000 to $108,600 following Trump's trade war announcement, indicating negative market impact."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Spanish Bank BBVA Gets Green Light to Offer BTC and ETH Trading: Report",
+    "summary": "BBVA had been working on allowing crypto trading services since 2020.",
+    "time": "2025-03-10T06:01:00",
+    "author": "Sam Reynolds",
+    "content": "Spanish financial giant Banco Bilbao Vizcaya Argentaria (BBVA) has gotten approval from the country's financial regulator to offer bitcoin\nBTC\n$104,608.94\nand ether\nETH\n$3,495.36\ntrading to its clients, according to a Reuters report.\n\nThe approval come as the Markets in Crypto-Assets (MiCA) regulation takes full effect across the European Union. This approval for BBVA marks the conclusion of a multi-year process for the Spanish lender to allow for its clients to get exposure to digital assets.\n\nIn 2020, CoinDesk reported that BBVA planned to dip its toes in the sector, pending regulatory approval because MiCA wasn't yet in place.\n\nBBVA initially planned to launch its crypto services from Switzerland rather than Spain or other EU countries because Switzerland already had a clear regulatory framework for digital assets under the Financial Market Supervisory Authority (FINMA).\n\nIn January, BBVA launched crypto trading in Turkey through a local subsidiary.\n\nBBVA isn’t the first European bank to enter crypto, with Germany's Deutsche Bank developing an Ethereum rollup with ZKsync and offering custody with Taurus, while Société Générale’s SG-FORGE is launching a euro stablecoin on the XRP Ledger, CoinDesk previously reported.",
+    "url": "https://www.coindesk.com/policy/2025/03/10/spanish-bank-bbva-gets-green-light-to-offer-btc-and-eth-trading-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BBVA",
+                "Deutsche Bank",
+                "Société Générale",
+                "Taurus",
+                "CoinDesk",
+                "Reuters"
+            ],
+            "organizations": [
+                "European Union",
+                "Financial Market Supervisory Authority (FINMA)"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH",
+            "Ethereum",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The approval of a major European bank to offer cryptocurrency trading services indicates growing institutional adoption and regulatory acceptance, which typically boosts market confidence."
+    }
+}

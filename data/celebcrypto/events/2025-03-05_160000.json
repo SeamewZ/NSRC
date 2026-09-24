@@ -1,0 +1,30 @@
+{
+    "title": "Improving Blockchain Data Usability: A Key to Unlocking Institutional Capital",
+    "time": "2025-03-05T16:00:00",
+    "author": "Felician Stratmann",
+    "summary": "While digital asset markets are awash in data, they lack structure and standardization, deterring the entrance of institutional capital, says Outerlands Capital’s Felician Stratmann.",
+    "content": "Data is an essential element of an efficient market. If market efficiency is the degree to which prices reflect all available information, having quality information is crucial. And to get to information, you need data. Traditional financial markets are data-rich and have high levels of standardization and accessibility, giving market participants abundant avenues for analysis. Digital asset markets are awash in data, but this data has less structure and little standardization, complicating many aspects of fundamental and quantitative analysis.\n\nIt’s somewhat ironic that data is a sticking point for digital assets since a much-lauded aspect of public blockchains is their transparency. Transactions and data on the blockchain are available essentially immediately to anyone with access to the system. But transparency does not equal accessibility and, much less so usability. Without prioritizing accessibility, dissemination and context, masses of raw blockchain data won’t automatically improve crypto market efficiency. And while blockchain data complexity may create alpha for savvy analysts, the lack of consistent data likely contributes to volatility, deterring institutional capital.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nUntil now, the somewhat disjointed state of blockchain data has not been an issue given a market dominated by retail flows. But if the market is to ultimately become institutionalized (that is, garner the involvement of serious allocators like pensions, endowments, and insurance), it needs to evolve.\n\nTo improve, the digital asset space can learn from traditional market approaches. Tokens are expected to accrue value in line with a project’s success. Thus, key performance indicators (KPIs) should be readily accessible, acting like “investor relations” pages for token holders. It’s unrealistic for start-up crypto projects to disclose information like public corporations do, but interim steps can improve the situation.\n\nFor example, there are data points that could be relevant for almost all projects to disclose, including: supply schedules (with details of inflation and burn mechanisms, as well as unlocks), fees, active users and daily transactions. Naturally, projects will not have all the same indicators — for example, KPIs for a smart contract platform will look different than those for an application or DeFi protocol. Smart contract platforms may want to show how many apps are deployed in the ecosystem. DeFi protocols may want to showcase TVL or volumes. Regardless of utility, each project should make an effort to disclose as many data points as possible.\n\nCritically, this data should have detailed definitions and methodologies, along with reproducible code for how the information is derived from the blockchain. It should also be available with complete histories through time, and be easily downloadable or accessible via APIs.\n\nEfforts by projects to systematically disseminate key information should reduce uncertainty (and thereby volatility) and aid capital inflows into the crypto space. Investors should expect this level of transparency and reward projects that prioritize showcasing KPIs, while pushing for improvement at portfolio companies that do not.\n\nLarry Fink, CEO of BlackRock, noted in a recent earnings call that more transparency and analytics could broaden digital asset investment, akin to the evolution of markets like mortgages and high-yield bonds. There are already strong players like Artemis that are providing blockchain data and analytics and setting standards for digital finance. Such providers will be essential, just as platforms like Bloomberg and S&P’s Capital IQ are in the traditional markets. However, each project building digital assets should do their part to enhance data availability for investors. As the crypto market matures in transparency and analytics, as many other nascent markets did before it, the scope for investment in the space should expand materially.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/05/improving-blockchain-data-usability-a-key-to-unlocking-institutional-capital",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Felician Stratmann",
+                "Larry Fink"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Outerlands Capital",
+                "BlackRock",
+                "Artemis",
+                "Bloomberg",
+                "S&P"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article argues that improving blockchain data standardization and transparency will reduce volatility and attract institutional capital, which would expand investment in the crypto space."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "NFT Marketplace X2Y2 to Shut Down After Trading Volumes Collapsed",
+    "time": "2025-03-31T15:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The team is pivoting to a new project involving AI-powered, decentralized financial tools.",
+    "content": "X2Y2, once a leading marketplace for non-fungible tokens (NFT) will shut on April 30, ending a three-year run that saw the exchange briefly trail only OpenSea in trading volume during the NFT boom of 2021.\n\nThe decision comes as the broader NFT market continues to deflate. Trading volumes have dropped nearly 90% since their peak, the team wrote in a post, and X2Y2 struggled to maintain the network effects critical to marketplace success.\n\n“Marketplaces live or die by network effects,” founder TP wrote in a post. “After three years, it’s clear it’s time to move on.”\n\nX2Y2 started up in early 2022 and reached $5.6 billion in all-time trading volume, according to data from TokenTerminal.\n\nSmart contracts tied to the platform will remain operational, but users are encouraged to withdraw assets or transition activity by the shutdown date. The price of the marketplace’s native X2Y2 token is down 10.7% on the announcement to now trade at little over $0.001. The token has lost 97.7% of its value over the last two years.\n\nThe team said it is pivoting to a new project involving AI-powered, decentralized financial tools.",
+    "url": "https://www.coindesk.com/markets/2025/03/31/nft-marketplace-x2y2-to-shut-down-after-trading-volumes-collapsed",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "TP"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "X2Y2",
+                "OpenSea"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "X2Y2"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major NFT marketplace shutting down due to collapsed trading volumes and a 97.7% token value loss over two years, indicating negative market conditions."
+    }
+}

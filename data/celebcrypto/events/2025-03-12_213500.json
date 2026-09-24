@@ -1,0 +1,41 @@
+{
+    "title": "The Protocol: Ethereum’s Holesky Testnet Finalizes, Finally",
+    "summary": "Also: Starknet Settles to Bitcoin And Ethereum, Danny Ryan’s New Mission from Ethereum’s Engine Room to Wall Street, And Japanese Tech Giants Sony and LINE Join Forces",
+    "time": "2025-03-12T21:35:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Margaux Nijkerk, CoinDesk’s Ethereum Reporter.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nETHEREUM HOLESKY TESTNET FINALIZES - FINALLY: Ethereum's Holesky testnet achieved finality nearly two weeks after the Pectra upgrade, overcoming a client-software configuration bug that had prevented finality since Feb. 24. The achievement comes as Ethereum developers held off on deciding when Pectra would go live on the mainnet blockchain, thus delaying the big upgrade. — Shaurya Malwa Read more.\n\nSTARKNET TO SETTLE ON BITCOIN AND ETHEREUM: One of the foremost projects aiming to increase the speed of the Ethereum network is ramping up its work on the world's original blockchain: Bitcoin. Ethereum layer-2 Starknet, in partnership with BTC wallet Xverse, is aiming to deliver a \"full DeFi experience to Bitcoin users.\" Xverse said it will \"achieve Bitcoin's DeFi take-off moment,\" through integrating with Starknet in Q2 2025, in an emailed announcement seen by CoinDesk. The Starknet Foundation has published a new Bitcoin Roadmap, which described how Starknet would remain fully active on Ethereum, while \"becoming Bitcoin's execution layer,\" with the goal of scaling the network \"from 13 TPS to thousands.\" Developers have been increasingly exploring how to tap the security and deep reserves held in BTC to empower the broader DeFi and blockchain world. The challenge has been how to address Bitcoin's relative lack of programmability compared to Ethereum and others. - Jamie Crawley Read more.\n\nFROM ETHEREUM’S ENGINE ROOM TO WALL STREET: DANNY RYAN’S NEW MISSION: Danny Ryan, previously a key researcher at the Ethereum Foundation, left the EF in September but entered talks a few months later to rejoin the organization as its new leader. In January, Ryan \"ended up mutually parting ways\" with the foundation, and in March he announced he would be joining Etherealize, an organization focused on bringing Ethereum to Wall Street. In a candid interview with CoinDesk, Ryan said he made the move because he believes Ethereum is at a technological inflection point: \"Ethereum is much bigger than the EF. It's not just a couple of changes at the EF that are going to make or break Ethereum at large.\" — Margaux Nijkerk Read more.\n\nJAPANESE TECH GIANTS SONY AND LINE JOIN FORCES: Sony's blockchain division is bringing Japanese social media giant LINE into the Web3 world, with plans to adapt several popular mini-apps onto Sony's Soeneium network, the company announced. LINE reports approximately 200 million active users across its platform, and the agreement will bring four LINE-based games, or \"mini-apps,\" to Soneium: Sleepagotchi, Farm Frens, Puffy Match, and Pocket Mob. The integration is meant to facilitate features like in-game rewards and purchases. Soneium went live in January, and at the time, the team said that they hoped to bridge Web2 users into the Web3 space. The blockchain is a layer-2 on top of Ethereum that uses Optimism’s OP Stack technology.— Margaux Nijkerk Read more.",
+    "url": "https://www.coindesk.com/tech/2025/03/12/the-protocol-ethereum-s-holesky-testnet-finalizes-finally",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Shaurya Malwa",
+                "Jamie Crawley",
+                "Danny Ryan"
+            ],
+            "positions": [
+                "Ethereum Reporter",
+                "key researcher",
+                "leader"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Xverse",
+                "Starknet Foundation",
+                "Sony",
+                "LINE",
+                "Etherealize"
+            ],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including successful testnet finalization, major layer-2 expansion to Bitcoin, high-profile talent moves to bridge Ethereum with Wall Street, and major tech company partnerships for Web3 integration."
+    }
+}

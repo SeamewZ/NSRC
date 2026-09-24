@@ -1,0 +1,44 @@
+{
+    "title": "Crypto Coalition Tells SEC Staking Is 'Essential Good,' Not a Security",
+    "summary": "Industry entities led by the Crypto Council for Innovation argued in a letter to the U.S. Securities and Exchange Commission that it shouldn't regulate staking.",
+    "time": "2025-04-30T14:00:00",
+    "author": "Jesse Hamilton",
+    "content": "The Crypto Council for Innovation is making a case with the U.S. Securities and Exchange Commission that staking is not only a virtue for digital asset markets, but it should be hands-off for the securities regulator.\n\nThe group — a coalition of staking interests, including Kraken, a16z, Lido, Galaxy, Figment, Polychain and Paradigm — argued in a letter to the agency's crypto task force that the logic behind the SEC staff's recent statement that \"proof-of-work\" crypto mining isn't a securities transaction under the agency's jurisdiction, should extend to the practice of staking, pulling it out of the securities bucket.\n\n\"Stakers, like PoW miners, are compensated based on protocol-defined outcomes, not managerial actions or profit-sharing arrangements,\" according to the letter reviewed by CoinDesk.\n\nWhen users stake their coins, they agree to have them locked up for a certain period of time to participate in the operation and security of a blockchain, and they earn a return for that. Those who stake their crypto assets on \"proof-of-stake\" blockchain protocols are providing \"valuable technical services,\" and the resulting rewards aren't passive investment gains, the group contends.\n\nRead More: Crypto Staking 101: What Is Staking?\n\nThe CCI view runs counter to the SEC's previous stance, when former Chairman Gary Gensler's enforcement staff targeted crypto staking operations, such as in Kraken's high-profile settlement with the agency as well as other cases, including one involving Consensys. The SEC also blocked staking in exchange-traded funds (ETFs) tracking Ethereum\nETH\n$3,340.48\nas it reviewed applications for those products in 2024.\n\nThe CCI letter asked the SEC to provide guidance much like it's done for memecoin issuers, the miners and for some stablecoin issuers, declaring that their activities fall outside the agency's legal concern. While those statements aren't binding — not even as formal guidance — they're meant as markers to set the boundaries of the regulator's current thinking.\n\n\"Domestically, some states' securities regulators are pursuing enforcement actions relating to staking,\" according to the coalition. \"Guidance from the commission can help send a clear signal that, at least at the federal level, the U.S. is adopting common-sense regulations supportive of innovation and true to the limitations of the securities laws.\"\n\nSince the start of President Donald Trump's administration, the SEC has generally taken a much more friendly posture toward digital assets. New Chairman Paul Atkins signalled at his first public event on Friday — a crypto roundtable — that he's open to rethinking how the agency has treated crypto businesses.\n\nThe crypto companies aren't alone in seeking a new direction on staking. In February, U.S. senators sent a letter to the regulator calling for it to reconsider its opposition to staking in the industry's spot ETFs.",
+    "url": "https://www.coindesk.com/policy/2025/04/28/crypto-coalition-tells-sec-staking-is-essential-good-not-a-security",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Donald Trump",
+                "Paul Atkins"
+            ],
+            "positions": [
+                "former Chairman",
+                "President",
+                "New Chairman"
+            ],
+            "companies": [
+                "Kraken",
+                "a16z",
+                "Lido",
+                "Galaxy",
+                "Figment",
+                "Polychain",
+                "Paradigm",
+                "Consensys"
+            ],
+            "organizations": [
+                "Crypto Council for Innovation",
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes industry advocacy for favorable staking regulation and notes the SEC has taken a more friendly posture toward digital assets under the new administration, which suggests positive regulatory developments for the crypto market."
+    }
+}

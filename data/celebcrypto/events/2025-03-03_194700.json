@@ -1,0 +1,47 @@
+{
+    "title": "Major U-Turn in Crypto Markets Sends Bitcoin Back Below $87K",
+    "time": "2025-03-03T19:47:00",
+    "author": "Tom Carreras",
+    "summary": "The U.S. stock market has turned lower as well ahead of coming tariffs against major trade partners.",
+    "content": "Sunday's Trump bump in crypto has mostly vanished nearly as quickly as it appeared.\n\nIn mid-afternoon U.S. action, bitcoin\nBTC\n$103,826.55\nis changing hands at $86,700, barely above its level prior to President Trump taking to social media Sunday to tout his plans for coming U.S. crypto reserve.\n\nEther is now actually beneath its pre-Trump level and at 0.025, the ETH/BTC ratio has touched a new five-year low.\n\nOther tokens touted by Trump as part of the coming crypto reserve — Solana's\nSOL\n$161.20\n, Ripple's (XRP) and Cardano's\nADA\n$0.5425\n— have given up sizable amounts of their Sunday gains, though remain somewhat higher than prior to the president's posting.\n\n“Crypto vols are still relatively elevated with both majors still reflecting a Put Skew till end-March,” crypto trading firm QCP Capital wrote to their investors. “The VIX is also elevated, signaling broader market unease in risk assets overall, particularly after the recent tariff escalations from the U.S. administration.”\n\nCrypto stocks have given up large chunks are early gains on Monday, with a number of them — Core Scientific (CORZ) and Bitdeer (BTDR) among them — now sporting sizable losses on the session.\n\nMedical equipment maker Semler Scientific (SMLR) — perhaps better-known for its bitcoin treasury strategy — is off 7.3% today after a DOJ investigation for possible violations of a federal anti-fraud law related to its marketing of a product known as QuantaFlo, reported Stat News.\n\nThe broader stock market is also in the red, with the Nasdaq shedding 1.1% and S&P 500 0.8% ahead of Trump's promised tariffs on Mexico, Canada and China. Chipmaking giant Nvidia (NVDA) is down 6.5% on news that Singapore has charged three men in a U.S. export controls breach case.\n\n“Concerns over U.S. growth, and impending tariffs on China, Mexico, and Canada — set to take effect tomorrow — will be in focus, driving equities and rates,” said Jake Ostrovskis, OTC Trader at crypto market maker Wintermute.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/major-u-turn-in-crypto-markets-sends-bitcoin-back-below-usd87k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Jake Ostrovskis"
+            ],
+            "positions": [
+                "President",
+                "OTC Trader"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Core Scientific",
+                "Bitdeer",
+                "Semler Scientific",
+                "Nvidia",
+                "Wintermute"
+            ],
+            "organizations": [
+                "DOJ",
+                "Stat News",
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrencies giving up gains, bitcoin falling below previous levels, and broader market unease with elevated volatility and risk asset concerns."
+    }
+}

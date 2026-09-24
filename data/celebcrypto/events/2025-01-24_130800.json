@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Options Worth $7.8B Set to Expire at End of Month on Deribit",
+    "time": "2025-01-24T13:08:00",
+    "author": "James Van Straten",
+    "summary": "Some $6 billion of the notional value in bitcoin is currently set to expire out of the money.",
+    "content": "Some $7.8 billion worth of bitcoin\nBTC\n$104,263.58\noptions expire at the end of the month and, with the largest cryptocurrency trading well above the so-called max pain point, it's possible market makers looking to maximize their profits will try to force it lower in the coming days.\n\nData from Deribit, the largest decentralized options exchange, show as much as $6 billion in notional value is set to expire out of the money, or without value, when the contracts close on Jan. 31 at 08:00 UTC. A full 50% of those are put options, which give holders the right, but not the obligation, to sell BTC at a predetermined price within a specific timer period.\n\n\"The max pain level for this expiry stands at $98k, with significant market dynamics expected to influence price movements in the near term,\" Deribit CEO Luuk Strijers told CoinDesk. \" The recent rescission of SAB 121 enables banks to custody bitcoin, potentially unlocking new institutional flows while speculation about a bitcoin strategic reserve announcement adds an additional layer of market anticipation\".\n\nPut holders were most likely either hedging against downside risk or making bearish bets with the uncertainty surrounding President Donald Trump's inauguration.\n\nThe max pain price is where the option buyers experience the highest losses, while the market makers, the other side of the transaction, make the most. Prices often tend to gravitate towards the max pain price as expiry nears, which means $98,000 is the key level to monitor in the coming week.\n\n\"Next week Friday’s BTC options expiry represents a notable event as approximately 74,000 contracts are expiring. Total BTC Options notional open interest is now $28 billion of which, $7.8 billion is set to expire, with approximately 22.6% in-the-money (ITM), potentially triggering delta hedging flows in the market. While, DVOL is currently around 60, aligning with year-end levels,\" Strijers said.\n\nDVOL is the Deribit index for tracking bitcoin implied volatility (IV). CoinDesk research has noted that IV hit the highest level on Jan. 20 since August due to bitcoin breaking to new all-time highs.",
+    "url": "https://www.coindesk.com/markets/2025/01/23/bitcoin-options-worth-usd7-8b-set-to-expire-at-end-of-month-on-deribit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luuk Strijers",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news suggests market makers may try to force bitcoin prices lower toward the $98k max pain point to maximize profits from expiring options."
+    }
+}

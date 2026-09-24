@@ -1,0 +1,29 @@
+{
+    "title": "Ethereum’s Next Upgrade ‘Fusaka’ Could Cut Layer-2 and Validator Costs",
+    "summary": "Developers have thus far agreed to include one technical change, \"PeerDAS,\" designed to improve data availability.",
+    "time": "2025-05-12T15:37:00",
+    "author": "Margaux Nijkerk",
+    "content": "After the successful deployment last week of Pectra, Ethereum's biggest upgrade in more than a year, the network's core developers are already shifting focus to the next major chain upgrade: Fusaka.\n\nPectra, the biggest code change to Ethereum since the Merge in 2022, introduced key changes aimed at making staking easier for institutions, improving wallet accessibility, and boosting transaction efficiency.\n\nDevelopers have already begun planning for Fusaka, the network’s next upgrade, and have thus far agreed to include an Ethereum Improvement Proposal (EIP) called \"PeerDAS\" that could help the network support larger \"blobs\" of transaction data.\n\nBlobs, introduced during the Dencun upgrade, are dedicated spaces for large chunks of data related to transactions. They are stored off-chain, which reduces congestion on the Ethereum blockchain and lowers gas fees. The blobs are crucial for the growing layer-2 ecosystem built on top of Ethereum, such as Arbitrum, Optimism, and Coinbase's Base, which process transactions more quickly and at lower costs than the main chain.\n\nPeerDAS, which stands for Peer Data Availability Sampling, would let validators download partial data from blobs instead of full blobs to validate whether the data has been posted to the network.\n\nIn theory, PeerDAS could reduce layer-2 transaction costs and benefit institutions operating validators on the Ethereum blockchain.\n\n“PeerDAS is super important since we want to help layer-2s scale,” said Parithosh Jayanti, a devops engineer at the Ethereum Foundation, to CoinDesk over Telegram. “PeerDAS allows us to bump the blob limit significantly.\"\n\nFusaka is scheduled to go live at the end of 2025 and will eventually include a bundle of additional upgrades beyond PeerDAS. However, Ethereum developers are notorious for delaying their upgrades.\n\nPectra was initially set for release at the end of 2024 but was postponed to the first quarter of 2025. After a few faulty tests, the developers further delayed the upgrade to May.\n\nEthereum developers have been criticized over the past year for not implementing protocol changes quickly enough. As the price of the network’s token has lagged in recent months and developers have migrated to competing ecosystems, the chain's community has debated whether its unofficial leader — the non-profit Ethereum Foundation — is to blame.\n\nRead more: Ethereum Developers Lock in May 7 for Pectra Upgrade",
+    "url": "https://www.coindesk.com/tech/2025/05/12/ethereums-next-upgrade-fusaka-could-cut-layer-2-and-validator-costs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Parithosh Jayanti"
+            ],
+            "positions": [
+                "devops engineer"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technical improvements that could reduce transaction costs and benefit layer-2 scaling, which are positive developments for the Ethereum ecosystem."
+    }
+}

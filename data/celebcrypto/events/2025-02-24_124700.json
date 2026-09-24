@@ -1,0 +1,39 @@
+{
+    "title": "USDe Stablecoin Developer Ethena Raises $100M: Bloomberg",
+    "time": "2025-02-24T12:47:00",
+    "author": "Jamie Crawley",
+    "summary": "USDe's market cap has jumped to around $6 billion this month, becoming the third largest stablecoin behind Tether's USDT and Circle's USDC",
+    "content": "Ethena, developer of the synthetic stablecoin USDe, has raised $100 million to finance a similar token targeted at traditional financial (TradFi) institutions, Bloomberg reported on Monday.\n\nThe funding round was completed in December, with Franklin Templeton and Fidelity Investments-affiliated F-Prime Capital among the backers, the report added, citing a person familiar with the matter.\n\nFounder Guy Young said in a blog post in January that Ethena has plans to roll out iUSDe, a token tailored to regulated financial institutions.\n\nKnown as a synthetic stablecoin, USDe differs from other tokens in that it is not backed 1:1 by fiat assets. Instead, it maintains its peg by collateralizing stablecoins and taking futures positions with large open interest.\n\nUSDe's market cap has jumped to around $6 billion this month, becoming the third largest stablecoin behind Tether's USDT and Circle's USDC, which are worth $142 billion and $57 billion respectively.\n\nSome observers see USDe as a potential safe heaven during periods of greater volatility in the wider crypto market. Arthur Hayes, chief investment officer of Maelstrom, has said the digital asset fund has raised its exposure to USDe \"to record levels.\"\n\n\"We will be positioned with copious amounts of dry powder ready to buy the dip on Bitcoin,\" Hayes, who is an investor in and an advisor to Ethena, added.\n\nEthena did not immediately respond to CoinDesk's request for comment on the $100 million funding round.\n\nRead More: Peter Thiel-Backed Plasma Raises $20M to Develop Bitcoin-Based Network for Stablecoin",
+    "url": "https://www.coindesk.com/business/2025/02/24/usde-stablecoin-developer-ethena-raises-usd100m-bloomberg",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Guy Young",
+                "Arthur Hayes"
+            ],
+            "positions": [
+                "chief investment officer",
+                "investor",
+                "advisor"
+            ],
+            "companies": [
+                "Ethena",
+                "Franklin Templeton",
+                "Fidelity Investments",
+                "F-Prime Capital",
+                "Maelstrom",
+                "CoinDesk",
+                "Bloomberg"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDe",
+            "USDT",
+            "USDC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant funding, market cap growth, institutional backing, and positioning for buying Bitcoin dips, indicating market confidence and positive momentum."
+    }
+}

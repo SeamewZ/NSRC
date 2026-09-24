@@ -1,0 +1,38 @@
+{
+    "title": "New Bitcoin ETF Promises 100% Downside Protection Against Price Volatility. Here Is How",
+    "time": "2025-01-22T18:21:00",
+    "author": "Helene Braun",
+    "summary": "The global investment management firm plans to launch two similar funds in February.",
+    "content": "A new exchange-traded fund (ETF) by global investment management firm Calamos that promises to protect investors from the volatility in bitcoin’s price hit the market on Wednesday.\n\nCBOJ, the first of three ETFs, provides investors with 100% downside protection while offering 10% to 11.5% upside potential over a one-year period, according to a press release. A representative of Calamos told CoinDesk that as of 12:11 p.m. ET, the ETF traded roughly 635,714 shares.\n\nThe other two funds, CBXJ and CBTJ, set to launch on Feb. 4, will provide 90% and 80% protection, respectively, with capped upside of 28% to 30% and 50% to 55%.\n\nDownside protection is achieved through investments in U.S. Treasuries and options on Bitcoin index derivatives. The upside cap is set annually, and the period is reset every year with new terms.\n\nIn simple terms, if an investor bought $100 worth of shares in the ETF, Calamos would put a percentage of that in Treasury bonds that would grow back to $100 over a one-year period, ensuring that regardless of where the price of bitcoin stands at the time, the investor has the full $100.\n\nThe rest is used to buy options linked to the price of bitcoin, allowing exposure to the cryptocurrency while not directly owning it.\n\nThis safety blanket doesn't come cheap, however. The management fee for the ETFs is set at 0.69%, higher than that of other ETFs that invest in bitcoin. The average fee for U.S.-based ETFs is about 0.51%, making these ETFs a bit expensive for investors. However, the higher price might be worth paying for investors looking for safety from the volatile digital assets market.\n\nWhile “bitcoin maxis” and other investors believe in the long-term value increase of bitcoin, many, especially traditional institutional investors, worry about bitcoin’s volatility and periods of complete free-fall.\n\nOne question that may arise from the mechanics of the ETF is whether it would compete with MicroStrategy's (MSTR) convertible bonds, as both offer some downside protections. However, according to CoinDesk analyst James VanStraten, that's not the case. MSTR's notes differ from Calamos’ ETF in that they don’t have a cap on the upside potential. If certain criteria are met, those get converted into equities, resulting in potentially higher risk but more upside.\n\nETFs protecting against the downside have, therefore, become a popular innovation by issuers in recent months, leading up to crypto-friendly President Donald Trump’s inauguration. This has spurred hope that many of those ETF applications will receive approval under the new Securities and Exchange Commission.\n\nCrypto asset manager Bitwise revamped three of its futures-based crypto ETFs in October to include exposure to Treasuries to protect against crypto price drops. The funds will, therefore, rotate between investing in crypto and Treasuries depending on market signals.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/new-calamos-etf-promises-100-downside-protection-against-bitcoin-price-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James VanStraten",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CoinDesk analyst",
+                "President"
+            ],
+            "companies": [
+                "Calamos",
+                "MicroStrategy",
+                "MSTR",
+                "Bitwise"
+            ],
+            "organizations": [
+                "CBOJ",
+                "CBXJ",
+                "CBTJ",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes new Bitcoin ETFs with downside protection that provide institutional investors safety from volatility while maintaining upside potential, indicating increased market confidence and accessibility."
+    }
+}

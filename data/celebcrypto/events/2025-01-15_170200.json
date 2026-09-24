@@ -1,0 +1,37 @@
+{
+    "title": "Still Learning After All These Years",
+    "time": "2025-01-15T17:02:00",
+    "author": "Andy Baehr",
+    "summary": "CoinDesk Indices’ Andy Baehr on grass roots crypto adoption and paying forward the “gimmick.”",
+    "content": "Last June, a sailing buddy (and aerospace engineer) asked if I could check out a family friend’s “bitcoin.” He forwarded me an image of a plastic bitcoin wallet held with a private key partially obscured. The family friend had received the card as some sort of “gimmick at a conference” and tossed it in a drawer.\n\nThis is one of those moments where I find imposter syndrome perched on my shoulder, nodding its head, lips pursed. Two years in the business preceded by another two monkeying around in my personal account didn’t give me nearly enough crypto cred to say, “Oh, yeah, wow. I remember these.” Fine, I’m a noob. I made a no-promises disclaimer and quickly changed the subject.\n\nBack home, I opened the image and set to work with the solemn determination of Quincy, M.E. (although forensic examination is an inapt metaphor, given the complete absence of foul play). How did these ancient wallets work? If the private key is printed on the card, how is that secure? I knew BIP39, but what’s BIP38?\n\nLearning ensued. Then, I checked the bitcoin blockchain and noted that exactly one bitcoin had been moved to this address nine-and-a-half years earlier, when a bitcoin fetched just over $325. No activity since. As for the obscured BIP38 “private” key, you need a passphrase to decrypt it. Uh-oh. Did the family friend save the passphrase for ten years, on a Post-it® now worth $100,000?\n\n—\n\nThis week, we were out to see a show with a different group of friends. I offered to reimburse them for our tickets with crypto. “Set up a Phantom wallet, copy and securely store the seed phrase, and send me your Ethereum address. I’ll pay you in ether or USDC, your choice.”\n\nI saw all the faces. Chuckle, eyeroll, are you serious, wait-a-minute, hmmm, why not, OK! I’m still waiting for that Ethereum address, but I have no doubt this will happen. Another “gimmick,” ten years later.\n\nWhy ETH or USDC? Why not bitcoin? In 2025, bitcoin is no longer a mystery. Folks get it, and if they are thinking about buying a digital asset, they’ll find bitcoin on many shelves. It’s a store of value. It’s scarce. As more buyers enter the market over time, its value should rise.\n\nMany folks do not get Ethereum, nor smart contract platform blockchains. Folks don’t get stablecoins either, nor the fact that they rely on other blockchains, and involve paying fees in ETH or SOL or a dozen other blockchain coins. For the “5%ers” — those who will eventually spend 5% of their investing energy and resources on crypto — this feels like the next key intuition unlock.\n\nThere is no better way to get there than to put a few “learning dollars” (i.e., not “investment dollars”) on-chain and move them around. I hope my friends take their new USDC and throw some on AAVE, bridge some to Solana, and buy something on Uniswap.\n\nThis primary research might solidify an investor’s conviction in a single platform. Or, just the opposite: it may solidify conviction that picking winners is hard in what is likely to be a year of explosive growth. XRP, XLM, and HBAR sat atop the 2024 leaderboard of the CoinDesk 20 Index, an outcome few would have predicted. We feel — actually, we are expecting — that investors and advisors will choose diversified market beta over the possibility of selection alpha.\n\nThe holders of the plastic-wallet bitcoin did not “take the bait” and become active bitcoin enthusiasts (presumably), although, ex post, they did the right thing by throwing the wallet in a drawer for 10 years (along with a Post-it® with the passphrase; whew!). These days, I’m trying to take as many opportunities as possible to get folks to fire up a wallet and get some blockchain experience. (But if not, I’ll still be good for the theater tickets with fiat.)",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/15/still-learning-after-all-these-years",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andy Baehr",
+                "Quincy"
+            ],
+            "positions": [
+                "aerospace engineer"
+            ],
+            "companies": [
+                "CoinDesk Indices",
+                "AAVE",
+                "Uniswap"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "Ethereum",
+            "ETH",
+            "USDC",
+            "SOL",
+            "XRP",
+            "XLM",
+            "HBAR"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article discusses growing grassroots crypto adoption, predicts explosive growth in the market, and encourages hands-on blockchain experience with learning dollars."
+    }
+}

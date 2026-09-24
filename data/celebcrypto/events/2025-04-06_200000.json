@@ -1,0 +1,31 @@
+{
+    "title": "Cathie Wood’s ARK Buys Over $13M Worth Coinbase Shares During Market Rout",
+    "time": "2025-04-06T20:00:00",
+    "author": "Francisco Rodrigues",
+    "summary": "ARK Invest adds over 83,000 shares of Coinbase across multiple ETFs during the market downturn.",
+    "content": "Cathie Wood’s ARK Investment Management took advantage of the $5.4 trillion U.S. equities market sell-off and purchased over 83,000 shares of Coinbase (COIN), increasing exposure to the crypto exchange even as prices dipped sharply across the board.\n\nThe total shares purchased were worth more than $13 million, taking Friday's closing price for Coinbase.\n\nAccording to ARK’s daily trading disclosure for April 4, Wood’s flagship ARK Innovation ETF (ARKK) bought nearly 55,000 Coinbase shares, with additional purchases coming from the ARK Next Generation Internet ETF (ARKW) and the ARK Fintech Innovation ETF (ARKF).\n\nThe timing is notable. Coinbase shares have slipped more than 12% during the market rout, while bitcoin and other cryptocurrencies showed resilience. The CoinDesk 20 (CD20) index dropped by 5.8% in the same period. The sell-off came after U.S. President Donald Trump unveiled his reciprocal tariffs against nearly every country in the world.\n\nRead more: Bitcoin Begins to Decouple From Nasdaq as U.S. Stocks Crumble",
+    "url": "https://www.coindesk.com/markets/2025/04/06/cathie-wood-s-ark-buys-over-usd13m-worth-coinbase-shares-during-market-rout",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cathie Wood"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Coinbase",
+                "ARK Investment Management",
+                "ARK Innovation ETF",
+                "ARK Next Generation Internet ETF",
+                "ARK Fintech Innovation ETF"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "ARK Invest's significant purchase of Coinbase shares during a market downturn demonstrates institutional confidence in the crypto sector despite broader market weakness."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Solana Plunges 14%, XRP, Dogecoin Down 8% as Crypto Market Sell-Off Worsens",
+    "time": "2025-02-25T04:38:00",
+    "author": "Shaurya Malwa",
+    "summary": "Traders said the current bearish sentiment could be overblown and macroeconomic decisions were key to support market growth.",
+    "content": "Crypto majors slid as much as 14% in the past 24 hours as a Monday sell-off extended into Tuesday amid generally bearish sentiment and the lack of actionable catalysts that may help support the market.\n\nSolana’s SOL fell 14% — bringing 7-day losses to over 20% — while dogecoin (DOGE), xrp (XRP) and ether (ETH) fell more than 8%. Bitcoin lost the $92,000 level for the first time since late November, threatening a potential downside break of the multi-week consolidation between $90,000 and $110,000\n\nOverall market capitalization fell 6.6%, while the broad-based CoinDesk 20 (CD20), a liquid index tracking the largest tokens, dropped more than 7%.\n\nTraders said the current bearish sentiment could be overblown and macroeconomic decisions were key to support market growth.\n\n“Bitcoin, Ethereum, and Solana shouldn't be trading this far below their all time highs,” Jeff Mei, COO at crypto exchange BTSE, said in a Telegram message. “On the U.S. side, inflation concerns and a pause in Fed rate cuts have kept markets down, but this could change as weak economic data released last week could spur Fed officials to take further action.”\n\nAugustine Fan, head of insights at SignalPlus, mirrored the sentiment: “The 'slowdown' narrative will likely dominate the narrative in the near term, with stocks and bonds trading back in positive tandem with correlation nearing the highs of the past 12 months.”\n\nFan explained that the \"bad data is now good\" once again, as markets refocus their attention on Fed eases, and provide tailwinds to both gold and BTC in the near future.\n\nData released early this month showed, the widely-watched Consumer Price Index (CPI) surged 0.5% month-over-month in January, much more than the expected 0.3% gain, sending investors to prefer cash positions or risk-off bets until clear signs of a government intervention to boost the economy.\n\nThe U.S. CPI measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. Changes in CPI readings tend to impact bitcoin, and the broader crypto market, as investors view the asset class as a hedge against inflation.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/solana-plunges-14-xrp-dogecoin-down-8-as-crypto-market-sell-off-worsens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Mei",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "COO",
+                "head of insights"
+            ],
+            "companies": [
+                "BTSE",
+                "SignalPlus"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "XRP",
+            "Dogecoin",
+            "DOGE",
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across major cryptocurrencies, with terms like 'plunges', 'sell-off worsens', and 'bearish sentiment' indicating a negative market impact."
+    }
+}

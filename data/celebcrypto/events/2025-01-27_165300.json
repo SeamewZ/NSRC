@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin's DeepSeek-Triggered Selloff Is a Buy the Dip Opportunity, Analysts Say",
+    "time": "2025-01-27T16:53:00",
+    "author": "Krisztian Sandor",
+    "summary": "Overzealous hopes for Trump's crypto actions last week had primed the market for a pullback, but the decline could be already over, said Standard Chartered's Geoff Kendrick.",
+    "content": "Crypto assets saw a panicky decline overnight alongside a Nvidia-led tech stock plunge on DeepSeek's more efficient artificial intelligence model.\n\nWith bitcoin (BTC) at one point sliding from a Sunday high of $105,000 to below $98,000 before bouncing back to its current level just below $100,000, some analysts warned this could be the start of an even deeper pullback.\n\nAmong those taking the other side of that trade is Geoffrey Kendrick, global head of digital asset research at Standard Chartered Bank.\n\n\"Buy the dip,\" he said in a Monday morning report.\n\nKendrick one week ago warned of a potential 10%-20% correction thanks to markets having priced in overzealous expectations of Trump's crypto executive order and strategic reserve. The overnight selloff, he argued, likely took care of much of this.\n\nWhile there might be some more pain ahead this week with U.S. big tech companies reporting earnings this week and the Federal Reserve's January meeting results Wednesday, Kendrick took note of the rapid decline in U.S. Treasury yields — the 10-year note yield now nearing 4.5% — as signaling much of the downward move is done.\n\nDespite there not being much near-term price boost from the Trump administration's digital asset actions, the benefits should ripple through the sector over the next weeks and months through boosted institutional asset flows.\n\nLondonCryptoClub analysts hit a similar note, seeing the crypto selloff as a knee-jerk reaction to a headline event.\n\n\"The Deepseek FUD [fear, uncertainty, doubt] is a classic shoot first, ask questions later,\" LondonCryptoClub analysts said. \"Flushes like these amidst a still constructive fundamental macro story that typically mark local lows in a bull trend.\"\n\n\"Be careful today as a broad derisking can be very mechanical and indiscriminate,\" they added. \"But this is very much a BTFD [buy the **** dip] market still.\"\n\nBitcoin at press time was trading down more than 4% over the past 24 hours at $99,800. The tech-heavy Nasdaq 100 was lower by 3%, led by 15% decline for Nvidia (NVDA).",
+    "url": "https://www.coindesk.com/markets/2025/01/27/bitcoin-s-deepseek-triggered-selloff-is-a-buy-the-dip-opportunity-analysts-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Geoff Kendrick",
+                "Geoffrey Kendrick",
+                "Trump"
+            ],
+            "positions": [
+                "global head of digital asset research"
+            ],
+            "companies": [
+                "Standard Chartered Bank",
+                "Nvidia",
+                "NVDA"
+            ],
+            "organizations": [
+                "LondonCryptoClub",
+                "Federal Reserve",
+                "U.S. Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Analysts are calling the selloff a buying opportunity and suggesting the decline is likely over, with positive institutional flows expected in coming weeks."
+    }
+}

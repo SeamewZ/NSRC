@@ -1,0 +1,36 @@
+{
+    "title": "China Announces 34% Tariff on All U.S. Goods. Bitcoin Falls Back to $83K",
+    "time": "2025-04-04T10:40:00",
+    "author": "Omkar Godbole",
+    "summary": "China announced retaliatory tariffs on all goods, worsening risk sentiment during European hours.",
+    "content": "Risk sentiment worsened during the European hours Friday after China announced retaliatory tariffs on all goods, responding to Trump's Wednesday decision to boost the overall levy on Chinese goods to 54%.\n\nBitcoin, the leading cryptocurrency by market value, fell by $1,600 to $83,000, erasing the early rise to $84,600, CoinDesk data shows. Other tokens like XRP, ETH, SOL and DOGE also reversed early gains to trade largely flat on the day.\n\nMeanwhile, futures tied to the S&P 500 and Nasdaq fell over 2% amid escalating global trade tensions.\n\n\"China's response is not only negative for the U.S. but it is also impacting the global outlook,\" ForexLive's analyst Justin Low wrote in a market update.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/bitcoin-falls-back-to-usd83k-xrp-sol-doge-surrender-gains-as-china-announces-34-tariffs-on-all-u-s-goods",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Justin Low"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "CoinDesk",
+                "ForexLive"
+            ],
+            "organizations": [
+                "China",
+                "U.S."
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "XRP",
+            "ETH",
+            "SOL",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin fell by $1,600 and other cryptocurrencies reversed early gains amid worsening risk sentiment due to escalating trade tensions."
+    }
+}

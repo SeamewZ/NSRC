@@ -1,0 +1,30 @@
+{
+    "title": "Industrial Tech Giant Siemens Adopts IoT Blockchains From Minima",
+    "time": "2025-03-18T14:00:00",
+    "author": "Ian Allison",
+    "summary": "Minima’s IoT-focused blockchains will be embedded into Siemens’ devices across the automotive, robotics and energy sectors.",
+    "content": "Siemens, Europe’s largest industrial technology company, is working with distributor ledgers for the internet of things (IoT) builder Minima, to embed blockchains into the German giant’s devices across the automotive, robotics and energy sectors.\n\nMinima is working with Siemens Cre8Ventures division, an initiative to accelerate industrial transformation by collaborating with startups in the fields of AI, digital twins, cybersecurity, and more, the companies said in a press release on Tuesday.\n\nA gradual evolution of computing capabilities towards the edges of networks has seen a greater need for security and data integrity to be embedded within these edge devices at scale, which is where IoT-level blockchains are useful\n\nIt’s an interesting shift since blockchain technology might have originally been thought of as the antithesis of large enterprises, in terms of being decentralized and removing all sorts of intermediaries, said Minima CEO Hugo Feiler.\n\n“But as power goes to the edge on these devices, then even large enterprise clients need to make sure that there's resilience through that,” Feiler said in an interview. “And so the ability for these large enterprise companies to run a decentralized system is mission critical for them as well. So, decentralization is not just cutting them out as middlemen, it’s also enabling them to get further out into the world to deliver the service.”\n\nMinima announced late last year it was working with semiconductor giant ARM to develop a microchip with a decentralized ledger embedded in it. The partnership with Siemens, which followed on from Minima’s Arm deal, will further the sovereignty goals of the EU Chips Act, introduced in 2022 to reduce reliance on foreign chip manufacturers, Minima said.\n\n“Minima enables IoT equipment to run a full node, so they can independently participate in a blockchain network without relying on external servers or centralised intermediaries, eliminating all central points of failure and ensuring fully decentralised security, data integrity, and trustless verification. Our collaboration brings groundbreaking AI capabilities, data integrity, and decentralised trust mechanisms to the Siemens Cre8Ventures Digital Twin Marketplace,” a Siemens representative said in a statement.",
+    "url": "https://www.coindesk.com/business/2025/03/18/industrial-tech-giant-siemens-adopts-iot-blockchains-from-minima",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hugo Feiler"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Siemens",
+                "Minima",
+                "ARM"
+            ],
+            "organizations": [
+                "Siemens Cre8Ventures",
+                "EU Chips Act"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership between industrial giant Siemens and blockchain company Minima to embed IoT blockchains across major sectors demonstrates enterprise adoption and validation of blockchain technology."
+    }
+}

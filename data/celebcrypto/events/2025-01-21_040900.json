@@ -1,0 +1,35 @@
+{
+    "title": "Crypto Options Stay Bearish on Ether-Bitcoin Ratio as Trump Fails to Mention BTC in Inaugural Speech",
+    "time": "2025-01-21T04:09:00",
+    "author": "Omkar Godbole",
+    "summary": "Options continue to show a bias for BTC relative to ETH despite Trump bypassing any mention of strategic bitcoin reserve in his inaugural speech on Monday.",
+    "content": "Deribit-listed options show a persistent bullish outlook for bitcoin relative to ether, following President Donald Trump's omission of any crypto mention in his inaugural speech on Monday.\n\nAs of noon Hong Kong Time, BTC call options, which offer a bullish exposure in the leading cryptocurrency, traded pricier than ETH calls across time frames, according to risk reversals tracked by Amberdata. Risk reversal measures the difference between implied volatility for calls relative to puts, with positive values signaling a bullish sentiment.\n\nBTC's risk reversals show short-term and near-term calls trading at a four to five volatility points premium to puts. Meanwhile, ETH calls trade at a relatively lesser volatility premium to puts.\n\nIn other words, the ether-bitcoin ratio is seen extending the downtrend. The ratio hit a three-year low of 0.03 early this week.\n\nThe bias favoring BTC is particularly striking given that Trump did not mention the strategic bitcoin reserve on Monday, despite prior rumors suggesting he would.\n\nAt the same time, a report showing GOP congressional priorities didn't include mentions of bitcoin or crypto.\n\nTraders on the decentralized betting platform Polymarket now see a 38% chance of Trump announcing a strategic BTC reserve in his first 100 days of presidency. That's down from nearly 50% a day ago.",
+    "url": "https://www.coindesk.com/markets/2025/01/21/crypto-options-signal-more-losses-for-ether-bitcoin-ratio-after-trump-skips-btc-mention-in-inaugural-speech",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "Polymarket"
+            ],
+            "organizations": [
+                "GOP"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH",
+            "Bitcoin",
+            "Ether",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes persistent bearish sentiment for ether relative to bitcoin, with the ether-bitcoin ratio hitting a three-year low and reduced probability of Trump announcing a strategic bitcoin reserve."
+    }
+}

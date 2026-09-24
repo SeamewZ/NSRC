@@ -1,0 +1,41 @@
+{
+    "title": "MANTRA Blockchain to Tokenize $1B of Real-World Assets for UAE-Based Property Firm DAMAC",
+    "time": "2025-01-09T14:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The deal will allow token-based financing of DAMAC's wide range of portfolio companies that includes real estate development, hospitality and data centers.",
+    "content": "MANTRA, a layer-1 blockchain designed for tokenized real-world assets (RWA), entered an agreement with United Arab Emirates-based property conglomerate DAMAC Group to bring at least $1 billion of the firm's assets to blockchain rails, the companies announced Thursday in a press release.\n\nThe deal will allow investors to finance DAMAC's portfolio companies spanning across various sectors including real estate development, hospitality and data centers. By tokenizing assets, the companies aim to streamline traditional investment processes while increasing accessibility for both retail and institutional investors.\n\nDetails of which DAMAC properties will be tokenized and specifications of the offerings will be announced in the coming weeks, a MANTRA spokesperson told CoinDesk. The offerings will be available starting in early 2025, the press release said.\n\nTokenization of real-world assets, the process of converting traditional assets like real estate, commodities, funds and securities into digital tokens that represents ownership on a blockchain, is gaining traction globally. Institutions and even governments are increasingly exploring tokenization in pursuit of operational efficiency gains like speedier settlements and broader investor accessibility. The RWA market could grow to trillions of dollars through this decade, various reports from McKinsey, BCG, 21Shares and Bernstein projected.\n\n\"Tokenizing our assets will provide investors with a secure, transparent and convenient way to access a wide range of investment opportunities,\" Amira Sajwani, managing director of DAMAC, said in a statement.\n\nMANTRA focuses on the Middle East region to bring a diverse range of traditional financial assets to its blockchain. Earlier this year, the it said it will tokenize $500 million worth of assets of Dubai-based real estate developer MAG Group. The network's mainnet launch took place in October, and its native token OM's market capitalization rose by nearly 200% over the past three months to $3.6 billion, CoinGecko data shows.\n\nDAMAC has a history of exploring ways to use blockchain tech and cryptocurrencies. In 2022, the firm began accepting cryptocurrency payments in bitcoin\nBTC\n$106,588.94\nand ether\nETH\n$3,632.07\n, aligning with the UAE’s ambitions to become a crypto hub.\n\nNotably, President-elect Donald Trump said earlier this week during a press conference that DAMAC laid out plans for a $20 billion investment in data centers across several U.S. states.",
+    "url": "https://www.coindesk.com/business/2025/01/09/mantra-blockchain-to-tokenize-1-b-of-real-world-assets-for-uae-based-property-firm-damac",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Amira Sajwani",
+                "Donald Trump"
+            ],
+            "positions": [
+                "managing director",
+                "President-elect"
+            ],
+            "companies": [
+                "MANTRA",
+                "DAMAC Group",
+                "MAG Group",
+                "McKinsey",
+                "BCG",
+                "21Shares",
+                "Bernstein",
+                "CoinDesk",
+                "CoinGecko"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "OM"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major $1 billion real-world asset tokenization deal that increases blockchain adoption and institutional involvement, with MANTRA's token OM showing significant market cap growth."
+    }
+}

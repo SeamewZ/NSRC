@@ -1,0 +1,38 @@
+{
+    "title": "Sanctioned Russian Crypto Exchange Garantex Seized, Operators Charged With Money Laundering",
+    "summary": "Garantex was sanctioned in 2022 for facilitating money laundering for ransomware actors and darknet markets.",
+    "time": "2025-03-07T18:31:00",
+    "author": "Cheyenne Ligon",
+    "content": "Garantex, a Russian crypto exchange popular with ransomware gangs and darknet markets, has been taken down in an international law enforcement operation, according to a Friday announcement from the U.S. Department of Justice (DOJ).\n\nOn Thursday, a coalition of law enforcement agencies from the U.S., Germany and Finland seized Garantex’s domains and servers, and froze nearly $28 million in crypto tied to the exchange with the help of stablecoin issuer Tether.\n\nThe U.S. Treasury’s Office of Foreign Asset Control (OFAC) sanctioned Garantex in 2022, accusing the exchange of knowingly facilitating money laundering for ransomware actors, including Conti and Black Basta, and darknet markets like Hydra, which, before its 2022 shut down, was once the largest darknet market in the world.\n\nThe sanctions had little to no effect on Garantex – according to data from blockchain sleuthing firm Elliptic, which aided the U.S. in its investigation, the exchange processed more than $60 billion in crypto transactions after being sanctioned. In total, the exchange has transacted over $96 billion.\n\nAccording to court documents, Garantex collected virtually no know-your-customer (KYC) information about its clients, allowing criminals to use its services unchecked, and accounts were registered to customers using names like “Drug,” “hacker,” “taliban,” “Cashout, cleancoins” and “God.”\n\nIn addition to ransomware actors and darknet markets, Garantex’s clientele allegedly included North Korea’s state-sanctioned hacking squad, the Lazarus Group, which was behind the massive $1.5 billion Bybit heist last month, as well as Russian oligarchs, who used the service to evade international sanctions tied to the war in Ukraine. Sophisticated international sanctions evasion companies, like TGR Group, which cater to Russian elites, have been tied to Garantex.\n\nFollowing the seizure of Garantex’s servers and domains, two of its operators have been criminally charged in the U.S. for their connections to the exchange.\n\nLithuanian national and Russian resident Aleksej Besciokov, 46, has been charged with money laundering conspiracy, conspiracy to violate sanctions, and conspiracy to operate an unlicensed money transmitting business. Aleksandr Mira Serda, 40, a Russian citizen currently residing in the United Arab Emirates, has been charged with money laundering conspiracy.",
+    "url": "https://www.coindesk.com/policy/2025/03/07/sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-with-money-laundering",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aleksej Besciokov",
+                "Aleksandr Mira Serda"
+            ],
+            "positions": [
+                "Lithuanian national and Russian resident",
+                "Russian citizen currently residing in the United Arab Emirates"
+            ],
+            "companies": [
+                "Garantex",
+                "Tether",
+                "TGR Group",
+                "Bybit",
+                "Elliptic"
+            ],
+            "organizations": [
+                "U.S. Department of Justice (DOJ)",
+                "U.S. Treasury's Office of Foreign Asset Control (OFAC)",
+                "Lazarus Group",
+                "Conti",
+                "Black Basta",
+                "Hydra"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The seizure of a sanctioned exchange involved in criminal activities and money laundering represents regulatory enforcement that could increase market confidence and legitimacy."
+    }
+}

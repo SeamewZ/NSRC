@@ -1,0 +1,25 @@
+{
+    "title": "Why Are Bitcoin Traders Aggressively Shorting as BTC Hits New Record High?",
+    "summary": "The move comes as the long/short ratio is at its lowest point since September 2022.",
+    "time": "2025-05-22T11:39:00",
+    "author": "Oliver Knight",
+    "content": "Bitcoin {BTC} galloped to a new record high above $110,000 on Thursday, liquidating around $500 million worth of derivatives positions in its wake, but some traders aren't buying into the bullish sentiment.\n\nTrading volume jumped by 74% in the past 24 hours as traders attempted to position themselves, however the majority of these traders are opting to go short -- or bet on bitcoin moving downwards.\n\nCoinalyze data shows that the long/short ratio is at its lowest point since September 2022, which was the midst of crypto winter.\n\nThis trend began on April 21 as traders aggressively shorted the breakout above $85,000, seemingly under the impression that bitcoin had already formed its cycle high and that any subsequent move would form a double top.\n\nHowever, despite a lack of retail participation, bitcoin continued to grind higher, taking out levels of resistance at $97,000 and $105,000 on its path.\n\nThe move can be attributed to a number of factors; a recovery in U.S. equities as tariff concerns cooled, a rise in institutional activity on exchanges, like the CME, and crucially a wealth of short positions to squeeze and force prices higher.\n\nWhile these short positions might be considered bearish in terms of market structure, they are actually fanning the flame to the upside as it gives bullish traders areas to target and conduct stop-loss hunts like we saw earlier this week.\n\nShorting an asset's record high is not necessarily a bad strategy; a trader will often opt to enter a short position at a level of resistance, whether that be technical or psychological, and layer stop losses above where the thesis of a short trade would be invalidated.\n\nIn this case, if a trader shorted $105,000 on each of BTCs three tests of that area, they could have closed their position in profit on three occasions at $102,000, meaning that even if they were stopped out of the trade at $109,000, it would be a profitable week.\n\nAlongside the continued rise in short positions we have seen open interest jump disproportionately to BTC. Over the past 24 hours BTC is up 4.8% while open interest is up by 17% despite hundreds of million being liquidated.\n\nThis indicates that the record high break is driven by leverage and might be less sustainable that the initial drives above $100,000 in December and January.\n\nIt remains to be seen whether interest in short positions continues to rise if BTC rolls on with its momentous move above $111,000, but there is certainly a minefield of short positions to squeeze if it needs some ammunition.\n\nRead more: Bitcoin's Rally to Record Highs Puts Focus on $115K Where an 'Invisible Hand' May Slow Bull Run",
+    "url": "https://www.coindesk.com/markets/2025/05/22/why-are-bitcoin-traders-aggressively-shorting-as-btc-hits-new-record-high",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinalyze",
+                "CME"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Despite traders aggressively shorting, the article describes Bitcoin reaching new record highs with short positions actually fueling further price increases through short squeezes and stop-loss hunts."
+    }
+}

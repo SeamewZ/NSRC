@@ -1,0 +1,34 @@
+{
+    "title": "USDT Issuer Tether Acquires Stake in Football Club Juventus",
+    "time": "2025-02-14T14:03:00",
+    "author": "Krisztian Sandor",
+    "summary": "The stablecoin issuer's investment arm said it is acquiring a minority stake in the Italian club.",
+    "content": "Tether, the cryptocurrency firm behind the $140 billion USDT stablecoin, said on Friday it has invested in Italian football club Juventus FC (JUVE).\n\nThe firm's investment arm, Tether Investments, acquired a minority stake in the sports club, according to a press release shared with CoinDesk. Juventus FC shares, which are publicly traded on the Italian stock exchange, advanced 2.5% immediately after the news. The price of the club's crypto fan token (JUV) surged nearly 200% in minutes before paring some of the gains, CoinGecko data shows.\n\n\"Aligned with our strategic investment in Juve, Tether will be a pioneer in merging new technologies, such as digital assets, AI, and biotech, with the well-established sports industry to drive change globally,\" said Tether CEO Paolo Ardoino in a statement.\n\nThe acquisition comes after Tether reported $13 billion in profits last year, and expanded beyond its core stablecoin business with investments in artificial intelligence, payments and energy companies.\n\nUPDATE (Feb. 14, 14:30 UTC): Adds Juventus share, fan token price gains.",
+    "url": "https://www.coindesk.com/business/2025/02/14/usdt-issuer-tether-acquires-stake-in-football-club-juventus",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paolo Ardoino"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Tether",
+                "Tether Investments",
+                "Juventus FC",
+                "CoinDesk",
+                "CoinGecko"
+            ],
+            "organizations": [
+                "Italian stock exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "JUV"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows Tether expanding into sports investments and mentions that Juventus' crypto fan token (JUV) surged nearly 200% after the announcement, indicating positive market reaction."
+    }
+}

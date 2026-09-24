@@ -1,0 +1,84 @@
+{
+    "title": "What to Expect at Consensus Hong Kong",
+    "time": "2025-02-14T17:13:00",
+    "author": "CoinDesk",
+    "summary": "Consensus lands in Hong Kong for the first time Feb 18-20. Here are some highlights from a packed schedule of programming and special events.",
+    "content": "Consensus, the world’s longest-running crypto conference, opens in Hong Kong next week, offering a unique viewpoint into digital assets in Asia.\n\nMore than 300 speakers and thousands of attendees from over 100 countries are expected at the Hong Kong Convention and Exhibition Centre for the event being held from Tuesday, Feb. 18 to Thursday, Feb. 20.\n\nHere are some of the highlights:\n\nThe conference’s opening keynote (Feb. 19) will be given by Hong Kong’s Financial Secretary Paul Chan Mo-Po, and will be followed by a panel discussion on bitcoin’s potential to be the basis of a new financial system with Bitcoin OG and Blockstream CEO Adam Back, JAN3 CEO Samson Mow and Babylon co-founder David Tse.\n\nThen Julia Leung, the head of Hong Kong’s primary financial regulator, the Securities and Futures Commission, details the territory’s regulatory priorities.\n\nYat Siu, the co-founder and chairman of Web3 giant Animoca Brands will discuss the fight for digital property rights, while the always colorful founder of TRON, Justin Sun, is slated to talk about his token’s meteoric rise.\n\nMeanwhile, Solana Foundation president Lily Liu will discuss the blockchain’s future, and is also participating in a panel with Robinhood head of crypto Johann Kerbrat on why retail investors are moving on-chain. SUI founder Evan Cheng will explain how his blockchain is adapting to institutional needs. And, rounding out the first day, Binance CEO Richard Teng will sit down with Consensus Hong Kong chairman Michael Lau.\n\nOn Thursday, regulators in Hong Kong, Thailand and Malaysia will provide an outlook on regulation in the region. Stacks’ CEO Muneeb Ali headlines what should be a spirited discussion on the renaissance in Bitcoin Layer 2s that also includes Lombard Finance co-founder Jacob Phillips and early CoreDAO contributor Rich Rines. And Eric Anziani, the president of Singapore-based crypto exchange Crypto.com, which recently received a license to operate in the EU, gives a fireside chat on his company’s ambitious global plans.\n\nAlso Thursday, Memeland CEO and co-founder Ray Chan sits down with CoinDesk’s Sam Ewen to talk about the memification of finance. And, on the Emerging Tech stage, we have the Decentralized AI summit, featuring panels with Mark Rydon (Aethir), Paul Veradittakit (Pantera), Gary Liu (Terminal 3) and many others.\n\nApart from the formal programming, there are also a host of other events offering the chance to network and compete. From Wednesday to Thursday, the conference will see hundreds of developers from Asia and beyond vying for prizes and potential investments from top VC firms in the EasyA Hackathon. And be sure to catch the live onstage pitching battle between many of the world’s most promising early-stage Web3 companies in the CoinDesk Hong Kong Pitchfest 2025, which runs all day Thursday.\n\nFinally, for those with a sporting bent, the eighth installment of the popular Crypto Fight Night boxing exhibition will be held on Thursday night at the Grand Hyatt next to the HK Convention and Exhibition Centre, headlined by a bout between crypto influencers Bitlord and Korean Jew.\n\nIt all promises to be an invigorating conference at a special time, set in one of the most dynamic cities in Asia.\n\nFor the full agenda, please see here. Passes are still available for sale here.",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/14/what-to-expect-at-consensus-hong-kong",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Chan Mo-Po",
+                "Adam Back",
+                "Samson Mow",
+                "David Tse",
+                "Julia Leung",
+                "Yat Siu",
+                "Justin Sun",
+                "Lily Liu",
+                "Johann Kerbrat",
+                "Evan Cheng",
+                "Richard Teng",
+                "Michael Lau",
+                "Muneeb Ali",
+                "Jacob Phillips",
+                "Rich Rines",
+                "Eric Anziani",
+                "Ray Chan",
+                "Sam Ewen",
+                "Mark Rydon",
+                "Paul Veradittakit",
+                "Gary Liu",
+                "Bitlord",
+                "Korean Jew"
+            ],
+            "positions": [
+                "Financial Secretary",
+                "Bitcoin OG",
+                "CEO",
+                "co-founder",
+                "chairman",
+                "head",
+                "founder",
+                "president",
+                "head of crypto",
+                "Consensus Hong Kong chairman",
+                "co-founder and chairman",
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Blockstream",
+                "JAN3",
+                "Babylon",
+                "Animoca Brands",
+                "TRON",
+                "Solana Foundation",
+                "Robinhood",
+                "SUI",
+                "Binance",
+                "Stacks",
+                "Lombard Finance",
+                "CoreDAO",
+                "Crypto.com",
+                "Memeland",
+                "CoinDesk",
+                "Aethir",
+                "Pantera",
+                "Terminal 3",
+                "EasyA",
+                "Grand Hyatt"
+            ],
+            "organizations": [
+                "Securities and Futures Commission",
+                "Consensus",
+                "Hong Kong Convention and Exhibition Centre"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The event features major industry leaders discussing positive developments like bitcoin's potential as a new financial system, regulatory clarity, and institutional adoption, indicating market confidence and growth potential."
+    }
+}

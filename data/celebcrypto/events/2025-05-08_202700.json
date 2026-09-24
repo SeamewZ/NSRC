@@ -1,0 +1,35 @@
+{
+    "title": "Coinbase Stock Falls After Earnings Disappoints Wall Street on Market Volatility",
+    "time": "2025-05-08T20:27:00",
+    "author": "Helene Braun",
+    "summary": "The crypto exchange cited a drop in crypto prices as a result of U.S. President Donald Trump’s tariff policy and macroeconomic uncertainty as the reason behind the weak quarter.",
+    "content": "Shares of Coinbase (COIN) fell nearly 3% in post-market trading after it reported a significant drop in revenue in the first quarter of the year, missing analyst estimates, as markets cooled amid economic uncertainty in the U.S.\n\nThe crypto exchange said it recorded $2 billion in revenue, down from $2.27 billion in the fourth quarter and lower than Street estimates of $2.1 billion. The company also reported earnings per share of $0.24, missing the average analyst estimate of $1.93, according to FactSet data.\n\nTrading volume fell 10% to $393.1 billion quarter over quarter and transaction revenue came in at $1.3 billion, about 19% lower than in the fourth quarter.\n\n“Q1 saw increased average Crypto Asset Volatility with BTC reaching a new all-time high price in January. However, crypto prices dropped alongside broader market declines driven by tariff policy and macroeconomic uncertainty,” Coinbase wrote in a letter to shareholders.\n\nAnalysts at J.P. Morgan, Barclays, and Compass Point had all slashed their forecasts before the earnings report as crypto trading volume slowed sharply since January amid uncertainties about the future of the U.S. economy.\n\nTrading platform Robinhood (HOOD), whose retail-focused clientele is often compared to Coinbase’s trader base, in April reported a 13% drop in transaction-based revenue.\n\nCoinbase’s $2.9 billion acquisition of derivatives exchange Deribit, however, positions it as the new leader in global crypto options trading, overtaking Binance and other rivals. The move sets the stage for a new chapter in derivatives markets — one that investors will be watching closely.\n\nRead more: Coinbase's $2.9B Deribit Deal a 'Legitimate Threat' for Peers, Wall Street Analysts Say\n\nUPDATE (May 8, 20:43 UTC): Adds additional paragraph at the end and share price decline.",
+    "url": "https://www.coindesk.com/markets/2025/05/08/coinbase-earnings-sales-disappoints-wall-street-as-trading-volume-drops-10-amid-market-turmoil",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Coinbase",
+                "J.P. Morgan",
+                "Barclays",
+                "Compass Point",
+                "Robinhood",
+                "Deribit",
+                "Binance"
+            ],
+            "organizations": [
+                "FactSet"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes falling crypto prices, declining trading volumes, and revenue misses driven by macroeconomic uncertainty and tariff policy."
+    }
+}

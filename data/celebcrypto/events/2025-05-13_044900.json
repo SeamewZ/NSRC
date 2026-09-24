@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin Drop Causes $500M Long Liquidations as Dogecoin, ADA Slide 7%",
+    "time": "2025-05-13T04:49:00",
+    "author": "Shaurya Malwa",
+    "summary": "Monday gains were lost in the U.S. session as the U.S. and China reached a temporary truce in their trade war.",
+    "content": "A sharp pullback in crypto markets late Monday triggered over $500 million in long liquidations, erasing earlier gains as bitcoin\nBTC\n$104,723.54\nslipped from weekend highs and traders reacted to de-escalating U.S.-China trade tensions.\n\nCoinglass data shows more than $530 million worth of long positions were liquidated in the past 24 hours — with nearly $200 million coming from bitcoin-tracked futures and $170 million from ether\nETH\n$3,558.49\nproducts.\n\nLiquidations occur when an exchange forcibly closes a trader’s leveraged position due to insufficient margin. It happens when a trader cannot meet the margin requirements for a leveraged position, that is, when they don't have sufficient funds to keep the trade open.\n\nMajors bore the brunt of the drop, with\nDOGE\n$0.1669\nand\nADA\n$0.5492\neach falling as much as 7%, and solana\nSOL\n$163.73\n,\nXRP\n$2.3142\nand BNB Chain’s BNB losing between 5%–6%.\n\nThe liquidations marked a reversal from last week’s euphoric rally, which had seen ETH gain 40% and major altcoins push double-digit percentage gains in a wave of short squeezes. That move had triggered over $1 billion in short liquidations — the highest since 2021 — and sent bitcoin briefly past $104,000 before momentum faded.\n\nMarkets turned lower during U.S. trading hours Monday after reports of a temporary tariff truce between the U.S. and China, with the removal of several mutual levies and both pledging renewed trade cooperation.\n\nWhile easing tensions supported equities, the development may have tempered the risk-on narrative that had fueled crypto’s breakout over the past week.\n\nFutures open interest across major exchanges also fell by more than $1.2 billion, suggesting a sharp deleveraging as long traders were forced to exit positions, Coinglass data showed.\n\nAnalysts caution that while the near-term flush may reset frothy sentiment, with eyes on the next Fed meeting in June.\n\n“Right now macro concerns are driving the market and the next Fed decision and outlook remarks in June will likely be the key factor in driving Bitcoin past its previous all-time high,” Jeff Mei, COO at crypto exchange BTSE, told CoinDesk in a Telegram message.\n\n“This would stimulate lending and investment in the US economy and hopefully drive growth, avoiding the recession investors are apprehensive about,” Mei added.",
+    "url": "https://www.coindesk.com/markets/2025/05/13/bitcoin-drop-causes-500m-long-liquidations-as-dogecoin-ada-slide-7",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Mei"
+            ],
+            "positions": [
+                "COO"
+            ],
+            "companies": [
+                "BTSE",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Coinglass",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Dogecoin",
+            "DOGE",
+            "ADA",
+            "solana",
+            "SOL",
+            "XRP",
+            "BNB"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a sharp pullback triggering over $500 million in long liquidations, major cryptocurrencies falling 5-7%, and a reversal from previous gains due to market deleveraging."
+    }
+}

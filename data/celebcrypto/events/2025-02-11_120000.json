@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Daybook Americas: ADA Rallies, BTC Looks to Powell's Testimony on Capitol Hill",
+    "time": "2025-02-11T12:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Feb. 11, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nCardano's ADA is trading higher, buoyed by Grayscale's recent spot ETF application, while bitcoin\nBTC\n$104,850.17\nremains rangebound in a lackluster crypto market as we gear up for Federal Reserve Chair Jerome Powell's testimony to Congress.\n\nPowell takes the stage on Capitol Hill later Tuesday for his semi-annual update on monetary policy. He'll start with the Senate and repeat his performance in the House of Representatives on Wednesday.\n\nThe testimony is likely to do little to revive BTC's upswing. The consensus is that Powell will uphold his data-dependent approach, reiterating that the central bank isn't in a rush to cut interest rates anytime soon and is keen on observing more progress with inflation.\n\nData shared by Bloomberg's Lisa Abramowicz shows that market-implied inflation rates for the next two to five years have soared to their highest levels since early 2023. Meanwhile, President Donald Trump's tariffs could underpin inflation. The CME's FedWatch tool currently shows traders anticipate just 50 basis points in cuts by the end of next year, significantly less than the Federal Open Market Committee (FOMC) outlined in its December forecasts.\n\nHowever, there's a glimmer of hope: If the Consumer Price Index (CPI) release on Wednesday comes in weaker than expected, it could create some upside volatility.\n\nIn other news, Japanese mobile-game studio Gumi said it is planning to purchase bitcoin worth 1 billion yen ($6.6 million), following Tokyo-listed Metaplanet's lead. Metaplanet began buying BTC last year and its shares soared a staggering 4,800% in 12 months.\n\nSocial media continues to buzz with debate over the imbalance in Ethereum's ecosystem, where layer-2 scaling products retain most of the generated revenue while contributing only a small percentage back to the foundational layer. Solana, meanwhile, continues to outshine Ethereum and other smart-contract blockchains in decentralized exchange trading volumes and revenue.\n\nIn traditional markets, gold is taking bull breather while copper, often seen as proxy for global economic health, is trading lower, snapping a six-day winning streak. Stay alert!\n\nCoinDesk's Consensus to take place in Hong Kong on Feb. 18-20 and in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/11/crypto-daybook-americas-ada-rallies-btc-looks-to-powell-s-testimony-on-capitol-hill",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Jerome Powell",
+                "Lisa Abramowicz",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Federal Reserve Chair"
+            ],
+            "companies": [
+                "Grayscale",
+                "Gumi",
+                "Metaplanet",
+                "CoinDesk",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "Senate",
+                "House of Representatives",
+                "Bloomberg",
+                "CME",
+                "Federal Open Market Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "BTC",
+            "bitcoin",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a mixed market with ADA rallying due to ETF application but BTC rangebound awaiting Powell's testimony, with both positive and negative factors mentioned."
+    }
+}

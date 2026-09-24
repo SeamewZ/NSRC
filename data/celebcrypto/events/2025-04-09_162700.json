@@ -1,0 +1,45 @@
+{
+    "title": "U.S. House Hearing Marks Progress Toward Crypto Market-Structure Bill",
+    "summary": "Panel Democrats were stymied by witnesses declining to talk about potential conflicts of interest from President Donald Trump's crypto businesses.",
+    "time": "2025-04-09T16:27:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. House Financial Services Committee checked the next box in moving toward what Representative Bryan Steil referred to as the \"second half\" of President Donald Trump's crypto agenda: a bill to set U.S. crypto market rules for a fully regulated domestic industry.\n\nSteil, the Republican chairman of the panel's crypto subcommittee, said that the first half of Trump's goal is well underway — Congress' stablecoin legislation that's already advanced through committees in both the House and Senate — so a Wednesday hearing explored the other long-awaited digital assets bill to establish the structure of crypto markets. Such hearings represent a rung on such an effort's climb through Congress.\n\nRepresentative French Hill, the Arkansas Republican who runs the overall committee, indicated that those working on the bill are closer to releasing a successor to the Financial Innovation and Technology for the 21st Century Act (FIT21), the House legislation that passed last year but failed to progress through the Senate.\n\n\"The committee has engaged with a wide range of stakeholders, from government agencies to leaders in the ecosystem to identify ways market structure legislation can be further refined and strengthened,\" he said during the hearing. \"We're actively working to release a legislative discussion draft that reflects that feedback from members and market participants.\"\n\nDemocrats on the committee returned repeatedly to the crypto business activity of Trump and his family, questioning industry lawyers about whether it represents a conflict of interest. Representative Maxine Waters, the committee's ranking Democrat, accused the panel of trying to make Trump \"the king of crypto by passing legislation that lets him corner the market on stablecoins, kick George Washington off the dollar and make his own stablecoin.\"\n\nThe witnesses mostly declined to engage on Trump, though a consumer advocate testifying on Wednesday, Alexandra Thornton, a senior director at the Center for American Progress, noted \"there have been a number of things that the Trump administration has done that have favored crypto, and they include many that you mentioned, but also letting go of many enforcement staff, dropping many cases against crypto.\"\n\nThe lawmakers also drilled down on the proper roles of the Securities and Exchange Commission and the Commodity Futures Trading Commission in future crypto oversight, and how Congress should define which regulatory buckets should handle the different digital assets. In recent years, the SEC's interpretation of how to use securities law to identify which crypto tokens are securities left the industry in legal confusion and mired in enforcement disputes, despite some early guidance from the agency on how to negotiate legal standards.\n\n\"Market participants have still found it challenging to apply,\" said Tiffany Smith, who works with crypto clients at law firm WilmerHale. She added that the definitions become even more complicated when the bulk of crypto transactions happen on secondary markets, such as on crypto exchanges. \"Regulatory clarity is needed,\" she said.\n\nLater on Wednesday, the subcommittee's counterpart within the House Agriculture Committee had a related hearing, aimed at advancing a market-structure bill. That committee oversees the CFTC, which is likely to have a leading role in the policing of U.S. crypto transactions.\n\nRead More: U.S. House Stablecoin Bill Poised to Go Public, Lawmaker Atop Crypto Panel Says\n\nUPDATE (April 9, 2025, 18:17 UTC): Adds information on related House hearing in Ag committee.",
+    "url": "https://www.coindesk.com/policy/2025/04/09/u-s-house-hearing-marks-progress-toward-crypto-market-structure-bill",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bryan Steil",
+                "Donald Trump",
+                "French Hill",
+                "Maxine Waters",
+                "Alexandra Thornton",
+                "Tiffany Smith",
+                "George Washington"
+            ],
+            "positions": [
+                "Republican chairman of the panel's crypto subcommittee",
+                "President",
+                "Arkansas Republican who runs the overall committee",
+                "committee's ranking Democrat",
+                "senior director at the Center for American Progress",
+                "lawyer at WilmerHale"
+            ],
+            "companies": [
+                "WilmerHale"
+            ],
+            "organizations": [
+                "U.S. House Financial Services Committee",
+                "Congress",
+                "House",
+                "Senate",
+                "Center for American Progress",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "House Agriculture Committee"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes progress toward comprehensive crypto market-structure legislation and regulatory clarity, which typically boosts market confidence and is viewed positively by the industry."
+    }
+}

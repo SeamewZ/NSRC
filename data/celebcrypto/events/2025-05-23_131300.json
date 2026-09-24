@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Declines 3.2% as All Assets Trade Lower",
+    "time": "2025-05-23T13:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Sui (SUI) Dropped 6.8% and NEAR Protocol (NEAR) fell 5.8%, leading the index lower from Thursday.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3239.11, down 3.2% (-107.44) since 4 p.m. ET on Thursday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: SOL (-1.1%) and BCH (-1.8%).\nLaggards: SUI (-6.8%) and NEAR (-5.8%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/23/coindesk-20-performance-update-index-declines-3-2-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "NEAR",
+            "SOL",
+            "BCH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index declined 3.2% with all 20 assets trading lower, led by significant drops in SUI (-6.8%) and NEAR (-5.8%)."
+    }
+}

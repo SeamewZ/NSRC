@@ -1,0 +1,50 @@
+{
+    "title": "Solana’s TVL Crosses $10B for First Time Since FTX Collapse After TRUMP Memecoin Launch",
+    "time": "2025-01-19T20:54:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The launch of Donald Trump’s official memecoin on Solana has not only boosted the cryptocurrency’s price and trading volume, but also perceived odds of a SOL ETF.",
+    "content": "The \"official\" memecoin of incoming U.S. President Donald Trump has boosted interest in Solana\nSOL\n$156.85\n, leading to a surge in both its price and trading volume, which in turn helped the total dollar value locked (TVL) on the network top $10 billion for the first time since the collapse of FTX.\n\nDonald Trump’s choice of issuing the memecoin on Solana helped SOL rise more than 23% since its announcement, moving the cryptocurrency’s price to a new all-time high and boosting the dollar value locked on its smart contracts. Data from DeFiLlama shows TVL on Solana is now at $12 billion, a new all-time high.\n\nMeasured in SOL, the value locked on the network has been steadily growing since the beginning of last year and recently topped 45 million SOL. This level hasn’t been seen since August 2022, ahead of the collapse of FTX, whose co-founder Sam Bankman-Fried was a major Solana proponent.\n\nThe launch of Donald Trump’s official memecoin, $TRUMP, was co-ordinated by CIC Digital LLC, a Trump-affiliated organization, the BBC reported. Together with Fight Fight Fight LLC, they own 80% of the memecoin’s supply set to be released over the next three years.\n\nThe memecoin, which has been dominating headlines in the space and is set to be listed on major cryptocurrency exchanges including Binance and Coinbase, is currently the third-largest across all blockchains behind Shiba Inu and Dogecoin in terms of market capitalization.\n\nThe token was launched by a team including Solana ecosystem protocols Jupiter and Meteora and led to a trading frenzy on the network’s decentralized exchanges, with DeFiLlama showing Raydium surpassed Tether in 24-hour fee generation.\n\nMoonshot, the memecoin trading platform featured on the memecoin’s website posted on social media by President-elect Donald Trump, reported a 12-hour trading volume of nearly $400 million after the memecoin launched, adding it onboarded over 200,000 users onto the network in the process.\n\nThe network choice also helped boost the perceived odds of a spot Solana exchange-traded fund (ETF) being launched in the first half of the year. Polymarket traders went from weighing a 43% chance such a product would be launched by July 31, to 61%.\n\nThe trading frenzy came during the weekend, when trading volumes are typically muted as many institutional investors and professional traders are less active. This means that speculative activity on the network could well continue during the week.\n\nBeyond that, the memecoin’s launch is bringing Solana an influx of new users and presents the network, which has suffered multiple major outages, with an opportunity to showcase its robustness. If it withstands the test, the Solana ecosystem could keep on seeing significant inflows.\n\nThe introduction of Trump's token also signals the U.S. government's change in stance toward the cryptocurrency sector and offers it increased legitimacy, as the President of the world’s largest economy has quite literally launched a Solana-based memecoin.\n\nThe memecoin’s rollout signals a “change in US fintech policy towards much more permissive innovation,” crypto OG and Shapeshifter founder Erik Voorhees commented.",
+    "url": "https://www.coindesk.com/markets/2025/01/19/solana-s-tvl-crosses-10-b-for-first-time-since-ftx-collapse-after-trump-memecoin-launch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Sam Bankman-Fried",
+                "Erik Voorhees"
+            ],
+            "positions": [
+                "U.S. President",
+                "President-elect",
+                "co-founder",
+                "founder"
+            ],
+            "companies": [
+                "FTX",
+                "CIC Digital LLC",
+                "Fight Fight Fight LLC",
+                "Binance",
+                "Coinbase",
+                "Jupiter",
+                "Meteora",
+                "Raydium",
+                "Moonshot",
+                "Polymarket",
+                "Shapeshifter"
+            ],
+            "organizations": [
+                "BBC",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "TRUMP",
+            "Shiba Inu",
+            "Dogecoin",
+            "Tether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including Solana's TVL reaching new all-time highs, significant price increases, boosted ETF approval odds, and an influx of new users to the network."
+    }
+}

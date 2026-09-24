@@ -1,0 +1,32 @@
+{
+    "title": "ARK Invest Swaps Nearly $9M of Its Own Bitcoin ETF for Coinbase",
+    "time": "2025-02-26T09:28:00",
+    "author": "Jamie Crawley",
+    "summary": "The rout in the cryptocurrency market on Tuesday brought about record outflows from spot bitcoin ETFs in the U.S",
+    "content": "Cathie Wood's investment management company ARK Invest snapped up $8.7 million of Coinbase (COIN) shares on Tuesday as the rout in the cryptocurrency saw crypto equities slide.\n\nARK added 41,032 COIN shares to its Next Generation Internet ETF (ARKW), as the crypto exchange's stock fell nearly 6.5% on the day to $212.49.\n\nMeanwhile, ARK sold 98,060 shares of its own spot bitcoin ETF (ARKB), worth around $8.6 million.\n\nThe rout in the cryptocurrency market on Tuesday, saw bitcoin\nBTC\n$103,749.01\nfall to a three-month low below $87,000, brought about record outflows from spot bitcoin ETFs in the U.S.\n\nThe funds registered net outflows of nearly $940 million, the largest single-day sale since they began trading in January 2024, according to data tracked by SoSoValue.\n\nThe crypto market slide however presented an opportunity to make its largest COIN purchase in dollar terms since Aug. 5, when it added 93,800 shares for $17.8 million.",
+    "url": "https://www.coindesk.com/markets/2025/02/26/ark-invest-swaps-nearly-usd9m-of-its-own-etf-shares-for-coinbase",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Cathie Wood"
+            ],
+            "positions": [],
+            "companies": [
+                "ARK Invest",
+                "Coinbase",
+                "COIN"
+            ],
+            "organizations": [
+                "ARK Invest",
+                "Coinbase",
+                "SoSoValue"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a cryptocurrency market rout with bitcoin falling to a three-month low and record outflows from spot bitcoin ETFs."
+    }
+}

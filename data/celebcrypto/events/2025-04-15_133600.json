@@ -1,0 +1,38 @@
+{
+    "title": "AI Crypto Tokens Nurse Losses as Nvidia Bearish Options Bets Cross the Tape",
+    "summary": "These could be protective plays, one observer said, referring to the activity in the NVDA put options.",
+    "time": "2025-04-15T13:36:00",
+    "author": "Omkar Godbole",
+    "content": "Tokens associated with artificial intelligence (AI) fared worse than the biggest cryptocurrencies over the past 24 hours. The relative weakness comes amid unusual activity in put options tied to shares of Nvidia (NVDA), the chipmaker that on Monday said it will will start building its AI supercomputers in the U.S.\n\nWhile bitcoin (BTC), the largest cryptocurrency by market value, added 0.6% over 24 hours to $85,500, TAO, the token of blockchain-based machine learning network Bittensor, traded 3.6% lower at $239 and decentralized GPU rendering platform Render Network's RNDR token was 1.7% down at $3.93, according to data source Coingecko. Other tokens, including FET, SEI and GRT lost 2%.\n\nNvidia short-dated put options saw notable activity on Monday, according to data tracked by Convex Value. The action was concentrated in the $100 strike put options expiring on April 17, April 25 and May 2. Additionally, there was activity in the $60 put expiring on April 17 and $50 and $85 strike puts expiring on May 16.\n\nConvex Value called the activity in these so-called out-of-the-money put options at strikes below the Santa Clara, California-based company's spot price of $110 unusual. \"My bet would be [these are] protective plays,\" an analyst at the platform told CoinDesk.\n\nBuying a put option is akin to buying insurance against market slides. Traders typically snap them up when looking to profit from or hedge their spot/futures bets from a potential market decline.\n\n\"Someone knows something,\" Substack-based analytics service Merlin Capital posted on X.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/ai-crypto-tokens-nurse-losses-as-nvidia-bearish-options-bets-cross-the-tape",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "Nvidia",
+                "CoinDesk",
+                "Convex Value",
+                "Merlin Capital"
+            ],
+            "organizations": [
+                "Bittensor",
+                "Render Network",
+                "Coingecko",
+                "Substack"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "TAO",
+            "RNDR",
+            "FET",
+            "SEI",
+            "GRT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes AI crypto tokens underperforming the broader market and unusual bearish options activity on Nvidia, which is seen as a protective play against potential market declines."
+    }
+}

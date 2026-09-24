@@ -1,0 +1,45 @@
+{
+    "title": "Trump to Host First Crypto Roundtable at White House Next Week",
+    "summary": "Crypto and AI Czar David Sacks, \"prominent founders, CEOs and investors\" will convene at the White House with U.S. President Donald Trump.",
+    "time": "2025-03-01T02:31:00",
+    "author": "Nikhilesh De",
+    "content": "U.S. President Donald Trump will host a crypto summit on March 7, the White House announced.\n\nWhite House Crypto and AI Czar David Sacks and Bo Hines, the executive director of a working group on digital assets, will run the meeting, though Trump will speak at the summit, a late Friday press release said.\n\n\"Attendees will include prominent founders, CEOs, and investors from the crypto industry, as well as members of the President's Working Group on Digital Assets,\" the release said.\n\nThe summit will come just about a month after Sacks, alongside congressional leaders, gave his first public remarks as Trump's crypto czar.\n\n\"We want to keep that innovation onshore in the U.S.,\" he said at the Feb. 4 press conference. \"Financial assets are destined to become digital, just like every analog industry has become digital, and we want that value creation to happen in the United States, rather than giving it away to other countries.\"\n\nThe White House did not name the summit's other attendees.\n\nFriday's announcement ends a busy week for the crypto industry. Earlier in the day, a federal judge signed off on the Securities and Exchange Commission's motion to withdraw its case against Coinbase.\n\nJoe Lubin, the CEO of Ethereum incubator ConsenSys, and Cameron Winklevoss, the co-founder of exchange Gemini, both said earlier in the week that the SEC informed their respective companies that it would shutter its investigations into those firms.\n\nThe SEC also filed to pause its case against the Tron Foundation and founder Justin Sun.\n\n\"After the previous administration unfairly prosecuted the digital asset space, President Trump's policy vision represents a new era for digital financial technology,\" the press release said. \"The administration is committed to providing a clear regulatory framework, enabling innovation and protecting economic liberty.\"",
+    "url": "https://www.coindesk.com/policy/2025/02/28/white-house-announces-crypto-roundtable-for-next-week",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "David Sacks",
+                "Bo Hines",
+                "Joe Lubin",
+                "Cameron Winklevoss",
+                "Justin Sun"
+            ],
+            "positions": [
+                "U.S. President",
+                "Crypto and AI Czar",
+                "executive director of a working group on digital assets",
+                "CEO",
+                "co-founder",
+                "founder"
+            ],
+            "companies": [
+                "Coinbase",
+                "ConsenSys",
+                "Gemini",
+                "Tron Foundation"
+            ],
+            "organizations": [
+                "White House",
+                "President's Working Group on Digital Assets",
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes positive regulatory developments including a White House crypto summit, SEC case withdrawals, and commitments to clear regulatory frameworks that support innovation."
+    }
+}

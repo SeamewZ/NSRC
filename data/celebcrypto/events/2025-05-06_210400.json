@@ -1,0 +1,41 @@
+{
+    "title": "Bitcoin Dominance Soars Ahead of FOMC as Volatility Burst Looms, Says Analyst",
+    "summary": "Crypto markets are in a holding pattern as capital rotation from altcoins pushed bitcoin's market share to fresh 4-year high.",
+    "time": "2025-05-06T21:04:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin\nBTC\n$102,012.78\ntightened its grip on the crypto market on Tuesday, with dominance surging to fresh four-year high as crypto traders rotated into the market’s anchor asset ahead of tomorrow's key Federal Reserve policy meeting.\n\nBTC held steady around the $94,000-$95,000 area, up a modest 0.4% over the past 24 hours and extending a tight-range trading pattern that has persisted since the weekend.\n\nMeanwhile, the broad-market CoinDesk 20 Index slipped 0.7% lower, with Ethereum's ether\nETH\n$3,341.39\n, and native tokens of\nSUI\n$2.0280\n,\nAPT\n$2.6196\nand Polygon (POL) dragging the benchmark lower.\n\nA check on traditional markets showed stocks booking back-to-back losses, with the S&P 500 and the tech-heavy Nasdaq closing 0.7%-0.8% down, once again underperforming BTC.\n\nDespite the lack of major price action, focus has increasingly turned to bitcoin’s growing share of the overall crypto market: The so-called Bitcoin Dominance metric surpassed 65%, its highest reading since 2021 January, according to TradingView data, signaling capital consolidating into the asset perceived as the most resilient in the face of macroeconomic uncertainty.\n\nJoel Kruger, market strategist at LMAX Group, described the current landscape as one of pause and anticipation. \"The cryptocurrency market has remained largely stagnant since the weekly open, with prices settling into a holding pattern as investors await a pivotal catalyst,\" he noted. \"This impetus may arise from traditional markets, driven by updates on tariff-related economic impacts or the Federal Reserve’s anticipated FOMC decision on May 7.\"\n\nThe Federal Reserve is widely expected to hold interest rates steady, according to the CME FedWatch Tool, but traders are on edge for any shift in Fed Chair Jerome Powell's tone that could impact risk appetite.\n\nWith bitcoin's recent price action being extremely flat, the upcoming FOMC meeting \"is rigged to cause significant volatility,\" said Vetle Lunde, head of research at K33. He noted in a Tuesday report that BTC's short term volatility is \"abnormally compressed,\" with the 7-day average dropping to the lowest level last week in 563 days.\n\n\"Such low volatility regimes in BTC tend to be short-lived,\" Lunde said. \"Violent volatility outbursts typically follow this form of stability once prices start to move, as leveraged trades are unwound and traders are reactivated into the market.\"\n\nHe said that a significant cascade lower is unlikely, as funding rates for perpetual swaps are consistently negative. Similar periods historically offered good buying opportunities for medium and long-term investors, Lunde added, favoring \"aggressive spot exposure\" ahead.",
+    "url": "https://www.coindesk.com/markets/2025/05/06/bitcoin-dominance-soars-ahead-of-fomc-as-volatility-burst-looms-says-analyst",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joel Kruger",
+                "Vetle Lunde",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "market strategist",
+                "head of research"
+            ],
+            "companies": [
+                "LMAX Group",
+                "K33"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "FOMC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "SUI",
+            "APT",
+            "Polygon",
+            "POL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes markets in a holding pattern with stagnant prices awaiting a catalyst, despite bitcoin dominance reaching a four-year high and analysts noting compressed volatility that could lead to future movement."
+    }
+}

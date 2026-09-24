@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: SUI Drops 5.1% as Index Trades Lower From Thursday",
+    "time": "2025-03-21T13:08:00",
+    "author": "CoinDesk Indices",
+    "summary": "Filecoin (FIL) was also an underperformer, declining 3.3%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2642.5, down 1.0% (-27.91) since 4 p.m. ET on Thursday.\n\nFive of 20 assets are trading higher.\n\nLeaders: DOT (+2.1%) and AAVE (+1.6%).\n\nLaggards: SUI (-5.1%) and FIL (-3.3%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/21/coindesk-20-performance-update-sui-drops-5-1-as-index-trades-lower-from-thursday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "FIL",
+            "DOT",
+            "AAVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index is trading down 1.0% with more assets declining than rising, led by significant drops in SUI (-5.1%) and FIL (-3.3%)."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Bitdeer Buys 101 MW Gas Power Plant in Alberta, Canada for BTC Mining",
+    "time": "2025-02-05T04:21:00",
+    "author": "Sam Reynolds",
+    "summary": "The $21.7 million cash deal would give BitDeer the ability to mine BTC at some of the lowest costs in the industry.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nmining company Bitdeer announced today that it had acquired a 101-MW gas-fired power plant near Fox Creek, Alberta, to build a \"vertically integrated\" BTC mining operation.\n\n“We are really excited about planting roots in Alberta, our first site in Canada. This acquisition is the culmination of extensive collaboration with multiple government agencies and the Canadian Blockchain Consortium,\" Haris Basit, chief strategy officer at Bitdeer, said in a press release. \"It marks a significant step in our strategy to become the first fully-vertically integrated Bitcoin miner, giving us unmatched control over costs, energy efficiency, and scalability.\"\n\nBitdeer says they plan to build out a 99 MW datacenter on the site. The site has the capacity to scale to 1 GW. Energy production costs for the facility will be between $20 to $25 per MW/h.\n\nThe plant is also licensed for a 99 MW interconnect to the local power grid, and Bitdeer said it plans to sell power back to the Alberta grid to stabilize prices during periods of high demand.\n\n\"By combining our own power generation, SEALMINER mining machines and opportunistic grid participation, we believe this site will set a new benchmark for industry unit economics,\" Basit added.\n\nBitdeer says it plans to commence site preparation and initial infrastructure development in Q2 2025 and have it fully operational in Q4 2026.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/bitdeer-buys-101mw-gas-power-plant-in-alberta-canada-for-btc-mining",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Haris Basit"
+            ],
+            "positions": [
+                "chief strategy officer"
+            ],
+            "companies": [
+                "Bitdeer"
+            ],
+            "organizations": [
+                "Canadian Blockchain Consortium"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition enables Bitcoin mining at some of the lowest costs in the industry and represents significant infrastructure investment, indicating market confidence and potential positive supply dynamics."
+    }
+}

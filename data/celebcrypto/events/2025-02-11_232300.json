@@ -1,0 +1,49 @@
+{
+    "title": "Crypto Industry Gets Chance to Make Its Case to U.S. Congress",
+    "summary": "In a hearing with the loaded title \"A Golden Age of Digital Assets,\" the sector was — for the first time — mostly treated as a welcome arrival to U.S. finance.",
+    "time": "2025-02-11T23:23:00",
+    "author": "Jesse Hamilton",
+    "content": "The crypto industry got a chance to make a full-throated appeal for Congress to finally intervene and set legal standards for digital assets businesses in the U.S. during a hearing Tuesday in front of the House of Representatives subcommittee that focuses on digital assets.\n\nUnder the Republican-led subcommittee's title \"A Golden Age of Digital Assets,\" the industry representatives showed up in the hearing with momentum at all levels of the federal government, including from the White House, whose crypto czar was the one to first utter the \"golden age\" phrase. Just over two years after the devastation of collapsing crypto lenders and the criminal implosion of FTX in 2022, the industry has proven its sharp recovery with a slate of lawmakers clearly on-board for the legislation the industry has been calling for.\n\n\"Under the Trump administration, we will course correct by creating a workable pathway for responsible digital asset companies to set up operations here in the United States,\" said Representative Bryan Steil, a Wisconsin Republican who chairs the subcommittee that's an offshoot of the House Financial Services Committee.\n\nRepublicans on the panel decried the \"unpredictable and hostile approach\" to crypto of former President Joe Biden's administration (as Steil put it), with an executive branch that's already reversing some of those past policies at the Federal Deposit Insurance Corp. and the Securities and Exchange Commission. But the holy grail for the industry is a wide-reaching bill like the one passed in the House in the previous session of Congress.\n\n\"There are many issues to debate over the next several years, but we need to move now and put that basic foundation in place,\" said Jonathan Jachym, a lawyer and global head of policy at U.S. exchange Kraken.\n\nAmong the hearing's witnesses was Timothy Massad, a former chairman of the Commodity Futures Trading Commission when it first flagged bitcoin\nBTC\n$102,110.12\nas a commodity. He cautioned the lawmakers not to push too hard into the details as they craft their digital assets market-structure legislation, because he said the CFTC and the SEC are more expert in the minutiae it'll require, and the agency leaders should be the ones to work out the technical aspects.\n\nThis was the first hearing of the digital assets panel during this new Congress, but other committees in both chambers have already been digging into crypto-heavy issues, such as debanking. Earlier on Tuesday, Federal Reserve Chairman Jerome Powell agreed that debanking is a problem worth exploring, and he also agreed that the Fed wouldn't be chasing a central bank digital currency on his watch.\n\nWhile Republicans and the industry witnesses bashed the Biden administration's track record, Dems took the opportunity to criticize President Donald Trump for embracing crypto for his personal gain by backing memecoin $TRUMP, which they characterized as a \"crypto scam\" that presents a dangerous conflict and may violate the constitutional provision against federal officials seeking profit from their office.",
+    "url": "https://www.coindesk.com/policy/2025/02/11/crypto-industry-gets-chance-to-make-its-case-to-u-s-congress",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bryan Steil",
+                "Jonathan Jachym",
+                "Timothy Massad",
+                "Jerome Powell",
+                "Joe Biden",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Representative",
+                "Chairman",
+                "lawyer and global head of policy",
+                "former chairman",
+                "Federal Reserve Chairman",
+                "former President",
+                "President"
+            ],
+            "companies": [
+                "Kraken",
+                "FTX"
+            ],
+            "organizations": [
+                "U.S. Congress",
+                "House of Representatives",
+                "House Financial Services Committee",
+                "Federal Deposit Insurance Corp.",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "$TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The hearing treated the crypto industry as a welcome arrival to U.S. finance with momentum from government levels and lawmakers clearly on-board for supportive legislation, indicating positive regulatory developments."
+    }
+}

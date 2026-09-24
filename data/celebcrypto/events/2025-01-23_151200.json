@@ -1,0 +1,29 @@
+{
+    "title": "Circle Unveils Paymaster to Allow USDC to Be Used for Transaction Fees",
+    "time": "2025-01-23T15:12:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The product allows users to interact with decentralized applications using USDC only, ditching the need for native tokens.",
+    "content": "Circle, the issuer of the $48 billion USDC stablecoin, introduced Paymaster, a product allowing users to pay for transaction fees on Arbitrum and Base using the second-biggest stablecoin instead of ether (ETH), the second-biggest cryptocurrency.\n\nBlockchain transactions require users to pay transaction fees that are used to compensate validators for processing and securing these transactions. Different blockchains often use different tokens, forcing users to manage an assortment of tokens across the various chains.\n\nPaymaster accepts USDC and then handles the native token payments to the blockchain validators, the company said in a blog post.\n\nThe service, which is set to expand to Ethereum, Polygon POS, and Solana, charges users 10% of the gas cost for each transaction. The fee is being waived until June 30 to encourage adoption.",
+    "url": "https://www.coindesk.com/business/2025/01/23/circle-unveils-paymaster-to-allow-usdc-to-be-used-for-transaction-fees",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Circle"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "ETH",
+            "Ethereum",
+            "Arbitrum",
+            "Base",
+            "Polygon POS",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The introduction of Paymaster simplifies user experience and expands USDC utility, which promotes adoption and market confidence in the cryptocurrency ecosystem."
+    }
+}

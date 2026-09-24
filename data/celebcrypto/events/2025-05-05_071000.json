@@ -1,0 +1,32 @@
+{
+    "title": "Solana Quietly Fixes Bug That Could Have Let Attackers Mint and Steal Certain Tokens",
+    "summary": "A sophisticated attacker could forge invalid proofs that the on-chain verifier would still accept. This would have allowed unauthorized actions such as minting unlimited tokens or withdrawing tokens from other accounts.",
+    "time": "2025-05-05T07:10:00",
+    "author": "Shaurya Malwa",
+    "content": "The Solana Foundation has disclosed a previously unknown vulnerability in its privacy-focused token system that could have allowed attackers to forge fake zero-knowledge proofs, enabling unauthorized minting or withdrawals of tokens.\n\nThe vulnerability was first reported on April 16 through Anza’s GitHub security advisory, accompanied by a working proof-of-concept. Engineers from Solana development teams Anza, Firedancer, and Jito verified the bug and began working on a fix immediately, per a post-mortem published Saturday,\n\nThe issue stemmed from the ZK ElGamal Proof program, which verifies zero-knowledge proofs (ZKPs) used in Solana’s Token-22 confidential transfers. These extension tokens enable private balances and transfers by encrypting amounts and using cryptographic proofs to validate them.\n\nZKPs are a cryptographic method that lets someone prove they know or have access to something, such as a password or age, without revealing the thing itself.\n\nIn crypto applications, these can be used to prove a transaction is valid without showing specific amounts or addresses (which can otherwise be used by malicious actors to plan exploits).\n\nThe bug occurred because some algebraic components were missing from the hashing process during the Fiat-Shamir transformation — a standard method to make zero-knowledge proofs non-interactive. (Non-interactive means turning a back-and-forth process into a one-time proof anyone can verify.)\n\nA sophisticated attacker could forge invalid proofs that the on-chain verifier would still accept.\n\nThis would have allowed unauthorized actions such as minting unlimited tokens or withdrawing tokens from other accounts.\n\nAs such, the vulnerability did not affect standard SPL tokens or the main Token-2022 program logic.\n\nPatches were distributed privately to validator operators beginning April 17. A second patch was pushed later that evening to address a related issue elsewhere in the codebase.\n\nBoth were reviewed by third-party security firms Asymmetric Research, Neodyme, and OtterSec. By April 18, a supermajority of validators had adopted the fix.\n\nThere is no indication that the bug was exploited, and all funds remain secure, according to the post-mortem.",
+    "url": "https://www.coindesk.com/markets/2025/05/05/solana-quietly-fixes-bug-that-could-have-let-attackers-mint-and-steal-certain-tokens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "engineers"
+            ],
+            "companies": [
+                "Anza",
+                "Firedancer",
+                "Jito",
+                "Asymmetric Research",
+                "Neodyme",
+                "OtterSec"
+            ],
+            "organizations": [
+                "Solana Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The vulnerability was successfully patched before exploitation, all funds remain secure, and the quick response demonstrates strong security practices."
+    }
+}

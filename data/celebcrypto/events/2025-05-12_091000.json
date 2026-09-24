@@ -1,0 +1,38 @@
+{
+    "title": "Stablecoins Will Expand Beyond Crypto Trading, Become Part of Mainstream Economy, Citi Predicts",
+    "time": "2025-05-12T09:10:00",
+    "author": "Ian Allison",
+    "summary": "The next five years will likely see stablecoins substitute for some overseas and domestic U.S. currency holdings, according to a Citi Future Finance report.",
+    "content": "The stablecoin market could soon eclipse the entire crypto trading ecosystem that gave birth to it as regulatory tailwinds allow for the integration of the fixed-value tokens into the mainstream economy, according to predictions from global bank Citi.\n\nAbove and beyond their role as tokenized cash for the crypto trading community, stablecoins — digital tokens whose value is pegged primarily to the U.S. dollar — are already expanding into payments and remittances. The next five years will likely see them replacing some overseas and domestic U.S. currency holdings as well as forming part of the short-term liquidity held at banks, according to a recent report from Citi Institute’s Future Finance think-tank. If yield-bearing stablecoins can be issued, those may find a role in term deposits and retail money market funds.\n\n“We're looking at the integration of stablecoins into what you call the mainstream economy,” Ronit Ghose, the global head of Future of Finance, Citi Institute, said in an interview. “For example, stablecoins could be the cash leg for tokenized financial assets, or for payments by SMEs and large corporates. The dollar, and to a lesser extent the euro, has this kind of international currency status. Stablecoins allow people all over the world to hold dollars or euros in an easy, low cost way.”\n\nThe stablecoin market size is currently around $240 billion, led by Tether's $145 billion USDT and Circle's $60 billion USDC. In Citi’s base-case prediction, stablecoins will grow to $1.6 trillion by 2030, provided regulatory support and institutional integration take hold. In the bank's more bullish scenario, the market could balloon to $3.7 trillion. (The global cryptocurrency market cap today stands around $3.45 trillion.)\n\nLarge crypto firms like Fireblocks, a platform for managing and moving crypto assets, said it's also noted a swing in stablecoin use away from a settlement and on/off ramp trading tool toward payments.\n\n“Payment companies are leveraging stablecoins for a variety of pure-play payment flows, including cross-border transfer, remittance, merchant settlements and others,” CEO Michael Shaulov said in an email. “Payment companies represent 11% of all of our clients, but 16% of the overall stablecoin transactions with over 30% growth of Q/Q in volumes. It is likely that this growth will continue, and they will represent 50% of the stablecoin volume within 12 months.”\n\nOver the past 90 days, the combined USDT and USDC volume on Fireblocks was $517 billion, some 44% of the total volume, a figure that has doubled over the past several years. Of that, payment companies generated $82 billion, up 38.2% quarter over quarter, Fireblocks said.\n\nThe Empire Strikes Back\n\nIn the past, Citi’s Future Finance team has weighed the potential of central bank digital currencies (CBDCs), often seen as the antithesis of freewheeling libertarian innovation by the crypto community, a view also held by President Donald Trump.\n\nFor Citi's Ghose, the growth of stablecoins raises many questions: If the U.S. supports stablecoins, will Europe too? Or will Europe prefer CBDCs? Will CBDCs grow in the rest of the world? How will deposit tokens and tokenized deposits play out?\n\nWhatever the landscape looks like, banks will likely avail themselves of all of the above, Ghose said. All banks, by definition, conduct inter-bank payments, which make sense with a wholesale CBDC, as well as retail CBDCs, he said.\n\n“Depending on the country, there may be a stablecoin option or there may be a CBDC option,” Ghose said. “From a crypto perspective, it’s like Starwars, where the CBDCs are the evil Empire, as opposed to the crypto guys, who see themselves as Luke Skywalker.”",
+    "url": "https://www.coindesk.com/business/2025/05/12/stablecoins-will-expand-beyond-crypto-trading-become-part-of-mainstream-economy-citi-predicts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ronit Ghose",
+                "Michael Shaulov",
+                "Donald Trump"
+            ],
+            "positions": [
+                "global head of Future of Finance",
+                "CEO"
+            ],
+            "companies": [
+                "Citi",
+                "Tether",
+                "Circle",
+                "Fireblocks"
+            ],
+            "organizations": [
+                "Citi Institute",
+                "Future Finance think-tank",
+                "Citi Institute's Future Finance"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news predicts massive growth in stablecoin adoption and market size, with Citi forecasting stablecoins could reach $1.6-$3.7 trillion by 2030 and expand into mainstream payments and banking."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "IRS' Crypto Leads Are Leaving the Agency After Accepting DOGE Deals",
+    "summary": "The pair took voluntary resignation offers and left their positions after only a little more than a year of government service, according to two people.",
+    "time": "2025-05-02T20:10:00",
+    "author": "Nikhilesh De",
+    "content": "The IRS lost two key directors working on crypto initiatives, Seth Wilks and Raj Mukherjee, on Friday after they accepted deferred resignation offers directed by the Department of Government Efficiency.\n\nWilks and Mukherjee, who both went to the IRS from the crypto industry, are technically still employees with the IRS for the next few months but they are on paid administrative leave as of Friday afternoon, two people familiar with the situation told CoinDesk. President Donald Trump's administration, through DOGE, offered deferred resignations to a wide array of federal employees earlier this year.\n\nWilks, who was previously a vice president at TaxBit, and Mukherjee, who was previously ConsenSys and Binance.US' head of tax, both joined the IRS Digital Asset Initiative in February 2024, and were tasked with helping the IRS build a better approach to crypto taxation, including leading the agency’s efforts to build reporting, compliance and enforcement programs for crypto and coordinating with the industry. They worked on an updated 1099-DA tax form shared last summer to aid U.S. persons with filing taxes tied to digital asset transactions.\n\nThe pair also oversaw parts of the agency's efforts to draft tax rules for the crypto industry.\n\nThe IRS finalized one such rule, imposing certain data collection requirements on decentralized finance (DeFi) brokers, in the waning days of the former Joe Biden administration. This rule was overturned by Congress earlier this year under the Congressional Review Act in a joint resolution signed by Trump.\n\nWilks was the IRS' executive director of digital asset strategy and development, while Mukherjee was the executive director of the digital assets office.\n\nBoth people who spoke to CoinDesk noted that the two officials had accepted voluntary buyouts but that these deferred resignations came ahead of expected cuts to IRS staff.\n\nMore than 20,000 IRS employees signed up for the deferred resignation program, the New York Times reported last month, with these employees being put on administrative leave through September.",
+    "url": "https://www.coindesk.com/policy/2025/05/02/irs-crypto-leads-are-leaving-the-agency-after-accepting-doge-deals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Seth Wilks",
+                "Raj Mukherjee",
+                "Donald Trump",
+                "Joe Biden"
+            ],
+            "positions": [
+                "executive director of digital asset strategy and development",
+                "executive director of the digital assets office",
+                "vice president",
+                "head of tax",
+                "President"
+            ],
+            "companies": [
+                "TaxBit",
+                "ConsenSys",
+                "Binance.US"
+            ],
+            "organizations": [
+                "IRS",
+                "Department of Government Efficiency",
+                "DOGE",
+                "Congress",
+                "IRS Digital Asset Initiative",
+                "New York Times"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The departure of key IRS crypto directors and the overturning of crypto tax rules suggests regulatory uncertainty and potential setbacks for crypto taxation infrastructure."
+    }
+}

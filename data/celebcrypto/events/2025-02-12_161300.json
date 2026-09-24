@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Litecoin (LTC) Falls 4.7% as Index Inches Lower",
+    "time": "2025-02-12T16:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Hedera (HBAR) was also among the underperformers, dipping 3.9%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3136.62, down 0.6% (-20.46) since 4 p.m. ET on Tuesday.\n\nSix of 20 assets are trading higher.\n\nLeaders: APT (+1.8%) and DOT (+1.7%).\n\nLaggards: LTC (-4.7%) and HBAR (-3.9%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/12/coindesk-20-performance-update-litecoin-ltc-falls-4-7-as-index-inches-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "LTC",
+            "HBAR",
+            "APT",
+            "DOT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index declined 0.6% with more assets trading lower than higher, and significant losses in LTC (-4.7%) and HBAR (-3.9%) indicating overall market weakness."
+    }
+}

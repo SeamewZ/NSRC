@@ -1,0 +1,65 @@
+{
+    "title": "CoinDesk Weekly Recap: Stablecoins, Stablecoins, Stablecoins",
+    "time": "2025-03-28T16:46:00",
+    "author": "Benjamin Schiller",
+    "summary": "Wyoming, Fidelity, Trump, Japan. They all want them.",
+    "content": "It was a bad week for crypto prices, with BTC and ETH both falling and the CoinDesk 20, which covers 80% of the market, losing 7% since Monday.\n\nBut less speculative assets showed plenty of volume. Stablecoins, in particular, were the name of the game this week.\n\nThe U.S. House introduced a stablecoin bill, following up on the Senate version that was approved by committee last week. Jesse Hamilton reported. Wyoming (aka “The Blockchain State”) wants its own stablecoin and it’s testing the idea on Avalanche, Solana and Ethereum, Kris Sandor reported.\n\nWLFI\n$0.1104\n, the financial protocol backed by Donald Trump and his family, confirmed the launch of its stablecoin (USD1) this week. And Don Trump Jr. trumpeted the news at the DC Blockchain Summit.\n\nMeanwhile, Fidelity Investment, an early TradFi innovator in crypto, is in the advanced stages of launching its own stablecoin. The venture is part of a strategy to enter the tokenized bond market, Jamie Crawley reported.\n\nMeanwhile, Circle, the issuer of the second biggest stablecoin (USDC), has finally secured a license to operate in Japan in partnership with local heavyweight SBI Holdings, Sam Reynolds reported.\n\nIn news from our Europe team, Ian Allison had a scoop about Sam Altman's World Network holding talks with Visa on linking on-chain card features to a self-custody crypto wallet.\n\nWill Canny heard from a source that Sam Hill, Zodia Custody's COO had left and was returning to a role in TradFi. He was able to persuade the Standard Chartered-backed company to confirm the move and we beat the competition with the story.\n\nCanny followed up the next day with a story, unreported elsewhere, on the wave of senior staff losses at crypto prime broker FalconX. (BlackRock, by contrast, was adding talent to its digital assets team in the U.S.)\n\nWe continued to report on Strategy (MicroStrategy), pioneer of the corporate bitcoin treasury. Christine Lee had a two-hour interview with executive chairman Michael Saylor, where he mused about bitcoin as a $200 trillion asset and promised to burn bitcoin in the name of immortality.\n\nStrategy has invested about $33 billion in bitcoin so far through various stock offerings, both common and preferred. And James Van Straten explained the differences between the company's fund-raising instruments for bitcoin purchases. Tom Carreras followed up later with a nice piece showing how MSTR stockholders might be at risk from Saylor’s buy-every-bitcoin strategy.\n\nMeanwhile, the SEC continued to drop enforcement actions against crypto companies (Immutable was the latest, as Cheyenne Ligon reported). But, strangely, one involving Unicoin stayed open, much to the CEO’s chagrin.\n\nIt almost felt like a normal sort of week — more incremental than monumental. But then the president’s own media company announced that it was launching its own ETFs and ETPs with Crypto.com. Thankfully, crypto still has the power to surprise.",
+    "url": "https://www.coindesk.com/coindesk-news/2025/03/28/coindesk-weekly-recap-stablecoins-stablecoins-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Don Trump Jr.",
+                "Sam Altman",
+                "Sam Hill",
+                "Michael Saylor",
+                "Jesse Hamilton",
+                "Kris Sandor",
+                "Jamie Crawley",
+                "Sam Reynolds",
+                "Ian Allison",
+                "Will Canny",
+                "Christine Lee",
+                "James Van Straten",
+                "Tom Carreras",
+                "Cheyenne Ligon"
+            ],
+            "positions": [
+                "COO",
+                "executive chairman",
+                "CEO"
+            ],
+            "companies": [
+                "Fidelity Investment",
+                "Circle",
+                "SBI Holdings",
+                "Visa",
+                "Zodia Custody",
+                "Standard Chartered",
+                "FalconX",
+                "BlackRock",
+                "MicroStrategy",
+                "Immutable",
+                "Unicoin",
+                "Crypto.com",
+                "World Network",
+                "WLFI"
+            ],
+            "organizations": [
+                "U.S. House",
+                "Senate",
+                "DC Blockchain Summit",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH",
+            "USD1",
+            "USDC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states it was a bad week for crypto prices with BTC and ETH both falling and the CoinDesk 20 losing 7% since Monday."
+    }
+}

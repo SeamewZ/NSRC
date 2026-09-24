@@ -1,0 +1,65 @@
+{
+    "title": "Weekly Recap: Crypto Debanking in the Spotlight",
+    "time": "2025-02-07T16:59:00",
+    "author": "Benjamin Schiller",
+    "summary": "Plus: news on stablecoin legislation, Ondo, Berachain, (Micro)Strategy and Ethereum’s future.",
+    "content": "It was a busy week in crypto featuring important product launches, fevered debate around Ethereum, movement on stablecoin legislation, and high-profile Congressional hearings on “debanking.”\n\nDavid Sacks, the Crypto and AI Czar, held a high-profile press conference with Senate leadership, as Senator Hagerty, of Tennessee, introduced a new stablecoin bill. The proposal, which outlines an oversight regime for stablecoin issuance, builds on a bill that passed the House last year but fell in the Senate. It’s more likely to pass this year, now that Republicans are in control. CoinDesk’s Jesse Hamilton had the news.\n\nThe Senate also held hearings on the co-ordinated policy of institutions like the FDIC to deny financial services to crypto companies during the Biden years (aka debanking). Nathan McCauley, CEO Anchorage Digital, an institutional custodian, testified (and also wrote about his experience on CoinDesk). Consensys founder Joe Lubin said his company had been debanked twice as well, Ian Allison reported.\n\nOndo Finance introduced a new tokenization blockchain, in readiness for an expected wave of institutional interest in RWAs. Kris Sandor and Helene Braun had the story. Trump-backed World Liberty Financial immediately bought $470,000 worth of ONDO, the platform’s governance token. Kris Sandor and Francisco Rodrigues reported on that.\n\nThe week’s other big launch came from Berachain, which debuted a mainnet and a 79 million-strong airdrop, Shaurya Malwa reported. At the time of writing, BERA’s market cap was already more than $800 million. Shaurya also provided a prescient analysis of XRP price, well ahead of its decline by analyzing trading patterns.\n\nMeanwhile, Michael Saylor’s MicroStrategy rebranded, dropping the “Micro” but not the commitment to purchasing as much bitcoin as possible. Soon, James Van Straten reported that BlackRock had taken a 5% ownership in the company.\n\nNews around Ethereum was less rosy, as has been the case for a few months now. JPMorgan said ether has underperformed because of competition from rivals like Solana, and because it lacks a compelling narrative (like bitcoin), Will Canny reported. But Ethereum did move forward on its Pectra upgrade and its cheerleaders run deep, even on Wall Street, Margaux Nijkerk said. So better days may be ahead (Eric Trump certainly tweeted an endorsement).\n\nBitcoin is called \"digital gold\" by some, but outside of it, the actual precious metal moves cryptocurrencies too. Gold's historic run has seen prices outperforming the traditional market, taking gold-backed crypto with it. Francisco Rodrigues highlighted how and why tokens like PAXG and XAUT were among the best-performing tokens this year, outperforming even the \"digital gold,\" due to the bullion's rally.\n\nFinally, in an important case for internet privacy, Alexey Pertsev, one of the developers of Tornado Cash, an Ethereum mixer, was released from jail pending an appeal. He had been sentenced to 64 months inside last year. Happy weekend, all.",
+    "url": "https://www.coindesk.com/coindesk-news/2025/02/07/weekly-recap-crypto-debanking-in-the-spotlight",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Sacks",
+                "Senator Hagerty",
+                "Jesse Hamilton",
+                "Nathan McCauley",
+                "Joe Lubin",
+                "Ian Allison",
+                "Kris Sandor",
+                "Helene Braun",
+                "Francisco Rodrigues",
+                "Shaurya Malwa",
+                "Michael Saylor",
+                "James Van Straten",
+                "Will Canny",
+                "Margaux Nijkerk",
+                "Eric Trump",
+                "Alexey Pertsev"
+            ],
+            "positions": [
+                "Crypto and AI Czar",
+                "CEO Anchorage Digital",
+                "founder"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Anchorage Digital",
+                "Consensys",
+                "Ondo Finance",
+                "World Liberty Financial",
+                "Berachain",
+                "MicroStrategy",
+                "BlackRock",
+                "JPMorgan",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "Senate",
+                "FDIC",
+                "House",
+                "Republicans"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "ONDO",
+            "BERA",
+            "XRP",
+            "Solana",
+            "PAXG",
+            "XAUT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes positive developments including stablecoin legislation progress, major blockchain launches, institutional investments, and gold-backed crypto outperformance, indicating overall market confidence and growth potential."
+    }
+}

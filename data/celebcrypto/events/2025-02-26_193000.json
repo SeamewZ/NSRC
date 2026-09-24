@@ -1,0 +1,34 @@
+{
+    "title": "Gotbit Founder Aleksei Andriunin Extradited to U.S. on Fraud Charges",
+    "summary": "The 26-year-old Russian national had been living in Portugal.",
+    "time": "2025-02-26T19:30:00",
+    "author": "Cheyenne Ligon",
+    "content": "Gotbit founder Aleksei Andriunin, a 26-year-old Russian national, was extradited to the U.S. on Tuesday to face fraud charges stemming from allegations that his firm participated in a “wide-ranging conspiracy” to manipulate token prices for paying client cryptocurrency companies, the U.S. Department of Justice said in a press release on Wednesday.\n\nAndriunin was arrested in Portugal last October and subsequently indicted by a Boston grand jury on charges of wire fraud and conspiracy to commit market manipulation and wire fraud, charges which carry a combined maximum sentence of 25 years in prison. The indictment also charged Gotbit itself, as well as two of its directors, Fedor Kedrov and Qawi Jalili, both also of Russia.\n\nBetween 2018 and 2024, prosecutors say that Gotbit essentially provided market manipulation services for hire, offering their token price-inflating services to a variety of crypto companies, including companies based in the U.S.\n\nAndriunin was not shy about the nature of Gotbit’s services – in a 2019 interview with CoinDesk, which is referenced in the Department of Justice’s (DOJ) Wednesday announcement, Andriunin, then a sophomore at Moscow State University, bluntly admitted that his business was “not entirely ethical.”\n\nRead more: For $15K He’ll Fake Your Exchange Volume – You’ll Get on CoinMarketCap\n\nAccording to court documents, Gotbit received “tens of millions of dollars in proceeds” from their fraudulent activity. Andriunin is accused of “transferr[ing] millions of dollars of Gotbit’s proceeds into his personal Binance account.”\n\nAndriunin made an initial appearance before a Boston judge on Tuesday. His next hearing has not yet been scheduled.",
+    "url": "https://www.coindesk.com/policy/2025/02/26/gotbit-founder-aleksei-andriunin-extradied-to-u-s-on-fraud-charges",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aleksei Andriunin",
+                "Fedor Kedrov",
+                "Qawi Jalili"
+            ],
+            "positions": [
+                "founder",
+                "director"
+            ],
+            "companies": [
+                "Gotbit",
+                "Binance",
+                "CoinMarketCap"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "Moscow State University",
+                "Boston grand jury"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major fraud case involving market manipulation services that artificially inflated token prices, which undermines market integrity and investor confidence."
+    }
+}

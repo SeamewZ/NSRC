@@ -1,0 +1,36 @@
+{
+    "title": "LIBRA Apparent Rug Pull Is Latest 'Sordid Episode' Emerging From Solana's Memecoin Complex: Galaxy",
+    "time": "2025-02-18T10:23:00",
+    "author": "Will Canny",
+    "summary": "The SOL price has slumped against both the dollar and ether.",
+    "content": "The apparent LIBRA token rug pull is the the latest incident to negatively affect the Solana memecoin ecosystem, Galaxy Research said in a report on Monday.\n\nThe narrative had already began to sour following the TRUMP token's introduction in January and the ensuing \"liquidity suck\" that it caused. LIBRA could lead to more damage to the memecoin complex, the report said.\n\nThis could reduce the need for investors to hold Solana's sol (SOL), Galaxy said, noting that sol's rise has been driven mainly by demand for SOL-denominated assets such as memecoins.\n\nGalaxy noted that the cryptocurrency has plummeted in U.S. dollar terms and versus rival ether (ETH), since the launch of LIBRA. Solana was trading 8.6% lower over 24 hours at $168.73 at publication time.\n\nArgentina's President Javier Milei has faced impeachment threats after promoting LIBRA, which supposedly helps small businesses. The token surged to a market cap of around $4.5 billion before crashing 90%.\n\nThis is the \"latest sordid episode\" to emerge from Solana's memecoin complex, which is \"down significantly since topping in January on the launch of TRUMP and its brief rise to $75b fully diluted valuation (FDV),\" wrote Alex Thorn, head of firmwide research at Galaxy.\n\nKelsier CEO Hayden Davis, who launched the LIBRA memecoin, said he was also responsible for issuing the MELANIA token, and that his team sniped both cryptos as soon as the contract addresses went live.\n\nThe token was \"not a rug pull,\" Davis insisted in an interview with crypto scam hunter Coffeezilla. \"It's just a plan gone miserably wrong with $100 million sitting in an account that I'm the custodian of.\"\n\nRead more: Creator of Controversial LIBRA Memecoin Introduced MELANIA, Says He Sniped Both Tokens",
+    "url": "https://www.coindesk.com/markets/2025/02/18/libra-apparent-rug-pull-is-latest-sordid-episode-emerging-from-solana-s-memecoin-complex-galaxy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Thorn",
+                "Hayden Davis",
+                "Javier Milei",
+                "Coffeezilla"
+            ],
+            "positions": [
+                "head of firmwide research at Galaxy",
+                "Kelsier CEO"
+            ],
+            "companies": [
+                "Galaxy Research",
+                "Kelsier"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "ETH",
+            "LIBRA",
+            "TRUMP",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes SOL price slumping, LIBRA crashing 90%, and negative effects on the Solana memecoin ecosystem following apparent rug pulls."
+    }
+}

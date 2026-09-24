@@ -1,0 +1,43 @@
+{
+    "title": "U.S. Senate Expected to Vote on Erasing IRS's Crypto Broker Rule That Threatens DeFi: Source",
+    "summary": "Senate leaders are said to be queuing up votes to reverse two Biden-era regulations tied to digital assets: the IRS DeFi rule and a CFPB digital-payments rule.",
+    "time": "2025-03-03T13:00:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Senate is poised to vote this week on reversing an Internal Revenue Service (IRS) rule, that the crypto industry has declared a serious threat to decentralized finance (DeFi), according to a person familiar with the Senate's planning.\n\nThe IRS's attempt in December to expand the world of brokers required to disclose certain tax information ensnared crypto DeFi projects, and some senators are seeking to use the powers of the Congressional Review Act to erase it, along with another 11th-hour regulation: a Consumer Financial Protection Bureau rule on digital payment applications.\n\nSenator Ted Cruz introduced a CRA resolution to throw out the IRS work, and Senator Pete Ricketts is behind the CFPB resolution, both of which are being programmed for action this week, the person said.\n\n“The Biden administration did everything it could to stifle financial innovation in the United States, threatening to send digital asset companies overseas,\" Majority Leader John Thune said in a statement. \"The Senate is working to undo these burdensome regulations one at a time to restore financial freedom for the American people.”\n\nThe House Financial Services Committee moved last week to send a matching IRS resolution to the House floor for a vote, and a Senate action would further propel the effort, which needs approvals in both chambers and a presidential signature before it becomes law.\n\n\"In a midnight move, the Biden administration issued their decentralized finance rule, which directly and immediately would harm American cryptocurrency innovation and drive development overseas,\" said Cruz, the Texas Republican leading the charge against the IRS rule. \"This week Congress will vote on my resolution to rescind that regulation. I'm confident we will.”\n\nSuch reversals of federal agency rules must happen under tight timelines, because removing the work of the regulators is governed by deadlines in the CRA, based on a limited window of legislative days since each regulation was approved. As in President Donald Trump's first administration, his second is similarly making it a priority to reverse some of the work of his predecessor's regulators.\n\nThe CFPB rule calls for large tech companies that offer digital wallets and payment apps and process a high level of consumer payments — including such giants as Apple, Amazon and Google — to be regulated more intensively, like the big U.S. banks are.\n\n“Following their election loss, the Biden-Harris CFPB rushed an eleventh-hour rule to attack non-bank digital consumer payment applications,” said Senator Ricketts, a Nebraska Republican, in a statement. “This one-size-fits-all solution in search of a problem unnecessarily expands the CFPB’s authority. Our legislation eliminates barriers to innovation, cuts red tape, and supports our job-creators.”\n\nThese two rules finalized in the last days of the administration of President Joe Biden came from a pair of entities that have been bright on Republican lawmakers' radar: the IRS and CFPB. U.S. taxation has been a top priority of the new administration, as has the party's goal to sideline the consumer-protection regulator.\n\nAlso this week, the White House is planning a crypto summit for March 7, according to Trump's crypto czar, David Sacks, who posted about it on social media. The announcement said it will include founders, CEOs and relevant regulators.\n\nRead More: U.S. House Committee Advances Effort to Erase IRS' DeFi Tax Rule",
+    "url": "https://www.coindesk.com/policy/2025/03/03/u-s-senate-expected-to-vote-on-erasing-irs-s-crypto-broker-rule-that-threatens-defi-source",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ted Cruz",
+                "Pete Ricketts",
+                "John Thune",
+                "Joe Biden",
+                "Donald Trump",
+                "David Sacks"
+            ],
+            "positions": [
+                "Majority Leader",
+                "crypto czar"
+            ],
+            "companies": [
+                "Apple",
+                "Amazon",
+                "Google"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "IRS",
+                "CFPB",
+                "House Financial Services Committee",
+                "Congressional Review Act",
+                "DeFi",
+                "Biden administration",
+                "Trump administration",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The Senate is voting to reverse regulations that the crypto industry declared a serious threat to DeFi, which would remove burdensome regulations and support financial innovation according to the news content."
+    }
+}

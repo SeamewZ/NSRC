@@ -1,0 +1,41 @@
+{
+    "title": "Bybit Sees Over $4 Billion ‘Bank Run’ After Crypto’s Biggest Hack",
+    "time": "2025-02-22T19:56:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The exchange, facing a bank run and needing to process withdrawals, worked to secure a loan and developed new software to access frozen funds.",
+    "content": "Major cryptocurrency exchange Bybit has seen total outflows of over $5.5 billion after it suffered a near $1.5 billion hack that saw hackers, believed to be from North Korea’s Lazarus Group, drain its ether cold wallet.\n\nThe total assets tracked on wallets associated with the exchange plunged from around $16.9 billion to $11.2 billion at the time of writing, according to data from DeFiLlama. The exchange is now looking to understand exactly what happened.\n\nIn an X spaces session, Bybit’s CEO Ben Zhou revealed that shortly after the incident, he called for “all hands on deck” to serve their clients with processing withdrawals and responding to inquiries about what was going on.\n\nDuring the session, Zhou revealed that the security breach saw the hackers make off with roughly 70% of their clients’ ether, which meant that Bybit needed to quickly secure a loan to be able to process withdrawals. Yet, Zhou found that ether wasn’t the most withdrawn token, with most users instead withdrawing stablecoin from Bybit.\n\nThe exchange, Zhou noted, has reserves to cover these withdrawals, but the crisis deepened as, in response to the incident, Safe moved to temporarily shut down its smart wallet functionalities to “ensure absolute confidence in our platform’s security.”\n\nSafe is a decentralized custody protocol providing smart contract wallets for digital asset management. Some exchanges integrated Safe, which allows users to maintain custody of their funds and has multisig functionality to enhance the security of their cold wallets.\n\nWhile the exchange had reserves to back up users’ withdrawals, $3 billion worth of USDT was in a Safe wallet that had just been shut down as the wallet moved to understand the situation, according to Zhou.\n\nOn social media, Safe said that while it had \"not found evidence that the official Safe frontend was compromised,\" it was temporarily shutting down \"certain functionalities\" out of caution.\n\nWhile Zhou and Bybit’s team were figuring out how to securely withdraw their $3 billion, withdrawals were mounting. Within two hours of the security breach, the exchange was facing requests to move over $100,000 off its platform, Zhou revealed.\n\nResponding to the situation, Zhou told his security team to engage Safe to “find a better way to get this money out.” The team ended up developing new software with code “based on Etherscan” to verify the signatures “on a very manual level” to move the stablecoins back to their wallet and cover the withdrawal surge.\n\nThe exchange’s team had to remain up all night to be able to fulfill withdrawals, according to Zhou. As the exchange managed to move the $3 billion in stablecoin reserves, it was facing a bank run of “about 50%” of all the funds within the exchange.\n\nZhou said that since the incident, the exchange has moved a significant amount of funds off of Safe cold wallets and is now determining what system it will use to replace Safe.\n\nSince the security breach, Bybit has engaged authorities. During the session, Zhou said that the Singaporean authorities took the issue “very seriously” and that he believes it has already been escalated with Interpol.\n\nBlockchain analysis firms, including Chainalysis, were engaged. Zhou said, “As long as Bybit is there and continues to track [the stolen ether], I hope we can get these funds back.”\n\nNotably, he revealed that pushing to \"roll back\" the Ethereum blockchain, which was suggested by some industry players on social media, including BitMEX co-founder Arthur Hayes, had been on the table for some time if the community agreed with it.\n\n“I had my team talking to Vitalik and the Ethereum Foundation to see if there’s any recommendations they can offer to help. I do really thank all these guys on Twitter asking if there is a possibility to roll back the chain. I’m not sure what was the response on their side, but anything that would help we would try,” Zhou said.\n\nWhen asked if \"rolling back\" the chain is even possible, Zhou responded he doesn’t know. “I’m not sure it’s a one-man decision based on the spirit of blockchain. It should be a work in process to see what the community wants,” he said.\n\nIt's worth noting that a blockchain \"rollback\" refers to a state change that would allow for the funds to be recovered. While rolling back the Bitcoin blockchain is technically possible, such a state change on Ethereum would be more complex, given its smart contract interactions and state-based architecture.\n\nNevertheless, any state change would require consensus and likely lead to a contentious hard fork, drawing criticism from the community. This would likely split the Ethereum blockchain into two networks, each with its own supporters.\n\nAs for what exactly caused the hack to occur, is still unclear. Per Zhou, Bybit’s laptops have not been compromised. He said the movements of the transaction’s signers have been scrutinized but appear to have been routine.\n\n“We know the cause is definitely around the Safe cold wallet. Whether it’s a problem with our laptops or on Safe’s side, we don’t know.,” Zhou added.",
+    "url": "https://www.coindesk.com/business/2025/02/22/bybit-sees-over-usd4-billion-bank-run-after-crypto-s-biggest-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou",
+                "Arthur Hayes",
+                "Vitalik"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "Safe",
+                "BitMEX",
+                "Chainalysis",
+                "Etherscan"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "Singaporean authorities",
+                "Interpol",
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "ether",
+            "USDT",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach resulting in a $1.5 billion hack, massive user withdrawals exceeding $5.5 billion, and a 'bank run' scenario causing significant market panic and loss of confidence."
+    }
+}

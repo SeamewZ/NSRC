@@ -1,0 +1,44 @@
+{
+    "title": "Beyond Incentives: How to Build Durable DeFi",
+    "summary": "Jesus Rodriguez outlines eight ways DeFi projects can attract and retain users that don’t revolve around yield farming.",
+    "time": "2025-04-22T18:06:00",
+    "author": "Jesus Rodriguez",
+    "content": "DeFi is getting a boost from the emergence of a host of new blockchains such as BeraChain, TON, Plume, Sonic and many others. Each new chain brings with it a flood of incentives, enticing users with yields that echo the early days of yield farming in 2021.\n\nBut is any of this sustainable? As every new blockchain fights to build momentum, they inevitably confront the same dilemma: how to build sustainable ecosystems that survive beyond the end of their incentive programs.\n\nIncentives remain one of crypto's most powerful bootstrapping tools — an elegant solution to the cold-start problem of attracting users and liquidity. Yet, incentives are just a starting point. The ultimate goal is to build self-sustaining economic activity around DeFi protocols.\n\nWhile the broader DeFi market has evolved considerably, the foundational approach to incentive-driven growth has changed little. For DeFi to thrive in this new phase, these strategies must be adapted to reflect the realities of today’s capital dynamics.\n\nDespite the obvious need, most incentive programs end up failing or producing underwhelming results. The composition of the current DeFi market is very different from 2021 where it was relatively simple to run an incentive program. The market has changed and there are some key aspects to consider when thinking about capital formation in DeFi.\n\nMore Blockchains Than Relevant Protocols\n\nIn traditional software ecosystems, platforms (layer-1s) typically give rise to a larger, diverse set of applications (layer-2s and beyond). But in today’s DeFi landscape, this dynamic is flipped. Dozens of new blockchains — including Movement, Berachain, Sei, Monad (upcoming), and more — have launched or are preparing to. And yet, the number of DeFi protocols that have achieved real traction remains limited to a few standout names like Ether.fi, Kamino, and Pendle. The result? A fragmented landscape where blockchains scramble to onboard the same small pool of successful protocols.\n\nNo New Degens in This Cycle\n\nDespite the proliferation of chains, the number of active DeFi investors hasn’t kept pace. Users experience friction, complex financial mechanics, and poor wallet/exchange distribution have all limited the onboarding of new participants. As a friend of mine likes to say, \"We haven’t minted many new degens this cycle.\" The result is a fragmented capital base that continually chases yield across ecosystems, rather than driving deep engagement in any one.\n\nTVL Fragmentation\n\nThis capital fragmentation is now playing out in TVL (total value locked) statistics. With more chains and protocols chasing the same limited pool of users and capital, we’re seeing dilution rather than growth. Ideally, capital inflows should grow faster than the number of protocols and blockchains. Without that, capital simply gets spread thinner, undermining the potential impact of any individual ecosystem.\n\nInstitutional Interest, Retail Rails\n\nRetail may dominate the DeFi narrative, but in practice, institutions drive most of the volume and liquidity. Ironically, many new blockchain ecosystems are ill-equipped to support institutional capital due to missing integrations, lack of custody support, and underdeveloped infrastructure. Without institutional rails, attracting meaningful liquidity becomes a steep uphill battle.\n\nIncentive Inefficiencies and Market Misconfigurations\n\nIt’s common to see new DeFi protocols launch with poorly configured markets including leading to pool imbalances, slippage issues, or mismatched incentives. These inefficiencies often result in campaigns that disproportionately benefit insiders and whales, leaving little behind in terms of long-term value creation.\n\nThe holy grail of incentive programs is to catalyze organic activity that persists after the rewards dry up. While there’s no blueprint for guaranteed success, several foundational elements can increase the odds of building a durable DeFi ecosystem.\n\nReal Ecosystem Utility\n\nThe hardest but most important goal is building ecosystems with real, non-financial utility. Chains like TON, Unichain, and Hyperliquid are early examples where token utility extends beyond pure yield. Still, most new blockchains lack this kind of foundational utility and must rely heavily on incentives to attract attention.\n\nStrong Stablecoin Base\n\nStablecoins are the cornerstone of any functional DeFi economy. An effective approach often includes two leading stablecoins that anchor borrowing markets and create deep AMM (automated market maker) liquidity. Designing the right stablecoin mix is critical to unlocking early lending and trading activity.\n\nMajor Asset Liquidity\n\nAlongside stablecoins, deep liquidity in blue-chip assets like BTC and ETH lowers the friction for large allocators. This liquidity is crucial for onboarding institutional capital and enabling capital-efficient DeFi strategies.\n\nDEX Liquidity Depth\n\nLiquidity in AMM pools is frequently overlooked. But in practice, slippage risk can derail large trades and stifle activity. Building deep, resilient DEX liquidity is a prerequisite for any serious DeFi ecosystem.\n\nLending Market Infrastructure\n\nLending is a fundamental DeFi primitive. A deep borrowing market — particularly for stablecoins — unlocks the potential for a wide range of organic financial strategies. Robust lending markets naturally complement DEX liquidity and increase capital efficiency.\n\nInstitutional Custody Integration\n\nCustody infrastructure like Fireblocks or BitGo holds much of the institutional capital in crypto. Without direct integration, capital allocators are effectively locked out of new ecosystems. While often overlooked, this is a critical gating factor for institutional participation.\n\nBridge Infrastructure\n\nInteroperability is essential in today’s fragmented DeFi world. Bridges like LayerZero, Axelar and Wormhole serve as critical infrastructure for transferring value across chains. Ecosystems with seamless bridge support are far better positioned to attract and retain capital.\n\nThe Intangibles\n\nBeyond infrastructure, there are subtle but critical factors that influence success. Integrations with top oracles, the presence of experienced market makers, and the ability to onboard marquee DeFi protocols all help bootstrap a thriving ecosystem. These intangible elements often make or break new chains.\n\nMost incentive programs fail to deliver on their original promise. Over-optimism, misaligned incentives, and fragmented capital are common culprits. It’s no surprise that new programs often draw skepticism and accusations of enriching insiders. Yet, incentives remain essential. When designed well, they’re powerful tools to bootstrap ecosystems and create lasting value.\n\nWhat differentiates successful ecosystems isn’t the size of their incentive programs — it’s what comes next. A solid foundation of stablecoins, deep AMM and lending liquidity, institutional access, and well-designed user flows are the building blocks of sustainable growth. Incentives are not the end game. They're just the beginning. And, in today’s DeFi, there is most certainly life beyond incentive farming.",
+    "url": "https://www.coindesk.com/opinion/2025/04/22/beyond-incentives-how-to-build-durable-defi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jesus Rodriguez"
+            ],
+            "positions": [],
+            "companies": [
+                "Ether.fi",
+                "Kamino",
+                "Pendle",
+                "Fireblocks",
+                "BitGo"
+            ],
+            "organizations": [
+                "BeraChain",
+                "TON",
+                "Plume",
+                "Sonic",
+                "Movement",
+                "Berachain",
+                "Sei",
+                "Monad",
+                "Unichain",
+                "Hyperliquid",
+                "LayerZero",
+                "Axelar",
+                "Wormhole"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses challenges and structural issues in DeFi ecosystems without indicating clear positive or negative market price direction."
+    }
+}

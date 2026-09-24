@@ -1,0 +1,29 @@
+{
+    "title": "U.S.-Listed Bitcoin Miners Accounted for 25% of Global Network in December: Jefferies",
+    "time": "2025-01-10T09:47:00",
+    "author": "Will Canny",
+    "summary": "Mining profitability increased last month as the rally in bitcoin outpaced the increase in the network hashrate, the report said.",
+    "content": "U.S.-listed bitcoin\nBTC\n$104,608.94\nminers accounted for 25.3% of the global network in December, Jefferies said in a research report on Thursday.\n\nThe bank cut its price target for MARA Holdings (MARA) to $20 from $24, while maintaining its hold rating on the stock. The shares rose 0.5% to $18.43 during early trading Friday.\n\nMining profitability improved in December as the average price of bitcoin gained 15%, outpacing the increase in the network hashrate, which was 6.5% higher, the report said.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain and is a proxy for competition in the industry and mining difficulty.\n\nAverage daily revenue was $59,585 per exahash, a 7.1% increase from November, Jefferies said.\n\nU.S.-listed mining companies mined 3,602 bitcoin in December versus 3,404 the month previous, the bank said. Jefferies noted that MARA mined the most bitcoin last month with 890 tokens, followed by CleanSpark (CLSK) with 668.\n\nMARA's installed hashrate remained the largest in the sector at 53.2 exahashes per second (EH/s). CleanSpark had the second-largest hashrate with 39.1 EH/s, the report added.\n\nRead more: Bitcoin Mining Profitability Rose in December for Second Month in a Row: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/01/10/u-s-listed-bitcoin-miners-accounted-for-25-of-global-network-in-december-jefferies",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MARA Holdings",
+                "MARA",
+                "CleanSpark",
+                "CLSK"
+            ],
+            "organizations": [
+                "Jefferies"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports increased mining profitability, bitcoin price gains outpacing network hashrate growth, and higher daily revenue for miners, indicating positive market conditions."
+    }
+}

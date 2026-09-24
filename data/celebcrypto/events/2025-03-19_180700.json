@@ -1,0 +1,31 @@
+{
+    "title": "Fed Holds Rates Steady, Cuts Growth Outlook, Raises Inflation Forecast",
+    "time": "2025-03-19T18:07:00",
+    "author": "Krisztian Sandor",
+    "summary": "The U.S. central bank continues to expect the fed funds rate to end 2025 at 3.9%, or roughly two rate cuts by year-end.",
+    "content": "As expected, the U.S. Federal Reserve left its benchmark fed funds rate range steady at 4.25%-4.50% on Wednesday, the second consecutive pause since three straight rate cuts to end 2024.\n\nThe Fed's quarterly economic projections, though, showed a sharp decline in expectations for economic growth, with the GDP increase in 2025 now seen at just 1.7% versus 2.1% at the December forecast. The growth outlooks for 2026 and 2027 were trimmed as well.\n\n\"Uncertainty around the economic outlook has increased,\" the Fed said in an accompanying statement, which is likely a reference to the tumult surrounding the tariff regime being threatened by President Trump.\n\nAlongside slowing growth, core PCE inflation is now seen at 2.8% this year versus the previous 2.5% projection. The core inflation outlooks for 2026 and 2027 were left at 2.2% and 2.0%, respectively.\n\nThe \"dot plot\" — showing FOMC members' outlooks for where interest rates might be headed — still sees the fed funds rate ending this year at 3.9%, the same as December's forecast. The ending fed funds rates for 2026 and 2027 continue to be projected at 3.4% and 3.1%, respectively.\n\nThe Fed also said it would begin to slow the pace of securities runoff from its balance sheet — so-called quantitative tightening — beginning on April 1. The decline in Treasury paper then will be trimmed to just $5 billion from $25 billion previously.\n\nBitcoin (BTC) was volatile in the minutes immediately following the release, but headed lower at press time to $83,500 against just above $84,000 prior to the news.\n\nU.S. stocks continue to hold solid gains and the 10-year Treasury yield has dipped two basis points to 4.28%. Gold, the star of late among asset classes, remains near a record high at $3,048 per ounce.\n\nRisk assets have been beaten down over the past few weeks as mounting concerns over President Trump's tariff threats and its perceived impact on inflation and economic growth weighed on investor sentiment. The Fed turning hawkish at the December and January meetings also quashed hopes of looser financial conditions for the near-term, posing headwinds for cryptocurrencies and stocks.\n\nFed Chair Jerome Powell will speak at 2:30 p.m. Eastern Time (18:30 UTC) with traders monitoring the press conference for further clues of policymakers' outlook on monetary policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/fed-holds-rates-steady-cuts-growth-outlook-raises-inflation-forecast",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "President Trump"
+            ],
+            "positions": [
+                "Fed Chair"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. Federal Reserve",
+                "Fed",
+                "FOMC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin headed lower after the Fed announcement and the news mentions that hawkish Fed policy poses headwinds for cryptocurrencies."
+    }
+}

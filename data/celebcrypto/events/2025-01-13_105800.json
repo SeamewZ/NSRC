@@ -1,0 +1,26 @@
+{
+    "title": "Bitcoin Difficulty Hits All-Time High, Adjusts Positively for 8th Consecutive Time",
+    "time": "2025-01-13T10:58:00",
+    "author": "James Van Straten",
+    "summary": "When bitcoin typically puts in these many consecutive positive adjustments it has marked near cycle tops and bottoms.",
+    "content": "New records continue to be set in the bitcoin\nBTC\n$104,608.94\necosystem, which has seen the mining difficulty adjustment rise to a new all-time high of 110.45T (trillion). 110.45 trillion means that the difficulty is approximately 110.45 trillion times harder than it was at the time of Bitcoin's genesis block.\n\nThe difficulty adjustment adjusts every 2,016 blocks and recalibrates to ensure blocks are mined on average every 10 minutes.\n\nThis is now the eighth consecutive positive adjustment in difficulty, which puts further pressure on miners as the industry becomes more cutthroat and harder to mine a block to receive bitcoin rewards.\n\nThis is one of the reasons why some of the publicly traded miners have pivoted into the high-performance computing (HPC) and artificial intelligence (AI) industries as they couldn't survive on by mining bitcoin alone. In addition, we have seen MARA Holdings (MARA) issue convertible bonds to buy bitcoin. On top of MARA optimizing revenue by lending out their bitcoin to obtain single digit yield.\n\nThis isn't the first time we have seen this many consecutive positive adjustments. We have seen these types of records in the past, during the summer of 2021, shortly after the China mining ban, which saw the hashrate drop by roughly 50%.\n\nShortly after this event, from July to November 2021, the difficulty put in nine consecutive positive adjustments with the last adjustment coinciding with the bull market top when bitcoin hit around $69,000. Bitcoin then went into a bear market for the entirety of 2022. The last positive adjustment marked the top in 2021.\n\nHowever, the opposite occurred in 2018, when bitcoin made 17 positive adjustments from December 2017, coinciding with the bull market top when bitcoin was around $20,000. One small negative adjustment followed in July 2018, when the price was roughly $6,000.\n\nThe network then went onto make a further six consecutive positive adjustments before seeing multiple negative adjustments around Q4 2018, when bitcoin put its bottom for the cycle at around $3,000.\n\nNo clear trend emerges when bitcoin puts in this many positive consecutive adjustments, but it has indicated near cycle tops and bottoms in the past. However, it is important to recognize the continued strength of the hashrate, on a 7-day moving average, is at 775 EH/s, with CoinDesk research implying 1 zettahash per second can be reached before the next halving.",
+    "url": "https://www.coindesk.com/markets/2025/01/13/bitcoin-difficulty-hits-all-time-high-adjusts-positively-for-8th-consecutive-time",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MARA Holdings"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed historical patterns where consecutive positive difficulty adjustments have coincided with both cycle tops and bottoms, indicating no clear directional trend emerges from this event alone."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Alabama Man to Plead Guilty in Bitcoin-Focused SEC X Account Hack",
+    "summary": "According to the charges, Eric Council Jr. used a fake ID to gain access to a device with SEC account credentials and then falsely said spot bitcoin ETFs had been approved..",
+    "time": "2025-02-10T18:49:00",
+    "author": "Francisco Rodrigues",
+    "content": "Eric Council Jr., the Alabama man charged with hacking the X account of the U.S. Securities and Exchange Commission (SEC) to falsely post the agency had approved bitcoin exchange-traded funds, is set to plead guilty in the case.\n\nA \"Consent Order of Forfeiture,\" filed in D.C. federal court shows Council has agreed to plead guilty to Conspiracy to Commit Aggravated Identity Theft and Access Device Fraud, and will forfeit $50,000 in proceeds from these offenses.\n\nCouncil, according to the prosecution, used a fake ID to trick a phone store employee into helping him and co-conspirators access a device with access to the SEC’s X account.\n\nJudge Amy Berman Jackson has set Council's sentencing for May 16. The case stems from the then highly anticipated SEC approval of spot bitcoin ETFs, with the security breach leading to a post shared on the agency’s account one day before the actual approval.\n\nAt the time, the approval of these funds was eagerly anticipated as these were widely expected to bring in significant flows from institutional investors. The false X post sent the price of bitcoin briefly surging.\n\nThe FBI arrested Council in October for hijacking the SEC’s X account.",
+    "url": "https://www.coindesk.com/policy/2025/02/10/alabama-man-to-plead-guilty-in-bitcoin-focused-sec-x-account-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Council Jr.",
+                "Amy Berman Jackson"
+            ],
+            "positions": [
+                "Judge"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "FBI"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a security breach and fraudulent activity involving false ETF approval announcements, which constitutes negative market manipulation."
+    }
+}

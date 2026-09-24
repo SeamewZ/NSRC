@@ -1,0 +1,25 @@
+{
+    "title": "Are Monero Traders Buying The Dip? XMR Futures Open Interest Surges as Price Falls By Nearly $100 in 3 Days",
+    "summary": "The price drop follows a meteoric rally from $165 to $420.",
+    "time": "2025-05-28T07:12:00",
+    "author": "Omkar Godbole",
+    "content": "Privacy-focused cryptocurrency\nXMR\n$345.33\nhas seen a sharp price sell-off over the past three days, with open positions in futures rising to their highest level since December.\n\nOn Wednesday, the largest privacy coin by market capitalization fell to $325 on Kraken, having peaked at $420 on Monday, according to data source TradingView.\n\nThe sell-off follows a meteoric seven-week rise from $165 to $420, supposedly led by a favorable U.S. regulatory outlook and impending FCMP++ upgrade, which will enhance Monero's quantum resistance by providing forward secrecy.\n\nAlso read: Key Reasons Monero Surge Continues Even as Bitcoin Bulls Take a Breather\n\nThe price decline is characterized by increased participation in the futures market, where the number of active or open contracts jumped to 161.37K XMR, the highest tally since Dec. 20, according to data source Coingecko. The OI has increased by 20% over the past three days.\n\nAn increase in open interest alongside a price drop is typically interpreted as representing a bearish sentiment, with more traders taking short positions in anticipation of a price decline.\n\nThat's not necessarily the case with XMR, as the perpetual funding rates continue to be positive, indicating a bias for long positions. Funding rates, charged every eight hours, represent the cost of holding levered futures bets, with positive values representing a dominance of bullish long bets.\n\nTherefore, the uptick in XMR's open interest likely represents a \"buy the dip\" mentality – traders taking long positions on the price dip, anticipating a quick recovery.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/are-xmr-traders-buying-the-dip-monero-futures-open-interest-surges-as-price-falls-by-nearly-usd100-in-3-days",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Kraken"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Monero",
+            "XMR",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates traders are taking long positions during the price dip with positive funding rates, suggesting a 'buy the dip' mentality and anticipation of quick recovery."
+    }
+}

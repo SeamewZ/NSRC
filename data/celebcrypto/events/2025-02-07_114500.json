@@ -1,0 +1,27 @@
+{
+    "title": "BlackRock Increases Ownership of Strategy to 5%",
+    "time": "2025-02-07T11:45:00",
+    "author": "James Van Straten",
+    "summary": "Strategy’s STRK is up 5% in pre-market trading, building on its 2% gain during its Nasdaq debut.",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of Strategy (MSTR).\n\nIn a recent Schedule 13G filing, BlackRock (BLK) disclosed that it now owns 5% of Strategy (MSTR), equivalent to approximately 11.2 million shares. This marks a 0.91% increase from its previous 4.09% ownership as of September 30, 2024, according to Yahoo Finance.\n\nA Schedule 13G is filed when an investor acquires more than 5% of a publicly traded company’s stock but does not intend to influence or control the company. Institutional investors must file within 45 days after year-end or within 10 days if ownership exceeds 10%.\n\nSince BlackRock’s filing date was Dec. 31, 202.4, the firm had until Feb. 14 to disclose its position.\n\nIn related news, Strategy’s perpetual preferred stock (STRK) began trading on the Nasdaq on Thursday. According to TradingView, STRK closed the day up 2% with over 650,000 shares traded. The stock continues its upward momentum, now up 5% pre-market.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/blackrock-increases-ownership-of-strategy-to-5",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "BlackRock",
+                "Strategy",
+                "Yahoo Finance",
+                "Nasdaq",
+                "TradingView"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "BlackRock's increased ownership and Strategy's stock price gains of 2% and 5% indicate positive market confidence and upward momentum."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "SEC’s Peirce Says ‘Many’ Memecoins Likely Fall Outside Regulator’s Jurisdiction",
+    "summary": "Peirce is spearheading the SEC’s newly-created Crypto Task Force.",
+    "time": "2025-02-12T18:33:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Securities and Exchange Commission (SEC) likely doesn’t have jurisdiction over many of the memecoins flooding the crypto market, SEC Commissioner Hester Peirce said in a Tuesday interview with Bloomberg.\n\n“We always have to look at the facts and circumstances, but many of the memecoins that are out there probably do not have a home in the SEC under our current set of regulations,” Peirce said. “If that’s something Congress wants to address, they can do that. Maybe that’s something that the [Commodity Futures Trading Commission] wants to address. But many of those, I think, are probably not within our jurisdiction.”\n\nMemecoins, unlike cryptocurrencies like bitcoin and ether, have no inherent value. For years, many in the industry have pushed back on regulating them like securities, arguing that they’re more like digital beanie babies or baseball cards than investment contracts.\n\nPeirce’s hands-off stance is a marked shift away from the SEC’s approach to crypto regulation under former Chairman Gary Gensler, who frequently asserted that all crypto tokens aside from Bitcoin were securities. Just one day after Gensler stepped down, Acting Chair Mark Uyeda announced the formation of a new Crypto Task Force, spearheaded by Peirce, promising regulatory clarity for the crypto industry and signaling a shift away from the so-called “regulation by enforcement” practiced by Gensler.\n\nLast week, Peirce laid out a roadmap for the Crypto Task Force’s top priorities, including resolving the long-standing question of what makes a crypto asset a security vs. a commodity and creating a more viable path to registration by modifying the SEC’s existing paths. In the same statement, Peirce previewed her stance toward memecoins, writing:\n\n“If people want to buy a token or product that lacks a clear long-term value proposition, they should feel free but should not be surprised some day if the price drops. In this country, people generally have a right to make decisions for themselves, but the counterpart to that wonderful American liberty is the equally wonderful American expectation that people must decide for themselves, not look to Mama Government to tell them what to do or not to do, nor to bail them out when they do something that turns out badly.”\n\nRead more: SEC Commissioner Hester Peirce Lays Out 10 Priorities For New Crypto Task Force",
+    "url": "https://www.coindesk.com/policy/2025/02/12/sec-s-peirce-says-many-memecoins-likely-fall-outside-regulator-s-jurisdiction",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hester Peirce",
+                "Gary Gensler",
+                "Mark Uyeda"
+            ],
+            "positions": [
+                "SEC Commissioner",
+                "former Chairman",
+                "Acting Chair"
+            ],
+            "companies": [],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Congress",
+                "Commodity Futures Trading Commission",
+                "CFTC",
+                "Crypto Task Force"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC Commissioner's statement suggests reduced regulatory pressure on memecoins and signals a shift toward regulatory clarity, which typically boosts market confidence."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Senate Dems Slam DOJ’s Decision to Axe Crypto Unit as a ‘Free Pass’ For Criminals",
+    "summary": "In a letter to Deputy Attorney General Todd Blanche on Thursday, the six lawmakers urged him to reconsider his recent decision to disband the DOJ’s crypto enforcement squad.",
+    "time": "2025-04-11T00:04:00",
+    "author": "Cheyenne Ligon",
+    "content": "U.S. Deputy Attorney General Todd Blanche is under fire from Senate Democrats following his recent decision to narrow the Department of Justice’s (DOJ) crypto enforcement priorities and disband its crypto enforcement squad.\n\nIn a Thursday letter to Blanche, six Senate Democrats — Sens. Mazie Hirono (D-Hawaii), Elizabeth Warren (D-Mass.), Dick Durbin (D-Ill.), Sheldon Whitehouse (D-R.I), Chris Coons (D-Del.) and Richard Blumenthal (D-Conn.) — blasted his decision to cut the National Cryptocurrency Enforcement Team (NCET) as “giv[ing] a free pass to cryptocurrency money launderers.”\n\nThe Senators called Blanche’s directive that DOJ staff no longer pursue cases against crypto exchanges, mixers or offline wallets “for the acts of their end users” or bring criminal charges for regulatory violations in cases involving crypto, including violations of the Bank Secrecy Act (BSA), “nonsensical.”\n\n“By abdicating DOJ’s responsibility to enforce federal criminal law when violations involve digital assets, you are suggesting that virtual currency exchanges, mixers, and other entities dealing in digital assets need not fulfill their [anti-money laundering/countering the financing of terrorism] obligations, creating a systemic vulnerability in the digital assets sector,” the lawmakers wrote. “Drug traffickers, terrorists, fraudsters, and adversaries will exploit this vulnerability on a large scale.”\n\nIn his memo to DOJ staff on Monday evening, Blanche cited U.S. President Donald Trump’s January executive order on crypto, which promised to bring regulatory clarity to the crypto industry, as the reason for his decision.\n\n“The Department of Justice is not a digital assets regulator,” Blanche wrote, adding that the agency will “no longer pursue litigation or enforcement actions that have the effect of superimposing regulatory frameworks on digital assets while President Trump's actual regulators do this work outside the punitive criminal justice framework.”\n\nInstead, Blanche urged DOJ staff to focus their enforcement efforts on prosecuting criminals who use “victimize digital asset investors” or those who use crypto in the furtherance of other criminal schemes, like organized crime, gang financing, and terrorism.\n\nRead more: DOJ Axes Crypto Unit As Trump’s Regulatory Pullback Continues\n\nFor the Senate Democrats, however, Blanche’s claim doesn’t quite cut the mustard.\n\n“You claim in your memo that DOJ will continue to prosecute those who use cryptocurrencies to perpetrate crimes. But allowing the entities that enable these crimes — such as cryptocurrency kiosk operators — to operate outside the federal regulatory framework without fear of prosecution will only result in more Americans being exploited,” the lawmakers wrote.\n\nThe lawmakers urged Blanche to reconsider his decision to dismantle NCET, calling it a “critical resource for state and local law enforcement who often lack the technical knowledge and skill to investigate cryptocurrency related crimes.”\n\nNew York Attorney General Letitia James raised similar concerns in her own letter to Congress on Thursday, urging lawmakers to pass federal legislation to regulate the crypto markets. Though her letter itself made no mention of Blanche’s memo or the shuttering of NCET, a press release from her office highlighted that her letter “comes after the [DOJ] announced the dismantling of federal criminal cryptocurrency fraud enforcement, making a robust regulatory framework all the more critical.”",
+    "url": "https://www.coindesk.com/policy/2025/04/10/senate-dems-slam-doj-s-decision-to-axe-crypto-unit-as-a-free-pass-for-criminals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Todd Blanche",
+                "Mazie Hirono",
+                "Elizabeth Warren",
+                "Dick Durbin",
+                "Sheldon Whitehouse",
+                "Chris Coons",
+                "Richard Blumenthal",
+                "Donald Trump",
+                "Letitia James"
+            ],
+            "positions": [
+                "Deputy Attorney General",
+                "Senator",
+                "President",
+                "Attorney General"
+            ],
+            "companies": [],
+            "organizations": [
+                "Department of Justice",
+                "DOJ",
+                "Senate Democrats",
+                "National Cryptocurrency Enforcement Team",
+                "NCET",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes reduced crypto enforcement and regulatory oversight, which lawmakers warn will enable criminal activity and create systemic vulnerabilities in the digital assets sector."
+    }
+}

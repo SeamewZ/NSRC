@@ -1,0 +1,35 @@
+{
+    "title": "FDIC Reverses U.S. Crypto Banking Policy That Demanded Prior Approvals",
+    "summary": "The U.S. banking agency withdrew policies that contributed to crypto industry accusations that it pressured institutions to \"debank\" digital assets customers.",
+    "time": "2025-03-28T18:33:00",
+    "author": "Jesse Hamilton",
+    "content": "The Federal Deposit Insurance Corp. will no longer instruct banks to get prior sign-off before they engage in crypto activities — a standard that was set in 2022 and that effectively severed institutions from the digital assets sector as they waited for approvals that never came.\n\nThe FDIC, which is the chief federal supervisor of thousands of typically smaller banks and runs the banking industry's government backstop, had occupied a significant role in the crypto debanking saga. A courtroom fight with crypto exchange Coinbase had recently unveiled dozens of letters between the regulator and banks it supervised. In that 2022 correspondence, the FDIC had instructed them to steer clear of new crypto matters while it hashed out policies, though the agency never developed any and left bankers hanging.\n\nThe new industry guidance issued on Friday comes after President Donald Trump elevated a crypto-friendly leadership at the FDIC and other financial regulators and has directed his administration to open doors for the industry.\n\n“With today’s action, the FDIC is turning the page on the flawed approach of the past three years,” said FDIC Acting Chairman Travis Hill, in a statement. “I expect this to be one of several steps the FDIC will take to lay out a new approach for how banks can engage in crypto- and blockchain-related activities in accordance with safety and soundness standards.”\n\nRead More: Trump's FDIC Chief Rethinks Crypto Guidance as U.S. Senators Probe Debanking\n\nBanks that were once expected to get pre-approvals on crypto matters can now forge ahead, as long as they're appropriately considering the risks.\n\nBo Hines, the White House's director of its council of digital assets advisers cheered the FDIC's move in a social media post, calling it a \"huge step forward.\"\n\nThe guidance to seek pre-approvals was a common stance across all three U.S. banking agencies, including the Federal Reserve and the Office of the Comptroller of the Currency. The OCC also acted recently to rescind its similar 2022 guidance, which had emerged as the digital assets sector was beset by failure and high-profile fraud, and global exchange FTX was steering toward disaster.\n\nRead More: OCC Says Banks Can Engage in Crypto Custody and Certain Stablecoin Activities\n\nUPDATE (March 28, 2025, 18:42 UTC): Adds comment from a White House official.",
+    "url": "https://www.coindesk.com/policy/2025/03/28/fdic-reverses-u-s-crypto-banking-policy-that-demanded-prior-approvals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Travis Hill",
+                "Donald Trump",
+                "Bo Hines"
+            ],
+            "positions": [
+                "FDIC Acting Chairman",
+                "President",
+                "White House's director of its council of digital assets advisers"
+            ],
+            "companies": [
+                "Coinbase",
+                "FTX"
+            ],
+            "organizations": [
+                "FDIC",
+                "Federal Reserve",
+                "Office of the Comptroller of the Currency",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The FDIC's reversal of restrictive crypto banking policies and the installation of crypto-friendly leadership signals regulatory easing that should improve banking access for the cryptocurrency industry."
+    }
+}

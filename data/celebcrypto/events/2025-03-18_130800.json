@@ -1,0 +1,26 @@
+{
+    "title": "Tuesdays Have Been Bitcoin's Most Volatile Day in 2025",
+    "time": "2025-03-18T13:08:00",
+    "author": "James Van Straten",
+    "summary": "Market participants anticipate heightened activity, influenced by global economic trends.",
+    "content": "In case you haven't looked, it's Tuesday. For bitcoin traders, that could mean some big price swings.\n\nAccording to Amberdata, Tuesdays have been the most volatile day of the week thus far in 2025, particularly over the past month, where realized volatility has averaged 82.\n\nRealized volatility measures the standard deviation of returns from the market’s mean return, reflecting past price fluctuations. In contrast, implied volatility represents the market’s expectations of future price swings.\n\nAmberdata also looked at monthly volatility and since the start of 2024, March has had the highest at 67.\n\nAmid bitcoin’s recent 30% drawdown from its all-time high, its one-month annualized daily realized volatility nearly hit 70 versus an average of about 50. The only two other instances of similar volatility spikes occurred in March 2024, following another run to a record high (then $73,000), and in August 2024, during the yen carry trade unwind, according to Glassnode data.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/tuesdays-have-been-bitcoin-s-most-volatile-day-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Amberdata",
+                "Glassnode"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article describes historical volatility patterns and recent price drawdowns without indicating a clear directional market impact."
+    }
+}

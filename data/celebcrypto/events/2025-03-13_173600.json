@@ -1,0 +1,32 @@
+{
+    "title": "AML Bitcoin Creator Found Guilty In Pump-and-Dump Case Linked to 'Casino Jack'",
+    "summary": "A jury in California convicted Rowland Marcus Andrade of wire fraud and money laundering in connection with the sale of AML Bitcoin.",
+    "time": "2025-03-13T17:36:00",
+    "author": "Sam Kessler",
+    "content": "A federal jury in the Northern District of California on Wednesday convicted cryptocurrency entrepreneur Rowland Marcus Andrade of wire fraud and money laundering connected to the sale of a token called AML Bitcoin.\n\nThe charges stemmed from an initial coin offering Andrade conducted for AML Bitcoin in 2017 and 2018. Early court filings covered by CoinDesk alleged Andrade, a Texas resident, falsely told investors that AML Bitcoin tokens would ultimately be converted into a tradeable AML Bitcoin currency — a cryptocurrency that never launched and was named to resemble the popular Bitcoin token.\n\nThe conviction marks the conclusion of one of the first and longest-running crypto \"pump-and-dump\" cases to involve U.S. federal prosecutors.\n\nThe Department of Justice named famed D.C. lobbyist Jack Abramoff a co-conspirator and he pleaded guilty in 2020, paying more than $50,000 in disgorgement and interest. Abramoff is better known for his involvement in a federal corruption scandal that resulted in his imprisonment and was depicted in the film \"Casino Jack.\"\n\nA statement released by the U.S. Department of Justice accused Andrade of diverting \"more than $2 million in proceeds from the sale of AML Bitcoin\" and using it on \"personal expenses, including the purchase of two properties in Texas and two luxury automobiles.\"\n\nAccording to the statement, Andrade also falsely claimed that the Panama Canal Authority was close to permitting AML Bitcoin to be used for ships passing through the Panama Canal when no such agreement existed.\n\n\"Fraudsters often tout new and innovative technology in order to raise money from investors. But raising money through lies and misrepresentations is neither new nor innovative. It's unlawful, plain and simple,\" said Acting United States Attorney Patrick D. Robbins. \"If you deceive investors to enrich yourself and spend their money on personal expenses, homes, and property, you will be held to account.\"\n\nAndrade is scheduled to be sentenced in July. According to the DOJ press release, \"he faces a maximum penalty of 20 years in prison for the wire fraud count and 10 years in prison for the money laundering count, and forfeiture of all property that is traceable to his wire fraud and money laundering violations including property that Andrade bought in Texas.\"",
+    "url": "https://www.coindesk.com/policy/2025/03/13/aml-bitcoin-creator-found-guilty-in-federal-pump-and-dump-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rowland Marcus Andrade",
+                "Jack Abramoff",
+                "Patrick D. Robbins"
+            ],
+            "positions": [
+                "Acting United States Attorney"
+            ],
+            "companies": [],
+            "organizations": [
+                "Department of Justice",
+                "Panama Canal Authority",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "AML Bitcoin",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The conviction for wire fraud and money laundering in a crypto pump-and-dump scheme represents regulatory enforcement that could negatively impact market confidence."
+    }
+}

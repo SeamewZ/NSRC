@@ -1,0 +1,27 @@
+{
+    "title": "WazirX Offers 85% of Stolen User Funds as Rebalancing Ends",
+    "time": "2025-02-11T08:54:00",
+    "author": "Shaurya Malwa",
+    "summary": "Fund distribution will begin if creditors approve the plan, bringing partial money recovery for victims of the $230 million hack that hit the Indian crypto exchange in July.",
+    "content": "WazirX hack victims will receive 85% of their portfolio value as recorded on Jul.18 as the exchange completed its asset rebalancing on Tuesday, with the first round of distributions slated in April.\n\nAs of Tuesday, users can see both the U.S. dollar and Indian rupee values of assets that were lost in a $230 million hack in July 2024. Upside from unstolen tokens belonging to individuals have been distributed across all users, allowing for a higher amount to be returned to users.\n\nCreditors now have until Feb.19 to accept the rebalancing under the current scheme, with a majority vote of 75% required for the plan to move forward.\n\nPart of the refund plan is to launch a decentralized exchange (DEX), issue recovery tokens that can be traded, and perform a periodic buyback of recovery tokens using platform profits and new revenue streams over the next three years.\n\nHowever, if the scheme is not approved, the restructuring plan fails and the process moves towards liquidation under section 301 of the Singapore Companies Act — potentially leading to a fire sale of assets and creditors receiving less compensation as assets are sold off at possibly lower values.\n\nWazirX was hit by a security breach in one of its multisig wallets last July, causing over $100 million in\nSHIB\n$0.0₅9041\nand $52 million in ether, among other assets, to be drained from the exchange.\n\nThe stolen funds accounted for over 45% of the total reserves cited by the exchange in a June 2024 report, leading to a restructuring process to clear liabilities. North Korean hacking unit Lazarus is believed to be behind the attack, as CoinDesk previously reported.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/wazirx-offers-85-of-stolen-user-funds-as-rebalancing-ends",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "WazirX"
+            ],
+            "organizations": [
+                "Lazarus",
+                "Singapore Companies Act"
+            ]
+        },
+        "cryptocurrencies": [
+            "SHIB",
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach resulting in a $230 million hack and potential liquidation, indicating negative market impact from the security failure and financial losses."
+    }
+}

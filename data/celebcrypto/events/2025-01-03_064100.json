@@ -1,0 +1,27 @@
+{
+    "title": "BlackRock’s Bitcoin ETF Records Its Largest Outflow",
+    "time": "2025-01-03T06:41:00",
+    "author": "Shaurya Malwa",
+    "summary": "BlackRock's IBIT started the new year on a rough note, losing millions in net outflows on Thursday.",
+    "content": "The largest public fund tracking bitcoin\nBTC\n$104,608.94\nrecorded its highest outflows on Thursday, nearly one year after going live.\n\nBlackRock’s Nasdaq-listed IBIT, which holds over $53 billion in net assets, saw over $332 million leave the fund on Thursday, according to data source SoSoValue. These exceed a short-held previous record of $188 million in late December.\n\nIBIT has recorded a string of outflows since Dec. 20 for the first time in its history, data shows, ranging from $17 million to as much as Thursday’s figures.\n\nLarge outflows can be seen as a lack of confidence in the ETF's strategy, sector, or broader market segment. However, it could also be due to investors rebalancing their portfolios or taking profits, not necessarily a negative outlook on the ETF.\n\nOther ETFs recorded inflows, however, with Bitwise’s BITB taking on $48 million and Fidelity’s FBTC taking in $36 million. Grayscale’s GBTC was the only other ETF with outflows at $23 million.\n\nBitcoin trades just under $97,000 at writing time, up 1.5% in the past 24 hours.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/black-rock-s-bitcoin-etf-records-its-largest-outflow",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Bitwise",
+                "Fidelity",
+                "Grayscale"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports BlackRock's Bitcoin ETF recorded its largest outflow of $332 million, which can indicate lack of confidence in the ETF strategy or broader market segment."
+    }
+}

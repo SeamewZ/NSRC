@@ -1,0 +1,27 @@
+{
+    "title": "Stagflationary Data Puts Pressure on Bitcoin, Stocks",
+    "summary": "U.S. GDP turned negative in the first quarter, while prices rose more than forecast; ADP jobs data was the weakest in nearly one year.",
+    "time": "2025-04-30T13:34:00",
+    "author": "Stephen Alpher",
+    "content": "What one hour ago was looking like another positive day in markets has turned decidedly negative as the latest economic data fueled growing stagflation fears.\n\nFirst up was ADP jobs numbers for April. Coming two days ahead of the government's own employment data for April, the ADP report showed just 62,000 private sector jobs created this month, well shy of estimates for 108,000 and March's 147,000. It was the weakest print since July 2024.\n\nNext was the government's first estimate of first quarter GDP growth, which came in at negative 0.3% against estimates for positive 0.2%. While the quarter ended in March, economic actors — fully aware of coming tariffs — front-loaded imports early in the year. Going back to Econ 101, rising imports (absent a corresponding gain in exports) are a drag on GDP growth.\n\nIndeed, the export-import imbalance cut GDP growth by nearly 5% in the first quarter. Also at work was the Trump administration's DOGE efforts, with government spending a drag on GDP for the first time since 2022.\n\nTurning to inflation, the Core PCE price index embedded within the GDP report rose 3.5% versus estimates for a gain of just 3.1%.\n\nIt's all adding up to a big drop in U.S. stocks, with the Nasdaq lower 2% and S&P 500 by 1.5%. That's hitting bitcoin\nBTC\n$101,913.92\n, which has slipped about 1% alongside to $94,300.",
+    "url": "https://www.coindesk.com/markets/2025/04/30/stagflationary-data-puts-pressure-on-bitcoin-stocks-early-in-u-s-day",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "ADP"
+            ],
+            "organizations": [
+                "Trump administration",
+                "DOGE"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that stagflationary economic data caused a drop in stocks and bitcoin, with bitcoin slipping about 1% to $94,300."
+    }
+}

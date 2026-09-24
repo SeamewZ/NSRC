@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Trading Volumes Dropped 20% in February as Tariffs Threats Fazed Investors",
+    "time": "2025-03-13T12:40:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Spot and derivatives trading slid to a four-month low as macroeconomic concerns weighed on investor sentiment.",
+    "content": "Crypto trading volumes dropped sharply in February as concerns that President Donald Trump's tariffs on Mexico, Canada and other countries would stifle international trade reduced investor demand for adding to risky investments.\n\nCombined spot and derivatives trading volume on centralized exchanges fell 21% to $7.2 trillion, the lowest level since October, according to CoinDesk Data’s latest Exchange Review.\n\nSince November, the Trump administration has threatened to impose tariffs on trading partners including China and the European Union in response to what it considers unfair trade practices against the U.S. in various industries.\n\nAmong centralized exchanges, Binance maintained its position as the largest spot trading platform with a 27% market share. It was followed by Crypto.com (8.1%) and Bybit (7.4%) with Coinbase (COIN) and MEXC Global rounding out the top five.\n\nDerivatives trading also saw a significant decline, with CME — the largest institutional crypto trading venue — recording its first volume drop in five months. CME’s trading volume fell 20% to $229 billion, with bitcoin futures activity sliding 20% to $175 billion and ether futures falling 13% to $35.9 billion.\n\nThe decline in trading coincided with a drop in the BTC CME annualized basis, which fell to 4.08%, its lowest level since March 2023. Nevertheless, the CME’s market share among derivatives exchanges grew to a record 4.67%.\n\nThe increase suggests that while retail trading activity has been waning, with Robinhood (HOOD) recently reporting its crypto trading volume fell 29% in February, institutional interest in the industry is holding.\n\nTotal open interest across all trading pairs on centralized exchanges fell 30% to $78.8 billion, the lowest since Nov. 5, the report noted, reflecting the heavy liquidations endured during the recent drawdown.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/crypto-trading-volumes-dropped-20-in-february-as-tariffs-threats-fazed-investors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Binance",
+                "Crypto.com",
+                "Bybit",
+                "Coinbase",
+                "MEXC Global",
+                "CME",
+                "Robinhood"
+            ],
+            "organizations": [
+                "Trump administration",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports sharp declines in trading volumes, heavy liquidations, and waning retail activity across both spot and derivatives markets."
+    }
+}

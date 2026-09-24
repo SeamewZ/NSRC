@@ -1,0 +1,30 @@
+{
+    "title": "Tesla Reports $951M in Crypto Holdings as It Misses Earnings",
+    "summary": "Tesla does not seem to have sold any digital assets in the last quarter.",
+    "time": "2025-04-22T21:23:00",
+    "author": "Tom Carreras",
+    "content": "Tesla (TSLA) still holds almost $1 billion in bitcoin, according to the automaker's latest earnings report.\n\nThe electric vehicle firm reported digital asset holdings worth $951 million as of March 31, down from $1.076 billion on Dec. 30. Tesla currently holds 11,509 bitcoin in its balance sheet, according to Bitcoin Treasuries data.\n\nThe change is almost certainly due to bitcoin's price depreciating between the two quarters. Data from Arkham Intelligence indicates that Tesla did not perform any transactions in the last three months. Arkham marks Tesla's holdings as being currently worth $1.049 billion.\n\nA new rule from the Financial Accounting Standards Board (FASB) requires corporate holders of digital assets to begin marking those assets to market each quarter.\n\nTesla also reported $19.34 billion in revenue for the first quarter of the year; analysts had expected the carmaker to rake in $21.37 billion.\n\nThe TSLA shares were up more than 2% in after-hours trading.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/tesla-reports-951m-in-crypto-holdings-as-it-misses-earnings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tesla",
+                "TSLA"
+            ],
+            "organizations": [
+                "Financial Accounting Standards Board",
+                "FASB",
+                "Arkham Intelligence",
+                "Bitcoin Treasuries"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Tesla maintained its bitcoin holdings without selling, but the value decreased due to price depreciation, creating a neutral market impact."
+    }
+}

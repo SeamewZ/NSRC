@@ -1,0 +1,50 @@
+{
+    "title": "Bitcoin Eyes $105K as Coinbase Surges 24%; Rally Has More Room, Says Analyst",
+    "time": "2025-05-13T20:22:00",
+    "author": "Krisztian Sandor",
+    "summary": "",
+    "content": "Bitcoin\nBTC\n$104,723.54\nclimbed back above $104,000 on Tuesday with welcome fresh inflation data, President Trump's bullish outlook on financial markets, and Coinbase's inclusion into the S&P 500 among catalysts for the advance.\n\nApril’s Consumer Price Index (CPI) came in cooler than anticipated, which may allay pressure on the Federal Reserve anxious about inflation due to tariffs. Fed Chair Jerome Powell's scheduled speech on Thursday could provide further policy guidance.\n\nThe upbeat mood was further lifted by Donald Trump, who told attendees at the Saudi–U.S. Investment Forum in Riyadh that markets \"could go a lot higher,.\".\n\nBitcoin\nBTC\n$104,723.54\nnearly touched $105,000 before pulling back, at press time trading 2.4% higher over the past 24 hours at around $104,400. Most altcoins in the CoinDesk 20 Index outperformed. Ethereum's ether\nETH\n$3,558.49\ncontinued its resurgence advancing over 9% to $2,700. Restaking protocol Eigenlayer's governance token\nEIGEN\n$0.7518\nand decentralized finance (DeFi) protocol EtherFi's native token\nETHFI\n$0.8305\nbooked more than 20-30% daily gains.\n\nStocks added to their recent gains, with the Nasdaq and S&P 500 up 1.6% and 0.75%, respectively, at the session close. Nasdaq-listed crypto exchange Coinbase (COIN) surged 24% during the day as the stock is set to benefit from being included in the S&P 500 index. The change could unleash $16 billion in buying pressure for shares, Jefferies forecasted.\n\nJoel Kruger, market strategist at LMAX Group, said that the crypto market is still digesting last week's gains, but the rally has further momentum. “Currently, the market appears to be pausing for breath, yet the prevailing sentiment in recent headlines suggests this rally still has room to grow,” Kruger said.\n\nHe pointed to a rebound in global risk appetite and a growing number of institutional tailwinds. “One notable factor is the increasing mainstream adoption of cryptocurrency, as evidenced by developments in U.S. financial markets. Coinbase’s inclusion in the S&P 500 marks a historic milestone, establishing it as the first crypto-native company to join this prestigious index,” Kruger said.\n\nHe also cited improving sentiment around regulation. SEC Chair Paul Atkins has pledged to make the U.S. a hub for cryptocurrency innovation, which Kruger believes could unlock a new wave of institutional interest if followed by meaningful policy clarity.\n\nPaul Howard, senior director at trading firm Wincent, echoed that view, saying that while altcoins are tracking the broader rally, institutional capital is likely to become more selective. “This evolving landscape appears to be laying the groundwork for increased institutional participation,” he said in a Telegram message. “The more resilient altcoin projects could benefit, while weaker ones may gradually phase out.”\n\nWhile bitcoin is less than 5% from its January record prices, Bitfinex analysts noted that neutral funding rates and stable trading volumes show no signs of market froth.However, BTC is facing resistance at around the $104,000-$106,000 zone, making a short-term consolidation likely with key support level at around $98,000, they added.\"BTC has moved up sharply in the past few weeks and we expect a period of consolidation, meaning a new all-time high could be delayed to June as supply/demand stabilises above $100,000,\" Bitfinex analysts wrote.\n\nZooming out for the next months, Bitfinex analysts said medium and long-term setups remain decisively bullish, setting a $150,000-$180,000 price target for 2025-2026.\n\n\"Bitcoin’s long-term outlook is the strongest it has ever been,\" they wrote. \"With sovereign and institutional adoption advancing, ETF rails expanding globally, and the US framing crypto policy more positively, BTC is evolving into a global macro reserve asset.\"",
+    "url": "https://www.coindesk.com/markets/2025/05/13/bitcoin-eyes-105k-as-coinbase-surges-24-rally-has-more-room-says-analyst",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Donald Trump",
+                "Joel Kruger",
+                "Paul Atkins",
+                "Paul Howard"
+            ],
+            "positions": [
+                "Fed Chair",
+                "President",
+                "market strategist",
+                "SEC Chair",
+                "senior director"
+            ],
+            "companies": [
+                "Coinbase",
+                "LMAX Group",
+                "Jefferies",
+                "Wincent",
+                "Bitfinex"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "S&P 500",
+                "CoinDesk 20 Index",
+                "Nasdaq",
+                "Saudi–U.S. Investment Forum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "EIGEN",
+            "ETHFI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive catalysts including Bitcoin climbing above $104,000, Coinbase surging 24% and joining S&P 500, analysts stating the rally has more room to grow, and institutional adoption milestones."
+    }
+}

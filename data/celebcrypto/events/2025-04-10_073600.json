@@ -1,0 +1,34 @@
+{
+    "title": "Crypto Investors Flee Spot Bitcoin, Ether ETFs on Tariff-Driven Uncertainty",
+    "summary": "The withdrawals took place even as prices zoomed higher alongside a risk-reset on Wall Street.",
+    "time": "2025-04-10T07:36:00",
+    "author": "Omkar Godbole",
+    "content": "U.S.-listed spot bitcoin (BTC) and ether (ETH) exchange-traded funds (ETFs) saw outflows Wednesday even as the cryptocurrencies' prices surged after President Donald Trump announced a 90-day pause in tariffs on most countries, excluding China.\n\nThe 11 bitcoin ETFs lost a net $127.2 million Wednesday, with investors withdrawing $89.7 million from BlackRock's IBIT alone, according to data from Farside Investors. Wednesday marked the fifth consecutive day of outflows, with the funds losing a cumulative $722 million over the period.\n\nEther ETFs have also fallen out of investor favor and the nine funds saw a net outflow of $11.2 million Wednesday.\n\nThe dwindling demand can be attributed to the macroeconomic uncertainty caused by the U.S.-China trade tensions and volatility in the bond markets that likely led to macro investors selling every asset, including crypto ETFs, for cash.\n\nMarkets bounced back sharply later Wednesday after Trump announced a 90-day pause on tariffs for more than 75 nations that did not retaliate to his sweeping duties announced a week ago. However, China, which recently placed steeped retaliatory tariffs on U.S. goods, did not get any relief, as Trump hiked the total levy on Chinese goods to 125%.\n\nBitcoin, the leading cryptocurrency by market value, rose over 8% to $83,500 and teh Ethereum blockchain's native token, ether, jumped 13% to $1,770 alongside bigger gains in the altcoin market, CoinDesk data show. Meanwhile, Wall Street's tech-heavy index, Nasdaq 100, jumped over 12%, its biggest single-day percentage gains in decades.",
+    "url": "https://www.coindesk.com/markets/2025/04/10/crypto-investors-flee-spot-bitcoin-ether-etfs-on-tariff-driven-uncertainty",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "BlackRock"
+            ],
+            "organizations": [
+                "Farside Investors",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant outflows from Bitcoin and Ether ETFs despite price increases, indicating investor uncertainty and selling pressure."
+    }
+}

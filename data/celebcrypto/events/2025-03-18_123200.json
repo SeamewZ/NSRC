@@ -1,0 +1,45 @@
+{
+    "title": "DOGE, XRP Down 3% as Bitcoin Traders Eye Wednesday Fed Decision",
+    "time": "2025-03-18T12:32:00",
+    "author": "Shaurya Malwa",
+    "summary": "Analysts from QCP Capital suggest that while a rate cut is unlikely, any dovish signal could ignite upside momentum for bitcoin, potentially lifting altcoins in its wake.",
+    "content": "The crypto market was little changed-to-lower on Tuesday, with dogecoin (DOGE) and XRP leading declines among major tokens with losses of just over 3% in the past 24 hours. The CoinDesk 20 Index (CD20), a measure of the broader crypto market, fell 2%.\n\nThe lack of volatility comes as bitcoin (BTC) traders largely brace for the Federal Open Market Committee (FOMC) meeting scheduled for Wednesday, which could set the tone for monetary policy and influence risk assets including cryptocurrencies.\n\nThe Federal Reserve’s decision on interest rates — widely expected to remain unchanged at 4.25%–4.50% — and any comments from Chair Jerome Powell could sway investor sentiment. A hawkish stance, signaling tighter policy or a slower path to rate cuts, might pressure bitcoin and lead to more pronounced losses in altcoins. Conversely, a dovish tilt hinting at future easing could spark a relief rally.\n\n“A rate cut this Wednesday remains highly unlikely as the U.S. pivots away from fiscal dominance, where government spending fueled growth, toward [President Donald] Trump's push for deficit reduction,” traders from QCP Capital shared in a broadcast message Tuesday. “The shift puts the burden back on monetary policy. While we do not anticipate a surprise cut, any dovish signal from Powell could be the catalyst that sparks upside momentum.\n\n“Capital may be rotating out of Trump-driven momentum trades like NASDAQ and Bitcoin and into long-overlooked European and Chinese markets. Historically, crypto prices have lagged shifts in global liquidity conditions,” QCP Capital traders added.\n\nAgne Linge of WeFi noted that broader market volatility remains elevated, with the crypto fear and greed index at 22 — indicating \"extreme fear\" — as investors grapple with uncertainties around inflation, trade wars, and geopolitical tensions.\n\n“In the United States, the S&P 500 and Nasdaq Composite recorded their fourth consecutive weekly declines last week, with the Dow Jones dropping by 3.1% to record its worst weekly turnover in about 24 months. While the previous week saw an unusual drawdown, more uncertainty lies ahead for the rest of the month,” Linge said, noting any macroeconomic headwinds could ultimately weigh down bitcoin prices.\n\nAt Bitget Research, chief analyst Ryan Lee said bitcoin remains in a tight range with a move to either $75,000 or $90,000 equally likely, based on how traders react to the U.S. rate decision.\n\n“Bitcoin's recent pullback has traders watching key support levels between $82,000 and $85,000. It’s a classic post-rally consolidation phase that is healthy but also a test of whether the recent momentum has real staying power,” Lee said in an email to CoinDesk. “Any unexpected FOMC moves could throw a wrench into the market.\n\n“If sentiment turns bearish, we could see Bitcoin dip toward $75,000–$80,000, though a bullish macro backdrop could send it climbing back to $90,000,” he added.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/doge-xrp-down-3-as-bitcoin-traders-eye-wednesday-fed-decision",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Donald Trump",
+                "Agne Linge",
+                "Ryan Lee"
+            ],
+            "positions": [
+                "Chair",
+                "President",
+                "chief analyst"
+            ],
+            "companies": [
+                "QCP Capital",
+                "WeFi",
+                "Bitget Research",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Federal Open Market Committee",
+                "Federal Reserve",
+                "NASDAQ",
+                "S&P 500",
+                "Nasdaq Composite",
+                "Dow Jones"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "XRP",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market is described as 'little changed-to-lower' with traders bracing for the Fed decision, showing mixed analyst opinions and uncertainty about future direction."
+    }
+}

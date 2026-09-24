@@ -1,0 +1,165 @@
+% NSRC event-addressed residual-memory paper.
+\documentclass{article}
+\usepackage{spconf,amsmath,amssymb,graphicx,booktabs,array,multirow}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
+\usepackage{url}
+\usepackage{placeins}
+\usepackage{stfloats}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+\title{NSRC: Event-Addressed Residual Memory for Reliable Neural Forecast Correction}
+\name{Litong Sun$^1$ \qquad Peizong Yang$^1$ \qquad YangTian Mi$^1$ \qquad \href{https://orcid.org/0000-0002-8211-257X}{Xiapu Luo}$^2$ \qquad Weigang Wu$^1$\sthanks{Corresponding author: Weigang Wu (wuweig@mail.sysu.edu.cn).}}
+\address{$^1$ Sun Yat-sen University; $^2$ Hong Kong Polytechnic University, Hong Kong SAR\\
+$^1$ \{sunlt5, yangpz3, miyt\}@mail2.sysu.edu.cn; wuweig@mail.sysu.edu.cn}
+\begin{document}
+\raggedbottom
+\ninept
+\maketitle
+\begin{abstract}
+Event announcements can induce delayed, structured deviations from price-only forecasts. We introduce Neural Structured Residual Correction (NSRC), which stores mature forecast errors with explicit event addresses and retrieves them as correction trajectories. Semantic matching, volatility-aware transfer, delayed-feedback calibration, and a validation-frozen router adapt the correction while preserving a numerical forecast anchor. Across celebrity events, general news, cryptocurrency macro announcements, and equity-index announcements, NSRC reduces equal-cohort DLinear MSE/MAE/MAPE by 16.60\%/13.44\%/13.36\%, leads learned baselines in 11 of 12 cohort--metric cells, and has eight exploratory NSRC-vs.-DLinear contrasts that remain significant after Holm correction. Because the test intervals also informed method exploration, we report retrospective within-period results.
+\end{abstract}
+\begin{keywords}
+Event-conditioned forecasting, structured residual memory, time-series forecasting, residual correction
+\end{keywords}
+
+\section{Introduction}
+Public information and social narratives can shape asset prices, but event responses differ across assets and horizons; event studies and social-media analyses document this setting~\cite{mackinlay1997event,antweiler2004all,oliveira2017impact,shiller2019narrative}. A price history alone cannot explain all multi-step deviations. As Fig.~\ref{fig:framework} shows, event classes induce distinct residual distributions and temporal patterns, motivating reuse of event-conditioned evidence rather than pooling these errors as undifferentiated noise.
+
+NSRC keeps the numerical forecaster fixed and reuses its mature event-conditioned errors. Each completed forecast stores an address $(c,d,z)$—category, direction, and description—with its residual trajectory. For a new event, regularized retrieval and volatility-aware transfer adapt related trajectories, delayed-feedback calibration sets their strength, and a validation-frozen router selects the deployed path.
+
+Financial forecasting has incorporated social-media signals, multimodal price/text features, and event-aware transformers~\cite{farimani2024adaptive,zhang2025eventaware,zhang2025camef}; recent time-series foundation models also align numerical and textual streams~\cite{wang2025chattime,liu2025timecma}. RATL stores a frozen forecaster's residual trajectories and retrieves them by numerical context, with routing over forecast blocks and variables~\cite{he2026ratllearningretrievedresiduals}. NSRC complements this residual-memory line by addressing residuals with event category, direction, and description rather than numerical context alone, then aligning transfer by volatility and calibrating it with delayed feedback. Thus, recurring catalysts—not only similar price windows—organize residual reuse. Inspired by inspectable structured and neuro-symbolic representations~\cite{manhaeve2018deepproblog,mao2019nscl}, NSRC keeps the event state explicit without requiring a symbolic program; Table~\ref{tab:main} compares it with forecasting baselines.
+Our contributions are:
+
+\noindent\textbf{1) Event-conditioned residual formulation.} We represent each completed forecast's mature multi-step error as an event-conditioned residual trajectory, admitting it to memory only after the full target horizon is observed.
+
+\noindent\textbf{2) Semantic residual memory and calibrated transfer.} A category--direction--description address retrieves related trajectories; recency and asset weights, volatility alignment, and support shrinkage govern transfer, while delayed feedback calibrates its amplitude.
+
+\noindent\textbf{3) Evidence-guided deployment.} A validation-frozen, cohort-level router selects among semantic and uniform-memory corrections, the numerical backbone, and persistence; across four cohorts it determines when to retain an anchor or deploy a calibrated blend. Code is open-source at \href{https://github.com/SeamewZ/NSRC}{github.com/SeamewZ/NSRC}.
+
+\section{Neural Structured Residual Correction}
+\label{sec:method}
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{figures/fig1_final_v8_cropped.pdf}
+\caption{NSRC pipeline: event-conditioned residual structure, semantic memory with calibrated transfer, and validation-frozen forecast routing.}
+\label{fig:framework}
+\end{figure*}
+
+Fig.~\ref{fig:framework} summarizes the NSRC pipeline. At each event origin, a frozen numerical backbone issues an $H$-step forecast. Once historical outcomes mature, NSRC stores their residual trajectories with event addresses; a new event retrieves related records, adapts their scale, and calibrates the correction using only earlier outcomes. A validation-frozen router selects among NSRC's correction paths and forecasting anchors.
+
+\textbf{Forecasting interface.} A frozen backbone maps the last $L=96$ observations to $\hat{\mathbf u}^{\,b}_t=f_\theta(\mathbf X_t)$, where $u_{t,h}=P_{t+h}/P_t$ for $h=1,\ldots,H$. We use $H=24$ hourly steps for crypto and 24 valid trading observations for equities. Event timestamps are floored to the hour and aligned one hour earlier, as in the experimental protocol; corrections are applied after release, and events arriving after a forecast window begins are excluded from that forecast. The residual $\boldsymbol\delta_t=\mathbf u_t-\hat{\mathbf u}^{\,b}_t$ enters memory only after its full target horizon has matured.
+
+\subsection{Semantic addressing of residual trajectories}
+The event address $e=(c,d,z)$ records event category, direction, and description. For celebrity/news, GPT, Gemini, and DeepSeek independently assign the target-asset direction and majority voting yields $d$; for macro events, $d$ is determined by the released value relative to consensus. We trim and lowercase $c,d$. For description matching, $T$ lowercases $z$, tokenizes alphanumeric strings, and removes single-character tokens and fixed stop words; Jaccard overlap of the resulting token sets lets differently worded descriptions share memory when they retain common terms.
+
+\textbf{Relevance weights.} The causal archive $\mathcal M_t$ contains event origins from the preceding 90 calendar days whose full target horizons are observed before $t$. We score agreement between a query event and each event stored in memory as
+\begin{equation}
+ s(e,e')=\tfrac12{\bf1}[c=c']+\tfrac14{\bf1}[d=d']
+       +\tfrac14J(T(z),T(z')).
+\label{eq:score}
+\end{equation}
+For historical origin $i$, let $\mathcal E_i$ be its associated events and $q_{ti}(e)=\max_{e'\in\mathcal E_i}s(e,e')$. Weights combine the best event match, a 60-day recency half-life, and asset proximity:
+\begin{equation}
+\begin{aligned}
+ \tilde q_{ti}(e)&=\begin{cases}
+ q_{ti}(e),&\text{if }\exists j\in\mathcal M_t:q_{tj}(e)>0,\\
+ 1,&\text{otherwise},
+ \end{cases}\\
+ w_{ti}(e)&=\rho_{ti}2^{-\Delta_{ti}/60}\,\tilde q_{ti}(e),
+\end{aligned}
+\label{eq:weights}
+\end{equation}
+Here $\Delta_{ti}$ is age in days and $\rho_{ti}=1$ for the same asset or $.25$ otherwise. Description matching is lexical token overlap, not embedding similarity. If any archive record has positive match score, zero-match records receive zero weight; if none match, all records fall back to recency and asset weights.
+
+\textbf{Volatility-aligned memory.} For each record, input-window return volatility $\sigma_i$ (floored at $10^{-4}$) and the horizon index define a scale matrix. We normalize and clip residuals as follows:
+\begin{equation}
+\mathbf D_i=\sigma_i\operatorname{diag}(1,\sqrt2,\ldots,\sqrt H),\;\mathbf v_i=\operatorname{clip}\left(\mathbf D_i^{-1}\boldsymbol\delta_i,-5,5\right).
+\label{eq:residual}
+\end{equation}
+Stacking $\mathbf v_i^\top$ gives $\mathbf V_t\in\mathbb R^{|\mathcal M_t|\times H}$. Clipping is elementwise to $[-5,5]$; the shared volatility--horizon coordinates support cross-asset transfer.
+
+\textbf{Regularized residual readout.} For each query, let $\mathbf w_t(e)=[w_{ti}(e)]_{i\in\mathcal M_t}$. With $\lambda=10$, NSRC computes:
+\begin{equation}
+\mathbf r_t^\star(e)=\frac{\mathbf V_t^\top\mathbf w_t(e)}{\lambda+\mathbf1^\top\mathbf w_t(e)},\;\mathbf a_t(e)=\mathbf D_t\mathbf r_t^\star(e).
+\label{eq:memory}
+\end{equation}
+The first line is the closed-form solution to a weighted squared-residual objective with an $\ell_2$ penalty. Here $\mathbf D_t$ is formed from current input-window volatility, and the denominator shrinks low-support reads toward zero. When several events share an origin, NSRC averages their readouts equally, $\mathbf a_t=|\mathcal E_t|^{-1}\sum_{e\in\mathcal E_t}\mathbf a_t(e)$; an empty event set or memory gives $\mathbf a_t=\mathbf0$.
+
+\subsection{Correction strength from delayed feedback}
+The retrieved trajectory supplies a correction pattern, while completed historical outcomes set its amplitude. Let $\mathcal B_t\subseteq\mathcal M_t$ contain matured origins with nonzero readouts $\mathbf a_i$ computed at issuance; $n_t=|\mathcal B_t|$. At each update, NSRC fits a shared gain under both absolute and squared error:
+\begin{equation}
+g_{p,t}\in\arg\min_{g\in\mathbb R}
+ \sum_{i\in\mathcal B_t}\omega_i
+ \|\boldsymbol\delta_i-g\mathbf a_i\|_p^p,
+ \qquad p\in\{1,2\}.
+\label{eq:calibration_objective}
+\end{equation}
+Weights $\omega_i=(|\mathcal S_t|n_{s(i)}H)^{-1}$ give equal total weight to each represented asset and horizon; $\mathcal S_t$ is the asset set in $\mathcal B_t$, and $n_{s(i)}$ counts its records from asset $s(i)$. For $n_t\ge3$,
+\begin{equation}
+g_t=\frac{n_t}{n_t+10}\big[\min\{g_{1,t},g_{2,t},1.5\}\big]_+,\;\hat{\mathbf u}^{\,s}_t=\hat{\mathbf u}^{\,b}_t+g_t\mathbf a_t,
+\label{eq:final}
+\end{equation}
+where $[x]_+=\max(x,0)$; otherwise $g_t=0$. The gain is the smaller nonnegative estimate from the two losses, capped at 1.5 and shrunk when few completed examples are available. This yields the semantic correction $\hat{\mathbf u}^{\,s}_t$. NSRC also constructs a complementary uniform-relevance correction $\hat{\mathbf u}^{\,a}_t$ from the same archive, transfer, and calibration: it sets the event-match score to one for every record while retaining recency and asset weights. Both are internal candidate paths of NSRC.
+
+\subsection{Validation-frozen prediction routing}
+NSRC's router compares its semantic and uniform-relevance correction paths with the frozen backbone and persistence anchor. Before each test interval, validation selects one cohort-level path from these candidates and fixed persistence blends. With $\mathbf p=\mathbf1_H$ and $\mathcal A=\{.10,.25,.50,.75\}$, the candidate set is
+\begin{equation}
+\begin{aligned}
+\mathcal C_t={}&\{\mathbf p,\hat{\mathbf u}^{\,b}_t,
+                         \hat{\mathbf u}^{\,a}_t,\hat{\mathbf u}^{\,s}_t\}\\
+ &\cup\{(1-\alpha)\mathbf p+\alpha\mathbf q:
+       \mathbf q\in\{\hat{\mathbf u}^{\,a}_t,\hat{\mathbf u}^{\,s}_t\},
+       \alpha\in\mathcal A\}.
+\end{aligned}
+\label{eq:candidates}
+\end{equation}
+Validation $\mathcal V$ uses the preceding 30 days and only horizons completed before testing. Averaging over origins, horizons, and seeds gives
+\begin{equation}
+k^*=\mathop{\arg\min}\limits_k^{\mathrm{lex}}(\overline{\mathrm{MAE}}_{\mathcal V,k},\overline{\mathrm{MSE}}_{\mathcal V,k},k),\;\hat{\mathbf u}^{\,\mathrm{NSRC}}_t=\hat{\mathbf u}^{\,k^*}_t,
+\label{eq:route}
+\end{equation}
+where MAE is primary, MSE breaks MAE ties, and candidate order breaks any remaining ties. The selected route stays fixed during testing, while memory and calibration update as earlier forecast origins fully mature. Outside event origins, NSRC retains the backbone forecast.
+
+\section{Experiments}
+\input{tables/main.tex}
+\input{tables/ablation.tex}
+\input{tables/statistics.tex}
+\subsection{Data and protocol}
+The four cohorts are Celebrity (BTC/ETH/SOL/DOGE; train Jan--Feb 2025, test May), News (same assets; train Jan--Feb, test Jun--Aug), Macro crypto (same assets), and Macro equities (SPX/NDX/INDU); both macro cohorts train through August and test in November--December. They contain 288/61/164/117 event origins; News has no eligible DOGE event and one SOL event. The 30 days before each test interval select its route using only outcomes mature by test start. Because these intervals also informed method exploration, we report retrospective within-period forecasts.
+
+Baseline citations appear in Table~\ref{tab:main}. DLinear, GPT4TS, and PatchTST use three seeds per cohort; iTransformer and TimesNet use three for Celebrity/News and one for macro; the remaining baselines use one. Price-only baselines share a 96-observation input, while Time-LLM, CAMEF, and Time-MoE use their official settings. NSRC uses DLinear for its forecast and residual branch, and freezes the validation-selected route per test interval.
+
+For cohort $D$ with $N_D$ event origins, metrics pool all 24 horizons: $\langle f\rangle_D=(24N_D)^{-1}\sum_{i=1}^{N_D}\sum_{h=1}^{24}f_{i,h}$. Table~\ref{tab:main} reports MSE$=\langle\delta^2\rangle_D$, MAE$=\langle|\delta|\rangle_D$, and MAPE$=100\langle|\delta|/\max(|y|,10^{-8})\rangle_D$ for origin-price-normalized $y,\hat y$ and $\delta=y-\hat y$. Significance tests average seed-level loss across 24 horizons per event. Paired event differences are resampled in calendar-day blocks. All model decisions use pre-forecast information; 3-/14-day blocks test sensitivity.
+
+\subsection{Forecasting effectiveness}
+\input{tables/results_text.tex}
+\par
+
+\subsection{Residual-memory mechanism}
+\input{tables/ablation_text.tex}
+\par
+
+\subsection{Reliability and stability}
+\input{tables/stability_text.tex}
+\par
+
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\columnwidth]{figures/fig2_fixed.pdf}
+\caption{Earliest-eligible BTC/SPX cases: GPT4TS vs. routed DLinear-based NSRC; titles show 24-step MAE. Chronological selection is independent of error.}
+\label{fig:cases}
+\end{figure}
+\section{Conclusion}
+Across four cohorts, NSRC's event-addressed memory and validation-frozen routing improve all 12 cohort--metric results over fixed DLinear.
+
+\clearpage
+\emergencystretch=2pt
+\bibliographystyle{IEEEbib}
+\bibliography{sample-base}
+\end{document}

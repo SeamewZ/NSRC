@@ -1,0 +1,27 @@
+{
+    "title": "Ethereum to Sunset ‘Holesky’ Testnet in September",
+    "summary": "The deprecation plan comes after Holesky fell offline due to a faulty test of Ethereum’s upcoming Pectra update.",
+    "time": "2025-03-19T15:07:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum is set to discontinue its largest test network, Holesky, after it encountered challenges testing the forthcoming Pectra upgrade.\n\nThe Ethereum Foundation (EF) said in a blog post on Tuesday that the network — a controlled environment for testing Ethereum infrastructure and upgrades — will begin winding down, with a full shutdown anticipated on Sept. 30. The just-launched Hoodi test network, deployed on Monday, will serve as Holesky's replacement.\n\nThe deprecation plan comes after Holesky fell offline due to February's faulty test of Ethereum’s upcoming Pectra update. Developers took weeks to recover Holesky, which came back online in March but suffered from residual damage — so-called \"inactivity leaks\" that clogged up Holesky's entire validator apparatus.\n\n“[E]xited validators would take approximately one year to fully be removed from the validator set,” the EF explained in their blog post. “The size of the exit queue prevents Holesky from being used to test the full validator lifecycle within a reasonable timeframe.”\n\nEthereum runs testnets so that developers can run code changes before bringing them to Ethereum’s main network (mainnet). Test networks essentially replicate the Ethereum mainnet, and they allow developer teams and infrastructure providers to test out new software before launching them in a more high-stakes environment.\n\nHolesky was specifically intended for testing by Ethereum's validator ecosystem — the stakers and node operators that keep the Ethereum network up and running. It was built to model close-to-real network conditions with its support for a giant 1.4 million validators — more than Goerli, which Holesky replaced in 2023, and even the real Ethereum network.\n\nCurrently, Holesky is used by validators and staking providers, but the similarly-constructed Hoodi network will serve that function moving forward. Hoodi went live earlier this week and plans to test the Pectra upgrade on March 26. Should that test proceed smoothly, developers intend to push Pectra onto Ethereum’s mainnet 30 days later.\n\n“Stakers, this is your new testing ground,” said Tim Beiko, the protocol support lead at the EF, in a post on X.\n\nRead more: Hello, Hoodi: Ethereum Welcomes a New Testnet",
+    "url": "https://www.coindesk.com/tech/2025/03/19/ethereum-to-sunset-holesky-testnet-in-september",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tim Beiko"
+            ],
+            "positions": [
+                "protocol support lead"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes routine technical maintenance and testnet replacement for Ethereum development, which is a normal operational process rather than a market-moving event."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Friends With Benefits Grows Up",
+    "summary": "The buzzy covid-era crypto social club has launched Friends With Builders to create Web3 products with 20 infrastructure partners.",
+    "time": "2025-04-18T15:55:00",
+    "author": "Benjamin Schiller",
+    "content": "When Friends With Benefits burst into crypto consciousness in 2020, it was the kind of FOMO-inducing project that immediately had people talking. With a wink-wink, sexy name and members including musicians Erykah Badu and Azealia Banks, it was a club that many wanted to be a part of.\n\nEmerging at a time when everyone was locked down and hankering for connection, it filled a void and showed that crypto could bring people together for real. About 6,000 bought into the token (becoming members) and chapters sprouted up all over the world, centering on hipster-tech hubs like LA and New York City.\n\nThe New York Times, as it tends to do with crypto, gently mocked the idea. A 2022 profile opened with an anecdote about members developing a “flavored, sparkling yerba maté” with a coffee company. “It makes your soda $6 instead of $2,” said one member. The inference was clear: this was crypto kids with ideas, disposable income, plenty of time on their hands and not much to show for it.\n\nStill, the New York Times hit on what was definitely new about FWB. It called the group — which was mostly formed on Discord — a “decentralized Soho House” and “a V.I.P. lounge for crypto’s creative class.” It was tokenizing a community (with a DAO) in a way that proved that you could create something valuable IRL as much as online. The NYT said the group had raised $10 million from investors and that, after a funding round led by Andreessen Horowitz, it was valued at $100 million.\n\nIt wasn’t clear what FWB did exactly. Sure, it was good at organizing cool events around the world. It was good at building community, generating FOMO through the media and boosting its token price. But after that? TBD.\n\n“The original model was just a group chat with a token. The benefits at that time were just alpha,” CEO Greg Bresnitz said in an interview.\n\nFast forward to 2025, following FTX and The Crash, FWB looks like a more serious outfit. Today, it’s focused on building products that people actually want to use and has hopes to broaden Web3 beyond specialized financial products. Less yerba maté, more in-the-weeds innovation in music, film and culture.\n\n“This is a good inflection point for the industry. We have the opportunity to encourage a new wave of builders to the space. Making that vision and the pie bigger is incredibly important,” said Bresnitz. “We’ve done really well in the physical world. Now we’re focused on the revitalization of the online world and bringing that value back.”\n\nThis week, FWB announced Friends With Builders, a cohort-based building program that’s partnered with AWS, Alchemy, ThirdWeb, QuickNode, Akave, Filecoin, Base, World and several others. The idea is to invite creative technologists to work collectively quarter-by-quarter on early-stage projects, using tools provided by the partners. The first cohort (application deadline: April 28) will be focused on developing products around AI agents.\n\nBresnitz stresses that Friends With Builders is definitely not a hackathon.\n\n“The general model of the hackathon doesn’t work. You get eight hours at a conference, 48 hours to build it and then get the prize money. That only speaks to a certain type of builder who can work intensively over 48 hours,” Bresnitz said.\n\nWith Friends With Builders, the reward is the developed product, not the prize and gong given out by the hackathon organizers. It’s also focused on products where the Web 3 technology is under the hood, rather than the thing itself.\n\n“Someone could come in and build the 700th DeFi platform and we’re not going to stop them. They totally can. That’s great. But, for me, personally, what I believe the industry needs is to bundle all this up into something that feels totally normal,” Bresnitz said.\n\nHe points to projects like Blackbird, the restaurant loyalty app, as an example of the type of product Friends With Builders wants to incubate. Blackbird is useful and has mainstream appeal, and the crypto element (it has a cryptocurrency called FLY) is de-emphasized. The point is utility, not that it’s crypto.\n\n“We need a new type of person in this space,” Bresnitz said. “The persona of FWB has always been creative technologist. These are people who understand what people want and they’re looking for technology to support that. That’s different from what we see oftentimes [in crypto], which is ‘we built a hammer that’s also a screwdriver, who wants it?’”\n\nBresnitz argues that crypto has created great tooling infrastructure for builders. Now it needs to develop products that de-emphasize the technology. Builders in his program will have access to founders at the partner groups via Discord and meetups. They’ll receive developer credits and be able to tap extensive DevRel (developer support).\n\nFriends With Builders will run in quarters 1, 2 and 4. Quarter 3 will be left for FWB’s annual FEST gathering in California, where the builders will showcase their work. Last year, Base, a key FWB partner, held its annual get-together, Base Camp, at the same location (near Idyllwild) shortly before FEST began.\n\nAs a pilot for the new program, FWB recently organized a cohort with World (previously Worldcoin). FWB/World received 140 applications and the participating builders created 40 new mini-apps. The builders flew to Buenos Aires to take part in Crecimiento, and now some will take part in a demo day in New York on May 21. Two of those projects already have term sheets from investors.\n\nBresnitz is a strong advocate for his initiative. But he also displays a humility toward crypto that isn’t always evident in conversations with other founders. He believes Web3 has yet to show what it can really do for the world.\n\n“We haven’t cracked the code yet. This to me is about saying ‘can we try something different?’”",
+    "url": "https://www.coindesk.com/tech/2025/04/18/friends-with-benefits-grows-up",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Erykah Badu",
+                "Azealia Banks",
+                "Greg Bresnitz"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "AWS",
+                "Alchemy",
+                "ThirdWeb",
+                "QuickNode",
+                "Akave",
+                "Filecoin",
+                "Base",
+                "World",
+                "Blackbird",
+                "Andreessen Horowitz",
+                "New York Times",
+                "FTX",
+                "Coffee company"
+            ],
+            "organizations": [
+                "Friends With Benefits",
+                "Friends With Builders",
+                "DAO",
+                "FEST",
+                "Base Camp",
+                "Crecimiento"
+            ]
+        },
+        "cryptocurrencies": [
+            "FLY"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Friends With Benefits launching a major building program with 20 infrastructure partners to create Web3 products, indicating growth and development in the crypto ecosystem."
+    }
+}

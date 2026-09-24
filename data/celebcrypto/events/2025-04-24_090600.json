@@ -1,0 +1,23 @@
+{
+    "title": "KiloEx to Compensate Users Impacted by $7M Attack",
+    "time": "2025-04-24T09:06:00",
+    "author": "Jamie Crawley",
+    "summary": "Users whose positions remained open during the platform suspension will be compensated for the difference on increased losses or decreased profits",
+    "content": "KiloEX, the decentralized exchange (DEX) hit by a $7 million attack earlier this month, has revealed its resolution plans for affected users.\n\nUsers whose positions remained open during the platform suspension will be compensated for the difference on increased losses or decreased profits, KiloEX said on Thursday.\n\nCompensation will only be calculated up to the point the platform resumes, so users are advised to close their positions as soon as possible thereafter.\n\nThe KiloEx attacker, using a wallet funded by crypto laundering service Tornado Cash, appeared to exploit a vulnerability in the platform's price oracle system.",
+    "url": "https://www.coindesk.com/business/2025/04/24/kiloex-to-compensate-users-impacted-by-usd7m-attack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "KiloEX"
+            ],
+            "organizations": [
+                "Tornado Cash"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $7 million security breach and attack on a decentralized exchange platform, which represents negative market sentiment due to security vulnerabilities and financial losses."
+    }
+}

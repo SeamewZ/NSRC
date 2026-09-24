@@ -1,0 +1,33 @@
+{
+    "title": "Prediction Markets Don't Have a Gambling Problem, Says Crypto Attorney",
+    "summary": "While regulators around the world ban Polymarket for being a gambling platform, attorney Aaron Brogan has a good argument for why it's not.",
+    "time": "2025-01-24T10:05:00",
+    "author": "Sam Reynolds",
+    "content": "Singapore and Thailand recently moved to ban Polymarket from their respective jurisdictions, arguing that the site was just another gambling platform.\n\nOn the surface, that argument seems logical. Polymarket's inclusion of sports prediction markets makes it seem like a competitor to licensed sportsbooks around the world.\n\nAfter all, even prediction market's harshest critics acknowledge that there's some kind of value in an investment mechanism to hedge against events like an election, but the outcome of a sporting match just doesn't have the same material impact as an election or war.\n\nBut, beneath the surface, the argument that prediction markets are simply a Web3 version of gambling falls short, argues New York-based crypto attorney Aaron Brogan.\n\n“If you are a state-licensed gambling product, then you are taking one side of the bet. You’re essentially betting against your users,\" Brogan said. \"You’re booking the bets…and offering certain odds to users. Whether you make money or not depends on the odds you set.”\n\nPrediction markets like Polymarket and Kalshi, in contrast, act as neutral intermediaries that match trades without taking a side, making money via transaction fees.\n\n\"You are not taking a side of the bet as the market in that case, which fundamentally changes the incentives involved and makes the product different in a holistic way,” Brogan said, pointing out that prediction market platforms don't ban their best users in the same way casinos boot out card counting pros as it kills the house's mathematical edge.\n\n“Prediction markets aren’t gambling because they’re not structured to be,” Brogan said. “They’re tools for understanding, hedging, and creating public goods. That’s what makes them fundamentally different.”\n\nGetting an online gambling license in the U.S. was a herculean effort, and one might wonder why the new players in the space, like Draft Kings or incumbents like MGM, which followed in opening up online sports betting operations, don't go after prediction markets at the state level where gambling is regulated.\n\nThe key legal distinction, says Brogan, lies in the regulatory framework. In the U.S., prediction markets that are registered as Designated Contract Markets (DCMs) fall under federal regulation via the Commodity Exchange Act, which preempts state gambling laws.\n\n“Federal law in the United States preempts state law,” Brogan explained. “The Commodity Exchange Act includes a specific provision that precludes state regulation of federally registered derivatives. If you are federally registered, the states can’t regulate you.\"\n\nKalshi seems to feel confident in this argument, as the prediction market platform, which actively pursued registration with the Commodities Futures and Trading Commission – and fought its initial attempts to block election-related prediction markets – recently launched Super Bowl betting markets.\n\nBut this might not work for its competitors.\n\n“Polymarket, for example, is not registered in the United States, so arguably, states could go to its founder and say, ‘You’ve been facilitating sports betting, which is a felony in this state,’ and bring legal action. Registered exchanges, however, don’t face this issue because of their federal status,” Brogan said.\n\nWhile Polymarket and Kalshi are the two most recognizable names in the space, there are plenty of other new entrants which are following in their footsteps.\n\nOne of which is the crypto exchange Crypto.com, which recently launched Crypto.com sports after filing self-certification as a DCM with the CFTC.\n\nThe key thing is, Brogan explained, is that if the CFTC does not take action within 24 hours after the self-certification papers are filed, then the applicant can treat that as a green light.\n\n“If these are able to proliferate, and if the CFTC doesn’t take action, which they haven’t done yet, they’re going to end up eating these sportsbooks’ lunch. This is a $21 billion industry, and this new product is going to be way better,” he concludes.",
+    "url": "https://www.coindesk.com/policy/2025/01/24/polymarket-prediction-market-not-gambling",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aaron Brogan"
+            ],
+            "positions": [
+                "crypto attorney",
+                "founder"
+            ],
+            "companies": [
+                "Polymarket",
+                "Kalshi",
+                "Draft Kings",
+                "MGM",
+                "Crypto.com"
+            ],
+            "organizations": [
+                "Commodity Futures and Trading Commission",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses regulatory debates about prediction markets but does not indicate any direct impact on cryptocurrency prices or market sentiment."
+    }
+}

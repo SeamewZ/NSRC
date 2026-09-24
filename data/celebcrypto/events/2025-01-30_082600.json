@@ -1,0 +1,35 @@
+{
+    "title": "Pudgy Penguins’ Layer 2 Network, Abstract, Struggles to Attract Liquidity",
+    "time": "2025-01-30T08:26:00",
+    "author": "Oliver Knight",
+    "summary": "Just $33 million worth of ether and stablecoins is currently deployed on Abstract.",
+    "content": "Abstract, the layer-2 network rolled out this week by Pudgy Penguins, is off to a muted start despite offering a series of incentives to new users.\n\nThe network notched 711,000 user transactions on the day of release, but that respectable total has been overshadowed by a lack of inflows. Its total value secured (TVS) was standing at just $33 million worth of ether\nETH\n$3,651.51\nand stablecoins, a far cry from the tens of billions of dollars distributed across other hyped layer 2 networks.\n\nThe platform's native decentralized exchange, NOXA, has $109K worth of total value locked (TVL), down from $515K on launch day, DefiLlama shows.\n\nThe launch was marketed as a \"new era of consumer crypto\" with simplified onboarding that allowed users to create a wallet using an email address.\n\nUsers interacting with the Abstract mainnet accrue \"xp points\" which can be used to \"level up\" and unlock rewards. However, an Abstract supporter on X noted that \"most people don't care about xp as much as flipping their NFTs,\" before going on to lament the project's community.\n\nAbstract functions like the majority of other Ethereum-based layer 2 networks, users can bridge funds from other blockchains, swap tokens on decentralized exchanges and launch new tokens on zoo.fun, Abstract's version of the pump.fun token launcher.\n\nBut Abstract's CEO Luca Netz wants to steer attention away from stuffy DeFi applications that typically command the most liquidity on other networks, instead he wants products that are \"fun.\"\n\nNetz said during an interview that \"If it's not fun and viral there's no reason for you to build on Abstract. I'm optimizing for fun, viral, simple, stupid. If you want to build the next DeFi application, I really recommend you use Berachain or Arbitrum. Don't come to Abstract to build those type of products because we want to be really specialized around fun.\n\nAbstract's launch has coincided with a loss of momentum in Pudgy Penguins' native token (PENGU), which is down by 7.6% over the past 24 hours and 41% in the past week.\n\nThe non-fungible token (NFT) sector has struggled to reach the dizzying heights of 2022 during the recent bull market. Trading volume on OpenSea, despite experiencing a major uptick in December amid airdrop rumors, is averaging around $15 million per day in January compared to $160 million per day three years ago.",
+    "url": "https://www.coindesk.com/business/2025/01/30/pudgy-penguins-layer-2-network-abstract-struggles-to-attract-liquidity",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Luca Netz"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Pudgy Penguins",
+                "Abstract",
+                "NOXA",
+                "Berachain",
+                "Arbitrum",
+                "OpenSea"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH",
+            "stablecoins",
+            "PENGU"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Abstract's muted start with low liquidity, declining TVL, and PENGU token dropping 41% in the past week, indicating negative market performance."
+    }
+}

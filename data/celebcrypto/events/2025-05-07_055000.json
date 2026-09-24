@@ -1,0 +1,31 @@
+{
+    "title": "Movement Labs Terminates Rushi Manche After MOVE Token Deals",
+    "time": "2025-05-07T05:50:00",
+    "author": "Shaurya Malwa",
+    "summary": "It has yet to name a replacement or outline next steps for governance restructuring.",
+    "content": "Movement Labs, the development firm of the Movement network, has officially cut ties with co-founder Rushi Manche following controversy surrounding undisclosed MOVE token deals.\n\nThe announcement came via the company’s X account early Tuesday, stating that “Movement Labs has terminated Rushi Manche’s employment and all affiliations with the company effective immediately.”\n\nIt has yet to name a replacement or outline next steps for governance restructuring.\n\nMovement Labs has terminated Rushi Manche. Movement will continue under different leadership.\n\nDetails on leadership changes and a revamped governance structure will be coming soon.\n\nThe decision follows a CoinDesk report that first revealed secret agreements between Movement-linked entities and market makers during the project’s token launch.\n\nCoinDesk reported the existence of shadow advisors, hidden payment flows, and undisclosed token allocations surrounding MOVE’s debut. Manche was directly tied to those arrangements, according to internal documents and investor correspondence reviewed by CoinDesk.\n\nManche was initially suspended on May 2, shortly after Coinbase delisted the MOVE token. The delisting followed mounting community pressure on how the company operates behind-the-scenes and project governance.\n\nMOVE prices are down 8.5% in the past 24 hours, a bulk of the slide coming after Manche’s termination. The token is down 35% in the past week.",
+    "url": "https://www.coindesk.com/markets/2025/05/07/movement-labs-terminates-rushi-manche-after-move-token-deals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rushi Manche"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Movement Labs",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Movement network",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "MOVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports MOVE token prices are down 8.5% in the past 24 hours and 35% in the past week following the termination and controversy."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "title": "XRP Down 4% as Global Economic Tensions Trigger Market Selloff",
+    "summary": "XRP’s 4% drop highlights market uncertainty as global trade tensions and liquidations weigh on investor sentiment.",
+    "time": "2025-05-31T11:30:00",
+    "author": "Shaurya Malwa",
+    "content": "XRP fell as much as 6% over the past 24 hours as global economic tensions rattled financial markets, triggering a wave of liquidations and pushing prices below key support levels.\n\nThe token dropped from $2.20 to $2.14 as the broader crypto market shed 3.81% of its value, settling at a total market cap of $3.3 trillion.\n\nThe volatility comes in the wake of the U.S. Court of International Trade’s decision to overturn Trump’s trade tariffs, reigniting trade policy concerns and sending ripples across risk assets.\n\nXRP wasn’t immune, with over $29.68 million in long positions liquidated as traders scrambled to adjust their exposure.\n\nXRP found strong selling pressure at the $2.21 resistance level, failing to mount a sustained recovery, according to CoinDesk Research's technical analysis model. A notable support zone emerged near $2.11, with high-volume buying during the 03:00 hour preventing further downside.\n\nRecent consolidation between $2.13 and $2.14 suggests potential stabilization, though the pattern of lower highs indicates sellers remain in control.\n\nIn the final trading hour, XRP formed a higher-low pattern around $2.135, signaling potential short-term support.\n\nHowever, the token also faced resistance at $2.144-$2.145, forming a tight range that traders will be watching closely for the next breakout or breakdown.",
+    "url": "https://www.coindesk.com/markets/2025/05/31/xrp-down-4-as-global-economic-tensions-trigger-market-selloff",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "CoinDesk Research"
+            ],
+            "organizations": [
+                "U.S. Court of International Trade"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes XRP dropping 4-6%, broader crypto market declining 3.81%, liquidations of $29.68 million, and sellers remaining in control with lower highs."
+    }
+}

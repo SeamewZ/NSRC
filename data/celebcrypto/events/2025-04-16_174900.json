@@ -1,0 +1,62 @@
+{
+    "title": "The Protocol: Nvidia to Manufacture AI Supercomputers in U.S., New Opportunities for Crypto Miners",
+    "summary": "Plus: Ethereum developers privacy debate reignites, Optimum raises funds in seed round, Noble’s new ‘AppLayer’",
+    "time": "2025-04-16T17:49:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. We’re Margaux Nijkerk and Sam Kessler, reporters on CoinDesk’s Tech team.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nPRIVACY HEATS UP AMONG ETHEREUM DEVS: When the U.S. government sanctioned the Ethereum-based crypto mixing service Tornado Cash in 2022, it ignited a debate within the crypto community that continues three years later. Advocates argued that complying with the sanctions amounted to censorship — undermining a fundamental cypherpunk principle. President Donald Trump supported the cypherpunks and lifted the sanctions on Tornado Cash in March of this year, but for some Ethereum developers, the situation highlighted a flaw within the network that still exists today: Why should users depend on third-party apps to transact privately on the network? Perhaps emboldened by the recent Tornado Cash developments, Ethereum developers and researchers have once again begun discussing ideas for making the Ethereum network private at its core. \"Privacy must not be an optional feature that users must consciously enable — it must be the default state of the network,\" said PCaversaccio, whose post outlined his vision for a privacy-oriented Ethereum roadmap. \"Ethereum's architecture must be designed to ensure that users are private by default, not by exception.\" In response to PCaversaccio's post, Ethereum co-founder Vitalik Buterin left a comment on the network's main developer forum with his own much shorter privacy-oriented Ethereum roadmap. Buterin suggested focusing on privacy for on-chain payments, anonymizing on-chain activity within applications, making communication on the network anonymous, and privatizing on-chain reads. To achieve all of this, Buterin listed various steps like integrating certain third-party privacy features into the core network. — Margaux Nijkerk and Sam Kessler Read more.\n\nNVIDIA AI SUPERCOMPUTER PRODUCTION PLANS COULD BENEFIT CRYPTO MINERS: Nvidia plans to manufacture its next generation of AI chips and supercomputers entirely in the U.S. for the first time, the company said in a statement. The move reflects rising demand for AI infrastructure and a broader push to localize advanced tech manufacturing — one that could also benefit crypto miners repurposing their facilities for AI and high-performance computing (HPC). Many of these operators already have access to the large-scale power and cooling systems needed for data center operations, making them potential players in the growing AI economy. Crypto miners, once singularly focused on hashing power, are increasingly looking for ways to fit into the AI and HPC supply chain. Their existing access to power-dense infrastructure and logistical experience in running industrial-scale operations gives them a foothold as demand for AI computation surges. Recent tariffs by U.S. President Donald Trump, however, is causing anxiety among miners as the policy changes are expected to raise costs on ASIC miners, electrical components, networking hardware and more.— Helene Braun Read more.\n\nMEMORY LAYER OPTIMUM RAISES $11M IN SEED: Optimum, a decentralized, performance-enhancing memory layer for any blockchain, raised an $11 million seed round, inviting its creators from institutions like Harvard and MIT to jump from the world of academia into the commercial crypto arena. The seed round was led by 1kx with participation from Robot Ventures, Finality Capital, Spartan, CMT Digital, SNZ, Triton Capital, Big Brain, CMS, Longhash, NGC, Animoca, GSR, Caladan, Reforge and others. Optimum is building what it calls the missing memory layer of blockchains, making the way data is stored, accessed and propagated, faster, cheaper and truly decentralized, according to a press release. At the core of Optimum’s innovation is a method of decentralized coding for distributed systems, known as Random Linear Network Coding (RLNC), developed by Muriel Médard, an MIT professor. — Ian Allison Read more.\n\nNOBLE’S NEW ‘APPLAYER’ LETS DEVELOPERS BUILD STABLECOIN APPS ON TOP OF CELESTIA: Noble, a blockchain for issuing real-world assets (RWA) and stablecoins, announced Wednesday that it will expand its platform by introducing “AppLayer,” an Ethereum-compatible rollup that allows developers to create their own RWA applications and infrastructure. Noble’s AppLayer aims to let developers build new financial tools optimized for real-world assets like stablecoins — digital assets whose value is pegged to another asset, like the U.S. dollar. AppLayer will leverage Celestia, a data availability blockchain that aims to bring down storage costs for data-intensive blockchain networks. Celestia, like Noble, is plugged into the Cosmos blockchain ecosystem and is compatible with the Ethereum Virtual Machine (EVM), meaning it can read smart contracts from other Ethereum-based chains. — Margaux Nijkerk Read more.",
+    "url": "https://www.coindesk.com/tech/2025/04/16/the-protocol-nvidia-to-manufacture-ai-supercomputers-in-u-s-new-opportunities-for-crypto-miners",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Sam Kessler",
+                "Donald Trump",
+                "PCaversaccio",
+                "Vitalik Buterin",
+                "Helene Braun",
+                "Ian Allison",
+                "Muriel Médard"
+            ],
+            "positions": [
+                "reporters",
+                "President",
+                "Ethereum co-founder",
+                "MIT professor"
+            ],
+            "companies": [
+                "Nvidia",
+                "CoinDesk",
+                "Tornado Cash",
+                "Optimum",
+                "1kx",
+                "Robot Ventures",
+                "Finality Capital",
+                "Spartan",
+                "CMT Digital",
+                "SNZ",
+                "Triton Capital",
+                "Big Brain",
+                "CMS",
+                "Longhash",
+                "NGC",
+                "Animoca",
+                "GSR",
+                "Caladan",
+                "Reforge",
+                "Noble",
+                "Celestia"
+            ],
+            "organizations": [
+                "U.S. government",
+                "Harvard",
+                "MIT",
+                "Cosmos"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights multiple positive developments including renewed privacy discussions on Ethereum, Nvidia's AI infrastructure plans benefiting crypto miners, $11M funding for blockchain memory layer Optimum, and Noble's new AppLayer for stablecoin development."
+    }
+}

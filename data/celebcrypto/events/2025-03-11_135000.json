@@ -1,0 +1,33 @@
+{
+    "title": "Ether Whale Prevents $340M Liquidation With Series of Last Minute Deposits",
+    "time": "2025-03-11T13:50:00",
+    "author": "Oliver Knight",
+    "summary": "Ether remains at risk of experiencing several on-chain liquidations.",
+    "content": "An Ethereum user saved several MakerDAO positions from the brink of a $360 million liquidation cascade on Tuesday, adding collateral at the final hour as the price of ETH tumbled.\n\nOne of the positions had a liquidation price of $1,928, this was triggered alongside a market plunge during U.S. trading hours. The ETH was less than two minutes away from being liquidated and sold at a MakerDAO auction until the wallet owner deposited 2,000 ETH from Bitfinex as additional collateral. It also paid back $1.5 million worth of the DAI stablecoin.\n\nThe wallet in question took some by surprise by saving the position as they had previously been inactive since November.\n\nThat particular position is not out of the woods yet; it will be liquidated if ETH drops to $1,781 or until the owner adds more collateral. Ether is currently trading at $1,928 having bounced from Monday's low of $1,788.\n\nAnother wallet, which according to X account Lookonchain is suspected of being the Ethereum Foundation, deposited 30,098 ETH ($56.08M) to lower the liquidation price of its position to $1,127.\n\nWhilst hundreds of millions of dollars worth of liquidations are fairly common across derivatives markets, decentralized finance (DeFi) protocols like MakerDAO use only spot assets. This means that when a liquidation takes place, DeFi liquidity is unable to cope with the skew of spot asset supply. This doesn't occur on derivative exchanges as there is typically more volume and liquidity driven by leverage.\n\nIn this case, just one of nine-figure liquidation on MarkerDAO would likely send the ETH price tumbling, liquidated the other vulnerable position in its path.\n\nDefiLlama shows that there is $1.3 billion in liquidatable assets on Ethereum, with $352 million of that within 20% of the current price.",
+    "url": "https://www.coindesk.com/business/2025/03/11/ether-whale-prevents-usd340m-liquidation-with-series-of-last-minute-deposits",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "Ethereum user",
+                "wallet owner"
+            ],
+            "companies": [
+                "Bitfinex"
+            ],
+            "organizations": [
+                "MakerDAO",
+                "Ethereum Foundation",
+                "Lookonchain",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "DAI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ETH price tumbling, positions at risk of liquidation, and potential liquidation cascades that would send ETH prices tumbling further."
+    }
+}

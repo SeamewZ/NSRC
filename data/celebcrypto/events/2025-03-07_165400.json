@@ -1,0 +1,50 @@
+{
+    "title": "ADA, XRP, SOL Plunge as White House Backpedals on Trump's Crypto Reserve Plan",
+    "time": "2025-03-07T16:54:00",
+    "author": "Krisztian Sandor",
+    "summary": "An official said Trump was \"just giving five examples\" of cryptocurrencies that could theoretically be in a crypto stockpile.",
+    "content": "Cardano's ADA, XRP and Solana's SOL slid on Friday after a White House official backpedaled on President Trump's recent announcement that he would sign an executive order instructing the Presidential Working Group to move forward with the creation of strategic crypto reserve comprised of ADA, XRP, SOL, bitcoin and ether.\n\n\"I think the president just gave five examples of cryptocurrencies in his post. Those five have to be the largest by market cap,\" the senior White House official said in a call with reporters ahead of Friday's White House Crypto Summit. \"I think people are reading into that a little bit too much. The bottom line is, I think that what we've announced here is consistent with what the president has always said about the space.\"\n\nAccording to data from CoinGecko, the official's assertion isn't strictly true. Taking out the two largest stablecoins – Tether's USDT and Circle's USDC – the five largest cryptocurrencies by market cap are bitcoin, ether, XRP, Binance's BNB, and SOL. Dogecoin is the sixth-largest cryptocurrency by market cap, with ADA right behind it.\n\nIn a March 2 social media post, Trump claimed that a \"U.S. crypto reserve will elevate this critical industry after years of corrupt attacks from Biden Administration.\" The announcement that it would include SOL, ADA and XRP was met with criticism from many in the industry, who expressed concerns that the inclusion of altcoins in a strategic reserve could be a vehicle for corruption and self-dealing.\n\nOn March 6, Trump signed an order directing his administration to create a Bitcoin Strategic Reserve, capitalized with the U.S. government's seized bitcoin holdings. The crypto stockpile containing other cryptocurrencies will be a separate entity.\n\nADA plunged over 5% to $0.82 in the minutes following his comments. XRP slid 3.5% to $2.41, while SOL was down 2%. All three tokens are firmly down over the past 24 hours alongside a weak crypto market. Meanwhile, BTC slumped to $87,000 giving up early morning gains.\n\nSenior executives from across the crypto industry have convened in Washington, D.C. for the White House's first crypto summit on Friday afternoon. Crypto companies including Ripple, Gemini, Robinhood Crypto, Crypto.com, Chainlink and Anchorage will be in attendance.",
+    "url": "https://www.coindesk.com/markets/2025/03/07/ada-xrp-drop-as-crypto-czar-sacks-backpedals-trump-s-crypto-reserve-plan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President",
+                "senior White House official"
+            ],
+            "companies": [
+                "Ripple",
+                "Gemini",
+                "Robinhood Crypto",
+                "Crypto.com",
+                "Chainlink",
+                "Anchorage",
+                "Tether",
+                "Circle",
+                "Binance"
+            ],
+            "organizations": [
+                "White House",
+                "Presidential Working Group",
+                "Biden Administration",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "XRP",
+            "SOL",
+            "bitcoin",
+            "ether",
+            "USDT",
+            "USDC",
+            "BNB",
+            "Dogecoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly describes multiple cryptocurrencies plunging and sliding in price following the White House official's comments, with specific percentage drops mentioned for ADA, XRP, and SOL."
+    }
+}

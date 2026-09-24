@@ -1,0 +1,31 @@
+{
+    "title": "Swiss watchmaker Franck Muller Unveils Limited Edition Solana Watch",
+    "summary": "Swiss watchmaker Franck Muller released a 1,111-piece series tied to Solana wallets through on-watch QR codes.",
+    "time": "2025-05-24T20:32:00",
+    "author": "Francisco Rodrigues",
+    "content": "If you’ve ever wanted to have your Solana wallet on your wrist while flexing your wealth, Swiss watchmaker Franck Muller is making that a reality.\n\nThe watch market is stepping into the Web3 ecosystem with a Solana-inspired, limited-edition series of watches that contain an embedded unique QR code to directly link to the user’s Solana address.\n\nThe company’s Solana-inspired watch collection is limited to 1,111 units that will set buyers back 20,000 Swiss francs (around $24,300).\n\nWhile the watches feature a unique design that could appeal to Solana ecosystem participants, their launch comes at a time when, unfortunately, flaunting crypto-related wealth is becoming risky.\n\nThe cryptocurrency industry has seen dozens of physical attacks just this year, with a notable case seeing the daughter and grandson of Pierre Noizat, CEO of crypto platform Paymium, being targeted in a daytime attempted kidnapping. The attack was filmed and shared on social media.\n\nWhile that kidnapping attempt failed, an earlier one in the same city saw the father of a crypto millionaire get abducted. Police managed to rescue the man, but not before his finger was severed.\n\nEarlier this year, the co-founder of hardware wallet maker Ledger, David Balland, along with his wife, was abducted from his home and saw similar treatment. The couple was later rescued by authorities, and a ransom that had been paid out was seized.\n\nThere have been many other similar attacks in recent months.\n\nFranck Muller is pitching the collection as a \"phygital\" (physical-digital) symbol of identity and ownership in the crypto age. While the watch is certainly a piece of crypto mythos, it may be a collectible that investors may not want to show off.\n\nRead more: 'Major Wake-Up Call': How $400M Coinbase Breach Exposes Crypto's Dark Side",
+    "url": "https://www.coindesk.com/markets/2025/05/24/swiss-watchmaker-franck-muller-unveils-limited-edition-solana-watch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pierre Noizat",
+                "David Balland"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Franck Muller",
+                "Paymium",
+                "Ledger",
+                "Coinbase"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights multiple physical attacks and security risks associated with crypto wealth, including kidnapping attempts and severed fingers, which creates negative sentiment around cryptocurrency safety."
+    }
+}

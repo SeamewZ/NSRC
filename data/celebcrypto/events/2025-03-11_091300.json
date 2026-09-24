@@ -1,0 +1,27 @@
+{
+    "title": "Leveraged ETFs Tied to Strategy See Trading Volume Surge as Bitcoin-HODLer MSTR Teeters on 200-Day Average",
+    "time": "2025-03-11T09:13:00",
+    "author": "Omkar Godbole",
+    "summary": "Volume in both leveraged long and short ETFs has increased sharply.",
+    "content": "Defiance's leveraged Strategy (MSTR) exchange-traded funds (ETFs) saw a surge in activity on Monday as the bitcoin\nBTC\n$104,608.94\n-holding firm's shares fell to their 200-day average.\n\nA record 24.33 million shares in the Defiance daily target 2x long MSTR ETF, trading under the ticker MSTX, changed hands as the ETF price slipped 32% to $17.90, the lowest since September, according to data source TradingView. The ETF seeks to deliver 200% of the daily percentage change in the share price of Strategy, formerly known as MicroStrategy.\n\nMeanwhile, trading volume in the Defiance daily target 2x short MSTR ETF (SMST) tallied 51.21 million, the highest since Nov. 24. The ETF seeks to deliver investment results corresponding to 2 times the inverse of the daily performance of shares in Strategy. (The net inflow figure for both funds for Monday is not yet available.)\n\nMSTR fell 16.6% Monday to its 200-day simple moving average (SMA), revisiting the late February low of $231.62 as the broader market wilted on U.S. recession fears and continued rise in the anti-risk Japanese yen. The share price has declined 55% since reaching a peak of $543 on Nov. 21.\n\nStrategy is the world's largest public-listed bitcoin holder, boasting a coin stash of 499,096 BTC ($40.4 billion). The company began accumulating BTC as a balance sheet asset in November and has since pursued an aggressive accumulation strategy of funding purchases with debt sales.\n\nOn Monday, the company announced a $21 billion at-the-market (ATM) offering of its Series A preferred stock (STRK), the proceeds of which will be mostly used to finance fresh BTC purchases.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/leveraged-etfs-tied-to-strategy-see-trading-volume-surge-as-bitcoin-hodler-mstr-teeters-on-200-day-average",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Defiance",
+                "Strategy",
+                "MicroStrategy",
+                "MSTR"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines in MSTR shares and related ETFs, with MSTR falling 16.6% to its 200-day average and experiencing a 55% decline from its peak, indicating negative market sentiment."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Bitcoin Bears Target 200-day Average as Macro Concerns Overshadow Trump's Crypto-Related Actions",
+    "time": "2025-03-09T15:24:00",
+    "author": "Omkar Godbole",
+    "summary": "Macro concerns, mainly tariff-related, overshadow Trump's crypto announcements, one observer noted.",
+    "content": "Bitcoin\nBTC\n$104,209.47\nbears looked to penetrate key support Sunday, extending a three-day losing streak as macroeconomic concerns overshadowed President Donald Trump's recent-crypto-related announcements.\n\nThe leading cryptocurrency by market value slipped over 3% to $83,200, testing the 200-day simple moving average (SMA), according to CoinDesk and TradingView data. Prices have dropped over 10% since putting highs above $92,800 Thursday.\n\nThe latest decline comes as trade tensions between the U.S. and China are set to escalate on Monday. Beijing will levy tariffs on certain U.S. agricultural goods in retaliation for President Donald Trump's latest hike on Chinese imports. The tariff war has injected significant uncertainty in the market and for policymakers.\n\nOn Friday, Federal Reserve Chairman Jerome Powell reaffirmed that the central bank will maintain its cautious stance on interest rates while assessing the economic impact of President Donald Trump’s policy shifts. The comments came on the heels of a soft U.S. nonfarm payrolls report and expectations for at least three Fed rate cuts this year.\n\nAccording to observers, these developments, coupled with recessionary signals from the bond market, are taking focus away from Trump's recent announcement of a strategic BTC stockpile.\n\n\"Despite the very positive news, Bitcoin fell 4% from $90,000 to under $87,000 in hours. It appears focus on Trump's crypto-related actions are increasingly secondary as tariff war fears accelerate,\" analytics firm IntoTheBlock said in the weekly newsletter to subscribers Friday.\n\nThe firm added that macro concerns, mainly tariff-related, have been pushing down markets, noting the strengthening positive correlation between bitcoin, ether and U.S. stocks.\n\n\"Further actions like Trump stating he's not even looking at the stock market, and his administration targeting lower long-term interest rates instead, suggest that investor expectations of a Trump bull market may have been too eager,\" the firm said.\n\nNoelle Acheson, the author of Crypto Is Macro Now, said in Saturday's edition that BTC's dour price action in the wake of the strategic stockpile announcement \"underscores how macro concerns still weigh heavy on crypto assets.\"\n\nThe chart shows buyers stepped in below the 200-day SMA on Feb. 28 and March 2, leading to a price bounce. The market will likely keep an eye on this level to see if traders do the same again.",
+    "url": "https://www.coindesk.com/markets/2025/03/09/bitcoin-bears-target-200-day-average-as-macro-concerns-overshadow-trump-s-crypto-related-actions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jerome Powell",
+                "Noelle Acheson"
+            ],
+            "positions": [
+                "President",
+                "Federal Reserve Chairman",
+                "author"
+            ],
+            "companies": [
+                "CoinDesk",
+                "TradingView",
+                "IntoTheBlock"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "U.S.",
+                "China",
+                "Crypto Is Macro Now"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin extending a three-day losing streak with prices dropping over 10% as macroeconomic concerns overshadow positive crypto announcements."
+    }
+}

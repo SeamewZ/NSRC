@@ -1,0 +1,56 @@
+{
+    "title": "CoinDesk Recap: Movement’s Very Bad Week",
+    "summary": "Plus: Mastercard, World, Strategy, Kraken, and Trump",
+    "time": "2025-05-02T17:06:00",
+    "author": "Benjamin Schiller",
+    "content": "This week, bitcoin climbed steadily to reach nearly $100K, amid hopes for a China-U.S. trade and better macroeconomic conditions ahead.\n\nInstitutions like Mastercard and BlackRock made important digital asset announcements.\n\nAn historic stablecoin bill neared completion in the U.S. Congress. (A former prime-mover in the House said to expect a “wicked hot summer” of legislation.)\n\nAnd the Trump Family continued to dominate the crypto news cycle, raising serious conflict-of-interest questions.\n\nAt CoinDesk, however, the biggest story concerned Movement, a once-hot startup that now seems deeply troubled.\n\nDeputy managing editor Sam Kessler published an eye-opening scoop showing that Movement Labs may have been misled into signing a market-making agreement that granted a middleman control over 66 million MOVE tokens. That deal was said to have triggered a $38 million selloff, which dumped on retail investors who had faithfully bought in. The story was especially resonant as Movement is backed by World Liberty Financial, a company tied closely to the Trump Family.\n\nFollowing the story Wednesday, Coinbase suspended listing MOVE, Nik De reported, and Binance banned the market-marker Web3Port. By Thursday evening Movement Labs had suspended flamboyant co-founder Rushi Manche (Sam Reynolds reported) amid ongoing investigations into the project’s “organizational governance.”\n\nIt was quite a fall from grace for a startup that had been hotter-than-Miami Beach a few weeks ago.\n\nIn other significant news, Sam Altman's blockchain project, World announced plans to deploy 7,500 eye-scanning orbs in U.S. cities by the end of the year and add crypto-backed loans, prediction markets, and a Visa debit card for spending WLD tokens to its product offerings. Cheyenne Ligon and Margaux Nijkerk had that news.\n\nMeanwhile, Ligon also reported on the trial of Avraham Eisenberg, who was convicted last year on charges of wire fraud, commodities fraud and commodities manipulation charges related to the $110 million hack of Mango Markets. The new conviction relates to Eisenberg possessing child sexual abuse material in 2024.\n\nEarnings season brought mixed results for major exchanges and facilitators. Robinhood said it expected a Q1 pullback in crypto-related revenue (Helene Braun reported). Kraken said its revenue was up 29% in the same period (Francisco Rodrigues). Strategy reported a first-quarter loss of $4.2 billion on declining bitcoin prices. But it’s still planning to raise more than $50 billion for bitcoin-buying over the next 32 months (James Van Straten).\n\nWhere do we go from here? Market signals look promising, especially if tariff fears wane. But Movement may have some crisis management to look into.",
+    "url": "https://www.coindesk.com/news-analysis/2025/05/02/coindesk-recap-movements-very-bad-week",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Kessler",
+                "Nik De",
+                "Rushi Manche",
+                "Sam Reynolds",
+                "Sam Altman",
+                "Cheyenne Ligon",
+                "Margaux Nijkerk",
+                "Avraham Eisenberg",
+                "Helene Braun",
+                "Francisco Rodrigues",
+                "James Van Straten"
+            ],
+            "positions": [
+                "Deputy managing editor",
+                "co-founder"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Mastercard",
+                "BlackRock",
+                "Movement Labs",
+                "World Liberty Financial",
+                "Coinbase",
+                "Binance",
+                "Web3Port",
+                "World",
+                "Mango Markets",
+                "Robinhood",
+                "Kraken",
+                "Strategy"
+            ],
+            "organizations": [
+                "U.S. Congress",
+                "House",
+                "Trump Family"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "MOVE",
+            "WLD"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed market signals with bitcoin climbing to nearly $100K and institutional announcements, but also negative events like the Movement Labs scandal and mixed exchange earnings."
+    }
+}

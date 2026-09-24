@@ -1,0 +1,54 @@
+{
+    "title": "Tether, Circle to Face Intense Competition as TradFi Enters the Arena, Fireblocks Says",
+    "time": "2025-04-15T16:24:00",
+    "author": "Ian Allison",
+    "summary": "Ran Goldi, SVP of payments at Fireblocks, reviews the strategic moves as stablecoin issuers look to corner the market.",
+    "content": "The competition for stablecoin dominance is entering a third phase and companies such as Tether, issuer of the largest token, and Circle, the No. 2, are setting up their positions as the industry faces increased regulation in the form of the European Union’s Markets in Crypto Assets (MiCA) regime and U.S. legislation that is working its way through Congress, according to digital asset cryptography and custody specialists Fireblocks.\n\nThis latest stage will feature banks, large and small, as well as incumbent payment firms that are weighing up the best way to integrate the tokens into their existing businesses, according to Ran Goldi, SVP of payments at Fireblocks.\n\nStablecoins, blockchain-based tokens that mimic U.S. dollars for the most part, have become big business. Tether's USDT is the clear leader, with a market cap close to $145 billion. Circle's USDC has over $60 billion in circulation and the company is considering a public listing on the New York Stock Exchange. The stablecoin market could grow to $2 trillion by the end of 2028, Standard Chartered said in a Tuesday note.\n\n“We are going to see banks issuing stablecoins, as they are under MiCA,” Goldi said in an interview at Paris Blockchain Week. “You are seeing financial institutions that are fintechs entering such as Robinhood, Ripple and Revolut. By the end of this year, you are going to see maybe 50 more stablecoins.\"\n\nThe industry has already passed through two stages, Goldi said. The first occurred when USDC went up against U.S. regulated trading firm Paxos, which had partnered with crypto exchange Binance to issue BUSD. For regulatory reasons Paxos had to drop BUSD and so Circle won that round, Goldi said, adding that Paxos’ new USDG consortium is growing in stature and likely to play a major role in the future.\n\nThe second stage was between Circle and Tether.\n\n“USDC was trying to be bigger than USDT, but then USDC tumbled a bit with the collapse of Silicon Valley Bank etc. It was harder for people to accept that product, especially people outside the U.S. Meanwhile USDT has really grown tremendously. I think USDT will remain the dominant dollar stablecoin outside of the U.S. I believe Circle will have to put up a really good fight, which they’ve done in the past and are very good at doing.”\n\nIt's worth noting, though, that USDC is licensed under MiCA, giving it access to 27 EU nations with a total population of about 450 million people. USDT is not.\n\nStablecoins grew to prominence as an essential way of moving money between volatile cryptocurrencies, meeting a particular need given the industry’s shortage of fiat on and off ramps. Dollar-pegged coins of various sorts blossomed further with the explosion of decentralized finance (DeFi).\n\nLooking further back, the early days of crypto show an evolution of payment service providers (PSPs), starting with those who wanted to use cryptocurrencies to settle their bills. This was followed by a second wave of business-to-business PSPs like Bridge, recently acquired by Stripe, and Zero Hash, Alfred Pay, Conduit and others.\n\n“Some of these PSPs are firms you may not have heard much about, but they are actually moving billions in stablecoins, servicing businesses to pay to other businesses most of the time,” Goldi said. He pointed out that less than 20% of Fireblocks’ total transaction volume was stablecoins in 2020, increasing to some 54% last year.\n\nFor a typical use case, consider an importer in Brazil that wants to bring in a container and pay someone in Turkey or in Singapore. It takes the Brazilian reals, converts them to a stablecoin, and either sends the funds directly to the exporter or changes them to the destination currency and pays with that, Goldi said.\n\nSome banks have already caught on to the cross-border payments use case, with the likes of Braza Bank in Brazil, BTG Bank and DBS in Singapore catering to business clients with accounts that support stablecoins. Others are still weighing the best use case for them.\n\n“We have been approached by dozens of banks,” Goldi said. “They are asking whether they should be on/off ramps, or holding reserves, or perhaps they are thinking about issuing a stablecoin. There are several things banks can do to make money out of stablecoins, from credit to on/off ramps to FX.”\n\nBased on those conversations, Goldi said he believes most of the banks are writing strategic plans that will probably be submitted by the end of this quarter.\n\n“It will be interesting to see if banks build something on their own, or use BNY Mellon, for instance, that serves banks, or a vendor like Fireblocks. I think the large tier-1 banks like JPMorgan, Citi and Morgan Stanley will build their own tech, while the tier-2 banks will want to use some hosted tech provider,” Goldi said. “Of course they are banks and they move slowly, so I think they would be looking to approve those plans by the end of this year and perhaps do something in 2026.\"\n\nUPDATE (April 21, 9:15 UTC): Adds that interview took place at Paris Blockchain Week in fourth paragraph.",
+    "url": "https://www.coindesk.com/business/2025/04/15/struggle-for-stablecoin-dominance-set-to-enter-third-round-fireblocks-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ran Goldi"
+            ],
+            "positions": [
+                "SVP of payments at Fireblocks"
+            ],
+            "companies": [
+                "Tether",
+                "Circle",
+                "Fireblocks",
+                "Paxos",
+                "Binance",
+                "Robinhood",
+                "Ripple",
+                "Revolut",
+                "Bridge",
+                "Stripe",
+                "Zero Hash",
+                "Alfred Pay",
+                "Conduit",
+                "Braza Bank",
+                "BTG Bank",
+                "DBS",
+                "BNY Mellon",
+                "JPMorgan",
+                "Citi",
+                "Morgan Stanley",
+                "Standard Chartered",
+                "Silicon Valley Bank"
+            ],
+            "organizations": [
+                "European Union",
+                "New York Stock Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC",
+            "BUSD",
+            "USDG"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant market growth projections, increased institutional adoption by banks and payment firms, and expanding stablecoin use cases for cross-border payments, indicating positive market development and confidence."
+    }
+}

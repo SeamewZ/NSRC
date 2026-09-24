@@ -1,0 +1,32 @@
+{
+    "title": "JPMorgan's Jamie Dimon Says U.S. Should Stockpile Missiles, Not Bitcoin",
+    "summary": "The CEO argued that the country needs to focus on essential resources like ammunition and rare earths.",
+    "time": "2025-05-31T15:22:00",
+    "author": "Francisco Rodrigues",
+    "content": "JPMorgan CEO Jamie Dimon says the U.S. should prepare for war, not a bitcoin-driven future.\n\nSpeaking at the Reagan National Defense Forum in California on Friday, TheStreet reports, Dimon dismissed recent government moves to bolster a national digital asset reserve, arguing that real-world defense logistics, not blockchain assets, should take priority.\n\n“We shouldn’t be stockpiling bitcoins,” Dimon said. “We know what we need. It’s not a mystery.” He called for the prioritization of “guns, bullets, tanks, planes, drones, and rare earths.”\n\nEarlier this year, U.S. President Donald Trump called for the establishment of a bitcoin reserve and digital assets stockpile. Dimon isn’t convinced about it.\n\n“If there’s a war in the South China Sea, we’ve got missiles for seven days,” he warned. “That’s not something we should be saying with a straight face.”\n\nDimon, a well-known crypto critic, revealed earlier this month that JPMorgan will soon allow clients to buy bitcoin.",
+    "url": "https://www.coindesk.com/markets/2025/05/31/jpmorgan-s-jamie-dimon-says-u-s-should-stockpile-missiles-not-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jamie Dimon",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "JPMorgan"
+            ],
+            "organizations": [
+                "U.S.",
+                "Reagan National Defense Forum",
+                "TheStreet"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "JPMorgan CEO Jamie Dimon dismisses government moves to bolster a national digital asset reserve and argues against stockpiling bitcoin, which suggests negative sentiment toward cryptocurrency adoption."
+    }
+}

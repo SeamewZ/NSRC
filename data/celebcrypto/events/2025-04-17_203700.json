@@ -1,0 +1,48 @@
+{
+    "title": "Bitcoin in Standstill at $85K as Trump Increases Pressure on Fed's Powell",
+    "summary": "A sharp plunge in the Philadelphia Fed manufacturing index coupled with rising prices added to U.S. stagflation fears amid the tariff war.",
+    "time": "2025-04-17T20:37:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin (BTC) was treading water just below $85,000 late Thursday as tensions between U.S. President Donald Trump and Federal Reserve Chair Jerome Powell added another layer of uncertainty for investors.\n\nMarkets dipped on Wednesday after hawkish comments from Powell, who criticized Trump’s tariffs policy, saying that it would likely result in a slowing economy and rising prices — what economists call “stagflation.\" In his remarks, Powell made clear his larger focus for now would be on prices, suggesting tighter Fed policy than otherwise thought.\n\nTrump — who nominated the former investment banker and lawyer as Fed chair during his first term (Powell was given a second four-year term by President Biden) — has expressed his displeasure with Powell since retaking the White House. Powell, though, who is set to remain atop the central bank until May 2026, has repeatedly stated his determination to finish his term and suggested the president has no standing to fire him.\n\nOn Thursday, the WSJ reported that Trump has been privately discussing firing Powell for months, according to people familiar with the matter. Former Fed Governor Kevin Warsh is reportedly waiting in the wings as Powell's replacement, but Warsh has lobbied the president not to move against the Fed chair, according to the story.\n\nJoining Warsh in that warning is Treasury Secretary Scott Bessent, who said the move could roil already shaky U.S. markets as the central bank is supposed to be independent from political influences.\n\nOdds of Trump removing Powell this year on the blockchain-based prediction market Polymarket rose to 19%, the highest reading since the contract's late January launch.\n\nTrump's comments came on the back of the European Central Bank (ECB) cutting key interest rates for the seventh consecutive occasion on Thursday as it warned of a deteriorating growth outlook.\n\nMore pressure on markets came from the latest Philadelphia Fed manufacturing index, published Thursday morning, which showed a nosedive in activity this month, sinking to its lowest level (-26.4) in two years. Meanwhile, the prices paid index climbed to its highest reading since July 2022, adding to concerns about the Trump administration's large-scale tariff policy pushing the U.S. economy into stagflation.\n\nThe S&P 500 and tech-heavy Nasdaq stock indexes traded mostly flat during the day.\n\nA look at the crypto market showed BTC and Ethereum's ETH up 0.8% over the past 24 hours. Most assets in the CoinDesk 20 Index traded higher during the day, with\nBCH\n$489.47\n, NEAR and AAVE leading gains.\n\nBitcoin has stabilized between $83k and $86k with traders chasing bullish bets while still seeking downside protection.\n\nOn Deribit, traders are actively chasing calls at the 90k to $100k strikes expiring in May and June, the exchange said in a market update Thursday. The demand for calls indicates expectations for a continued price rally.\n\nSome of these bullish bets have been funded by premiums collected by selling put options.\n\nAt the same time, there has been renewed interest in buying put options at $80k expiring this month, representing preparations for potential price declines. Buying a put option is akin to purchasing insurance against price slides.\n\nThe diverse two-way flow comes as the VIX, Wall Street’s fear gauge measuring the 30-day implied volatility, still remains well above its 50-day average, despite the pullback from recent highs above 50.\n\nThe VIX is warning that the macro situation is still unraveling rather than resolving, the exchange said on X.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/bitcoin-in-standstill-at-usd85k-as-trump-increases-pressure-on-fed-s-powell",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jerome Powell",
+                "Kevin Warsh",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "U.S. President",
+                "Federal Reserve Chair",
+                "Former Fed Governor",
+                "Treasury Secretary"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Deribit",
+                "Polymarket"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "European Central Bank",
+                "ECB",
+                "WSJ",
+                "S&P 500",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "BCH",
+            "NEAR",
+            "AAVE"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "Bitcoin has stabilized between $83k and $86k with traders placing both bullish calls and bearish puts, indicating mixed market sentiment and sideways movement."
+    }
+}

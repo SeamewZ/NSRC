@@ -1,0 +1,32 @@
+{
+    "title": "Square Pilots Real-Time Bitcoin Payments in Vegas, Plans Full Availability to Customers in 2026",
+    "summary": "The feature would still need regulatory approval in order to be made available to all customers.",
+    "time": "2025-05-27T20:05:00",
+    "author": "Helene Braun",
+    "content": "Jack Dorsey’s Square has taken bitcoin\nBTC\n$102,205.43\npayments a step further at the Bitcoin 2025 conference in Las Vegas this week.\n\nFor three days, the company is piloting a program where attendees can make purchases with their bitcoin by scanning a barcode. Payments are then settled in near real-time via the Lighting Network while Square handles real-time exchange rate calculations and confirmation notifications, according to a press release.\n\nSquare hopes to make the feature available to a broader audience later this year and to all customers by 2026, pending regulatory approval.\n\n“We believe in an open, decentralized, fair, fast, and low-cost money system for everyone, and that’s exactly what we want to bring to Square sellers,” said Miles Suter, Bitcoin Product Lead at Block (XYZ), the parent company of Square.",
+    "url": "https://www.coindesk.com/tech/2025/05/27/square-pilots-real-time-bitcoin-payments-in-vegas-plans-full-availability-to-customers-in-2026",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Dorsey",
+                "Miles Suter"
+            ],
+            "positions": [
+                "Bitcoin Product Lead at Block"
+            ],
+            "companies": [
+                "Square",
+                "Block"
+            ],
+            "organizations": [
+                "Bitcoin 2025 conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Square expanding real-time Bitcoin payment capabilities and planning broader availability, which indicates growing institutional adoption and utility for cryptocurrency."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Nvidia Moves AI Supercomputer Production to U.S., Opening New Avenues for Crypto Miners",
+    "summary": "Nvidia will build Blackwell chips in Arizona and AI supercomputers in Texas to meet surging AI demand.",
+    "time": "2025-04-14T15:17:00",
+    "author": "Helene Braun",
+    "content": "Nvidia plans to manufacture its next generation of AI chips and supercomputers entirely in the U.S. for the first time, the company said in a statement on Monday.\n\nThe move reflects rising demand for AI infrastructure and a broader push to localize advanced tech manufacturing — one that could also benefit crypto miners repurposing their facilities for AI and high-performance computing (HPC).\n\nMany of these operators already have access to the large-scale power and cooling systems needed for data center operations, making them potential players in the growing AI economy.\n\nCrypto miners, once singularly focused on hashing power, are increasingly looking for ways to fit into the AI and HPC supply chain. Their existing access to power-dense infrastructure and logistical experience in running industrial-scale operations gives them a foothold as demand for AI computation surges.\n\nRecent tariffs by U.S. President Donald Trump, however, is causing anxiety among miners as the policy changes are expected to raise costs on ASIC miners, electrical components, networking hardware and more.\n\nNvidia has secured over a million square feet of space across Arizona and Texas to build and test Blackwell chips and AI systems, NVIDIA said. Production has already begun at TSMC’s facility in Phoenix.\n\nIn Texas, supercomputer factories are being built with Foxconn in Houston and Wistron in Dallas, with full production expected within 12 to 15 months.\n\nThis marks a shift for NVIDIA, which has previously relied on overseas facilities. The company will also work with Amkor and SPIL to handle packaging and testing in Arizona.\n\nNVIDIA expects these efforts will support up to half a trillion dollars’ worth of AI infrastructure in the next four years. CEO Jensen Huang called the shift “the first time the engines of the world’s AI infrastructure are being built in the United States.”\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/tech/2025/04/14/nvidia-moves-ai-supercomputer-production-to-u-s-opening-new-avenues-for-crypto-miners",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jensen Huang",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Nvidia",
+                "TSMC",
+                "Foxconn",
+                "Wistron",
+                "Amkor",
+                "SPIL"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes how crypto miners can benefit from repurposing their facilities for AI and high-performance computing, opening new revenue avenues."
+    }
+}

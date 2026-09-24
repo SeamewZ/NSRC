@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin CME Futures Spread Slides to $490, Undoing the 'Trump Bump' in BTC",
+    "time": "2025-03-12T07:05:00",
+    "author": "Omkar Godbole",
+    "summary": "The market has likely moved past the narrative that a pro-crypto President is beneficial for the industry, with macro correlations now driving the market.",
+    "content": "The bullish sentiment seen after Donald Trump's victory in the Nov. 5 Presidential elections has completely fizzled out, according to an indicator tied to the CME bitcoin\nBTC\n$104,347.87\nfutures.\n\nThe indicator in consideration is the spread between \"continuous\" next month and front-month standard BTC futures trading on the global derivatives giant. A continuous contract is a calculated representation of a series of successively expiring futures contracts, allowing for a continuous historical data series for analysis.\n\nThe spread has narrowed to $495, the lowest since Nov. 5, having peaked at $1,705 on Dec. 17, according to data source TradingView. In other words, it has completely reversed the Trump bump in a sign of weakening bullish sentiment in the market.\n\n\"The narrowing spread between front-month and next-month CME Bitcoin futures could suggest traders are tempering their price expectations,\" Thomas Erdösi, head of product at CF Benchmarks, told CoinDesk.\n\nThe unwinding of the Trump bump likely means the market has moved past the narrative that a pro-crypto President in the White House is good for the industry, and macro correlations are back in the driver's seat.\n\n\"What we can see is that the front contract basis has repriced lower substantially since the beginning of March, signalling moderating near term expectations that the primary catalyst for the recent rally—the election of President Trump—has been fully priced in,\" Erdosi said.\n\nThat's already happening. Both BTC and Wall Street's tech-heavy index, Nasdaq, have dropped 20% and 8%, respectively, since early February on a myriad of factors, including geopolitical uncertainty, Trump tariffs and the outlook for inflation and economic growth.\n\nAdditionally, the bitcoin market had to digest disappointment over the lack of fresh purchases in Trump's strategic digital asset reserve plan. Last week, Trump signed an executive order, directing a creation of a strategic reserve that includes BTC seized in enforcement actions.\n\n\"The announcement about the Strategic Bitcoin Reserve is not what the market was hoping for. Many expected the Reserve to buy new Bitcoin, but instead, they stated they would not sell any of their existing Bitcoin or confiscated Bitcoin. While this is a positive move, it caused a sharp decline in Bitcoin's price,\" Ian Balina, founder and CEO of Token Metrics, told CoinDesk in an email.\n\nWhile the spread between next month and front month CME futures contracts has narrowed, the entire curve remains in contango, where far-dated futures contracts (with longer maturities) trade at a premium to near-dated.\n\nThat's how it usually is in all markets due to factors like storage, financing, insurance costs, and expectations of rising prices over coming weeks or months.\n\n\"The fact that perpetual funding rates remain positive and the futures basis is still in contango suggests the recent move is driven by unlevered spot longs being squeezed, rather than broader market contagion,\" Erdösi noted.",
+    "url": "https://www.coindesk.com/markets/2025/03/12/bitcoin-cme-futures-spread-slides-to-usd490-undoing-the-trump-bump-in-btc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Thomas Erdösi",
+                "Ian Balina"
+            ],
+            "positions": [
+                "head of product",
+                "founder and CEO"
+            ],
+            "companies": [
+                "CF Benchmarks",
+                "Token Metrics",
+                "CoinDesk",
+                "TradingView"
+            ],
+            "organizations": [
+                "CME",
+                "Nasdaq",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes the complete reversal of the 'Trump bump' with narrowing futures spreads, declining prices, and disappointment over lack of fresh Bitcoin purchases in the strategic reserve plan."
+    }
+}

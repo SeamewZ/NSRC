@@ -1,0 +1,38 @@
+{
+    "title": "Bybit CEO Says 77% of Stolen Funds From Record $1.4B Hack Still Traceable",
+    "summary": "Some 417,348 ETH, valued at approximately $1 billion remain traceable on the blockchain after being moved using privacy-focused THORChain.",
+    "time": "2025-03-04T09:06:00",
+    "author": "Shaurya Malwa",
+    "content": "Over 77% of the funds stolen in a record hack on crypto exchange Bybit remain traceable, while 20% have \"gone dark\" and are untraceable, CEO Ben Zhou said in an update on X early Tuesday.\n\n“This and the coming week is critical for fund freezing as the funds will start to clear at exchanges, otc and p2p,” Zhou said, referring to the hackers' efforts of laundering the money and converting it to cash.\n\nSome 417,348 ether\nETH\n$3,342.26\n, valued at approximately $1 billion remain traceable on the blockchain after being moved using privacy-focused THORChain. Another 20% of the funds, roughly 79,655 ETH or $200 million, have \"gone dark\" through ExCH.\n\nA smaller portion, 40,233 ETH or $100 million, had passed through OKX’s web3 proxy, but 23,553 ETH, worth $65 million, remain untraceable.\n\nZhou said the hackers converted 83% of the stolen ETH — 361,255 ETH; or $900 million — into BTC, distributing it across 6,954 wallets, with an average of 1.71 BTC per wallet using THORChain.\n\nTHORChain has processed $4.66 billion in swaps in the week ending March 2, the highest tally on record, according to data source DefiLlama — making it over $5.5 million in fees from the illicit flows.\n\nNorth Korean hacking group Lazarus targeted Bybit in late February by injecting malicious code into SafeWallet, a third-party wallet platform used by the exchange, to steal billions in customer assets from the exchange.\n\nThe attackers compromised a developer’s device, enabling them to manipulate a routine wallet transfer and siphon off nearly $1.5 billion in ETH.\n\nBybit fully returned to a 1:1 backing of client assets days after the attack, as CoinDesk previously reported. Address activity suggests more than $400 million were purchased through over-the-counter trading, with another $300 million brought directly from exchanges.",
+    "url": "https://www.coindesk.com/markets/2025/03/04/bybit-says-77-of-stolen-funds-from-record-usd1-4b-hack-still-traceable",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "THORChain",
+                "OKX",
+                "SafeWallet",
+                "CoinDesk",
+                "DefiLlama"
+            ],
+            "organizations": [
+                "Lazarus"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC",
+            "ether",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach where $1.4 billion was stolen from Bybit exchange by North Korean hacking group Lazarus, indicating significant market disruption and security concerns."
+    }
+}

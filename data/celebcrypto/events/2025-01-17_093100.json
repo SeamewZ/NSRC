@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Miners Have Started 2025 on a Strong Footing, JPMorgan Says",
+    "time": "2025-01-17T09:31:00",
+    "author": "Will Canny",
+    "summary": "The combined hashrate of miners tracked by the bank has doubled in the last year to roughly 30% of the global network, the report said.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nmining stocks tracked by JPMorgan have enjoyed a strong start to the year, with 12 of the 14 companies outperforming the world's largest cryptocurrency in the first two weeks, the Wall Street bank said in a research report Thursday.\n\nThe network hashrate has risen 2% month-to-date to an average of 793 exahashes per second (EH/s) and is 51% higher than a year ago, the report said.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain and is a proxy for competition in the industry and mining difficulty.\n\nThe hashprice, a measure of daily mining profitability, has dropped less than 1% since the end of December, the bank noted, as \"hashrate growth outpaced BTC price movement.\"\n\n\"Miners earned ~$54,900 in daily block reward revenue per EH/s over the first two weeks of January,\" analysts Reginald Smith and Charles Pearce wrote, which was 2% less than last month.\n\nThe combined hashrate of the 14 U.S.-listed miners in the bank's coverage has more than doubled in the last 12 months and now accounts for roughly 30% of the global network.\n\nThe total market cap of the mining stocks that the bank tracks has increased 16%, or $4.5 billion, in the first two weeks of the year. Riot Platforms (RIOT) outperformed, with a 32% gain, and Bitdeer underperformed, with a 4% decline.\n\nBitcoin has increased about 56% since the halving event in April, around 44% since the U.S. presidential election in November, and is up 134% year-on-year, the report said.\n\nRead more: U.S.-Listed Bitcoin Miners Accounted for 25% of Global Network in December: Jefferies",
+    "url": "https://www.coindesk.com/markets/2025/01/17/bitcoin-miners-have-started-2025-on-a-strong-footing-jp-morgan-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Riot Platforms",
+                "Bitdeer",
+                "Jefferies"
+            ],
+            "organizations": [
+                "Wall Street bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports strong performance by Bitcoin mining stocks, significant hashrate growth, and substantial Bitcoin price increases since key events."
+    }
+}

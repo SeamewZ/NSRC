@@ -1,0 +1,36 @@
+{
+    "title": "Judge Declines to Order DOJ to Review Records in Roman Storm Case",
+    "summary": "The Tornado Cash developer is slated to go on trial later this summer.",
+    "time": "2025-05-30T17:51:00",
+    "author": "Nikhilesh De",
+    "content": "The federal judge overseeing Roman Storm's prosecution declined to order the Department of Justice to review its records for any materials it might have missed that would help the Tornado Cash developer at the end of a 30-minute hearing Friday morning, though she told the government it should not have any disclosure issues.\n\nJudge Katherine Polk Failla also ruled that there were no Brady violation concerns with the Department of Justice's conversations with the Financial Crimes Enforcement Network (FinCEN) about whether mixers needed to register as money transmitters — the conversation that prosecutors pursuing Samourai Wallet developers had with FinCEN officials, but not the prosecutors on Storm's case — one of the DOJ representatives said in the phone conference on Friday.\n\nIf the judge had found that prosecutors had withheld information, it could affect the case moving forward.\n\n\"I'm not going to require a further review based on the representations made that there's no additional material of this type, and based on my views that I don't believe the material was exculpatory,\" she said.\n\n\"There's a difference between 'this is something I'd like to know' and 'this is a Brady violation,'\" the judge said, referring to a Supreme Court precedent that requires prosecutors to share any and all information that might help a defendant with the defendant's team.\n\nStorm's defense attorneys argued during the hearing that they needed to know when the prosecutors in their case learned about the FinCEN conversation.\n\n\"They do plan to say they're charging a conspiracy to operate an unlicensed money transmitter,\" said defense attorney Brian Klein. \"My question is who are they supposed to be licensed with? … this is all in the same issue. They've only dropped one subpart … but they're still going to say they're charging an unlicensed money business.\"\n\nThane Rehn, a prosecutor who worked on the DOJ case against Sam Bankman-Fried, said that his team wouldn't argue that Tornado Cash needed to secure a license.\n\n\"The word 'license' doesn't apply here and the jury won't be instructed on licensing issues … what we intend to prove at trial is the defendant knew they were transmitting funds derived from criminals,\" he said.\n\nThe judge did at multiple points ask the prosecutors if they planned to change any other theories or charges in the weeks leading up to the trial, saying doing so might be unfair to the defense. The trial is supposed to kick off in less than two months.\n\nRead more: DOJ Will Still Pursue Roman Storm Case Despite Blanche Memo, Prosecutors Say",
+    "url": "https://www.coindesk.com/policy/2025/05/30/judge-declines-to-order-doj-to-review-records-in-roman-storm-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Storm",
+                "Katherine Polk Failla",
+                "Brian Klein",
+                "Thane Rehn",
+                "Sam Bankman-Fried"
+            ],
+            "positions": [
+                "defense attorney",
+                "prosecutor",
+                "judge"
+            ],
+            "companies": [
+                "Tornado Cash",
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "Department of Justice",
+                "Financial Crimes Enforcement Network",
+                "Supreme Court"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ongoing legal prosecution against a cryptocurrency mixer developer, indicating regulatory pressure and legal uncertainty in the crypto space."
+    }
+}

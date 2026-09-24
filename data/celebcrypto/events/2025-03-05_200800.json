@@ -1,0 +1,28 @@
+{
+    "title": "Bitwise Files to Launch Aptos ETF",
+    "time": "2025-03-05T20:08:00",
+    "author": "Helene Braun",
+    "summary": "The asset manager submitted paperwork with the Securities and Exchange Commission (SEC) for the fund on Wednesday.",
+    "content": "Bitwise has submitted paperwork to launch an exchange-traded fund (ETF) tracking the price of Aptos (APT), the native token of the Aptos network.\n\nThe asset manager hinted at the move last week when it filed to create a Delaware trust entity for a proposed Aptos ETF. APT is a scalable layer 1 blockchain token based on the Move programming language.\n\nOn Wednesday, Bitwise filed an S-1 document with the Securities and Exchange Commission, making its plans official. The S-1 filing is a requirement for companies seeking to issue a new security and be listed on a public stock exchange.\n\nTo launch such a fund, the asset manager will also have to file a 19b-4 filing, which is required to signal a requisite rule change at the stock exchange seeking to list the investment and ties the SEC to a strict deadline.\n\nAPT was trading 18% higher over the past 24 hours, at a price of $6.48 at press time.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/bitwise-files-to-launch-aptos-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bitwise"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "Delaware trust entity"
+            ]
+        },
+        "cryptocurrencies": [
+            "Aptos",
+            "APT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports APT trading 18% higher following the ETF filing announcement, indicating positive market reaction and price appreciation."
+    }
+}

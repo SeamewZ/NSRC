@@ -1,0 +1,28 @@
+{
+    "title": "PwC Italy, SKChain Advisors to Build Blockchain-Based EU Digital Identity Product",
+    "summary": "The product will enable European companies and their customers to securely access digital platforms including those in the world of Web3.",
+    "time": "2025-03-24T14:00:00",
+    "author": "Jamie Crawley",
+    "content": "The Italian division of PricewaterhouseCoopers (PwC) said is building a European Union (EU) digital identity product alongside blockchain consultancy firm SKChain Advisors.\n\nThe product under development will enable European companies and their customers to securely access digital platforms including those in the world of Web3, according to an emailed announcement on Monday.\n\nDeveloped on World Mobile Chain, a layer-3 network built on Coinbase's Ethereum layer-2 Base, the product will use self-sovereign identity (SSI) technology. SSI is a decentralized form of identity that gives users full control of their data rather than handing it to third parties.\n\nBlockchain technology underpins SSI in that it allows for users' data to be distributed and stored securely, removing the need for centralized identity providers.\n\nThe basis for PwC Italy and SKChain's product is the EU's digital identity regulation eiDAS 2.0 and the European Digital Identity EUDI) wallet that it introduces.\n\nEiDAS aims to establish an EU-wide digital identity framework for accessing services and making electronic transactions.",
+    "url": "https://www.coindesk.com/web3/2025/03/24/pwc-italy-skchain-advisors-to-build-blockchain-based-eu-digital-identity-product",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "PricewaterhouseCoopers (PwC)",
+                "SKChain Advisors",
+                "Coinbase"
+            ],
+            "organizations": [
+                "European Union (EU)",
+                "World Mobile Chain"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The development of a major EU digital identity product using blockchain technology by established firms like PwC represents institutional adoption and validation of blockchain infrastructure."
+    }
+}

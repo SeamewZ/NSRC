@@ -1,0 +1,33 @@
+{
+    "title": "Binance Gains Market Share as Bitcoin Volume Declined 77% From Yearly Peak: CryptoQuant",
+    "summary": "A volume drop of such magnitude suggests traders and investors are losing interest or confidence, possibly due to uncertainty, fear, or waiting for better conditions.",
+    "time": "2025-04-10T08:05:00",
+    "author": "Shaurya Malwa",
+    "content": "Bitcoin\nBTC\n$104,608.94\nand altcoin spot trading volumes have declined as crypto prices entered into correction mode in the last two months, with crypto exchange Binance emerging as the preferred avenue for traders, according to a report from CryptoQuant.\n\nTotal bitcoin spot trading volume on crypto exchanges declined from a high of $44 billion on February 3 to $10 billion at the end of Q1, a nearly 77% drop, according to the analytics firm. Meanwhile, total altcoin spot trading volume on crypto exchanges declined from a high of $122 billion on February 3 to $23 billion at the end of Q1 — a more than 80% fall.\n\nA volume drop of such magnitude suggests traders and investors are losing interest or confidence, possibly due to uncertainty or fear. Falling prices mean the value of bitcoin and other cryptos is going down, which can scare off more people, creating a cycle of less trading and lower prices, the report added.\n\nDuring the same time, Binance increased its dominance over the other crypto exchanges with its share of total market trading reaching almost 50%. Binance's share of total daily bitcoin spot trading volume increased from 33% on February 3 to 49% by the end of Q1.\n\nThis implies that trading volumes on other exchanges declined much faster than on Binance, and that the exchange becomes the largest liquidity venue during times of higher market volatility.\n\nFurthermore, Binance's share of total daily altcoin spot trading volume increased from 38% on February 3 to 44% by the end of Q1.\n\nSome altcoins still show relatively high spot trading volumes on Binance, in spite of the overall slowdown in trading volumes. For example, large altcoins like BNB, TON and EOS are still being traded with relatively high activity, at a time that overall crypto volumes have declined.\n\nMeanwhile, bitcoin inflows to Binance have accelerated in the past week, CryptoQuant independent analyst Martuun wrote.\n\n“The bitcoin reserve on Binance has increased from 568,768 BTC (Mar 28) to 590,874 BTC (Apr 9), an increase of 22,106 BTC,” he said in a snippet. “This shows a strong acceleration in BTC inflows to Binance. It’s likely that investors are actively moving funds to Binance, due the macro uncertainty and before the upcoming CPI announcement.”",
+    "url": "https://www.coindesk.com/markets/2025/04/10/binance-emerges-as-top-exchange-as-bitcoin-volumes-decline-77-from-ytd-peak-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Martuun"
+            ],
+            "positions": [
+                "independent analyst"
+            ],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "CryptoQuant"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "BNB",
+            "TON",
+            "EOS"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a 77% decline in Bitcoin trading volume and over 80% decline in altcoin volume, suggesting traders are losing interest or confidence due to uncertainty and fear."
+    }
+}

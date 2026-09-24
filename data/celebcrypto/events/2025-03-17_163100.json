@@ -1,0 +1,41 @@
+{
+    "title": "Hashdex Seeks to Expand U.S. Crypto ETF to Include Litecoin, XRP and Other Altcoins",
+    "time": "2025-03-17T16:31:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The proposed amendment would include various cryptocurrencies in the in the Hashdex Nasdaq Crypto Index US ETF.",
+    "content": "Crypto asset manager Hashdex filed an amendment with the U.S. Securities and Exchange Commission (SEC) seeking to add\nLTC\n$86.10\nand XRP among other cryptocurrencies to its Nasdaq Crypto Index US ETF.\n\nThe proposal also lists cardano's ADA, solana's SOL and other altcoins including LINK, AVAX and UNI. The fund is currently mostly bitcoin (BTC) with some exposure to ether (ETH), according to Hashdex’s website.\n\nAn alternative version of the fund traded on the Bermuda Stock Exchange, the Hashdex Nasdaq Crypto Index ETF, already offers exposure to the broader basket of cryptocurrencies. The Hashdex Nasdaq Crypto Index US ETF is designed to track a diversified set of digital assets, offering investors regulated exposure to the crypto market.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/hashdex-seeks-to-expand-u-s-crypto-etf-to-include-litecoin-xrp-and-other-altcoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Hashdex"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "Nasdaq",
+                "Bermuda Stock Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "Litecoin",
+            "LTC",
+            "XRP",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL",
+            "LINK",
+            "AVAX",
+            "UNI",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of a regulated U.S. ETF to include more cryptocurrencies provides increased institutional exposure and market accessibility, which typically boosts market confidence and demand."
+    }
+}

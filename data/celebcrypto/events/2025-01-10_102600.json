@@ -1,0 +1,26 @@
+{
+    "title": "Bitcoin Funding Rates Briefly Went Negative, Usually Marks a Local Bottom: Van Straten",
+    "time": "2025-01-10T10:26:00",
+    "author": "James Van Straten",
+    "summary": "Glassnode data shows that the perpetual funding rate went negative for the first time in 2025.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nhas not broken below $90,000 since Nov. 18, and continues to swing between $90,000 and $100,000.\n\nThe sentiment generally flips bullish when bitcoin approaches $100,000 and investors try to continue the bull market. However, this also works the other way and as bitcoin heads toward $90,000, like on Thursday, investors turn bearish.\n\nBitcoin will move where maximum pain occurs, so far that is the chopping period between these two valuations.\n\nDerivatives in bitcoin play a large part in these volatile price swings; derivatives such as futures and options only make up a few percentage points of the overall market capitalization but are becoming a greater influence in the market.\n\nOne metric that traders keenly observe is the futures perpetual funding rate. This is defined as the average funding rate (in %) set by exchanges for perpetual futures contracts. When the rate is positive, long positions periodically pay short positions. Conversely, when the rate is negative, short positions periodically pay long positions.\n\nDuring a bull market, bitcoin tends to have a positive funding rate as traders believe the price will continue to rise, but when the market gets overheated, it tends to run out of steam, and the price starts to fall, which leads to liquidation cascades.\n\nHowever, the same is true for the bear market as price floors become developed over the years, prices can rebound quickly, leading traders to scramble to cover. In these moments, local bottoms are formed.\n\nAs of Thursday, Glassnode data shows that the funding rate briefly went ( -0.001%), the first time this year and only a few times since November. This lead to a leverage flush and a sentiment re-shift before bitcoin moved back above $94,000. To compare how mild the negative funding rate was on Thursday, during covid-19 in March 2020, we saw negative funding rates peak at (-0.309%).\n\nA negative funding rate doesn't always lead to immediate price rebounds or bottoms, but can be watched alongside other price-chart tools and technical indicators to form a market view. Negative funding rates could also signal a continued bear market rather than an immediate bottom. Similarly, positive rates during a bull market might not mean the market is overheated, but could reflect continued strong demand.\n\nSince 2023, the funding rate has mostly been positive due to bitcoin being in a bull market, yet it has come with brief periods of negative rates, which tend to occur during price bottoms. This was seen during the Silicon Valley Bank collapse in 2023, and 2024, just before bitcoin climbed higher in both years.\n\nA floor tends to emerge when the funding rate goes negative and bears become overconfident. The same occurs when bulls become complacent, and the spot price can no longer keep up with the leverage being used. On both occasions, traders tend to get liquidated, and in this instance, it was the bears.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/bitcoin-funding-rates-briefly-went-negative-usually-marks-a-local-bottom-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Van Straten"
+            ],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article states that negative funding rates historically mark local bottoms and lead to price rebounds, as seen when Bitcoin moved back above $94,000 after the negative funding rate."
+    }
+}

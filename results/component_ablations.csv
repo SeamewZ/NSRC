@@ -1,0 +1,53 @@
+method_or_variant,cohort,MSE_x1e3,MAE_x1e2,MAPE_pct
+"NSRC (ours, routed)",Celebrity events,0.77448,1.68974,1.66632
+"NSRC (ours, routed)",News extension,0.29310,1.18509,1.17633
+"NSRC (ours, routed)",Macro crypto,0.83228,2.07600,2.08960
+"NSRC (ours, routed)",Macro equities,0.12917,0.83780,0.84204
+Unrouted semantic branch,Celebrity events,0.89821,1.86660,1.84003
+Unrouted semantic branch,News extension,0.31864,1.21778,1.21029
+Unrouted semantic branch,Macro crypto,0.82462,2.08995,2.10129
+Unrouted semantic branch,Macro equities,0.15562,0.99349,0.99764
+w/o semantic weighting,Celebrity events,0.90709,1.88379,1.85628
+w/o semantic weighting,News extension,0.31352,1.20989,1.20314
+w/o semantic weighting,Macro crypto,0.81066,2.06531,2.07642
+w/o semantic weighting,Macro equities,0.16893,1.04461,1.04875
+w/o description $z$,Celebrity events,0.90498,1.87958,1.85228
+w/o description $z$,News extension,0.31606,1.21335,1.20635
+w/o description $z$,Macro crypto,0.81799,2.07905,2.09015
+w/o description $z$,Macro equities,0.16359,1.02122,1.02548
+w/o category $c$,Celebrity events,0.89821,1.86660,1.84003
+w/o category $c$,News extension,0.31864,1.21778,1.21029
+w/o category $c$,Macro crypto,0.81409,2.07214,2.08324
+w/o category $c$,Macro equities,0.16616,1.03208,1.03634
+w/o direction $d$,Celebrity events,0.90119,1.87232,1.84542
+w/o direction $d$,News extension,0.31441,1.21147,1.20432
+w/o direction $d$,Macro crypto,0.81690,2.07697,2.08791
+w/o direction $d$,Macro equities,0.16965,1.04498,1.04923
+w/o calibration,Celebrity events,0.86242,1.79154,1.77472
+w/o calibration,News extension,0.32722,1.23380,1.22536
+w/o calibration,Macro crypto,0.83179,2.10080,2.11231
+w/o calibration,Macro equities,0.15488,1.00568,1.00923
+w/o online updates,Celebrity events,0.91135,1.89456,1.86618
+w/o online updates,News extension,0.41033,1.43537,1.42205
+w/o online updates,Macro crypto,0.81952,2.08602,2.09827
+w/o online updates,Macro equities,0.15537,0.97056,0.97577
+w/o recency,Celebrity events,0.89967,1.86921,1.84210
+w/o recency,News extension,0.32517,1.24002,1.23259
+w/o recency,Macro crypto,0.81995,2.08303,2.09436
+w/o recency,Macro equities,0.16382,1.00429,1.00934
+w/o volatility scaling,Celebrity events,0.87939,1.81950,1.79417
+w/o volatility scaling,News extension,0.40520,1.43500,1.42266
+w/o volatility scaling,Macro crypto,0.83667,2.09879,2.10975
+w/o volatility scaling,Macro equities,0.15463,0.99788,1.00169
+w/o cross-asset sharing,Celebrity events,0.88600,1.83495,1.80951
+w/o cross-asset sharing,News extension,0.39460,1.41085,1.39919
+w/o cross-asset sharing,Macro crypto,0.83121,2.09356,2.10622
+w/o cross-asset sharing,Macro equities,0.15504,0.99888,1.00266
+w/o support shrinkage,Celebrity events,0.91826,1.90757,1.87894
+w/o support shrinkage,News extension,0.32923,1.25648,1.25201
+w/o support shrinkage,Macro crypto,0.82697,2.09550,2.10749
+w/o support shrinkage,Macro equities,0.16201,1.00908,1.01361
+shuffled keys (20$times$3),Celebrity events,0.89794,1.86601,1.83947
+shuffled keys (20$times$3),News extension,0.31760,1.21638,1.20900
+shuffled keys (20$times$3),Macro crypto,0.81288,2.06408,2.07543
+shuffled keys (20$times$3),Macro equities,0.16535,1.03512,1.03897

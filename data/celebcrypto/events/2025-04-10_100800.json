@@ -1,0 +1,29 @@
+{
+    "title": "Ether Whale Dumps $22M of ETH After 9 Years",
+    "time": "2025-04-10T10:08:00",
+    "author": "Oliver Knight",
+    "summary": "The trader also sold during major market dips in 2022 and 2023.",
+    "content": "Ether (ETH) fell to a two-year low of $1,412 this week and the volatility appears to have been too much for one long-time holder, who sold of the majority of their stash acquired at around $8 in 2016.\n\nOn-chain data shows that the wallet in question swapped 14,015 ETH for $22 million USDC over a 15-hour period on decentralized exchange Uniswap.\n\nThe investor also sold 6,630 ETH in May 2022 and 4,035 ETH in June 2023 — each time during a major market dip.\n\nThis time was no different with ETH having just tumbled from a cycle high of $4,000 in December. They still hold 521 ETH valued at $830,000.\n\nETH has rebounded in line with the wider market on Thursday, currently trading at $1,598 having risen by 8.2% in the past 24 hours. Trading volume has also increased by 25% to $33 billion as optimism creeps into the market following U.S. President Donald Trump's decision to pause tariffs for 90 days.\n\nLater on Thursday a separate wallet was seen dumping ETH, selling 7,974 ETH ($11.8 million) at $1,479. The wallet still holds $40 million worth of ETH and it is unclear whether the two wallets are related.\n\nETH Is now down by 11% from Wednesday's high of $1,689.\n\nUPDATE 17:09 UTC, April 10: Adds details of second wallet selling ETH and updates price performance.",
+    "url": "https://www.coindesk.com/business/2025/04/10/ether-whale-dumps-usd22m-of-eth-after-9-years",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Uniswap"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ether",
+            "USDC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes ETH falling to two-year lows, major whale sell-offs totaling millions of dollars during market dips, and ETH being down 11% from recent highs."
+    }
+}

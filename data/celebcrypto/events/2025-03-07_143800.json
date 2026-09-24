@@ -1,0 +1,45 @@
+{
+    "title": "Crypto Market Is Skeptical About the Formation of a U.S. Strategic Reserve: JPMorgan",
+    "time": "2025-03-07T14:38:00",
+    "author": "Will Canny",
+    "summary": "A number of U.S. states have rejected the idea of using bitcoin as a reserve asset due to its volatility, the report said.",
+    "content": "Cryptocurrency markets are likely to remain under pressure in the short term owing to a lack of positive catalysts and skepticism about whether Congress will approve a U.S. strategic crypto reserve, JPMorgan (JPM) said in a research report Wednesday.\n\n\"Not only is there skepticism about congressional approval for such a strategic crypto reserve, but also the feasibility of including smaller tokens outside bitcoin (BTC) and ether (ETH) given their high risk and volatility,\" analysts led by Nikolaos Panigirtzoglou wrote.\n\nOn Thursday, President Donald Trump directed his administration to establish a Bitcoin Strategic Reserve to hold the assets that have been seized by the government. He also called for a stockpile of other crypto assets, without naming those that should be included despite mentioning XRP, solana\nSOL\n$160.63\nand\nADA\n$0.5413\nearlier in the week.\n\nJPMorgan noted that talks about bitcoin inclusion in strategic reserves at the state level have also failed to garner support.\n\nStates including Montana, North Dakota, South Dakota and Wyoming have all rejected such proposals due to \"risk and volatility\" concerns, the report said.\n\nThe world's central banks are equally cautions about including the world's largest cryptocurrency in their reserves.\n\nThe Swiss National Bank (SNB) and the National Bank of Poland have rejected adding bitcoin to their reserves, instead opting for more stable assets such as gold, JPMorgan noted.\n\nSingapore also rejected the idea. \"Cryptocurrencies do not align with [the bank's] long-term investment strategies due to their speculative nature,\" it said.\n\nThe European Central Bank (ECB) has criticized the idea of bitcoin as a reserve asset, and this is indicative of the wider skepticism amongst policy makers about using cryptos as reserve assets, the report added.\n\nRead more: Trump's Strategic Crypto Reserve is a Positive, Market Has Got it Wrong, Bitwise Says",
+    "url": "https://www.coindesk.com/markets/2025/03/07/crypto-market-is-skeptical-about-the-formation-of-a-u-s-strategic-reserve-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nikolaos Panigirtzoglou",
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Bitwise"
+            ],
+            "organizations": [
+                "Congress",
+                "Swiss National Bank",
+                "National Bank of Poland",
+                "European Central Bank",
+                "Montana",
+                "North Dakota",
+                "South Dakota",
+                "Wyoming"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "solana",
+            "SOL",
+            "ADA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports widespread skepticism and rejection of cryptocurrency as reserve assets by multiple states, central banks, and policymakers, suggesting continued market pressure."
+    }
+}

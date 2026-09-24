@@ -1,0 +1,27 @@
+{
+    "title": "OCC Says Banks Can Engage in Crypto Custody and Certain Stablecoin Activities",
+    "summary": "OCC lifts approval and control requirements for banks engaging in cryptocurrency activities in new interpretive letter.",
+    "time": "2025-03-07T22:32:00",
+    "author": "Sam Reynolds",
+    "content": "Federally regulated banks can engage in a range of cryptocurrency activities without prior approval, The Office of the Comptroller of the Currency (OCC) said, in a new interpretive letter and statement.\n\nIn a new interpretive letter, the OCC clarified that national banks and federal savings associations can legally provide crypto custody, conduct certain stablecoin-related activities, and run nodes.\n\n“The OCC expects banks to have the same strong risk management controls in place to support novel bank activities as they do for traditional ones,” said Acting Comptroller of the Currency Rodney E. Hood.\n\n“Today’s action will reduce the burden on banks to engage in crypto-related activities and ensure that these bank activities are treated consistently by the OCC, regardless of the underlying technology.\"\n\nAs part of this new interpretive letter, the OCC withdrew a statement it made in 2023 on liquidity risks for banks from crypto, suggesting a rollback of prior concerns about the industry's impact on financial stability.",
+    "url": "https://www.coindesk.com/policy/2025/03/07/occ-says-banks-can-engage-in-custody-and-certain-stablecoin-activities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rodney E. Hood"
+            ],
+            "positions": [
+                "Acting Comptroller of the Currency"
+            ],
+            "companies": [],
+            "organizations": [
+                "Office of the Comptroller of the Currency (OCC)",
+                "national banks",
+                "federal savings associations"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The OCC's removal of approval requirements and rollback of prior liquidity risk concerns reduces regulatory burden on banks engaging in crypto activities, which is positive for market adoption and institutional participation."
+    }
+}

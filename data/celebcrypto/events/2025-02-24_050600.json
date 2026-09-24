@@ -1,0 +1,32 @@
+{
+    "title": "Bybit Closes 'ETH Gap' as Exchange Replenishes $1.4B Hole After Hack",
+    "time": "2025-02-24T05:06:00",
+    "author": "Shaurya Malwa",
+    "summary": "Bybit has returned to a 1:1 backing of client assets days after being hit by the biggest crypto heist ever.",
+    "content": "Bybit has returned to a 1:1 backing of client assets and has fully closed the “ether gap” it faced after an unprecedented $1.4 billion hack hit the exchange late Friday.\n\nThe exchange has received 446,870 ether\nETH\n$3,493.10\n, worth $1.23 billion at current prices, through loans, large deposits, and ether purchases in the past two days, on-chain tracking service Lookonchain said in an X post on Monday.\n\nAddress activity suggests more than $400 million were purchased through over-the-counter trading, with another $300 million brought directly from exchanges. Nearly $300 million were sought as loans; the rest are from addresses apparently belonging to crypto funds.\n\nSince being hacked, #Bybit has received ~446,870 $ETH($1.23B) through loans, whale deposits, and ETH purchases.#Bybit has nearly closed the gap. pic.twitter.com/0oz3ytLi4X\n\nETH prices rose upto 4% over the weekend amid the apparent buying activity, but are down 2% in the past 24 hours as sentiment isn’t fully lifted.\n\nMeanwhile, Bybit said late Sunday that all deposit and withdrawal activity had “fully recovered to normal levels — with total deposits “slightly exceeding” withdrawals as on Saturday in a sign of market confidence.\n\nFriday’s attack targeted one of Bybit’s offline “cold” wallets, which are typically considered secure due to their lack of internet connectivity, in a heist that allowed $1.4 billion in ETH to be withdrawn.\n\nHackers gained control by exploiting a sophisticated method involving a manipulated user interface (UI) and URL. This allowed the attackers to alter the smart contract logic, redirecting the funds to an unidentified address. The stolen assets were then split across multiple wallets and swapped on decentralized exchanges.\n\nBlockchain sleuth ZachXBT linked the hack to North Korea’s Lazarus Group, a state-sponsored hacking collective notorious for crypto thefts. Lazarus was behind several high-profile crypto attacks, including the $600 million Ronin Network hack in 2022, and a $230 million drain on Indian exchange WazirX in 2024.",
+    "url": "https://www.coindesk.com/markets/2025/02/24/bybit-closes-eth-gap-as-exchange-amasses-usd1-2b-after-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT"
+            ],
+            "positions": [],
+            "companies": [
+                "Bybit",
+                "Lookonchain"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "North Korea",
+                "Ronin Network",
+                "WazirX"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that ETH prices rose up to 4% over the weekend amid the buying activity and that market confidence was shown through deposits slightly exceeding withdrawals."
+    }
+}

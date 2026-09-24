@@ -1,0 +1,51 @@
+{
+    "title": "Crypto Payments Firm Mesh Raises $82M as Stablecoin Adoption Soars",
+    "time": "2025-03-11T19:01:00",
+    "author": "Krisztian Sandor",
+    "summary": "The fundraising was completed using PayPal's PYUSD stablecoin and was led by Paradigm.",
+    "content": "Crypto payments firm Mesh announced on Tuesday it has raised $82 million to expand its stablecoin-based payments settlement network globally.\n\nThe series B round was led by Paradigm, with ConsenSys, QuantumLight, Yolo Investments, Evolution VC, Hike Ventures, Opportuna and AltaIR Capital participating.\n\nMost of the capital raise was settled in PayPal's PYUSD stablecoin, according to the press release.\n\nMesh develops a payments network on blockchain rails, connecting crypto wallets with exchanges payment service providers for merchants. With Mesh, users can pay with crypto assets such as bitcoin\nBTC\n$107,269.45\n, ether\nETH\n$3,649.33\nand Solana's SOL, while merchants settle the payment in stablecoins of their choice including Circle's USDC, Paypal's PYUSD and Ripple's RLUSD.\n\n\"Regulatory clarity is taking shape, institutions are leaning in, and stablecoins are booming, Bam Azizi, CEO and cofounder of Mesh, said in a LinkedIn post on Tuesday. \"With this capital, we’re expanding globally to making crypto payments as easy as using a credit card.\"\n\nStablecoins are one of the fastest-growing sectors in crypto, and has mushroomed to a $200 billion asset class within digital assets. With their prices anchored to an external asset, predominantly to the U.S. dollar, they serve as a key piece of infrastructure for digital asset trading. They are also increasingly popular vehicle for payments, savings and remittances, especially in developing countries, as a cheaper and speedier alternative to traditional banking rails.\n\nThanks to the rapid growth, VC firms are increasingly invest in projects building stablecoin services and infrastructure. Felix Hartmann, founder and managing partner at investment firm Hartmann Capital, said in a Tuesday report that the \"big trade in crypto\" are stablecoins, as together with tokenized financial assets they will lead the next wave of growth in digital asset adoption.\n\nPayments giant Stripe's acquisition of stablecoin platform Bridge for $1.1 billion last year was a pivotal moment, underscoring the potential of stablecoins in the global payments landscape.",
+    "url": "https://www.coindesk.com/business/2025/03/11/crypto-payments-firm-mesh-raises-usd82m-as-stablecoin-adoption-soars",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bam Azizi",
+                "Felix Hartmann"
+            ],
+            "positions": [
+                "CEO and cofounder",
+                "founder and managing partner"
+            ],
+            "companies": [
+                "Mesh",
+                "PayPal",
+                "Paradigm",
+                "ConsenSys",
+                "QuantumLight",
+                "Yolo Investments",
+                "Evolution VC",
+                "Hike Ventures",
+                "Opportuna",
+                "AltaIR Capital",
+                "Circle",
+                "Ripple",
+                "Hartmann Capital",
+                "Stripe",
+                "Bridge"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "SOL",
+            "USDC",
+            "PYUSD",
+            "RLUSD",
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights significant investment in crypto payments infrastructure, growing stablecoin adoption, and positive institutional sentiment about stablecoins driving the next wave of digital asset growth."
+    }
+}

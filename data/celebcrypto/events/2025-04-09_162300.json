@@ -1,0 +1,43 @@
+{
+    "title": "Former Ethereum Developer Virgil Griffith Leaves Prison, Seeks Pardon",
+    "summary": "Griffith pleaded guilty to one count of conspiracy to violate international sanctions after giving a talk at a crypto conference in Pyongyang in 2019.",
+    "time": "2025-04-09T16:23:00",
+    "author": "Cheyenne Ligon",
+    "content": "Virgil Griffith, a former Ethereum developer jailed for attending a crypto conference in North Korea in 2019, was released from prison and is on his way to a halfway house, according to his lawyer, Alexander Urbelis.\n\nUrbelis, general counsel of the Ethereum Name Service who has also been serving as Griffith’s outside counsel, posted a photo of the newly released Griffith and his parents on X on Wednesday, standing in front of FCI Milan, the low-security Michigan prison where Griffith served a portion of his 56-month sentence.\n\n“I am so pleased to report that VIRGIL IS OUT!” Urbelis wrote. “Happy day indeed.”\n\nGriffith was arrested in November 2019, seven months after returning from the North Korean capital, Pyongyang, where he had attended a crypto conference. While at the conference, Griffith gave a presentation on Ethereum and explained how cryptocurrency could be used to evade sanctions against the country. Though he initially fought the charge, Griffith pleaded guilty to one count of conspiracy to violate international sanctions in 2021.\n\nThe New York judge overseeing the case sentenced him to a $100,000 fine and 63 months, or a little over five years, imprisonment — a fraction of the possible 20 year sentence he faced if he went to trial and lost. Last year, Griffith’s lawyers were successfully able to get his sentence reduced to 56 months, citing his status as a first-time offender.\n\nGriffith has been imprisoned since mid-2021. Though he was initially released on bail following his arrest, a judge sent him back to jail in New York to await trial after he violated his bail conditions by attempting to access one of his cryptocurrency accounts in order to pay his lawyers.\n\nUrbelis told CoinDesk that Griffith’s legal team has hopes he will soon be moved from his halfway house in Baltimore to home confinement.\n\n“But the long-term consequences persist: Virgil will have to endure burdensome probation for several years, the conditions of which are not yet known,\" Urbelis said. \"And on top of that, the Department of Commerce placed severe export restrictions on Virgil that will extend until 2032 and which would make his life very difficult.”\n\nThe Department of Commerce’s restrictions prohibit Griffith from participating either directly or indirectly in any transaction involving software or technology that will be exported from the U.S., Urbelis said, making a return to working in the crypto industry difficult, if not impossible.\n\nGriffith is seeking a pardon from President Donald Trump’s administration, which Urbelis said was an “ongoing process” they had made “great progress” on.\n\n“We are seeking a pardon to bring justice to a prosecution that we believe was wrongheaded and fundamentally un-American from the outset, to better Virgil’s life, and to make sure that Virgil has [the] ability to contribute to a world that so desperately needs thinkers and doers like him,” Urbelis said.\n\nTrump has pardoned a number of people convicted on crypto-related criminal charges, including Silk Road founder Ross Ulbricht and former BitMEX CEO Arthur Hayes and three people convicted of violating the Bank Secrecy Act (BSA). Still more convicted crypto criminals, including former FTX CEO and fraudster Sam Bankman-Fried, are hopeful for pardons of their own.",
+    "url": "https://www.coindesk.com/policy/2025/04/09/former-ethereum-developer-virgil-griffith-leaves-prison-seeks-pardon",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Virgil Griffith",
+                "Alexander Urbelis",
+                "Donald Trump",
+                "Ross Ulbricht",
+                "Arthur Hayes",
+                "Sam Bankman-Fried"
+            ],
+            "positions": [
+                "former Ethereum developer",
+                "general counsel of the Ethereum Name Service",
+                "outside counsel",
+                "President",
+                "Silk Road founder",
+                "former BitMEX CEO",
+                "former FTX CEO and fraudster"
+            ],
+            "companies": [
+                "Ethereum Name Service",
+                "BitMEX",
+                "FTX"
+            ],
+            "organizations": [
+                "Department of Commerce",
+                "Department of Commerce’s restrictions"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news focuses on an individual's legal case and pardon efforts without discussing market price movements, regulatory changes, or broader market implications."
+    }
+}

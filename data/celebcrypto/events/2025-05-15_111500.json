@@ -1,0 +1,44 @@
+{
+    "title": "Crypto Daybook Americas: Retail Shift to Riskier Tokens Jolts Bitcoin, Ether",
+    "time": "2025-05-15T11:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for May 15, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nThe cryptocurrency market pulled back over the last 24 hours, led by declines in major coins as retail investors switched out of large-cap tokens and into smaller, more speculative assets.\n\nBoth bitcoin\nBTC\n$104,850.17\nand ether\nETH\n$3,515.90\ndropped around 2% and the CoinDesk 20 Index (CD20), a measure of the broad market, fell 2.7%.\n\n\"We’ve observed a significant week-on-week increase in retail participation, reinforcing the broader narrative of rising optimism,\" said Jake O., an over-the-counter trader at Wintermute. “The shift down the risk curve is most evident in retail screen flows.”\n\nInstitutional investors, for their part, have been more conservative. They're still stocking up on bitcoin, ether and\nXRP\n$2.2814\n, while easing off positions in solana\nSOL\n$158.87\nwhich has faced “sustained pressures.”\n\n“Some are viewing SOLETH underperformance as an opportunity to position for Solana topside,” Jake noted, pointing to steady buying in $200 Solana call options ahead of June and July.\n\nOther options activity suggests traders are hedging for volatility ahead. Call spreads on ether were unwound and some traders moved into collar structures — strategies often used to protect against price swings — signaling caution after recent gains.\n\nThe growing hedging activity adds a note of caution to retail's swing to speculation. Economic uncertainty, lingering inflation pressures and U.S. tariff policy are all weighing on risk appetite in crypto as well as traditional markets.\n\nGlobal asset managers, in fact, currently have their largest underweight position in the U.S. dollar in 19 years. Even though President Donald Trump secured a major investment deal with Qatar and a temporary reduction in U.S.-China tariffs, these outcomes may lead to further downside: Spanish bank Bankinter said in a note that the market has shown fatigue over the last trading session.\n\n“We still think the damage is done: both EPS and prices should feel the strain, with rising inflationary pressures preventing the Fed from cutting rates as much as the market expects,” the bank’s analysts wrote. Market participants are set to now focus on producer price inflation and retail sales data, as well as on Fed Chair Jerome Powell’s speech later today.\n\nFor the crypto market, a re-test of the all-time high isn’t out of the picture.\n\n“Looking ahead, we believe there is further room for digital assets to rally, especially as Coinbase’s inclusion into the S&P 500 on 19 May draws closer,” Singapore-based QCP Capital wrote. Stay alert!\n\nCoinDesk's Consensus is taking place in Toronto on May 14-16. Use code DAYBOOK and save 15% on passes.\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/15/crypto-daybook-americas-retail-shift-to-riskier-tokens-jolts-bitcoin-ether",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Jake O.",
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "over-the-counter trader",
+                "Fed Chair"
+            ],
+            "companies": [
+                "Wintermute",
+                "Coinbase",
+                "Bankinter",
+                "QCP Capital",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrency market pullbacks, declines in major coins, retail shift to speculative assets, institutional caution, growing hedging activity, and economic uncertainty weighing on risk appetite."
+    }
+}

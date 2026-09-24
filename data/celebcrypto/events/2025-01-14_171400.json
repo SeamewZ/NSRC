@@ -1,0 +1,38 @@
+{
+    "title": "Analysis: Prediction Markets Have a Gambling Problem",
+    "summary": "Academics get it: prediction markets aren't gambling because the house doesn't always win. But regulators around the world have differing opinions – and Polymarket is feeling the heat.",
+    "time": "2025-01-14T17:14:00",
+    "author": "Sam Reynolds",
+    "content": "Prediction market platforms Polymarket and Kalshi spend a lot of time and money convincing regulators they’re not gambling.\n\nOutside of the U.S. authorities are viewing prediction markets as synonymous with gambling. Taiwan, France, and now Singapore have all made moves to block users from accessing Polymarket at the ISP level, calling the prediction market platform an unlicensed gambling operation of some sort.\n\nPrediction markets are investment tools, where traders take a position on the outcome to a question.\n\nParties and counter-parties have differing opinions on how to price the the competing sides of the question, and the market engages in price discovery. Should the event occur, each share will be worth $1, or $0 if the event fails to materialize.\n\nThis isn't a game of chance. Prediction markets aren't considered gambling (in the U.S.) because they are designed as tools for forecasting outcomes based on probabilities, rather than games of luck. The house doesn't set the odds, or win. It's all about market participants.\n\nIn the U.S., the Commodities Futures Trading Commission views its role as regulating prediction markets because it views the markets as a collection of event contracts, similar to weather derivatives – not a new invention – used by farmers to hedge against crop loss by buying into contracts that pay out in the event of freak weather. Climate change has made this a lucrative field.\n\nBoth Polymarket and Kalshi have had their own fights with the CFTC. Polymarket settled, Kalshi won. Kalshi, as a result, now has permission to offer election-based event contracts; Polymarket must block U.S. users from accessing its platform. Kalshi also now has Donald Trump Jnr. as an advisor, helping its case with regulators.\n\nElection-based event contracts were a big business during the 2024 election. Looking back at how the market responded to Donald Trump's eventual victory, you can see them as financial instruments to prepare for a post-election market.\n\nConsidering bitcoin's “Trump Bump,” a significant price correction might be expected if his rival Kamala Harris won, thus crypto traders would want to hedge their holdings with prediction market positions.\n\nPolymarket's naysayers bet wrongly about the platform's demise post-election. Data showed that by all accounts the platform was doing just fine after the election: $1.6 billion in monthly volume.\n\nBut a lot of this volume comes from sports-themed prediction market contracts. Data from Polymarket Analytics shows that there's currently over $1.1 billion in volume bet on the outcome of the NFL Super Bowl; $740 million on the outcome of the Champion's League; and $700 million on the winner of the NBA Finals.\n\nThere is no macro-level importance to the outcome of a sports event. Unlike an election, a war, or a decision by a Fortune 500 company to acquire a rival (or add bitcoin to its balance sheet), there are no broader financial or societal consequences to the outcome of the NFL Super Bowl.\n\nIn other words, this looks a lot like online sports betting, which took a herculean effort to legalize and has its own set of stringent licensing requirements. Online gaming operators spent a considerable sum establishing – and legalizing – this market, with traditional casinos like MGM playing catch-up.\n\nIn jurisdictions like Singapore, which have online, licensed sportsbooks that offer sports betting, the case is clear to instigate a ban. In the U.S., state-level gaming regulators might be the next to take a look, perhaps prompted by online sports gaming giants that legalized an industry that was once banned.\n\nThat's not to say there isn't room for sports-themed prediction market contracts.\n\nThe NFL's broadcasting rights are worth over $100 billion and streamers like Amazon and Netflix are trying to get in on sports, which makes prediction market contracts about NFL ratings, for example, a useful tool for equity holders of media companies to determine if an investment into broadcast rights was worth it.\n\nOr, maybe Polymarket should just move to Canada, as Ontario allows both political and sports betting. Sometimes the smartest bet is on a change of scenery, and there's not a prediction market for that.\n\nThe possibilities are endless.",
+    "url": "https://www.coindesk.com/policy/2025/01/14/analysis-prediction-markets-have-a-gambling-problem",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump Jnr."
+            ],
+            "positions": [
+                "advisor"
+            ],
+            "companies": [
+                "Polymarket",
+                "Kalshi",
+                "MGM",
+                "Amazon",
+                "Netflix"
+            ],
+            "organizations": [
+                "Commodities Futures Trading Commission",
+                "CFTC",
+                "NFL",
+                "Champion's League",
+                "NBA",
+                "Fortune 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses regulatory challenges for prediction markets but does not indicate any direct positive or negative impact on cryptocurrency prices or market sentiment."
+    }
+}

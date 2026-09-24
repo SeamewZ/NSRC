@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Drops 7.2% as All Assets Trade Lower",
+    "time": "2025-03-10T13:13:00",
+    "author": "CoinDesk Indices",
+    "summary": "Chainlink (LINK) fell 14.3% and NEAR Protocol (NEAR) dropped 12.5%, leading the index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2658.12, down 7.2% (-205.91) since Friday at 4 p.m. ET.\n\nNone of the 20 assets are trading higher.\n\nLeaders: ETH (-2.2%) and AAVE (-3.0%).\n\nLaggards: LINK (-14.3%) and NEAR (-12.5%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/10/coindesk-20-performance-update-index-drops-7-2-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "LINK",
+            "NEAR",
+            "ETH",
+            "AAVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 Index dropped 7.2% with all 20 assets trading lower, led by significant declines in LINK (-14.3%) and NEAR (-12.5%)."
+    }
+}

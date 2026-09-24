@@ -1,0 +1,38 @@
+{
+    "title": "Polymarket's Customer Data Sought by CFTC Subpoena of Coinbase, Source Says",
+    "summary": "The U.S. Commodity Futures Trading Commission is said to be seeking information about customers' interactions with the prediction market site Polymarket.",
+    "time": "2025-01-09T23:30:00",
+    "author": "Jesse Hamilton",
+    "content": "Coinbase Inc. (COIN) is warning customers that a U.S. regulator is demanding information about interactions with prediction market firm Polymarket, according to a person familiar with the situation, and Coinbase has sent messages to customers saying the exchange may have to share that data.\n\nCopies of the emails shared with some customers have circulated on social-media sites, and those warnings about the U.S. Commodity Futures Trading Commission (CFTC) requests are accurate, the person said. The U.S. derivatives regulator has conducted a drawn-out legal battle with prediction markets firms, and this latest move comes just days before the leadership of the agency will flip from Democratic to Republican when President-elect Donald Trump takes office.\n\n\"When we receive requests for information from a government, each request is carefully reviewed by a team of trained experts using established procedures to determine its legal sufficiency,\" a Coinbase spokesperson said in an emailed statement, though the company declined to confirm receipt of the specific subpoena. \"Where necessary, we will seek to narrow requests that are overly broad or vague in order to provide a more appropriately tailored response, and in some cases we object to producing any information at all.\"\n\nThe CFTC lost an initial case against prediction market firm Kalshi when a U.S. federal judge ruled late last year that the agency couldn't bar the company from listing election contracts. However, the regulator quickly filed an appeal with a higher court, and Polymarket argued in that new legal clash that only Congress can halt election betting.\n\nRead More: U.S. Election Betting: Federal Court 'Erred' in Letting Kalshi Launch Prediction Markets, CFTC Says\n\nNeither the CFTC nor Polymarket immediately responded to a request for comment on the effort to gather customer information.\n\nOn January 20, Trump will reclaim the White House, and he'll be able to appoint a new chairman to replace Rostin Behnam, who has led the CFTC during its lengthy legal dispute with the prediction businesses. The sitting Republican commissioners, Caroline Pham and Summer Mersinger have drawn attention as potential candidates for the open chairmanship, as has former Commissioner Brian Quintenz.",
+    "url": "https://www.coindesk.com/policy/2025/01/09/polymarket-s-customer-data-sought-by-cftc-subpoena-of-coinbase-source-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Rostin Behnam",
+                "Caroline Pham",
+                "Summer Mersinger",
+                "Brian Quintenz"
+            ],
+            "positions": [
+                "President-elect",
+                "chairman",
+                "Republican commissioners",
+                "former Commissioner"
+            ],
+            "companies": [
+                "Coinbase Inc.",
+                "Polymarket",
+                "Kalshi"
+            ],
+            "organizations": [
+                "U.S. Commodity Futures Trading Commission",
+                "CFTC",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CFTC subpoena seeking customer data from Coinbase regarding prediction market interactions represents regulatory pressure that could negatively impact cryptocurrency market confidence."
+    }
+}

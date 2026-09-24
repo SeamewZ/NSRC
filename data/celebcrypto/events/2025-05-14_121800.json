@@ -1,0 +1,25 @@
+{
+    "title": "Surge in XRP, Dogecoin Futures Bets Signals Speculative Froth",
+    "time": "2025-05-14T12:18:00",
+    "author": "Shaurya Malwa",
+    "summary": "Rising open interest despite cooling prices suggests traders are leaning into volatility, or overexposing themselves to risk.",
+    "content": "Speculative bets are piling into XRP and\nDOGE\n$0.1682\nfutures even as spot prices show signs of losing momentum, signaling rising appetite for volatility and downside risk.\n\nIn the past week, DOGE futures open interest surged from $989 million to $1.62 billion, a 63.9% jump, according to data from on-chain analytics firm Glassnode. DOGE is up nearly 40% in the past week and trades just over 23 cents on Wednesday.\n\n“This decoupling suggests persistent speculative positioning, even as price momentum fades — a setup worth monitoring,” Glassnode noted in an X post late Tuesday.\n\nDespite $DOGE pulling back from its recent high, Futures Open Interest continues to rise, up +63.9% over the past week ($989M → $1.62B). This decoupling suggests persistent speculative positioning, even as price momentum fades - a setup worth monitoring: https://t.co/N343pGpptL pic.twitter.com/icOVcqDffA\n\nA similar trend is playing out in XRP, where open interest rose by over $1 billion, or a 41.6% increase over the same period. Unlike DOGE, XRP has seen relatively lower spot gains, rising from around $2.14 to $2.6 in the past week.\n\nBoth cases indicate a broader uptick in derivatives-fueled speculation, particularly in high-beta assets. When open interest rises alongside (or in the absence of) price action, it often reflects traders positioning aggressively for upside.\n\n$XRP Futures Open Interest has surged by over $1B in the past week, rising from $2.42B to $3.42B (+41.6%). This sharp increase in leverage coincides with a price rally from $2.14 to $2.48, suggesting elevated speculative activity and growing directional conviction, pic.twitter.com/QbsaOM9oxE\n\nHowever, this sets the stage for sharper liquidations if sentiment flips, leading to hundreds of millions wiped out in hours as a liquidation event earlier this week showed.\n\nOpen interest tracks the total value of outstanding futures contracts and is widely used as a proxy for speculative activity. When paired with flat or fading price action, rising OI can signal that leverage is outpacing conviction — a pattern that has preceded flash crashes in the past.\n\nEarlier this year, DOGE futures set record highs as some traders speculated on a $1 DOGE in 2025. That narrative has cooled, but the current surge in futures bets indicates that memecoin and XRP exposure remains high-risk, high-reward territory.",
+    "url": "https://www.coindesk.com/markets/2025/05/14/surge-in-xrp-dogecoin-futures-bets-signals-speculative-froth",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "DOGE",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes rising speculative futures bets despite fading price momentum, setting the stage for potential sharp liquidations and flash crashes."
+    }
+}

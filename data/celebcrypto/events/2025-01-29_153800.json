@@ -1,0 +1,37 @@
+{
+    "title": "Institutions Are Primed for MicroStrategy's Preferred Stock Sale, Say Analysts",
+    "time": "2025-01-29T15:38:00",
+    "author": "James Van Straten",
+    "summary": "A \"near perfect\" instrument is how Bitwise's Jeff Park described the new offering.",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of MicroStrategy (MSTR).\n\nTo say that MicroStrategy (MSTR) has been at the lead of creatively raising capital with which to buy massive amounts of bitcoin\nBTC\n$104,608.94\nwould be an understatement. Led by Executive Chairman Michael Saylor, the company this week opened a new front along those lines with its perpetual preferred stock offering (STRK).\n\nPreferred stock sits between equity and debt on the corporate balance sheet, offering investors the regular return of bonds while giving them an ownership stake in a company.\n\nWell-followed MicroStrategy analyst Ben Werkman, posted on X about the attraction preferred stock can offer institutional investors due to its lack of maturity risk, stable yield and optional equity upside.\n\n\"I could see a scenario where [the preferred stock] starts taking some of the convertible bond space for fixed income accumulation due to the lack of any point in time maturity risk,\" said Werkman. \"Preferred stock has the potential to be massively more accretive than any convertible offering has been and definitely more accretive than [share sales].\"\n\nSimilar sentiments came via Jeff Park, head of alpha strategies at Bitwise Investments, who called MSTR's preferred stock offering one of the most compelling securities in the market and a next-generation investment vehicle.\n\n\"STRK is a near-perfect instrument,\" wrote Park. \"It gives you two chances to win: First, when rates go down, it's a huge boon to the principal, and two, if MicroStrategy goes up first, then you have a deep in-the-money (ITM) option to convert and own the higher volatility asset or just directly sell.\"\n\nThe largest of the U.S. preferred stock ETFs is the BlackRock iShares Preferred and Income Securities ETF (PFF), which has roughly $15 billion in assets under management. The largest holders of PFF ETF are major corporations such as Boeing (BA), Wells Fargo (WFC) and Citi Group (C).\n\nThe final pricing terms of the new security are to be completed and announced after the market closes on Thursday.",
+    "url": "https://www.coindesk.com/markets/2025/01/29/institutions-are-primed-for-microstrategy-s-preferred-stock-sale-data-suggests",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Park",
+                "Michael Saylor",
+                "Ben Werkman"
+            ],
+            "positions": [
+                "Executive Chairman",
+                "head of alpha strategies",
+                "analyst"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "Bitwise Investments",
+                "BlackRock iShares",
+                "Boeing",
+                "Wells Fargo",
+                "Citi Group"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Analysts describe MicroStrategy's preferred stock offering as a 'near-perfect instrument' that provides institutional investors with a compelling way to gain exposure to bitcoin through a major corporate buyer."
+    }
+}

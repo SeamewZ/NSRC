@@ -1,0 +1,38 @@
+{
+    "title": "Should Crypto Traders Ignore Eric Trump? Data Suggests His Views Aren't for Short-Term Speculators",
+    "time": "2025-03-10T08:21:00",
+    "author": "Omkar Godbole",
+    "summary": "Eric Trump recently shifted his stance to suggest a long-term holding strategy for crypto assets.",
+    "content": "If you have followed traditional markets, you might have heard the phrase, \"Don't fight the Fed.\" It's been a long guiding principle in conventional markets, suggesting that traders should align their strategies with the Federal Reserve's policy, as the central bank's actions significantly influence the direction of asset markets.\n\nRecently, a variation of that mantra emerged on X after popular altcoin enthusiast Gordon said, \"Never fade Eric Trump,\" referring to positive price action in the wake of Eric Trump's Feb. 25 post encouraging crypto market participants to \"buy the dips.\"\n\nGordon's post came as the total crypto market bounced 11% to $3.09 trillion on March 2, almost reversing the decline seen in the last week of February. The double-digit rise, spurred by President Donald Trump's mention of ADA, XRP, andSOL as candidates of strategic crypto reserve with BTC and ETH as core, validated his son, Eric Trump's, bias for dip buying.\n\nTherefore, retail traders, especially those looking to make quick profits from day trading or short-term trading, may be tempted to strictly follow Eric Trump's posts. However, it's important to reconsider, as data reveals that Eric's tweets are not necessarily profitable for speculators and day traders.\n\nTo start with, the market bounce seen on March 2 was extremely short-lived, as the total crypto market capitalization collapsed to $2.78 trillion on the very next day and slipped further to $2.6 trillion on Sunday.\n\nEric Trump's two other takes published on X since his father Donald Trump took office on Jan. 20 also did little for day traders.\n\nThe first one, dated Feb. 4, said, \"In my opinion, it’s a great time to add ETH.\"\n\nThat day, Ethereum's native token ether traded above $2,700, having recovered from a sudden crash to nearly $2,000 the day before. The quick recovery was reminiscent of the August bottom around the same levels, following which the token's price rose to $4,000 in the subsequent months.\n\nHowever, ether never really picked up a strong bid and has since dropped over 25% to $2,000. Note that the Donald Trump-linked DeFi platform World Liberty Financial reportedly tripled its ether holdings to over $10 million last week, signaling confidence in the cryptocurrency's long-term prospects.\n\nThe same can be said about Eric Trump's view on BTC on Feb. 6, when he posted on X, \"Feels like a great time to enter #BTC, while tagging World Liberty Financial.\"\n\nBack then, BTC traded near $96,000 and has since climbed down to $82,000, a 14.5% slide, according to data source CoinDesk. The decline has been widely linked to macroeconomic concerns, particularly the President's tariffs on imports from China, Mexico and Canada.\n\nThe President, however, has been friendlier to crypto, recently announcing the creation of a strategic BTC reserve that retains coins seized in enforcement actions.\n\nOn March 3, Eric Trump shifted gears to suggest merit in pursuing a long-term holding strategy.\n\n\"Now my advice: HOLD (i.e. Long Term),\" Eric Trump said on X, acknowledging a post by Gordon cheering the market bounce.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/should-crypto-traders-ignore-eric-trump-data-indicates-his-views-aren-t-for-short-term-speculators",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Eric Trump",
+                "Gordon",
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ADA",
+            "XRP",
+            "SOL",
+            "BTC",
+            "ETH",
+            "Ethereum",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news shows that Eric Trump's crypto recommendations led to short-lived price bounces followed by significant declines, with BTC dropping 14.5% and ETH falling over 25% after his endorsements."
+    }
+}

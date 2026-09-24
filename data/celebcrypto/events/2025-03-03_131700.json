@@ -1,0 +1,40 @@
+{
+    "title": "U.S. Crypto Strategic Reserve More Likely, Further Details Needed: Citi",
+    "time": "2025-03-03T13:17:00",
+    "author": "Will Canny",
+    "summary": "The President announced that XRP, SOL, BTC, ETH and ADA would be included in the strategic reserve.",
+    "content": "A U.S. crypto strategic reserve appears more likely after President Trump's announcement over the weekend, Wall Street bank Citi (C) said in a research report on Monday.\n\nThe President announced that XRP, solana\nSOL\n$160.97\nand\nADA\n$0.5425\nwould be included in a strategic reserve, and later added bitcoin\nBTC\n$103,810.99\nand ether\nETH\n$3,483.27\nto the list of assets.\n\n\"The announcement of further plans for the U.S. government potentially to become a strategic holder of digital assets would add to the perceived legitimacy\" of the asset class, wrote analyst Alex Saunders.\n\nCiti noted that the U.S. government currently holds about $19 billion in cryptocurrencies, mainly in bitcoin, versus $750 billion in gold.\n\nThe large majority of the government's holdings from seizures are in bitcoin, which means that is likely that the accumulation of other digital assets would be funded by open-market buys, the report said.\n\nStill, \"selection criteria are not currently clear,\" and pre-announcing such investments can move prices against an investor, the bank said, adding that this happened to the U.K. government with gold in the late 1990s.\n\nAdditional clarity on the selection criteria for which tokens are to be included in the reserve would provide more support, the bank said.\n\nBroker Bernstein said the Federal Reserve could issue debt or sell some of its gold reserves to fund cryptocurrency purchases, in a report last month.\n\nRead more: U.S. Crypto Task Force to Focus on Delivering National Bitcoin Reserve: Bernstein",
+    "url": "https://www.coindesk.com/markets/2025/03/03/u-s-crypto-strategic-reserve-more-likely-further-details-needed-citi",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Saunders",
+                "President Trump"
+            ],
+            "positions": [
+                "President",
+                "analyst"
+            ],
+            "companies": [
+                "Citi",
+                "Bernstein"
+            ],
+            "organizations": [
+                "U.S. government",
+                "Federal Reserve",
+                "U.K. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "BTC",
+            "ETH",
+            "ADA",
+            "bitcoin",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The announcement of the U.S. government potentially becoming a strategic holder of digital assets would add to the perceived legitimacy of the asset class according to Citi's analysis."
+    }
+}

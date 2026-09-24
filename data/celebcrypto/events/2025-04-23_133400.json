@@ -1,0 +1,33 @@
+{
+    "title": "Riot Platforms Secures $100M Bitcoin-Backed Credit Line From Coinbase",
+    "summary": "The funds will be used for strategic initiatives and general corporate purposes, and cash drawn from the line will carry at least a 7.75% interest rate.",
+    "time": "2025-04-23T13:34:00",
+    "author": "Francisco Rodrigues",
+    "content": "Bitcoin\nBTC\n$101,998.62\nminer Riot Platforms (RIOT) has struck a $100 million credit agreement with Coinbase’s credit arm, using bitcoin as collateral to secure short-term funding for its ongoing expansion.\n\nThe publicly traded mining firm said in a press release it would draw on the facility over the next two months. The deal offers Riot, which currently holds 19,223 BTC worth over $1.8 billion, a line of credit that avoids issuing new shares.\n\n“This credit facility is a key part of our efforts to diversify sources of financing to support our operations and strategic growth initiatives, with a view towards long-term stockholder value creation,” said CEO Jason Les in a statement.\n\nThe loan, issued by Coinbase Credit, comes with a variable interest rate: borrowers will pay at least 7.75% annually, calculated as the greater of 3.25% or the federal funds rate upper bound, plus 4.5%. The loan term is 364 days, though Riot may seek a one-year extension if Coinbase agrees to it.\n\nThe credit facility is secured by a portion of Riot’s total bitcoin reserves. The firm said it will use the funds “to pursue key strategic initiatives and for general corporate purposes.”\n\nCoinbase has been making other similar deals. Just last week, healthcare technology firm Semler Scientific (SMLR) announced it reached an agreement with Coinbase to borrow cash via a loan secured by its bitcoin holdings.\n\nHut 8 (HUT), another bitcoin miner, has also leveraged a bitcoin-backed credit facility with Coinbase in the past.",
+    "url": "https://www.coindesk.com/markets/2025/04/23/riot-platforms-secures-usd100m-bitcoin-backed-credit-line-from-coinbase",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jason Les"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Riot Platforms",
+                "Coinbase",
+                "Semler Scientific",
+                "Hut 8"
+            ],
+            "organizations": [
+                "Coinbase Credit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major bitcoin-backed credit facility between established companies, indicating institutional confidence in bitcoin as collateral and supporting market expansion."
+    }
+}

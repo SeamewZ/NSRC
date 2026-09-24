@@ -1,0 +1,30 @@
+{
+    "title": "Story Protocol Launches to Let People Register IP and Get Paid for It",
+    "summary": "Story protocol is an intellectual property blockchain backed by Andreessen Horowitz (a16z).",
+    "time": "2025-02-13T22:27:00",
+    "author": "Sam Kessler",
+    "content": "Story Protocol launched its intellectual property-focused blockchain and associated IP token on Thursday.\n\nThe blockchain is positioned as the \"world's intellectual property network,\" providing users with a way to register their IP and track how others use it. The aptly named \"$IP\" token, which Story announced last week, is used for transaction fees and offers users a vote in the platform's governance system.\n\n\"Story is creating a new standard for IP, making the $61 trillion asset class programmable so IP is tracked, protected, and monetized, allowing everyone to see the upside,\" the project said in a statement shared with CoinDesk.\n\nSo far, the idea seems to have had legs — at least with investors. PIP Labs, the chain's primary developer, raised $80 million in a Series B venture funding round led by Andreessen Horowitz (a16z), bringing the project's total funding to $140 million.\n\nPIP has sought to position Story at the intersection of blockchain and artificial intelligence, a way for people to track and get paid for data used to train AI models.\n\n\"Without great original IP, the AI models don’t develop,\" PIP Labs co-founder and CEO SY Lee told CoinDesk. Today, AI is \"taking, stealing all your data without your consent,\" he said.\n\nThe Story mainnet launch accompanies the first unlock event for the just-announced IP token. \"Story is unlocking 25% of the initial 1 billion $IP, with 58.4% devoted to the ecosystem and community, foundation, and initial incentives,\" according to the project.",
+    "url": "https://www.coindesk.com/tech/2025/02/13/story-protocol-launches-to-let-people-to-register-ip-and-get-paid-for-it",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "SY Lee"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "PIP Labs",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Andreessen Horowitz (a16z)"
+            ]
+        },
+        "cryptocurrencies": [
+            "$IP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a successful $80 million funding round and mainnet launch for a new blockchain project focused on intellectual property, indicating strong investor confidence and market expansion."
+    }
+}

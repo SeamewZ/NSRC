@@ -1,0 +1,44 @@
+{
+    "title": "DoubleZero's 'New Internet' for Blockchains Nabs $400M Valuation from Top Crypto VCs",
+    "time": "2025-03-05T22:41:00",
+    "author": "Danny Nelson",
+    "summary": "The communications startup is coordinating a global network of fiber optic cables.",
+    "content": "DoubleZero Foundation, a startup building a “new internet” to improve blockchain performance, raised $28 million at a $400 million valuation, according to three people familiar with the matter, and is now searching for “strategic partners” to invest more at $600 million.\n\nDragonfly and Multicoin Capital lead the initial funding round, two of the people said. The subsequent strategic round hasn’t yet closed, said one insider. Venture capital firms have been jockeying hard for whatever allocation they could get, another said.\n\nDoubleZero declined to comment.\n\nNabbing such a lofty valuation in an early round is uncommon but not unheard of for crypto companies pitching transformative systems. For DoubleZero’s part, its vision is to amass a global network of private fiber optic cables, and then harness them so that blockchains can transmit their data more efficiently than possible on the public internet.\n\nIts motto – “Increase bandwidth, Reduce Latency” or IBRL – proliferated through the Solana community even before DoubleZero debuted its white paper in December. The project is seen as an enabling technology for Solana’s grander plans to process one million transactions per second.\n\nDoubleZero is opening its permissioned testnet to Solana validators and RPCs, with plans to expand to other chains down the line, a source familiar said. Its network of fiber optic cables taps into private line operated by Jump Crypto, RockawayX, Distributed Global, Latitude and Teraswitch, and is accepting more contributors.\n\nAt Solana's Breakpoint conference in September, Jump Crypto's Firedancer team demonstrated its superfast Solana client running at breakneck speed. What they didn't tell the crowd at the time was the participating validators were running on DoubleZero infrastructure\n\nDoubleZero Foundation's President Austin Federa was the former head of strategy at Solana Foundation. Its other co-founders, Andrew McConnell and Mateo Ward, are in charge of the project’s core contributor company, Malbec Labs. Jump Crypto is also a core contributor, additionally pitching early bandwidth to the network.\n\nFedera has jokingly referred to DoubleZero as “crypto’s first infrastructure project” because of its massive reliance on hardware: fiber optic cables across land and sea. Instead of buying or building that pricey infrastructure, DoubleZero will rely on independent communications businesses willing to monetize their underutilized wares.\n\nThe whole thing is reminiscent of Wall Street’s speed war, where trading firms spent big money on specialty fiber optic lines to shave precious milliseconds from their orders.\n\nIn an explainer blog, the infrastructure company Helius likened DoubleZero’s preferred data pipes to a private car service, and the open internet to an Uber. Both will ultimately get you where you’re going. But the private car will do so faster, and more predictably.\n\n“I think the Solana community has very resoundingly said, ‘We would like to exceed what’s possible on the public internet,’” Federa said on a recent X Spaces, although he said DoubleZero is “completely compatible” with any blockchain.\n\nHe likened the system to high frequency trading firms’ dedicated fiber lines. \"We’re just getting to the point where blockchains are fast enough to make use of that.”",
+    "url": "https://www.coindesk.com/business/2025/03/05/doublezero-internet-400-million",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Austin Federa",
+                "Andrew McConnell",
+                "Mateo Ward"
+            ],
+            "positions": [
+                "President",
+                "former head of strategy",
+                "co-founders",
+                "core contributor"
+            ],
+            "companies": [
+                "DoubleZero Foundation",
+                "Dragonfly",
+                "Multicoin Capital",
+                "Jump Crypto",
+                "RockawayX",
+                "Distributed Global",
+                "Latitude",
+                "Teraswitch",
+                "Malbec Labs",
+                "Helius"
+            ],
+            "organizations": [
+                "Solana Foundation",
+                "Solana community"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant venture capital investment, high valuation, and infrastructure development aimed at improving blockchain performance, indicating market confidence and positive momentum."
+    }
+}

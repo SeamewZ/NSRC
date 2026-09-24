@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin's Bull Market Cycle Is Over, CryptoQuant's Ki Young Ju Says",
+    "time": "2025-03-18T06:48:00",
+    "author": "Sam Reynolds",
+    "summary": "CryptoQuant's founder is concerned about liquidity drying up.",
+    "content": "The Bitcoin\nBTC\n$104,590.06\nbull market is over, according to crypto research firm CryptoQuant's founder Ki Young Ju.\n\n#Bitcoin bull cycle is over, expecting 6–12 months of bearish or sideways price action. pic.twitter.com/f80bnNhjy4\n\nJu posted on X that he is expecting 6-12 months of bearish or sideways price action as the BTC bull run loses steam, citing declining liquidity in the market.\n\n\"New liquidity is needed. The on-chain realized cap has stalled, signaling no fresh capital inflows. For example, BlackRock’s IBIT saw three straight weeks of outflows,\" he said in a Telegram note to CoinDesk. \"Even with record volume near $100K, Bitcoin’s price barely moved. Without new liquidity to offset heavy selling, this is a bearish signal.\"\n\nA recent report from CryptoQuant made the case for the possibility of BTC's return to the $63K mark, citing bearish signals from key valuation metrics like the MVRV Ratio Z-score, which compares bitcoin’s market value (MV) to its realized value (RV) to identify overbought or oversold conditions.\n\nThe MVRV Z-score dropping below its 365-day moving average signals that BTC's price momentum has weakened, historically aligning with deeper corrections or the onset of bear markets.\n\nThe $75K-$78K support level is critical, CryptoQuant analysts noted, as weakening BTC demand, marked by slowing whale accumulation and net selling by U.S.-based spot ETFs, continues to add downward pressure, increasing the risk of a deeper price correction.\n\nThis echoes what LMAX Group's Joel Kruger and Coinbase Institutional's David Duong recently told CoinDesk, with both warning that sustained weakness in U.S. equities amid economic uncertainty and global tensions could exacerbate bearish pressure on crypto markets, with stagflation also a possibility.\n\nPolymarket bettors are giving a 51% chance that BTC ends the week between the $81-$87K range, and a 31% chance it hits $75K by the end of the month.\n\nIn the last month, bitcoin is down 15%, according to CoinDesk Indices data, with its decline erasing any post-election gains.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/cryptoquant-s-ki-young-ju-says-btc-bull-market-cycle-is-over",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ki Young Ju",
+                "Joel Kruger",
+                "David Duong"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "CryptoQuant",
+                "BlackRock",
+                "LMAX Group",
+                "Coinbase Institutional",
+                "Polymarket"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news content consistently describes declining liquidity, bearish signals from key metrics, weakening BTC demand, and expectations of 6-12 months of bearish or sideways price action."
+    }
+}

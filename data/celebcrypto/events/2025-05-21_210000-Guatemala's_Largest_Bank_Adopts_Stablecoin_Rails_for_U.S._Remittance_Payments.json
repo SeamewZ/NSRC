@@ -1,0 +1,28 @@
+{
+    "title": "Guatemala's Largest Bank Adopts Stablecoin Rails for U.S. Remittance Payments",
+    "time": "2025-05-21T13:00:00",
+    "author": "Jamie Crawley",
+    "summary": "SukuPay will allow Guatemalans to receive funds from the U.S. for a flat 99 cent fee, using only a phone number within their Banco Industrial mobile app Zigi.",
+    "content": "Guatemala's largest bank, Banco Industrial, has adopted blockchain firm SukuPay's stablecoin rails for customers to send remittances from the U.S.\n\nSukuPay will allow Guatemalans to receive funds from the U.S. for a flat 99 cent fee using only a phone number within their Banco Industrial mobile app Zigi, according to an emailed announcement on Wednesday.\n\n\"This integration marks the first time a crypto-native protocol has gone live at this depth inside a top-tier Latin American retail bank,\" SukuPay said in the announcement.\n\nSukuPay's developer Suku unveiled the payment tool in April 2024 as a way of allowing cross-border money transfers without the need to create a crypto wallet. It is built on Ethereum scaling network Polygon and uses the USDC stablecoin.\n\nStablecoins, now a nearly $230 billion asset class, are one of crypto’s most practical success stories. Pegged to fiat currencies like the U.S. dollar, they’ve become popular tools for payments, remittances and savings—especially in developing countries where banking access is limited or local currencies are volatile.\n\nSukuPay’s integration into Banco Industrial underlines the trend how blockchain-based rails are quietly entering the financial mainstream, not as investment vehicles but as invisible plumbing for real-world money movement.\n\nRemittances to Guatemala number around $21 billion annually, which is nearly 20% of the country's GDP.\n\nOnly 35% of Guatemalan adults had access to formal bank accounts as of 2022, according to the World Bank's Findex Data, making it a prime market for tools that can improve financial inclusion.",
+    "url": "https://www.coindesk.com/business/2025/05/21/guatemalas-largest-bank-adopts-stablecoin-rails-for-us-remittance-payments",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Banco Industrial",
+                "SukuPay",
+                "Suku"
+            ],
+            "organizations": [
+                "World Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "Polygon"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of stablecoin rails by Guatemala's largest bank for remittance payments demonstrates mainstream adoption and practical utility of cryptocurrency technology."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Coinbase’s Base Network Achieves ‘Stage 1’ Status, Reducing Centralization Risk",
+    "summary": "The move means that Base will now have a security council which will help approve certain network upgrades if needed.",
+    "time": "2025-04-29T16:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Base, the popular layer-2 network from cryptocurrency exchange Coinbase (COIN), is now a “stage 1” rollup, said the company, setting up its path towards full decentralization.\n\nThe transition to a “stage 1” rollup comes as other layer-2s have also reached that milestone, making these networks less reliant on centralized entities.\n\nThe move means that Base will now have a security council, a network of ten “independent entities, which we chose from all around the globe,” said Tom Vieira, the head of product at Base, in an interview with CoinDesk. “These are folks from the Base ecosystem and from the broader Ethereum ecosystem,” who will help approve certain network upgrades if needed, Vieira added.\n\nIn addition, fault proofs are permissionless now on Base, meaning anyone can verify or check the state of transactions from the network without relying on a central entity.\n\nAchieving the so-called stage 1 rollup status stems from a blog post from Ethereum co-founder Vitalik Buterin, where he categorized platforms according to their degree of decentralization, with stage 1 relying on certain guardrails or \"limited training wheels”, and sacrificing on certain elements of decentralization for security and speed.\n\nButerin originally shared this framework in 2022 when rollups started becoming more popular. A few years later, he expressed his concerns around their security, so he wrote on X that he would only publicly talk about a layer-2 network if it had reached (at least) stage 1.\n\nBase was launched by centralized exchange Coinbase in August 2022, and since then has become the largest rollup, according to L2Beat, with $11.72 billion locked in the protocol. Now, the largest layer-2 network will be less reliant on Coinbase itself.\n\nRead more: Coinbase’s Layer 2 System Base Gets a Marketplace Linked to Gas Revenue",
+    "url": "https://www.coindesk.com/tech/2025/04/29/coinbases-base-network-achieves-stage-1-status-reducing-centralization-risk",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tom Vieira",
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "head of product at Base"
+            ],
+            "companies": [
+                "Coinbase",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Base",
+                "Ethereum",
+                "L2Beat"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Base achieving 'Stage 1' status which reduces centralization risk and increases decentralization, representing positive network development that typically boosts market confidence."
+    }
+}

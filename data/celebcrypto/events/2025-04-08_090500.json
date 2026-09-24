@@ -1,0 +1,40 @@
+{
+    "title": "The All-Important U.S. 10-Year Yield Is Moving in the Wrong Direction for Trump",
+    "time": "2025-04-08T09:05:00",
+    "author": "James Van Straten",
+    "summary": "One of the most volatile trading sessions since March 2020 exposed deep cracks in the global financial system—foreign selling of U.S. Treasury notes is questioned.",
+    "content": "Monday’s trading session will go down as one of the most volatile since the COVID crash in March 2020, with global markets caught in the crossfire as the U.S. and China face off over tariffs and neither superpower shows any impulse to back down.\n\nAs equity markets teetered, the volatility spilled into every asset class. Bitcoin (BTC), for example, swung as much as 10% intraday. The real focus, however, is on the U.S. 10-year Treasury yield. That's the so-called risk-free interest rate, which the Trump administration said it wants to lower as it looks to refinance trillions in national debt.\n\nThe yield dropped to 3.9% from 4.8% late last week after President Donald Trump bolstered trade tensions with sweeping import tariffs, boosting demand for the Treasury notes.\n\nBond prices typically rise, sending yields lower, when Wall Street turns risk averse. Unusually, as the risk-aversion increased on Monday, yields turned higher, jumping to 4.22%.\n\nThis spike wasn’t confined to the U.S. The U.K. experienced its sharpest rate jump since the Liz Truss-era pension crisis in October 2022, and yields rose globally, signaling growing instability and diminishing confidence in sovereign debt and currencies.\n\nOle S Hansen, the head of commodity strategy at Saxobank, pointed to the scale of the move in long-dated Treasuries as a sign of something deeper potentially unfolding.\n\n“U.S. Treasuries suffered a massive sell-off yesterday, with long yields rising the most since the turbulence during the pandemic outbreak—a possible sign of large holders of Treasuries, such as foreign holders, selling and repatriating their assets,\" Hansen said in a post on X. \"The 30-year U.S. Treasury benchmark rose from lows near 4.30% to as high as 4.65% yesterday, while the 10-year benchmark lifted back to 4.17% from a low near 3.85% the prior day.”\n\nWhile Hansen pointed fingers at foreign selling, especially China, which is said to have offloaded $50 billion in Treasuries, Jim Bianco, president of Bianco Research, challenged that narrative.\n\n“No, foreigners were not selling Treasuries to punish the U.S. (Trump),” he wrote, pointing instead to a sharp rally in the Dollar Index (DXY), which climbed 2.2% in just three days.\n\n“If China or other foreigners were selling Treasuries ... they would have to convert those dollars to a foreign currency. Otherwise, selling Treasuries and leaving the money in dollars in a U.S. bank is pointless. If they sold enough Treasuries to swing yields ... the subsequent selling of dollars ... would have driven down the dollar. Instead, it rallied more than usual.\n\n“This suggests that foreign money was moving into the U.S., not away from it ... the selling was more domestic and more concerned about inflation.”\n\nDespite these views, unconfirmed reports about China's sales continue to circulate. As of January 2025, China still held approximately $761 billion in U.S. government debt, the largest owner after Japan.\n\nThe narrative that the 10-year and 30-year yields surged on Chinese is unconvincing because most of the official Chinese investments in dollar-denominated assets are not in longer duration instruments, but agency bonds, shorter-term bills and bank deposits.\n\nThere is a perception China can gain leverage in the trade war through its holdings of U.S. Treasury notes. That's not necessarily true.\n\nAs the economist and author of \"The Great Rebalancing: Trade, Conflict, and the Perilous Road Ahead for the World Economy\" Michael Pettis has long argued, China's holdings of U.S. Treasury bonds are directly linked to its current account surplus and it cannot weaponize these holdings against the U.S.\n\nIt's no surprise that China has been lightening up its Treasury investments since 2013 with its current account surplus peaking during the 2008 crash.",
+    "url": "https://www.coindesk.com/markets/2025/04/08/the-all-important-u-s-10-year-yield-is-moving-in-the-wrong-direction-for-trump",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Ole S Hansen",
+                "Jim Bianco",
+                "Michael Pettis",
+                "Liz Truss"
+            ],
+            "positions": [
+                "President",
+                "head of commodity strategy",
+                "president",
+                "economist and author"
+            ],
+            "companies": [
+                "Saxobank",
+                "Bianco Research"
+            ],
+            "organizations": [
+                "Trump administration",
+                "U.S. Treasury",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin swung as much as 10% intraday during volatile trading sessions that exposed deep cracks in the global financial system and rising risk aversion."
+    }
+}

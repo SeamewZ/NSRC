@@ -1,0 +1,35 @@
+{
+    "title": "Creator of Controversial LIBRA Memecoin Introduced MELANIA, Says He Sniped Both Tokens",
+    "time": "2025-02-18T06:32:00",
+    "author": "Oliver Knight",
+    "summary": "Hayden Davis said he refunded $5 million to Dave Portnoy who lost money on LIBRA.",
+    "content": "Kelsier CEO Hayden Davis, the brains behind the controversial LIBRA memecoin, said he also launched the MELANIA memecoin and that his team sniped both tokens as soon as the contract addresses went live.\n\nLIBRA was released on Friday, sparking a now-deleted tweet of support from Argentina's President Javier Milei saying it would support small and mid-sized businesses in the country. His backtracking on the project prompted a 95% plunge in the token's value.\n\nSniping is when people use bots to buy memecoins seconds after the smart contract goes live. Wallets that snipe funds are often those that end up with the majority of profit.\n\nThe token was \"not a rug pull,\" Davis insisted in an interview with crypto scam hunter Coffeezilla. \"It's just a plan gone miserably wrong with $100 million sitting in an account that I'm the custodian of.\"\n\nIt turns out this isn't Davis' first rodeo. He also had a part in launching the MELANIA memecoin linked to U.S. First Lady Melania Trump.\n\n\"I'm happy to share the truth. You're asking a question that's going to put me in a lot of danger, but I'll answer it,\" Davis said when questioned about MELANIA. \"I was part of it. I think the team did want to snipe it because how big the snipe was on Trump's [memecoin]. We definitely weren't the big sniper. There was no money made from the MELANIA team, we didn't take any liquidity out, zero.\"\n\nDavis appeared to contradict himself shortly after being confronted with on-chain data: \"We didn't swap liquidity [but] I didn't say there was no money sold. There's a difference between swapping liquidity and selling liquidations.\"\n\nMELANIA is currently trading at a $625 million market cap after debuting at $2.1 billion on Jan. 20.\n\nThe controversy surrounding LIBRA continued as Davis sent Barstool Sports founder Dave Portnoy a $5 million a refund after Portnoy lost money on LIBRA.\n\nIn a conversation with Coffeezilla, Portnoy said that he knew about the project for weeks before the launch and that he purchased the tokens 10 minutes after Milei's tweet.\n\nThat Portnoy knew LIBRA so early and that he received a refund afterwards raises the specter of insider trading. But Davis dismissed that idea.\n\n\"The idea of insiders is always bullshit because every memecoin I've ever known or invested in or been a part of, the people that benefit are the people that know ... people that structure the deal.\n\n\"[It's] similar to any other business in the world. So I think that's a bit of bullshit and that's just crypto people that are angry because there's an unfair advantage.\"\n\nCoinDesk contacted Davis and Portnoy for comment, but had not heard back by publication time.",
+    "url": "https://www.coindesk.com/business/2025/02/17/javier-milei-memecoin-creator-also-launched-melania-admits-to-sniping-tokens",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Hayden Davis",
+                "Dave Portnoy",
+                "Javier Milei",
+                "Melania Trump"
+            ],
+            "positions": [
+                "CEO",
+                "President",
+                "First Lady",
+                "founder"
+            ],
+            "companies": [
+                "Kelsier",
+                "Barstool Sports"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "LIBRA",
+            "MELANIA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a 95% plunge in LIBRA's value, allegations of token sniping, and refunds being issued due to losses, indicating negative market consequences."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Untangled Finance Brings Moody's Credit Scores On-Chain",
+    "summary": "A proof-of-concept demonstrated the feasibility of bringing Moody’s credit rating information into Untangled Finance’s risk oracle infrastructure.",
+    "time": "2025-03-19T05:12:00",
+    "author": "Sam Reynolds",
+    "content": "Untangled Finance and Moody’s Ratings have completed a Proof of Concept to move credit ratings on-chain by testing a system to allow for decentralized access to Moody's financial data.\n\nThe proof-of-concept, conducted on the Polygon Amoy Testnet, integrated Moody’s Ratings into Credio, Untangled Finance’s risk oracle. Using zero-knowledge proof (ZKP) technology, the system allowed credit ratings to be securely published, updated, and withdrawn on-chain while protecting proprietary information.\n\n“Our oracle solution ensures real-time data visibility and immutability while preserving privacy,” said Manrui Tang, co-founder of Untangled Finance, in a release.\n\nBringing credit ratings on-chain could make risk assessment more transparent and efficient, allowing DeFi protocols and other blockchain-based applications to integrate real-time credit data without reliance on centralized intermediaries.\n\nThis follows Untangled Finance's 2024 move to launch a $6 million private credit pool on Celo, as CoinDesk previously reported, which allowed accredited investors to lend USDC under Luxembourg securitization rules.",
+    "url": "https://www.coindesk.com/tech/2025/03/19/untangled-finance-brings-moody-s-credit-scores-on-chain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Manrui Tang"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Untangled Finance",
+                "Moody's Ratings",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Polygon Amoy Testnet",
+                "Celo",
+                "Luxembourg securitization"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of Moody's credit ratings on-chain through zero-knowledge proof technology enhances transparency and efficiency in DeFi risk assessment, which is positive for cryptocurrency market adoption and infrastructure development."
+    }
+}

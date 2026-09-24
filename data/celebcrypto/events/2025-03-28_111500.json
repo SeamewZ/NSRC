@@ -1,0 +1,42 @@
+{
+    "title": "Crypto Daybook Americas: Altcoins Slide, Gold Shines as Trump Tariffs Spur Flight to Safety",
+    "time": "2025-03-28T11:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for March 28, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nThe crypto market is extending yesterday's slide as investors anticipate the impact of President Donald Trump’s reciprocal tariffs, set to come into effect on April 2, and key macroeconomic data due later Friday.\n\nBitcoin\nBTC\n$104,850.17\nhas lost 2.5% in the past 24 hours, which seems pretty staid when compared with an almost 6% in slide in ether\nETH\n$3,515.90\n, 5.5% in XRP and 7% in\nDOGE\n$0.1646\n. The broader CoinDesk 20 Index (CD20) dropped 4.65%. Gold, in contrast, hit new highs.\n\nThe growing exposure to gold has benefited tokens backed by the precious metal, which CoinDesk Data’s latest stablecoin report shows climbed to a $1.4 billion market capitalization in March.\n\nIt seems clear traders are moving to reduce risk exposure with one eye on the U.S. personal consumption expenditure (PCE) report set to be released later. That data could influence Federal Reserve interest rate decisions and thus any appetite for risk going forward.\n\nBitcoin traders are also anticipating a record-breaking $12.2 billion in BTC options expiring on Deribit today, with a max pain point at $85,000. Implied volatility, however, remains near annual lows as the expiry isn’t likely to move the market, according to Wintermute OTC trader Jake O.\n\n“These expirations are yet to consistently move markets, largely because BTC options open interest remains small relative to spot activity,\" Jake O. said in an emailed statement. \"That $12B is dwarfed by $28B in spot volume traded over the past 24 hours.”\n\nWhile the derisking trend grows, spot bitcoin exchange-traded funds (ETFs) have seen consistent inflows since mid-March, adding in nearly $1 billion over the past two weeks. In contrast, spot ether ETF outflows have remained persistent, with around $115 million exiting these funds over the same period.\n\nLooking ahead, money managers are likely to keep on reducing risk exposure. The trend spurred Goldman Sachs to raise its gold price target for the year to $3,300 per troy ounce, with the potential to rise to $4,500 in an “extreme tail scenario.” Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/03/28/crypto-daybook-americas-altcoins-slide-gold-shines-as-trump-tariffs-spur-flight-to-safety",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francisco Rodrigues",
+                "Donald Trump",
+                "Jake O.",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President",
+                "Wintermute OTC trader"
+            ],
+            "companies": [
+                "Goldman Sachs",
+                "Deribit",
+                "Wintermute",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrency prices sliding across the board with Bitcoin down 2.5%, ether down 6%, XRP down 5.5%, and DOGE down 7% as investors reduce risk exposure due to Trump's tariffs and economic uncertainty."
+    }
+}

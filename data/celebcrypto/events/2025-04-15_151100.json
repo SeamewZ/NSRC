@@ -1,0 +1,31 @@
+{
+    "title": "Applied Digital Tumbles 30% on Revenue Miss; Plans Selling Cloud Computing Unit",
+    "summary": "The Texas company, which pivoted from crypto mining to high-performance computing, said it will sell its cloud computing business to struggling cloud computing business.",
+    "time": "2025-04-15T15:11:00",
+    "author": "Krisztian Sandor",
+    "content": "Shares of Applied Digital (APLD), a Texas bitcoin mining and data center firm, dropped sharply on Tuesday after the digital infrastructure provider reported quarterly results that fell short of Wall Street expectations.\n\nThe company, which has pivoted from its crypto mining roots to focus on high-performance computing (HPC) and AI-focused data centers, reported revenue of $52.9 million for the quarter ending February 28, 2025—a 22% increase from a year earlier, but well below analysts' consensus estimate of $64.5 million, a nearly 18% miss.\n\nDespite the top-line miss, Applied Digital reported a non-GAAP net loss of $0.08 per share, beating analysts' expectations of a $0.10 per-share loss. However, adjusted EBITDA came in at $10 million, a 41% miss compared to the expected $16.9 million, signaling continued margin pressure amid heavy infrastructure investments.\n\nAPLD shares plunged as much as 30% from the Monday close, and were trading around $3.90 in the early hours of the session.\n\nA significant drag came from the company's Cloud Services unit, which posted a sharp sequential revenue decline of 36%, falling from $27.7 million in the prior quarter to $17.8 million. Applied Digital attributed the drop to a shift from single-tenant contracts to a multi-tenant, on-demand GPU model—a transition that faced initial technical challenges.\n\nNotably, the company's board of directors approved on April 10 a plan to sell the Cloud Services business entirely, aiming to refocus on its core HPC data center operations and potentially position itself as a real estate investment trust (REIT) in the future.\n\n“We believe separating the Cloud Services business from our data center operations better serves the long-term interests of our shareholders,” said CEO Wes Cummins on the company’s earnings call.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/applied-digital-tumbles-30-on-revenue-miss-plans-sale-of-cloud-computing-unit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Wes Cummins"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Applied Digital",
+                "APLD",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports Applied Digital's sharp 30% stock plunge, revenue miss, and strategic retreat from cloud computing, indicating negative market sentiment toward crypto-related infrastructure companies."
+    }
+}

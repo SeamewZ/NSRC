@@ -1,0 +1,33 @@
+{
+    "title": "U.S. Appeals Court (Mostly) Affirms 2023 Ruling Tossing Out Uniswap Class Action Suit",
+    "summary": "Only the state law claims will get another shot.",
+    "time": "2025-02-26T19:46:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Court of Appeals for the Second Circuit issued a ruling on Wednesday largely agreeing with a lower court’s 2023 decision to toss out a class action suit against decentralized exchange Uniswap.\n\nA group of investors originally sued Uniswap Labs, the company behind the decentralized protocol of the same name, and some of its venture capital investors in 2022, alleging that the company was responsible for harming investors by allowing scam tokens to be issued on its protocol.\n\nDistrict Court Judge Katherine Polk Failla of the Southern District of New York (SDNY) sided with Uniswap in 2023 and scrapped the suit before it went to trial, likening the plaintiffs’ arguments to “a suit attempting to hold an application like Venmo or Zelle liable for a drug deal that used the platform to facilitate a fund transfer.”\n\nPlaintiffs appealed Failla’s ruling in September 2023, but were largely shut down by the fresh decision from the Second Circuit on Wednesday. The Second Circuit judges affirmed Failla’s decision to throw out the plaintiffs' claims under both the Securities Act and the Exchange Act, writing:\n\n“In sum, we agree with the district court that it 'defies logic' that a drafter of a smart contract, a computer code, could be held liable under the Exchange Act for a third party user’s misuse of the platform,” the filing read.\n\nThe only part of Failla’s ruling that was vacated and remanded back to a district court – meaning the lower court will hear this sliver of the the plaintiffs’ case again – were the state law claims, which essentially seek to try similar allegations under state, rather than federal law, in New York, North Carolina and Idaho.\n\nThe ruling is a win for Uniswap, fresh off the heels of Tuesday's announcement that the U.S. Securities and Exchange Commission (SEC) would drop its investigation into the decentralized exchange which, under former SEC Chairman Gary Gensler, was being probed for allegedly operating as an unregistered securities broker and unregistered securities exchange, as well as issuing an unregistered security.\n\nRead more: SEC Drops Investigation Into Uniswap, Will Not File Enforcement Action",
+    "url": "https://www.coindesk.com/policy/2025/02/26/u-s-appeals-court-mostly-affirms-2023-ruling-tossing-out-uniswap-class-action-suit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Katherine Polk Failla",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "District Court Judge",
+                "SEC Chairman"
+            ],
+            "companies": [
+                "Uniswap Labs",
+                "Venmo",
+                "Zelle"
+            ],
+            "organizations": [
+                "U.S. Court of Appeals for the Second Circuit",
+                "Southern District of New York (SDNY)",
+                "U.S. Securities and Exchange Commission (SEC)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The court ruling largely favoring Uniswap and the SEC dropping its investigation represent positive regulatory developments that boost market confidence in decentralized exchanges."
+    }
+}

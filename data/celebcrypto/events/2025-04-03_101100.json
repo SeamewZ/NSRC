@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin’s Hash Rate Hits Record High, Yet Price and Activity Tell Another Story",
+    "time": "2025-04-03T10:11:00",
+    "author": "James Van Straten",
+    "summary": "Despite a record-breaking hash rate, low transaction fees and empty blocks raise concerns about bitcoin’s long-term sustainability.",
+    "content": "Bitcoin blockchain's hashrate is surging, revealing a growing dislocation between the network activity and prices for its native token bitcoin\nBTC\n$104,046.65\n.\n\nOn a 14-day moving average, the hashrate, representing the computational power required to mine a block on the proof-of-work Bitcoin blockchain, recently reached an all-time high of 838 exahashes per second (EH/s), and on a 24-hour time frame, it spiked to 974 EH/s, the second highest level ever, according to Glassnode data.\n\nMeasuring over a 24-hour window can be misleading due to block time variability, so longer timeframes give more reliable insights. In two days, Bitcoin’s difficulty adjustment — which recalibrates every 2016 blocks to maintain a 10-minute block interval — is expected to increase by over 3%, reaching a new peak.\n\nThis divergence between hash rate and price is notable. While bitcoin remains about 25% below its all-time high, mining costs continue to rise. For miners to stay profitable and cover operational expenses and capital expenditures, a strong bitcoin price, full blocks and high transaction fees are essential.\n\nCurrently, miners earn revenue through two channels: block rewards (3.125 BTC per block in the current epoch) and transaction fees. However, transaction fees are extremely low — averaging around 4 BTC per day, or roughly $377,634. As bitcoin’s block subsidy continues to halve every four years, sustained or increasing transaction activity will be critical to maintaining mining incentives.\n\nDeveloper Mononaut, from Mempool, recently noted that Foundry USA Pool mined the emptiest \"non-empty\" block in over two years, containing just seven transactions — a rarity only surpassed by a block with four transactions back in January 2023.\n\nIn other words, while the rising hashrate paints a picture of a booming network, the near-empty blocks make it the case of a powerful train speeding down the tracks but without passengers.\n\nThat's a cause for concern for Nicolas Gregory, creator of the Mercury Layer and a former Nasdaq Board Director.\n\n“Half-empty bitcoin blocks tell a tale — hawking the store-of-value line could scupper its future,\" Gregory said on X.\n\n\"I hope bitcoiners realize this space is more than just podcasts, spaces, and the ‘number go up’ digital gold narrative. If we don’t get people using bitcoin for real commerce, it’s game over,\" Gregory added.",
+    "url": "https://www.coindesk.com/markets/2025/04/03/bitcoin-s-hash-rate-hits-record-high-yet-price-and-activity-tell-another-story",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mononaut",
+                "Nicolas Gregory"
+            ],
+            "positions": [
+                "Developer",
+                "creator of the Mercury Layer",
+                "former Nasdaq Board Director"
+            ],
+            "companies": [
+                "Foundry USA Pool"
+            ],
+            "organizations": [
+                "Glassnode",
+                "Mempool"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights concerns about bitcoin's long-term sustainability due to low transaction fees, empty blocks, and the divergence between rising hash rate and price, with experts warning about negative implications for the network's future."
+    }
+}

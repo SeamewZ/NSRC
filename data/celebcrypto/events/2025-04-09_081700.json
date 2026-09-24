@@ -1,0 +1,40 @@
+{
+    "title": "Kalshi Will Win Battle With Nevada: Crypto Attorney",
+    "summary": "Kalshi's fight with Nevada is a question of federalism, and the language of the Commodities Exchange Act (CEA) is clearly in its favor says crypto attorney Aaron Brogan.",
+    "time": "2025-04-09T08:17:00",
+    "author": "Sam Reynolds",
+    "content": "The American legal tradition of federalism, balancing state authority with federal control, is being tested by a new frontier: online prediction markets.\n\nAt the center of everything is Donald Trump Jr., advised Kalshi. Nevada and New Jersey have issued cease-and-desist orders against Kalshi over the prediction market's sports contracts, claiming they violate state gambling laws.\n\nBut Kalshi has hit back, arguing that what it offers isn't gambling and that it's regulated by the Commodity Futures Trading Commission and the Commodities Exchange Act as it is a prediction market, not a gambling venue – an argument that crypto attorney Aaron Brogan says should be an easy win in court.\n\n\"I think clearly Kalshi is going to win these cases,\" Brogan said in an interview with CoinDesk. \"If you look at the language of the Commodity Exchange Act (CEA), it says that the CFTC has exclusive jurisdiction over any contracts that fall within its regulatory purview, which derivative contracts and event contracts clearly do.\"\n\nPrediction markets like Kalshi and Polymarket operate as neutral intermediaries, matching orders just like any other exchange under CFTC purview. There's no sportsbook with a prediction market; the operator of the market doesn't bet against its users.\n\nFor prediction market operators, sports has been a significant growth area. Data from Polymarket Analytics shows the category has surpassed the 2024 election for volume.\n\n\"[Kalshi is] not taking a side of the bet as the market in that case, which fundamentally changes the incentives involved and makes the product different in a holistic way,” Brogan explained.\n\nKalshi has self-certified these event contracts with the CFTC, a process allowing federally regulated derivatives exchanges to list new products by attesting their compliance with regulatory requirements without needing explicit pre-approval from the agency.\n\nFor its part, the CFTC seems to be receptive to the argument that the outcomes of sports games are commodities, with President Donald Trump's pick to run the commission, Brian Quintenz, arguing in 2021 that they can serve a legitimate economic purpose as hedging instruments, distinct from pure betting activities, and thus should not automatically be prohibited under the CEA.\n\nBrogan recognizes the reasoning behind Nevada's concerns, given the state's historical reliance on gambling revenues.\n\nHowever, he points out that Nevada's actions against Kalshi could inadvertently raise serious questions about the legitimacy of Nevada's own gambling markets.\n\nBy categorizing Kalshi's federally regulated event contracts as gambling, Nevada regulators have unintentionally highlighted that their own state-approved gambling operations, such as sports betting markets and other event-based wagering, might themselves technically qualify as derivative contracts.\n\n“In that case, federal preemption could theoretically crowd out state authority to oversee those gambling markets at all,” said Brogan.\n\nA victory for Kalshi, said Brogan, could transform American sports betting culture entirely if it's done through prediction markets instead of traditional gambling companies.\n\nBrogan notes that if Kalshi prevails, states could respond politically or legally, possibly lobbying Congress or filing an Administrative Procedure Act claim against the CFTC, although he doubts such challenges would succeed.\n\nUltimately, Kalshi’s litigation against state regulators presents a landmark federalism dilemma: Can states retain traditional authority over gambling regulation, or will federal regulatory frameworks dominate in the digital age?\n\n\"This is incredibly complicated,\" Brogan concluded, \"and we're right on the cusp of litigation that could definitively define who will predominate. It's complex, but it's going to be really important.\"",
+    "url": "https://www.coindesk.com/policy/2025/04/09/kalshi-will-win-its-battle-with-nevada-crypto-attorney",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump Jr.",
+                "Aaron Brogan",
+                "Brian Quintenz",
+                "Donald Trump"
+            ],
+            "positions": [
+                "crypto attorney",
+                "President"
+            ],
+            "companies": [
+                "Kalshi",
+                "Polymarket"
+            ],
+            "organizations": [
+                "Nevada",
+                "New Jersey",
+                "Commodity Futures Trading Commission",
+                "CFTC",
+                "Commodities Exchange Act",
+                "CEA",
+                "CoinDesk",
+                "Polymarket Analytics",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses a legal dispute about prediction market regulation with no direct mention of cryptocurrency market effects or price implications."
+    }
+}

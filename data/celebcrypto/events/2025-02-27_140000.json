@@ -1,0 +1,37 @@
+{
+    "title": "Bittensor App Gets Hack Risk Cover From Nexus Mutual-Backed Insurance Firm Native",
+    "time": "2025-02-27T14:00:00",
+    "author": "Ian Allison",
+    "summary": "Team Rizzo, which operates Bittensor subnets and validator services, has snagged $25 million in on-chain cover from Native, a digital asset insurance specialist.",
+    "content": "Digital-asset insurance broker Native said it arranged $25 million of blockchain-based cover against hacks for Team Rizzo, an operator of machine-learning businesses and staking validator services on Bittensor, the popular cryptocurrency-driven AI network.\n\nThe London-based company acted as a broker and also an underwriter using its own syndicate and capital pool on Nexus Mutual, a decentralized insurance alternative that backed Native in October of last year. The cover protects against smart-contract hacks leading to the loss of Bittensor tokens (TAO) used to validate the network’s proof of stake (PoS) consensus mechanism.\n\nHacks are a persistent worry in the crypto ecosystem, where insurance cover remains thin on the ground, particularly in more experimental and esoteric realms like staking or decentralized finance (DeFi). Last week, Bybit, one of the largest cryptocurrency exchanges, lost $1.5 billion to North Korea-linked hackers.\n\nNexus Mutual arrived in 2019 with an alternative form of insurance cover for the emerging DeFi sector, incentivizing a community of members to deploy assets into blockchain-based syndicates, similar in some ways to how the Lloyd’s of London insurance market allows syndicates of investors to back risks.\n\nNative, which runs one of the larger capital pools on Nexus Mutual, also acts in a more traditional broker role providing access to Lloyd’s for certain types of crypto-related insurance cover. The striking thing about the Rizzo validator risk on Bittensor was the speed with which Native arranged the cover, which took just four weeks, Native co-founder Dan Ross said in an interview.\n\n“This is the first time Bittensor has been underwritten,” Ross said. “Team Rizzo wanted to buy their own policy to attract people to come and stake to their own validator and make them feel safe. So we've been able to create a new product, underwrite a new protocol, get third party smart-contract cover with a $25 million limit in about four weeks. If we did that with traditional insurance, that's a three to six month thing at minimum — if it could be done at all.”\n\nThe Bittensor policy will be followed by cover for bitcoin staking platform Babylon in the coming weeks, Ross added.\n\n“Team Rizzo has played the long game to become one of — if not the most — consistent and performant validators on Bittensor,” said Bittensor founder Jake Steeves in a statement.",
+    "url": "https://www.coindesk.com/business/2025/02/27/bittensor-gets-hack-risk-cover-from-nexus-mutual-backed-insurance-firm-native",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dan Ross",
+                "Jake Steeves"
+            ],
+            "positions": [
+                "co-founder",
+                "founder"
+            ],
+            "companies": [
+                "Native",
+                "Team Rizzo",
+                "Bybit",
+                "Lloyd's of London",
+                "Babylon"
+            ],
+            "organizations": [
+                "Nexus Mutual"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bittensor",
+            "TAO",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes $25 million in insurance coverage for Bittensor validators, which increases security and market confidence in the cryptocurrency ecosystem."
+    }
+}

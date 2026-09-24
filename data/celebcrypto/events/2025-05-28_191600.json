@@ -1,0 +1,43 @@
+{
+    "title": "VivoPower Raises $121M to Launch XRP Treasury Strategy With Saudi Royal Backing",
+    "summary": "The Nasdaq-listed energy firm aims to be the first public company with XRP focus, with ex-SBI Ripple Asia executive joining as chairman of the advisory board.",
+    "time": "2025-05-28T19:16:00",
+    "author": "Krisztian Sandor",
+    "content": "VivoPower International (VVPR), a Nasdaq-listed energy company, said on Wednesday it has entered into agreement for a $121 million private share placement to fund its pivot to digital asset treasury focusing on XRP\nXRP\n$2.2533\n, the fourth largest cryptocurrency by market capitalization.\n\nThe fundraising was led by Saudi Prince Abdulaziz bin Turki Abdulaziz Al Saud, chairman of Eleventh Holding Company, investing $100 million, a spokesperson to the company told CoinDesk. The company intends to sell 20 million ordinary shares priced at $6.05 per share, according to a Wednesday SEC filing.\n\nAdam Traidman, a former executive of SBI Ripple Asia, is joining the company as chairman of the board of advisors, according to the press release. Ripple is an enterprise-focused blockchain service provider closely related to the XRP Ledger.\n\nVivoPower shares surged as much as 26% on the news before giving back some of the gains. Recently, they were up over 11%, trading around $6.75.\n\nThe move aligns with a growing trend of public firms raising money to purchase and add digital assets to their treasuries, a playbook popularized by Michael Saylor's Strategy (MSTR) that has become the largest corporate holder of bitcoin\nBTC\n$104,608.94\n. While BTC has been the most sought-after asset among these firms, recent newcomers like DeFi Development and SharpLink Gaming directed their focus to Solana's SOL\nSOL\n$156.85\nand Ethereum's ether\nETH\n$3,330.11\n, respectively.\n\nVivoPower, founded in 2014, said it aims to be the first publicly traded company with a crypto treasury strategy centered around XRP. It also shared plans to spin off its legacy business.\n\n\"After reviewing a number of listed vehicles seeking to embrace a digital asset treasury model, we selected VivoPower given its strategic focus on XRP and its objective to contribute to building out of the XRPL ecosystem,\" Prince bin Turki Abdulaziz Al Saud said in a statement in the press release and SEC filing. \"We have been investors in the digital asset sector for a decade and have been long-term holders of XRP.\"\n\nRead more: XRP Spot ETF in the U.S. Moves Closer to Reality\n\nUPDATE (22:08 UTC): Adds SEC filing. Adds that lead investor Saudi royal is the chairman of Eleventh Holding Company, per SEC filing and press release.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/vivopower-raises-121m-to-launch-xrp-treasury-strategy-with-saudi-royal-backing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Adam Traidman",
+                "Michael Saylor",
+                "Abdulaziz bin Turki Abdulaziz Al Saud"
+            ],
+            "positions": [
+                "former executive of SBI Ripple Asia",
+                "chairman of the board of advisors",
+                "chairman of Eleventh Holding Company"
+            ],
+            "companies": [
+                "VivoPower International",
+                "SBI Ripple Asia",
+                "Ripple",
+                "Strategy",
+                "DeFi Development",
+                "SharpLink Gaming",
+                "Eleventh Holding Company"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "BTC",
+            "SOL",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $121 million investment specifically for XRP treasury strategy with Saudi royal backing and mentions VivoPower shares surging 26% on the news, indicating positive market reaction and institutional confidence in XRP."
+    }
+}

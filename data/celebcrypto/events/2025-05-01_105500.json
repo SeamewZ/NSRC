@@ -1,0 +1,34 @@
+{
+    "title": "21Shares Files for SUI ETF, Token Surges",
+    "time": "2025-05-01T10:55:00",
+    "author": "Oliver Knight",
+    "summary": "21Shares president is speaking today at Sui's annual Basecamp conference.",
+    "content": "Swiss asset manager 21Shares has filed a S-1 registration form for a SUI exchange-traded fund (ETF) with the Securities and Exchange Commission (SEC).\n\nSUI is currently trading at $3.68, rising by 10.9% over the past 24 hours and 5% after the filing went live on the SEC's website.\n\n“Since our earliest research into Sui, we believed it could become one of the most exciting blockchains in the industry, and we’re seeing that thesis play out,” said Duncan Moir, President of 21Shares, speaking at Sui’s annual Basecamp conference.\n\nSUI is a layer-1 blockchain developed by former Meta engineers. The network's native token has a market cap of $11.8 billion, leaving it just outside the top 10 largest cryptocurrencies.\n\n21Shares' filing comes six weeks after Canary Capital filed paperwork to launch a SUI ETF.\n\nThe Sui Foundation also announced on Thursday that it signed a deal with Fireblocks to enhance institutional-grade infrastructure across the network.\n\nThe integration will allow institutions to engage with Sui using native SUI custody and access to DeFi protocols on the network.\n\nUPDATE (May 1,2025, 13:41 UTC): Adds details on Fireblocks deal in sixth and seventh graf.",
+    "url": "https://www.coindesk.com/business/2025/05/01/21shares-files-for-sui-etf-sui-rises-4",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Duncan Moir"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "21Shares",
+                "Fireblocks",
+                "Meta"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC",
+                "Sui Foundation",
+                "Canary Capital"
+            ]
+        },
+        "cryptocurrencies": [
+            "SUI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports SUI token price rising 10.9% after 21Shares filed for a SUI ETF and includes positive statements about Sui blockchain's potential."
+    }
+}

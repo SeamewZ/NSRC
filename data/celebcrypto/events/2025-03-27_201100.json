@@ -1,0 +1,39 @@
+{
+    "title": "Tokenized Gold Hits Record $1.4B Market Cap as Trading Volumes Soar in March",
+    "time": "2025-03-27T20:11:00",
+    "author": "Krisztian Sandor",
+    "summary": "The overall stablecoin market, including tokens pegged to currencies and commodities, crossed $230 billion rising for the 18th consecutive month, CoinDesk Data's report show.",
+    "content": "The market capitalization of tokenized gold climbed to a record $1.4 billion in March with trading volumes soaring to yearly highs, CoinDesk Data's monthly stablecoin report shows.\n\nThe growth in market value and activity happened alongside the physical yellow metal's rally to fresh all-time highs above $3,000 per ounce. Tether's gold-backed token (XAUT) and Paxos' PAXG dominate among the offerings, with market capitalizations of $749 million and $653 million, respectively.\n\nThe trading volume with gold tokens surpassed $1.6 billion through the month, the highest level in more than a year, according to the report.\n\nThe overall stablecoin market, which includes tokens with prices pegged to fiat currencies and commodities, climbed above $231 billion market cap this month, growing for the 18th consecutive month, the report said.\n\nTether's USDT, the largest stablecoin on the market, also increased to a record supply of $144 billion. However, its market share dropped to the lowest level (62.1%) since March 2023 as the stablecoin landscape is getting increasingly competitive. Circle's USDC, the second-largest stablecoin, grew 7% in a month to near $60 billion.\n\nDecentralized finance protocol Ethena's recently launched dollar stablecoin USDtb, which uses BlackRock's tokenized money market fund BUIDL as a reserve asset, quickly gobbled up over $1 billion of assets to become the 8th largest by market cap.\n\nIn terms of trading volumes on centralized exchanges, USDT's dominance slightly declined, but still stood above competition at 75.7% through the month among the top ten stablecoins. Meanwhile, USDC and Hong Kong-based First Digital's FDUSD saw their trading market cap dominance rise to 13.6% and 10%, respectively.\n\nRegulatory shifts have been reshaping the market of euro-denominated stablecoins, as exchanges moved to comply with the Markets in Crypto-Assets (MiCA) framework. Kraken delisted USDT and other non-compliant stablecoins for European users, following the footsteps of other exchanges such as Coinbase and Crypto.com.\n\nCircle's EURC stablecoin was a notable beneficiary of the developments, growing nearly 30% to $157 million market cap and claiming a 45% market share of all euro stablecoins.",
+    "url": "https://www.coindesk.com/markets/2025/03/27/tokenized-gold-hits-new-record-market-cap-as-trading-volumes-soar-in-march",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tether",
+                "Paxos",
+                "CoinDesk",
+                "Circle",
+                "BlackRock",
+                "Ethena",
+                "Kraken",
+                "Coinbase",
+                "Crypto.com",
+                "First Digital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "XAUT",
+            "PAXG",
+            "USDT",
+            "USDC",
+            "USDtb",
+            "BUIDL",
+            "FDUSD",
+            "EURC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports record market capitalizations, soaring trading volumes, and consecutive monthly growth across multiple stablecoin categories, indicating strong market expansion and investor confidence."
+    }
+}

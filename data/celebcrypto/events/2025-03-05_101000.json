@@ -1,0 +1,31 @@
+{
+    "title": "Sygnum Bank Expands Custody to Include Leading Crypto Options Exchange Deribit",
+    "time": "2025-03-05T10:10:00",
+    "author": "Jamie Crawley",
+    "summary": "Sygnum and Deribit are now leveraging crypto custodian Fireblocks' \"Off Exchange\" service",
+    "content": "Crypto bank Sygnum has expanded its custody platform to include the world's leading options exchange Deribit.\n\nSygnum and Deribit are now leveraging crypto custodian Fireblocks' \"Off Exchange\" service, which allows traders to essentially \"mirror\" their assets held in custody on a trading platform.\n\nThis will allow traders to hold their assets in a regulated bank while continuing to access the deep liquidity of Deribit, according to an announcement shared with CoinDesk on Wednesday.\n\nTraders received an unwelcome reminder of the dangers in keeping their assets on an exchange last month with the $1.4 billion hack of Bybit by North Korean Group Lazarus.\n\n\"Counterparty risk awareness in crypto comes in cycles, and the recent major cyber-attack has triggered one of the largest waves of exchange derisking since FTX,\" Sygnum's chief product officer, Dominic Lohberger, said.\n\nZurich-based Sygnum, which acquired a valuation of over $1 billion following a $58 million funding round in January, is licensed in its native Switzerland as well as Luxembourg and Singapore.\n\nDeribit is among the world's leading derivatives exchanges, with trading volume surpassing $1 trillion in 2024. Its options volume alone reached $743 billion.",
+    "url": "https://www.coindesk.com/business/2025/03/05/sygnum-bank-expands-custody-to-include-leading-crypto-options-exchange-deribit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dominic Lohberger"
+            ],
+            "positions": [
+                "chief product officer"
+            ],
+            "companies": [
+                "Sygnum Bank",
+                "Deribit",
+                "Fireblocks",
+                "Bybit",
+                "FTX"
+            ],
+            "organizations": [
+                "North Korean Group Lazarus"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of regulated custody services and enhanced security measures for traders accessing major exchanges indicates increased institutional confidence and market safety."
+    }
+}

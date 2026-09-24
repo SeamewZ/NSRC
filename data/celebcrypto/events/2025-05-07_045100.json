@@ -1,0 +1,38 @@
+{
+    "title": "Forecasting Fed-Induced Price Swings in Bitcoin, Ether, Solana and XRP",
+    "time": "2025-05-07T04:51:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders looking for cues on potential Fed-led moves in major tokens might want to see what implied volatility indices are saying.",
+    "content": "It's Fed day again, and traders are seeking cues on how much volatility this key event might spark. According to Volmex's implied volatility indices, major tokens could see price swings, but nothing out of the ordinary is anticipated.\n\nAccording to data source TradingView, Volmex's annualized one-day bitcoin implied volatility index (BVIV) stood at 49% as of writing, which equates to an expected 24-hour price swing of 2.56%.\n\nIn other words, bitcoin\nBTC\n$104,608.94\ncould swing by $2,470 in either direction. As of writing, bitcoin changed hands at around $96,500.\n\nThe expected daily volatility in percentage terms is determined by dividing the annualized percentage by the square root of 365, as the digital assets market is open 24/7. In traditional markets, conversion from annualized to daily involves the square root of 252 days.\n\nAs of writing, Ether's\nETH\n$3,495.36\nannualized one-day volatility was 66%, suggesting a 24-hour price swing of 3.45%. Similarly, Volmex's one-day implied volatility index suggested a 24-hour move of 4.3% in Solana's SOL.\n\nVolmex doesn't publish volatility indices tied to payments-focused cryptocurrency XRP. That said, the expected move in the token could be gauged from the forward implied volatility (IV) derived from options listed on Deribit.\n\nThe forward IV for May 8 was 77.98% at press time, according to data source Amberdata. That equates to a one-day expected move of 4.08%.\n\nThe Federal Reserve will announce its rate decision at 18:00 UTC, which will be followed by chairman Jerome Powell's press conference at 18:30 UTC.\n\nThe central bank is expected to hold rates unchanged, but commentary on the economic outlook against the trade war backdrop and possibility of a rate cut in June could move markets.",
+    "url": "https://www.coindesk.com/markets/2025/05/07/forecasting-fomc-induced-price-swings-in-bitcoin-ether-solana-and-xrp",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell"
+            ],
+            "positions": [
+                "chairman"
+            ],
+            "companies": [
+                "Volmex",
+                "TradingView",
+                "Deribit",
+                "Amberdata"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article describes expected price swings but notes 'nothing out of the ordinary is anticipated' and focuses on normal volatility expectations rather than significant directional moves."
+    }
+}

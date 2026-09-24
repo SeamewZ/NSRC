@@ -1,0 +1,32 @@
+{
+    "title": "'Everything Is Encrypted': Aztec’s Privacy Rollup Hits Testnet Amid Growing Demand",
+    "summary": "The solution comes after 8 years of development and as institutions seek transaction confidentiality.",
+    "time": "2025-05-01T13:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Aztec, a layer-2 rollup focused on privacy, shared Thursday that its testnet has finally gone live.\n\nThe announcement comes as a wave of new privacy-focused solutions begins to capture the interests of large institutions that need confidentiality with large transaction batches.\n\nThe team behind Aztec said that they have been working on the product for over 8 years, bringing the cutting-edge technology one step closer to the mainnet.\n\nAztec differs from other zero-knowledge rollups because it is focused on helping applications and users preserve their private details by incorporating encryption on the protocol level.\n\n“All of the secret information that you want to keep encrypted, it's posted on our blockchain in an encrypted form,” said Zac Williamson, the co-founder of the Aztec Network, to CoinDesk.\n\nLayer-2 networks have appeared en masse in the Ethereum space over the past few years, and are seen as a faster and cheaper alternative to transacting on the Ethereum protocol. But Aztec will have to give up elements of that in order to preserve its mission of being privacy-preserving as well as decentralized.\n\n“A fully private transaction will have more data associated with it, because everything is encrypted. Which means that you've required more resources, therefore you cannot scale as much,” Williamson said. “And so we are fine with that. Aztec's unique value proposition is not scaling. We do a little bit of that, [because] we are a layer 2, but we never need to be as cheap as other layer 2s.”\n\nInstitutions have long sought privacy-preserving tools since they are key to handling sensitive transaction data for public ledgers. Aztec raised $100 million in a series B in 2022, led by a16z, when conversations around blockchain privacy started to take off.\n\nRecently, privacy-preserving tools are re-emerging as key to the industry as big institutions begin to come on-chain. On Tuesday, privacy solution Miden said it had raised $25 million in seed fundingfrom a16z.\n\nRead more: DeFi Privacy Bridge Aztec Connect Sunsets After Less Than a Year\n\nCORRECTION (May 1, 2025, 15:30 UTC): An earlier version of this story said that Paradigm led the $100 million series B round for Aztec, but it was a16z.",
+    "url": "https://www.coindesk.com/tech/2025/05/01/everything-is-encrypted-aztec-s-privacy-rollup-hits-testnet-amid-growing-demand",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Zac Williamson"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Aztec",
+                "CoinDesk",
+                "a16z",
+                "Paradigm"
+            ],
+            "organizations": [
+                "Aztec Network"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights growing institutional demand for privacy solutions and successful funding rounds, indicating positive market development and confidence."
+    }
+}

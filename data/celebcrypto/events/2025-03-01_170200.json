@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin ETFs Finally Snap Eight-Day $3.2B Outflow Streak With $94.3M Inflows",
+    "time": "2025-03-01T17:02:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The inflows come amid a slight market recovery as BTC rebounds from its monthly low, over growing pro-crypto stance from the Trump administration.",
+    "content": "Spot bitcoin exchange-traded funds (ETFs) in the U.S. saw $94.3 million of total inflows on the last day of February as crypto's worst month in three years came to an end.\n\nThe figure capped an eight-day streak of outflow during which investors pulled over $3.2 billion from these funds as digital asset prices fell.\n\nBlackRock’s iShares Bitcoin Trust (IBIT), the largest spot bitcoin ETF by assets under management, was one of the outliers that saw $244.6 million in outflows on Friday. Meanwhile, other large ETFs, including Fidelity’s FBTC, brought in $176 million from investors, while the ARK 21Shares Bitcoin ETF saw the largest inflows, bringing in $193.7 million, according to Farside Investors data.\n\nThe inflows came as the cryptocurrency market started showing signs of recovery after the price of bitcoin hit a $78,000 low in the early hours of Feb. 28. Bitcoin is now trading around $84,900 after rising 1.6% in the last 24 hours, while the broader CoinDesk 20 Index rose 0.3% to 2,705.\n\nOver the past week, BTC is still down by roughly 12%, while the broader crypto market, as measured by the CoinDesk 20 Index, fell by 15.8%. Spot bitcoin ETFs had been enduring a significant outflow streak since Feb. 14, a day in which these funds saw $66.2 million inflows.\n\nSpot ether ETFs, on the other hand, have maintained an ongoing outflow streak on the last day of February, with $41.9 million leaving these funds. Since their last day with a positive net flow, $357.5 million exited these funds, according to data from Farside.\n\nThe recent market recovery comes as the White House announced that U.S. President Donald Trump will host a crypto summit on March 7 and after the world’s largest asset manager, BlackRock, added a 1% to 2% allocation of its spot bitcoin ETF to one of its model portfolios.\n\nRead more: BlackRock's Bitcoin ETF Sees Record Daily Outflow as the Basis Trade Starts to Unwind",
+    "url": "https://www.coindesk.com/markets/2025/03/01/bitcoin-etfs-finally-snap-eight-day-usd3-2b-outflow-streak-with-usd94-3m-inflows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "ARK 21Shares",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes market recovery with bitcoin price rebounding from lows and spot bitcoin ETFs seeing inflows after an eight-day outflow streak, indicating renewed investor confidence."
+    }
+}

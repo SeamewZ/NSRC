@@ -1,0 +1,39 @@
+{
+    "title": "Polymarket Is 90% Accurate in Predicting World Events: Research",
+    "time": "2025-03-21T05:26:00",
+    "author": "Sam Reynolds",
+    "summary": "Research shows that Polymarket is 90% accurate in predicting how events will occur one month out, and 94% four hours before the event occurs.",
+    "content": "It turns out Polymarket is a crystal ball, which can predict certain events with nearly 90% accuracy, according to a Dune dashboard compiled by New York City-based data scientist Alex McCullough.\n\nMcCullough studied Polymarket's historical data and removed markets with probabilities above 90% or below 10% after outcomes were already known but not yet settled, to keep the analysis accurate, according to a Dune dashboard summary.\n\nPolymarket slightly but consistently overestimates event probabilities across most ranges, potentially due to biases like acquiescence bias, herd mentality, low liquidity, and participant preference for high-risk bets, McCullough's research found.\n\nLonger-term markets, ones that ask bettors to consider an event far-out, look more accurate because they include many outcomes that are clearly unlikely, making predictions easier, McCullough explained in an interview with Polymarket's The Oracle blog.\n\nMcCullough gives the example of Gavin Newsom becoming president (a question with $54 million in volume) during the last election to show that longer-term Polymarket markets often include obviously predictable outcomes, like Newsom clearly not winning, which boosts the platform’s accuracy numbers for these long-term predictions.\n\nIn contrast, head-to-head sports markets, which have fewer extreme outcomes such as long-shot presidential candidates, and a more balanced distribution, present a clearer representation of predictive accuracy, McCullough found, showing notable improvements in accuracy as events unfold and revealing periodic accuracy spikes.\n\nSports is a growing sector for Polymarket, with nearly $4.5 billion in collective volume wagered on the outcomes of the NBA, MLB, Champions League, and Premier League finals, according to data portal Polymarket Analytics.\n\nMcCullough's findings about the accuracy of Polymarket are likely to be of interest in Ottawa, where Polymarket shows that new Liberal Party of Canada leader Mark Carney now has a significant lead over his Conservative rival Pierre Poilievre, even more than what poll aggregators are showing.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/polymarket-is-94-accurate-in-predicting-world-events-research",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex McCullough",
+                "Gavin Newsom",
+                "Mark Carney",
+                "Pierre Poilievre"
+            ],
+            "positions": [
+                "president",
+                "Liberal Party of Canada leader",
+                "Conservative rival"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "organizations": [
+                "Dune",
+                "The Oracle",
+                "NBA",
+                "MLB",
+                "Champions League",
+                "Premier League",
+                "Polymarket Analytics",
+                "Liberal Party of Canada"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The research shows Polymarket's high prediction accuracy (90-94%) demonstrates the utility and reliability of prediction markets, which could increase confidence and adoption in cryptocurrency-based platforms."
+    }
+}

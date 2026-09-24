@@ -1,0 +1,46 @@
+{
+    "title": "U.S. Senate's Effort on Stablecoins Revealed in New Bill from Hagerty",
+    "summary": "The Senate has pushed stablecoin bills before, but the chamber is now led by Republicans who want to make Hagerty's latest effort happen.",
+    "time": "2025-02-04T16:53:00",
+    "author": "Jesse Hamilton",
+    "content": "The opening shot is being been fired in the new Congress' crypto push with a plan for a Tuesday introduction of a stablecoin oversight bill from Senator Bill Hagerty. The legislation would set up a U.S. regulatory framework for issuing the dollar-denominated tokens, according to a person familiar with the effort.\n\nThe Tennessee Republican, who had shepherded a stablecoin effort in the previous session, is now pushing a bill with the backing of the Senate Banking Committee's new chairman, Tim Scott, and the head of its digital assets subcommittee, Cynthia Lummis. That's a big difference from the 2024 effort that couldn't break through the crypto roadblock maintained by previous committee chief Sherrod Brown, the Ohio Democrat who was defeated in November's elections.\n\nHagerty's bill, which he's calling the Guiding and Establishing National Innovation in U.S. Stablecoins (GENIUS) Act, would define payment stablecoins and set up the procedures for issuing them, including establishing the Federal Reserve as watchdog for the big bank issuers and the Office of the Comptroller of the Currency as regulator for nonbank issuers of more than $10 billion, the person said. The legislation additionally outlines the reserves issuers would have to maintain.\n\nState regulators would be in place for the smaller issuers, and for larger firms who can seek waivers.\n\nThe distinction between federal and state regulators had been the main sticking point when Democrats and Republicans sought to work out a compromise bill on stablecoins in the previous Congress, and any new version will still have to thread a bipartisan needle. It's unclear whether Hagerty's plan, of which Senator Lummis said she'd be working \"to get this bill to the president’s desk,\" will draw Democrat support with its lighter regulatory approach.\n\nThe House of Representatives had approved a stablecoin oversight bill in the previous session, but it met resistance in getting a matching Senate version, which had been sought by Hagerty. He's set to introduce the new legislation today, according to news first reported by Bloomberg News and confirmed by Hagerty in a posting on social media site X.\n\nStablecoins are designed as steady cryptocurrency tokens whose price is linked to other assets, usually the dollar. The global stablecoin leader is Tether (USDT), and its U.S. rival is issuer Circle (USDC).\n\nLater on Tuesday, President Donald Trump's crypto czar, David Sacks, is set to lead a press conference with congressional leaders to outline their crypto strategy. This stablecoin effort is expected to be raised at that event.",
+    "url": "https://www.coindesk.com/policy/2025/02/04/u-s-senate-s-effort-on-stablecoins-revealed-in-new-bill-from-hagerty",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bill Hagerty",
+                "Tim Scott",
+                "Cynthia Lummis",
+                "Sherrod Brown",
+                "Donald Trump",
+                "David Sacks"
+            ],
+            "positions": [
+                "Senator",
+                "Senate Banking Committee's new chairman",
+                "head of its digital assets subcommittee",
+                "previous committee chief",
+                "President",
+                "crypto czar"
+            ],
+            "companies": [
+                "Tether",
+                "Circle"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "Congress",
+                "Federal Reserve",
+                "Office of the Comptroller of the Currency",
+                "House of Representatives",
+                "Bloomberg News"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bipartisan legislative progress on stablecoin regulation, which typically provides regulatory clarity and boosts market confidence in cryptocurrency adoption."
+    }
+}

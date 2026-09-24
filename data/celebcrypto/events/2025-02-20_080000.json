@@ -1,0 +1,28 @@
+{
+    "title": "Blockchain Bridging Protocol LayerZero to Connect With Bitcoin Sidechain Rootstock",
+    "summary": "Rootstock's aim is to end Bitcoin's \"isolation\" from other chains due to its lack of native smart contracts.",
+    "time": "2025-02-20T08:00:00",
+    "author": "Jamie Crawley",
+    "content": "LayerZero, the bridging protocol that allows different crypto networks to communicate with each other, plans to connect to Bitcoin sidechain Rootstock in what would be its first integration with the world's original blockchain.\n\nRootstock aims to end Bitcoin's \"isolation\" from other blockchains due to its lack of native smart contracts, a barrier that LayerZero is able to address, according an emailed announcement shared with CoinDesk.\n\nThe Bitcoin blockchain lacks the functionality to offer smart contracts that other blockchains have and which are fundamental building decentralized finance (DeFi) services.\n\nThis lack of provision for DeFi on Bitcoin, which holds more value that every other blockchain combined, is an impediment to even greater adoption. That's prompting developers to seeking ways of tapping into the massive liquidity that is held in bitcoin (BTC) and allowing it to be bridged to rest of the crypto world.\n\nWith the connection between Rootstock and LayerZero, developers would be able to build applications on the Bitcoin sidechain that can communicate with the over 100 other blockchains, including Ethereum and Solana, Rootstock said in the announcement.",
+    "url": "https://www.coindesk.com/tech/2025/02/20/blockchain-bridging-protocol-layerzero-to-connect-with-bitcoin-sidechain-rootstock",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "LayerZero",
+                "Rootstock",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration enables Bitcoin's massive liquidity to be bridged to over 100 other blockchains, which could drive greater adoption and utility."
+    }
+}

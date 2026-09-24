@@ -1,0 +1,43 @@
+{
+    "title": "SEC, Ripple Ink $50M Settlement Agreement, Ask NY Judge for Green Light",
+    "summary": "District Judge Analisa Torres ordered Ripple to pay the SEC a $125 million fine last year. Under the new settlement agreement, Ripple will get the majority of that money back.",
+    "time": "2025-05-08T21:26:00",
+    "author": "Cheyenne Ligon",
+    "content": "Ripple Labs and the U.S. Securities and Exchange Commission (SEC) have officially reached a deal that, if approved by a judge, will bring their years-long legal battle to a close.\n\nAccording to a settlement agreement filed in New York on Thursday, both parties have agreed to a $50 million penalty — a portion of the $125 million fine initially imposed last year by Judge Analisa Torres of the Southern District of New York (SDNY), and a tiny fraction of the massive $2 billion fine initially requested by the SEC.\n\nIn her 2023 ruling, Judge Torres found that Ripple violated securities laws in selling its native XRP token to institutional investors, but did not violate securities laws in putting XRP on exchanges for retail customers to buy in a suit originally brought in 2020 under then-SEC Chair Jay Clayton (who's now the Acting U.S. Attorney for the Southern District of New York).\n\nThe SEC, then under the leadership of former Chair Gary Gensler, appealed Torres’ ruling, prompting Ripple to cross-appeal. Under the settlement agreement, both parties agree to drop their cases. The Thursday filing confirms Ripple’s announcement in March that it had reached an in-principle settlement agreement with the SEC.\n\nRead more: Ripple to Get $75M Of Court-Ordered Fine Back from SEC, Drops Cross Appeal\n\nThe settlement comes amidst the SEC’s full-scale retreat from a host of crypto investigations and litigation that began under Gensler’s tenure. After U.S. President Donald Trump took office in January and appointed crypto-friendly Paul Atkins to serve as the SEC’s new chairman, the agency has done an about-face on crypto regulation.\n\nXRP climbed 9% on the news, continuing a 24-hour increase in value.\n\nRipple did not respond to CoinDesk’s request for comment.",
+    "url": "https://www.coindesk.com/policy/2025/05/08/sec-ripple-ink-usd50m-settlement-agreement-ask-ny-judge-for-green-light",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Analisa Torres",
+                "Jay Clayton",
+                "Gary Gensler",
+                "Donald Trump",
+                "Paul Atkins"
+            ],
+            "positions": [
+                "District Judge",
+                "Acting U.S. Attorney for the Southern District of New York",
+                "SEC Chair",
+                "former Chair",
+                "U.S. President",
+                "SEC's new chairman"
+            ],
+            "companies": [
+                "Ripple Labs",
+                "Ripple",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Southern District of New York",
+                "SDNY"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "XRP climbed 9% on the news of the settlement agreement and the SEC's retreat from crypto investigations."
+    }
+}

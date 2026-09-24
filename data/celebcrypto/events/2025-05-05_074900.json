@@ -1,0 +1,33 @@
+{
+    "title": "Donald Trump Denies Claims of Profiting From TRUMP Token",
+    "summary": "The TRUMP token is up 20% over the last month, according to market data.",
+    "time": "2025-05-05T07:49:00",
+    "author": "Sam Reynolds",
+    "content": "Donald Trump is pushing back against claims that he’s profiting from the TRUMP memecoin, his official cryptocurrency that launched days before his presidential inauguration.\n\nChainalysis recently reported that the TRUMP token earned $900,000 in fees in a two day span for its backers.\n\nThe wallets of the largest holders of the token are controlled by CIC Digital LLC, an entity also used for his NFT collection, and Fight Fight Fight LLC, which is co-owned by CIC Digital. Collectively, they own 80% of the TRUMP tokens.\n\n“I’m not profiting from anything,” Trump said during an interview with NBC News, adding that he hadn’t looked at the token’s performance and that any financial benefits would be incidental. “If I own stock in something, and I do a good job, and the stock market goes up, I guess I’m profiting,” he said.\n\nThe TRUMP token has seen strong market activity in recent weeks. It’s currently trading around $11.20, a significant drop from its all-time high of $44.19, but still up 20% over the past month.\n\nRecently, the White House announced that the largest 220 holders of the $TRUMP token would be invited for dinner with the President.\n\nEric Trump, the son of President Trump, will be a headline speaker at Consensus 2025 in Toronto.",
+    "url": "https://www.coindesk.com/policy/2025/05/05/donald-trump-denies-claims-of-profiting-from-trump-token",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CIC Digital LLC",
+                "Fight Fight Fight LLC"
+            ],
+            "organizations": [
+                "Chainalysis",
+                "NBC News",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The TRUMP token is up 20% over the past month and has seen strong market activity with significant trading volume."
+    }
+}

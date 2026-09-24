@@ -1,0 +1,35 @@
+{
+    "title": "Erdogan Rival's Arrest Sends Lira to Record Low, Bitcoin-TRY Volume Surging on Binance",
+    "time": "2025-03-19T11:26:00",
+    "author": "Omkar Godbole",
+    "summary": "Binance's BTC/TRY pair sees increased trading activity as the move sends the lira crashing.",
+    "content": "The Turkish lira (TRY) fell to a record low against the dollar following the surprise arrest of President Recep Tayyip Erdogan's rival and Istanbul mayor Ekrem Imamoglu.\n\nThe currency slumped a record of nearly 41 per U.S. dollar, a 10% slide on the day. The volatility saw a sharp rise in trading volumes in the bitcoin-lira (BTC/TRY) pair on leading cryptocurrency exchange Binance.\n\nImamoglu's Republican People’s Party (CHP) described the arrest as a coup to replace the will of the people. The party was set to hold a primary election next week, with Imamoglu widely expected to emerge as the presidential candidate.\n\nOn Binance, the BTC/TRY pair saw 93 BTC change hands between 7:00 UTC and 8:00 UTC, according to data source TradingView. That's the highest hourly volume in at least a year.\n\nStill, when adjusted for the lira's exchange rate, BTC traded at a massive discount to prices on Coinbase (COIN).\n\nIt's possible traders sold BTC/TRY to move money into dollar-linked assets like USDT, the largest stablecoin. CoinDesk reached out to Binance for a comment on the matter.\n\nFiat-currency volatility is not new to Turkey and over the years it has galvanized demand for hard assets like gold and alternative assets like stablecoins and cryptocurrencies. The lira has consistently depreciated since at least 2017, when it 3.53 to the dollar.",
+    "url": "https://www.coindesk.com/markets/2025/03/19/turkish-lira-crashes-to-record-low-spurring-volume-surge-in-binance-s-bitcoin-lira-pair",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Recep Tayyip Erdogan",
+                "Ekrem Imamoglu"
+            ],
+            "positions": [
+                "President",
+                "Istanbul mayor",
+                "presidential candidate"
+            ],
+            "companies": [
+                "Binance",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Republican People’s Party (CHP)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows increased Bitcoin trading volume and demand for cryptocurrencies as a hedge against fiat currency volatility during the Turkish lira crisis."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "CoreWeave Goes Public at $40 Per Share, Raises $1.5 Billion",
+    "time": "2025-03-28T00:08:00",
+    "author": "Helene Braun",
+    "summary": "AI powerhouse Nvidia aims to anchor a $250 million order, Bloomberg reported.",
+    "content": "Artificial intelligence-focused firm CoreWeave raised $1.5 billion for its initial public offering (IPO), valuing the company at roughly $23 billion, Bloomberg reported on Thursday night, confirming earlier reports that it had downsized its IPO.\n\nThe cloud provider sold 37.5 million shares at $40 each. It had initially planned to sell 49 million shares at $47 to $55 each, but a weaker-than-expected stock market posed difficulties for the company.\n\nThe company initially sought to raise $4 billion at a $35 billion valuation, reporting $1.9 billion in revenue last year but still seeing a net loss of nearly $900 million.\n\nAI powerhouse Nvidia, an investor in CoreWeave, is anchoring the IPO with a $250 million order, Bloomberg reported, citing a person familiar with the matter.\n\nCoreWeave is closely tied to bitcoin miner CoreScientific, which struck a multi-billion deal with the New Jersey-based firm to expand its artificial intelligence capabilities.\n\nNvidia's own stock price is down 12% since the beginning of the year, The Information reported late Thursday, reflecting broader weakness in AI-focused firms.\n\nUPDATE (March 28, 2025, 00:20 UTC): Adds additional detail.",
+    "url": "https://www.coindesk.com/markets/2025/03/27/coreweave-goes-public-at-usd40-per-share-raises-usd1-5-billion",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoreWeave",
+                "Nvidia",
+                "CoreScientific"
+            ],
+            "organizations": [
+                "Bloomberg",
+                "The Information"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news mentions CoreWeave's connection to bitcoin miner CoreScientific but focuses primarily on AI and IPO details without clear positive or negative cryptocurrency market implications."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Zero Hash Processed $2B in Flows to Tokenized Funds as RWA Demand Accelerates",
+    "time": "2025-04-15T13:09:00",
+    "author": "Krisztian Sandor",
+    "summary": "The infrastructure provider underpins tokenized funds by BlackRock, Franklin Templeton and Republic facilitating stablecoin settlements across 22 blockchains.",
+    "content": "Zero Hash, a crypto infrastructure firm specializing in stablecoin payment rails, said it has processed over $2 billion in tokenized fund flows over the past four months as demand for real-world assets is accelerating.\n\nTokenized real-world assets is a red-hot crypto sector, with several global traditional financial firms leveraging blockchain rails to record ownership and move assets such as securities, funds, commodities. They do so to achieve operational gains and near-instant settlements. It's forecasted to be huge opportunity: BCG and Ripple projected the market to grow to $18 trillion by 2033.\n\nZero Hash's stablecoin infrastructure serves as a key backbone for tokenized assets, supporting tokenized funds from traditional asset managers including BlackRock, Franklin Templeton and Republic, enabling around-the-clock stablecoin transactions across 22 blockchains. That includes BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL), Franklin Templeton’s BENJI, and the Hamilton Lane Private Infrastructure Fund.\n\nThe company supports seven stablecoins and handles regulatory compliance requirements for its partners, positioning it as a backbone for asset managers deploying tokenized versions of traditional instruments like treasuries and private credit.\n\nThe total value of tokenized real-world assets (RWAs) on public blockchains reached $20.6 billion, up from $15.2 billion at the end of 2024, according to data from rwa.xyz. Zero Hash claimed it processed roughly 35% of that net inflow.\n\n\"Tokenized finance is no longer theoretical,\" Zero hash founder and CEO Edward Woodford said in a statement. \"Institutions are deploying real capital to tokenization and need the payment infrastructure to match.”",
+    "url": "https://www.coindesk.com/business/2025/04/15/zero-hash-processed-usd2b-flows-to-tokenized-funds-as-rwa-demand-accelerates",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Edward Woodford"
+            ],
+            "positions": [
+                "founder and CEO"
+            ],
+            "companies": [
+                "Zero Hash",
+                "BlackRock",
+                "Franklin Templeton",
+                "Republic",
+                "BCG",
+                "Ripple",
+                "Hamilton Lane"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights accelerating demand for tokenized real-world assets with $2 billion processed flows and projections of the market growing to $18 trillion by 2033, indicating strong institutional adoption and market confidence."
+    }
+}

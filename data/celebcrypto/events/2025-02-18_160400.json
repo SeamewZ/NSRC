@@ -1,0 +1,33 @@
+{
+    "title": "Blockchain Security Firm Blockaid Raises $50M to Tackle On-Chain Threats",
+    "time": "2025-02-18T16:04:00",
+    "author": "Sheldon Reback",
+    "summary": "The funding will help the company scale operations as blockchain adoption accelerates.",
+    "content": "Blockaid, a cybersecurity firm specializing in blockchain security, said it raised $50 million in a Series B funding round to help expand research, engineering and product development.\n\nRibbit Capital led the round, with backing from GV and existing investors including Variant and Cyberstarts, the company said. The funding comes as demand for blockchain security rises, with major financial institutions and fintech firms expanding their on-chain operations.\n\nBlockaid, which started operations in 2023 and raised $27 million in a Series A round, provides real-time threat detection for blockchain transactions. The company integrates directly with wallets and decentralized applications (dapps) to secure users from malicious actors. Last year, the platform scanned more than 2.4 billion transactions and blocked 71 million attacks.\n\n\"While the blockchain itself is secure, on-chain applications and the users that interact with them are at risk,\" CEO Ido Ben-Natan said in a statement. \"This investment will help us continue to advance our machine learning capabilities and expand our current offerings to stay ahead in a highly adversarial landscape of evolving threats.\"\n\nBlockaid’s security network is used by companies such as Coinbase, MetaMask, Uniswap and Stellar.\n\nThe investment follows a surge in blockchain activity, with stablecoin transaction volume reaching $8.5 trillion in the latter half of 2024.\n\nSee also: More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid\n\nDisclaimer: This article, or parts of it, was generated with assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/02/18/blockchain-security-firm-blockaid-raises-usd50m-to-tackle-on-chain-threats",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ido Ben-Natan"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Blockaid",
+                "Ribbit Capital",
+                "GV",
+                "Variant",
+                "Cyberstarts",
+                "Coinbase",
+                "MetaMask",
+                "Uniswap",
+                "Stellar"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The $50 million funding round for blockchain security firm Blockaid and increased demand from major financial institutions indicates growing institutional confidence and investment in blockchain infrastructure."
+    }
+}

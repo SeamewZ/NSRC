@@ -1,0 +1,34 @@
+{
+    "title": "Kraken Brings Back Crypto Staking for U.S. Customers",
+    "time": "2025-01-30T15:00:00",
+    "author": "Ian Allison",
+    "summary": "Kraken, which was forced to shutter its staking products in early 2023 thanks to the SEC, has re-introduced on-chain staking for U.S. clients in 39 state territories.",
+    "content": "Kraken, one of the longest-standing crypto exchanges, has reinstated blockchain staking products for many of its American customers, another sign that the previously sclerotic environment for crypto assets in the U.S. is rapidly thawing.\n\nCustomers across 39 eligible states will be able to use Kraken Pro to take part in bonded staking, where tokens are locked up for certain periods of time depending on the blockchain in question, Kraken said on Thursday.\n\nDonald Trump in the White House has signaled the end of draconian measures against crypto put in place during the previous administration, particularly what was imposed by the Securities and Exchange Commission (SEC).\n\nIn February of 2023, Kraken agreed to end its staking-as-a-service platform for U.S. customers and pay $30 million to settle SEC charges that it offered unregistered securities.\n\n“We have long been talking about how best to offer this product and bring staking back to the U.S., because we believe it's so important as a foundational element of crypto,” said Mark Greenberg, Kraken Global Head of Consumer in an interview.\n\nGreenberg called the move “an overwhelmingly positive development, not just for Kraken but also for the entire U.S. crypto space.”\n\nKraken’s clients in select U.S. states (a full list is on the exchange’s staking webpage) will now be able to stake 17 assets, including ETH, SOL, DOT and ADA. In addition, U.S. clients’ assets are also covered by slashing insurance from a third-party provider, Kraken said.",
+    "url": "https://www.coindesk.com/business/2025/01/30/kraken-brings-back-crypto-staking-for-u-s-customers",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Mark Greenberg"
+            ],
+            "positions": [
+                "Global Head of Consumer"
+            ],
+            "companies": [
+                "Kraken"
+            ],
+            "organizations": [
+                "SEC",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "SOL",
+            "DOT",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the reinstatement of staking services as 'an overwhelmingly positive development' and indicates the crypto environment in the U.S. is 'rapidly thawing' with the end of 'draconian measures'."
+    }
+}

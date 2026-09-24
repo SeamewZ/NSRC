@@ -1,0 +1,25 @@
+{
+    "title": "WazirX Wins Approval From Singapore Court to Repay Users Following $230M Hack",
+    "summary": "The Court has allowed WazirX to convene a scheme meeting with users in a \"significant step\" to distributing funds lost in the attack",
+    "time": "2025-01-23T16:30:00",
+    "author": "Jamie Crawley",
+    "content": "Indian cryptocurrency exchange WazirX has won approval from the Singapore High Court to restructure after the $230 million hack last year.\n\nThe High Court has allowed WazirX to convene a scheme meeting with users in a \"significant step\" towards distributing funds lost in the attack and reviving the platform's operations, the exchange announced via email on Thursday.\n\nShould the restructuring plan be approved, funds would then be distributed to creditors within 10 business days.\n\nWazirX was hacked by attackers by the North Korean group Lazarus in July, which over 45% of the exchange's $500 million in holdings stolen. Over the ensuing months, the hackers laundered their ill-gotten gains using privacy-focused crypto mixer Tornado Cash.\n\nThe Court has found that there was no evidence of wrongdoing by WazirX in the attack, despite suggestions from some users that WazirX's parent company Zettai had some involvement.\n\nRead More: More Than Half of Crypto Tokens Debuted in 2024 Were Malicious: Blockaid",
+    "url": "https://www.coindesk.com/policy/2025/01/23/wazirx-wins-approval-from-singapore-court-to-repay-users-following-usd230m-hack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "WazirX",
+                "Zettai"
+            ],
+            "organizations": [
+                "Singapore High Court",
+                "Lazarus"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The court approval for WazirX to repay users and revive operations represents a positive resolution to a major security breach, restoring market confidence."
+    }
+}

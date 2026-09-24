@@ -1,0 +1,29 @@
+{
+    "title": "How DeFi 'Defied' Market Carnage as Traders Poured Millions Amid Panic",
+    "time": "2025-04-09T10:54:00",
+    "author": "Oliver Knight",
+    "summary": "The DeFi sector showed resilience this week as inflows and volumes increased.",
+    "content": "This week's tariff-inspired market meltdown has led to a rapid sell-off across crypto-assets, with BTC trading below $80K and ETH hitting a two-year low of $1,432. The decentralized finance (DeFi) sector was not entirely immune to the chaos as total value locked (TVL) slumped to its lowest point since November at $95 billion.\n\nBut it wasn't all bad news for DeFi.\n\nAmidst plunging asset prices, DeFi showed resilience with muted outflows with key usage metrics faring far better than the price of ETH, the asset that underpins much of Ethereum's DeFi ecosystem.\n\nTVL on Aave, the largest DeFi protocol, rose in ETH terms this week as deposits hit a record high of 11.02 million ($17.32 billion). Deposits have been steadily increasing since the turn of the year when it stood at 3 million ETH.\n\nWhat this shows is that whilst the recent bull market was focused on hype-fueled meme coins, the real-world use case of DeFi is still very much alive. In previous cycles DeFi has suffered due to centralized exchange dominance and a lack of liquidity, now capital is flooding in as traders deploy delta-neutral strategies, which increases liquidity on the long-term health of DeFi.\n\nAs the market edges closer to bearish territory, DeFi may well be one of the pillars keeping crypto afloat.\n\nAave was not the only protocol to experience inflows this week. TVL on Sky - formerly MakerDAO – increased from 1.85M ETH to 4.63M ETH. Lending protocol Spark also had a 1 million ETH boost in deposits earlier this month, according to DefiLlama.\n\nThe rush to DeFi during a market sell-off can be attributed to traders looking to de-risk, moving to stablecoins to acquire a delta-neutral yield through lending and borrowing instead of holding spot exposure during a volatile market.\n\nDecentralized exchange volumes have also remained steady, hitting $11.8 billion on Monday and $9.8 billion halfway through Tuesday compared to last week when volumes failed to top $7 billion on any single day.",
+    "url": "https://www.coindesk.com/business/2025/04/08/how-defi-held-firm-during-this-week-s-market-plunge-aave-deposits-hit-record-high",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Aave",
+                "Sky",
+                "MakerDAO",
+                "Spark",
+                "DefiLlama"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Despite overall market sell-off, the news highlights DeFi resilience with record deposits, increased TVL, and rising volumes indicating strong market confidence in DeFi fundamentals."
+    }
+}

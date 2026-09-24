@@ -1,0 +1,35 @@
+{
+    "title": "Lyzi Raises $1.4M to Expand Tezos-Based Crypto Payments Service for Retail",
+    "time": "2025-04-08T12:00:00",
+    "author": "Jamie Crawley",
+    "summary": "The round included participation from angels investors Christopher Grilhault des Fontaines, founder of Dfns, and Jean-Luc Bernard, founder of Astek",
+    "content": "Tezos-based crypto payment hub Lyzi said it raised 1.3 million euros ($1.4 million) in a seed funding round to expand the development of its platform.\n\nThe round included participation from angels investors Christopher Grilhault des Fontaines, founder of Dfns, and Jean-Luc Bernard, founder of Astek, according to an emailed announcement shared with CoinDesk on Tuesday.\n\nLyzi, which is built on the Tezos layer-1 blockchain, allows consumers to use cryptocurrency to make everyday payments in retail and e-commerce environments. Merchants collect payments in cryptocurrency and receive fiat directly to their bank accounts.\n\nFollowing the seed raise, Lyzi's next step is launch on Tezos' layer-2, Etherlink, which is compatible with Ethereum Virtual Machine (EVM), the operating system of the world's second-largest blockchain.\n\n“Our goal is to make accepting payments in crypto so easy that merchants have to ask themselves, 'Why wouldn’t I do that?'\" CEO Damien Patureaux said in Tuesday's announcement.\n\nBuilding on Etherlink represents the next phase of its journey to expand to more markets around the world, he said.",
+    "url": "https://www.coindesk.com/business/2025/04/08/lyzi-raises-usd1-4m-to-expand-tezos-based-crypto-payments-service-for-retail",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Christopher Grilhault des Fontaines",
+                "Jean-Luc Bernard",
+                "Damien Patureaux"
+            ],
+            "positions": [
+                "founder of Dfns",
+                "founder of Astek",
+                "CEO"
+            ],
+            "companies": [
+                "Lyzi",
+                "Dfns",
+                "Astek",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Tezos",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports successful funding for crypto payment expansion and platform development, indicating market confidence and growth in cryptocurrency adoption."
+    }
+}

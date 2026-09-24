@@ -1,0 +1,43 @@
+{
+    "title": "Binance's Potential Zcash Delisting Met With Dismay From Industry Heavyweights",
+    "time": "2025-04-15T15:15:00",
+    "author": "Oliver Knight",
+    "summary": "The token appeared on a Binance delisting list alongside FTX's FTT token.",
+    "content": "Cryptocurrency exchange Binance has been criticized this week for including privacy token\nZEC\n$473.42\namong those cryptos up for a vote to be delisted from the exchange.\n\nZcash, which has a $500 million market cap, appeared on the ballot alongside FTX's FTT token and data security platform JASMY.\n\nZcash founder Zooko Wilcox tagged Binance CEO Richard Teng in a tweet on Tuesday: \"You’re considering delisting Zcash!? What kind of world are you creating? Do you want your children to grow up in peace and prosperity, or a Black Mirror episode?\"\n\nDigital Currency Group founder Barry Silbert also shared several posts lamenting Binance's decision to include Zcash on the list.\n\nThe sentiment was also echoed by Ledger CTO Charles Guillemet and Cosmos co-foudner Ethan Buchman, both of whom highlighted the importance of privacy.\n\nFrom Binance's point of view, privacy tokens have long since been a topic of discussion among financial regulators. In 2022 a leaked EU document suggested that privacy tokens could be banned across the region.\n\nPrivacy protocol Tornado Cash was also sanctioned by the U.S. amid concerns of criminality, although these sanctions were removed last month.\n\nZEC is currently trading at $31.26 having dropped by 3.1% over the past 24 hours.",
+    "url": "https://www.coindesk.com/business/2025/04/15/binance-s-potential-zcash-delisting-met-with-dismay-from-industry-heavyweights",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Zooko Wilcox",
+                "Richard Teng",
+                "Barry Silbert",
+                "Charles Guillemet",
+                "Ethan Buchman"
+            ],
+            "positions": [
+                "founder",
+                "CEO",
+                "founder",
+                "CTO",
+                "co-founder"
+            ],
+            "companies": [
+                "Binance",
+                "FTX",
+                "Digital Currency Group",
+                "Ledger"
+            ],
+            "organizations": [
+                "Tornado Cash",
+                "Cosmos"
+            ]
+        },
+        "cryptocurrencies": [
+            "ZEC",
+            "Zcash",
+            "FTT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a potential delisting of Zcash from Binance, criticism from industry leaders, and a 3.1% price drop for ZEC over 24 hours, indicating negative market pressure."
+    }
+}

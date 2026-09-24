@@ -1,0 +1,33 @@
+{
+    "title": "Fidelity Files for Spot Solana ETF on Cboe Exchange",
+    "summary": "Cboe Exchange, which the ETF would be listed on, submitted a 19b-4 filing with the Securities and Exchange Commission on Tuesday.",
+    "time": "2025-03-25T18:01:00",
+    "author": "Helene Braun",
+    "content": "Fidelity Investments is looking to create an exchange-traded fund (ETF) tracking the price of Solana\nSOL\n$157.32\n, a filing with the Securities and Exchange Commission on Tuesday shows.\n\nCboe Exchange uploaded a 19b-4 filing to list a Solana ETF proposed by the $5 trillion Wall Street veteran. This comes after the firm registered a Fidelity Solana Fund in Delaware last Thursday.\n\nFidelity has yet to submit an S-1 filing, which is required for companies seeking to issue a new security and be listed on a public stock exchange.\n\nSolana, at $74 billion, is currently the sixth-largest crypto asset by market capitalization in the world. Several asset managers have filed applications with the SEC to launch funds holding the token, including Grayscale, Franklin Templeton and VanEck.\n\nLast week, two ETFs (SOLZ and SOLT) tracking SOL futures hit the market on Nasdaq, a significant step in getting a spot exchange-traded product approved.\n\nFidelity has previously issued two spot crypto ETFs: the Fidelity Wise Origin Bitcoin Fund (FBTC) and the Fidelity Ethereum Fund (FETH). Both launched last year. FBTC has attracted nearly $17 billion in assets — or bitcoin — and FETH handles roughly $975 million.\n\nMany of Fidelity’s clients are interested in owning cryptocurrencies and a large portion already does. The firm has been working on its digital asset ecosystem since 2014.",
+    "url": "https://www.coindesk.com/policy/2025/03/25/fidelity-files-for-spot-solana-etf-on-cboe-exchange",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Fidelity Investments",
+                "Grayscale",
+                "Franklin Templeton",
+                "VanEck"
+            ],
+            "organizations": [
+                "Cboe Exchange",
+                "Securities and Exchange Commission",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The filing for a spot Solana ETF by a major $5 trillion asset manager indicates institutional adoption and market confidence in cryptocurrency."
+    }
+}

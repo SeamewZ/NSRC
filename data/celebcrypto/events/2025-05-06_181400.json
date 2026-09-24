@@ -1,0 +1,38 @@
+{
+    "title": "CFTC Drops Appeal in Kalshi Election Betting Case",
+    "summary": "The CFTC appealed a federal judge’s ruling last year clearing Kalshi’s listing of a political prediction market, arguing that it presented a “profound” harm to the public.",
+    "time": "2025-05-06T18:14:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Commodity Futures Trading Commission (CFTC) has dropped its appeal in its case against Kalshi, a New York-based prediction market, according to a Monday court filing, finally clearing the way for the platform to offer political event contracts.\n\nUnder the conditions of the motion for voluntary dismissal, which is still subject to court approval, both parties will pay their own legal costs and Kalshi waives any right to sue the CFTC for the litigation.\n\n\"Today is historic. We have always believed that doing things the right way, no matter how hard, no matter how painful, pays off. This result is proof of that,” Kalshi CEO Tarek Mansour said in a statement. “Kalshi's approach has officially and definitively secured the future of prediction markets in America.\"\n\nKalshi’s fight with the CFTC began in 2023, when the regulator denied Kalshi’s plan to let users bet on which party would control the chambers of Congress. At the time of the denial, the CFTC — then under the leadership of former Chair Rostin Behnam — claimed that such contracts involved unlawful gaming and were “contrary to the public interest.”\n\nThat November, Kalshi sued the CFTC in Washington, D.C., claiming that the CFTC had overstepped its authority in attempting to block the contracts, and asking a judge to vacate the decision. The court sided with Kalshi in September 2024, clearing the way for the platform to list the political contracts.\n\nImmediately after losing the case, the CFTC scrambled to undo the district judge’s decision. It applied for a 14-day stay of the order — basically, a two-week delay on Kalshi’s ability to list the contracts while the CFTC prepared for an appeal — and was denied. Then, it filed an appeal, reiterating many of the same arguments it had used in its original defense.\n\nHowever, shortly after oral arguments in early January, U.S. President Donald Trump returned to office. His eldest son, Don Jr., joined Kalshi as a strategic advisor on January 13. Rob Schwartz, the CFTC’s general counsel at the time the appeal was filed, left the agency in April after withdrawing from the case in March.\n\nUnder the leadership of acting Chair Caroline Pham, the agency has changed its approach to crypto, cutting several pieces of crypto-related guidance and narrowing down its once-wide variety of enforcement task forces down to just two, in an effort to simplify its regulation and enforcement of the crypto industry.",
+    "url": "https://www.coindesk.com/policy/2025/05/06/cftc-drops-appeal-in-kalshi-election-betting-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tarek Mansour",
+                "Rostin Behnam",
+                "Donald Trump",
+                "Don Jr.",
+                "Rob Schwartz",
+                "Caroline Pham"
+            ],
+            "positions": [
+                "CEO",
+                "former Chair",
+                "U.S. President",
+                "strategic advisor",
+                "general counsel",
+                "acting Chair"
+            ],
+            "companies": [
+                "Kalshi"
+            ],
+            "organizations": [
+                "CFTC",
+                "U.S. Commodity Futures Trading Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The CFTC dropping its appeal and clearing the way for Kalshi's political prediction markets, combined with the agency's simplified approach to crypto regulation under new leadership, signals reduced regulatory uncertainty and potential growth for crypto-related markets."
+    }
+}

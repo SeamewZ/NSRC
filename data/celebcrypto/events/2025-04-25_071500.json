@@ -1,0 +1,31 @@
+{
+    "title": "North Korean Hackers Targeting Crypto Developers With U.S. Shell Firms",
+    "summary": "Illicitly downloaded programs can steal data, provide remote access to infected systems, and serve as entry points for additional spyware or ransomware.",
+    "time": "2025-04-25T07:15:00",
+    "author": "Shaurya Malwa",
+    "content": "North Korean hackers posing as American tech entrepreneurs quietly registered companies in New York and New Mexico as part of a campaign to compromise developers in the crypto industry, security firm Silent Push said Thursday.\n\nTwo businesses, Blocknovas and Softglide, were created using fictitious identities and addresses. The operation is tied to a subgroup within the Lazarus Group.\n\nThe North Korean-backed hacking unit has stolen billions worth of crypto in the past years using sophisticated techniques and strategies that target unsuspecting individuals or companies.\n\n“This is a rare example of North Korean hackers actually managing to set up legal corporate entities in the US in order to create corporate fronts used to attack unsuspecting job applicants,” said Kasey Best, director of threat intelligence at Silent Push.\n\nThe hackers’ playbook is as manipulative as it is effective: use fake LinkedIn-style profiles and job postings to lure crypto developers into interviews. Then, during the recruitment process, they are tricked into downloading malware disguised as job application tools.\n\nSilent Push identified multiple victims of the operation, especially those contacted through Blocknovas, which researchers say was the most active of the three front companies. The firm’s listed address in South Carolina appears to be an empty lot, while Softglide was registered through a tax office in Buffalo, New York.\n\nThe firm added that the malware used in the campaign includes at least three virus strains previously tied to North Korean cyber units. These programs can steal data, provide remote access to infected systems, and serve as entry points for additional spyware or ransomware.\n\nThe FBI has seized the Blocknovas domain, per Reuters. A notice posted to the site states it was taken down “as part of a law enforcement action against North Korean cyber actors who utilised this domain to deceive individuals with fake job postings and distribute malware.”",
+    "url": "https://www.coindesk.com/tech/2025/04/25/north-korean-hackers-targeting-crypto-developers-with-u-s-shell-firms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kasey Best"
+            ],
+            "positions": [
+                "director of threat intelligence"
+            ],
+            "companies": [
+                "Blocknovas",
+                "Softglide",
+                "Silent Push"
+            ],
+            "organizations": [
+                "North Korean hackers",
+                "Lazarus Group",
+                "FBI"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes North Korean hackers targeting crypto developers and stealing billions worth of cryptocurrency, indicating security breaches that undermine market confidence."
+    }
+}

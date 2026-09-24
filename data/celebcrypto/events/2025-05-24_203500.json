@@ -1,0 +1,32 @@
+{
+    "title": "Judge Overturns Convictions in Mango Markets Exploiter’s Crypto Fraud Case",
+    "time": "2025-05-24T20:35:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The judge ruled that prosecutors failed to prove Eisenberg made false representations to the platform, which operated through smart contracts.",
+    "content": "A U.S. judge has overturned the fraud and market manipulation convictions of Avraham Eisenberg, the crypto trader accused of draining $110 million from the now-defunct decentralized finance protocol Mango Markets.\n\nOn Friday, U.S. District Judge Arun Subramanian ruled that prosecutors failed to prove Eisenberg made false representations to the platform.\n\nHe also moved to acquit Eisenberg of wire fraud charges. The investor manipulated the price of Mango’s native token MNGO with massive trades by more than 1,000% in 20 minutes before getting the protocol to allow him to borrow and withdraw $110 million in various cryptocurrencies, backed by the inflated collateral.\n\nEisenberg’s defense argued that the platform, which operated through smart contracts, allowed anyone to transact freely and that he simply exploited a vulnerability. The judge agreed, stating that Mango’s permissionless structure meant that there “was insufficient evidence of falsity” from prosecutors regarding Eisenberg’s representation to Mango Markets.\n\nEisenberg was arrested in December 2022, and while this case collapsed, he is still currently serving a four-year sentence handed out after he pleaded guilty to the possession of child sexual abuse material.\n\n“From the beginning, we said this case was fatally flawed,” his attorney Brian Klein of Waymaker LLP said. “We are very pleased for Avi that the judge granted our motion and dismissed the case.”",
+    "url": "https://www.coindesk.com/business/2025/05/24/judge-overturns-convictions-in-mango-markets-exploiters-crypto-fraud-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Avraham Eisenberg",
+                "Arun Subramanian",
+                "Brian Klein"
+            ],
+            "positions": [
+                "U.S. District Judge",
+                "investor",
+                "attorney"
+            ],
+            "companies": [
+                "Mango Markets",
+                "Waymaker LLP"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "MNGO"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a legal ruling overturning convictions in a past crypto fraud case, with no indication of immediate market price movements or broader market implications."
+    }
+}

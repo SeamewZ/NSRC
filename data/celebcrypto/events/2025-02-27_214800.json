@@ -1,0 +1,54 @@
+{
+    "title": "Consensus EasyA Hackathon Winners: AI Agents, Gaming, Trading, Payments, NFT Platforms",
+    "time": "2025-02-27T21:48:00",
+    "author": "Aoyon Ashraf",
+    "summary": "Hackathon for Consensus Hong Kong brought out some of the most innovative the early stage projects that could drive the Web3 world forward.",
+    "content": "Every successful crypto conference needs a Hackathon to showcase the ideas and projects that will usher in the next wave of Web3 ideas.\n\nConsensus Hong Kong's Hackathon—organized by Consensus and EasyA, the start-up for developers—did just that and brought in hundreds of competitors to highlight the projects that look to take the industry to the next level.\n\nEasyA's founders Dominic and Phil Kwok set out to create a competition that not only showcases bright ideas but also ensures that the winners actually stick around to build the future of Web3. The participants focus on one piece of tech where they plan to launch their technology, as opposed to different chains.\n\nRead more: EasyA Wants to Attract More Than Just ‘Bounty Hunters’ to Its Hackathons\n\nThe two-day events saw some of the world's best developers compete for a chance to win over $200,000 and showcase their projects to influential VCs and investors.\n\nThe participants built their projects within different tracks, including Aptos, Ripple, Polkadot and OriginTrail. Some of the winners included AI-powered portfolio managers on DeX, gaming on the blockchain, payments solutions, social media platforms and NFT platforms.\n\n1st Place: Profitx - ProfitX is an intelligent, AI-powered portfolio manager and trading assistant integrated with Merkle Trade, a decentralized perpetual DEX built on the Aptos blockchain.\n\n2nd Place: HealthDB - Offers a local-first, Aptos-based AI agent that helps users better manage and enrich their health data via a weighted Monte Carlo Tree Search.\n\n3rd Place: Grand Theft Aptos - Grand Theft Aptos is an open-world game that combines AI-driven NPCs and blockchain technology to offer a dynamic, immersive gameplay experience. \n4th Place (tie): Ai.apt - Ai.apt is a powerful quant trading Agent that monitors prices, sentiment/news, and on-chain data around the clock, executing and adjusting strategies in real-time to maximize profit.\n\n4th Place (tie): Mixture of Multichain Experts(MoME) - MoME is an LLM and Retrieval-Augmented Generation (RAG)-based platform that automatically parses, verifies, and explains blockchain transactions across multiple networks—Aptos, Ripple, Polkadot, and OriginTrail.\n\n1st Place (tie): Xeno - Offers a tap-to-pay RLUSD (Ripple USD) solution to support global consumers and businesses to eliminate 1-3% card fees with XRP Ledger’s low-cost transactions and NFC convenience.\n\n1st Place (tie): FrameUS - FrameUs creates a solution that gives the fans a platform to donate to the charities of their idols.\n2nd Place (tie): Modern Portfolio Theory (MPT) - Guides DeFi investors in balancing risk and reward by helping maximize returns for a specific risk level or minimize risk for a target return by diversifying investments. By combining assets with different risks and correlations, MPT aims to reduce overall portfolio risk and achieve optimal performance.\n\n2nd Place (tie): Playcheck - Offers a secure in-person betting platform to help players make fair, real-time wagers with AI-driven verification and XRP Ledger for secure fund management.\n\n3rd Place: QR RLUSD - Offers a QR code-based payment solution to help merchants and customers execute cross-border transactions instantly with RLUSD stablecoin and Pyth Oracle real-time FX rates.\n\n1st Place: MozaicDot - The project interacts with Polkadot's AssetHub to enable comprehensive NFT functionality. The platform facilitates the creation, deployment, viewing, buying, and selling of NFTs within the Polkadot ecosystem. By leveraging AssetHub's infrastructure, users can seamlessly manage their digital assets while benefiting from Polkadot's security and interoperability features.\n\n2nd place (tie): Nemwork - Develops a blockchain-based AI Pet platform to help crypto enthusiasts manage assets and connect socially with unique NFT pets powered by Polkadot and Aptos.\n\n2nd place (tie): FrameUS - The same project that was the winner in the Ripple track.\n\n1st Place: Mixture of Multichain Experts (MoME) - The same project that was tied for the fourth place in the Aptos track.\n\n1st Place: Pix x Origintrail Telegram Bot - Tech-Noir I-Ching divinations integrated with the Origin Trail KnowledgeGraph will allow users to find interesting patterns across different divinations. How/Why/Does the I-Ching really work? In the future, it will also enable incentivized user-generated content by tracking and tracing authors of highly engaging divination questions and interpretations.\n\n2nd Place Mixture of Multichain Expert (MoME) - The same project that won the Crust network track and tied for fourth place in the Aptos track.\n\n3rd Place Prophet.fun - A platform for users to make prophecies and stake their own money in Natural Language.\n\nRead more: Consensus Hong Kong Review: TRUMP, LIBRA Memecoins Under Fire as Dormant BTC Revives Memories of 2018",
+    "url": "https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/27/consensus-hackathon-winners-ai-agents-gaming-trading-payments-and-nfts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dominic Kwok",
+                "Phil Kwok"
+            ],
+            "positions": [
+                "founders"
+            ],
+            "companies": [
+                "EasyA",
+                "Merkle Trade",
+                "ProfitX",
+                "HealthDB",
+                "Grand Theft Aptos",
+                "Ai.apt",
+                "Mixture of Multichain Experts (MoME)",
+                "Xeno",
+                "FrameUS",
+                "Modern Portfolio Theory (MPT)",
+                "Playcheck",
+                "QR RLUSD",
+                "MozaicDot",
+                "Nemwork",
+                "Pix x Origintrail Telegram Bot",
+                "Prophet.fun"
+            ],
+            "organizations": [
+                "Consensus Hong Kong",
+                "Aptos",
+                "Ripple",
+                "Polkadot",
+                "OriginTrail",
+                "XRP Ledger",
+                "Crust network",
+                "Origin Trail KnowledgeGraph"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "XRP",
+            "RLUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes innovative Web3 projects winning a major hackathon with significant prize money and VC interest, indicating positive development and growth in the cryptocurrency ecosystem."
+    }
+}

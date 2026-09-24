@@ -1,0 +1,39 @@
+{
+    "title": "Tether’s U.S.-Focused Stablecoin Could Launch Later This Year, CEO Paolo Ardoino Says",
+    "time": "2025-05-02T12:46:00",
+    "author": "Krisztian Sandor",
+    "summary": "The company's U.S. plans depend on the final stablecoin legislation, and is aiming to create a \"payment product\" that institutions can use, Paolo Ardoino said in a CNBC interview.",
+    "content": "Tether, the company behind the $148 billion stablecoin USDT, plans to launch its U.S.-focused stablecoin later this year or early 2026 depending on the nation's stablecoin legislation, CEO Paolo Ardoino told CNBC in an interview.\n\n\"Realistically, it depends on the timeline of the final legislation on stablecoins, but we are looking at [launching the product] by the end of this year or early next year at the fastest,” he said.\n\nArdoino said that the firm's flagship USDT token is catered towards users in emerging markets with limited access to U.S. dollars, and the new offering would be a different product.\n\n\"In the U.S., you have to create a payment product, something that could be used by institutions, something that can be used as a competitor of PayPal's CashApp,\" he said in the interview. \"That is what we are aiming for.\"\n\nTether's U.S.-based stablecoin plans highlight the firm's growing presence in the U.S. as Donald Trump's return to the White House allayed regulatory pressure on crypto firms.\n\nArdoino toured the U.S. earlier this year, giving interviews and speaking at events including at a conference by Wall Street investment bank Cantor Fitzgerald. Cantor manages Tether's over $100 billion U.S. Treasury holdings, while former CEO Howard Lutnick now serves as Secretary of Commerce in the Trump administration.\n\nCompetition is also increasing in the stablecoin market as U.S. federal legislative efforts to regulate stablecoins advance. It's a big opportunity: Citi projected that the sector could grow to a multi-trillion dollar by the end of the decade.\n\nRead more: U.S. Senate Moves Toward Action on Stablecoin Bill\n\nRival firm Circle, issuer of the $62 billion USDC token, last month announced plans of creating a cross-border payments and remittances network.",
+    "url": "https://www.coindesk.com/business/2025/05/02/tether-s-u-s-focussed-stablecoin-may-launch-later-this-year-ceo-ardoino-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paolo Ardoino",
+                "Donald Trump",
+                "Howard Lutnick"
+            ],
+            "positions": [
+                "CEO",
+                "Secretary of Commerce"
+            ],
+            "companies": [
+                "Tether",
+                "PayPal",
+                "Cantor Fitzgerald",
+                "Citi",
+                "Circle"
+            ],
+            "organizations": [
+                "CNBC",
+                "U.S. Senate",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Tether's expansion plans, reduced regulatory pressure under Trump's administration, and Citi's projection of multi-trillion dollar growth in the stablecoin sector, all indicating positive market development."
+    }
+}

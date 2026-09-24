@@ -1,0 +1,47 @@
+{
+    "title": "The Protocol: The Second Buggy Test for Upcoming Ethereum Upgrade 'Pectra' Could Lead to a Delayed Mainnet Hard Fork",
+    "summary": "Also: Plus: EF gets new leadership; layer-2 BOB and Fireblocks integrate; new MetaMask roadmap.",
+    "time": "2025-03-05T19:58:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Margaux Nijkerk, the Ethereum protocol reporter at CoinDesk.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nETHEREUM’S SECOND BUGGY TESTNET FOR PECTRA – DELAYS?: Ethereum developers on Wednesday initially celebrated a seemingly successful test of Pectra, the blockchain’s most significant upgrade since 2024, on the Sepolia test network. However, hours after the test, Sepolia began to encounter errors. It was the second buggy test for the highly anticipated Pectra upgrade, which is designed to improve Ethereum's efficiency, user experience, and validator system. The issues have led to calls from some developers that the upgrade be delayed. Wednesday’s Sepolia test (March 5) was expected to be the final step before Pectra’s launch on Ethereum’s mainnet. Initially, the test appeared to succeed, but later, developers noticed empty blocks being added to the chain. The Ethereum Foundation attributed the issue to \"an issue with Sepolia's permissioned deposit contract,\" which \"prevented many execution layer clients from including transactions in blocks.\" In other words, the problem stemmed from a misconfiguration specific to the Sepolia test, rather than a flaw with Pectra itself. Despite this, the test has raised concerns about whether Pectra has undergone sufficient testing. The previous test on Ethereum’s Holesky testnet also ran into configuration issues, that time caused by misconfigured validators. — Sam Kessler Read more.\n\nETHEREUM FOUNDATION PICKS NEW CO-EXECUTIVE DIRECTORS: The Ethereum Foundation (EF), the non-profit organization that supports the development and research of the Ethereum blockchain, shared in a blog post that they have selected Hsiao-Wei Wang and Tomasz Stańczak as their new co-executive directors. The news follows the departure of Aya Miyaguchi to become the EF’s new president. The leadership shake-up follows intense debate among the community about the EF’s role in the ecosystem, as some have blamed the organization and its leadership for the blockchain’s token ether\nETH\n$3,340.48\nprice lagging behind other cryptocurrencies, while the blockchain attracted for the first time less new developers than its competitor Solana. Also, ex-EF researcher Danny Ryan shared that he would be joining Etherealize, the new project aimed at bringing ETH to Wall Street. - Margaux Nijkerk Read more.\n\nBITCOIN LAYER-2 BOB AND FIREBLOCKS INTEGRATE: EHybrid layer-2 network BOB's mission to make Bitcoin the center of the decentralized finance (DeFi) universe continues through its integration with crypto custody firm Fireblocks. The integration means the over 2,000 entities using Fireblocks will get access to BOB's DeFi ecosystem, which has total value locked (TVL) of around $250 million.These users can now earn yield on their BTC holdings via BOB's network, according to an announcement shared with CoinDesk. — Jamie Crawley Read more.\n\nPOPULAR CRYPTO WALLET METAMASK UNVEILS NEW ROADMAP: MetaMask, the popular self-custodial crypto wallet for the Ethereum\nETH\n$3,340.48\nnetwork, shared a flurry of announcements last week, aimed at improving its wallet's user experience. Part of Metamask's revamped roadmap includes adding smart contract capabilities to its current wallet. At the moment, MetaMask is an Externally Owned Account (EOA), a type of wallet that is controlled by a public and a private key. One of the main downfalls with EOAs is that it is subject to human error, meaning if you forget your private key, you lose your crypto holdings in that account forever. The other type of wallet that exists on Ethereum are Contract Accounts (CAs), which are controlled by code and have recovery mechanisms in place and security checks for verifying transactions. In a blog post shared during ETHDenver, the largest North American Ethereum conference, the MetaMask team said “smart-contract-based accounts allow us to solve a number of problems: allowing new powerful uses of the assets you hold, while simultaneously improving security. When the user defines their terms from their own programmable account, we greatly expand how the user expresses their agency in ways that are enforced by their own code.” One of those new features aimed at making the user experience on MetaMask easier include ERC-5792, which builds on its current feature, smart transactions. Under ERC-5792, or known as batched transactions, users can combine certain steps when it comes to signing off transactions, like “approve + swap” in one click, meaning that they would save time and gas fees by batching those steps together. — Margaux Nijkerk Read more.\n\nTrading Titan Jump Is Regrouping Its U.S. Crypto Efforts, Insiders Say\n\nDavid Sacks Quietly Divested From Crypto Company at Center of Conflict of Interest Controversy\n\nRegulatory and policy",
+    "url": "https://www.coindesk.com/tech/2025/03/05/the-protocol-the-second-buggy-test-for-upcoming-ethereum-upgrade-pectra-could-lead-to-a-delayed-mainnet-hard-fork",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Hsiao-Wei Wang",
+                "Tomasz Stańczak",
+                "Aya Miyaguchi",
+                "Danny Ryan",
+                "Sam Kessler",
+                "Jamie Crawley"
+            ],
+            "positions": [
+                "Ethereum protocol reporter",
+                "co-executive directors",
+                "president",
+                "ex-EF researcher"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Fireblocks",
+                "MetaMask",
+                "Etherealize",
+                "BOB"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports multiple technical issues with Ethereum's Pectra upgrade testing, potential delays in the mainnet hard fork, and concerns about Ethereum lagging behind competitors like Solana in developer growth."
+    }
+}

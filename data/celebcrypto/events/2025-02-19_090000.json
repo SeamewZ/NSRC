@@ -1,0 +1,33 @@
+{
+    "title": "WisdomTree Launches ETP Based on CoinDesk 20",
+    "time": "2025-02-19T09:00:00",
+    "author": "Sam Reynolds",
+    "summary": "WisdomTree's new product offers exposure to the largest digital assets",
+    "content": "HONG KONG – Investors in Europe can now get direct exposure to the CoinDesk 20, an index representing the largest crypto assets, thanks to a new exchange-traded product (ETP) from WisdomTree launched at Consensus Hong Kong.\n\n“The launch of the first CoinDesk 20 ETP with WisdomTree is a defining moment for digital asset investing in Europe,\" Alan Campbell, President of CoinDesk Indices, said in a release. \"The CoinDesk 20 provides institutional investors with a streamlined way to access the largest digital assets beyond Bitcoin.\"\n\nWisdomTree's Physical CoinDesk 20 ETP (WCRP) offers exposure to the digital assets listed on the CoinDesk 20, in a similar way to other ETPs that offer exposure to traditional finance's S&P 500 or the NASDAQ.\n\nWCRP is listed on Deutsche Börse Xetra, the Swiss Stock Exchange SIX, and Euronext exchanges in Paris and Amsterdam.\n\nAdditionally, WCRP generates a staking yield, allowing investors to benefit from rewards earned by helping secure the underlying blockchain networks.\n\nThe CoinDesk 20 Index, launched in January 2024, has quickly become a key benchmark for digital asset investors, with over $14 billion in trading volume in its first year.",
+    "url": "https://www.coindesk.com/markets/2025/02/19/wisdomtree-launches-etp-based-on-coindesk-20",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alan Campbell"
+            ],
+            "positions": [
+                "President of CoinDesk Indices"
+            ],
+            "companies": [
+                "WisdomTree",
+                "Deutsche Börse Xetra",
+                "Swiss Stock Exchange SIX",
+                "Euronext"
+            ],
+            "organizations": [
+                "CoinDesk 20",
+                "CoinDesk Indices"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a new institutional investment product providing direct exposure to major digital assets and generating staking yields indicates growing market confidence and accessibility."
+    }
+}

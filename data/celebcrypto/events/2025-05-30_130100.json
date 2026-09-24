@@ -1,0 +1,28 @@
+{
+    "title": "Stellar's Midnight Mayhem: XLM Plunged 6% on High-Volume Despite Rain Integration",
+    "summary": "Stellar's integration with Rain signals progress toward mainstream adoption.",
+    "time": "2025-05-30T13:01:00",
+    "author": "AI Boost",
+    "content": "Stellar's native token XLM fell along with the broader market in the past 24 hours, with large volumes occurring at the turn of the day. The decline happened even as Rain, the global card issuing platform powered by stablecoins, announced Thursday support for Stellar alongside integration with Solana and Tron.\n\nXLM has plummeted 7% over 24 hours, dropping from 0.288 to 0.271, with exceptionally high selling volume. The cryptocurrency dived out of a trendline, marking the recovery from April lows, mimicking a pattern seen in payments-focused cryptocurrency XRP.\n\nStill, despite the price drop, Stellar's integration with Rain offers a rare bright spot in an otherwise dour market sentiment. The integration is a meaningful step toward mainstream adoption, allowing users to spend stablecoins held on these high-throughput networks for everyday purchases.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/stellar-s-midnight-mayhem-xlm-plunged-6-on-high-volume-despite-rain-integration",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Rain"
+            ],
+            "organizations": [
+                "Stellar",
+                "Solana",
+                "Tron"
+            ]
+        },
+        "cryptocurrencies": [
+            "XLM",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes XLM plummeting 7% with exceptionally high selling volume and dropping out of a trendline despite positive integration news."
+    }
+}

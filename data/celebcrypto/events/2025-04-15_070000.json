@@ -1,0 +1,31 @@
+{
+    "title": "DEX KiloEx Loses $7M in Apparent Oracle Manipulation Attack",
+    "summary": "KiloEx has suspended operations and is collaborating with partners to trace the stolen funds and blacklist the attacker's wallet.",
+    "time": "2025-04-15T07:00:00",
+    "author": "Shaurya Malwa",
+    "content": "KiloEx, a decentralized exchange (DEX) for trading perpetual futures, was hit by a sophisticated attack earlier Tuesday that left users reeling with losses of around $7 million.\n\nThe exploit unfolded across multiple blockchain networks and appeared to stem from a vulnerability in the platform’s price oracle system, per blockchain analysis firm Cyvers.\n\nAn attacker, using a wallet funded through Tornado Cash — a tool that obscures transaction trails — executed a series of transactions on the Base, BNB Chain, and Taiko networks to take advantage of a flaw in the platform’s price oracle system, which allowed the attacker to manipulate asset prices.\n\n🚨7M HACK ALERT🚨Our system has detected multiple suspicious transactions involving @KiloEx_perp across several chains.\n\nAn address funded via @TornadoCash has executed a series of exploitative transactions on the $BNB, $Base, and $Taiko chains — accumulating approximately $7M in… pic.twitter.com/od4UTsSrXs\n\nKiloEx has since confirmed the breach, suspended platform operations, and is now working with partners to trace the stolen funds and blacklist the attacker’s wallet.\n\nThe DEX offered the hacker 10% of the bounty if they returned 90% of the funds.\n\nOracles are blockchain-based tools that relay any type of outside data to a blockchain, where smart contracts use that data to make decisions for a financial application. That is, the oracle tells the platform whether ether\nETH\n$3,322.44\nis worth $2,000 or $3,000, ensuring trades happen at fair market prices.\n\nBut oracles can be a weak link. In KiloEx’s case, the attacker exploited a price oracle access control vulnerability — essentially, a flaw that let them tamper with data by using flash loans (or temporary liquidity) that tricked the system into believing false prices.\n\nThe attacker manipulated the oracle to report an absurdly low price for ETH (say, $100) when opening a leveraged trading position. Leverage allows traders to borrow funds to amplify their bets, so a fake price can create massive distortions.\n\nThis made it look like they’d made a huge profit, which they then withdrew from KiloEx’s vault. The attacker repeated this across Base, BNB Chain, and Taiko, exploiting KiloEx’s cross-chain setup to maximize gains before the platform could react.\n\nIn one reported transaction, the attacker netted $3.12 million in a single move.\n\nThis isn’t the first time a DeFi platform has been hit by oracle manipulation. Similar attacks have targeted platforms like Mango Markets in 2022, where $100 million was stolen, and Cream Finance in 2021, with losses of $130 million.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/dex-kiloex-loses-usd7m-in-apparent-oracle-manipulation-attack",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "KiloEx",
+                "Tornado Cash",
+                "Mango Markets",
+                "Cream Finance"
+            ],
+            "organizations": [
+                "Cyvers"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BNB",
+            "Base",
+            "Taiko"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $7 million security breach and hack of a decentralized exchange, which represents a negative event that undermines market confidence in DeFi platforms."
+    }
+}

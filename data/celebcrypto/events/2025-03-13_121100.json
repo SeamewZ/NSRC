@@ -1,0 +1,32 @@
+{
+    "title": "Ether Sees Record Active Selling Over 3 Months: CryptoQuant",
+    "time": "2025-03-13T12:11:00",
+    "author": "James Van Straten",
+    "summary": "Ethereum has faced record active selling over the past 3 months, per a CryptoQuant report.",
+    "content": "Ether\nETH\n$3,512.66\nhas fallen 43% year-to-date, it hit a 2025 high of $3,744 before dropping to its current level of $1,899. According to CryptoQuant CEO, Ki Young Ju, ether has experienced record levels of active selling over the past three months—the highest in the last five years.\n\nCoinDesk research indicates that the ether-to-bitcoin (ETH/BTC) ratio has declined to a five-year low, while the four-year compound annual growth rate (CAGR) has turned negative against bitcoin.\n\nETH has only dipped below $1,900 a handful of times since 2020. If you had purchased ether between June 2022 and October 2023, as well as throughout 2020, you would currently be in profit.\n\nGlassnode data reveals that short-term holders (STHs)—those who have held ETH for less than 155 days—are bearing the brunt of realized losses. However, long-term holders (LTHs) are also beginning to capitulate.\n\nMeanwhile, realized losses have been primarily driven by whales holding 100,000 ETH or more, particularly since February, Glassnode data shows.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/13/ether-sees-record-active-selling-over-3-months-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ki Young Ju"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "CryptoQuant",
+                "CoinDesk",
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes record active selling of ETH, significant price declines, negative ETH/BTC ratio, and widespread realized losses among both short-term and long-term holders."
+    }
+}

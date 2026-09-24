@@ -1,0 +1,37 @@
+{
+    "title": "Balaji Blasts Memecoins, Calling Them 'Zero-Sum Lottery’ as TRUMP Token Sends Market In Frenzy",
+    "time": "2025-01-20T03:57:00",
+    "author": "Sam Reynolds",
+    "summary": "The former CTO of Coinbase and general partner at venture capital firm Andreessen Horowitz said in a thread on X that memecoins aren’t wealth creation.",
+    "content": "As the official memecoin of the second Donald Trump presidency flirts with a market cap of $10 billion, and Melania Trump, the next first lady, launches her own, Balaji Srinivasan, the former CTO of Coinbase, said in a thread on X that this whole category of tokens could be equated to gambling.\n\nA memecoin is a zero-sum* lottery.\n\nThere is no wealth creation. Every buy order is simply matched by a sell order. And after an initial spike, the price eventually crashes and the last buyers lose everything.\n\n* It’s actually negative sum if the platform takes a cut.\n\n“There is no wealth creation. Every buy order is simply matched by a sell order. And after an initial spike, the price eventually crashes and the last buyers lose everything,” he posted, calling memecoins a zero-sum – even negative sum after exchange fees – lottery.\n\nBalaji said that memecoins should be approached in the same way as gambling in Las Vegas for entertainment purposes.\n\n“Most should buy assets that retain their value over the long run,” he continued. “It is sometimes possible to add use cases to a memecoin, or to keep it in the headlines to keep its value aloft indefinitely. And we’ve seen examples of that as well.”\n\nIn response to the post, many asked Balaji if bitcoin was ever considered a memecoin, to which he argued that it wasn’t because of its use cases and decade-plus staying power.\n\nYou are free to consider any asset a memecoin, and I’m not offended by that, but I’m happy to explain why I think Bitcoin is different.\n\n1) Bitcoin is the base layer asset of a blockchain with ~800 Th/s in hashrate across hundreds of datacenters worldwide.\n\n2) It hasn’t been… https://t.co/tazGAzGnjn pic.twitter.com/58AZxtsy9a\n\n“Bitcoin is the base layer asset of a blockchain with ~800 Th/s in hashrate across hundreds of datacenters worldwide,” he wrote. “It grew gradually over time, rather than all at once, and the mining issuance schedule limits how much can be sold by any one party.”\n\nMarket interest in the official Trump memecoin has sucked liquidity out of other memecoins, with CoinGecko data reporting that the category has shrunk by 8% in the last 24 hours. Many of the top memecoins like DOGE, SHIB, and BONK are down by over 10% on-day.\n\nREAD MORE: Bitcoin retraces to $100K, TRUMP Tanks 30% as Melania Memecoin Skyrockets",
+    "url": "https://www.coindesk.com/markets/2025/01/19/balaji-blasts-memecoins-calling-them-zero-sum-lottery-as-trump-token-sends-market-in-frenzy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Balaji Srinivasan",
+                "Donald Trump",
+                "Melania Trump"
+            ],
+            "positions": [
+                "former CTO of Coinbase",
+                "general partner",
+                "next first lady"
+            ],
+            "companies": [
+                "Coinbase",
+                "Andreessen Horowitz"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "DOGE",
+            "SHIB",
+            "BONK",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that market interest in the TRUMP memecoin has sucked liquidity out of other memecoins, with the category shrinking by 8% and top memecoins like DOGE, SHIB, and BONK down by over 10%."
+    }
+}

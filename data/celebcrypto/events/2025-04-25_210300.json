@@ -1,0 +1,49 @@
+{
+    "title": "Swiss National Bank Rejects Calls to Add Bitcoin Reserves",
+    "time": "2025-04-25T21:03:00",
+    "author": "Christine Lee",
+    "summary": "In comments Friday, SNB President Martin Schlegel said holding bitcoin raises liquidity and volatility risks for Switzerland.",
+    "content": "The Swiss National Bank has rejected holding bitcoin reserves, citing concerns over cryptocurrency market liquidity and volatility.\n\n\"For cryptocurrencies, market liquidity, even if it may seem ok at times, is especially during crises naturally called into question,” said SNB President Martin Schlegel at the bank’s General Assembly meeting Friday.\n\n“Cryptocurrencies also are known for their high volatility, which is a risk for long term value preservation. In short, one can say that cryptocurrencies for the moment do not fulfill the high requirements for our currency reserves.”\n\nSchlegel’s comments were prompted by the Bitcoin Initiative, a bitcoin advocacy group whose research demonstrates that adding bitcoin to Switzerland’s treasury would complement its overall portfolio and yield substantial return with minimal volatility.\n\nWithout bitcoin, the Swiss National Bank's investments grew by about 10% since 2015. A 1% bitcoin allocation to the central bank’s portfolio would have nearly doubled returns over the same period, according to a Bitcoin Initiative portfolio simulation. Annualized volatility would have increased only slightly.\n\nThe Bitcoin Initiative emphasized that bitcoin's volatility should not be evaluated in isolation, but in terms of its influence on the overall dynamics and performance of the investment portfolio.\n\n“[Bitcoin] price reached new highs, it showed resilience under market stress, and it continues to be highly liquid with trading volumes in the double digit billions, every day and night, even on bank holidays,” said Luzius Meisser, a member of the Bitcoin Initiative and board member of Bitcoin Suisse.\n\n“The Bitcoin network remains one of the most reliable and secure IT systems ever created. And most remarkably, the United States has started a strategic bitcoin stockpile.”\n\nIn an emailed statement to CoinDesk, the Bitcoin Initiative suggested the Swiss National Bank’s aversion to bitcoin might be political, as it could be perceived as “an expression of distrust towards other currencies” and harm delicate relations between Switzerland and the European Union.\n\nEuropean Central Bank President Christine LaGarde has consistently criticized bitcoin, calling it “worth nothing” and a “highly speculative asset” linked to money laundering. In January, Lagarde said “I’m confident” that “bitcoins will not enter the reserves of any of the central banks of the General Council” of the ECB.\n\nThat was in response to comments made by Czech National Bank Governor Ales Michl that his institution was evaluating adding bitcoin to its reserves. LaGarde argued that bitcoin fails to meet the ECB’s criteria for liquidity, security, and safety from criminal associations.\n\nIn February, Poland's central bank ruled out “keeping reserves in bitcoins under any circumstances” and the Romanian central bank warned banks not to issue loans to crypto companies.\n\nFederal Reserve chair Jerome Powell said in December 2024 that the U.S. central bank was “not allowed to own bitcoin” per the Federal Reserve Act and it’s not looking to change the law.\n\nThe Swiss National Bank has indirect bitcoin exposure through stocks that own corporate bitcoin treasuries, including 520,000 shares of Strategy, 8.12 million shares of Tesla, 580,000 shares of MARA Holdings, and 500,000 shares of CleanSpark, as of the end of 2024 according to Fintel data.\n\nSchlegel rejected citizen calls to add bitcoin reserves to the Swiss central bank’s coffers as recently as last month. When it comes to technological advancements, Schlegel noted Thursday that the SNB is running a pilot project using central bank digital currencies to facilitate payments between financial institutions.\n\nBy contrast, U.S. President Donald Trump signed an executive order this year that establishes a strategic bitcoin reserve and crypto stockpile, along with a Crypto Council that will evaluate budget neutral ways to supplement U.S. digital reserves. The order further prohibits government agencies from creating or promoting a central bank digital currency in the United States out of privacy concerns for citizens.",
+    "url": "https://www.coindesk.com/coindesk-news/2025/04/25/swiss-national-bank-rejects-calls-to-add-bitcoin-reserves",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Martin Schlegel",
+                "Luzius Meisser",
+                "Christine LaGarde",
+                "Ales Michl",
+                "Jerome Powell",
+                "Donald Trump"
+            ],
+            "positions": [
+                "SNB President",
+                "board member of Bitcoin Suisse",
+                "European Central Bank President",
+                "Czech National Bank Governor",
+                "Federal Reserve chair",
+                "U.S. President"
+            ],
+            "companies": [
+                "Bitcoin Suisse",
+                "Strategy",
+                "Tesla",
+                "MARA Holdings",
+                "CleanSpark"
+            ],
+            "organizations": [
+                "Swiss National Bank",
+                "Bitcoin Initiative",
+                "European Central Bank",
+                "Czech National Bank",
+                "Federal Reserve",
+                "Crypto Council"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The Swiss National Bank explicitly rejected holding bitcoin reserves due to liquidity and volatility concerns, which represents a negative institutional stance on cryptocurrency adoption."
+    }
+}

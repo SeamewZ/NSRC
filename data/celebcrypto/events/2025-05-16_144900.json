@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin Adoption News: Top Win Rebrands, Steak N Shake Accepts BTC, Galaxy's Nasdaq Debut",
+    "summary": "Galaxy Digital shares started trading on Nasdaq today, but the listing will have to jostle for the crypto sphere's attention.",
+    "time": "2025-05-16T14:49:00",
+    "author": "Jamie Crawley",
+    "content": "Galaxy Digital (GLXY) just debuted on the Nasdaq, but it appears the financial services company's listing will be jostling for the attention of the crypto sphere's hive mind.\n\nCrypto X — still widely known as Crypto Twitter (CT) despite the platform's name change — was abuzz with users sharing news of fast food company Steak n' Shake starting to accept bitcoin\nBTC\n$101,914.13\npayments over the Lightning network, having announced its plans to do so a week ago.\n\nA video posted on the social-media platform shows a customer completing an order at a self-service machine, choosing the \"Pay With Bitcoin\" option and scanning the QR code with their Lightning wallet in the Zeus app.\n\nAnother company raising the bitcoin flag is Top Win International (TOPW), a luxury watch wholesaler, which said it will change its name to AsiaStrategy and manage its treasury in digital assets. It is, in effect, following the model of Michael Saylor's software company Strategy (MSTR), which now owns 568,840 BTC, more than 2.5% of all the bitcoin that will ever exist.\n\nHong Kong-based Top Win is partnering with crypto-backed venture capital firm Sora for its new pivot. Shares of the company rose as much as 45% before losing the gains to trade down 31% at $5.14.\n\nSora previously worked with Tokyo-based Metaplanet (3350), another company copying the Strategy model.\n\nGalaxy, the Toronto-based crypto-focused financial services firm led by Mike Novogratz, has commenced trading on Nasdaq Global Select Market.\n\nNovogratz, who described the listing as a \"pivotal moment\" for Galaxy in a letter shared via email, rang the opening bell on the Nasdaq floor on Friday.\n\nGalaxy announced its plans at the end of last month, in which it also said GLXY would remain listed on the Toronto Stock Exchange (TSX) \"for a period of time following [its] intended listing on Nasdaq.\"\n\nGLXY shares traded at around $22.61 in early trading, 3.2% higher on the day. The Toronto-traded shares rose 2.98% to C$31.48 ($22.53).",
+    "url": "https://www.coindesk.com/markets/2025/05/16/bitcoin-adoption-news-top-win-rebrands-steak-n-shake-accepts-btc-galaxys-nasdaq-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Mike Novogratz"
+            ],
+            "positions": [],
+            "companies": [
+                "Galaxy Digital",
+                "Steak n' Shake",
+                "Top Win International",
+                "AsiaStrategy",
+                "Strategy",
+                "Metaplanet",
+                "Sora",
+                "Nasdaq",
+                "Toronto Stock Exchange"
+            ],
+            "organizations": [
+                "Crypto X",
+                "Crypto Twitter"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive adoption developments including Galaxy Digital's Nasdaq listing, Steak n' Shake accepting Bitcoin payments, and companies following Michael Saylor's bitcoin treasury model."
+    }
+}

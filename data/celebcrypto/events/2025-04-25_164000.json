@@ -1,0 +1,52 @@
+{
+    "title": "CoinDesk Weekly Recap: Finally, the Bitcoin Rally",
+    "summary": "After weeks of plateau, this week we saw an upswing in prices and a return to post-election crypto confidence. Here’s how CoinDesk reported the news that mattered.",
+    "time": "2025-04-25T16:40:00",
+    "author": "Benjamin Schiller",
+    "content": "After several weeks on a plateau, bitcoin saw some action this week, climbing to more than $95,000 at press time. It was up 12% on the work-week, buoyed by better macro news and a feeling that the worst of tariff-mania may be over.\n\nThe CoinDesk 20 — which tracks about 80% of crypto market cap — jumped 10%-plus in the last five days.\n\nIn an interview with CoinDesk’s Sam Reynolds, Coinbase Institutional's John D’Agostino attributed the rally to institutions and sovereign wealth funds accumulating bitcoin. Retail traders, by contrast, were tending to exit bitcoin ETFs, he said.\n\nInstitutions continued to back bitcoin-accumulation vehicles. On Wednesday, Strike CEO Jack Mallers and Cantor Fitzgerald’s Brandon Lutnick unveiled Twenty One Capital, a new bitcoin investment company backed by Tether, Bitfinex, and SoftBank. Twenty One will have the third largest bitcoin corporate treasury with 42,000 BTC, Reynolds and Francisco Rodrigues reported.\n\nThere was increasing evidence from the options markets that traders are willing to hold BTC through market swings, which explains why bitcoin held relatively steady when stocks and bonds were diving in recent weeks. CoinDesk’s market wizard Omkar Godbole reported on that.\n\nBitcoin became the fifth most-valuable of all financial assets this week, surpassing Google’s market cap for the first time. Not bad for a protocol that started as a hobby among cypherpunks 20 years ago.\n\nIn other news, Zora’s much-hyped token launch sagged a little on debut. Analysts said traders were weary of so-called “VC tokens” with relatively little liquidity. “The $ZORA launch highlights a recurring issue in Web3: overpromising and underdelivering,” Min Jung, a research analyst at Presto, told markets reporter Shaurya Malwa.\n\nOuch.\n\nBut rising prices for core crypto assets is opening space for expansive Web 3 ideas. This week, the hit British TV series Peaky Blinders launched a blockchain-based video game and Web3 “ecosystem,” for instance. And, in a shift from a year ago, we saw plenty of other gaming and cultural-crypto news announcements.\n\nStill, if you had to pick two winners in the current market, you’d have to go for bitcoin and… stablecoins (there are going to be hundreds of them soon). This week, USDC-issuer Circle announced a new global payments and remittances network (Ian Allison reported), and Coinbase free conversion between U.S. dollars and PayPal's PYUSD stablecoin.\n\nYou can’t go really too far wrong — though it’s not investment advice —accumulating bitcoin, and paying in stables.",
+    "url": "https://www.coindesk.com/news-analysis/2025/04/25/coindesk-weekly-recap-finally-the-bitcoin-rally",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Reynolds",
+                "John D'Agostino",
+                "Jack Mallers",
+                "Brandon Lutnick",
+                "Francisco Rodrigues",
+                "Omkar Godbole",
+                "Min Jung",
+                "Shaurya Malwa",
+                "Ian Allison"
+            ],
+            "positions": [
+                "CEO",
+                "research analyst",
+                "markets reporter"
+            ],
+            "companies": [
+                "Coinbase Institutional",
+                "Strike",
+                "Cantor Fitzgerald",
+                "Twenty One Capital",
+                "Tether",
+                "Bitfinex",
+                "SoftBank",
+                "Coinbase",
+                "Presto",
+                "Circle"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ZORA",
+            "USDC",
+            "PYUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin climbing 12% to over $95,000, institutional accumulation, and bitcoin becoming the fifth most-valuable financial asset, indicating strong positive market momentum."
+    }
+}

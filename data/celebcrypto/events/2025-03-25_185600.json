@@ -1,0 +1,51 @@
+{
+    "title": "Blockchain Data Provider Chronicle Raises $12M to Expand Infrastructure for Tokenized Assets",
+    "time": "2025-03-25T18:56:00",
+    "author": "Krisztian Sandor",
+    "summary": "Blockchain oracles like Chronicle are key piece of infrastructure to connect blockchain-based assets with off-chain data.",
+    "content": "Chronicle, a blockchain data provider focused on tokenized assets, announced on Tuesday that it has raised $12 million in a seed funding round.\n\nThe investment was led by Strobe Ventures, formerly known as BlockTower Capital. Other backers include Galaxy Vision Hill, Brevan Howard Digital, Tioga Capital and Fenbushi Capital, alongside notable crypto angel investors such as Rune Christensen (Sky/MakerDAO founder), Andre Cronje (founder of Sonic and Yearn), Stani Kulechov (founder of Aave), Mark Phillips (co-founder of Steakhouse) and Sam MacPherson (co-founder of Phoenix Labs).\n\nChronicle operates as an oracle network, offering real-time data verification for tokenized financial products. It has processed more than $20 billion in total value secured (TVS) since its launch in 2017 and is expanding its infrastructure to meet rising demand. The company recently rolled out its \"Verified Asset Oracle,\" which ensures the authenticity of off-chain assets for issuers such as Centrifuge, Superstate and M^0.\n\n\"As banks and asset managers accelerate tokenization initiatives, Chronicle's trusted data infrastructure provides the reliability and compliance capability these institutions require,\" said Thomas Klocanas, general partner at Strobe Ventures.\n\nThe demand for real-world asset (RWA) tokenization is rising, as global banks and asset managers increasingly use blockchain rails for moving traditional financial instruments. Tokenized assets could become a multitrillion-dollar market by 2030, reports by McKinsey, Boston Consulting Group and others projected.\n\nChronicle aims to tap into that rising demand by integrating off-chain data with blockchain-based assets by ensuring data security, auditability and cost-efficiency through a network of validators, including established financial data providers and crypto-native organizations like Sky, formerly MakerDAO.\n\nThe company said it will use the new capital to advance product development, expand partnerships, and strengthen compliance measures, reinforcing its role as a bridge between traditional finance and digital assets.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/03/25/blockchain-data-provider-chronicle-raises-usd12m-to-expand-infrastructure-for-tokenized-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rune Christensen",
+                "Andre Cronje",
+                "Stani Kulechov",
+                "Mark Phillips",
+                "Sam MacPherson",
+                "Thomas Klocanas"
+            ],
+            "positions": [
+                "founder",
+                "co-founder",
+                "general partner"
+            ],
+            "companies": [
+                "Chronicle",
+                "Strobe Ventures",
+                "BlockTower Capital",
+                "Galaxy Vision Hill",
+                "Brevan Howard Digital",
+                "Tioga Capital",
+                "Fenbushi Capital",
+                "Sky",
+                "MakerDAO",
+                "Sonic",
+                "Yearn",
+                "Aave",
+                "Steakhouse",
+                "Phoenix Labs",
+                "Centrifuge",
+                "Superstate",
+                "M^0",
+                "McKinsey",
+                "Boston Consulting Group",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $12 million funding round for blockchain infrastructure, rising demand for tokenized assets projected to become a multitrillion-dollar market, and institutional adoption by banks and asset managers, indicating market confidence and growth potential."
+    }
+}

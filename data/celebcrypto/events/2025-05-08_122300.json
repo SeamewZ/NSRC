@@ -1,0 +1,28 @@
+{
+    "title": "Ether-Bitcoin Ratio Signals ETH Is 'Extremely Undervalued,' but Headwinds Remain: CryptoQuant",
+    "time": "2025-05-08T12:23:00",
+    "author": "Shaurya Malwa",
+    "summary": "Undervaluation signals have previously preceded ETH rallies, but surging supply, flat demand, and weakened burn mechanics complicate the outlook.",
+    "content": "The ether-bitcoin (ETH/BTC) ratio has reached an “extremely undervalued” zone in a move that flashes a historically bullish signal — but traders betting on a sharp ether\nETH\n$3,495.36\nrecovery may want to pause.\n\nAccording to data from on-chain data firm CryptoQuant, the ETH/BTC market value to realized value (MVRV) ratio has dropped to multi-year lows to reach levels that have previously marked periods of ETH outperformance against BTC.\n\nThe exchange rate for the two tokens, conventionally called a ratio, peaked above 0.08 in late 2021. The ETH/BTC ratio was 0.019 at press time, down more than 75% from record highs.\n\nMVRV is a metric that compares a token’s current market cap to its realized capitalization, or the value of each coin based on the price it was last moved on the blockchain. This effectively reflects the average cost basis of all coins in circulation.\n\nBut the setup may not be as straightforward this time. Network activity remains flat and core usage metrics like transaction count and active addresses have seen little momentum since the last bull run, CryptoQuant said.\n\nThe increase in ether total supply is directly tied to the sharp decline in fees burned, as shown in the above chart, showing burn activity falling to near zero. The reason behind this shift is the Dencun upgrade, implemented in March 2024, which significantly reduces transaction fees across the network, the firm said.\n\nEthereum’s network activity has remained largely flat since 2021, with no sustained growth in usage over the past three years. This stagnation is echoed across key metrics such as transaction volume and active addresses, indicating that Ethereum's base layer has not experienced meaningful expansion in on-chain activity.\n\nMeanwhile, the growth of Layer 2 solutions such as Arbitrum and Base has come at the cost of mainnet activity. This cannibalization dynamic reduces base layer fees and weakens ETH’s value accrual narrative.\n\nInstitutional demand is also cooling: “Investor demand for ETH as a yield and institutional asset is weakening, as evidenced by declining staked ETH and lower balances held by ETFs and other investment vehicles,” CryptoQuant wrote.\n\n“The total value staked has fallen from its all-time high, while fund holdings continue to trend downward, indicating reduced confidence from crypto-native participants and traditional investors,” it added.\n\nThe amount of ETH staked has declined notably from it's all-time high of 35.02 million ETH in November 2024 to around 34.4 million ETH, suggesting that investors may be reallocating capital or seeking more liquid positions amid a less favorable market environment.\n\nAdditionally, ETH balances in investment products have fallen by about 400,000 ETH since early February, highlighting a broader decline in institutional demand.\n\nMeanwhile, bitcoin has continued to rise despite a macroeconomic environment, touching nearly $100,000 earlier on Thursday as its appeal as a safe-haven asset grows among investors.",
+    "url": "https://www.coindesk.com/markets/2025/05/08/ether-bitcoin-ratio-signals-eth-is-extremely-undervalued-but-headwinds-remain-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CryptoQuant",
+                "Arbitrum",
+                "Base"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights ETH's extreme undervaluation but emphasizes multiple headwinds including flat network activity, declining institutional demand, reduced staking, weakening burn mechanics, and cannibalization by Layer 2 solutions."
+    }
+}

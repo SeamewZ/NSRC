@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Could Cross $1M by Year-End if It Continues to Follow 2017 Cycle: Van Straten",
+    "time": "2025-01-21T11:39:00",
+    "author": "James Van Straten",
+    "summary": "Currently, bitcoin is up approximately 550% from the cycle lows, which aligns with previous cycles.",
+    "content": "The FTX collapse may seem like a distant memory, when bitcoin\nBTC\n$104,491.18\nfell to around $15,500 in November 2022. The sentiment during the period was extreme fear, and the industry never thought it would recover.\n\nBut just over two years later, bitcoin is trading over $100,000 with a new presumably crypto-friendly U.S. administration in charge. Donald Trump is now officially the 47th President of the U.S., however he has yet to announce any crypto policies.\n\nOne of the many discussions around bitcoin is the four-year cycle analysis, structured around its halving program, which cuts supply every four years. We tend to see similar cycles play out, with huge price appreciation the year after the halving, while this current cycle continues to mirror the previous two cycles.\n\nSo far, bitcoin is up around 550% from the cycle lows during the FTX collapse (black line). The chart shows that at this point in the current cycle, between the 2015 and 2018 cycles, bitcoin's (blue line) price was also up around a similar amount from the cycle low that occurred on Jan. 14, 2015.\n\nIt is important to note that Glassnode data takes the closing price of the day at 00:00 UTC, which can differ from other trading platforms.\n\nThe green line shows that during the 2018 to 2022 cycle, at this point in the cycle BTC was up around 1,300%, over double the gain the token has charted till now.\n\nIf bitcoin continues to track the 2015 to 2018 cycle, it would finish around 1,100% higher from the cycle low at the end of Q1 2025, putting one bitcoin at $186,000. The peak in the cycle would then occur around October of this year at 11,000% higher, putting a cycle top of around $1.7 million.\n\nThere are many other ways to compare this with previous cycles, such as comparing it with U.S. presidential administrations. According to a post on X by Bitcoin Archive, bitcoin went up 20x during Donald Trump's first term as president. A return of just 10x would put bitcoin around $1 million from here.",
+    "url": "https://www.coindesk.com/markets/2025/01/21/bitcoin-could-cross-1-m-by-year-end-if-it-continues-to-follow-2017-cycle-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "47th President of the U.S."
+            ],
+            "companies": [
+                "FTX",
+                "Glassnode"
+            ],
+            "organizations": [
+                "Bitcoin Archive"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news content discusses bitcoin's significant price appreciation, compares current gains favorably to previous cycles, and projects potential price increases up to $1.7 million based on historical patterns."
+    }
+}

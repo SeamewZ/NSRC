@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Staking Platform Core Joins Crypto Lender Maple and Custodians BitGo, Copper, Hex Trust",
+    "time": "2025-02-17T23:00:00",
+    "author": "Ian Allison",
+    "summary": "The ability to earn yield on bitcoin and potentially unleash a new wave of liquidity into the DeFi ecosystem has become a hot topic of late.",
+    "content": "Core Foundation, the creator of a yield-bearing bitcoin token, has partnered with institutional lending protocol Maple Finance and custody firms BitGo, Copper and Hex Trust to push deep into the BTC staking sector.\n\nCore’s lstBTC token lets institutional participants earn yield on bitcoin holdings while staying safely inside trusted custodial partners without the need to take on the risks or operational burdens of dealing with smart contracts. The liquid staking token, to be issued in the coming months by Maple, will allow staked BTC to be used by trading firms and asset managers as collateral for borrowing in DeFi or with trading counterparties.\n\nThe ability to earn yield on bitcoin and potentially unleash a new wave of liquidity into the DeFi ecosystem has become a hot topic, with protocols like Babylon having entered the market. A massive, untapped group of BTC holders will be able to get yield on their BTC thanks to Core’s dual-staking mechanism, said Maple CEO Sid Powell.\n\n“Bitcoin’s security budget will face problems in a few years as miners receive less block rewards revenue,” Powell said in an interview. “Staking solutions like CORE can help strengthen Bitcoin network security by giving alternative revenue sources to miners. Holders of lstBTC will benefit from this by earning yield on their BTC while in custody, which represents an immense total addressable market.”\n\nMaple launched an existing BTC staking product on CORE this month. This product involves locking up BTC for 90 days and has a yield target of 5%-plus APY. The liquid staking token BTC (lstBTC) will be instantly redeemable, offering better liquidity. Therefore, Maple expects a slightly lower APR range.\n\nPowell said Core is placing itself in an excellent competitive position, as things are in place to be first to market with a yield-bearing BTC liquid staking token.\n\n“There are few BTC yield options out there. If you look across the stack, most of them are just points and they're not liquid yet or delivering yield in BTC.\nRead more: Staking Will Define Bitcoin's Role in the Global Digital Economy in 2025",
+    "url": "https://www.coindesk.com/business/2025/02/17/bitcoin-staking-platform-core-joins-crypto-lender-maple-and-custodians-bitgo-copper-hex-trust",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sid Powell"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Core Foundation",
+                "Maple Finance",
+                "BitGo",
+                "Copper",
+                "Hex Trust",
+                "Babylon"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "CORE",
+            "lstBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes partnerships enabling yield generation on Bitcoin, increased liquidity for DeFi, and strengthening Bitcoin network security, all positive developments for the cryptocurrency market."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Chart of the Week: 'Dire Picture' for BTC Miners as Revenue Flatlines Near Record Low",
+    "time": "2025-04-20T17:00:00",
+    "author": "James Van Straten",
+    "summary": "Despite bitcoin trading around $84,000, miner revenue has decreased due to the recent halving event and rising operational costs.",
+    "content": "Hashprice, a key metric used to gauge miner revenue, is currently hovering near a five-year low, according to HashRate Index—a stark reminder of how difficult the mining business has become.\n\nIn simple terms, the metric is the income miners can expect per unit of computing power, denoted by per petahash (PH/s). It can be denominated in U.S. dollars or BTC, although it's most commonly quoted in USD for practical comparison.\n\nAt present, hashprice sits at $44.00 PH/s, only slightly above its August 2024 low, when bitcoin reached $49,000 amid the yen carry trade unwind. Currently, bitcoin is trading around $84,000.\n\nDespite the higher BTC price, miner revenue is dwindling, which paints a dire picture of the mining industry as a whole after the recent halving event cut the rewards by half. Rising competition, higher mining difficulty, lower transaction revenue, and spiking energy costs have added more pressure to the revenue.\n\nHowever, it's not all bad. At around $44.00 PH/s levels, depending on what type of mining machines miners are using, miners can still be near or at breakeven, although far from 2021's mining bull run.\n\nLooking ahead, deteriorating market conditions, stagnant bitcoin prices, and geopolitical uncertainty, such as potential tariffs affecting mining operations, could create further headwinds for the industry.\n\nThis is reflected in the performance of the Valkyrie Bitcoin Miners ETF (WGMI), which is down 50% year-to-date while BTC fell about 10%, underscoring the challenging environment facing the mining sector.\n\nIt makes sense that miners are increasingly pivoting into other revenue streams, such as reallocating computing power for artificial intelligence.\n\nRead more: Bitcoin Mining Stocks Plunge as Revenue Craters Amid Market Carnage",
+    "url": "https://www.coindesk.com/business/2025/04/20/chart-of-the-day-dire-picture-for-btc-miners-as-revenue-flatlines-near-record-low",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Valkyrie Bitcoin Miners ETF"
+            ],
+            "organizations": [
+                "HashRate Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes miner revenue at near record lows, deteriorating market conditions, and mining stocks plunging 50% year-to-date, indicating negative pressure on the mining sector."
+    }
+}

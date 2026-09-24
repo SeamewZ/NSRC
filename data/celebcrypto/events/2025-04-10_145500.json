@@ -1,0 +1,34 @@
+{
+    "title": "Dogecoin ETF Race Joined by 21Shares",
+    "summary": "Grayscale and Bitwise have both previously filed regulatory paperwork for a spot ETF backed by DOGE.",
+    "time": "2025-04-10T14:55:00",
+    "author": "Helene Braun",
+    "content": "The move to introduce a spot dogecoin ETF (DOGE) to the U.S. market now includes three crypto-focused asset managers, with 21Shares joining Bitwise and Grayscale.\n\nThe Switzerland-based crypto asset manager submitted an initial S-1 filing with the U.S. Securities and Exchange Commission on Thursday.\n\nThe fund would be custodied by 21Shares and Coinbase. The management fee as well as the ticker and which stock exchange would list the fund have yet to be announced. Whichever exchange that ends up being will have to file a 19b-4 document with the SEC to make the submission official and tie the regulator to a decision deadline.\n\nAs part of the filing, the company entered into a partnership with the Dogecoin Foundation’s corporate arm, House of Doge, which will help market the fund.\n\nIf a DOGE ETF is approved, it would become the first ETF tracking a meme coin, a crypto asset that was created as a joke. But DOGE has long evolved into more than that, inspiring the name of the government’s latest initiative, the Department of Government Efficiency (DOGE) which is led by Elon Musk.\n\nDOGE is currently the 9th largest crypto currency by market cap at $23 billion.",
+    "url": "https://www.coindesk.com/markets/2025/04/10/21shares-joins-race-to-launch-dogecoin-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk"
+            ],
+            "positions": [],
+            "companies": [
+                "21Shares",
+                "Grayscale",
+                "Bitwise",
+                "Coinbase",
+                "House of Doge"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "Dogecoin Foundation",
+                "Department of Government Efficiency"
+            ]
+        },
+        "cryptocurrencies": [
+            "DOGE",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The filing of a spot Dogecoin ETF by multiple asset managers indicates growing institutional interest and regulatory progress, which typically boosts market confidence and prices."
+    }
+}

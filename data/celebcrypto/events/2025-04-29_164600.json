@@ -1,0 +1,33 @@
+{
+    "title": "Samourai Wallet Prosecutors Are Considering Dropping Charges Under New DOJ Crypto Enforcement Priorities: Filing",
+    "summary": "The co-founders are each facing up to 25 years in prison for alleged money laundering and unlicensed money transmitting.",
+    "time": "2025-04-29T16:46:00",
+    "author": "Cheyenne Ligon",
+    "content": "New York prosecutors are seemingly considering whether or not to drop their case against Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill, according to a Monday court filing.\n\nIn a joint letter to District Judge Richard Berman of the Southern District of New York (SDNY), both prosecutors and lawyers for Rodriguez and Hill requested that the case be granted a 16-day continuance, or extension, “while the Government determines its position” in response to the defense’s request that the case be dismissed under the auspices of U.S. Deputy Attorney General Todd Blanche’s recent memo to the Department of Justice’s (DOJ) staff.\n\nIn his April 7 memo, Blanche announced that the DOJ’s crypto unit, the National Cryptocurrency Enforcement Team (NCET) would be disbanded, and instructed staff to no longer bring cases against crypto exchanges, mixing services, or offline wallets “for the acts of their end users or unwitting violations of regulations.”\n\nBlanche ordered any ongoing investigations inconsistent with this new policy to be closed, and said that his office would work with the DOJ’s criminal division to “review ongoing cases for consistency with this policy.”\n\nRead more: DOJ Axes Crypto Unit as Trump’s Regulatory Pullback Continues\n\nThree days after Blanche’s memo, lawyers for Hill and Rodriguez sent a letter to SDNY prosecutors “requesting the dismissal of the superseding indictment under the Blanche Memo,\" according to Monday's filing On April 24, the parties met to discuss the request.\n\nLast April, Rodriguez and Hill were charged with conspiracy to commit money laundering and conspiracy to operate an unlicensed money transmitting business. The charges carry a maximum sentence of 20 years and five years, respectively. Prosecutors said Samourai Wallet had facilitated around $2 billion in “unlawful transactions” between 2015 and 2024, with the pair collecting a combined $4.5 million in fees.",
+    "url": "https://www.coindesk.com/policy/2025/04/29/samourai-wallet-prosecutors-are-considering-dropping-charges-under-new-doj-crypto-enforcement-priorities-filing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Keonne Rodriguez",
+                "William Lonergan Hill",
+                "Richard Berman",
+                "Todd Blanche"
+            ],
+            "positions": [
+                "District Judge",
+                "U.S. Deputy Attorney General"
+            ],
+            "companies": [
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "Department of Justice (DOJ)",
+                "Southern District of New York (SDNY)",
+                "National Cryptocurrency Enforcement Team (NCET)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The DOJ's new policy to stop prosecuting crypto exchanges, mixing services, and offline wallets for user actions represents a significant regulatory pullback that reduces legal uncertainty for the cryptocurrency industry."
+    }
+}

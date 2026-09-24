@@ -1,0 +1,54 @@
+{
+    "title": "Weekly Recap: Bitcoin Gains Special Reserve Status",
+    "summary": "As industry leaders gathered for a White House Summit, the premier crypto emerged as a clear winner.",
+    "time": "2025-03-07T18:18:00",
+    "author": "Benjamin Schiller",
+    "content": "As crypto executives gathered for a White House Summit Friday and officials clarified plans for a Crypto Reserve, there was one big winner: Bitcoin.\n\nIn a Sunday March 2 social media message, President Trump had outlined a Reserve plan to include ETH, SOL, ADA and XRP alongside BTC. But, by Thursday night March 6, when he signed an executive order on the reserve, that plan had changed. Now, Bitcoin will get its own reserve and other coins will be relegated to a separate “stockpile.” Regulatory reporter Jesse Hamilton led our coverage from Washington D.C.\n\nThe volte-face came after vociferous industry reaction to Trump’s Sunday plan, which may have impacted decision-making. Many Bitcoiners complained BTC would be diluted alongside lesser-cap coins and that Bitcoin has unique characteristics as “digital gold” where other projects don’t. In the end, the White House seemed to agree. ADA, SOL and XRP, having been buoyed by the Sunday announcement, all plunged on the news, per reporting from CoinDesk’s Kris Sandor and Cheyenne Ligon.\n\nThere was other good news for the premier cryptocurrency. President Nayib Bukele said El Salvador would continue buying BTC even after an IMF deal that had seemed to scotch that mission, CoinDesk’s Tom Carreras reported. Texas passed a bill to create its own Bitcoin Reserve, leading about 20 other states that are considering the same, Hamilton reported. Fold added 475 BTC, becoming a top-10 public bitcoin treasury, James Van Straten wrote.\n\nLombard Finance said it would deploy its liquid-staking bitcoin token, LBTC, on Sui, deepening bitcoin’s moat in crypto markets. CoinDesk’s Francisco Rodrigues had that news. (Meanwhile, Sui’s native token was added to the Trump-owned World Liberty Financial Asset Reserve, boosting its price.)\n\nDanny Nelson had the scoop of the week: News that DoubleZero Foundation, a stealthy startup building a “new internet” aiming to improve blockchain performance, had raised $28 million at a $400 million valuation (it is now looking for more investment.)\n\nIn other news, Sam Bankman-Fried spoke to Tucker Carlson from his prison cell, another stop on his media play to win a presidential pardon. Once an enthusiastic backer of Democrat electoral candidates, SBF now seems to be on the GOP side. We’ll have to see whether his outreach pays dividends in the weeks ahead.",
+    "url": "https://www.coindesk.com/news-analysis/2025/03/07/weekly-recap-bitcoin-gains-special-reserve-status",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "President Trump",
+                "Jesse Hamilton",
+                "Kris Sandor",
+                "Cheyenne Ligon",
+                "President Nayib Bukele",
+                "Tom Carreras",
+                "James Van Straten",
+                "Francisco Rodrigues",
+                "Danny Nelson",
+                "Sam Bankman-Fried",
+                "Tucker Carlson"
+            ],
+            "positions": [
+                "President",
+                "Regulatory reporter",
+                "CoinDesk reporter"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Fold",
+                "Lombard Finance",
+                "DoubleZero Foundation",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "White House",
+                "IMF",
+                "GOP"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "SOL",
+            "ADA",
+            "XRP",
+            "LBTC",
+            "Sui"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin gained special reserve status while other cryptocurrencies were relegated to a separate stockpile, and multiple positive developments for Bitcoin were reported including El Salvador continuing purchases and states creating Bitcoin reserves."
+    }
+}

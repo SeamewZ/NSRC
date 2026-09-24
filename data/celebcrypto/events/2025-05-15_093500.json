@@ -1,0 +1,24 @@
+{
+    "title": "Telegram Shuts Down 'Largest Illicit Online Marketplace' After Elliptic's Insights",
+    "time": "2025-05-15T09:35:00",
+    "author": "Jamie Crawley",
+    "summary": "Telegram has now shut down both Haowang and Xinbi, which processed a combined $35 billion of illicit transactions in stablecoins",
+    "content": "Telegram has shut down the illicit marketplace Haowang Guarantee, formerly Huione Guarantee, which has facilitated transactions totaling over $27 billion in stablecoins since 2021.\n\nHaowang was shut down based on insights provided by blockchain analytics firm Elliptic on Tuesday.\n\nThe closure took place amidst a crackdown on thousands of suspected Chinese crypto-crime channels operating on Telegram, following Elliptic's report into marketplace Xinbi Guarantee.\n\nTelegram has now shut down both Huione and Xinbi, which processed a combined $35 billion of illicit transactions in stablecoins, Elliptic wrote in a web post on Wednesday.\n\n\"Our analysis indicates that Huione Guarantee has facilitated transactions totalling more than $27 billion since launching in 2021, making it the largest illicit online marketplace to have ever operated,\" Elliptic wrote.\n\nXinbi was the second largest, having processed transactions worth $8.4 billion since 2022, Elliptic added.\n\nFor perspective, notable \"dark web\" marketplaces such as the Silk Road and Alphabay processed $216 million and $639 million respectively.\n\nSuch marketplaces historically operated through anonymous browser Tor, but have more recently shifted their operations to Telegram, the messaging app with over a billion users.\n\nHuione and Xinbi are referred to as \"guarantee\" marketplaces, a term designated for platforms that do not sell goods and services themselves, but provide a venue for merchants to sell to customers.\n\nRead More: 1 in 5 Cross-Chain Crypto Investigations Involve More Than 10 Blockchains, Elliptic Finds",
+    "url": "https://www.coindesk.com/business/2025/05/15/telegram-shuts-down-largest-illicit-online-marketplace-after-elliptics-insights",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Telegram",
+                "Elliptic"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major crackdown on illicit crypto marketplaces that processed $35 billion in transactions, which represents negative regulatory enforcement against cryptocurrency misuse."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin OP_CAT Proposal Gets Boost From Taproot Wizards' $30M Fundraise",
+    "time": "2025-02-04T21:03:00",
+    "author": "Jamie Crawley",
+    "summary": "Taproot Wizards will use the funding to build an ecosystem of applications using the OP_CAT Bitcoin improvement proposal",
+    "content": "Taproot Wizards has raised $30 million with which it plans to build an ecosystem of applications using the OP_CAT Bitcoin improvement proposal (BIP).\n\nOP_CAT is a feature that Bitcoin's pseudonymous founder Satoshi Nakamoto included in the software's original code but which he/she/they removed out of concerns that it exposed it to risks such as denial-of-service (DoS) attack.\n\nMany developers have expressed a concern in bringing it back.\n\nThe proposal could bring Ethereum-like smart contract functionality to Bitcoin through introducing \"covenants,\" or rules that determine how a specific transaction will function.\n\nTaproot Wizards, whose vision is to \"make Bitcoin magical again,\" sold a collection of 3,000 non-fungible token (NFT)-like pieces of digital art called \"Quantum Cats\" to drum up support for OP_CAT one year ago.\n\nThe Wizards have been attempting to \"meme OP_CAT back into existence,\" according to an emailed announcement on Tuesday.\n\nCo-founder Udi Werthimer describes OP_CAT as \"the missing piece\" to attaining \"permissionless programmability for bitcoin, allowing lending, trading and smart contracts without giving up self custody,\" in Tuesday's announcement.\n\nThe $30 million funding round was led by Standard Crypto.",
+    "url": "https://www.coindesk.com/business/2025/02/04/bitcoin-op_cat-proposal-gets-boost-from-taproot-wizards-usd30m-fundraise",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Satoshi Nakamoto",
+                "Udi Werthimer"
+            ],
+            "positions": [
+                "Co-founder"
+            ],
+            "companies": [
+                "Taproot Wizards",
+                "Standard Crypto"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The $30 million funding round and development of new functionality suggests increased investment and innovation in Bitcoin, indicating market confidence."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Ethereum L1 Monad Joins Forces With Orderly Network for DeFi Boost",
+    "time": "2025-02-19T15:30:00",
+    "author": "Ian Allison",
+    "summary": "The arrival of the Monad testnet will provide traders with a fast EVM-compatible building site and the possibility of airdrops on the L1.",
+    "content": "Monad, an Ethereum Virtual Machine (EVM) layer-1 blockchain about to launch its testnet, has joined forces with Orderly Network, a decentralized exchange (DEX) infrastructure supporting a range of other chains, as the platforms spread their nets wide in anticipation of a second decentralized finance (DeFi) summer.\n\nThe arrival of the Monad testnet on Wednesday will provide traders with a fast EVM-compatible building site and the possibility of airdrops on the L1. Orderly’s band of 20 or so market makers includes Wintermute, Selini and Riverside, according to a press release.\n\nFirms in the decentralized trading industry, which includes major exchanges like Coinbase (COIN), are hoping for surge of DeFi activity in the coming months as the crypto-friendly administration of President Donald Trump gives crypto a regulatory tailwind. The first DeFi summer, in 2020, came hot on the heels of Federal Reserve interest-rate cuts in response to the Covid outbreak.\n\nOrderly already offers users a shared order book across multiple blockchains, including Arbitrum, Optimism, Polygon, Base, Mantle and Near.\n\n“Orderly is an omni-chain trading infrastructure with a focus of solving for fragmented liquidity,” Chief Operating Officer Arjun Arora said in an interview. “With more chains propping up day by day, liquidity continues to get fragmented across DeFi, TVL [total locked value] continues to get moved around.”\n\nIn April 2024, Monad Labs raised $225 million in a funding round led by Paradigm.",
+    "url": "https://www.coindesk.com/business/2025/02/19/ethereum-l1-monad-joins-forces-with-near-based-orderly-network-for-defi-boost",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arjun Arora",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Chief Operating Officer",
+                "President"
+            ],
+            "companies": [
+                "Monad Labs",
+                "Orderly Network",
+                "Wintermute",
+                "Selini",
+                "Riverside",
+                "Coinbase"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes partnerships, funding raises, and anticipation of a DeFi surge with regulatory tailwinds, all indicating positive market developments."
+    }
+}

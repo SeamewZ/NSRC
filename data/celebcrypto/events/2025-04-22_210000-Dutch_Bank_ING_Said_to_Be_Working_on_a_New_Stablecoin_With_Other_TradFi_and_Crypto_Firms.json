@@ -1,0 +1,30 @@
+{
+    "title": "Dutch Bank ING Said to Be Working on a New Stablecoin With Other TradFi and Crypto Firms",
+    "time": "2025-04-22T13:00:00",
+    "author": "Ian Allison",
+    "summary": "ING’s stablecoin project could take the form of a consortium effort including some other banks and crypto service providers, two people familiar with the plans said.",
+    "content": "Dutch bank ING is working on a stablecoin, looking to take advantage of Europe’s new cryptocurrency regulations that came into force last year, according to two people with knowledge of the plans.\n\nING’s stablecoin project could take the form of a consortium effort involving other banks and crypto service providers, both people said.\n\n“ING is working on a stablecoin project with a few other banks. It's moving slow as multiple banks need board approval to set up a joint entity,” one of the sources said.\n\nING declined to comment.\n\nEurope’s Markets in Crypto Assets regime [MiCA] requires stablecoin issuers across EU member countries to hold an authorization license, while promoting the potential of euro-denominated stablecoins (the vast majority of the stablecoins in circulation are pegged to the U.S. dollar).\n\nMiCA’s stablecoin rules, which also require issuers to maintain significant reserves in banks based in Europe, have strengthened compliant offerings like Circle’s euro stablecoin EURC over its main rival Tether, according to a note early this year from JPMorgan.\n\nBanks like ING entering the European stablecoin space means French lender Société Générale, the first big bank to offer a stablecoin through its SG Forge innovation division, will soon have some competition.\n\nRead more: Stablecoin Market Could Grow to $2T by End-2028: Standard Chartered",
+    "url": "https://www.coindesk.com/business/2025/04/22/dutch-bank-ing-said-to-be-working-on-a-new-stablecoin-with-other-tradfi-and-crypto-firms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "ING",
+                "Circle",
+                "Tether",
+                "JPMorgan",
+                "Société Générale",
+                "Standard Chartered"
+            ],
+            "organizations": [
+                "SG Forge"
+            ]
+        },
+        "cryptocurrencies": [
+            "EURC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major traditional banks entering the stablecoin space and Europe's regulatory framework promoting euro-denominated stablecoins, indicating institutional adoption and regulatory clarity that typically boost market confidence."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Ripple Integrates RLUSD Stablecoin Into Cross-Border Payments System",
+    "time": "2025-04-02T15:17:00",
+    "author": "Krisztian Sandor",
+    "summary": "Ripple USD's market cap reached $244 million since its December debut, growing 87% over the past month.",
+    "content": "Ripple, an enterprise-focused blockchain service closely tied to the XRP Ledger (XRP), said on Wednesday it has integrated its stablecoin to the company's cross-border payments system to boost adoption for\nRLUSD\n$1.0001\n.\n\nSelect Ripple Payments customers including cross-border payment providers BKK Forex and iSend are already using the stablecoin to improve their treasury operations, the company said. Ripple plans to further expand the token's availability of its token to payments customers.\n\nAdditionally, crypto exchange Kraken added RLUSD to its platform, following recent listings on LMAX and Bitstamp.\n\nRipple entered the rapidly growing stablecoin market with its short-term U.S. government bond-backed cryptocurrency after receiving regulatory approval from the New York New York Department of Financial Services in December.\n\nSince then, RLUSD reached a $244 million market capitalization, growing 87% over the past month and reaching a monthly transfer volume of $860 million, rwa.xyz data shows.\n\nJack McDonald, Ripple's senior vice president of stablecoins, said in a statement that RLUSD's growth is \"outpacing our internal projections\" with adoption spanning multiple financial sectors. Ripple is also working with NGOs exploring stablecoins for more efficient aid distribution, he added.",
+    "url": "https://www.coindesk.com/business/2025/04/02/ripple-integrates-rlusd-stablecoin-into-its-cross-border-payments-system-as-demand-exceeds-expectations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack McDonald"
+            ],
+            "positions": [
+                "senior vice president of stablecoins"
+            ],
+            "companies": [
+                "Ripple",
+                "BKK Forex",
+                "iSend",
+                "Kraken",
+                "LMAX",
+                "Bitstamp"
+            ],
+            "organizations": [
+                "New York Department of Financial Services",
+                "NGOs"
+            ]
+        },
+        "cryptocurrencies": [
+            "RLUSD",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes RLUSD's rapid growth with 87% market cap increase, expanding adoption across multiple financial sectors, and positive statements from Ripple executives about exceeding projections."
+    }
+}

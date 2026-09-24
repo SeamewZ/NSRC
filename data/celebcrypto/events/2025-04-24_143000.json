@@ -1,0 +1,35 @@
+{
+    "title": "TON Foundation Appoints MoonPay Co-Founder, Maximilian Crown, as CEO",
+    "time": "2025-04-24T14:30:00",
+    "author": "Oliver Knight",
+    "summary": "The appointment follows Manuel Stotz becoming the president of the foundation's board.",
+    "content": "TON Foundation, the entity behind the Telegram-linked TON blockchain, has appointed Maximilian Crown, co-founder of MoonPay, as its CEO.\n\nCrown was the CFO and COO at the crypto infrastructure provider and has relationships with banks, payments companies, and regulatory bodies. He will remain on the board at MoonPay.\n\nThe move comes one month after the TON Foundation announced that it had received $400 million worth of investment from venture capitalist firms that purchased the TON token.\n\nActive users on the TON blockchain jumped from 4 million to 41 million in the past year. However, the TON token, is down by 46% in the same period.\n\nIt aims to onboard 30% of Telegram's active users to the blockchain by 2028.\n\n“TON’s speed, scalability, and exclusive integration with Telegram set it apart in the blockchain space,” said Maximilian Crown. “With access to over 1 billion Telegram users, TON has a unique opportunity to expand its ecosystem globally and redefine how blockchain technology is adopted at scale.\"",
+    "url": "https://www.coindesk.com/business/2025/04/24/ton-foundation-appoints-moonpay-co-founder-maximilian-crown-as-ceo",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Maximilian Crown",
+                "Manuel Stotz"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder",
+                "CFO",
+                "COO",
+                "president"
+            ],
+            "companies": [
+                "MoonPay"
+            ],
+            "organizations": [
+                "TON Foundation",
+                "Telegram"
+            ]
+        },
+        "cryptocurrencies": [
+            "TON"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The appointment of an experienced executive with strong industry connections, combined with significant investment and rapid user growth, indicates positive momentum and market confidence in the TON ecosystem."
+    }
+}

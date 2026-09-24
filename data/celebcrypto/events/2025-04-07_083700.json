@@ -1,0 +1,31 @@
+{
+    "title": "Markets in Freefall: Is the Credit Market Forcing the Fed’s Hand?",
+    "time": "2025-04-07T08:37:00",
+    "author": "James Van Straten",
+    "summary": "Futures now price in up to five rate cuts in 2025 as investors bet on an aggressive policy pivot.",
+    "content": "Financial markets are in a meltdown and every leg lower is strengthening expectations in the credit market that the Fed will soon offer support.\n\nBitcoin\nBTC\n$103,955.76\n, the leading cryptocurrency by market value, traded 8% lower at $75,800 and the U.S. stocks were on track for their worst three-day performance, with S&P 500 futures down roughly 5% on Monday alone and losses approaching 15% overall.\n\nThe Fed has a history of intervening during financial meltdowns with rate cuts and other stimulus measures. So, traders, having become accustomed to liquidity support, are betting that the Fed will act similarly this time.\n\nAccording to the CME FedWatch Tool, the federal funds futures market is now pricing in as many as five rate cuts in 2025. For the upcoming May 7 meeting, there's a 61% probability of a 25 basis point cut, which would lower the target range to 4.25–4.50%. By year-end, the market sees the fed funds rate falling as low as 3.00–3.25%.\n\nThe risk-off, coupled with the growth scare and Fed rate cut bets, is giving Trump administration what it wants – plunging Treasury yields. The all-important 10-year yield — the benchmark for the U.S. economy — has dropped to 3.923%.\n\nThe popular narrative is that lower yields would make it easier for the Treasury to refinance trillions of dollars in debt in the coming 12 months, which is why the Trump administration may be more tolerant of the asset market swoon.\n\nThis refinancing urgency stems from a policy shift under former Treasury Secretary Janet Yellen, who moved from longer-dated coupon issuance to short-term Treasury bills. Since 2023, about two-thirds of the deficit had been financed through bill issuance — short-term debt with rates hovering around 5%. While this may have temporarily supported liquidity, it created a ticking time bomb of expensive short-term debt that now needs to be rolled over.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/markets-in-freefall-is-the-credit-market-forcing-the-fed-s-hand",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Janet Yellen"
+            ],
+            "positions": [
+                "former Treasury Secretary"
+            ],
+            "companies": [],
+            "organizations": [
+                "Fed",
+                "CME FedWatch Tool",
+                "Treasury",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin traded 8% lower at $75,800 and financial markets are described as being in a meltdown with the worst three-day performance."
+    }
+}

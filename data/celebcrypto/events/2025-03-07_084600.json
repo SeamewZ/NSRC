@@ -1,0 +1,30 @@
+{
+    "title": "U.S. Stocks Give Up Post-Trump Election Advance While Bitcoin Clings to Gain",
+    "time": "2025-03-07T08:46:00",
+    "author": "James Van Straten",
+    "summary": "Since President Trump won the U.S. election in November, the S&P 500 has dropped 2%, while bitcoin has gained 20%.",
+    "content": "The stock market tariff tantrum of the past few weeks has seen the Nasdaq 100 and S&P 500 give up all their gains since the early November election victory of Donald Trump even as bitcoin (BTC) remains in positive territory.\n\nBoth equity gauges are now more than 2% lower, while bitcoin is up over 20% in the same time frame.\n\nMarket leader Nvidia (NVDA), whose chips are in demand for uses in AI, for instance, is lower by more than 20% since Trump's triumph. On the flip side, Meta Platforms (META) is the stand out stock in the so-called magnificent seven technology companies having gained about 10%.\n\nWhile bitcoin buyer Strategy (MSTR) is down over 50% from its all-time high in November, it remains up 20% since the election.\n\nThough bitcoin bulls are surely disappointed in the price performance of late — the world's largest cryptocurrency has slumped about 20% from $109,000 the day before Trump was inaugurated on Jan. 20 — the current price of $88,000 is still up roughly 20% from its level just prior to the November election.",
+    "url": "https://www.coindesk.com/markets/2025/03/07/u-s-stocks-give-up-post-trump-election-advance-while-bitcoin-clings-to-gain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Nvidia",
+                "Meta Platforms",
+                "Strategy"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin has gained 20% since the November election while major stock indices have declined, showing positive cryptocurrency performance relative to traditional markets."
+    }
+}

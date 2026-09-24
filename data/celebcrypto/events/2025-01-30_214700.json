@@ -1,0 +1,36 @@
+{
+    "title": "Tether Brings Its $140B USDT Stablecoin to Bitcoin and Lightning Networks",
+    "time": "2025-01-30T21:47:00",
+    "author": "Krisztian Sandor",
+    "summary": "Stablecoins are increasingly popular for everyday uses like payments, remittances and savings, and Tether's expansion aims to spur activity to the Bitcoin-based ecosystem.",
+    "content": "San Salvador — Tether, the crypto company behind the largest stablecoin, is introducing its $140 billion USDT token to Bitcoin — the blockchain that underpins the largest and oldest cryptocurrency — and Bitcoin-based scaling service Lightning Network, the company said on Thursday.\n\nAnnounced at the Plan B conference in San Salvador, Tether CEO Paolo Ardoino said that bringing USDT to Bitcoin and Lightning aims to offer \"practical solutions for remittances, payments, and other financial applications that demand both speed and reliability.”\n\nStablecoins are a $200 billion digital asset class with their prices anchored to an external asset, predominantly the U.S. dollar. They serve as a bridge between government-issued money and blockchain-based digital assets, and are increasingly popular for everyday uses like payments, savings and remittances, especially in emerging countries.\n\nWhile stablecoin usage has rapidly rapidly expanded over the past years, activity and supply are mostly concentrated on smart contract platforms like Ethereum, Tron and Solana.\n\nWhat makes USDT's integration with Bitcoin possible is Taproot Assets, a piece of infrastructure that allows asset issuances on the Bitcoin base layer and transfers over the Lightning Network, a scaling platform focusing on fast and cheap transactions, thus making micropayments more cost-efficient. The protocol, developed by Lightning Labs and released last year, opens the way to bring external tokens like stablecoins to the Bitcoin ecosystem.\n\n\"Millions of people will now be able to use the most open, secure blockchain to send dollars globally,\" said Elizabeth Stark, CEO of Lightning Labs, development organization behind the Lightning Network. \"Bringing USDT to Bitcoin combines the security and decentralization of Bitcoin with the speed and scalability of Lightning,\" she added.\n\nUPDATE (Jan. 30, 22:01 UTC): Adds statements from Tether CEO and Lightning Labs CEO.",
+    "url": "https://www.coindesk.com/business/2025/01/30/tether-brings-its-usd140b-usdt-stablecoin-to-bitcoin-and-lightning-networks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paolo Ardoino",
+                "Elizabeth Stark"
+            ],
+            "positions": [
+                "Tether CEO",
+                "CEO of Lightning Labs"
+            ],
+            "companies": [
+                "Tether",
+                "Lightning Labs"
+            ],
+            "organizations": [
+                "Plan B conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "USDT",
+            "Ethereum",
+            "Tron",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of Tether's $140B USDT stablecoin to Bitcoin and Lightning Networks aims to spur activity, offer practical solutions for payments and remittances, and combine Bitcoin's security with Lightning's speed and scalability, indicating positive market development."
+    }
+}

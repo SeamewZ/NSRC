@@ -1,0 +1,36 @@
+{
+    "title": "Sei Wants to Cut Cosmos Compatibility and Go All-In on Ethereum",
+    "summary": "The move comes as blockchain infrastructure builders compete to draw in developers and expand their orbits.",
+    "time": "2025-05-08T11:41:00",
+    "author": "Tim Craig",
+    "content": "A Sei Network developer proposed to depreciate the blockchain’s Cosmos support on Wednesday in a bid to remove “unnecessary” complexity for users.\n\nThe proposal, if successful, will make it so Sei users will only be able to send and receive transactions that are compatible with Ethereum.\n\nCutting Cosmos support will significantly simplify the blockchain, reduce infrastructure overhead, and position Sei more strongly within the broader Ethereum ecosystem, Philip Su, Sei Labs’ Engineering Lead, said in the proposal.\n\n“This transition will lead to greater adoption, improved developer experience, and a more cohesive community,” he said.\n\nThe move comes as blockchain infrastructure builders compete to draw in developers and expand their orbits.\n\nEthereum-based infrastructure, which runs on software called the Ethereum Virtual Machine, or EVM, is what the majority of decentralized finance apps run on. Ethereum, as well as other big blockchains like Coinbase’s Base and the Binance-affiliated BNB Chain, all use the EVM.\n\nBut there are challengers. Solana uses its own software called the Solana Virtual Machine, or SVM, while Cosmos has pioneered software called CosmWasm.\n\nSei currently supports both EVM and CosmWasm. “While this dual architecture has provided flexibility, it also introduces significant complexity and friction for both users and developers,” Su said.\n\nIf Sei pivots away from CosmWasm it could be a significant blow for the software’s adoption.\n\nThe Sei Network has grown steadily since its 2023 launch. Deposits to DeFi apps on the network are at an all-time high of $1 billion, according to DefiLlama data, making it the 15th largest blockchain by total value locked.\n\nBarry Plunkett, co-CEO of Interchain Labs, the development and growth team for Cosmos, told CoinDesk that even if Sei cuts Cosmos support, it is still a Cosmos-based blockchain. Users and developers will still be able to take advantage of some Cosmos features, like staking and governance, he said.\n\nWhen Sei launched it didn’t support the EVM and adoption was slow.\n\nOver the blockchain’s first year it only attracted some $50 million of deposits to its DeFi apps, a paltry sum compared to other blockchains that launched around the same time, such as Sui, which soared above $600 million in deposits during its first year.\n\nBut that changed in July 2024 when Sei launched its second version, which let users create DeFi apps using either CosmWasm or the EVM.\n\nActivity exploded as developers and investors flocked to the blockchain. Among DeFi developers, the EVM is the most well-known software. So by introducing EVM support, Sei was able to tap into a much larger pool of developers.\n\nNew Sei users are now predominantly choosing to use the EVM instead of CosmWasm, data compiled by Sei Labs on data platform Dune Analytics shows.\n\nWhat’s more, the current cross-compatibility comes at a cost, Su said. It introduces “unnecessary overhead in the codebase and complicates debugging and testing,” he said.\n\nStill, there’s no guarantee others in the Sei community will feel the same way.\n\nBuild with Sei, a group managed by the nonprofit Sei Foundation, will host a call on May 14 to discuss the proposal in detail and give opportunities for developers and the community to ask questions and give feedback.\n\nUPDATE (May 8, 13:16 UTC): Adds comment from Interchain Labs in the 11th paragraph.\n\nRead more: Trump-Linked Crypto Project Buys $775K Worth of SEI as Altcoin Accumulation Continues",
+    "url": "https://www.coindesk.com/tech/2025/05/08/sei-wants-to-cut-cosmos-compatibility-and-go-all-in-on-ethereum",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Philip Su",
+                "Barry Plunkett"
+            ],
+            "positions": [
+                "Engineering Lead",
+                "co-CEO"
+            ],
+            "companies": [
+                "Sei Labs",
+                "Coinbase",
+                "Interchain Labs"
+            ],
+            "organizations": [
+                "Sei Network",
+                "Sei Foundation",
+                "Build with Sei"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "SEI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The proposal to focus on Ethereum compatibility is presented as leading to greater adoption, improved developer experience, and simplified infrastructure, which are positive developments for the Sei blockchain."
+    }
+}

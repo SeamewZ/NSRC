@@ -1,0 +1,33 @@
+{
+    "title": "Leaders of $190M Brazilian Crypto Ponzi Scheme Sentenced to Over 170 Years in Prison",
+    "summary": "The alleged crypto Ponzi scheme lured some 20,000 investors with false promises and raised over $190 million from them.",
+    "time": "2025-04-18T12:52:00",
+    "author": "Francisco Rodrigues",
+    "content": "A Brazilian court has sentenced three executives behind the collapsed crypto scheme Braiscompany to a combined 171 years in prison, concluding one of the country’s largest crypto fraud cases to date.\n\nFederal Judge Vinicius Costa Vidor found Joel Ferreira de Souza, the scheme’s alleged mastermind, guilty of operating an unlicensed financial institution and laundering millions through shell companies and unregulated crypto wallets, according to local media.\n\nDe Souza received the steepest sentence: 128 years behind bars. Two others—Gesana Rayane Silva and Victor Veronez—received 27 and 15 years, respectively, for their roles in managing cash and acting as intermediaries in the scheme.\n\nThe ruling comes after Brazil’s Federal Prosecutor’s Office (MPF) accused five individuals of orchestrating a pyramid structure that raised R$1.11 billion ($190 million) from roughly 20,000 investors.\n\nBraiscompany promised outsized returns through crypto trading but allegedly ran a parallel financial system using informal transfers and high-commission operations.\n\nThe court also ordered the seizure of R$36 million, though it’s unclear how much victims will recover. According to Artêmio Picanço, a lawyer representing several victims, those affected must file civil claims soon before the funds are absorbed by the state.\n\nTwo defendants were acquitted for lack of evidence. The rest, the judge ruled, “acted to disguise the illicit origin” of the money, running operations that mimicked legitimate investment practices but served to enrich insiders.",
+    "url": "https://www.coindesk.com/policy/2025/04/18/leaders-of-usd190m-brazilian-crypto-ponzi-scheme-sentenced-to-over-170-years-in-prison",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Joel Ferreira de Souza",
+                "Gesana Rayane Silva",
+                "Victor Veronez",
+                "Vinicius Costa Vidor",
+                "Artêmio Picanço"
+            ],
+            "positions": [
+                "Federal Judge",
+                "lawyer"
+            ],
+            "companies": [
+                "Braiscompany"
+            ],
+            "organizations": [
+                "Brazilian court",
+                "Federal Prosecutor’s Office (MPF)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major crypto Ponzi scheme conviction involving $190 million in fraud, which creates negative sentiment about cryptocurrency market integrity and regulatory risks."
+    }
+}

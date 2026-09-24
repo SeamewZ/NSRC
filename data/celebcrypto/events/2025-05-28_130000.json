@@ -1,0 +1,32 @@
+{
+    "title": "Australian Regulator Sues Ex-Director of Crypto Exchange ACX for Mishandling Funds",
+    "summary": "Investigations have been ongoing since ACX Exchange collapsed in 2019.",
+    "time": "2025-05-28T13:00:00",
+    "author": "Camomile Shumba",
+    "content": "Allan Guo, the former director of the closed down Blockchain Global, will face court proceedings in Australia over allegations that he mishandled customer funds of crypto exchange ACX, which was operated by Blockchain Global.\n\nThe Australian Securities and Investments Commission (ASIC) is bringing civil penalty proceedings in the Federal court against Guo and his involvement in the running of ACX Exchange, which collapsed in December 2019, leaving customers in the dark and unable to withdraw funds.\n\n\"ASIC’s allegations against Mr Guo relate to his dealings with ACX Exchange customer funds, statements made about those dealings and obligations to keep proper books and records,\" the regulator said in a post on Wednesday.\n\nInvestigations have been ongoing since Blockchain Global collapsed in 2019. Liquidators found in proceedings that occurred from 2022 that the company owed around $59 million to its creditors and close to $22.8 million of that money belonged to creditors from the ACX Exchange.\n\nGuo reportedly left Australia in September 2024, after a travel restraint against him expired in August. The travel restraint was put in place in February last year when ASIC said it was investigating Guo and two other directors from Blockchain Global, Samuel Xue Lee and Zijang (Ryan) Xu regarding their involvement in the collapse of the ACX Exchange.",
+    "url": "https://www.coindesk.com/policy/2025/05/28/australian-regulator-sues-ex-director-of-crypto-exchange-acx-for-mishandling-funds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Allan Guo",
+                "Samuel Xue Lee",
+                "Zijang (Ryan) Xu"
+            ],
+            "positions": [
+                "former director",
+                "directors"
+            ],
+            "companies": [
+                "Blockchain Global",
+                "ACX Exchange"
+            ],
+            "organizations": [
+                "Australian Securities and Investments Commission (ASIC)",
+                "Federal court"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes regulatory legal action against exchange directors for mishandling customer funds and a past exchange collapse, which typically creates negative market sentiment."
+    }
+}

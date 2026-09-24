@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin's Tuesday Bloodbath Was the Bottom, Analyst Says",
+    "time": "2025-02-26T09:59:00",
+    "author": "James Van Straten",
+    "summary": "Many on-chain metrics show signs of capitulation and seller exhaustion in bitcoin.",
+    "content": "The crypto market experienced a severe downturn on Tuesday, and according to many on-chain metrics marked a bottom in bitcoin's\nBTC\n$103,749.01\nprice.\n\nThe total crypto market capitalization hovered just above $2.7 trillion—marking a nearly $1 trillion wipeout since its peak in December 2024, according to TradingView data. Several indicators suggest that Tuesday's sell-off may have marked a local bottom.\n\nAndre Dragosch, Head of Research at Bitwise Europe, highlighted that the Crypto Asset Sentiment Index hit its lowest level since August, coinciding with the unwinding of the yen carry trade, which saw bitcoin make a bottom at around $49,000.\n\n\"The Crypto Asset Sentiment Index just flashed a massive contrarian buy signal for Bitcoin. Widespread bearishness across flows, on-chain data, and derivatives suggests that downside risks are fairly limited. At these prices, the risk-reward outlook appears quite favorable,\" Dragosch noted.\n\nOn Tuesday, investors lost $1.8 billion — the largest single-day realized loss since August — when the yen carry trade unwind resulted in $3.2 billion in realized losses, according to Glassnode data.\n\nAdditionally, short-term holders, defined by Glassnode as investors who have held bitcoin for less than 155 days, sent 43,600 BTC ($3.9 billion) to exchanges at a loss— the highest level since August 2024.\n\nThese metrics are crucial in identifying potential market bottoms, suggesting that bitcoin may be nearing a key turning point.",
+    "url": "https://www.coindesk.com/markets/2025/02/26/bitcoin-s-tuesday-bloodbath-was-the-bottom-analyst-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andre Dragosch"
+            ],
+            "positions": [
+                "Head of Research at Bitwise Europe"
+            ],
+            "companies": [
+                "Bitwise Europe",
+                "TradingView",
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates that on-chain metrics show signs of capitulation and seller exhaustion, with analysts suggesting Tuesday's sell-off marked a bottom and flashing a massive contrarian buy signal for Bitcoin."
+    }
+}

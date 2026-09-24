@@ -1,0 +1,34 @@
+{
+    "title": "Trump Media Has $2.3B in Bitcoin Buying Power After Closing Capital Raise",
+    "time": "2025-05-30T16:01:00",
+    "author": "Krisztian Sandor",
+    "summary": "The company said it will use proceeds to add bitcoin to its balance sheet, an increasingly popular move among publicly-traded firms.",
+    "content": "Trump Media and Technology Group (DJT), the operator of Truth Social, said on Friday it has closed a $2.44 billion fundraising deal to establish a bitcoin\nBTC\n$105,691.40\ntreasury.\n\nDJT shares erased early morning losses and were up 5.6% on the day following the news.\n\nThe company sold nearly 56 million shares at $25.72 apiece and issued $1 billion in 0% convertible notes maturing in 2028, according to a press release. Some 50 institutional investors subscribed to the offering. The placement was led by Yorkville Securities and Clear Street, with Cantor Fitzgerald serving as financial advisor.\n\nThe firm said it will direct the net proceeds of $2.32 billion to purchase BTC for its treasury, with Crypto.com and Anchorage Digital providing custody services.\n\nThe move adds the company to a growing list of publicly-traded firms that have raised capital for adding crypto assets like bitcoin to their balance sheet, a playbook pioneered by Michael Saylor's Strategy (MSTR). The software firm has become the world's largest corporate holder of the leading crypto asset, accumulating over $60 billion in BTC by financing the purchases via a combination of equity and debt issuances.\n\nTrump Media shared plans earlier this year to launch a financial services platform focusing on crypto and customized exchange-traded funds. It also said it wants to partner with crypto exchange Crypto.com to launch the ETF products.",
+    "url": "https://www.coindesk.com/business/2025/05/30/trump-media-has-23b-in-bitcoin-buying-power-after-closing-capital-raise",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor"
+            ],
+            "positions": [],
+            "companies": [
+                "Trump Media and Technology Group",
+                "DJT",
+                "Yorkville Securities",
+                "Clear Street",
+                "Cantor Fitzgerald",
+                "Crypto.com",
+                "Anchorage Digital",
+                "Strategy",
+                "MSTR"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $2.32 billion capital raise specifically for purchasing Bitcoin, which represents significant institutional buying and follows the successful playbook of other corporate Bitcoin accumulators."
+    }
+}

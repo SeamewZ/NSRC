@@ -1,0 +1,52 @@
+{
+    "title": "As House Panel Kicks Tires on Stablecoin Bill, Old-School Finance Giants Reveal Shift",
+    "summary": "In a U.S. congressional hearing on the new House stablecoin bill, witnesses including BNY and a Wall Street super-lawyer further show a tradfi arrival.",
+    "time": "2025-03-11T17:05:00",
+    "author": "Jesse Hamilton",
+    "content": "After years in which crypto insiders desperately sought to get the attention of the U.S. Congress, the pro-digital-assets witnesses at the latest congressional hearing on stablecoins include a senior executive from BNY and a Davis Polk & Wardwell lawyer who spent his career representing Wall Street.\n\nAs congressional momentum rises toward support for crypto legislation in this session, representatives of the traditional financial system are putting its foot on the scales to help tip the balance toward stablecoin regulations. At the House Financial Services Committee hearing on Tuesday, lawyer Randy Guynn argued that the safeguards imposed by the Stablecoin Transparency and Accountability for a Better Ledger Economy Act, known as the STABLE Act, should put issuers of these digital tokens under similar protections to banking.\n\n\"If a permitted stablecoin issuer has a properly calibrated reserve of liquid assets, capital buffer and no material amount of liabilities other than its stablecoin liabilities, as contemplated by the STABLE Act, its payment stablecoins should be as safe as insured bank deposits and central bank money,\" according to the testimony of Guynn, who has long been among the most prominent Wall Street lawyers on banking compliance.\n\nAnd just down the witness table from him sat Caroline Butler, the global head of digital assets for BNY, which Representative Ritchie Torres, a New York Democrat, called the \"ultimate expression of the traditional financial system.\" Butler said her bank is already offering significant services for issuers such as Circle (USDC) and that the sector needs clarity from the U.S. government.\n\n\"What's very important for the ecosystem is to make sure that with banks that are providing custody, there is implicit trust and confidence in the ecosystem that client assets are indeed protected and protected according to federal legislation and regulation,\" she told the House lawmakers.\n\n\"We want to be able to participate in the new and evolving options and mechanisms — stablecoins and blockchain technology just being an example of that — so that we can continue to meet the evolving needs of the market and our clients,\" Butler said.\n\nThe sentiments from proponents of stablecoin regulations echoed what's been said often in the past, but the sources of that sentiment are more often coming from more traditional corners of finance. The confluence has been happening as the political muscle of the crypto industry — fueled by tens of millions of dollars in help provided to congressional campaigns from crypto sources — has strengthened markedly in Washington, as seen in a recent Senate vote in which a crowd of Democrats joined Republicans to overturn an Internal Revenue Service crypto rule. (The House is expected to vote later Tuesday on whether to join the Senate in that.)\n\nSo, crypto has more friends to make legislation more likely, and Wall Street is there for it.\n\nThe committee's ranking Democrat, Maxine Waters, and others from her party urged the stablecoin debate to return to a bill that she and former Republican panel Chairman Patrick McHenry had worked out together across the aisle. Rejecting this current effort, she argued a \"need to go back to the drawing board on stablecoins.\"\n\nBut Representative Sam Liccardo, a California Democrat, noted the transition in Congress, abandoning resistance to acting in some manner on stablecoins. \"We've moved from discussing whether to regulate to how to regulate,\" he said.\n\nMeanwhile in the Senate, Sen. Bill Hagerty's similar stablecoin legislation called the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) has been further revised and is heading toward a markup hearing later this week in the Senate Banking Committee.\n\nWhile still haggling over the approach to stablecoins, the committee also looked Tuesday at legislation banning the creation of a U.S. central bank digital currency (CBDCs). Republicans have run a vigorous campaign against the idea and are looking to further cement President Donald Trump's executive order to head off the formation of such a digital dollar. The consideration of a U.S. CBDC never reached significant progress in the previous administration, but GOP lawmakers have suggested that the federal government would use it as a tool to spy on citizens, despite comments from officials such as Federal Reserve Chair Jerome Powell that his agency had no interest in managing a hypothetical CBDC.\n\nUPDATE (March 11, 2025, 21:40 UTC): Adds BNY's rebranding.",
+    "url": "https://www.coindesk.com/policy/2025/03/11/as-house-panel-kicks-tires-on-stablecoin-bill-old-school-finance-giants-reveal-shift",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Randy Guynn",
+                "Caroline Butler",
+                "Ritchie Torres",
+                "Maxine Waters",
+                "Patrick McHenry",
+                "Sam Liccardo",
+                "Bill Hagerty",
+                "Donald Trump",
+                "Jerome Powell"
+            ],
+            "positions": [
+                "global head of digital assets for BNY",
+                "Representative",
+                "lawyer",
+                "committee's ranking Democrat",
+                "former Republican panel Chairman",
+                "Senator",
+                "President",
+                "Federal Reserve Chair"
+            ],
+            "companies": [
+                "BNY",
+                "Davis Polk & Wardwell",
+                "Circle"
+            ],
+            "organizations": [
+                "U.S. Congress",
+                "House Financial Services Committee",
+                "Wall Street",
+                "Senate",
+                "Internal Revenue Service",
+                "Senate Banking Committee",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes traditional financial giants supporting stablecoin regulation and increased congressional momentum for crypto legislation, indicating growing institutional acceptance and regulatory clarity that typically boosts market confidence."
+    }
+}

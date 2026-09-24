@@ -1,0 +1,37 @@
+{
+    "title": "Visa Doubles Down on Stablecoins With Investment in Blockchain Payments Firm BVNK",
+    "time": "2025-05-07T11:59:00",
+    "author": "Krisztian Sandor",
+    "summary": "The deal follows BVNK's $50 million fundraising round that included Haun Ventures, Coinbase Ventures and Tiger Global.",
+    "content": "Global payments service provider Visa's (V) venture capital arm made a strategic investment in BVNK, a startup building stablecoin-based payment infrastructure, in a move that reflects legacy financial financial firms' push into blockchain-powered money movement.\n\n\"Visa’s deep expertise in building global payment networks, combined with our stablecoin infrastructure, creates powerful possibilities for redefining how businesses operate in today's digital economy,\" BVNK co-founder and CEO Jesse Hemson-Struthers wrote in a blog post on Wednesday.\n\nA BVNK spokesperson confirmed in an email that the deal has closed but declined to reveal the size of the investment.\n\nBVNK builds software that allows businesses to send and receive stablecoins — crypto tokens pegged to fiat currencies like the U.S. dollar — across global markets. The London-based company said it’s already processing $12 billion in annualized stablecoin volume, and has recently expanded into the U.S. with offices in New York and San Francisco. It has applied for licenses in all U.S. states, securing approval in several.\n\nThe backdrop to this deal is a broader shift in finance. Blockchain rails and stablecoins have become increasingly central to payments, offering faster, cheaper alternative to traditional channels for uses like remittances, payroll and commerce. Global firms are racing to jump on the trend: Payments giant Stripe is testing a stablecoin tool following its $1.1 billion acquisition of Bridge; PayPal introduced its own stablecoin; and Visa has developed a platform to help banks issue stablecoins and tokenized assets.\n\n\"Stablecoins are fast becoming a part of global payment flows, and Visa invests in new technologies and builders like BVNK, staying at the forefront of what’s next in commerce to better serve our clients and partners,\" said Rubail Birwadker, head of growth products and partnerships at Visa.\n\nThe investment follows BVNK's $50 million fundraising round last year with backers including Haun Ventures and Tiger Global.\n\nRead more: Stablecoins Could Bring 'ChatGPT' Moment to Blockchain Adoption, Hit $3.7T by 2030: Citi",
+    "url": "https://www.coindesk.com/business/2025/05/07/visa-doubles-down-on-stablecoins-with-investment-in-blockchain-payments-firm-bvnk",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jesse Hemson-Struthers",
+                "Rubail Birwadker"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "head of growth products and partnerships"
+            ],
+            "companies": [
+                "Visa",
+                "BVNK",
+                "Stripe",
+                "PayPal",
+                "Coinbase Ventures",
+                "Tiger Global",
+                "Haun Ventures",
+                "Bridge",
+                "Citi"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Visa's strategic investment in stablecoin infrastructure and the article's emphasis on stablecoins becoming central to global payment flows indicates growing institutional adoption and market confidence."
+    }
+}

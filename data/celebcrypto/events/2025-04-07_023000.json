@@ -1,0 +1,41 @@
+{
+    "title": "BTC Trades Above $79K as Asia Markets Open to Chaos",
+    "time": "2025-04-07T02:30:00",
+    "author": "Sam Reynolds",
+    "summary": "Markets in Hong Kong, Shanghai, and Taipei were deep in the red upon opening on Monday.",
+    "content": "Bitcoin\nBTC\n$103,869.95\ntraded above $79,000 Monday morning Asia time as markets around East Asia opened to chaos and carnage as the global sell-off continued.\n\nThe CoinDesk 20 (CD20), a measure of the performance of the largest digital assets, is down 8%.\n\nHong Kong’s Hang Seng Index is down over 8% during mid-morning trading, while Shanghai’s SSE Composite Index is down 7%, and the Taipei’s TAIEX is down 9%.\n\nMajor tech stocks across the region were some of the hardest hit. Alibaba shares in Hong Kong were down 12% while Tencent was down 9%. In Taipei, TSMC stocks dipped 10% in the first few minutes of trading, triggering the exchange’s price variation limit mechanism which halts trading in either direction.\n\nTSMC’s correction comes as the White House says that semiconductors from Taiwan are exempt from tariffs, but the future of the CHIPS Act – which bankrolled the construction of semiconductor factories in the U.S. – is in question.\n\nTSMC’s major correction on market open is likely foreshadowing of Nvidia’s open in the U.S. Some analysts say NVDA has become more volatile than BTC or ETH.\n\nElsewhere in crypto, Ethereum\nETH\n$3,514.79\nis down 11% on-day, XRP is down 9%, and Solana’s SOL is down 10%.\n\nLending protocols\nMKR\n$1,244.04\nand Aave\nAAVE\n$196.19\nwere some of the worst performers on the market, down around 14% each.\n\nLiquidation data from CoinGlass shows that in the last 12 hours around $675 million in long positions have been liquidated, compared to $123 million in shorts.\n\nTRUMP, the Presidential meme coin, is down 13% according on CoinDesk data, putting it behind lending protocol majors as one of the market laggards.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/btc-trades-above-usd79k-as-asia-markets-open-to-chaos",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Alibaba",
+                "Tencent",
+                "TSMC",
+                "Nvidia"
+            ],
+            "organizations": [
+                "White House",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "XRP",
+            "Solana",
+            "SOL",
+            "MKR",
+            "Aave",
+            "AAVE",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across major cryptocurrencies, massive liquidations of long positions, and broad market sell-offs across Asian markets."
+    }
+}

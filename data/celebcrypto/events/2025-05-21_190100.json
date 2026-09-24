@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Backs Off Quickly From Record High as Interest Rate Surge Hits Risk Assets",
+    "summary": "An already under pressure bond market took a further hit following a weak auction of long-term U.S. Treasury debt.",
+    "time": "2025-05-21T19:01:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin's\nBTC\n$101,731.44\nsurge to a fresh all-time record on Wednesday ran into a brick wall just below $110,000.\n\nAfter hitting a record of $109,754, BTC quickly fell to about 3% to the $106,000 area. At press time, the top cryptocurrency was trading just above $107,000 according to CoinDesk’s Bitcoin Price Index, modestly lower over the past 24 hours.\n\nOther cryptocurrencies took a hit as well, with ether\nETH\n$3,334.25\nand solana\nSOL\n$157.57\nalso slightly lower over the last day despite the early Wednesday run higher.\n\nThe reason behind the price action may be as simple as traders taking profits on the quick rise — bitcoin was higher by nearly 50% since bottoming about five weeks ago. Likely contributing was the ripple effect of a U.S. treasury bond auction going awry and hitting risk assets.\n\nA sale of 20-Year bonds sold by the U.S. Treasury department saw weak demand, sending the yield on the 30-year Treasury spiking to 5.07%, its highest level in more than two years.\n\nThe Nasdaq tumbled 1.5% in just an hour shortly after the news, while the S&P 500 declined 1.3%.\n\n\"This is a ticking time bomb, swept under the rug,” said Josh Mandell, a longtime fixed-income veteran turned bitcoin analyst, prior to this afternoon's poor bond sale.\n\n“We used to talk about the disaster that would ensue if ever there was a ‘MISSED AUCTION’ in 30-yr bonds,” Mandell said. “A missed auction means that there were not enough bids to cover the offering… Were it not for the Fed, we would be experiencing a failure to roll over bonds right now which leads to default.”\n\nKirill Kretov, trading automation expert at CoinPanel, said that liquidity from exchanges has been significantly removed since late 2024, \"making the market thinner and more reactive,\" leaving bitcoin's price vulnerable to wild swings.\n\n\"Structurally, there’s room for explosive upside,\" he said, but \"a sharp correction can happen at any moment.\"\n\nThe $110,000 level has emerged as a key battleground in the current market structure, well-followed crypto trader Skew noted in an X post, describing it as the critical zone between a local high and a potential breakout point.\n\nAccording to Skew, there's a noticeable concentration of supply around this level, with Binance perpetuals showing a skewed ask-side order book and a buildup of short positions.\n\n\"All point to a huge amount of liquidity here, usually pivotal for the market,\" Skew said.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-backs-off-quickly-from-record-high-as-interest-rate-surge-hits-risk-assets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Josh Mandell",
+                "Kirill Kretov",
+                "Skew"
+            ],
+            "positions": [
+                "longtime fixed-income veteran turned bitcoin analyst",
+                "trading automation expert",
+                "well-followed crypto trader"
+            ],
+            "companies": [
+                "CoinDesk",
+                "CoinPanel",
+                "Binance"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Fed",
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin quickly fell from its record high, other cryptocurrencies took a hit, and the event was triggered by a weak U.S. Treasury bond auction that negatively impacted risk assets."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "ECB's Villeroy Says U.S. Crypto Support Could Trigger Next Financial Emergency",
+    "summary": "The U.S. \"risks sinning through negligence,\" Villeroy said in an interview with French newspaper La Tribune Dimanche",
+    "time": "2025-03-17T13:00:00",
+    "author": "Jamie Crawley",
+    "content": "Francois Villeroy de Galhau, a member of the European Central Bank (ECB) Governing Council and governor of the Bank of France, has said embrace of cryptocurrency in the U.S. risks triggering the next financial emergency.\n\nThe U.S. \"risks sinning through negligence,\" Villeroy said in an interview with French newspaper La Tribune Dimanche.\n\n\"By encouraging crypto-assets and non-bank finance, the American administration is sowing the seeds of future upheavals,” he said, adding that oversight of the crypto industry is more secure in Europe.\n\nDonald Trump courted the cryptocurrency industry as part of his campaign to the return to the White House last year and as President has signed an executive order for the creation of a Strategic Bitcoin Reserve and a separate trove for other digital assets.\n\nVilleroy added that Europe needs to attract more international investors to the euro, in order to help the currency take on a more important role internationally in the face of President Trump's tariff policies.",
+    "url": "https://www.coindesk.com/policy/2025/03/17/ecb-s-villeroy-says-u-s-crypto-support-could-trigger-next-financial-emergency",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Francois Villeroy de Galhau",
+                "Donald Trump"
+            ],
+            "positions": [
+                "member of the European Central Bank (ECB) Governing Council",
+                "governor of the Bank of France",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "European Central Bank (ECB)",
+                "Bank of France",
+                "La Tribune Dimanche",
+                "American administration",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "A senior ECB official warns that U.S. crypto support could trigger the next financial emergency, indicating regulatory concerns and potential market instability."
+    }
+}

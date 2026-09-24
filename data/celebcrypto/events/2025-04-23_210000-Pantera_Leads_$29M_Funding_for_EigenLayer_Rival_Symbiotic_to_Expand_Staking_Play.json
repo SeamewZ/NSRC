@@ -1,0 +1,36 @@
+{
+    "title": "Pantera Leads $29M Funding for EigenLayer Rival Symbiotic to Expand Staking Play",
+    "summary": "The funding will expand the current team and contribute to the protocol’s Universal Staking framework.",
+    "time": "2025-04-23T13:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "The team behind the Symbiotic network, the restaking protocol meant to rival EigenLayer, shared Wednesday that it had raised $29 million in a Series A round.\n\nThe funding will expand the current team and contribute to the protocol’s Universal Staking framework, broadening its efforts from just restaking to including providing support for other staking activities.\n\n“Rather than focusing solely on shared security, Symbiotic enables any combination of assets to secure any class of network—modular or monolithic, L1 or L2—while supporting use cases that extend well beyond traditional staking, including insurance and other financial products,” the team shared in a press release.\n\nPantera Capital led the funding round, which also saw participation from Coinbase Ventures and over 100 angel investors.\n\nRestaking is a way to use a blockchain to secure other apps. It became one of the biggest DeFi trends last year, with billions being poured into some restaking protocols by investors.\n\nEigenLayer was the biggest winner among the restakers with Total Value Locked (TVL) rising as high as $20 billion at its peak, before tumbling back to just above $7 billion recently, according to DefiLlama data. However, EigenLayer still remains the biggest restaking protocol, putting the project in the crosshairs of rival startups like Symbiotic. Currently, the TVL of all restaking protocols hovers around $14 billion.\n\nSymbiotic came to the scene in 2024 with backing from Lido’s co-founders and crypto venture firm Paradigm, as an alternative to restaking protocol EigenLayer. Currently, the network has about $825 million in TVL, putting it in third place among restaking peers, according to DefiLlama.\n\nThe network allows for decentralized applications, also known as actively validated services (AVS), to collectively secure each other. Users can then restake their crypto assets that they've deposited in other protocols to help secure these AVSs, and accumulate some kind of reward, like extract more yield or earn points. Both Symbiotic and EigenLayer allows users to deposit ETH or any Ethereum ERC-20 token into their protocols.\n\nWith the new funding round giving Symbiotic the ability to expand beyond restaking, the startup is looking to change the way investors perceive the staking industry as a whole.\n\n“We are building infrastructure, and our job is to improve on that by a huge margin,” said Misha Putiatin, the co-founder of Symbiotic, to CoinDesk in an interview.\n\nPutiatin added that they are making this shift to account for new protocols “that are coming on board, or like in an active pipeline,” that are not interested in restaking. “They don't want to share their security, they want to build their own security vertical and their own alignment, just using us.”\n\nRead more: Lido Co-Founders, Paradigm Secretly Back EigenLayer Competitor as DeFi Battle Lines Form\n\nCORRECTION (April 30, 2025, 14:55 UTC): An earlier version of this story said that EigenLayer only accepts ETH deposits, while Symbiotic takes ERC-20 tokens too. That has been changed to reflect that both protocols take ERC-20 tokens.",
+    "url": "https://www.coindesk.com/tech/2025/04/23/pantera-leads-usd29m-funding-for-eigenlayer-rival-symbiotic-to-expand-staking-play",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Misha Putiatin"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Pantera Capital",
+                "Coinbase Ventures",
+                "Paradigm",
+                "Lido"
+            ],
+            "organizations": [
+                "Symbiotic",
+                "EigenLayer",
+                "DefiLlama",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The $29 million funding round led by major investors and expansion of staking infrastructure indicates growing institutional confidence and development in the cryptocurrency ecosystem."
+    }
+}

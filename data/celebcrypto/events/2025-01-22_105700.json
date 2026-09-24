@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Sales by Long-Term Holders May Have Bottomed Out: Van Straten",
+    "time": "2025-01-22T10:57:00",
+    "author": "James Van Straten",
+    "summary": "Over 1 million bitcoin has been sold since September by long-term holders.",
+    "content": "Long-term holders of bitcoin (BTC) seem to ended their selling spree, a change in strategy that's helped convert the psychological $100,000 resistance price into a support level for the first time.\n\nWith one, short-lived exception, the largest cryptocurrency has held above $100,000 since Jan. 17. The past few days have been extremely volatile due to President Donald Trump's inauguration, which saw a spike in volatility.\n\nLong-term holders, or investors who have held bitcoin for over 155 days, have been among the biggest contributors to selling pressure on the market, according to CoinDesk research in December. They are deemed \"smart money\" because they tend to buy when bitcoin prices are depressed and sell into strength, a pattern that's been observed over the past four months.\n\nIn September, this cohort held 14.2 million BTC. It now holds 13.1 million BTC. While the investors held back around the start of the year, sales have picked up again in recent days as the price rose, though at a reduced pace.\n\nThe trend to watch out for is when they stop selling. This tends to mark a top in the cycle, which has occurred in 2013, 2017, 2021 and 2024.",
+    "url": "https://www.coindesk.com/markets/2025/01/22/bitcoin-sales-by-long-term-holders-seem-to-have-bottomed-out-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Van Straten"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that long-term holders have ended their selling spree and that Bitcoin has converted the $100,000 resistance into a support level, indicating positive market momentum."
+    }
+}

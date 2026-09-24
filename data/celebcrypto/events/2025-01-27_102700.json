@@ -1,0 +1,36 @@
+{
+    "title": "Bitcoin Funding Rates Flip Negative as Nasdaq Futures Tank 700 Points",
+    "time": "2025-01-27T10:27:00",
+    "author": "Omkar Godbole",
+    "summary": "The renewed bearish flip in funding rates comes amid risk-off in Wall Street's tech-heavy Nasdaq index.",
+    "content": "Bitcoin\nBTC\n$104,055.88\nmarket sentiment has turned bearish, with Wall Street's tech-heavy Nasdaq futures trading 700 points lower. The risk aversion is driven by concerns that the cost-effective Chinese artificial intelligence startup DeepSeek could significantly challenge U.S. technological dominance.\n\nBitcoin's perpetual futures funding rates, periodic payments made between long and short positions in perpetual futures contracts, have flipped negative, according to data source Velo Data. It's a sign of more bearish sentiment in the market - traders are chasing short positions in anticipation of lower prices.\n\nThe leading cryptocurrency by market value has dropped over 3% since early Asian hours, reaching lows under $98,000 at one point, according to CoinDesk data. Futures tied to Nasdaq have dropped over 3.5%, with NVIDIA, the bell-wether for all things AI, down 10% in pre-market trading.\n\n\"Today’s sell-off comes after President Donald Trump last week gave the green light to a working group on crypto policy that notably stopped short of confirming that the US would set up a bitcoin reserve. Meanwhile, Chinese artificial intelligence startup DeepSeek appears to have spooked tech stocks as its success suggests it is possible to build AI models that cost less than AI incumbents in the U.S.,\" Petr Kozyakov, co-founder and CEO at Mercuryo, said in an email.\n\nHistorically, however, the negative flip in funding rates has tended to mark local price bottoms. Besides, there is always a risk of a short squeeze – bears throwing in the towel and squaring off their bets, putting upward pressure on prices. That said, the funding rate has narrowly flipped bearish, meaning its too early to call short BTC as an overcrowded trade.",
+    "url": "https://www.coindesk.com/markets/2025/01/27/bitcoin-funding-rates-flip-negative-as-nasdaq-futures-tank-700-points",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Petr Kozyakov",
+                "Donald Trump"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "President"
+            ],
+            "companies": [
+                "DeepSeek",
+                "NVIDIA",
+                "Mercuryo",
+                "CoinDesk",
+                "Velo Data"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping over 3%, funding rates flipping negative indicating bearish sentiment, and traders chasing short positions in anticipation of lower prices."
+    }
+}

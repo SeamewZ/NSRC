@@ -1,0 +1,35 @@
+{
+    "title": "Solana DeFi Tokens Undervalued Compared to Ethereum's, Says Franklin Templeton",
+    "summary": "There's a mismatch between the old guard and new.",
+    "time": "2025-03-05T20:15:00",
+    "author": "Danny Nelson",
+    "content": "Solana's bustling decentralized finance (DeFi) scene is growing faster than Ethereum's, and making more money too. And yet, Franklin Templeton pointed out in a Tuesday report, its tokens are worth less.\n\n\"Solana DeFi valuation multiples trade on average lower than their Ethereum counterparts despite significantly higher growth profiles, highlighting an apparent valuation asymmetry,\" the report said.\n\nFranklin Templeton compared tokens of five leading ETH projects (LDO, AAVE, ENA, MKR and UNI) to those of five of Solana's strongest protocols (JTO, JUP, KMNO, MNDE and RAY). The Solana projects saw 2,400% median growth in fees year over year, and a median multiple of 9x, whereas the Ethereum projects were up only 150%, and a multiple of 18x.\n\nThe trends come after a year of torrid growth for Solana. Memecoin traders in particular powered the network's decentralized exchanges to new heights in 2024. In January 2025 Solana's DEXes had more volume than those of the entire Ethereum ecosystem, combined.\n\n\"DeFi may be entering an era of Solana Virtual Machine Dominance, shifting away from the historical reign of EVM based DeFi,\" the report said.\n\nThat's not to say the Ethereum mainnet is finished. To the contrary, Franklin Templeton said the shift in activity to layer 2 blockchains \"is proof that the Ethereum scaling approach is hitting its stride.\"\n\nBut the asymmetry between Ethereum's highly valued assets and Solana's comparatively undervalued tokens may not last.\n\n\"As Solana continues to demonstrate its resilience as a decentralized computing platform, the market may soon price blue-chip, cornerstone Solana DeFi protocols in line with comparable Ethereum protocols.",
+    "url": "https://www.coindesk.com/web3/2025/03/05/solana-defi-tokens-undervalued-compared-to-ethereum-s-says-franklin-templeton",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Franklin Templeton"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "Ethereum",
+            "ETH",
+            "LDO",
+            "AAVE",
+            "ENA",
+            "MKR",
+            "UNI",
+            "JTO",
+            "JUP",
+            "KMNO",
+            "MNDE",
+            "RAY"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The report highlights Solana's significantly higher growth metrics and suggests its tokens are undervalued compared to Ethereum's, indicating potential for price appreciation."
+    }
+}

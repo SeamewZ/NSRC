@@ -1,0 +1,33 @@
+{
+    "title": "Ransomware Payments Fell 35% in 2024 as More Victims Refuse to Pay: Chainalysis",
+    "summary": "According to the blockchain analytics firm, less than half of recorded ransomware attacks resulted in victim payments.",
+    "time": "2025-02-05T13:00:00",
+    "author": "Cheyenne Ligon",
+    "content": "The ransomware business took a hit in 2024, with payments falling 35% year-over-year, according to a new report from Chainalysis.\n\nThough the number of ransomware attacks increased in 2024, ransomware gangs made less money, pulling in $814 million compared to 2023’s record-high sum of $1.25 billion. The blockchain analytics firm attributes the decline to a variety of factors, including an uptick in law enforcement actions and sanctions, as well as a growing refusal by victims to pay their attackers.\n\nLast year, less than half of all recorded ransomware attacks resulted in victim payments. Jacqueline Burns Koven, Chainalysis’ head of cyber threat intelligence, told CoinDesk that part of the non-payment trend can be attributed to a growing distrust that complying with attackers’ demands will actually result in victims’ stolen data being deleted from the attacker’s possession.\n\nIn February 2024, American insurance company United Healthcare paid a $22 million ransom to Russian ransomware gang BlackCat after one of its subsidiaries was breached and patient data exposed. But BlackCat imploded shortly after the ransom was paid, and the data United Healthcare had paid to protect was leaked. Similarly, the takedown of another Russian ransomware gang, LockBit, by U.S. and U.K. law enforcement in early 2024 also revealed that the group did not actually delete victims’ data as promised.\n\n“What it illuminated is that payment of a ransom is no guarantee of data deletion,” Koven said.\n\nKoven added that, even if ransomware victims wanted to pay, their hands are often tied by international sanctions.\n\n“There's been a spate of sanctions against different ransomware groups and for some entities, it's outside of their risk threshold to be willing to pay them because it constitutes sanctions risk,” Koven said.\n\nChainalysis’ report points to one other reason for decreased payments in 2024 – victims are wising up. Lizzie Cookson, senior director of incident response at Coveware, a ransomware incident response firm, told Chainalysis that, due to improved cyber hygiene, many victims are now better able to resist attackers’ demands.\n\n“They may ultimately determine that a decryption tool is their best option and negotiate to reduce the final payment, but more often, they find that restoring from recent backups is the faster and more cost-effective path,” Cookson said in the report.\n\nChallenges to cashing-out\n\nChainalysis’ report also suggests that ransomware attackers are also struggling with cashing-out their ill-gotten gains. The firm found a “substantial decline” in the use of crypto mixers in 2024, which the report attributed to the “disruptive impact of sanctions and law enforcement actions, such as those against Chipmixer, Tornado Cash, and Sinbad.”\n\nLast year, more ransomware actors simply held their funds in personal wallets, according to the report.\n\n“Curiously, ransomware operators, a primarily financially motivated group, are abstaining from cashing out more than ever,\" it said. \"We attribute this largely to increased caution and uncertainty amid what is probably perceived as law enforcement’s unpredictable and decisive actions targeting individuals and services participating in or facilitating ransomware laundering, resulting in insecurity among threat actors about where they can safely put their funds.\"\n\nLooking forward\n\nDespite the clear impact of law enforcement’s crackdown on ransomware gangs last year, Koven stressed that it’s too early to say whether the downward trend is here to stay.\n\n“I think it is premature to be celebrating, because all the factors are there for it to reverse in 2025, for those large attacks — the big game hunting — to resume,” Koven said.\n\nYou can read the full report here on Chainalysis’ blog.",
+    "url": "https://www.coindesk.com/policy/2025/02/04/ransomware-payments-fell-35-in-2024-as-more-victims-refuse-to-pay-chainalysis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jacqueline Burns Koven",
+                "Lizzie Cookson"
+            ],
+            "positions": [
+                "head of cyber threat intelligence",
+                "senior director of incident response"
+            ],
+            "companies": [
+                "Chainalysis",
+                "CoinDesk",
+                "United Healthcare",
+                "Coveware"
+            ],
+            "organizations": [
+                "BlackCat",
+                "LockBit"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a 35% decline in ransomware payments and increased law enforcement actions against ransomware groups, which reduces illicit cryptocurrency usage and improves market integrity."
+    }
+}

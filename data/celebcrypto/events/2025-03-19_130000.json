@@ -1,0 +1,27 @@
+{
+    "title": "Blockdaemon Acquires DeFi Connectivity Firm Expand to Bring Institutions to Web3",
+    "time": "2025-03-19T13:00:00",
+    "author": "Ian Allison",
+    "summary": "expand.network provides API access to DeFi, enabling connections to over 170 endpoints, including DEXs, bridges, lending protocols and oracles.",
+    "content": "Blockdaemon, a leading provider of crypto infrastructure, has acquired expand.network, a single API connection into the multifarious world of decentralized finance (DeFi), with a view to enabling big financial institutions to seamlessly access on-chain trading.\n\nThe exact price paid for expand.network was not revealed, but Blockdaemon said the deal was worth double digit millions of dollars. The firm provides API access to DeFi, enabling connections to over 170 endpoints, including DEXs, bridges, lending protocols and oracles.\n\nAs long-awaited regulatory clarity comes to crypto in the U.S., banks and large financial institutions are considering a point of entry into the on-chain finance world.\n\nBlockdaemon, which counts banks like Goldman Sachs among its backers, assists around 70% of top 500 institutions active in crypto, which includes running over 250,000 nodes across 40 data centers, as well as handling staking rewards, and more recently establishing cross-blockchain, self-custody wallet offerings for big players.\n\nThe next logical step for banks and institutions is providing easy access via Blockdaemon’s interoperable, staking-ready wallets into the complex realm of DeFi lending, borrowing and automated liquidity, said Konstantin Richter, founder and CEO of Blockdaemon.\n\n“DeFi will make running financial infrastructure a lot cheaper for banks and institutions and it’s where a lot of institutional benefits will reside over time,” Richter said in an interview. “It's still very early and obviously there's a lot that still needs to happen in terms of regulatory clarity, adoption and decentralization. But the time is right to accelerate that particular vertical within our product suite.”\n\nUPDATE (March, 19, 13:10 UTC): changes from Expand to expand.network",
+    "url": "https://www.coindesk.com/business/2025/03/19/blockdaemon-acquires-defi-connectivity-firm-expand-to-bring-institutions-to-web3",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Konstantin Richter"
+            ],
+            "positions": [
+                "founder and CEO"
+            ],
+            "companies": [
+                "Blockdaemon",
+                "expand.network",
+                "Goldman Sachs"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition enables easier institutional access to DeFi, which the CEO states will make financial infrastructure cheaper for banks and represents where institutional benefits will reside over time."
+    }
+}

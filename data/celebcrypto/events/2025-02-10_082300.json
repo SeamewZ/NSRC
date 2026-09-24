@@ -1,0 +1,31 @@
+{
+    "title": "Tether Inflows to Exchanges Surged to $2.7B During Recent BTC Price Drop to $90K, Analytics Firm Says",
+    "time": "2025-02-10T08:23:00",
+    "author": "Omkar Godbole",
+    "summary": "The unusually high capital inflows likely stemmed from margin calls and bargain hunting.",
+    "content": "A week ago, bitcoin (BTC) crashed to nearly $91,000 as trade war fears gripped the market. On the same day, centralized exchanges registered a net inflow of $2.72 billion in tether (USDT), the world's largest dollar-pegged cryptocurrency by market value, according to analytics firm IntoTheBlock.\n\n\"The market's substantial downturn triggered unusual capital flows. Notably, USDT netflows into exchanges reached the third-highest level ever recorded, exceeding $2.72 billion (on Ethereum alone),\" IntoTheBlock said in the weekly newsletter.\n\n\"This surge likely resulted from a combination of factors: traders depositing additional collateral to manage margin calls and prevent liquidations on underwater positions, alongside significant \"buy-the-dip\" activity, particularly focused on BTC,\" the firm added.\n\nBitcoin has since steaded between $95,000 and $100,000, CoinDesk data show. Tether and its regulated rival, USDC, are widely used to fund crypto purchases.\n\nA week ago, bitcoin (BTC) crashed to nearly $91,000 as trade war fears gripped the market. On the same day, centralized exchanges registered a net inflow of $2.72 billion in tether (USDT), the world's largest dollar-pegged cryptocurrency by market value, according to analytics firm IntoTheBlock.\n\n\"The market's substantial downturn triggered unusual capital flows. Notably, USDT netflows into exchanges reached the third-highest level ever recorded, exceeding $2.72 billion (on Ethereum alone),\" IntoTheBlock said in the weekly newsletter.\n\n\"This surge likely resulted from a combination of factors: traders depositing additional collateral to manage margin calls and prevent liquidations on underwater positions, alongside significant \"buy-the-dip\" activity, particularly focused on BTC,\" the firm added.\n\nBitcoin has since steaded between $95,000 and $100,000, CoinDesk data show. Tether and its regulated rival, USDC, are widely used to fund crypto purchases.\n\nMore For You\n\nOwlTing: Stablecoin Infrastructure for the Future\n\nStablecoin payment volumes have grown to $19.4B year-to-date in 2025. OwlTing aims to capture this market by developing payment infrastructure that processes transactions in seconds for fractions of a cent.\n\nXRP Nears 'Death Cross'\n\nXRP's key averages are set to produce a death cross.\n\nWhat to know:",
+    "url": "https://www.coindesk.com/markets/2025/02/10/tether-inflows-to-exchanges-surged-to-usd2-7b-during-recent-btc-price-drop-to-usd90-analytics-firm-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "IntoTheBlock",
+                "CoinDesk",
+                "OwlTing"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "USDT",
+            "Tether",
+            "Ethereum",
+            "USDC",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a market crash with bitcoin dropping to $91,000, margin calls, liquidations, and substantial capital outflows triggered by trade war fears."
+    }
+}

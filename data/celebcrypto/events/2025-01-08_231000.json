@@ -1,0 +1,58 @@
+{
+    "title": "The Protocol: Hyperliquid Responds to Decentralization Criticism",
+    "summary": "Also: Ripple’s Chainlink deal; Pyth partners with Revolut",
+    "time": "2025-01-08T23:10:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, CoinDesk’s Features and Opinion Editor.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nHYPERLIQUID CRITICISM: HyperLiquid, a major up-and-comer in the world of decentralized finance, came under fire this week over claims that the network is overly centralized and difficult to work with. HyperLiquid is best known for its flagship decentralized exchange and it recently launched a layer-1 blockchain — all bids by the startup to, according to its flashy web copy, eventually \"house all finance.\" Despite earning plaudits for its fast and easy-to-use exchange interface, HyperLiquid has been criticized for, among other things, operating a closed-source codebase. According to a widely-shared X thread from Kam Benbrik, an employee at the validator firm Chorus One, the validators powering HyperLiquid are mostly blind to how the chain works under the hood, making it difficult for them to operate the hardware that's supposed to run the chain. Benbrik also raised concerns that HyperLiquid's highly concentrated token supply — and its process for admitting validators to its L1 chain — make the chain centralized and vulnerable to failures. \"Hyperliquid must improve transparency, decentralize staking, implement a fair validator selection process, and engage more with external validators,\" Benbrik wrote. The complaints come on the heels of a flurry of positive media attention for HyperLiquid following November's massively successful HYPE airdrop. It hasn't all been smooth sailing for the startup, however, with scrutiny arising in December following reports of potential North Korean activity on the network — interpreted by some as a sign that the regime well-known for its crypto-hacking efforts might have HyperLiquid in its crosshairs. HyperLiquid has batted away the North Korean security concerns, and it recently addressed the centralization and closed-source critiques in an X thread, stating that the criticisms largely stemmed from \"misconceptions\" about its tech. Read more. --Sam Kessler\n\nSOLANA'S FIREDANCER FORGES AHEAD: Solana is charging ahead with its next-gen blockchain client \"Firedancer,\" pushing validators running the chain to adopt a stripped-down version of the upgrade ahead of a wider, yet-to-be-scheduled official launch. \"Firedancer's proponents believe the software – developed by the crypto arm of trading giant Jump – will give Solana an unbeatable edge in crypto's race to woo global financial markets onto blockchains,\" writes CoinDesk's Danny Nelson. \"They point to its theoretical speed: one million transactions per second, orders of magnitude faster than any blockchain-based system today.\" --Sam Kessler\n\nSTARKWARE APPCHAINS: Starknet, the layer-2 blockchain on Ethereum known for its embrace of zero-knowledge (ZK) cryptography, is adding appchains. StarkWare, the primary developer of Starknet, told CoinDesk that its \"SN Stack\" will let developers easily build blockchains tailored to specific crypto use cases. Read more\n\nARBITRUM-a-LOTTE: Arbitrum, the largest layer-2 network on Ethereum, plans to deepen ties with Lotte Group, the multibillion-dollar South Korean conglomerate known for its vast portfolio of shopping malls, media companies and entertainment properties. Offchain Labs, the developer behind Arbitrum, and the Arbitrum Foundation, the non-profit that stewards the project's development, said a financial deal is in the works that would cement Arbitrum as the main blockchain infrastructure provider for \"Caliverse,\" Lotte's metaverse gaming platform. Read more\n\nAVALANCHE UPGRADE: Avalanche, now the tenth-largest L1 by total value locked (TVL), activated its highly anticipated Avalanche9000 upgrade, marking its biggest technical changes since launch in 2020. The network has been prepping these changes for months, with new features that will cut the costs for sending transactions, operating validators and building applications on the network. Leaders at Avalanche said the upgrade is meant to attract developers, encouraging them to create customized blockchains using its technology, known as subnets, or “L1s.\" Read more.\n\nDO KWON TRIAL: Terraform Labs co-founder and former CEO Do Kwon’s criminal fraud trial in the U.S. has been tentatively scheduled for January 2026, allowing prosecutors and Kwon’s defense attorneys time to review the “massive” six-terabyte trove of data expected to be produced during the discovery process. During an initial hearing in Manhattan this week, lead prosecutor Jared Lenow told the court that the government expected to face additional delays due to challenges accessing encrypted information and unlocking four cell phones provided by Montenegrin authorities when they extradited Kwon to the U.S. on Dec. 31st. Lenow added that the government must also translate extracted material from Kwon’s native Korean. Read more.\n\nPYTH PARTNERS: Blockchain oracle firm Pyth Network has partnered with neobank Revolut to port digital banking data into decentralized finance. Revolut will provide data for more than 500 markets including foreign exchange, equities and commodities. Revolut also runs a crypto exchange although volume data is not published. Pyth competes with ChainLink and aims to provide accurate price feeds for DeFi protocols. It airdropped its native token (PYTH) in 2023 and has $7.5 billion in value secured on its oracle, according to DefiLlama. Pyth also receives data from crypto exchanges Bitstamp, Bybit and Binance as well as several trading firms such as Jane Street and Cumberland DRW. Read more.\n\nAI COINS: AI-crypto tokens are failing to live up to their lofty 2024 goals despite Nvidia's (NVDA) recent conference sparking bullish sentiment among AI stocks in the traditional markets. Last March, the NEAR token doubled in the lead-up to Nvidia's annual conference, gains that were mirrored across the wider crypto AI market. Fetch.AI (FET), the graph (GRT) and singularityNET (AGIX) all posted significant rallies to the upside in unison with the conference. Why are AI tokens losing momentum? One reason: the emergence of AI agent tokens. Read more.\n\nMore Sovereigns to Buy BTC\n\nCompanies, too\n\nRegulatory and policy\n\nCalendar",
+    "url": "https://www.coindesk.com/tech/2025/01/08/the-protocol-hyperliquid-responds-to-decentralization-criticism",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Kam Benbrik",
+                "Danny Nelson",
+                "Do Kwon",
+                "Jared Lenow"
+            ],
+            "positions": [
+                "Features and Opinion Editor",
+                "employee",
+                "lead prosecutor",
+                "co-founder",
+                "former CEO"
+            ],
+            "companies": [
+                "HyperLiquid",
+                "Chorus One",
+                "CoinDesk",
+                "Jump",
+                "StarkWare",
+                "Offchain Labs",
+                "Arbitrum Foundation",
+                "Lotte Group",
+                "Revolut",
+                "Bitstamp",
+                "Bybit",
+                "Binance",
+                "Jane Street",
+                "Cumberland DRW",
+                "Nvidia",
+                "Terraform Labs"
+            ],
+            "organizations": [
+                "North Korean"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "HYPE",
+            "PYTH",
+            "NEAR",
+            "FET",
+            "GRT",
+            "AGIX"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news covers a mix of positive developments (partnerships, upgrades) and negative concerns (centralization criticism, security issues, trial delays) across multiple projects, creating a balanced overall market impact."
+    }
+}

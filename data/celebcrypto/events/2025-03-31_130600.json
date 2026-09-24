@@ -1,0 +1,28 @@
+{
+    "title": "IREN Calling Off Bitcoin Mining Expansion in Favor of AI Data Centers",
+    "time": "2025-03-31T13:06:00",
+    "author": "Stephen Alpher",
+    "summary": "The company expects to reach its previously planned 52 EH/s of bitcoin mining capacity in coming months.",
+    "content": "Australia-based bitcoin miner IREN is redirecting its growth plans away from BTC mining and towards its AI data centers and AI cloud services businesses.\n\n“As we near completion of our 50 EH/s mining expansion, our focus is shifting to the next phase of growth and delivering scalable infrastructure for AI and HPC,\" said co-founder and CEO Daniel Roberts in a Monday business update.\n\nOnce completed at 52 EH/s, the mining expansion is expected to generate $528 million in annual cash flow, according to the company. Current installed capacity is 35 EH/s and completion is expected in the coming months.\n\nIREN shares are lower by 2.1% premarket.",
+    "url": "https://www.coindesk.com/business/2025/03/31/iren-calling-off-bitcoin-mining-expansion-in-favor-of-ai-data-centers",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Daniel Roberts"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "IREN"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "A major bitcoin miner is redirecting growth away from BTC mining toward AI businesses, which reduces future mining capacity expansion and suggests decreased confidence in bitcoin mining profitability."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Drops 4.7% Over Weekend as All Assets Decline",
+    "time": "2025-05-19T13:15:00",
+    "author": "CoinDesk Indices",
+    "summary": "Avalanche (AVAX) fell 8.6% and Uniswap (UNI) declined 8.5%, leading the index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3068.55, down 4.7% (-151.33) since 4 p.m. ET on Friday.\n\nNone of the twenty assets are trading higher.\n\nLeaders: BTC (-1.2%) and XRP (-4.5%)\n\nLaggards: AVAX (-8.6%) and UNI (-8.5%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/19/coindesk-20-performance-update-index-drops-4-7-over-weekend-as-all-assets-decline",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Avalanche",
+            "AVAX",
+            "Uniswap",
+            "UNI",
+            "BTC",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports that the CoinDesk 20 Index dropped 4.7% with all twenty assets declining, indicating widespread market losses."
+    }
+}

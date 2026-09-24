@@ -1,0 +1,33 @@
+{
+    "title": "Binance Labs-Backed Network Hemi Debuts $440M Mainnet to 'Unify' Bitcoin, Ethereum",
+    "summary": "Hemi Labs has signed up dozens of protocols, including decentralized exchange (DEX) Sushi, liquid staking token pumpBTC and oracles RedStone and Pyth.",
+    "time": "2025-03-12T16:00:00",
+    "author": "Jamie Crawley",
+    "content": "Modular blockchain Hemi Labs' unveiled its mainnet with $440 million in total value locked (TVL).\n\nHemi, founded by early Bitcoin developer Jeff Garzik, plans to unify Bitcoin and Ethereum, the two oldest and largest blockchains, into \"a single supernetwork,\" according to an emailed announcement.\n\nHemi is built on both Bitcoin and Ethereum to combine the best qualities of both, taking advantage of Bitcoin's security and Ethereum's programmability. The project raised $15 million in a funding round led by Binance Labs last September.\n\nThe project is one of several looking to transform the broader blockchain landscape, particularly with regard to decentralized finance (DeFi), through combining Bitcoin and Ethereum due in part to the deep stores of value held in bitcoin (BTC), which comfortably exceed those of every other digital asset combined.\n\nHowever, Bitcoin's coding lacks the ability to natively build some of the functions that DeFi requires, such as smart contracts or zero-knowledge proofs, hence the need to bridge this utility from Ethereum.\n\nThe company has signed up dozens of protocols for deployment on Hemi, including decentralized exchange (DEX) Sushi, liquid staking token pumpBTC and oracles RedStone and Pyth.",
+    "url": "https://www.coindesk.com/tech/2025/03/12/binance-labs-backed-network-hemi-debuts-usd440m-mainnet-to-unify-bitcoin-ethereum",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Garzik"
+            ],
+            "positions": [
+                "early Bitcoin developer"
+            ],
+            "companies": [
+                "Hemi Labs",
+                "Binance Labs",
+                "Sushi",
+                "RedStone",
+                "Pyth"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of a $440M mainnet backed by Binance Labs that unifies Bitcoin and Ethereum with major protocol integrations indicates strong market confidence and positive development."
+    }
+}

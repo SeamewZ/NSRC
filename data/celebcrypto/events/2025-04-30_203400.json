@@ -1,0 +1,34 @@
+{
+    "title": "Crypto Rebounds From Early Declines Alongside Reversal in U.S. Stocks",
+    "summary": "The major U.S. stock market averages tumbled about 2% to begin Wednesday following underwhelming economic data.",
+    "time": "2025-04-30T20:34:00",
+    "author": "Tom Carreras",
+    "content": "There was a bit of volatility in crypto on Wednesday, but most of the market continued the weeks' trend of trading in a very tight range.\n\nShortly after the close of the U.S. stock market, bitcoin\nBTC\n$101,913.92\nwas changing hands at $94,700, down just 0.4% over the past 24 hours. BTC was lower by nearly 2% at one point alongside a sizable early decline in stocks.\n\nHit harder during the early decline, altcoins also rebounded, but underperformed bitcoin The CoinDesk 20 slumped 2% in the last 24 hours, with\nLTC\n$87.04\n, ripple (XRP),\nAVAX\n$16.55\nand chainlink\nLINK\n$14.90\nall dropping roughly 4%.\n\nCrypto equities were modestly lower, but bitcoin miner Hut 8 (HUT) was a notable underperformer, falling 5.7%.\n\nThe major U.S. stock averages tumbled 2% or more early in the session following less than stellar economic news. They retook ground throughout the day though, with the S&P 500 closing slightly in the green and the Nasdaq dipping just 0.1%.\n\nThe continuing string of lame economic data, however, has not seemed to deter U.S. President Trump from his tariff policies.\n\n“Somebody said all the shelves are going to be open,” Trump said early Wednesday. “Well, maybe the children will have two dolls instead of 30 dolls, and maybe the two dolls will cost a couple of bucks more than they would normally. … They have ships that are loaded up with stuff, much of which we don’t need.”",
+    "url": "https://www.coindesk.com/markets/2025/04/30/crypto-rebounds-from-early-declines-alongside-reversal-in-us-stocks",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Hut 8 (HUT)"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "LTC",
+            "ripple",
+            "XRP",
+            "AVAX",
+            "chainlink",
+            "LINK"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes crypto rebounding from early declines but trading in a very tight range overall, indicating minor fluctuations rather than a clear directional trend."
+    }
+}

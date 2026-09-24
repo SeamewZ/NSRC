@@ -1,0 +1,33 @@
+{
+    "title": "Tariff Fallout Slaps Ether Bulls With Looming $100M Liquidation",
+    "time": "2025-04-07T10:13:00",
+    "author": "Sam Reynolds",
+    "summary": "ETH whales have been diligent in topping up wallets, but a flash crash could rile the market.",
+    "content": "Analysis of on-chain data curated by DefiLlama shows that nearly $100 million in ether\nETH\n$3,518.45\npositions are at risk if the price slides by 15%.\n\nTraders in Asia faced a sea of red during the Monday business day as the ripple effects of U.S. President Donald Trump's tariff policy were felt around the world.\n\nETH is down nearly 16% Monday, according to CoinDesk data, now trading above $1490, while the CoinDesk 20 index is down 13%, and market participants fear that the U.S. open could bring more pain.\n\nShould the U.S. open bring another 15% drop in ETH's price, sending it below $1,274, more than $100 million in leveraged positions could face imminent liquidation.\n\nOn-chain liquidations are potentially more impactful than those related to derivatives as it involves spot assets being sold onto the market. In MakerDAO's case, a liquidated position is auctioned off at a cheaper rate to traders who can then sell at a relative premium, flooding the market with supply and creating more sell pressure.\n\nOne wallet which would get liquidated at $1418 had a number of close calls Monday but trimmed its holdings of ETH and paid back repaid some of the DAI it owed.\n\nDeFiLlama data also shows that should the price of ETH sink by 20%, another $36 million is at risk.\n\nThe largest single ETH position, with $147 million in collateral locked, has a strike price of $1,132.\n\nLending protocols were some of the hardest hit tokens during the Monday Asia trading day, with CoinGecko data showing that the category is down 17% on-day as concern grows about the health of levarage around some positions.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/usd100m-in-positions-at-risk-if-eth-slides-by-15",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "CoinGecko"
+            ],
+            "organizations": [
+                "DefiLlama",
+                "MakerDAO"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ether",
+            "DAI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price drops, potential liquidations of $100 million in ETH positions, market fear, and increased sell pressure from on-chain liquidations."
+    }
+}

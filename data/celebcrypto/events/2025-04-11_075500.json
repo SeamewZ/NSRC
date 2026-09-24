@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin’s Recent Drawdown Proves Its More Than Just a Leveraged Tech Play",
+    "summary": "Despite a 26% drop from all-time highs, bitcoin holds steady compared to leading tech stocks, signaling increasing maturity.",
+    "time": "2025-04-11T07:55:00",
+    "author": "James Van Straten",
+    "content": "The U.S. dollar index (DXY) has fallen below 100 and gold has surged to new all-time highs as escalating tariffs have heightened global economic uncertainty. Consequently, asset prices have taken a hit—most notably in the tech sector and cryptocurrencies.\n\nSince reaching its all-time high of $109,000 in January, bitcoin\nBTC\n$101,955.77\nhas declined approximately 26%. When compared to the \"Magnificent Seven\" tech stocks, bitcoin’s drawdown sits right in the middle, signaling its growing maturity as an asset.\n\nTesla (TSLA) is currently the worst performer, down nearly 50% from its peak. NVIDIA (NVDA) follows with a 31% drop. Apple (AAPL), Bitcoin, Meta (META), Google (GOOG), and Amazon (AMZN) have all declined around 26%, while Microsoft (MSFT) stands out with a relatively modest 18% drawdown.\n\nTo highlight bitcoin’s resilience in this current 3-month correction, is to compare it to a similar period during its 2021 downturn—from November 2021 to February 2022—when it plummeted 45% from $69,000 to $38,000. At that time, bitcoin was the worst performer among major tech names, though Tesla also suffered significantly.\n\nThis comparison underscores how bitcoin has grown more resilient over time as its market cycles progress and the asset continues to mature.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/bitcoin-s-recent-drawdown-proves-its-more-than-just-a-leveraged-tech-play",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tesla",
+                "NVIDIA",
+                "Apple",
+                "Meta",
+                "Google",
+                "Amazon",
+                "Microsoft"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article highlights bitcoin's growing maturity and resilience by showing it now performs better during corrections compared to previous cycles and holds steady against major tech stocks."
+    }
+}

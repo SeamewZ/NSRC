@@ -1,0 +1,33 @@
+{
+    "title": "Nasdaq Composite Saw One of Its Worst Days Since 2000 While Bitcoin Held Steady",
+    "time": "2025-04-04T09:47:00",
+    "author": "James Van Straten",
+    "summary": "Despite steep declines in U.S. equities, bitcoin shows surprising strength, holding above key technical levels.",
+    "content": "The U.S. stock-market slide prompted by President Donald Trump's global tariff announcement on Wednesday sent the Nasdaq Composite Index into one of its biggest funks since the start of the century.\n\nThe tech-heavy index lost 5.5% on Thursday, just outside the top 20 worst single-day drawdowns since 2000, according to Investing.com. Most of the largest drawdowns occurred during the dot-com crash of 2000-2001 and the 2008 global financial crisis. Other equity measures also suffered, with the S&P 500 index falling almost 5%.\n\nIn contrast, the bitcoin (BTC) price, which is typically correlated with U.S. equities over short timeframes, bucked the trend. The largest cryptocurrency, which tumbled immediately after the announcement while stock markets were closed, rose 0.7% the following day, with momentum carrying into Friday, according to Glassnode data.\n\nBitcoin is now trading above $84,000 compared with about $87,000 before Trump started speaking. Nasdaq futures, meanwhile, are lower ahead of the U.S. jobs report due later in the day.\n\nBitcoin made its 2025 low in mid-March at around $76,000, whereas the Nasdaq hit a low on Thursday. Year-to-date, bitcoin is outperforming the Nasdaq, losing 10% against the index's 11%.\n\nAnalyst Caleb Franzen highlighted bitcoin's relative strength compared with the S&P 500 in this risk-off environment, noting its resilience around the 200-day moving average.\n\n\"It's pretty remarkable to see that bitcoin is up +3.4% today relative to the S&P 500, particularly in a risk-off environment. As I've recently pointed out, BTC/SPY continues to hold above its 200-day moving average cloud,\" Franzen said in a post on X.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/nasdaq-composite-saw-one-of-its-worst-days-since-2000-while-bitcoin-held-steady",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Caleb Franzen"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Glassnode",
+                "Investing.com"
+            ],
+            "organizations": [
+                "Nasdaq Composite Index",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin showed surprising strength and resilience by holding above key technical levels and rising 0.7% while stock markets experienced significant declines, with analysts highlighting its relative strength in a risk-off environment."
+    }
+}

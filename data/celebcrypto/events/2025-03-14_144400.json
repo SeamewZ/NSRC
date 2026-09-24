@@ -1,0 +1,31 @@
+{
+    "title": "Euler Looks to Build on V2's DeFi Lending Comeback Story",
+    "time": "2025-03-14T14:44:00",
+    "author": "Danny Nelson",
+    "summary": "How Euler clawed back from a debilitating hack.",
+    "content": "Crypto borrow and lend platform Euler Finance just clawed its way back from the DeFi wilderness.\n\nThe protocol this week notched new all-time highs in total value locked (TVL) and total borrows – two pivotal metrics of activity for a DeFi lender.\n\nEuler's hundreds of millions of crypto-dollars now under management might leave it well short of the Ethereum world's lending powerhouses, like the multibillion dollar Aave. But it's nonetheless notable for a protocol that nearly went kaput following a $200 million hack exactly two years ago.\n\n\"A lot of people wrote us off and said it would have been totally normal for us to end the project right there,\" said Michael Bentley, CEO of Euler Labs. But his team decided to stick with it and rebuild Euler – from scratch.\n\nTheir new vision was a highly customizable borrowing hub where people could tailor their pools' risk, yields, and asset parameters. This was a big difference from the original Euler, which Bentley described as \"a specific product: one lending market.\"\n\n\"There just isn't a one-size-fits-all when it comes to lending and borrowing,\" Bentley said.\n\nComeback was hardly assured: while victims of the hack had gotten their money back, Bentley and his team questioned whether the market had an appetite for a protocol with a tarnished reputation.\n\nIt didn't help that Euler basically missed much of 2024's DeFi surge while sitting in pre-launch security reviews. Euler finally debuted its V2 in September 2024, nearly a year and a half after going dark.\n\nThe protocol helped juice its return with a relatively modest incentives budget: a \"few million\" dollars-worth of EUL tokens to woo people back, at a time when he claims competitors were offering tens of millions of dollars more., Bentley said, attributing most of the growth to \"product market fit.\"\n\nEven now, as ether – a critical collateral asset for lending platforms across Ethereum DeFi – continues spiraling in price, Euler continues to grow. It's one of only two lending protocols in the top 10 to see growth in active loans over the last month.\n\nIf this ends up being a bear market I'm still confident, given the success of Euler v2 so far, that Euler will still be growing relative to some of the other opportunities out there,\" Bentley said.",
+    "url": "https://www.coindesk.com/business/2025/03/14/euler-looks-to-build-on-v2-s-defi-lending-comeback-story",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Bentley"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Euler Labs",
+                "Euler Finance",
+                "Aave"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "EUL",
+            "Ethereum",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Euler's successful comeback with new all-time highs in TVL and borrows, continued growth despite market conditions, and positive product market fit."
+    }
+}

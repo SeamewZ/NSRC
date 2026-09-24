@@ -1,0 +1,47 @@
+{
+    "title": "Previewing the Canadian Election's Crypto Angle",
+    "summary": "Canada's leading Prime Minister candidates aren't campaigning on crypto policies, but both have discussed the issue in the past.",
+    "time": "2025-04-23T20:25:00",
+    "author": "Nikhilesh De",
+    "content": "Canada will host an election next week, where voters will consider a range of issues — the economy, housing, trade relations with the U.S. — as they choose their elected officials, who in turn will choose the next Prime Minister of the country.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nCrypto is not a major electoral issue during this year's Canadian election. Neither leading Prime Minister candidate has campaigned on digital assets, but here's how they've discussed the issue in the past.\n\nCanada infamously had massive crypto exchange collapses over the past few years, leading to concerted efforts from its provincial regulators to enact guardrails on the digital asset industry. While exchanges like Coinbase are calling for policies like a Canadian government task force or a bitcoin reserve, so far the leading candidates for Prime Minister seem to have other issues on their minds (namely: U.S. relations and trade, housing and the economy).\n\nWhen Canadians go to the polls next Monday, they'll be choosing their Member of Parliament. The party with a majority of seats will form the country's new government, and the leader of that party will become the new Prime Minister.\n\nWhile the Conservative Party and its leader Pierre Poilievre held comfortable leads in polling averages through late-January 2025, the Liberal Party saw a massive surge in popularity after U.S. President Donald Trump announced tariffs with Canada (and most other countries). The Liberal Party, now with leader Mark Carney, has held a significant edge ever since, according to both polling data and Polymarket. Carney took over from former Prime Minister Justin Trudeau as leader of the Liberal Party last month.\n\nPierre Poilievre\n\nPoilievre is a longtime Bitcoin and blockchain advocate who has led the Conservative Party since September 2022. He owns shares in a Bitcoin exchange-traded fund (ETF). In 2022, he promised to turn Canada into the \"blockchain and crypto capital of the world\" during a campaign speech (a phrase Trump later used on the 2024 campaign trail).\n\n\"I want to take control of money away from politicians and bankers, and give it back to the people,\" he said. \"We need to give people the freedom to choose other money. If the government is going to abuse our cash, we should have the right to opt to use other, higher-quality cash.\"\n\nHe even bought shawarma using bitcoin during his campaign for Conservative Party leader, discussing digital assets in a 30-minute interview with the owner of the restaurant.\n\nHe supported Canada's trucker protest, which dubbed itself the \"Freedom Convoy\" in early 2022 to object to a vaccine mandate for any truckers crossing the U.S.-Canadian border. At the time, the Canadian government sought to freeze financial support for the protestors, including by sanctioning crypto wallets tied to the truckers.\n\nWhile Poilievre does not appear to have specifically linked Bitcoin or other cryptocurrencies to the truckers who may have lost banking access, he did call bitcoin \"the single most important asset you could own.\"\n\nPoilievre has also opposed the Bank of Canada's research into a central bank digital currency, arguing that it could infringe on privacy rights or let lawmakers target benefits to supporters. Last year he supported a bill which would have banned a Canadian CBDC outright (echoing U.S. Republicans who have done the same here).\n\nCanadian magazine Maclean's reported that while Poilievre has said less about crypto in recent days, the Conservative Party as a whole still tends to support the industry, citing various Members of Parliament who have introduced bills or otherwise discussed crypto.\n\nPoilievre did seem to discuss crypto publicly less after FTX's dramatic collapse in 2022, which his political opponents used to issue warnings about his prior advocacy for digital assets. Poilievre may also be reckoning with Trump's unpopularity in Canada, and seeking to distance himself from policies that may imitate the U.S. President's.\n\nMark Carney\n\nCarney was the head of both the Bank of Canada and later the Bank of England. While he hasn't said a lot about Bitcoin, he did give a speech on the \"future of money\" in London in March 2018, where he criticized digital assets' use, citing speculative mania and a lack of vendors willing to accept it as a payment tool.\n\n\"The long, charitable answer is that cryptocurrencies act as money, at best, only for some people and to a limited extent, and even then only in parallel with the traditional currencies of the users,\" he said. \"The short answer is they are failing.\"\n\nCarney pointed to transaction throughput, ease of access and other issues as barriers to digital asset adoption, but said his concerns with digital assets at the time were \"not meant to dismiss them.\"\n\n\"Their core technology is already having an impact. Bringing cryptoassets into the regulatory tent could potentially catalyse innovations to serve the public better,\" he said. \"Crypto-assets are an attempt to create the financial architecture for peer-to-peer transactions. Even if the current generation is not the answer, it is throwing down the gauntlet to the existing payment systems. These must now evolve to meet the demands of fully reliable, real-time, distributed transactions.\"\n\nCarney praised distributed ledgers in particular, and suggested that existing digital asset infrastructure could eventually lead to the creation of a central bank digital currency, though he said \"there are also broader societal questions\" around issues like privacy should a central bank pursue a CBDC.\n\nJust over a year later at the Economic Policy Symposium in Jackson Hole, Wyoming, Carney suggested that a global hegemonic digital currency backed by central bank digital currencies could bolster the world economy against the role of the dollar.\n\n\"The dollar’s influence on global financial conditions could similarly decline if a financial architecture developed around the new [Synthetic Hegemonic Currency] and it displaced the dollar’s dominance in credit markets,\" he said in August 2019. \"By reducing the influence of the US on the global financial cycle, this would help reduce the volatility of capital flows to EMEs.\"\n\nFriday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!",
+    "url": "https://www.coindesk.com/policy/2025/04/23/previewing-the-canadian-elections-crypto-angle",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pierre Poilievre",
+                "Mark Carney",
+                "Donald Trump",
+                "Justin Trudeau"
+            ],
+            "positions": [
+                "Prime Minister",
+                "Member of Parliament",
+                "President",
+                "leader of the Conservative Party",
+                "leader of the Liberal Party",
+                "head of the Bank of Canada",
+                "head of the Bank of England"
+            ],
+            "companies": [
+                "Coinbase",
+                "FTX"
+            ],
+            "organizations": [
+                "Conservative Party",
+                "Liberal Party",
+                "Bank of Canada",
+                "Bank of England",
+                "Polymarket",
+                "Maclean's",
+                "Economic Policy Symposium"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news states that crypto is not a major electoral issue and both leading candidates have mixed or limited public stances on digital assets, with no clear policy direction emerging from the election."
+    }
+}

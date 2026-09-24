@@ -1,0 +1,32 @@
+{
+    "title": "This Crypto Fund Blew Past Bitcoin's 121% Price Gain in 2024",
+    "time": "2025-01-07T05:39:00",
+    "author": "Omkar Godbole",
+    "summary": "Pythagoras Alpha Long Biased Strategy combines a base position in BTC with two uncorrelated strategies to outperform buy and hold play.",
+    "content": "Bitcoin\nBTC\n$104,245.66\n, the leading cryptocurrency by market value, surged 121% last year to cross the six-figure mark, outshining traditional assets. However, this performance falls short in comparison to Pythagoras Investment Management’s Alpha Long Biased Strategy, which pushed the envelope even further.\n\nThe fund, which combines a BTC base position with two uncorrelated strategies, achieved an impressive return of 204% in 2024, Pythagoras said in an email to CoinDesk. That equates to a 3x gain, significantly outpacing the 2x return a typical buy-and-hold bitcoin investor would have realized. The fund charges incentive fee only when it beats bitcoin's performance.\n\nThe fund's base position in bitcoin provides direct exposure to long-term appreciation, and the two uncorrelated strategies – a momentum market timing strategy and a long-short market selection strategy – generate alpha.\n\nThe momentum strategy employs machine learning and pattern recognition to adjust and optimize exposure dynamically, allowing it to capture short-term market fluctuations. Meanwhile, the long-short strategy utilizes a proprietary AI-based forecasting model to create a dollar-neutral portfolio, making long investments in tokens expected to yield superior returns while shorting those anticipated to underperform.\n\nThe allocation to the three components is calibrated to maximize returns relative to bitcoin.\n\nDespite its performance, the Alpha Long Biased Strategy was Pythagoras' smallest fund, boasting assets under management (AUM) of $7 million. It suffered a 2% drawdown in December as the year-end saw BTC climb down from record highs above $108,000 to $93,000.\n\nMeanwhile, Pythagoras' Arbitrage strategy delivered a 3% return in December, ending the year with an 18% gain and $45 million in AUM. The Quant Long Short Fund generated a return of 30% in 2024, with $23 million in AUM and the Absolute Return Strategy generated a 41.7% return, gathering $158 million in client funds. Pythagoras said that the top asset gatherer of 2024 will be closed for new investors from Feb. 1.\n\nThe combined AUM of the four funds grew to over $230 million from $80 million in 2023 as the bull market revved up investor confidence.\n\nPythagoras expects the bull market to continue this year, driven by positive regulatory developments in the U.S. and corporate sovereign demand for bitcoin.\n\n\"The incoming Trump administration, with its proposal on creating a national strategic Bitcoin reserve and appointing individuals favorable to our industry in key Executive Branch positions, is expected to be a major catalyst. With over 290 members of Congress who are pro-crypto, we anticipate that supportive legislation for the cryptocurrency industry will gain momentum,\" Mitchell Dong, CEO of Pythagoras, said in a note to CoinDesk.\n\n\"As the U.S. Congress explores the idea of a national strategic Bitcoin reserve, we expect some countries to attempt to front-run the U.S. in accumulating Bitcoin, should this initiative come to fruition,\" Dong added, mentioning the possibility of listed companies following MicroStrategy's lead in adopting BTC.",
+    "url": "https://www.coindesk.com/markets/2025/01/07/this-crypto-fund-blew-past-bitcoins-121-price-gain-in-2024",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mitchell Dong"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Pythagoras Investment Management",
+                "MicroStrategy"
+            ],
+            "organizations": [
+                "U.S. Congress",
+                "Executive Branch"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights strong fund performance, institutional growth, and positive regulatory expectations including potential national Bitcoin reserves and pro-crypto political support."
+    }
+}

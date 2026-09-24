@@ -1,0 +1,33 @@
+{
+    "title": "Nillion's NIL Dips 12% After Debut; Analyst Believes Network's 'Blind Computing' Holds Promise for Data Privacy, AI",
+    "time": "2025-03-25T06:38:00",
+    "author": "Omkar Godbole",
+    "summary": "The NIL token is the governance cryptocurrency of Nillion, used to pay network fees for blind computation and payments, and is designed to drive demand as usage scales.",
+    "content": "Private computation and storage network Nillion, dubbed the \"blind computer,\" debuted its mainnet and native token NIL on Monday.\n\nHowever, the token's market capitalization has dropped 12% in the first 24 hours alongside continued listing by major exchanges, including South Korea's Bithumb and optimism in the analyst community about the project's long-term prospects.\n\nNIL debuted with a total supply of 1 billion, of which 19.52% or 195.15 million NIL were airdropped to the community on the first day, resulting in an at-inception market capitalization of just over $165 million.\n\nSince then, its market value has dropped 12% to $144.93 million, with the token changing hands at 74 cents on major exchanges, such as Binance, Gate.io, MEXC, Bitget and others, according to data source Coingecko.\n\nEarlier on Tuesday, Bithumb, one of the largest crypto exchanges in the altcoin-savvy South Korea, announced the listing of the NIL-Korean won pair on its platform.\n\nNillion is a decentralized platform designed to support private, high-value data storage and computation, and it works in the same way as blockchains decentralize transactions.\n\nBut there's a catch. Unlike blockchains focusing on transparent ledgers, Nillion uses Nil Message Compute (NMC), which allows computations on encrypted data without exposing (decrypting) it, ensuring that no single node or party has access to sensitive data.\n\nThe network's architecture combines a Coordination Layer called nilChain and Petnet, with the latter using privacy-enhancing technologies like multi-party computation, fully homomorphic encryption and trusted execution environments to deliver data security.\n\nThis so-called blind computing starkly contrasts traditional methods that require decryption before processing, which exposes sensitive data, such as personal health/finance information, to security threats and misuse.\n\nNillion addresses the persistent challenge of data privacy and trust issues in sectors like artificial intelligence (AI) – personal assistants and Healthcare AIs – private order books in decentralized finance and many more.\n\n\"Nillion is tackling AI's biggest hurdle: trust. By weaving together cutting-edge privacy tech into a seamless backbone for AI, Nillion has the potential to become as fundamental to AI as SSL is to the web. If Nillion can make it as easy to use as it is powerful, they'll be powering the next wave of AI adoption,\" Yau Teng Yan, founder and chief evangelist at research firm Chain of Thought said in a detailed post on X.\n\n\"The privacy revolution is just beginning,\" Yan added.\n\nThe NIL token is the governance cryptocurrency used to pay network fees for blind computation and payments across Nillion's Coordination Layer and Petnet, securing the network through staking and participation in the on-chain governance module.\n\n\"NIL’s token economics is designed for adoption. NIL will power the network, securing operations while driving burn-based demand as usage scales,\" Yan noted.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/nillion-s-nil-dips-12-after-debut-analyst-believes-network-s-blind-computing-holds-promise-for-data-privacy-ai",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Yau Teng Yan"
+            ],
+            "positions": [
+                "founder and chief evangelist"
+            ],
+            "companies": [
+                "Nillion",
+                "Bithumb",
+                "Binance",
+                "Gate.io",
+                "MEXC",
+                "Bitget",
+                "Chain of Thought"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NIL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The NIL token dropped 12% in market capitalization during its debut despite exchange listings and analyst optimism about long-term prospects."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Manufacturers Are Building ASICs That Look More Like Servers. Here’s Why: Blockspace",
+    "summary": "Bitcoin miners, hoping for more efficiency, are increasingly marching in step with the traditional datacenter industry, says Colin Harper of Blockspace.",
+    "time": "2025-03-27T18:48:00",
+    "author": "Colin Harper, Blockspace Media",
+    "content": "In the beginning, there were only CPUs, then GPUs, for bitcoin mining. Then came the mighty ASIC in 2013, and with it, the “shoebox” form factor that has become emblematic of the bitcoin mining industry.\n\nWhat comes next? Will the shoebox design persist as standard for bitcoin mining ASICs? Or will another form factor that more resembles traditional datacenter servers win out?\n\nThis article first appeared on Blockspace Media, the leading Bitcoin industry publication dedicated to covering Bitcoin tech, markets, mining, and ordinals. Get Blockspace articles directly in your inbox by clicking here.\n\nASIC manufacturers are increasingly betting on the latter – or at least, that a hydro-cooled server rack design will become a substantial portion of bitcoin mining fleets. Moreover, they’re leaning into the “direct-to-chip” cooling for further efficiency gains.\n\nLast September, Bitmain announced its model U3S21EXPH (a bit of a mouthful, eh?) developed in a partnership with Hut 8. Its U3 design means that one unit takes up three spaces in a traditional server rack. MicroBT soon followed with its M63 Hydro series, as did Bitdeer’s Sealminer A2 Hydro unit.\n\nFollowing suit, Auradine released its server rack model, the AH3880, this March. Its U2 design, which occupies two server slots, is a bit smaller, but it packs more hashrate per unit of space at 600 TH/s (or 300 TH/s per slot) versus Bitmain’s 860 TH/s (286.66 TH/s per slot).\n\nSo, what’s with the switch up from the traditional shoe box? For Auradine, it’s all about customer demand.\n\n“[Our new model is] based upon a lot of feedback that we got from our miner customers … we've been working with the miners even throughout the design process,” Auradine CSO Sanjay Gupta said on the most recent Mining Pod. “They indicated to us that they were looking for a quality hydro based miner.”\n\nIn its partnership with Bitmain for the U3S21EXPH, “Hut 8 was instrumental in the custom design for the infrastructure, particularly the U form factor which is compatible with HPC style architecture,” Hut 8 Head of Investor Relations Sue Ennis told Blockspace last September. (More on the high performance computing angle later).\n\nThe benefit of a server rack ASIC lies in standardization. Bitcoin miners are increasingly marching in step with the traditional datacenter industry, and that industry could see 40% adoption of direct liquid-to-chip cooling by 2026, according to data center developer Cyrus One.\n\nIf miners adopt this design, then theoretically, they can optimize their supply chains by converging on server designs that are becoming best practice in the big-boy data center sector.\n\nThis could make building and repairing bitcoin mines easier. And it could also make mining companies more nimble if they want to flex out of bitcoin mining and into other forms of compute.\n\nAs with so much mining news today, of course the spectre of AI is looming in the background.\n\nIf miners construct their data centers with traditional server rack designs, there is one less pain point if they want to retrofit these sites for AI and HPC loads. Of course, they’d still need to augment the sinews, muscles and veins of their operations with more robust networking and electrical infrastructure, but server racks would provide a backbone for AI/HPC services that requires less restructuring than legacy bitcoin mines. As Ennis put it, “the U form factor … is compatible with HPC style architecture.”\n\nEchoing this, Gupta said in our Mining Pod interview that “[The U form factor has] been used for the AI data center. It’s easy to adjust. It’s got a high [power] density to it … [it] is extremely relevant for AI data centers as well, and we are looking at a joint strategy between AI for HPC and Bitcoin mining. So the U form factor works well with that.”\n\nPerhaps needless to say, the server rack form factor for bitcoin mining is still in its infancy, and while there is promise that such a design could win out, there’s no guarantee.\n\nTo start, bitcoin miners will not only need to rework the innards of their mines but also completely rewire their electrical infrastructure (which is unlikely to happen at existing mines).\n\nCholla’s Brad Cuddy, which operates hydro-cooled ASIC miners, told Blockspace last September that “he’s excited to see the shift from the shoebox design to the [server rack] form factor.” But he said the U3S21EXPH’s voltage range is incompatible with certain electrical infrastructure that miners use with other Bitmain models.\n\n“The restricted range of 380 to 415 volts reduces its compatibility for retrofitting. I would have liked to see the voltage range go all the way up to 480 volts to allow for more interoperability with current infrastructure deployments,” he said.\n\nAs such, it’s likely that we’ll see miners integrate these units at new sites. Hut 8 is taking this approach with plans to host 15 EH/s of U3S21EXPH units for Bitmain (with an option to purchase) at its Vega, Texas site, which is due to start operating in Q2.\n\nSo far, Hut 8 is the only public buyer of Bitmain’s U3S21EXPH. Gupta did not reveal which miners are under contract for its AH3880, but he did say they include several industrial scale private and public miners. It wouldn’t be surprising to see MARA, one of Auradine’s key partners which has also invested upwards of $50 million in the company, adopt the model.\n\nShould Hut 8’s Vega site run smoothly on Bitmain’s model, and if we assume that MARA will deploy Auradine’s, public miners may lead where others will follow, and we could see a new form factor slowly seep into modern mine design.",
+    "url": "https://www.coindesk.com/tech/2025/03/27/manufacturers-are-building-asics-that-look-more-like-servers-here-s-why",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Colin Harper",
+                "Sanjay Gupta",
+                "Sue Ennis",
+                "Brad Cuddy"
+            ],
+            "positions": [
+                "CSO",
+                "Head of Investor Relations"
+            ],
+            "companies": [
+                "Bitmain",
+                "Hut 8",
+                "MicroBT",
+                "Bitdeer",
+                "Auradine",
+                "Cyrus One",
+                "Cholla",
+                "MARA"
+            ],
+            "organizations": [
+                "Blockspace Media",
+                "Blockspace",
+                "Mining Pod"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses technical developments in mining hardware efficiency and form factor standardization, which represents industry evolution rather than clear positive or negative market impact."
+    }
+}

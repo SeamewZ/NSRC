@@ -1,0 +1,47 @@
+{
+    "title": "Matter Labs, ZKsync Developer, Sued for Alleged Intellectual Property Theft",
+    "summary": "Defunct blockchain firm BANKEX said two ex-employees stole its technology to build ZKsync, but a spokesperson at Matter Labs called the allegation \"baseless.\"",
+    "time": "2025-04-22T14:56:00",
+    "author": "Margaux Nijkerk",
+    "content": "Matter Labs, the company behind layer-2 blockchain ZKSync, has been sued by BANKEX, a defunct digital asset banking platform, for intellectual property theft.\n\nAccording to a complaint filed Mar. 19 with the New York State Supreme Court, former BANKEX employees Alexandr Vlasov and Petr Korolev allegedly stole the company's technology to start Matter Labs, which received over $450 million in venture capital funding and has become a major player in the blockchain industry.\n\nThe complaint, which names BANKEX CEO Igor Khmel and the BANKEX Foundation as plaintiffs, alleged BANKEX was approached by Ethereum co-founder Vitalik Buterin in 2017 to build operational software for \"Plasma,\" a technology that was seen at the time as a way to make Ethereum cheaper to use.\n\nAccording to the complaint, Alexandr Vlasov and Petr Korolev were BANKEX employees at the time and were tasked by BANKEX CEO Igor Khemel with completing the Plasma project.\n\nThe complaint alleged that Vlasov and Korolev instead secretly developed “a competing company, Matter Labs, through which they intended to appropriate the blockchain technology of BANKEX for their own use and benefit and to compete with BANKEX.” In addition, the complaint claimed that the two developers were secretly transferring “BANKEX’s technology to Matter Labs and covertly developed and stored operational code bases” using the company’s resources and funding.\n\nVlasov is currently the head of R&D at Matter Labs, and Korolev is the founder of blockchain security firm OXORIO, according to their LinkedIn profiles. Matter Labs co-founder Alex Gluchowski, crypto-native investment fund Dragonfly, and Chris Burniske, a partner at Placeholder Capital and a former co-director at Matter Labs, are also being sued for their alleged involvement and knowledge of the theft.\n\n“We believe these claims are entirely without merit,\" a spokesperson at Matter Labs told CoinDesk in an emailed statement. \"The thrust of the complaint is that Matter Labs built ZKsync on top of code that was originally developed at Bankex. This is categorically false. ZKsync is original technology that is not based on or derived from any code developed by Bankex. We stand by the integrity of our work and look forward to addressing these baseless allegations in court once we are served.\"\n\nDragonfly, Burniske and Korolev did not respond to multiple requests for comment.\n\nBANKEX lawyer Clayton Mahaffey told CoinDesk in a statement that the firm \"prefers not to comment further on the case at this time, other than to reiterate its belief that the allegations in the complaint are well founded and that it looks forward to its day in court.\"\n\nRead more: Matter Labs Accuses Polygon of Spreading \"Untrue Claims\" With Code-Copying Allegations",
+    "url": "https://www.coindesk.com/tech/2025/04/22/matter-labs-zksync-developer-sued-for-alleged-intellectual-property-theft",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alexandr Vlasov",
+                "Petr Korolev",
+                "Igor Khmel",
+                "Vitalik Buterin",
+                "Alex Gluchowski",
+                "Chris Burniske",
+                "Clayton Mahaffey"
+            ],
+            "positions": [
+                "head of R&D",
+                "founder",
+                "CEO",
+                "co-founder",
+                "partner",
+                "former co-director",
+                "lawyer"
+            ],
+            "companies": [
+                "Matter Labs",
+                "BANKEX",
+                "OXORIO",
+                "Dragonfly",
+                "Placeholder Capital",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "BANKEX Foundation",
+                "New York State Supreme Court"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a lawsuit alleging intellectual property theft involving a major layer-2 blockchain project, which creates legal uncertainty and negative sentiment in the cryptocurrency market."
+    }
+}

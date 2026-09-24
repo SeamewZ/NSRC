@@ -1,0 +1,37 @@
+{
+    "title": "Tether's Market Value Sees Sharpest Decline Since FTX Crash as MiCA Kicks In",
+    "time": "2025-01-02T10:36:00",
+    "author": "Omkar Godbole",
+    "summary": "Tether's market cap has declined by over 1% this week, the steepest drop since the crash of FTX in November 2022.",
+    "content": "Tether's USDT, the world's leading dollar-pegged stablecoin, has experienced the sharpest weekly decline in market value in two years, spurring market volatility concerns.\n\nUSDT's market cap slid more than 1% to $137.24 billion this week, the most significant decline since the crash of the FTX exchange in the second week of November 2022, data from TradingView show. It hit a record $140.72 billion in mid-December.\n\nThe decline follows a decision by several European Union (EU)-based exchanges and Coinbase (COIN) to remove USDT due to compliance issues with the EU's Markets in Crypto-Assets (MiCA) regulations that took full effect on Dec. 30, even though the rules on stablecoins — cryptocurrencies whose value is pegged to a real-world asset like the dollar — kicked in six months ago.\n\nThe regulation requires issuers to have a MiCA license for publicly offering or trading asset-referenced tokens (ARTs) or e-money tokens (EMTs) within the bloc. An ART is a crypto asset that looks to maintain a stable value by referencing another asset like gold, crypto tokens or a combination of both, including one or more official currencies. ERTs reference a single national currency, just as USDT does.\n\nEU-based traders can still hold USDT in non-custodial wallets, but can't trade it on MiCA-compliant centralized exchanges.\n\nUSDT is a gateway to the crypto market, with investors using it extensively to fund spot cryptocurrency purchases and derivatives trading. As such, the delistings and drop in market value has sparked speculation of a broader crypto market slide on social media.\n\nThese concerns, however, may be unfounded and the negative impact, at best, could be restricted to the euro area, Karen Tang, the head of APAC partnerships at Orderly Network, a permissionless Web3 liquidity layer, said in a post on X.\n\n\"Access to @Tether_to set to be restricted in the EU due to MiCa regulation isn’t going to harm USDT dominance,\" Tang wrote. \"EU isn’t the largest crypto market. Most crypto trading volume occurs in Asia and U.S. All this will do is stunt the EU’s digital assets innovation, which is already slow due to convoluted overregulation. If I could short the EU, I would…\"\n\nCrypto analyst Bitblaze said Asia accounts for the giant share of the tether volume, downplaying the impact of MiCA-led delistings in Europe.\n\n\"USDT is the largest stablecoin, with a market cap of $138.5B and a daily trading volume of $44B. As of today, 80% of USDT's trading volume comes from Asia, so the EU delisting won’t have any severe impact,\" Bitblaze noted on X.\n\nTether has invested in MiCA-compliant firms StablR and Quantoz Payments in a bid to ensure regulatory alignment.",
+    "url": "https://www.coindesk.com/markets/2025/01/02/tethers-market-value-sees-sharpest-decline-since-ftx-crash-as-mi-ca-kicks-in",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Karen Tang",
+                "Bitblaze"
+            ],
+            "positions": [
+                "head of APAC partnerships at Orderly Network",
+                "Crypto analyst"
+            ],
+            "companies": [
+                "Tether",
+                "FTX",
+                "Coinbase",
+                "Orderly Network",
+                "StablR",
+                "Quantoz Payments"
+            ],
+            "organizations": [
+                "European Union",
+                "EU"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Tether's market cap experiencing its sharpest decline since the FTX crash, with delistings from EU exchanges due to regulatory compliance issues, sparking market volatility concerns."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Card Firm Baanx Partners With Circle for Rewards Wallet",
+    "time": "2025-03-28T18:00:00",
+    "author": "Ian Allison",
+    "summary": "The Rewards Wallet, built using programmable wallet infrastructure from Circle, allows crypto holders access to cashback, fee discounts, and other subscription perks.",
+    "content": "Baanx, a cryptocurrency debit card enabler for the likes of MetaMask and 1inch, has introduced a rewards wallet combining on-chain finance with traditional loyalty perks and discounts, using underlying technology from Circle, the provider of the USDC stablecoin.\n\nBuilt on Circle’s programmable wallet tech, the Baanx platform allows crypto holders access to cashback, fee discounts, subscription perks and exclusive gated experiences, according to a press release.\n\nAn ongoing convergence between traditional card networks and the on-chain world of stablecoins and decentralized finance (DeFi) has seen Mastercard partner with Web3 wallet MetaMask, and more recently reports of Visa in talks with Sam Altman’s World Network.\n\nThe rewards wallet offering helps bridge the gap between blockchain and everyday financial needs, said Baanx Chief Commercial Officer Simon Jones.\n\n“We've built the Rewards Wallet using Circle to offer rewards on a crypto debit card that are unprecedented, and so incentivizing users to go down the route of non-custodial spend,” Jones said in an interview. “For instance, if you look at the MataMask card, it’s up to 6% cash-back for the first month.”\n\nCircle, famous as the creator of the $60 billion stablecoin USDC, offers programmable wallet infrastructure that allows for adding features to multiple crypto projects without having to change the user interface, Jones said.\n\n“We are pushing USDC as the main treasury token and incentive program within these products, as opposed to Tether [USDT],” he said.\n\nSanja Kon, VP of partnerships & business development, Europe at Circle said in a statement: “Circle Wallets provide a fantastic foundation for the Rewards Wallet. By integrating this technology, Baanx is bringing real-world value to crypto users in new and exciting ways.”",
+    "url": "https://www.coindesk.com/business/2025/03/28/crypto-card-firm-baanx-partners-with-circle-for-rewards-wallet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Simon Jones",
+                "Sanja Kon",
+                "Sam Altman"
+            ],
+            "positions": [
+                "Chief Commercial Officer",
+                "VP of partnerships & business development, Europe"
+            ],
+            "companies": [
+                "Baanx",
+                "Circle",
+                "MetaMask",
+                "1inch",
+                "Mastercard",
+                "Visa",
+                "World Network",
+                "Tether"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The partnership between Baanx and Circle introduces new rewards and incentives for crypto users, promotes USDC adoption, and bridges traditional finance with blockchain, indicating positive market development and increased utility."
+    }
+}

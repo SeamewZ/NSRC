@@ -1,0 +1,37 @@
+{
+    "title": "French Prosecutors Expand Money Laundering, Tax Fraud Probe Against Binance: Reuters",
+    "summary": "The investigation is focused on alleged offenses committed in both France and the broader European Union from 2019 to 2024.",
+    "time": "2025-01-28T17:55:00",
+    "author": "Cheyenne Ligon",
+    "content": "French authorities have expanded a probe into Binance, investigating alleged money laundering, tax fraud and other crimes at the crypto exchange from 2019 to 2024, according to a Tuesday report from Reuters.\n\nBinance has denied the allegations, telling CoinDesk in an emailed statement that it will “vigorously fight any charges made against it.”\n\nThe investigation, which was opened by JUNALCO, the division of the Paris public prosecutor’s office that handles economic and financial crime, involves alleged offenses that took place in France as well as the broader European Union (EU). French authorities first began investigating Binance in June 2023 for “aggravated money laundering” and the “illegal” provision of crypto trading services before it received regulatory approval from the AMF, the French financial regulator, in 2022.\n\n“Binance is deeply disappointed to learn that [JUNALCO] has taken the decision to refer this matter, which is several years old, to the French judiciary for further investigation,” the spokesperson added.\n\nAt the time news broke of the initial investigation in 2023, then-CEO Changpeng “CZ” Zhao called the reports “FUD” on social media and reaffirmed Binance’s commitment to its presence in France, which Zhao called the exchange’s “flagship center in Europe.”\n\nLast April, Zhao was sentenced to four months in prison in the U.S. for failing to implement an adequate know-your-customer (KYC) and anti-money laundering (AML) regime at Binance, thus violating the Bank Secrecy Act (BSA). Binance also pleaded guilty to violating the BSA and sanctions laws, and agreed to pay $4.3 billion in fines and penalties to settle the charges.\n\nAs part of Zhao’s plea deal with U.S. prosecutors, he agreed to step down as CEO of Binance. The exchange has since named Richard Teng, a former regulator, as CEO. Since Teng’s takeover of the exchange, Binance said it has stepped up its compliance efforts, boosting headcount and increasing its spending by nearly 40% year-over-year.",
+    "url": "https://www.coindesk.com/policy/2025/01/28/french-prosecutors-expand-money-laundering-tax-fraud-probe-against-binance-reuters",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Changpeng \"CZ\" Zhao",
+                "Richard Teng"
+            ],
+            "positions": [
+                "CEO",
+                "former regulator"
+            ],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Reuters",
+                "CoinDesk",
+                "JUNALCO",
+                "Paris public prosecutor's office",
+                "AMF",
+                "European Union",
+                "French financial regulator",
+                "French judiciary",
+                "U.S. prosecutors"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes an expanded money laundering and tax fraud probe against a major cryptocurrency exchange, which represents negative regulatory pressure on the industry."
+    }
+}

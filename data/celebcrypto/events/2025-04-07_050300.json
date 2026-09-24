@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin CME Futures Gap Lower After Trump Says 'There Won't Be a Deal With China'",
+    "time": "2025-04-07T05:03:00",
+    "author": "Omkar Godbole",
+    "summary": "Trump, when asked about sliding markets, said sometimes you have to \"take medicine.\"",
+    "content": "CME's bitcoin futures, considered a proxy for institutional activity, gapped lower Monday in a sign of bearish sentiment after President Donald Trump ruled out a trade deal with China.\n\nThe futures contract due to expire on the last Friday of April began trading at $79,590, down 5.6% from Friday's close of $84,250 and quickly descended to $76,800, CoinDesk data show.\n\nThe losses came as Dow futures fell 900 points, Chinese stocks crashed, and the Japanese equity market slipped into lower circuit breakers as JPMorgan, S&P Global, and Goldman Sachs increased the probability of the U.S. falling into recession this year.\n\nOn Sunday, Trump told reporters on Air Force One that he wanted to solve the trade deficit with China \"and unless we solve that problem, I'm not going to make a deal.\"\n\nTrump added that world leaders are dying to make a deal. Last week, the President announced sweeping tariffs on 180 nations, boosting the total levy on China to 54%. Since then, financial markets have wilted, which the President thinks is the necessary medicine to solve the problem.\n\n\"I don't want anything to go down, but sometimes you have to take medicine to fix something,\" Trump said.\n\nOpen interest in the CME futures peaked in December at 281.57 BTC and has since declined to 140.5K, the lowest since August 2024, according to data source Coinglass.\n\nIt's a sign of money leaving the digital assets space, perhaps in anticipation of a deeper price swoon.\n\nMeanwhile, global futures and perpetual futures open interest, excluding CME, has increased from roughly 400K BTC to 520 BTC in the past four weeks.\n\nAn increase in open interest alongside a price drop is said to confirm the bearish trend, indicating that traders are building short positions in a falling market.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/bitcoin-cme-futures-gap-lower-after-trump-says-there-won-t-be-a-deal-with-china",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CME",
+                "JPMorgan",
+                "S&P Global",
+                "Goldman Sachs",
+                "CoinDesk",
+                "Coinglass"
+            ],
+            "organizations": [
+                "China"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin futures gapping lower, declining open interest indicating money leaving digital assets, and increased short positions during a price drop, all signaling bearish market sentiment."
+    }
+}

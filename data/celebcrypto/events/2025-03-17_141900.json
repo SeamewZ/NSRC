@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Network Hashrate Inched Higher in March as Mining Economics Weakened: JPMorgan",
+    "time": "2025-03-17T14:19:00",
+    "author": "Will Canny",
+    "summary": "U.S.-listed miners maintained their share of the network hashrate at around 30%, the report said.",
+    "content": "The Bitcoin network hashrate rose 2 exashashes per second (EH/s) in the first two weeks of March, to an average of 811 EH/s, Wall Street bank JPMorgan (JPM) said in a research report Monday.\n\nJPMorgan noted that U.S.-listed miners maintained their share of the network hashrate at around 30%.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nThe \"average bitcoin price declined ~10%, pressuring mining economics in the period,\" analysts Reginald Smith and Charles Pearce wrote.\n\nThe hashprice, a measure of daily mining profitability, was broadly unchanged from the end of last month, the report noted.\n\nMiners earned roughly $48,300 in daily block reward revenue per EH/s in the first two weeks of March, a 11% drop from February, and a 52% decline since last April's halving event, the bank said.\n\nThe total market cap of the 14 U.S.-listed miners that the bank tracks slipped 13%, or about $3 billion, from the month previous.\n\nArgo Blockchain (ARGO) outperformed with a 1% gain, while Cipher Mining underperformed with a 25% decline. Only one of the miners in the bank's coverage outperformed bitcoin in the same period, the report added.\n\nRead more: Bitcoin Mining Economics Weakened in February: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bitcoin-network-hashrate-inched-higher-in-march-as-mining-economics-weakened-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Argo Blockchain",
+                "Cipher Mining"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports declining bitcoin prices, weakened mining economics, reduced mining profitability, and falling market caps for mining companies."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "World Liberty Says it Hasn't Sold Any Ether, Refutes Arkham Data",
+    "time": "2025-04-11T07:07:00",
+    "author": "Oliver Knight",
+    "summary": "A WLFI spokesperson claims that the project hasn't sold any of its holdings.",
+    "content": "World Liberty Financial, the DeFi project backed by U.S. President Donald Trump's family, has denied reports that it sold ether\nETH\n$3,632.70\nearlier this week.\n\nIt was reported on Wednesday that a wallet closely linked to World Liberty Financial, which is tagged by blockchain data firm Arkham as potentially belonging to the project, sold $8 million worth of ether after surpassing $125 million in unrealized losses.\n\nIn a statement to CoinDesk, a World Liberty Financial spokesperson said: \"The claims that World Liberty Financial has sold any of its holdings are wholly inaccurate. WLFI has not sold any positions as currently reported. Speculation to the contrary is false.\"\n\nEther has since rebounded since that sale at $1,465, currently trading at $1,553 after the crypto markets experience a minor period of relief on Wednesday.\n\nDonald Trump's son, Eric, said that it was a \"great time to buy\" ETH in February when it traded at $2,880.\n\nArkham did not respond to CoinDesk's request for comment.",
+    "url": "https://www.coindesk.com/business/2025/04/11/trump-backed-world-liberty-financial-denies-selling-eth-despite-arkham-data",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Trump"
+            ],
+            "positions": [
+                "U.S. President",
+                "spokesperson"
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "Arkham",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "WLFI"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that Ether has rebounded since the reported sale and mentions a minor period of relief in crypto markets."
+    }
+}

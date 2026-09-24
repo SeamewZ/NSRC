@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin Activity Hits 1-Year Low, but These Metrics Point to Bullish Moves: CryptoQuant",
+    "time": "2025-02-07T11:11:00",
+    "author": "Shaurya Malwa",
+    "summary": "A dip in activity was marked by a sharp decline in the number of transactions and a spike in demand from long-term holders may underpin the bitcoin price.",
+    "content": "One bitcoin (BTC) holder metric is pointing to price growth in the months ahead even as activity on the blockchain falls to its lowest in a year, a CryptoQuant analysis noted this week.\n\nThe firm’s Bitcoin Network Activity Index has been down 15% since November 2024’s record high and stands at 3,760 as of Friday morning, its lowest level since February 2024. The index is a cumulative measure of active addresses, number of transactions, block size and fees among other bitcoin metrics to indicate growth or a drop in Bitcoin usage.\n\nA drop in activity was marked by a sharp decline in the number of transactions. The total daily number of transactions is 346,000 as of Friday, down 53% from a high of 734,000.\n\nLow network activity is also evident in the Bitcoin mempool, or a collection of all unconfirmed Bitcoin transactions waiting to be included in a block by miners. Mempool volumes plummeted from a high of 287,000 in December to just 3,000 as of Thursday, a slide of nearly 99% to levels not seen since March 2022.\n\nCryptoQuant said lower use of Runes Protocol, a relatively new way to issue fungible tokens directly on Bitcoin, may be behind the plunge.\n\n“The decline in Bitcoin’s network activity can be mostly explained by the collapse in the use of the RUNES protocol to mint tokens on the Bitcoin network,” it said. “This is evident in the total daily number of OP RETURN codes in Bitcoin transactions, which the RUNES protocol uses to write data about token mints and transfers on the network.\n\n“When the RUNES protocol emerged in April 2024, the daily number of OP RETURN codes spiked to 802K. However, the number of OP RETURN code has plummeted since, with only 10K OP RETURN codes used,” the firm added.\n\nHowever, the drop in activity may not directly affect bitcoin prices, which are seen as likely to grow because demand from long-term accumulator addresses has increased in recent weeks.\n\nBitcoin Permanent Holder demand is accelerating.\n\nHistorically, this signals strong confidence and often precedes rallies. pic.twitter.com/o2xPydbUhi\n\nSuch a spike is historically associated with a rally in the BTC price and signals the overall perception of the asset as an investment asset, or store of value. Permanent holders are addresses that accumulate BTC over time and never engage in spending transactions, indicating a long-term holding strategy that creates a lack of sell-side pressure.",
+    "url": "https://www.coindesk.com/markets/2025/02/07/bitcoin-activity-hits-1-year-low-but-these-metrics-point-to-bullish-moves-cryptoquant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CryptoQuant"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that despite low network activity, demand from long-term holders is increasing and historically signals strong confidence that often precedes price rallies."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Tokenization is Full Steam Ahead… with Tracks Still Needing to be Built",
+    "time": "2025-05-21T14:53:00",
+    "author": "Jason Barraza",
+    "summary": "STM.co’s Jason Barraza shares TokenizeThis 2025 key takeaways on RWA tokenization momentum and the remaining challenges to address.",
+    "content": "The tokenization of real world assets (RWAs) is gaining recognition from institutions seeking collateral mobility, issuers making private, alternative assets more accessible to retail investors and crypto enthusiasts engaging in more serious conversations as compared to the NFT and memecoin craze of past years.\n\nAs predicted earlier this year, tokenization is solidifying its position and moving into the \"pragmatists\" portion of the adoption bell curve. 2024 ended with a $50 billion market cap and as of May 2025 has surpassed $65 billion, excluding stablecoins.\n\nA recent conference, TokenizeThis 2025, brought together industry leaders to dive deep into specific areas of the tokenization space, celebrating innovative accomplishments and evaluating how to tackle remaining challenges to reach mainstream adoption. While the conference panel topics delved into granular areas, a couple overarching themes to highlight include 1) collateral mobility and new utility enhancing real world assets and 2) the effects tokenization will have on investment strategies and workflows.\n\n“I think that's actually what makes this technology so powerful is that you're talking about the same token but it can be used in very different ways for very different investors as long as of course the risk framework is right,” said Maredith Hannon, head of business development, digital assets at WisdomTree.\n\nWhile tokenizing assets is straightforward, the real opportunity lies in enabling more streamlined usage of assets compared to their traditional counterparts and addressing the needs of different participants. A panel dedicated to this topic shared examples of tokenized treasury products that can be used in both retail and institutional settings. Because blockchain allows an asset to move more freely, a money market fund could be used as collateral on a prime brokerage, eliminating the need to exit from that position thus still earning its corresponding yield for the investor. From a retail perspective, the same is possible with a different application where the fund units can be used for payment using a debit card linked to them. Utility can be added to other, higher risk investment products as well through different applications depending on the use case, with the common denominator being the use of blockchain technology.\n\nAlong the same lines, lending and borrowing is being disrupted thanks to tokenization. Going to a traditional lender (usually an institution) for cash is a cumbersome process.\n\n“The end goal in my opinion would be that my kids when doing their first mortgage just apply anonymously on a mortgage saying ‘this is my situation I want to borrow this for that’ and then she just borrows it [from] many people at the same time and repaying stablecoins… it's already quite daunting to talk to 20 banks because you want to buy one apartment, at least this is how it works in France right now,” said Jerome de Tychey, CEO at Cometh.\n\nJerome’s anecdote speaks to the power of decentralized finance for an individual and how it can fast-track a loan. Figure offers an internet-based solution for home equity lines of credit (HELOCs) and even they are using the blockchain in the backend. By issuing, warehousing and securitizing them, they’ve saved 150 bps out of the process — an operational advantage. From an investment standpoint, the DeFi vaults panel showcased how vaults streamline something similar but for investors, with an example being Apollo’s tokenized private credit fund now using this technology to enable leverage loops. This means borrowed stablecoin can be used to buy more of the asset, increasing yield while being subject to a built-in programmatic risk framework.\n\nSource: Securitize\n\nHowever, challenges remain to be solved before vaults can take off, such as high custody and liquidity provision costs, limited RWA composability in DeFi and minimal appeal to crypto-native users seeking higher returns. Despite these obstacles, participants expressed enthusiasm for future possibilities.\n\n“The reason this technology is so powerful is because it's a computer. If you think about all the middle and back office work from originating an asset to selling it, how many intermediaries touch it and take fees, how many people ensure loan tapes match with received funds — bringing that workflow on-chain is far more meaningful than just focusing on the asset itself,” said Kevin Miao, head of growth at Steakhouse Financial.\n\nTraditional markets have had a challenging time incorporating less liquid, higher yielding assets into investment strategies due to complex back and middle office needs for transfers, servicing, reporting and other factors. Automating transfer processes and providing on-chain transparency would make it easier for these assets to be allocated in and out of, in addition to cryptocurrencies introducing new investment opportunities.\n\nCameron Drinkwater from S&P Dow Jones Indices and Ambre Soubiran from Kaiko discussed how blockchain will unlock previously inaccessible portfolio construction tools. They shared how this could result in blockchain-native investment strategies combining crypto and private asset allocations for greater diversification and new sources of yield.\n\nAchieving this, however, requires interoperability between legacy and blockchain-based infrastructure and between blockchains themselves. Some critical elements include aligning workflows, price transparency, rebalancing, on-chain identity, risk assessment considerations and risk management solutions. Providing maximum visibility into these assets and tools to navigate markets on-chain is one key step in.\n\nRWAs are shifting from theoretical blockchain to practical tokenized asset implementation in traditional and decentralized finance. The focus is now on enabling real utility through better collateral mobility, new financial products and more efficient workflows. By improving interoperability and identity frameworks, tokenization is expected to democratize illiquid assets and enhance financial efficiency. For additional recordings of the informational sessions, please visit STM TV on YouTube.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/21/tokenization-is-full-steam-ahead-with-tracks-still-needing-to-be-built",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jason Barraza",
+                "Maredith Hannon",
+                "Jerome de Tychey",
+                "Kevin Miao",
+                "Cameron Drinkwater",
+                "Ambre Soubiran"
+            ],
+            "positions": [
+                "head of business development, digital assets",
+                "CEO",
+                "head of growth"
+            ],
+            "companies": [
+                "STM.co",
+                "WisdomTree",
+                "Cometh",
+                "Figure",
+                "Apollo",
+                "Steakhouse Financial",
+                "S&P Dow Jones Indices",
+                "Kaiko"
+            ],
+            "organizations": [
+                "TokenizeThis 2025",
+                "Securitize"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights strong growth in tokenization from $50B to $65B market cap, institutional adoption, and positive developments in RWA tokenization that enhance financial efficiency and create new investment opportunities."
+    }
+}

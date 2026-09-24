@@ -1,0 +1,38 @@
+{
+    "title": "Trump-Linked NexusOne Launches to Influence U.S. Crypto and AI Policy",
+    "summary": "The firm, located near the White House, plans to lobby for companies in these industries.",
+    "time": "2025-05-01T14:29:00",
+    "author": "Francisco Rodrigues",
+    "content": "A new government relations firm that includes former administration officials started operations in Washington, D.C. to help crypto and artificial intelligence companies shape U.S. policy.\n\nNexusOne Consulting is led by Jeff Ifrah, a white-collar defense attorney; Jim Trusty, a former government lawyer who has represented the Trump administration; and Ross Branson, who served in the Commerce Department during President Donald Trump's first term.\n\n“There’s a once-in-a-generation opportunity to shape the future of tech policy,” Ifrah said in a press release. “We’re here to make sure innovators don’t just react to policy —they influence it.”\n\nTrump has signaled his intent to make the U.S. the “crypto capital of the world,” and has moved to establish a strategic bitcoin reserve.\n\nLocated directly across from the White House, NexusOne touts itself as a bridge between private industry and government. The firm plans to lobby for companies working at the edge of AI, crypto, and social platforms.",
+    "url": "https://www.coindesk.com/policy/2025/05/01/trump-linked-nexusone-launches-to-influence-us-crypto-and-ai-policy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeff Ifrah",
+                "Jim Trusty",
+                "Ross Branson",
+                "Donald Trump"
+            ],
+            "positions": [
+                "white-collar defense attorney",
+                "former government lawyer",
+                "former administration officials",
+                "President"
+            ],
+            "companies": [
+                "NexusOne Consulting"
+            ],
+            "organizations": [
+                "White House",
+                "Trump administration",
+                "Commerce Department",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Trump's intent to make the U.S. the 'crypto capital of the world' and establish a strategic bitcoin reserve, which signals positive policy support for cryptocurrency."
+    }
+}

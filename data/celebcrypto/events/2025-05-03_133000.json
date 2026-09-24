@@ -1,0 +1,42 @@
+{
+    "title": "State of Crypto: IRS Departures",
+    "summary": "Seth Wilks and Raj Mukherjee, two IRS digital asset directors, are leaving the agency just over a year after joining it.",
+    "time": "2025-05-03T13:30:00",
+    "author": "Nikhilesh De",
+    "content": "The IRS, alongside many other regulators, has been pretty active in the crypto world over recent years. On Friday, two directors left.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nOver 20,000 IRS employees accepted deferred resignation offers made by the Donald Trump administration, including two directors tasked with overseeing digital assets rulemaking.\n\nRaj Mukherjee and Seth Wilks went on paid administrative leave Saturday, though individuals familiar with the situation told CoinDesk that their departures should not indicate any change in the IRS' approach to crypto rules.\n\nWilks, the IRS' executive director of digital asset strategy and development, and Mukherjee, the executive director of the digital assets office, accepted deferred resignation offers and left the IRS on Friday, two individuals told CoinDesk.\n\nThey joined thousands of other IRS employees who accepted the offer, which puts them on paid administrative leave until September.\n\nBoth of CoinDesk's sources said Wilks and Mukherjee left ahead of expected widespread layoffs at the IRS.\n\nRead more here.\n\nProsecutors and defense attorneys in the Department of Justice's case against the developers of Samourai Wallet filed a joint memo asking the federal judge overseeing the case to pause it for a few weeks while the DOJ considers a request from the defense to drop it entirely.\n\nAn attorney for Roman Storm, asked if the Tornado Cash developer's team had made a similar request, declined to comment.\n\nThis same week, a federal judge ruled that the U.S. Treasury Department cannot sanction Tornado Cash again, saying the Office of Foreign Asset Control did \"not suggest they will not sanction Tornado Cash again, and they may seek to 'reenact precisely the same [designation] in the future.'\"\n\nLast month, Leah Moushey, an attorney with Miller & Chevalier, told CoinDesk that the judge may decide to reject OFAC's argument that the case was moot because of previous cases where agencies tried to keep the ability to redesignate someone after a court case was resolved.\n\nThe judge indeed appeared to buy into that view in his ruling.\n\nTuesday\n\nThursday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!",
+    "url": "https://www.coindesk.com/policy/2025/05/03/state-of-crypto-irs-departures",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Seth Wilks",
+                "Raj Mukherjee",
+                "Donald Trump",
+                "Roman Storm",
+                "Leah Moushey",
+                "Nikhilesh De"
+            ],
+            "positions": [
+                "IRS digital asset directors",
+                "executive director of digital asset strategy and development",
+                "executive director of the digital assets office",
+                "prosecutors",
+                "defense attorneys",
+                "attorney",
+                "Tornado Cash developer"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Miller & Chevalier"
+            ],
+            "organizations": [
+                "IRS",
+                "Department of Justice",
+                "U.S. Treasury Department",
+                "Office of Foreign Asset Control"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news reports personnel changes at the IRS and legal developments involving crypto services, but sources indicate no change in regulatory approach and the overall impact on markets is unclear."
+    }
+}

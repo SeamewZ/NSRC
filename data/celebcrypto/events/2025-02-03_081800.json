@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin's ‘Kimchi Premium’ Jumps to 10%, Worrying Sign for BTC in Short-Term",
+    "time": "2025-02-03T08:18:00",
+    "author": "Shaurya Malwa",
+    "summary": "Trading volumes on Korean exchanges Bithumb and Upbit have dropped significantly in the past week, indicating a drop in retail trading activity.",
+    "content": "Premiums of an infamous bitcoin\nBTC\n$103,852.44\ntrade popularized by Sam Bankman-Fried have popped back to significant levels amid a market bloodbath caused by rising U.S. tariffs, a market sign that some consider bearish in the short term.\n\nThe so-called Kimchi premium, or the difference in bitcoin prices on Korean exchanges compared to global bourses, rose just over 10% as of Asian morning hours Monday as BTC dropped 6% in the past 24 hours.\n\nThe arbitrage involves buying bitcoin on a global exchange and selling it on a Korean exchange for a riskless profit in Korean won. Pocketing the actual gains is difficult due to South Korea's strict capital controls, but the premium is often used alongside other factors to gauge market sentiment.\n\nTrading volumes on Korean exchanges Bithumb and Upbit have dropped significantly in the past week, indicating a drop in retail trading activity. Meanwhile, balances of dollar-margined stablecoin tether have been on the decline on both exchanges with instances of withdrawal delays.\n\n“It seems that most retail investors are either already fully invested in spot or have withdrawn their funds to engage in DEX activities,” Seoul-based DNTV Research analyst Bradley Park told CoinDesk in a Telegram message.\n\n“In this situation, the kimchi premium doesn’t represent retail investors’ overbuying; rather, it appears to have risen as a passive response to the uncertainty of a strong dollar environment,” Park added.\n\n“The kimchi premium can surge excessively when trading volume increases, but it can also help defend prices when the asset prices on overseas exchanges drop significantly,\" Park said, adding that was likely “not a positive sign” in the short-term for bitcoin.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/bitcoin-s-kimchi-premium-jumps-to-10-worrying-sign-for-btc-in-short-term",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Bankman-Fried",
+                "Bradley Park"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "Bithumb",
+                "Upbit",
+                "DNTV Research",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "tether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article describes the kimchi premium surge as 'not a positive sign' in the short-term for bitcoin amid a market bloodbath and dropping trading volumes."
+    }
+}

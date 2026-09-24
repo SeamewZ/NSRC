@@ -1,0 +1,29 @@
+{
+    "title": "WisdomTree Expands Institutional Tokenized Fund Platform to Arbitrum, Avalanche, Base and Optimism",
+    "time": "2025-04-03T16:38:00",
+    "author": "Krisztian Sandor",
+    "summary": "The firm also offers a broader selection of tokenized funds, including equity indexes and fixed income strategies.",
+    "content": "Asset management firm WisdomTree (WT) is moving deeper into asset tokenization with expanding its institutional investment platform, WisdomTree Connect, to include 13 tokenized funds across five blockchain networks, the company said on Thursday.\n\nPreviously limited to Ethereum, the platform now supports Arbitrum, Avalanche, Base and Optimism. Investors can interact with the funds through U.S. dollar or Circle's USDC stablecoins, with holdings accessible in third-party and self-custodial wallets.\n\nWith these additions, WisdomTree Connect now claims the bragging rights of offering \"the most extensive suite of tokenized real-world assets (RWA) available to institutions,\" a spokesperson said.\n\nThe suite includes a tokenized money market fund, equity index funds, fixed income funds and asset allocation funds. The money market fund, WisdomTree Government Money Market Digital Fund (WTGXX), offers exposure to short-term government securities. Equity index funds such as WisdomTree 500 Digital Fund (SPXUX) and WisdomTree Technology & Innovation 100 Digital Fund (TECHX) track major stock market indices. The fixed income segment includes offerings tied to various Treasury durations and inflation-protected securities.\n\nThe offerings are registered with the Securities and Exchange Commission (SEC) under the Investment Company Act of 1940.\n\nAsset tokenization is gaining traction among asset managers as they increasingly place traditional financial instruments on blockchain rails to pursue operational gains. It's a rapidly growing sector with the potential to become a trillion-dollar market as all kinds of real-world assets (RWAs) including real estate, bonds, credit move on-chain.",
+    "url": "https://www.coindesk.com/business/2025/04/03/wisdomtree-expands-institutional-tokenized-fund-platform-to-arbitrum-avalanche-base-and-optimism",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "spokesperson"
+            ],
+            "companies": [
+                "WisdomTree",
+                "Circle"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of institutional tokenized funds to multiple blockchain networks and the growing traction of asset tokenization indicate increased institutional adoption and market confidence in cryptocurrency infrastructure."
+    }
+}

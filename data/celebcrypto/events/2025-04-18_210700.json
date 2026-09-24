@@ -1,0 +1,37 @@
+{
+    "title": "Canary Capital Files for Tron ETF With Staking Capabilities",
+    "summary": "The Securities and Exchange just days ago postponed its decision on Grayscale’s request to add staking to its ethereum ETF products.",
+    "time": "2025-04-18T21:07:00",
+    "author": "Helene Braun",
+    "content": "Canary Capital is looking to launch an exchange-traded fund (ETF) tracking the price of Tron’s native token, TRX, according to a filing.\n\nThe hedge fund submitted a Form S-1 for the Canary Staked TRX ETF with the Securities and Exchange Commission (SEC) on Friday. As the name suggests, the fund — if approved — would stake portions of its holdings.\n\nThis would be done through third-party providers, with BitGo acting as custodian for the assets. The fund would track TRX’s spot price using CoinDesk Indices calculations.\n\nA proposed ticker as well as the management fee for the product have not been shared yet.\n\nIssuers had initially filed applications for spot ethereum\nETH\n$3,332.80\nETFs with the staking feature included but removed them in an amended filing later in order to receive approval from the SEC on their proposals.\n\nWhile the SEC under former Chair Gary Gensler was strictly against staking, issuers have grown more hopeful that they will be able to add the feature to their spot ether funds, among others, with the appointment of crypto-friendly Chair Paul Atkins.\n\nA decision on a February request from Grayscale to allow staking in the Grayscale Ethereum Trust ETF (ETHE) and the Grayscale Ethereum Mini Trust ETF\nETH\n$3,332.80\nwas postponed by the regulator just a few days ago.",
+    "url": "https://www.coindesk.com/policy/2025/04/18/canary-capital-files-for-tron-etf-with-staking-capabilities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler",
+                "Paul Atkins"
+            ],
+            "positions": [
+                "former Chair",
+                "crypto-friendly Chair"
+            ],
+            "companies": [
+                "Canary Capital",
+                "Grayscale",
+                "BitGo",
+                "CoinDesk Indices"
+            ],
+            "organizations": [
+                "Securities and Exchange Commission (SEC)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Tron",
+            "TRX",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The filing for a TRX ETF with staking capabilities and the mention of growing issuer hope for staking features under new leadership indicates positive institutional adoption and regulatory progress."
+    }
+}

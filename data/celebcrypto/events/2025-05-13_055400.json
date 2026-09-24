@@ -1,0 +1,25 @@
+{
+    "title": "Bitcoin Crossing $2T in Market Cap Triggers Wave of New Buyers, but Key Players Tread Cautiously, Onchain Data Show",
+    "time": "2025-05-13T05:54:00",
+    "author": "Omkar Godbole",
+    "summary": "While first-time buyers show strong interest, momentum buyers remain weak, suggesting potential price consolidation.",
+    "content": "Bitcoin's\nBTC\n$104,608.94\n$2 trillion market cap has attracted a wave of new buyers to the market, while seasoned traders turn cautious, according to analysis of on-chain data by Glassnode.\n\nBTC's price topped $100,000 last Thursday, lifting its market capitalization above $2 trillion for the first time since Jan. 31, according to data source TradingView. Since then, the ship has steadied above the $2 trillion mark, with analysts calling for record highs on the back of an impending U.S. inflation data later Tuesday.\n\nIt's common for new investors to join the market in such bullish conditions, and they are doing so in large numbers, hinting at retail FOMO, a crypto slang for \"fear of missing out.\" FOMO happens when investors feel compelled to buy coins because they see others making gains or fear that prices will rise significantly without them. It causes investors to make impulsive purchases driven by emotions rather than careful study.\n\n\"BTC Supply Mapping shows sustained strength in new demand. First-Time Buyers RSI has held at 100 all week,\" Glassnode said on X.\n\nGlassnode's supply-mapping tool represents granular segmentation of different investor cohorts based on their behavioral patterns.\n\nFirst timers are defined as wallets engaging with the token for the first time. The 30-day relative strength index of the first-time buyers holding at 100 through the week indicates strong buying interest from these participants.\n\nHowever, the activity of other investor cohorts isn't as encouraging, raising the possibility of a BTC price consolidation or pullback.\n\nPer Glassnode, demand from momentum buyers remains weak, with the 30-day RSI at 11. Momentum traders capitalize on an established uptrend or downtrend, betting it will continue.\n\n\"Momentum Buyers remain weak (RSI ~11), and Profit Takers are rising. If fresh inflows slow, lack of follow-through could lead to consolidation,\" Glassnode noted.",
+    "url": "https://www.coindesk.com/markets/2025/05/13/bitcoin-crossing-usd2t-in-market-cap-triggers-wave-of-new-buyers-but-key-players-tread-cautiously-onchain-data-show",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode",
+                "TradingView"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While new buyers show strong interest, momentum buyers remain weak and profit takers are rising, suggesting potential price consolidation according to on-chain data analysis."
+    }
+}

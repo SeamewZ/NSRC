@@ -1,0 +1,35 @@
+{
+    "title": "Recent SEC Guidance On Memecoins Suggests Broader Policy Change",
+    "summary": "The guidance may foreshadow a reappraisal of the Howey Test, which the SEC has recently used in its attempts to regulate cryptocurrencies through litigation, say Jason Mendro, Matt Gregory and Nick Harper, attorneys at Gibson Dunn.",
+    "time": "2025-03-10T21:17:00",
+    "author": "Jason Mendro",
+    "content": "There is more to SEC’s recent memecoin guidance than meets the eye. On Feb. 27, the staff of the SEC’s Division of Corporate Finance issued guidance explaining that memecoins — which the SEC described as digital assets “inspired by internet memes, characters, current events, or trends for which the promoter seeks to attract an enthusiastic online community” — are generally not sold as securities.\n\nThis is consistent with the SEC’s shift away from efforts under former Chair Gary Gensler to claim regulatory power over virtually the entire digital-asset industry, and it could have implications for the industry that go far beyond memecoins.\n\nThe SEC’s attempts to regulate digital assets during the Biden Administration largely hinged on the Supreme Court’s so-called “Howey test” for determining whether a transaction involves an “investment contract.” Howey requires an investment of money in a common enterprise, with an expectation of profits from the efforts of others.\n\nIn the SEC’s enforcement actions against digital-asset exchanges, the defendants argued that secondary-market resales of digital assets lack the necessary “investment of money in a common enterprise” because investors’ funds are not “pooled” by developers into a common fund and then used to further a business in which the investors share the profits. In the SEC’s case against Kraken, for example, the agency told a federal court that “pooling of resale proceeds” by a developer is not “required under Howey.”\n\nThe SEC’s new guidance confirms the opposite. It says that purchasers of memecoins make no investment in a common enterprise because their funds “are not pooled together to be deployed by promoters or other third parties for developing the coin or a related enterprise.” The guidance also explains that memecoin purchasers do not expect profits derived from the efforts of others, another Howey requirement. Rather, the value of memecoins comes from “speculative trading and the collective sentiment of the market, like a collectible.”\n\nThe SEC’s memecoin guidance is most obviously consequential for the sale and promotion of memecoins, which are the subject of recent private class-actions brought by individual plaintiffs. But it has broader implications for all secondary-market transactions in digital assets, including on exchanges. In secondary-market transactions on exchanges, purchasers’ funds likewise “are not pooled together to be deployed by promoters or other third parties for developing the coin or a related enterprise.” Thus, the SEC now seems to recognize that under a proper application of the Howey test, those transactions are beyond the agency’s reach, as defendants have consistently argued in the SEC’s prior enforcement cases.\n\nThis doctrinal reversal may be part of the impetus behind the SEC’s recent decisions to voluntarily dismiss several cases involving secondary-market transactions, and to stay further proceedings in others.\n\nTo be sure, the SEC’s new guidance includes statements that it “represents the views of [agency] staff,” not necessarily the SEC itself, and that the statement “has no legal force or effect.” The SEC also attempted to restrict the guidance to “the offer and sale of meme coins” under the specific circumstances described elsewhere in the release.\n\nThe agency could try to use those boilerplate recitals to wriggle out of the guidance at some point in the future. But constitutional principles of due process and fair notice may constrain the agency’s ability to impose retroactive liability based on any future flip-flop. Moreover, although the SEC’s guidance is not binding on courts, the SEC’s change in position on pooling will make it difficult for private plaintiffs to credibly argue that most digital assets are sold as securities.\n\nThe SEC’s guidance on memecoins is consistent with the agency’s other recent steps to pull back from the regulation-by-enforcement approach that plagued the industry under former Chair Gary Gensler. And the guidance offers welcome clarity from the agency in an area where the agency’s prior approach had significantly muddied the waters. It is, in short, a significant step in the right direction for crypto law and policy in the United States.",
+    "url": "https://www.coindesk.com/opinion/2025/03/10/recent-sec-guidance-on-memecoins-suggests-broader-policy-change",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jason Mendro",
+                "Matt Gregory",
+                "Nick Harper",
+                "Gary Gensler"
+            ],
+            "positions": [
+                "former Chair",
+                "attorneys"
+            ],
+            "companies": [
+                "Kraken"
+            ],
+            "organizations": [
+                "SEC",
+                "Supreme Court",
+                "Division of Corporate Finance",
+                "Gibson Dunn",
+                "Biden Administration"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's guidance that memecoins are generally not securities and recognition that secondary-market transactions may be beyond the agency's reach represents a significant regulatory pullback that provides welcome clarity and is described as 'a significant step in the right direction for crypto law and policy in the United States'."
+    }
+}

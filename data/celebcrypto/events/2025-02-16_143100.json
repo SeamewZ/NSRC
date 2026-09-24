@@ -1,0 +1,33 @@
+{
+    "title": "Argentina Opposition Threatens Milei With Impeachment Over LIBRA Token Tweet: Reuters",
+    "summary": "An opposition lawmaker said the president should be impeached after promoting and then withdrawing his support for the token.",
+    "time": "2025-02-16T14:31:00",
+    "author": "Omkar Godbole",
+    "content": "Argentina's President Javier Milei is facing impeachment threats after endorsing a cryptocurrency called LIBRA, purportedly intended to support small businesses, which instead crashed and lost billions of dollars in value within hours, according to Reuters.\n\nIn a now-deleted late Friday post on X, Milei promoted LIBRA as a privately run project designed to raise money for small and medium-sized Argentinian companies, adding that he doesn't stand to reap personal gain from the project.\n\nThe token rapidly surged to a market capitalization of about $4.5 billion amid confusion over the legitimacy of Milei's tweet, with speculation that his account may have been compromised or that scammers had deceived him.\n\nMilei deleted the post five hours later, saying that he was “not aware of the details of the project\" and, now informed, has chosen not to continue promoting it.\n\nThe market then panicked, with insiders cashing out $87.4 million worth of tokens, according to data sources Kobeissi Letter and Bubblemaps. The token's market cap crashed 90%, erasing over $4 billion in market cap.\n\nThe country's fintech chamber said the LIBRA case could potentially be a “rug pull,\" in which developers abandon a project after taking in cash from the initial sale.\n\n\"This scandal, which embarrasses us on an international scale, requires us to launch an impeachment request against the president,” lawmaker Leandro Santoro, a member of the Argentine opposition coalition, said Saturday, according to Reuters.",
+    "url": "https://www.coindesk.com/policy/2025/02/16/argentina-opposition-threatens-milei-with-impeachment-over-libra-token-controversy-reuters",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei",
+                "Leandro Santoro"
+            ],
+            "positions": [
+                "President",
+                "lawmaker"
+            ],
+            "companies": [],
+            "organizations": [
+                "Reuters",
+                "Kobeissi Letter",
+                "Bubblemaps",
+                "fintech chamber",
+                "Argentine opposition coalition"
+            ]
+        },
+        "cryptocurrencies": [
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The token's market cap crashed 90% and over $4 billion was erased after the president withdrew support, causing market panic and insider cash-outs."
+    }
+}

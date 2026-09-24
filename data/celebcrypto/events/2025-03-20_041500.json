@@ -1,0 +1,45 @@
+{
+    "title": "Ripple CEO Confident of XRP Being Included in U.S. Strategic Reserve, Says IPO Is 'Possible'",
+    "time": "2025-03-20T04:15:00",
+    "author": "Shaurya Malwa",
+    "summary": "XRP has recently climbed 11% to over $2.51, becoming the third-largest token by market capitalization behind bitcoin and ether",
+    "content": "Ripple CEO Brad Garlinghouse sees closely related XRP as part of the White House’s proposed digital asset stockpile and anticipates the launch of an XRP exchange-traded fund (ETF) before the end of 2025, per a Bloomberg Markets interview.\n\nGarlinghouse’s optimism came after the resolution of Ripple’s long-standing legal battle with the U.S. Securities and Exchange Commission (SEC), which concluded with the agency dropping its case against the company on Wednesday.\n\n“XRP was named by the President of Truth Social. (He said) there’s gonna be a bitcoin strategic reserve and a crypto stockpile that will include things like XRP,” Garlinghouse told Bloomberg’s Sonali Basak, referring to the initiative formalized by President Donald Trump’s executive order in early March.\n\nThe Ripple CEO also foresaw a “wave of XRP ETF approvals” in the second half of 2025, noting a growing list of over ten applications pending with the SEC from firms like Bitwise and Franklin Templeton.\n\n“I have immense confidence in the ETFs,” he said, pointing to the success of XRP exchange-traded products (ETPs) outside the U.S. Meanwhile, a Ripple Labs IPO isn’t out of question either. “Something is possible; it isn’t a huge priority,” he said.\n\nXRP has climbed 11% to over $2.51 in the past 24 hours, leading gains in the broader market. It has flipped USDT to become the third-largest token by market capitalization behind bitcoin\nBTC\n$104,649.29\nand ether\nETH\n$3,532.08\nas of Asian morning hours Thursday.",
+    "url": "https://www.coindesk.com/markets/2025/03/20/ripple-s-ceo-confident-of-xrp-in-u-s-strategic-reserve-says-ipo-is-possible",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brad Garlinghouse",
+                "Sonali Basak",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Ripple CEO",
+                "President"
+            ],
+            "companies": [
+                "Ripple",
+                "Ripple Labs",
+                "Bitwise",
+                "Franklin Templeton"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "Bloomberg",
+                "Bloomberg Markets",
+                "Truth Social"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports XRP climbing 11% to over $2.51, becoming the third-largest token by market cap, and includes optimistic statements from Ripple's CEO about potential inclusion in U.S. strategic reserves and ETF approvals."
+    }
+}

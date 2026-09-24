@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin, Ether Slump as Crypto Prices Dip on Report of Massive $1.5B Bybit Hack",
+    "time": "2025-02-21T15:51:00",
+    "author": "Krisztian Sandor",
+    "summary": "The move happened as crypto exchange Bybit saw a sudden $1.5 billion worth of ETH outflow.",
+    "content": "Cryptocurrency prices dropped on Friday, reversing early gains on reports that crypto exchange Bybit was seeing $1.5 billion worth of crypto outflows in a potential security incident.\n\nBitcoin\nBTC\n$103,737.28\nslid to near $97,000 after hovering near $100,000 earlier during the day, while ether\nETH\n$3,496.07\nslipped nearly 4%, dipping below $2,700.\n\nThe sudden downturn liquidated roughly $100 million worth of leveraged derivatives trading positions, overwhelmingly longs anticipating prices to rise, CoinGlass data shows.\n\nThe move happened after well-followed blockchain sleuth ZachXBT noted a \"suspicious\" $1.5 billion ETH outflow. Ben Zhou, CEO of Bybit confirmed the hack in an X post.\n\nUPDATE (Feb. 21, 16:07 UTC): Adds details about liquidation and updates price actions.\n\nRead more: Bitcoin and Ether Tumble on Potential $1.46B Bybit Hack",
+    "url": "https://www.coindesk.com/markets/2025/02/21/bitcoin-ether-slumps-as-crypto-prices-crumble-on-report-of-massive-usd1-4b-bybit-security-incident",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT",
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "CoinGlass"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports cryptocurrency prices dropping, liquidations of leveraged positions, and a major security breach at Bybit exchange, all indicating negative market impact."
+    }
+}

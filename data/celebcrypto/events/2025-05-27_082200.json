@@ -1,0 +1,25 @@
+{
+    "title": "Alpaca Finance, Once a DeFi Giant on BNB Chain, Will Shut Down",
+    "summary": "The leveraged yield farming pioneer cites falling revenue, failed M&A talks, and last month’s Binance delisting as reasons for shutting down after a four-year run.",
+    "time": "2025-05-27T08:22:00",
+    "author": "Shaurya Malwa",
+    "content": "Alpaca Finance, once a cornerstone on the BNB Chain and an early leader in leveraged yield farming, will shut down operations by the end of 2025 due to an unsustainable business model amid a more competitive and capital-intensive DeFi landscape.\n\nThe protocol said Monday that it will begin winding down all products, including its original yield farming platform, automated vaults, and decentralized perpetuals, over the next few months.\n\nFront-end access will remain available through December 31, 2025, to give users time to withdraw their assets.\n\n“This choice wasn’t made lightly,” the Alpaca team wrote. “But we believe it is the most responsible course of action to safeguard our community and ensure a graceful and secure wind-down.”\n\nLaunched during decentralized finance's (DeFi) 2021 boom, Alpaca quickly rose to prominence on BNB Chain, offering leveraged yield farming strategies that allowed users to amplify returns by borrowing capital to farm liquidity pool (LP) tokens.\n\nAt its peak, Alpaca held over $1 billion in total value locked (TVL) and was one of the most-used protocols on the chain.\n\nInternally, Alpaca had been operating at a loss for over two years, according to the team, with revenue tied directly to protocol usage — a challenge compounded by the project’s fair launch structure with no VC backing or pre-mined tokens.\n\nThe final blow came in late April, when Binance delisted ALPACA, the protocol’s native token.\n\nWhile the event triggered a brief 550% price rally due to short liquidations, including $55 million in forced closures in a single day, it also severely restricted liquidity and user access to the token.\n\nThat, the team said, made it harder to pursue new initiatives or strategic mergers.\n\n“We explored M&A discussions with several projects, and some progressed meaningfully,” the team said. “But as the market turned downward again in early 2025, those deals fell through.”\n\nALPACA, the project’s token, was last trading at approximately $0.08, down over 90% from its all-time high in 2021.",
+    "url": "https://www.coindesk.com/markets/2025/05/27/alpaca-finance-once-a-defi-giant-on-bnb-chain-will-shut-down",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Alpaca Finance",
+                "Binance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ALPACA",
+            "BNB"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major DeFi protocol shutting down due to falling revenue, failed M&A talks, and Binance delisting, with ALPACA token down over 90% from its all-time high."
+    }
+}

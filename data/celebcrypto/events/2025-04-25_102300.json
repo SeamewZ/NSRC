@@ -1,0 +1,36 @@
+{
+    "title": "BlackRock’s Bitcoin ETF Will Be the World’s Biggest ETF in a Decade, Michael Saylor Says",
+    "summary": "U.S. Bitcoin ETF's have brought in $2.8 billion in net inflows over the past five trading days.",
+    "time": "2025-04-25T10:23:00",
+    "author": "James Van Straten",
+    "content": "U.S. spot bitcoin\nBTC\n$102,095.25\nETFs have recorded approximately $2.8 billion in net inflows over the past five trading days, contributing to driving the price of bitcoin higher from around $85,000 to $94,000. The iShares Bitcoin Trust (IBIT) has accounted for $1.3 billion of these inflows alone.\n\nMichael Saylor, Chairman of the largest listed bitcoin holder Strategy (MSTR), stated that \"IBIT will be the biggest ETF in the world in ten years.\" Saylor made the comments at the Bitcoin Standard Corporation’s Investor Day.\n\nTo put this into perspective, IBIT currently has a market capitalization of $54 billion and on Thursday over $1.5 billion in volume. In comparison, the largest ETF by market cap, the Vanguard S&P 500 ETF (VOO), boasts a market capitalization of $593.5 billion, more than ten times that of IBIT.\n\nEric Balchunas, Senior ETF Analyst at Bloomberg, acknowledged the possibility of IBIT becoming the largest ETF, though he emphasized that it would be extraordinary.\n\n“It’s possible, especially if IBIT starts taking in more cash than VOO, but that would require inflows well north of $1 billion a day—more likely in the range of $3 to $4 billion daily, to gain ground. In short, some extraordinary things would have to happen, but it’s possible,” Balchunas noted.\n\nMeanwhile, the annualized basis trade for bitcoin ETFs, investors going long the ETF and short the CME bitcoin futures, has risen to nearly 10%, up from 5% in early April. This increase, coupled with a 2,000 BTC rise in futures open interest over the past week, suggests that a portion of the net ETF inflows may not be purely directional bets, but part of the basis trade.",
+    "url": "https://www.coindesk.com/markets/2025/04/25/blackrock-s-bitcoin-etf-will-be-the-world-s-biggest-etf-in-a-decade-michael-saylor-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "Chairman",
+                "Senior ETF Analyst"
+            ],
+            "companies": [
+                "BlackRock",
+                "Strategy (MSTR)",
+                "Bitcoin Standard Corporation",
+                "Vanguard",
+                "Bloomberg"
+            ],
+            "organizations": [
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports $2.8 billion in net inflows to Bitcoin ETFs driving bitcoin's price from $85,000 to $94,000 and includes optimistic predictions about IBIT becoming the world's largest ETF."
+    }
+}

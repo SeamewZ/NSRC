@@ -1,0 +1,38 @@
+{
+    "title": "Celo Migration to Layer-2 Network Is Done, Bringing in New Era for the Blockchain",
+    "summary": "The transition ends a long journey beginning back in July 2023 and a fierce competition, won by Optimism, convincing the Celo ecosystem to build with their tech.",
+    "time": "2025-03-26T05:02:00",
+    "author": "Margaux Nijkerk",
+    "content": "The Celo blockchain's long-awaited plan of becoming an Ethereum layer-2 chain has been completed, ending an almost two-year process, the main organizations behind the network said Wednesday.\n\nThe transition ends a long journey beginning back in July 2023 for the layer-1 blockchain that included a community vote in July 2024 and a fierce competition, won by Optimism, among layer-2 networks out to convince the Celo ecosystem to build with their technology.\n\nThe improved network — like other layer 2s — offers faster and cheaper transactions on top of Ethereum's mainnet. The blockchain is powered by Optimism’s OP Stack, a customizable framework that lets developers build layer-2 networks based off of Optimism’s technology.\n\n“You know, whenever people ask us, we always recommend the OP stack, because the team there has been so helpful and so supportive,” said Marek Olszewski, the CEO at cLabs, the main developer firm supporting the Celo blockchain.\n\nAccording to Rene Reisberg, the CEO of the Celo Foundation, the migration is the first of its kind in the Ethereum ecosystem, and will probably be used as a blueprint for other EVM-compatible blockchains that are looking to become a layer-2 network.\n\n“This path of not just spinning up a new chain, but actually maintaining that history, and having everyone be on the new chain, while it's a lot more work, is great from a Celo perspective. It's becoming this kind of great case study for Ethereum,” Rene Reinsberg, the president at the Celo Foundation, said in an interview.\n\n“Even just based on outreach I've been getting from other L1 founders that are like, ‘hey, so what does it actually feel like on the inside of going through this transition, and how much work is it, and how you're thinking about it?’ And so it definitely feels like there's increased interest now,” Reinsberg added.\n\nDespite Ethereum's leaders experiencing backlash from the community because of the clunky experience of operating between the plethora of layer-2 blockchains, the lagging price of ether (ETH) relative to other cryptocurrencies and the blockchain losing mindshare and new talent to competitors like Solana, Reinsberg said other layer 1s similar to Celo are watching the transition and also considering moving into the layer-2 ecosystem.\n\n“As some of these short-term storms come down and sentiment starts to shift, I think you'll start seeing a series of layer 1s that will likely be more public about that,” Reisberg said. “But we're definitely already seeing these early conversations happening.”\n\nAccording to the team, Celo end users won’t notice much of a difference in their setups, and will still be able to access key features like SocialConnect, a protocol that connects users' phone numbers or X handles to their Celo wallet addresses to make payments. Nevertheless, there are protocol-level changes.\n\n“Validator responsibilities have evolved from operating the consensus protocol to temporarily running community RPC nodes, with validator rewards now distributed via smart contract execution rather than at epoch blocks,” the team said in a press release. “Additionally, transaction sequencing — previously determined by validators running the consensus protocol — will initially be handled by a centralized sequencer, with a roadmap in place for transitioning to decentralized sequencing in the future.”\n\nRead more: Celo Community Ratifies Plan to Use Optimism's OP Stack for New Layer-2 Chain",
+    "url": "https://www.coindesk.com/tech/2025/03/26/celo-migration-to-layer-2-network-is-done-bringing-in-new-era-for-the-blockchain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Marek Olszewski",
+                "Rene Reisberg",
+                "Rene Reinsberg"
+            ],
+            "positions": [
+                "CEO",
+                "CEO",
+                "president"
+            ],
+            "companies": [
+                "cLabs",
+                "Optimism"
+            ],
+            "organizations": [
+                "Celo Foundation",
+                "Ethereum ecosystem",
+                "Celo ecosystem"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The successful migration of Celo to an Ethereum layer-2 network is described as creating a new era, offering faster and cheaper transactions, and serving as a blueprint that other blockchains are watching and considering similar transitions."
+    }
+}

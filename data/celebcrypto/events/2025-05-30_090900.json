@@ -1,0 +1,41 @@
+{
+    "title": "XRP Falls Below 200-day Average, Bitcoin Dips to $105K as Traders Eye Core PCE",
+    "summary": "The core PCE data, a key inflation measure, is anticipated to impact market sentiment and could influence future Federal Reserve rate decisions.",
+    "time": "2025-05-30T09:09:00",
+    "author": "Omkar Godbole",
+    "content": "The crypto market mood was sombre Friday, with XRP\nXRP\n$2.2434\nlosing key support alongside losses in market leader bitcoin and other major tokens, as traders awaited the Fed's preferred inflation measure, the core PCE.\n\nPayments-focused XRP dipped below the 200-day simple moving average (SMA) for the first time since April 10, indicating a strengthening of downward momentum. Prices fell below $2.20, registering 4.6% losses on a 24-hour basis, according to data source TradingView.\n\nThe decline followed reports of increasing demand for XRP as a corporate Treasury asset.\n\nPrices for BTC, the premier digital asset by market value, briefly fell below $105,000 during European hours, extending overnight losses to trade nearly 3% lower on a 24-hour basis.\n\nBTC's losses followed a $358 million net outflow from the 11 spot bitcoin exchange-traded funds (ETFs) Thursday, their first since May 13 and highest single-day tally since March 11, according to data source SoSoValue. Renewed trade war fears also weighed over the sentiment.\n\nOther majors, such as ETH, SOL, and DOGE, posted larger losses, with smaller tokens like OP, ARB, BONK, and PEPE falling by over 10% each, according to data source Coingecko.\n\nConsumer prices, represented by the personal consumption expenditure index, rose 0.15% on a monthly basis in April, bringing the annual inflation rate down to 2.2% from 2.3% in March, according to economists surveyed by FactSet.\n\nThe core PCE, the Fed's preferred inflation measure, which excludes volatile food and energy prices, is forecast to have risen 0.12% on a monthly basis and 2.5% on an annual basis.\n\nAnother good month for inflation could raise Fed rate cut bets, boding well for BTC and other assets.\n\n\"All eyes now turn to the Core PCE data due today, which could reignite bullish sentiment if inflation shows signs of easing,\" Valentin Fournier, Lead Research Analyst at BRN, said in an email.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/xrp-falls-below-200-day-average-bitcoin-dips-to-usd105k-as-traders-eye-core-pce",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Valentin Fournier"
+            ],
+            "positions": [
+                "Lead Research Analyst"
+            ],
+            "companies": [
+                "BRN",
+                "FactSet",
+                "SoSoValue",
+                "TradingView",
+                "Coingecko"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "BTC",
+            "ETH",
+            "SOL",
+            "DOGE",
+            "OP",
+            "ARB",
+            "BONK",
+            "PEPE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across multiple major cryptocurrencies including XRP falling below key support levels and BTC experiencing substantial outflows from ETFs."
+    }
+}

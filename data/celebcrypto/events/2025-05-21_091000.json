@@ -1,0 +1,29 @@
+{
+    "title": "'Days to Cover mNAV,' Emerges as the New Standard for Evaluating Bitcoin Equities",
+    "summary": "A data driven metric reveals which companies are truly stacking sats and which are lagging behind the valuations investors are giving them.",
+    "time": "2025-05-21T09:10:00",
+    "author": "James Van Straten",
+    "content": "As bitcoin\nBTC\n$101,731.44\ncontinues to mature as an institutional asset, a growing number of public companies are integrating BTC into their treasuries, sparking renewed investor interest in so-called leveraged bitcoin equities (LBEs).\n\nBut with valuations soaring, the key question remains: which companies are genuinely earning their premiums through consistent BTC accumulation, and which are simply coasting on reputation?\n\nA new metric, “Days to Cover mNAV,” is emerging as a sharp analytical tool to answer this. It measures how long it would take a company, at its current bitcoin stacking pace, to accumulate enough BTC to justify its market cap, based on its current multiple of net asset value (mNAV) and its daily BTC yield.\n\nThe formula—Days to Cover = ln(mNAV) / ln(1 + BTC Yield)—accounts for compounding, providing a forward-looking, growth-adjusted view of a company’s valuation.\n\nThe latest data points from an article by Microstrategist paints a revealing picture: Strategy (MSTR), the institutional leader, holds an mNAV of 2.1 but a low daily BTC yield of just 0.12%, resulting in a sluggish 626 days to cover its valuation.\n\nIn contrast, upstarts MetaPlanet (3350) and The Blockchain Group (ALTBG) are compounding rapidly with 100-day average BTC yields near 1.5%, allowing them to support much higher mNAVs (5.08 and 9.4 respectively) in just 110 and 152 days. In addition, Semler Scientific (SMLR), with an mNAV of 1.5 and a yield of 0.33%, posts a competitive 114 Days to Cover.\n\nThese figures, reinforced by the “Days to Cover mNAV” chart from October 2024 to May 2025, show a clear trend: faster accumulators are compressing their coverage times and catching up to more established players. MetaPlanet and ALTBG in particular have seen investor enthusiasm surge as they demonstrate the ability to turn BTC compounding into valuation upside.\n\nIn a sector defined by speed and volatility, Days to Cover mNAV provides a clear, data-driven lens through which to evaluate long-term sustainability and upside potential.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/days-to-cover-mnav-the-new-standard-for-evaluating-bitcoin-equities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Strategy (MSTR)",
+                "MetaPlanet (3350)",
+                "The Blockchain Group (ALTBG)",
+                "Semler Scientific (SMLR)"
+            ],
+            "organizations": [
+                "Microstrategist"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes growing institutional adoption of Bitcoin, new analytical tools validating company valuations based on BTC accumulation, and investor enthusiasm for companies demonstrating strong BTC compounding capabilities."
+    }
+}

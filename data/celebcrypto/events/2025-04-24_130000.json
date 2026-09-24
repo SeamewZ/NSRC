@@ -1,0 +1,32 @@
+{
+    "title": "Ether.fi Pivots to Become Neobank, Rolls Out Cash Cards in U.S.",
+    "time": "2025-04-24T13:00:00",
+    "author": "Oliver Knight",
+    "summary": "The suite of apps will allow users to spend, save and earn crypto.",
+    "content": "Restaking protocol Ether.fi said it plans to add banking services that will see it become a decentralized finance (DeFi) neobank.\n\nThe ether.fi app will give users the experience of a traditional fintech app, allowing them to spend, save and earn money through linked crypto features including restaking. The app will allow bill payments and payroll services using fiat money.\n\n\"With ether.fi we're bridging the gap between decentralized finance and everyday financial needs,\" CEO Mike Silagadze said in a statement. \"Our goal is to provide users with a robust, user-friendly platform that offers the benefits of DeFi without the complexities, making financial freedom accessible to everyone.\"\n\nOne of the features under the hood will be ether.fi's cornerstone restaking product, which gives investors the opportunity to secure an additional yield by staking ether\nETH\n$3,628.63\nand receiving liquid staking tokens (LSTs) that can be staked across the DeFi ecosystem.\n\nLast month CoinDesk reported on how Ether.fi was one of few restaking protocols that managed to retain total value locked (TVL) despite the sector suffering a drawdown in hype of the past year.\n\nIt currently has 2.7 million ETH ($4.4 billion) in TVL, a near record high in ETH terms, according to DefiLlama.\n\nIn September Ether.fi announced the release of its own Visa \"Cash\" card, which would allow cardholders to spend fiat currencies while using crypto as collateral.\n\nThis product, as well as the staking service, is now available in the U.S. despite both being previously ring-fenced due to regulatory requirements.\n\nIt will initially be available in select states following a number of partnerships with local entities to ensure regulatory compliance.",
+    "url": "https://www.coindesk.com/business/2025/04/24/ether-fi-pivots-to-become-neobank-rolls-out-cash-cards-in-u-s",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Silagadze"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Ether.fi",
+                "Visa",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ether.fi's expansion into banking services with record high TVL of $4.4 billion and new product launches in the U.S., indicating growth and market confidence."
+    }
+}

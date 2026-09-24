@@ -1,0 +1,34 @@
+{
+    "title": "U.S. Treasury Sanctions Burmese Militia Group Said to Run 'Pig Butchering' Compounds",
+    "summary": "The Karen National Army and its leaders were sanctioned on accusations they perpetuated crimes against U.S. citizens that featured crypto thefts.",
+    "time": "2025-05-05T15:22:00",
+    "author": "Jesse Hamilton",
+    "content": "A militia group in Burma that allegedly runs a large-scale haven for cyber scammers, the Karen National Army, has been blocked from the U.S. financial system by the Department of the Treasury.\n\nThe U.S. authorities said Monday that the organization has provided a haven for transnational criminal organizations who use the border region controlled by the KNA to run illicit operations such as human trafficking and smuggling. The group, which is said to have ties with the Burmese military, is also accused of fostering cyber scams and crypto thefts on an \"industrial scale\" tied to billions of dollars in losses.\n\nUnder KNA's control, hotels and casinos were retrofitted to house elaborate \"pig butchering\" scam operations in which U.S. citizens were lured with fraudulent romantic ties and had money stolen from them in the form of cryptocurrency, according to the Treasury Department. Those engaging in the scams were themselves often held captive or under pressure to run months-long thefts that sometimes used attractive models to engage in video calls.\n\nIn the new U.S. sanctions — also specifically targeting the organization's leader, Saw Chit Thu, and his sons, Saw Htoo Eh Moo and Saw Chit Chit — the Treasury's Office of Foreign Assets Control is blocking any use of U.S. assets or interactions with U.S. people or entities.\n\nThis action follows closely on the heels of last week's move by the U.S. to sever the Cambodian company Huione Group from the financial system. Huione was said to provide a money-laundering outlet for criminal organizations in Southeast Asia.\n\nRead More: Cambodian Huione Group Received $98B in Crypto Leading to U.S. Crackdown: Elliptic",
+    "url": "https://www.coindesk.com/policy/2025/05/05/u-s-treasury-sanctions-burmese-militia-group-said-to-run-pig-butchering-compounds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Saw Chit Thu",
+                "Saw Htoo Eh Moo",
+                "Saw Chit Chit"
+            ],
+            "positions": [
+                "leader"
+            ],
+            "companies": [
+                "Huione Group"
+            ],
+            "organizations": [
+                "U.S. Treasury",
+                "Department of the Treasury",
+                "Karen National Army",
+                "Office of Foreign Assets Control",
+                "Burmese military",
+                "Elliptic"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes U.S. sanctions targeting a militia group accused of running large-scale crypto theft scams that caused billions in losses, which represents negative regulatory action against cryptocurrency-related crime."
+    }
+}

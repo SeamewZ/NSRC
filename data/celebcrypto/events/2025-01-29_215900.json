@@ -1,0 +1,43 @@
+{
+    "title": "The Protocol: Movement Labs Develops Dev Mainnet",
+    "summary": "Also: SSV DAO Unveils “SSV 2.0”; Cardano Hard Fork",
+    "time": "2025-01-29T21:59:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, CoinDesk’s Opinion and Features editor.\n\nIn this issue:\n\nMOVEMENT LABS ROLLS OUT DEVNET: Blockchain firm Movement Labs has deployed a developer mainnet to advance its goal of bringing Facebook (META)'s Move Virtual Machine (MoveVM) to Ethereum. The developer mainnet's launch will begin the deployment of Movement's core infrastructure and allow selected partners to start implementing decentralized finance (DeFi) protocols, according to an emailed announcement on Tuesday. The release follows the initial mainnet launch of Movement in December and precedes the planned public mainnet beta release next month. Move was developed as a part of Facebook's ill-fated digital currency project Diem, which was shelved at the start of 2022. The technology was also used to create the Sui and Aptos layer-1 networks. Movement Labs, with the help of a $38 million Series A funding round led by Polychain Capital, is extending the programming language to an Ethereum layer 2 for the first time. Coinciding with the public mainnet's deployment, Movement will also unveil a multi-asset liquidity program to provide the foundation for decentralized finance (DeFi) applications. Read more.\n\nCARDANO HARD FORKS TO DECENTRALIZATION: Proof-of-stake blockchain Cardano was due to switch to decentralized governance Jan. 29 after the Plomin hard fork takes effect, Cardano Foundation, a non-profit organization backing the project, said on X. \"The Plomin hard fork takes effect, marking the transition to full decentralized governance. ADA holders gain real voting power – on parameter changes, treasury withdrawals, hard forks, and the blockchain’s future,\" Cardano Foundation said. \"[It's] A milestone in blockchain governance.\" Cardano's ADA token changed hands at 93 cents at press time, up 1.4% on the day, according to data from CoinDesk and TradingView. A hard fork is a non-backwards compatible change to the blockchain's programming. The Plomin hard fork needs Stake Pool Operators to upgrade their nodes and approve the upgrade with a 51% vote. As of last week, nearly 80% of nodes had elevated to the new version. Read more.\n\nSSV DAO 2.0: The SSV DAO, the decentralized autonomous organization behind the decentralized staking protocol SSV Network, unveiled a new framework, called “SSV 2.0,” allowing applications to make use of “based” technology by leveraging Ethereum validators. SSV 2.0 will be the most ambitious project for the SSV Network, according to a press release shared with CoinDesk, and will bring based applications (bApps) to Ethereum. “Based” applications, especially “based rollups,” are a new type of technology attracting the attention of Ethereum developers as it allows for better interoperability while improving the security of networks on top of Ethereum. Based rollups specifically can be seen as a solution to the many layer-2 networks on Ethereum today, which have caused much fragmentation across the space. By leveraging “based” technology, those protocols or applications can “base” their security and execution operations off of Ethereum’s layer-1 validator set. Currently, layer-2 networks use “sequencers” to order transactions and post those back to Ethereum. Sequencers are criticized for being single points of failure. By using layer-1 validators to do the execution and security work, networks can avoid the downfalls of using centralized sequencers. Ethereum developers agree that based rollups allow for better interoperability in the network. Ethereum ecosystem members have gathered over the last few weeks to find ways to solve this issue, and based rollups are seen as a major breakthrough for that. Now the SSV Network will also tackle these issues by bringing applications with based technology to Ethereum. Read more.\n\nMUSK PUSHES BLOCKCHAIN: in his role leading the new Department for Government Efficiency (D.O.G.E.), Elon Musk suggested that using a digital ledger would be a cost-efficient way to track federal spending, secure data, make payments and manage buildings, according to people familiar with the matter. Several representatives of public blockchains have met with affiliates of D.O.G.E., the people said. The department was created in response to the federal government’s spending of $6.7 trillion in fiscal 2024, which Musk in October called “wasted” money. He promised the department — whose acronym is a nod to Musk’s favorite cryptocurrency,\nDOGE\n$0.1656\n— would slash the figure to at most $2 trillion. Given the department’s name and Trump’s determination to establish crypto-friendly policies in the U.S., Musk’s plan to incorporate blockchain technology doesn’t come as a surprise. In addition to creating D.O.G.E. on Jan. 20, Trump signed an executive order to create a working group on digital assets led by venture capitalist David Sacks with a mandate to identify all regulations that currently touch crypto within 30 days, among other things. Read more.\n\nXRP Strategic Reserve\n\nDeepSeek Hits Tokens\n\nRegulatory and policy",
+    "url": "https://www.coindesk.com/tech/2025/01/29/the-protocol-movement-labs-develops-dev-mainnet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Elon Musk",
+                "David Sacks"
+            ],
+            "positions": [
+                "Opinion and Features editor",
+                "leading the new Department for Government Efficiency (D.O.G.E.)",
+                "venture capitalist"
+            ],
+            "companies": [
+                "Movement Labs",
+                "Facebook (META)",
+                "Polychain Capital",
+                "CoinDesk",
+                "TradingView"
+            ],
+            "organizations": [
+                "SSV DAO",
+                "SSV Network",
+                "Cardano Foundation",
+                "Department for Government Efficiency (D.O.G.E.)"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ADA",
+            "DOGE",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including new mainnet deployments, hard forks enabling decentralized governance, technological advancements for Ethereum interoperability, and government blockchain adoption initiatives."
+    }
+}

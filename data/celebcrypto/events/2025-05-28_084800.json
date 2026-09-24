@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Surges Ahead as Strategy Lags",
+    "summary": "Divergence grows amid mNAV compression and a shift in Strategy's funding approach for bitcoin accumulation",
+    "time": "2025-05-28T08:48:00",
+    "author": "James Van Straten",
+    "content": "Disclaimer: The analyst who wrote this piece owns shares of Strategy (MSTR).\n\nSince the start of this month, a growing divergence has emerged between bitcoin\nBTC\n$101,860.90\nand bitcoin-HODLer Strategy (MSTR). While bitcoin has climbed approximately 13%, nearing the $110,000 mark, MSTR shares have slipped 3%, trading around $372.\n\nThis performance gap has become more pronounced since mid-May and raises questions about market sentiment toward the company that pioneered the bitcoin treasury strategy for corporations. Despite playing a leading role in this movement, Strategy’s stock has not mirrored bitcoin’s latest rally.\n\nOne key factor is the rapid increase in the number of public companies adopting similar bitcoin strategies. According to data from BitcoinTreasuries.net, over 113 public companies globally now hold bitcoin on their balance sheets, marking an increase of 11 new entrants over the past 30 days.\n\nMany appear to be following Strategy’s playbook, but the firm’s market premium is compressing, indicating that its early-mover advantage may be fading.\n\nStrategy’s multiple to net asset value (mNAV), which reflects how the market values the company relative to its bitcoin holdings, has dropped to 1.80 one of its lowest points over the past year.\n\nThis figure is calculated by dividing the enterprise value (EV) by the market value of its bitcoin holdings. The EV includes MSTR’s current market cap, convertible debt, and preferred shares (such as STRK and STRF), minus the company’s most recent reported cash balance.\n\nA lower mNAV limits Strategy’s ability to issue new equity without significantly diluting existing shareholders, although it remains above 1x, preserving some headroom.\n\nStrategy’s recent 4,020 BTC purchase, its smallest since May 5, also reveals a significant change in funding structure. The acquisition was financed not only through common stock but also through preferred securities — 81.7% from common stock, 15.9% from STRK, and 2.4% from STRF, according to MSTR analyst Ben Werkman.\n\nThis diversification indicates that the company is strategically tapping alternative instruments via its at-the-market (ATM) offering, possibly to mitigate shareholder dilution and optimize capital raising in a compressed mNAV environment.\n\nRead more: Strategy Buys 4,020 Bitcoin for $427M, Bringing Total Stash to Over 580,000 BTC",
+    "url": "https://www.coindesk.com/markets/2025/05/28/bitcoin-surges-ahead-as-strategy-stock-lags",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Werkman"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "Strategy (MSTR)"
+            ],
+            "organizations": [
+                "BitcoinTreasuries.net"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin has climbed approximately 13% and is nearing the $110,000 mark, indicating strong price performance and market confidence."
+    }
+}

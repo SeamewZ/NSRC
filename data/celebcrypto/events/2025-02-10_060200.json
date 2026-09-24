@@ -1,0 +1,31 @@
+{
+    "title": "Polymarket Bettors Punt $1.1B on Superbowl Results, Despite Regulatory Overhang",
+    "time": "2025-02-10T06:02:00",
+    "author": "Sam Reynolds",
+    "summary": "The Philadelphia Eagles won the Superbowl, but the Kansas City Chiefs were the early favorite on Polymarket.",
+    "content": "Polymarket bettors have put $1.1 billion in volume on the outcome of the Superbowl, which saw the Philadelphia Eagles beat out the Kansas City Chiefs 40-22, as the betting platform continues to gain steam, despite regulatory hurdles.\n\nPolymarket has become the go to avenue for placing on-chain bets, which has brought in scrutiny from regulators. Some countries have outright banned Polymarket, while the U.S. Commodity Futures Trading Commission (CFTC) wants to gain access to the platform's customer data.\n\nAccording to crypto attorney Aaron Brogan, the argument that prediction markets, like Polymarket, are simply a Web3 version of gambling is an inaccurate characterization.\n\nBrogan, said that unlike traditional betting platform, prediction markets make money on the transactions fees rather that the users.\n\nRegardless of the challenges, Polymarket is thriving and bettors are gaining or losing big sums of money.\n\nOn-chain from Polymarket Analytics shows that one trader going by the handle 'abeautifulmind' took home a profit of over $550,000 from their bets on the Eagles. Data shows that this user has an overall profit of just over $1 million, mostly from bets on sports.\n\nOn the other side of the trade was a bettor by the name of hubertdakid, who lost $718,633 by betting against the Eagles. This trader seems to be down on their luck on Polymarket, with an overall loss of $638,177.\n\nOther Superbowl related contracts on Polymarket included one about how many times Taylor Swift would be shown on the broadcast and another about how long the national anthem performance would be.\n\nOverall, lifetime volume from sports related contracts on Polymarket has passed $6 billion. This is more than the volume on U.S. election markets, which came in at $5.2 billion according to Polymarket Analytics.",
+    "url": "https://www.coindesk.com/markets/2025/02/10/polymarket-bettors-punt-usd1-1b-on-superbowl-results-despite-regulatory-overhang",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aaron Brogan",
+                "abeautifulmind",
+                "hubertdakid",
+                "Taylor Swift"
+            ],
+            "positions": [
+                "crypto attorney"
+            ],
+            "companies": [
+                "Polymarket"
+            ],
+            "organizations": [
+                "U.S. Commodity Futures Trading Commission",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes both regulatory challenges and strong user activity/growth for Polymarket, presenting a mixed picture without clear directional impact on cryptocurrency markets."
+    }
+}

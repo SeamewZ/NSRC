@@ -1,0 +1,36 @@
+{
+    "title": "EU's MiCA Rules Will Likely Boost Euro Denominated Stablecoins, JPMorgan Says",
+    "time": "2025-01-10T10:35:00",
+    "author": "Will Canny",
+    "summary": "Under the new regulations only compliant stablecoins can be used as trading pairs in regulated markets, the report said.",
+    "content": "The EU's MiCA regulations, which came into effect on Dec. 30, will likely boost euro denominated stablecoins, JPMorgan (JPM) said in a research report on Wednesday.\n\n\"Under MiCA, only compliant stablecoins can be used as trading pairs in regulated markets, prompting EU exchanges to adjust their offerings,\" analysts led by Nikolaos Panigirtzoglou wrote.\n\nThis has resulted in compliant stablecoins such as Circle's EURC gaining strength, whereas non-compliant stablecoins like Tether's EURT faced challenges, the Wall Street bank said.\n\nA stablecoin is a type of crypto designed to hold a steady value and is usually pegged to the U.S. dollar, though other currencies and commodities such as gold are also used.\n\nUnder the new rules stablecoin issuers such as Tether are required to maintain significant reserves in banks based in Europe and must secure licenses for trading, the report noted.\n\nThis has led Tether to discontinue its EURT stablecoin and has resulted in the delisting of USDT from a number of exchanges based in the EU, JPMorgan said.\n\nThe stablecoin issuer said in November that it would phase out its euro stablecoin, with users able to redeem tokens for up to 12 months.\n\nStill, Tether remains a \"dominant force\" in the global stablecoin market in spite of these challenges, the bank said, adding that is widely used in Asian markets where there are less restrictions.\n\nTether's investment in MiCA-compliant stablecoin issuers such as Quantoz Payments shows it commitment to maintaining a presence in the EU, the report added.\n\nThe company said in December that it had also invested in European stablecoin issuer StablR.\n\nRead more: Tether Invests in MiCA-Compliant Stablecoin Issuer StablR",
+    "url": "https://www.coindesk.com/markets/2025/01/10/eus-mi-ca-rules-will-likely-boost-euro-denominated-stablecoins-jp-morgan-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nikolaos Panigirtzoglou"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "Circle",
+                "Tether",
+                "Quantoz Payments",
+                "StablR"
+            ],
+            "organizations": [
+                "EU",
+                "Wall Street bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "EURC",
+            "EURT",
+            "USDT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports that MiCA regulations will boost compliant stablecoins like EURC and shows Tether investing in compliant issuers, indicating regulatory clarity and market adaptation that supports specific cryptocurrency growth."
+    }
+}

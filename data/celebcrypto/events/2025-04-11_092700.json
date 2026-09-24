@@ -1,0 +1,31 @@
+{
+    "title": "Dollar Index Falls to Lowest Level in 3 Years, While BTC Remains Steady",
+    "summary": "China has increased tariffs on U.S. goods to a cumulative 125%, intensifying the trade war.",
+    "time": "2025-04-11T09:27:00",
+    "author": "James Van Straten",
+    "content": "The Dollar index (DXY), which measures the strength of the U.S. dollar against a basket of other currencies, has dropped below the 100 mark for the first time since April 2022.\n\nIn January, research from CoinDesk noted that the DXY index was mirroring the pattern seen during President Trump’s first term — and it now appears to have done just that. The index has fallen over 10% from its recent high of 110 and is now at its lowest level in three years.\n\nInvestor sentiment continues to shift away from U.S. assets, putting further downward pressure on the dollar, as trade tensions between the U.S. and China intensify.\n\nJust before press time, China announced an increase in tariffs on U.S. goods, raising the total levy to 125% from 84%, signaling a firm stance in the ongoing trade dispute.\n\nMeanwhile, bitcoin\nBTC\n$101,961.05\n, which has recently behaved as a low-beta asset compared to equities, remains resilient and continues to trade above $81,000.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/dollar-index-falls-to-lowest-level-in-3-years-while-btc-remains-steady",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "China",
+                "U.S."
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin is described as remaining resilient and trading above $81,000 while the dollar weakens and trade tensions intensify, suggesting positive market confidence in BTC as a stable asset."
+    }
+}

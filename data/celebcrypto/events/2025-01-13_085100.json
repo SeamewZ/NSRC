@@ -1,0 +1,41 @@
+{
+    "title": "2025 Could be a Big Year for Crypto ETFs: Laser Digital",
+    "time": "2025-01-13T08:51:00",
+    "author": "Will Canny",
+    "summary": "More than 12 new digital asset ETFs could be launched in the U.S. this year, if approved by the SEC, the report said.",
+    "content": "2025 could be a big year for cryptocurrency exchange-traded funds (ETFs), according to Laser Digital, the digital asset subsidiary of financial services giant Nomura.\n\nMore than twelve crypto ETFs could be launched in the U.S. this year, if approved by the Securities and Exchange Commission (SEC), Laser Digital said in a report last week.\n\nAsset managers have submitted 12 filings to the SEC to date, the report noted, and potential products include a ProShares ETF that denominates the S&P 500's return in bitcoin, a combined bitcoin/ether ETF, and litecoin, XRP and Solana based products.\n\nLaser Digital said a bitcoin/ether ETF is likely to get approval first.\n\nThe launch of spot bitcoin ETFs in the U.S. in January last year was a resounding success. Blackrock's iShares Bitcoin Trust (IBIT) amassed about $53 billion in assets under management in its first 11 months, beating all previous ETF launches.\n\nWith the appointment of crypto-friendly Paul Atkins as chairman of the SEC, and the exit of Gary Gensler, ongoing lawsuits against crypto companies are likely to fade away, the report said, and this makes the approval of these new ETFs more likely.\n\nThe ETF market is expected to continue to grow in terms of AUM, Laser Digital said, and will see wider adoption by institutional investors in 2025, more so with President-elect Donald Trump back in office supported by a team of crypto-friendly regulators.\n\nAsset manager Grayscale said it was looking to convert its Grayscale Solana Trust (GSOL) into an ETF in December.\n\nRead more: Grayscale Files to Convert Solana Trust Into ETF",
+    "url": "https://www.coindesk.com/markets/2025/01/13/2025-could-be-a-big-year-for-crypto-etfs-laser-digital",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Atkins",
+                "Gary Gensler",
+                "Donald Trump"
+            ],
+            "positions": [
+                "chairman of the SEC",
+                "President-elect"
+            ],
+            "companies": [
+                "Laser Digital",
+                "Nomura",
+                "ProShares",
+                "Blackrock",
+                "Grayscale"
+            ],
+            "organizations": [
+                "SEC",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "ether",
+            "litecoin",
+            "XRP",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes potential approval of multiple crypto ETFs, successful past ETF launches, crypto-friendly regulatory changes, and expected institutional adoption, all indicating positive market momentum."
+    }
+}

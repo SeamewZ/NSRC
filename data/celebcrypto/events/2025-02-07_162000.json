@@ -1,0 +1,43 @@
+{
+    "title": "U.S. Regulator Pursuing Tokenization Pilot to Tap Stablecoins as Collateral",
+    "summary": "Caroline Pham, the Commodity Futures Trading Commission chief tapped by President Donald Trump, is hosting a CEO summit on one of her longstanding policy aims.",
+    "time": "2025-02-07T16:20:00",
+    "author": "Jesse Hamilton",
+    "content": "Caroline Pham, who is running the U.S. Commodity Futures Trading Commission on an acting basis, is pursuing a stablecoin-backed tokenization pilot program, and an upcoming summit will include the heads of Coinbase, Ripple, Circle, Crypto.com and other digital assets firms.\n\nPham had suggested the idea for a so-called regulatory sandbox on tokenization through her advisory committee, the Global Markets Advisory Committee, in November, but that hadn't been embraced by the agency's previous leadership.\n\n“I’m excited to announce this groundbreaking initiative for U.S. digital asset markets,” Acting Chairman Pham said in a statement on Friday. “I look forward to engaging with market participants to deliver on the Trump Administration’s promise of ensuring that America leads the way on economic opportunity.”\n\nThe idea, based in what Pham called \"responsible innovation,\" would push into the use of non-cash collateral \"through distributed ledger technology,\" according to the agency.\n\nMoonPay's CEO, Ivan Soto-Wright, will also be among those attending.\n\n\"Throughout her tenure as commissioner of the CFTC, we have always held Caroline Pham's opinions on how the ecosystem can evolve in the highest regard,\" he said in a statement on Friday. \"She is a rational, fair and progressive thinker, and it’s our honor to participate in this forum.\"\n\nThe November recommendation from Pham's advisory committee had anticipated allowing market participants to try out non-traditional collateral.\n\n\"By improving the operational infrastructure for assets already eligible to serve as regulatory margin, blockchain or other distributed ledger technology (“DLT”) can help reduce or eliminate some of those challenges without requiring any changes to collateral eligibility rules,\" the recommendation suggested. \"Market participants can also use their existing policies, procedures, practices, and processes to identify, assess, and manage risks to using DLT, like they do for other forms of market infrastructure and technologies.\"\n\nA date and further details for the forum of digital assets CEOs hasn't yet been set.\n\nAs acting chairman, Republican Commissioner Pham has made some dramatic changes at the U.S. derivatives watchdog in just a few weeks after she began standing in for the previous Chairman Rostin Behnam, a Democrat appointed by former President Joe Biden. Those changes have included a wide-ranging replacement of senior officials at the agency, and one personnel matter involving a former human-resource chief sparked an unusually open and detailed response on Thursday from the CFTC. Spokespeople for the regulator argued that \"false allegations\" had been made against Pham by \"disgruntled individuals\" the agency linked to internal misconduct investigations.\n\nRead More: Trump's CFTC Pick Clears Top Ranks of Key US Crypto Regulator\n\nUPDATE (February 7, 2022, 16:40 UTC): Adds the CFTC advisory committee's previous recommendation.\n\nUPDATE (February 7, 2022, 19:36 UTC): Adds comment from MoonPay.",
+    "url": "https://www.coindesk.com/policy/2025/02/07/u-s-regulator-pursuing-tokenization-pilot-to-tap-stablecoins-as-collateral",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Caroline Pham",
+                "Donald Trump",
+                "Ivan Soto-Wright",
+                "Rostin Behnam",
+                "Joe Biden"
+            ],
+            "positions": [
+                "Acting Chairman",
+                "Commissioner",
+                "CEO",
+                "President",
+                "former human-resource chief",
+                "Spokespeople"
+            ],
+            "companies": [
+                "Coinbase",
+                "Ripple",
+                "Circle",
+                "Crypto.com",
+                "MoonPay"
+            ],
+            "organizations": [
+                "U.S. Commodity Futures Trading Commission",
+                "Global Markets Advisory Committee",
+                "Trump Administration",
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a regulatory initiative to allow stablecoin-backed tokenization and non-traditional collateral, which represents positive regulatory developments and institutional adoption that typically boost market confidence."
+    }
+}

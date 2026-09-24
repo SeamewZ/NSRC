@@ -1,0 +1,41 @@
+{
+    "title": "Ethereum 'Roll Back' Suggestion Has Sparked Criticism. Here's Why It Won't Happen",
+    "summary": "Call for \"roll back\" by some, to negate Bybit hack, immediately provoked a fierce reaction from the Ethereum community, which was firm in its belief that it wouldn't happen.",
+    "time": "2025-02-22T20:43:00",
+    "author": "Margaux Nijkerk",
+    "content": "On Friday, cryptocurrency exchange Bybit was allegedly hacked by North Korea’s Lazarus group, which drained nearly $1.4 billion in ether\nETH\n$3,340.48\nfrom the exchange.\n\nFollowing the hack, Arthur Hayes, BitMEX co-founder and claiming to be a major ether\nETH\n$3,340.48\nholder, wrote a post on X to Ethereum co-founder Vitalik Buterin on whether he will “advocate to roll back the chain to help @Bybit_Official.” Meanwhile, in an X spaces session, Bybit’s CEO Ben Zhou revealed that his team had also reached out to the Ethereum Foundation to see if it was something the network would consider, noting that such a decision should be based on what the network's community wants.\n\nHayes's post immediately provoked a fierce reaction from the Ethereum community, which was firm in its belief that it wouldn't happen. Some even questioned whether the BitMEX founder was joking. CoinDesk reached out to Hayes over X to clarify his comments.\n\nEthereum members, like the core developer teams, are vastly against “rolling back” the network because it would override core elements of decentralization. If Buterin decided on his own that it would happen, then that would be seen as the end of Ethereum’s ethos, which heavily involves various developer teams and other community members when it comes to the health and state of the blockchain.\n\n“Rolling back the chain would give ETH no purpose. What's the point if you can just change rules,” said user @the_weso in a post on X.\n\nSome outside the Ethereum community pointed to the 2016 DAO hack as an example when $60 million in ETH was stolen. The network went forward with a hard fork, splitting the old network into two, and the new chain continued on as Ethereum.\n\nThat hard fork was not a “rollback,” though; it was known as an “irregular state transition.” Ethereum technically can’t “roll back” the network because it relies on an account model, where accounts hold users' ETH.\n\nAt the time of the hack, developers upgraded their nodes to a new client or software. Those who didn’t upgrade their nodes were still on the old chain, which became known as Ethereum Classic.\n\nWhen the nodes upgraded to the new software, the stolen ETH could move from one Ethereum account address to the next.\n\n“The 'irregular state change' that they implemented at the time of the DAO hard fork was this: they airlifted all the ETH in the DAO smart contracts out to a refund contract that would send you 1 ETH for every 100 DAO tokens you sent in,” wrote Laura Shin of Unchained in a post on X.\n\nRead more: Arthur Hayes Floats the Idea of Rolling Back Ethereum Network to Negate $1.4B Bybit Hack, Drawing Community Ire",
+    "url": "https://www.coindesk.com/tech/2025/02/22/ethereum-roll-back-suggestion-has-sparked-criticism-here-s-why-it-won-t-happen",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arthur Hayes",
+                "Vitalik Buterin",
+                "Ben Zhou",
+                "Laura Shin"
+            ],
+            "positions": [
+                "BitMEX co-founder",
+                "Ethereum co-founder",
+                "Bybit's CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "BitMEX",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "North Korea’s Lazarus group",
+                "Ethereum Foundation",
+                "Ethereum community",
+                "Ethereum Classic",
+                "Unchained"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $1.4 billion hack of a major cryptocurrency exchange and subsequent community controversy about network integrity, which creates negative market sentiment."
+    }
+}

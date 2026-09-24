@@ -1,0 +1,31 @@
+{
+    "title": "Latest Draft of U.S. Stablecoin Bill Aims to Split Power Between State and Federal Authorities",
+    "summary": "The latest version of the bill expands the role of states in regulating stablecoins and proposes new transparency as well as enforcement requirements",
+    "time": "2025-03-11T06:32:00",
+    "author": "Sam Reynolds",
+    "content": "The latest draft of the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act, introduced before a hearing Tuesday, proposes a significant shift in the approach to stablecoin oversight.\n\nThe draft wants to split stablecoin regulation between state and federal authorities, while also introducing new enforcement and transparency requirements for issuers.\n\nThe GENIUS Act is sponsored by Senators Bill Hagerty (R-TN), Tim Scott (R-SC), Chairman of the Senate Banking Committee, Kirsten Gillibrand (D-NY), Cynthia Lummis (R-WY), and Angela Alsobrooks (D-MD). It was first introduced by Hagerty in February.\n\nOne of the most notable changes is the increased threshold for state regulatory authority over stablecoins.\n\nStates would now be allowed to oversee stablecoin issuers in collaboration with federal authorities with a market cap of up to $10 billion, giving them greater power in regulating a larger portion of the stablecoin market.\n\nThe newest draft of the bill also includes a waiver process, allowing larger issuers to remain solely under state supervision if they meet specific criteria.\n\nTo get a waiver and remain under state supervision, stablecoin issuers must demonstrate strong capital, a good track record, and be supervised by what the bills calls an experienced state regulator.\n\nThe updated bill also introduces new transparency and disclosure requirements for issuers. Issuers would be required to publish monthly liquidity reports detailing the composition of their reserves, including the total number of outstanding stablecoins.\n\nUnder the latest version of the bill, reserves are required to be U.S. currency, demand deposits, Treasuries, or other \"approved assets.\"\n\nStablecoin issuers would also be required to create mechanisms that would allow them to comply with orders to freeze transactions, and grants the Secretary of the Treasury the authority to block and prohibit transactions involving stablecoins issued by foreign persons or entities.\n\nWhile earlier versions of the bill did have provisions related to enhanced know your customer (KYC) and anti money laundering (AML) requirements, the updated version of the bill explicitly designates stablecoin issuers as financial institutions for AML purposes requiring them to establish compliance programs and conduct due diligence on high-value transactions.\n\nThe bill now awaits amendments by the Senate Banking Committee before a referral to the full Senate for debate and a final vote.",
+    "url": "https://www.coindesk.com/policy/2025/03/11/latest-draft-of-u-s-stablecoin-bill-aims-to-split-power-between-state-and-federal-authorities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bill Hagerty",
+                "Tim Scott",
+                "Kirsten Gillibrand",
+                "Cynthia Lummis",
+                "Angela Alsobrooks"
+            ],
+            "positions": [
+                "Chairman of the Senate Banking Committee",
+                "Secretary of the Treasury"
+            ],
+            "companies": [],
+            "organizations": [
+                "Senate Banking Committee",
+                "U.S. Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The bill establishes regulatory clarity for stablecoins but introduces new compliance requirements, creating a mixed impact that suggests market consolidation rather than clear bullish or bearish momentum."
+    }
+}

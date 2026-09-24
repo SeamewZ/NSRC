@@ -1,0 +1,36 @@
+{
+    "title": "Ether Bears Are Done and That’s Fueling ETH’s Surge, Crypto Benchmark Issuer Says",
+    "summary": "Ether's recent price rally is driven by short covering rather than new bullish bets, CF Benchmarks' Sui Chung said.",
+    "time": "2025-05-16T12:11:00",
+    "author": "Omkar Godbole",
+    "content": "Ether's\nETH\n$3,335.91\nrally, though impressive, leaves much to be desired. That's because the unwinding of shorts is said to be fueling the rally, not fresh longs or bullish leveraged bets on the Chicago Mercantile Exchange (CME).\n\n\"The rally is primarily the result of short covering – traders unwinding bearish positions – rather than a surge of bullish conviction,\" Sui Chung, CEO of crypto index provider CF Benchmarks, told CoinDesk. CME's derivatives, preferred by institutions, track the CF Benchmarks' Bitcoin Reference Rate – New York (BRRNY) variant.\n\nWhen bears cover their shorts, it means they are buying back futures contracts initially sold. This action of short covering temporarily boosts demand in the market, putting upward pressure on prices.\n\nChung pointed to the still-low CME futures premium (basis) as evidence that the rally is led by short covering.\n\nWhile ether's spot price has surged nearly 90% to above $2,600 since the early April sell-off, the annualized one-month basis in the CME's ether has held flat between 6% and 10%, according to data source Velo.\n\n\"In more conventional setups, we would expect rising basis levels if traders were initiating fresh longs with leverage,\" Chung noted. \"It's a reminder that not all rallies are fueled by new demand; sometimes, they reflect repositioning and risk reduction.\"\n\nOne might argue that the basis has held steady due to sophisticated trades \"arbing\" away the price difference between the CME ETH futures and the spot index price by shorting futures and buying ETH spot ETFs.\n\nThat argument looks weak when considering the U.S.-listed spot ETFs have seen net positive inflows on just ten trading days in the past four weeks. Besides, net inflows tallied over $100 million just once, according to the data source SoSoValue.\n\n\"The lack of inflows into ETH ETFs and the muted basis paints a different picture, this latest move higher doesn't appear to be driven by new leveraged longs,\" Chung said.",
+    "url": "https://www.coindesk.com/markets/2025/05/16/ether-bears-are-done-and-that-s-fueling-eth-price-surge-crypto-benchmark-issuer-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sui Chung"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "CF Benchmarks",
+                "CoinDesk",
+                "Chicago Mercantile Exchange",
+                "CME",
+                "Velo",
+                "SoSoValue"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ether's price surging nearly 90% to above $2,600, indicating a significant price increase despite being driven by short covering rather than new bullish bets."
+    }
+}

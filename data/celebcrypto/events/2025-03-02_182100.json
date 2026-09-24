@@ -1,0 +1,37 @@
+{
+    "title": "XRP, SOL, ADA's Coinbase Premium Surges to One-Month High After Trump's Crypto Reserve News",
+    "time": "2025-03-02T18:21:00",
+    "author": "Omkar Godbole",
+    "summary": "Tokens traded at a notable premium on Coinbase relative to Binance after Trump announced plans for establishing strategic crypto reserve.",
+    "content": "U.S. President Donald Trump on Sunday said that bitcoin\nBTC\n$103,891.83\n, ether\nETH\n$3,489.96\n, XRP, solana\nSOL\n$160.89\nand\nADA\n$0.5407\ncould comprise the promised strategic crypto reserve, sparking a sharp rally in these tokens' prices.\n\nThe spot-led rally saw these tokens trade at a substantial premium on the Nasdaq-listed Coinbase exchange, a proxy for the U.S. demand, compared to the offshore giant Binance, according to data source TradingView.\n\nThe so-called Coinbase premium for XRP, SOL, and ADA surged to the highest level since Feb. 3. BTC and ETH traded at slightly higher prices on Coinbase than Binance.\n\nSince early last year, Coinbase premium has been a feature of price rallies, validating the bull runs.\nRead more: Bitcoin Jumps Above $91K After Trump's U.S. Crypto Reserve News Brings Bulls Back",
+    "url": "https://www.coindesk.com/markets/2025/03/02/xrp-sol-ada-s-coinbase-premium-surges-to-one-month-high-after-trump-s-crypto-reserve-news",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Coinbase",
+                "Binance",
+                "Nasdaq",
+                "TradingView"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "solana",
+            "SOL",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a sharp rally in cryptocurrency prices and substantial premium on Coinbase after Trump's announcement about establishing a strategic crypto reserve."
+    }
+}

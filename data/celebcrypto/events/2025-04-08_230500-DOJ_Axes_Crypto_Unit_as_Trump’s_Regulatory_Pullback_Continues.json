@@ -1,0 +1,37 @@
+{
+    "title": "DOJ Axes Crypto Unit as Trump’s Regulatory Pullback Continues",
+    "summary": "“The Department of Justice is not a digital assets regulator,” U.S. Deputy Attorney General Todd Blanche said in the Monday night memo.",
+    "time": "2025-04-08T15:05:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Department of Justice (DOJ) axed its crypto unit on Monday, telling staff that the DOJ would be “narrowing” its crypto enforcement activities in accordance with U.S. President Donald Trump’s January executive order on digital assets, which pledged to establish “regulatory clarity and certainty” for the crypto industry.\n\nIn his four-page memo to staff titled “Ending Regulation by Prosecution,” U.S. Deputy Attorney General Todd Blanche announced that the National Cryptocurrency Enforcement Team (NCET) — created in 2022 under then-President Joe Biden — would be “disbanded effective immediately.”\n\n“The Department of Justice is not a digital assets regulator,” Blanche wrote in the memo seen by CoinDesk. “However, the prior Administration used the Justice Department to pursue a reckless strategy of regulation by prosecution, which was ill conceived and poorly executed. The Justice Department will no longer pursue litigation or enforcement actions that have the effect of superimposing regulatory frameworks on digital assets while President Trump’s actual regulators do this work outside the punitive criminal justice framework.”\n\nBlanche informed staff that the DOJ would no longer be pursuing cases against crypto exchanges, mixing services or offline wallets “for the acts of their end users or unwitting violations of regulations.” Staff were ordered not to charge regulatory violations in cases involving crypto, including violations of the Bank Secrecy Act (BSA), unlicensed money transmitting and other violations tied to federal securities and commodities laws.\n\nInstead, DOJ staff were ordered to focus their resources on “prosecuting individuals who victimize digital asset investors” or who use crypto in the furtherance of criminal activities like terrorism or gang financing.\n\n“Ongoing investigations that are inconsistent with the foregoing should be closed,” Blanche wrote, adding that his office will work with the DOJ’s criminal division to “review ongoing cases for consistency with this policy.”\n\nNCET is not the first federal crypto task force to be disbanded since Trump took office in January. The U.S. Commodity Futures Trading Commission (CFTC) slashed a number of specialized enforcement teams, including a crypto-focused team, down to just two as part of Acting Chair Caroline Pham’s plan to increase efficiency and “stop regulation by enforcement.”\n\nNCET worked on many of the DOJ’s high profile crypto cases in recent years, including crypto mixer Tornado Cash and several of its developers and Mango Markets exploiter Avi Eisenberg, who faces sentencing later this week after being convicted of fraud and market manipulation.\n\nThe memo comes a week and a half after Trump pardoned crypto trading platform BitMEX and its founders and senior executives following their past guilty pleas to Bank Secrecy Act charges.",
+    "url": "https://www.coindesk.com/policy/2025/04/08/doj-axes-crypto-unit-as-trump-s-regulatory-pullback-continues",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Todd Blanche",
+                "Donald Trump",
+                "Joe Biden",
+                "Caroline Pham",
+                "Avi Eisenberg"
+            ],
+            "positions": [
+                "U.S. Deputy Attorney General",
+                "U.S. President",
+                "Acting Chair"
+            ],
+            "companies": [
+                "BitMEX",
+                "Mango Markets",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "Department of Justice (DOJ)",
+                "National Cryptocurrency Enforcement Team (NCET)",
+                "U.S. Commodity Futures Trading Commission (CFTC)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The DOJ is narrowing crypto enforcement and ending 'regulation by prosecution,' which reduces regulatory pressure and creates more certainty for the crypto industry."
+    }
+}

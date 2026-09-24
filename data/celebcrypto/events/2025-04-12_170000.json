@@ -1,0 +1,28 @@
+{
+    "title": "Chart of the Week: Wall Street's 'Fear Gauge' Is Flashing Possible Bitcoin Bottom",
+    "summary": "The bitcoin to VIX ratio might be signalling a potential long-term bottom for BTC price.",
+    "time": "2025-04-12T17:00:00",
+    "author": "James Van Straten",
+    "content": "It’s been an exceptionally volatile week, but one measure may be signaling longer-term bullish sentiment for bitcoin.\n\nThe sell-off in equities began on April 3, spurred by President Donald Trump's tariff-led uncertainties. Each day since then has been marked by sharp moves in both directions. The panic has hit both the equities and bond markets, while gold has surged to new all-time highs, and the DXY Index has broken below 100 for the first time since July 2023.\n\nIn response, the S&P Volatility Index (VIX)—often called Wall Street's \"fear gauge\" —has surged to its highest level since last August and this is where things get interesting for bitcoin.\n\nThe ratio of bitcoin to VIX has hit 1,903 currently, touching a long-term trendline that last time coincided with market volatility around the unwinding of the yen carry trade. At the time, bitcoin had reached a bottom of around $49,000.\n\nIn fact, this is the fourth time this ratio has hit the trendline and then found the bottom. Previously, it touched the line in March 2020 during the peak COVID-19 crisis and initially in August 2015, both times followed by a rally in prices.\n\nIf this trendline continues to serve as reliable support, it could suggest that bitcoin might have once again found a long-term bottom.\n\nRead more: Bitcoin’s Recent Drawdown Proves Its More Than Just a Leveraged Tech Play",
+    "url": "https://www.coindesk.com/markets/2025/04/12/chart-of-the-week-wall-street-s-fear-gauge-is-flashing-possible-bitcoin-bottom",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article states that the bitcoin to VIX ratio hitting a trendline has historically signaled long-term bottoms and been followed by price rallies, suggesting potential bullish sentiment."
+    }
+}

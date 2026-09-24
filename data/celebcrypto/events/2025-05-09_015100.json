@@ -1,0 +1,38 @@
+{
+    "title": "ETH Surges 20%, Biggest Gain Since 2021 as Pectra Upgrade Helps Restore 'Confidence'",
+    "time": "2025-05-09T01:51:00",
+    "author": "Sam Reynolds",
+    "summary": "ETH outperforms CoinDesk 20 Index, as bulls comes back while BTC surges above $100k.",
+    "content": "Ethereum's ether\nETH\n$3,495.36\nled the market in early Asia hours as traders reacted favorably to the protocol's recent Pectra upgrade, sending the token up nearly 20%, the biggest gain since 2021, and trading above $2100 according to market data from CoinDesk.\n\nThe move comes amid a broader crypto market rally that coincided with bitcoin\nBTC\n$104,608.94\nsoaring past $100,000 for the first time in three months.\n\nEthereum’s Pectra upgrade, its most substantial overhaul since the 2022 Merge, represents a sweeping protocol hard fork, as CoinDesk previously reported.\n\nThe upgrade consolidates validator operations by raising the staking limit from 32 to 2,048 ETH (via EIP-7251), advances wallet usability through account abstraction mechanisms allowing temporary smart contract functionality (via EIP-7702), and implements nine other Ethereum Improvement Proposals.\n\n\"ETH is finally catching up after lagging behind BBTC for most of the year. While BTC is nearing its all-time high, ETH is still down nearly 50% from its 2024 peak,\" Ming Jung from Presto Research wrote to CoinDesk in a note.\n\nThe Pectra upgrade, Jung said, \"helped restore some confidence, and with ETHBTC down nearly 40% year-to-date at 0.02, it's not surprising to see buyers stepping in at these levels.\"\n\nIn a recent research report, CryptoQuant wrote that weak network activity on the Ethereum blockchain, which hasn't grown since 2021, suggests that a recovery to prior highs isn't imminent despite the rally.\n\nIn a market update, Flowdesk wrote that they see the crypto market broadly regaining momentum, with bitcoin passing $100K and a return to risk appetite, with investors shifting from caution to chasing higher-yield altcoins and structured products.\n\n\"We're seeing a recycling of sell flow into higher-momentum plays, a shift from the caution that’s defined the last two months. While still below Q4 2024 levels, beta appetite is clearly building,\" Flowdesk wrote.\n\nMarch Zheng, General Partner of Bizantine Capital, told CoinDesk in a message that traders should remember that Ethereum has typically been the main on-chain altcoin indicator for risk-on, and its sizable upticks generally lead to broader altcoin rallies.\n\nElsewhere in crypto, bitcoin\nBTC\n$104,608.94\nis trading above $102.5K as ETF inflow continues to be positive. In a recent note, Standard Chartered said that its second quarter target of $120,000 might be \"too conservative. Other market observers consider current upside targets to be \"too low.\"\n\nMeanwhile, the CoinDesk 20, a measure of the performance of the largest digital assets, is up over 10%.\n\nRead more: Breakout Alert: Ether, Bitcoin Cash-Bitcoin Ratio Break Downtrends as DOGE, SHIB Bottom Out",
+    "url": "https://www.coindesk.com/markets/2025/05/08/eth-surges-20-biggest-gain-since-2021-as-pectra-upgrade-helps-restore-confidence",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ming Jung",
+                "March Zheng"
+            ],
+            "positions": [
+                "General Partner"
+            ],
+            "companies": [
+                "Presto Research",
+                "CryptoQuant",
+                "Flowdesk",
+                "Bizantine Capital",
+                "Standard Chartered"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "BTC",
+            "Ethereum",
+            "Bitcoin",
+            "DOGE",
+            "SHIB",
+            "Bitcoin Cash"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes ETH surging 20%, BTC breaking $100k, broader crypto market rally, return to risk appetite, and positive analyst commentary about market momentum."
+    }
+}

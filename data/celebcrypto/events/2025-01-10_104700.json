@@ -1,0 +1,42 @@
+{
+    "title": "Sentiment Readings Favor Dogecoin Gains as Cardano’s ADA Leads Market Bump",
+    "time": "2025-01-10T10:47:00",
+    "author": "Shaurya Malwa",
+    "summary": "Social sentiment supports growth in dogecoin as AI Agent tokens rebounded on Friday.",
+    "content": "Weakness in bitcoin\nBTC\n$104,608.94\nhas deferred to other crypto majors from Solana’s SOL to memecoin\nDOGE\n$0.1622\n, data suggests current levels could prove ripe for risk-on traders.\n\n“Crypto's top meme coin Dogecoin has been extremely quiet outside of a temporary run-up at the beginning of the year,” analytics firm Santiment wrote in a Thursday report, citing social metrics and sentiment based on online chatter.\n\n“Since its top exactly one month ago, Dogecoin has shed -28% of its market cap. Crowd sentiment has been near its lowest point over the past year. (This) means there is actually some nice upside to be a daring contrarian toward DOGE (in particular) if crypto markets begin to trend upward again,” the firm added, with crowd sentiment on DOGE currently at low levels of 1 out of 5.\n\nThe sentiment check aligns with a CoinDesk analysis from earlier in the week.\n\nLarge investors, or \"whales,\" are showing increased interest in DOGE, with transactions over $100,000 spiking to hint at potential price bumps in the short term. Futures markets for DOGE set a new record for open interest late Tuesday, though they have since tapered off alongside a market-wide decline.\n\nAs such, January has been Dogecoin's best-performing month historically, averaging an 85% return. Technical indicators like the 50-day SMA suggest a bullish trend for DOGE with a short-term target at 50 cents — a more than 30% bump from Friday’s 33 cents level.\n\nSentiment for other majors remains mixed. Bitcoin is neutral after a dip and recovery, now ranging between the low to mid $90,000 levels. Ether sees bearish sentiment despite prices holding above $3,000. XRP is bullish after an 18% rise in the past week, and Binance Coin ($BNB) shows neutral sentiment post-drop below $700. Solana remains semi-bullish despite underperformance, with a loyal community buying dips.\n\nMeanwhile, Cardano’s ADA led a market-wide recovery in Asian afternoon hours on Friday with a 5.5% move in the past 24 hours. The broad-based CoinDesk 20 (CD20) rose 1.04%, with Solana’s SOL, BNB Chain’s BNB, ether\nETH\n$3,495.36\n, rose as much as 1%.\n\nTraders showed a preference for AI Agent tokens Bixby, Cookie DAO’s COOKIE, and ChainGPT rose as much as 50% on Binance spot listings. Viral token ai16z was up 11% and the agents category up was 8% on average, leading growth among all other crypto sectors.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/sentiment-readings-favor-dogecoin-gains-as-cardano-s-ada-leads-market-bump",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Santiment",
+                "CoinDesk",
+                "Binance",
+                "Cookie DAO"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Dogecoin",
+            "DOGE",
+            "Solana",
+            "SOL",
+            "Ether",
+            "ETH",
+            "XRP",
+            "Binance Coin",
+            "BNB",
+            "Cardano",
+            "ADA",
+            "Bixby",
+            "COOKIE",
+            "ChainGPT",
+            "ai16z"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple cryptocurrencies showing positive price movements, increased whale interest in DOGE, record futures activity, and overall market recovery led by ADA with AI tokens surging up to 50%."
+    }
+}

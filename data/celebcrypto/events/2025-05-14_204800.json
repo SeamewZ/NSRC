@@ -1,0 +1,28 @@
+{
+    "title": "World's Iris-Scanning Tech Misunderstood, Data Never Leaves Orb, Advisor Says",
+    "time": "2025-05-14T20:48:00",
+    "author": "Margaux Nijkerk",
+    "summary": "World Foundation Advisor Liam Horne spoke Wednesday at Consensus 2025.",
+    "content": "Sam Altman’s blockchain project World has sparked controversy in the past due to its use of iris-scanning technology to create digital identities. But World Foundation Advisor Liam Horne says that the controversy around that technology, known as orbs, is often misunderstood.\n\nIt’s “actually the complete opposite,” of what critics share regarding World or Altman owning that data, Horne said on Wednesday at a panel at Consensus 2025. “The data literally never leaves the orb.”\n\nThe World Network uses its orbs — chrome, bowling ball-shaped devices —to perform iris scans that verify an individual’s unique identity as part of a system called \"proof-of-personhood.\" When a user looks into an orb, the device maps their iris and immediately converts the biometric into a privacy-preserving address known as a World ID, that proves that a user is a real, unique human being, rather than a bot.\n\nThe project has faced scrutiny across multiple jurisdictions, with regulators in Europe, Africa and Asia raising concerns about data privacy and consent. But Horne reiterated that the system is designed to be privacy-preserving from the ground up.\n\nPreviously, Orbs were only available in select locations in South America, Asia, and Africa, but earlier this month the team behind World shared that they were expanding to the United States, and bringing orbs to six different cities including Atlanta, Austin, Los Angeles, Miami, Nashville and San Francisco.\n\nRead more: Sam Altman’s World Crypto Project Launches in US With Eye-Scanning Orbs in 6 Cities",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/14/worlds-iris-scanning-tech-misunderstood-data-never-leaves-orb-advisor-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sam Altman",
+                "Liam Horne"
+            ],
+            "positions": [
+                "World Foundation Advisor"
+            ],
+            "companies": [
+                "World"
+            ],
+            "organizations": [
+                "World Foundation"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news discusses privacy concerns and regulatory scrutiny around World's iris-scanning technology but also mentions expansion to the US, presenting mixed signals without clear market direction."
+    }
+}

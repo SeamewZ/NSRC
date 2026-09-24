@@ -1,0 +1,41 @@
+{
+    "title": "Gold-Backed Cryptocurrencies Retreat From All-Time Highs Amid Stock-Market Rout",
+    "time": "2025-04-04T15:44:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The precious metal initially rallied after Trump unveiled reciprocal tariffs, but has since joined the wider market sell-off.",
+    "content": "Gold-backed cryptocurrencies like Paxos Gold (PAXG) and Tether Gold (XAUT) retreated from record highs on Friday amid a global financial-markets sell-off that erased $2.5 trillion from U.S. equities alone in a single day after U.S. President Donald Trump unveiled his reciprocal tariffs.\n\nThe tokens, which are backed by physical gold and track its price, initially rallied as investors sought shelter from the uncertainty the tariffs introduced. Gold is usually seen as a haven investment, but large-scale losses in equity markets often force investors to liquidate safer assets to cover margin calls and cash out losses.\n\nPAXG climbed to an all-time high of $3,191 with XAUT following closely behind to reach $3,190, exceeding spot gold’s peak of $3,167. The initial rise didn’t last, with PAXG dropping to $3,074 and XAUT to $3,064, mirroring gold's pullback to $3,038 per ounce.\n\nThe tariffs announced on Wednesday spooked markets with their breadth and unclear targets. Investors, already jittery from a volatile global outlook, responded swiftly. The S&P 500 posted one of its steepest drops since the COVID-era panic in 2020 on Thursday, while the Nasdaq 100 saw its worst single-day point loss in history according to the Kobeissi Letter. The rout extended into a second day, with the MSCI World Index dropping 4.3% on Friday after losing 3.7% on Thursday.\n\nStill, gold-backed tokens remain 17% higher since the start of the year. The rally has been driven by Federal Reserve interest-rate cuts, sustained demand from Asia and a wave of central bank buying earlier in the year. In February, central banks reported net gold purchases of 24 metric tons, according to the World Gold Council.\n\nPoland led the pack, adding 29 tons and bringing its total reserves to 480 tons, now 20% of its foreign exchange holdings. China, Turkey, Jordan, and Qatar also increased their holdings.",
+    "url": "https://www.coindesk.com/markets/2025/04/04/gold-backed-cryptocurrencies-retreat-from-all-time-highs-amid-stock-market-rout",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Paxos Gold",
+                "Tether Gold"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "World Gold Council",
+                "S&P 500",
+                "Nasdaq 100",
+                "MSCI World Index",
+                "Kobeissi Letter",
+                "Poland",
+                "China",
+                "Turkey",
+                "Jordan",
+                "Qatar"
+            ]
+        },
+        "cryptocurrencies": [
+            "PAXG",
+            "XAUT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes gold-backed cryptocurrencies retreating from record highs amid a global financial markets sell-off and forced liquidations due to equity market losses."
+    }
+}

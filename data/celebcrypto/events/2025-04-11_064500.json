@@ -1,0 +1,27 @@
+{
+    "title": "CryptoPunk NFT, Once Bought for $16M, Sold for $10M Loss",
+    "summary": "NFTs, once the darling usecase of crypto, are all but out of favor among investors, with some holders ready to realize huge losses.",
+    "time": "2025-04-11T06:45:00",
+    "author": "Shaurya Malwa",
+    "content": "Remember when CryptoPunks were the ultimate flex?\n\nThe 10,000 avatars issued by Larva Labs back in 2017, were among the crown jewels of the non-fungible token (NFT) craze in 2021. Some NFTs of that collection fetched as high as $56 million worth of ether\nETH\n$3,330.42\non the open market in 2024.\n\nThe top five most expensive NFTs belong to the CryptoPunk collection, data from NFT analytics service CryptoSlam shows. But holders seem to be moving their money out.\n\nThe wallet behind CryptoPunks #3100, the third-highest NFT sale ever, sold their collectible earlier Friday for 4,000 ETH — a 500 ETH haircut worth over $10 million in dollar terms as ETH has itself dove nearly 60% in the past year.\n\nThat’s still a relatively high price for CryptoPunk compared to the collection’s floor price — or the minimum asking rate — of 42 ETH, or about $65,000, per CoinGecko. #3100’s value was driven by its rarity of being an “alien” (9 of 9985 punks) and wearing a hairband (406 of 9742 punks).\n\nNFT trading volumes have been on a general decline since 2021, bar a few spikes amid frenzied periods. Overall sales dipped to just over $58 million as on April 7, reaching levels previously seen in early 2021.",
+    "url": "https://www.coindesk.com/markets/2025/04/11/cryptopunk-nft-once-bought-for-usd16m-sold-for-usd10m-loss",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Larva Labs"
+            ],
+            "organizations": [
+                "CryptoSlam",
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant NFT losses, declining trading volumes, and falling cryptocurrency prices, indicating negative market sentiment."
+    }
+}

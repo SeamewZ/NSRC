@@ -1,0 +1,31 @@
+{
+    "title": "Payments Card Issuer Infini Offers Reward for Return of Funds After $49 Million Exploit",
+    "time": "2025-02-24T17:03:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The neobank offered the perpetrator 20% of the stolen funds to return the money within 48 hours, threatening legal action otherwise.",
+    "content": "Infini, a prepaid payments card issuer that offers interest on deposited dollar stablecoins, warned a hacker it had “gathered critical IP and device information” after losing almost all the value locked in its wallets.\n\nThe attacker drained $49.5 million from the Hong Kong-based neobank's wallets, according to Peckshield. The company said only on Sunday it had hit $50 million in total value locked.\n\nThe exploit came just days after Bybit, the second-largest cryptocurrency exchange by trading volume, saw a hacker drain its ether cold wallet and make off with nearly $1.5 billion in crypto's largest exploit.\n\n“We are closely monitoring the address involved and are prepared to take immediate action to freeze any stolen funds if necessary,\" Infini told the hacker in a blockchain transaction. \"In an effort to resolve this matter amicably, we are willing to offer you 20% of the stolen assets should you choose to return the funds.”\n\nInfini gave the perpetrator 48 hours to “facilitate a swift resolution,” and that failure to respond means it will “have no choice” but to continue its investigation in collaboration with law enforcement.\n\nAccording to Cyvers, the exploit occurred after a developer who helped set up its smart contract kept admin rights over it. More than three months later, they leveraged these rights and drained the funds to a wallet funded over cryptocurrency mixer Tornado Cash.\n\nThe neobank’s founder, Christian Li, has pledged to cover the full loss from his personal funds and took responsibility for the incident.",
+    "url": "https://www.coindesk.com/markets/2025/02/24/payments-card-issuer-infini-offers-reward-for-return-of-funds-after-usd49-million-exploit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Christian Li"
+            ],
+            "positions": [
+                "founder",
+                "developer"
+            ],
+            "companies": [
+                "Infini",
+                "Bybit",
+                "Peckshield",
+                "Cyvers"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $49.5 million security exploit at a cryptocurrency neobank and references another $1.5 billion exploit, both representing significant security breaches that undermine market confidence."
+    }
+}

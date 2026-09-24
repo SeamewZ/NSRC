@@ -1,0 +1,33 @@
+{
+    "title": "U.S. Spot Crypto ETFs Saw Strong Inflows on Wednesday, JPMorgan Says",
+    "summary": "Both ether and bitcoin products saw net inflows despite a drop in underlying asset prices, the report said.",
+    "time": "2025-05-29T15:07:00",
+    "author": "Will Canny",
+    "content": "U.S.-listed spot crypto exchange-traded funds (ETFs) saw strong net inflows Wednesday, with both ether\nETH\n$3,495.36\nand bitcoin\nBTC\n$104,608.94\nproducts continuing to draw investor interest despite declines in underlying asset prices, investment bank JPMorgan (JPM) said.\n\nU.S. spot ether ETFs logged an estimated $84 million in net inflows on May 28, as investor interest held firm even with ether falling 1.3%, the bank said in a report published on Thursday.\n\nLeading the pack was BlackRock’s iShares Ethereum Trust (ETHA), which brought in $52 million, followed by Fidelity’s Ethereum Fund (FETH) with $26 million. Grayscale’s mini ETH Trust and Invesco/Galaxy’s QETH added $5 million and $2 million, respectively, the bank noted.\n\nNotably, ether ETFs recorded a notional trading volume of $459 million, well above their post-launch daily average of approximately $375 million since debuting in July 2024, the bank observed.\n\nMeanwhile, spot bitcoin ETFs brought in an estimated $431 million in net inflows, JPMorgan said, largely powered by BlackRock’s iShares Bitcoin Trust (IBIT), which alone saw $479 million in new investment.\n\nThe strong inflow was partially offset by redemptions from ARK 21Shares Bitcoin ETF (ARKB), the bank noted, which shed $34 million, and Fidelity’s FBTC, which recorded $14 million in outflows.\n\nDespite bitcoin's 2.1% drop in price, total trading volumes remained elevated, clocking in at $3.5 billion, compared to the group’s historical average of $2.8 billion per day since launching in January 2024, the report added.\n\nInvestors are moving from gold to bitcoin ETFs, according to a Thursday report by Bloomberg. U.S. bitcoin ETFs have seen $9 billion in inflows over the last 5 weeks versus $2.8 billion in outflows for gold-backed funds.\n\nRead more: Bitcoin Spot ETFs Pull in $5.77B in May, Their Best Performance Since November",
+    "url": "https://www.coindesk.com/markets/2025/05/29/us-spot-crypto-etfs-saw-strong-inflows-on-wednesday-jpmorgan-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "JPMorgan",
+                "BlackRock",
+                "Fidelity",
+                "Grayscale",
+                "Invesco",
+                "Galaxy",
+                "ARK 21Shares",
+                "Bloomberg"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ether",
+            "ETH",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports strong net inflows into both ether and bitcoin ETFs despite price declines, indicating sustained investor confidence and institutional buying interest."
+    }
+}

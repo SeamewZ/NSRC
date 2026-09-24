@@ -1,0 +1,37 @@
+{
+    "title": "SEC Ditches PayPal's PYUSD Probe, Removing Key Regulatory Hurdle for Its Stablecoin",
+    "time": "2025-05-01T19:47:00",
+    "author": "Aoyon Ashraf",
+    "summary": "The SEC subpoenaed PayPal in late 2023 over its dollar-backed stablecoin.",
+    "content": "The U.S. Securities and Exchange Commission has closed its investigation into PayPal’s dollar-backed stablecoin,\nPYUSD\n$1.0005\n, without taking enforcement action, ending a regulatory chapter that began more than a year ago, the company said.\n\n\"In November 2023, we received a subpoena from the U.S. SEC Division of Enforcement relating to PayPal USD stablecoin. The subpoena requested the production of documents. In February 2025, the SEC communicated it was closing this inquiry without enforcement action,\" PayPal disclosed this week in a filing.\n\nWednesday's filing marks the latest SEC move to drop investigations and lawsuits against crypto companies. The regulator has informed more than a dozen firms that it would drop investigations and cases.\n\nRead more: PayPal Faces SEC Subpoena Over Its PYUSD Stablecoin\n\nStablecoins — digital tokens pegged to fiat currencies like the U.S. dollar — have become a focal point in the debate over how crypto should be regulated. Regulators have questioned whether these instruments resemble securities or money market funds, which could draw in issuers such as Circle and Tether to greater scrutiny. PayPal's involvement attracted added attention due to its size, brand recognition and reach across traditional and digital finance.\n\nFor PayPal, the resolution of the SEC's probe removes a key regulatory overhang as it continues to push deeper into blockchain-based payments. The company launched PYUSD on Ethereum in August 2023 as a dollar-pegged stablecoin backed by short-term U.S. Treasury bills and dollar deposits, designed for use in peer-to-peer payments, commerce and decentralized applications.\n\nThe news also comes at a time when stablecoins are becoming the hottest trend among crypto and TradFi firms. Companies such as Ripple, Mastercard, Visa, Dutch bank ING and Stripe are all joining the stablecoin industry. Ripple even reportedly offered $4 billion or $5 billion to buy stablecoin issuer Circle. Meanwhile, venture firm Andreessen Horowitz (a16z) said that stablecoins are in a \"WhatsApp Moment\" for money transfers, with the potential to disrupt the payments industry like instant messaging did for cross-border phone calls and texts.\n\nAmid intensifying competition, PayPal recently said it’s set to begin offering U.S. users a 3.7% yield on balances of its PYUSD to up the ante in the stablecoin wars. The payment giant's stablecoin has a market cap of $887 million, putting it in sixth place among stablecoin issuers, according to CoinMarketCap data.\n\nRead more: Stablecoin Market Could Grow to $2T by End-2028: Standard Chartered\n\nDisclaimer: This article was generated with AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy. This article may include information from external sources, which are listed below when applicable.",
+    "url": "https://www.coindesk.com/business/2025/05/01/sec-ditches-paypal-usd-probe-helping-its-stablecoin-offering-grow-further",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "PayPal",
+                "Circle",
+                "Tether",
+                "Ripple",
+                "Mastercard",
+                "Visa",
+                "ING",
+                "Stripe",
+                "Andreessen Horowitz",
+                "CoinMarketCap",
+                "Standard Chartered"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "PYUSD",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC closing its investigation without enforcement action removes regulatory uncertainty for PayPal's stablecoin and comes amid growing institutional adoption of stablecoins across major financial companies."
+    }
+}

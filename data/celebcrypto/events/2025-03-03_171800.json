@@ -1,0 +1,38 @@
+{
+    "title": "Crypto ETPs See Record $2.9B Outflow With Bitcoin Leading Three-Week Streak: CoinShares",
+    "time": "2025-03-03T17:18:00",
+    "author": "Helene Braun",
+    "summary": "Investor withdrawals hit $3.8B over three weeks amid Bybit hack, Fed uncertainty, and profit-taking from 19-week inflow streak.",
+    "content": "Crypto exchange-traded products (ETPs) suffered their largest weekly sell-off on record, with investors pulling approximately $2.9 billion from these funds, according to a report by CoinShares published on Monday.\n\nThe massive outflows mark a significant shift in sentiment after a prolonged period of steady investment into digital asset products.\n\nThis latest wave of withdrawals extended a three-week streak of outflows, now totaling $3.8 billion. CoinShares research analyst James Butterfill pointed to several factors likely driving the sell-off, including mounting investor concerns following the recent $1.5 billion hack on crypto exchange Bybit and the Federal Reserve’s increasingly hawkish stance on monetary policy.\n\nBefore this downturn, crypto investment products had enjoyed 19 consecutive weeks of inflows, suggesting that some investors were locking in profits amid growing market uncertainty.\n\nBitcoin\nBTC\n$104,608.94\n, the largest cryptocurrency by market capitalization, bore the brunt of the outflows, losing $2.6 billion over the past week. Meanwhile, funds that bet against bitcoin, known as short Bitcoin ETPs, saw only a modest inflow of $2.3 million, indicating that bearish sentiment has yet to fully take hold.\n\nWhile most assets struggled, a few bucked the trend—\nSUI\n$2.0462\nemerged as the top performer with $15.5 million in inflows, followed by\nXRP\n$2.2784\n, which also attracted fresh investment.\n\nSpot Bitcoin ETFs faced one of their toughest weeks yet, with investors pulling significant capital from these funds. BlackRock’s iShares Bitcoin Trust (IBIT), the largest of its kind, recorded a staggering $1.3 billion in outflows, according to CoinShares, the highest weekly withdrawal since its launch.\n\nSimilarly, CME Bitcoin futures open interest dropped sharply over the past two weeks, falling from 170,000 BTC to 140,000 BTC, signaling a potential shift in institutional positioning. At the same time, the three-month futures annualized rolling basis is yielding 7%, only slightly higher than the 4% yield offered by short-term U.S. Treasuries, making the trade less attractive for investors.\n\n\"This tells me the hedge funds are starting to unwind their basis trade position, which is a net neutral position,\" said James Van Straten, analyst at CoinDesk. \"With a narrowing spread between futures yields and risk-free returns, traders may be reallocating capital away from bitcoin derivatives in favor of safer, more liquid assets.\"\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/crypto-etps-see-record-usd2-9b-sell-off-as-bitcoin-leads-three-week-outflow-streak-coinshares",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Butterfill",
+                "James Van Straten"
+            ],
+            "positions": [
+                "research analyst",
+                "analyst"
+            ],
+            "companies": [
+                "CoinShares",
+                "Bybit",
+                "BlackRock",
+                "CME"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "SUI",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes record outflows from crypto ETPs totaling $2.9 billion, a three-week streak of withdrawals, significant Bitcoin outflows, and institutional unwinding of positions due to negative factors like the Bybit hack and Fed uncertainty."
+    }
+}

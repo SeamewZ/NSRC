@@ -1,0 +1,31 @@
+{
+    "title": "OpenAI’s $40B Raise Calms Market Jitters, Sends CoreWeave and AI Tokens Higher",
+    "time": "2025-04-01T19:48:00",
+    "author": "Helene Braun",
+    "summary": "AI tokens, including NEAR, ICP, TAO and RENDER rose on Tuesday after OpenAI announced the closing of its record-breaking private funding round the day prior.",
+    "content": "CoreWeave (CRWV) shares rose more than 38% on their third day of trading debut after raising nearly $1.5 billion from its IPO following OpenAi's announcement of a record-breaking $40 billion funding round on Monday.\n\nThe artificial intelligence (AI) startup went public on the Nasdaq exchange on Friday afternoon. The stock dropped below its IPO price to $39 and ended the day flat at $40 before dropping another 10% on Monday, its first full day of trading. CoreWeave’s IPO came at a time of strong anxiety and uncertainty in global markets, diminishing investor appetite and risk tolerance.\n\nHowever, investor sentiment towards AI-related stocks seemed to have changed on Tuesday after AI powerhouse OpenAI announced on Monday that it had closed a $40 billion funding round, valuing the company at $300 billion. The move appears to have assured investors that there continues to be a strong appetite for AI companies, even in the current rough market.\n\nThis positive outlook has also spread to digital assets, as AI-related tokens were boosted on Tuesday. AI tokens, including Near Protocol\nNEAR\n$1.8865\n,\nICP\n$5.1454\n,\nTAO\n$418.44\nand Render (RENDER), were all up over 3% on Tuesday, with RENDER leading the group, trading 7.4% higher. The broader digital assets market, CoinDesk20 Index, also rose 3%.\n\nMeanwhile, the shares of Core Scientific (CORZ), the bitcoin miner and data center with a large partnership with CoreWeave, have also risen more than 9% on Tuesday.",
+    "url": "https://www.coindesk.com/markets/2025/04/01/coreweave-rises-20-amid-openai-s-record-breaking-funding-round",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "OpenAI",
+                "CoreWeave",
+                "Core Scientific"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "ICP",
+            "TAO",
+            "RENDER",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes AI tokens rising over 3% and the broader digital assets market rising 3% following OpenAI's funding announcement, indicating positive market impact."
+    }
+}

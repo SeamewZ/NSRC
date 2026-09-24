@@ -1,0 +1,30 @@
+{
+    "title": "These Six Charts Explain Why Bitcoin's Recent Move to Over $100K May Be More Durable Than January's Run",
+    "summary": "Financial conditions, stablecoin flows and other key metrics point to stronger foundation compared to the December-January twin peaks.",
+    "time": "2025-05-21T09:38:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,738.46\nis trading above $100,000 again, and investors, prone to recency bias, may be quick to assume that this event will play out like it did in December-January, when the bull momentum faded, with prices quickly falling back into six figures, eventually dropping as low as $75,000.\n\nHowever, according to the following six charts, the bitcoin market now appears sturdier than in December-January, suggesting a higher probability of a continued move higher.\n\nFinancial conditions refer to various economic variables, including interest rates, inflation, credit availability, and market liquidity. These are influenced by the benchmark government bond yield, the U.S. 10-year Treasury yield, the dollar exchange rate and other factors.\n\nTighter financial conditions disincentivize risk-taking in financial markets and the economy, while easier conditions have the opposite effect.\n\nAs of writing, financial conditions, represented by the 10-year yield and the dollar index, appear much easier than in January, favoring a sustained move higher in BTC.\n\nAt press time, the dollar index, which measures the greenback's value against major currencies, stood at 99.60, down 9% from highs above 109.00 in January. The yield on the U.S. 10-year Treasury note stood at 4.52%, down 30 basis points from the high of 4.8% in January.\n\nThe 30-year yield has risen above 5%, revisiting levels seen in January, but is largely seen as positive for bitcoin and gold.\n\nThe combined market capitalization of the top two USD-pegged stablecoins, USDT and USDC, has reached a record high of $151 billion. That's nearly 9% higher than the average $139 billion in December-January, according to data source TradingView.\n\nIn other words, a greater amount of dry powder is now available for potential investments in bitcoin and other cryptocurrencies.\n\nBTC's run higher from early April lows near $75,000 is characterized by institutions predominantly taking bullish directional bets rather than arbitrage bets.\n\nThat's evident by the booming inflows into the U.S.-listed spot bitcoin exchange-traded funds (ETFs) and the still subdued open interest in the CME BTC futures.\n\nAccording to data source Velo, the notional open interest in the CME bitcoin futures has jumped to $17 billion, the highest since Feb. 20. Still, it remains well below the December high of $22.79 billion.\n\nOn the contrary, the cumulative inflows into the 11 spot ETFs now stand at a record $42.7 billion versus $39.8 billion in January, according to data source Farside Investors.\n\nHistorically, interim and major bitcoin tops, including the December-January one, have been characterized by speculative fervour in the broader market, leading to a sharp rise in market valuations for non-serious tokens such as DOGE and SHIB.\n\nThere are no such signs now, with the combined market cap of DOGE and SHIB well below their January highs.\n\nThe bitcoin perpetual futures market shows demand for bullish leveraged bets, understandably so, considering BTC is trading near record highs.\n\nHowever, the overall positioning remains light, with no signs of excess leverage build-up or bullish overheating, as evidenced by funding rates hovering well below highs seen in December.\n\nThe chart shows funding rates, which refer to the cost of holding perpetual futures bets. The positive figure indicates a bias for longs and willingness among the bulls to pay shorts to keep their positions open. It's a sign of bullish market sentiment.\n\nThe bitcoin market appears much calmer this time, with Deribit's DVOL index, measuring the 30-day expected or implied volatility, significantly lower than levels observed in December-January and March 2024 price tops.\n\nThe low IV suggests traders are not pricing in the extreme price swings or uncertainty that typically exists in an overheated market, indicating a more measured and potentially more sustainable uptrend.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/these-six-charts-explain-why-bitcoin-s-recent-move-to-over-usd100k-may-be-more-durable-than-january-s-run",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "TradingView",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "CME",
+                "Deribit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "DOGE",
+            "SHIB"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article presents multiple positive indicators including easier financial conditions, record stablecoin market cap, strong ETF inflows, and lack of speculative excess that suggest a more sustainable uptrend compared to previous peaks."
+    }
+}

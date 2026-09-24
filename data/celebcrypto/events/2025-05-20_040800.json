@@ -1,0 +1,36 @@
+{
+    "title": "XRP Futures Rack Up $1.5M Trading Volumes on CME Debut",
+    "summary": "Early reporting data from CME showed a volume of 4 for standard contracts and 106 for micro contracts.",
+    "time": "2025-05-20T04:08:00",
+    "author": "Shaurya Malwa",
+    "content": "XRP futures contracts began trading on CME Group’s derivatives platform on May 19, recording at least $1.5 million in trading volume during the first session, a modest but notable debut for the major token.\n\nCME data shows 4 standard contracts (each representing 50,000 XRP) traded on day one, totaling around $480,000 in notional volume at an average price of $2.40. The majority of activity came from 106 micro contracts (2,500 XRP each), accounting for over $1 million in additional volume.\n\nThe contracts are cash-settled and benchmarked to the CME CF XRP-Dollar Reference Rate, which is published daily at 4:00 P.M. London time. CME’s dual contract structure is designed to attract both institutional players and smaller participants, offering flexibility for various hedging and trading strategies.\n\n\"The launch of regulated XRP Futures on @CMEGroup marks a key institutional milestone for XRP,\" Ripple CEO Brad Garlinghouse posted on X on Monday. He added that Hidden Road executed the first block trade.\n\nThe listing follows the CFTC’s classification of XRP as a commodity, a regulatory green light that cleared the path for CME to offer these products.\n\nAnalysts say the debut could also strengthen the case for a spot XRP ETF, with ETF Store president Nate Geraci saying such a product is “only a matter of time.”\n\nWhile early volumes may appear modest, XRP’s inclusion on CME widens market dynamics for the major token in terms of price discovery, similar to how price-action on BTC and ETH futures is impacted when the U.S. market opens.",
+    "url": "https://www.coindesk.com/markets/2025/05/20/xrp-futures-rack-up-15m-trading-volumes-on-cme-debut",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Brad Garlinghouse",
+                "Nate Geraci"
+            ],
+            "positions": [
+                "CEO",
+                "president"
+            ],
+            "companies": [
+                "CME Group",
+                "Hidden Road",
+                "ETF Store",
+                "Ripple"
+            ],
+            "organizations": [
+                "CFTC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "BTC",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes XRP futures debut on CME as a 'key institutional milestone' that could strengthen the case for a spot XRP ETF and widens market dynamics for price discovery."
+    }
+}

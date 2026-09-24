@@ -1,0 +1,30 @@
+{
+    "title": "Ether Favored Over Bitcoin by Big Money, Here Are 3 Clues That Point to ETH Bias in Crypto Market",
+    "summary": "Key indicators suggests traders are becoming more bullish on ether relative to bitcoin.",
+    "time": "2025-05-28T11:47:00",
+    "author": "Omkar Godbole",
+    "content": "The futures and options market, a proxy for big money, is increasingly backing ether\nETH\n$3,331.23\nover bitcoin\nBTC\n$101,860.90\nin a major market shift.\n\nBitcoin, the leading cryptocurrency by market capitalization, recently reached record highs of over $ 110,000. According to CoinDesk data, the cryptocurrency has gained over 16% this year, drawing strength from the macroeconomic factors and persistent inflows into the spot bitcoin exchange-traded funds.\n\nMeanwhile, ether has dropped 20% this year despite its parent blockchain, Ethereum, maintaining its pole position in the decentralized finance (DeFi) and tokenization markets.\n\nThe performance gap, however, may be closed in the near term as the following indicator shows a growing bullish bias for ether.\n\nOptions listed on Deribit show a stronger bullish positioning for ether relative to bitcoin.\n\nOptions are derivative contracts that give the purchaser the right but not the obligation to buy the underlying asset at a predetermined price on or before a specific date. A call option gives the right to buy and represents a bullish bet on the market, while a put option provides protection against price drops.\n\nAs of writing, both BTC and ETH's 25-delta risk reversals, a measure of sentiment derived by examining the difference in implied volatility (demand) between calls and puts, were positive, reflecting a bias towards call options.\n\nHowever, ETH risk reversals were more expensive than BTC. In other words, traders were relatively more bullish on ether compared to bitcoin.\n\nThe notional open interest in CME bitcoin futures, which represents the dollar value of the number of active contracts, has risen by roughly 70% to over $17 billion since the early April crash, according to data source Velo.\n\nThe growth, however, has stalled above $17 billion over the past seven days. The CME is considered a proxy for institutional activity.\n\nMeanwhile, ether's open interest has jumped 186% to $3.15 billion since the early April crash. The growth has accelerated over the past two weeks.\n\nThe diverging trends show institutions are increasingly leaning toward ether.\n\nThe bias for ETH is also evident from the relative richness of premiums in ether futures.\n\nAs of the time of writing, one-month Ether futures boasted an annualized premium of 10.5%, the highest since January, according to Velo. Meanwhile, bitcoin futures premium was 8.74%.\n\nElevated premiums indicate optimism and strong buying interest, often signaling a bullish trend. Therefore, the relative richness of ether futures premium suggests traders are more bullish on ETH compared to BTC. After all, ether is still 84% short of record highs reached during the 2021 bull run.\n\nThere is also a possibility that the BTC's basis may have been held lower by cash and carry arbitrage (non-directional) traders.\n\nA similar divergence is observed on offshore exchanges, where annualized funding rates, representing the cost of holding long positions in ETH perpetual futures, has neared the 8% mark. Meanwhile, BTC's funding rates hold below 5%.",
+    "url": "https://www.coindesk.com/markets/2025/05/28/ether-favored-over-bitcoin-by-big-money-here-are-3-clues-that-point-to-eth-bias-in-crypto-market",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk",
+                "Deribit",
+                "CME",
+                "Velo"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple indicators showing institutional traders are becoming more bullish on ether relative to bitcoin, including positive risk reversals, growing open interest, and elevated futures premiums."
+    }
+}

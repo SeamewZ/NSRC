@@ -1,0 +1,24 @@
+{
+    "title": "Google Adds Blockchain Tech to Wallet to Let Users Prove Age Without Sharing Data",
+    "summary": "The new cryptographic system lets users prove they’re old enough to use restricted applications without giving more information than required.",
+    "time": "2025-05-02T11:20:00",
+    "author": "Shaurya Malwa",
+    "content": "Google is rolling out a privacy-focused upgrade to its Wallet service that uses zero-knowledge proof (ZKP) technology for age verification, per a release.\n\nThe company said that the dating app Bumble, among others, will be one of the first partners to use this system. Bumble will use digital IDs issued through Google Wallet for user verification, while ZKPs will handle age confirmation.\n\nThe move allows users to prove they’re old enough to access certain apps or websites without revealing their birthdates or personal identifying data. ZKP is one of the biggest use cases for blockchains apart from real-world assets and payments, though it has yet to find popularity outside of niche circles.\n\nGoogle said the system was developed in response to the growing number of services requiring age checks, from dating platforms to e-commerce and social media. “We wanted to develop a system that not only verifies age, but does it in a way that protects your privacy,” it said.\n\nThe ZKP cryptographic method lets someone prove a fact (like being over 18) without revealing how they know it or any more information.\n\nTraditional ID-based age verification methods, in contrast, often require revealing government-issued documents or date of birth, creating privacy and data security risks.\n\nThis is done using a complex blockchain-based system that runs a condition (such as age) in an encrypted form, generating a proof, and letting an outside system verify it using public keys, ensuring privacy without exposing the underlying information.\n\nThe implementation is now live in Google Wallet and works across mobile devices and apps using Google’s Digital Credential API, which means it can be embedded into third-party sites and platforms.\n\nZK-based tokens are up 1.7% on average in the past 24 hours, CoinGecko sector data shows. The sector could be one to keep an eye on as giants like Google adopt ZKP technology - bringing demand to the privacy-first sector that has generally fallen out of investor interest in past years.",
+    "url": "https://www.coindesk.com/markets/2025/05/02/google-adds-zero-knowledge-proofs-to-wallet-for-age-verification",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Google",
+                "Bumble"
+            ],
+            "organizations": [
+                "CoinGecko"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states that ZK-based tokens are up 1.7% and the sector could see increased demand as major companies like Google adopt zero-knowledge proof technology."
+    }
+}

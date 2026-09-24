@@ -1,0 +1,29 @@
+{
+    "title": "BlackRock's Bitcoin ETF Registers Highest Trading Volume in 3 Months",
+    "time": "2025-03-05T07:04:00",
+    "author": "Omkar Godbole",
+    "summary": "The ETF saw over $1 billion in outflows last week alongside a surge in trading volumes.",
+    "content": "Last week, prices for BlackRock's spot bitcoin\nBTC\n$103,874.74\nexchange-traded fund (ETF) declined over 11%, with volumes reaching the highest since mid-November, according to data source TradingView.\n\nOver 331 million shares of the ETF, which trades under the IBIT ticker on Nasdaq, changed hands as the fund's price dipped below the January support of $50.69, eventually sliding to $46.07, the lowest since early November.\n\nThat might be a disappointment development for the bulls. For decades, one of the cardinal rules in the market has been that price movements must be validated by trading volume. It means that a bearish price action is considered to have legs when accompanied by a notable increase in the number of shares or contracts traded on the exchange.\n\nAdditionally, data from Farside Investors show investors pulled out more than $1 billion from the ETF as the price slide and the dwindling CME futures basis, representing the return on carry trades, led to panic selling. Other ten U.S.-listed ETFs bled money as well.\n\nStill, IBIT remains the largest ETF in the world, with $39.6 billion in assets under management.\n\nTrading volume picked up last Tuesday as IBIT broke below the horizontal support at $50.69 to signal more losses ahead.\n\nThe technical outlook remains bearish while prices hold below the former support-turned-resistance.",
+    "url": "https://www.coindesk.com/markets/2025/03/05/blackrock-s-bitcoin-etf-registers-highest-trading-volume-in-3-months",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Nasdaq",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "TradingView",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes an 11% price decline, $1 billion in outflows, panic selling, and a bearish technical outlook for BlackRock's Bitcoin ETF."
+    }
+}

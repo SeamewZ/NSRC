@@ -1,0 +1,32 @@
+{
+    "title": "Robinhood Developing Blockchain-Based Program To Trade U.S. Securities in Europe: Bloomberg",
+    "time": "2025-05-07T19:49:00",
+    "author": "Helene Braun",
+    "summary": "The brokerage firm is reportedly considering Arbitrum, Ethereum and Solana for the new platform.",
+    "content": "Robinhood is developing a blockchain-based program to allow traders in Europe access to U.S. financial assets, two people familiar with the matter told Bloomberg.\n\nThree blockchains, including\nARB\n$0.2837\n, Ethereum\nETH\n$3,628.09\nand Solana\nSOL\n$165.40\nare reportedly being considered for the new platform which will be in partnership with a digital asset firm, according to the report.\n\nTokenized assets have become a dominant area for traditional financial firms to push further into crypto. Several companies have launched tokenized funds in the past, with some analysts forecasting the market to grow to $23.4 trillion by 2033.\n\nTokenization refers to the process of creating a digital token for a traditional asset on the blockchain boosting data security and allowing faster transaction settlement and increased liquidity, among other things.\n\nIn January, Robinhood CEO Vlad Tenev criticized current U.S. regulations which have yet to provide a clear framework and rules for registering security tokens — for blocking what could be a major financial shift that could open up private-market investments to everyday investors through tokenization.",
+    "url": "https://www.coindesk.com/business/2025/05/07/robinhood-developing-blockchain-based-program-to-trade-u-s-securities-in-europe-bloomberg",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vlad Tenev"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Robinhood",
+                "Bloomberg"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "ARB",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Robinhood developing a blockchain-based platform for trading U.S. securities in Europe using major cryptocurrencies, which represents institutional adoption and market expansion."
+    }
+}

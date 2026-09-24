@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin's Bull Run Could be Tested if BTC Falls Below $91K: Van Straten",
+    "time": "2025-01-27T11:22:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin has had two 15% corrections since Donald Trump won the U.S. election.",
+    "content": "Bitcoin\nBTC\n$104,055.88\nfell just below $98,000, a near 10% drawdown from all time highs, with investors questioning the continuation of the bull run.\n\nThe fall was attributed to the concerns about China's DeepSeek Artificial Intelligence hyper-efficient model competing with the U.S. industry at a fraction of the cost.\n\nSince President Trump won the U.S. election, bitcoin has jumped from $66,000 to new all-time highs of $109,000. During the rally BTC corrected as much as 15% twice, in addition to multiple double-digit drawdowns. Therefore, bitcoin's 10% drop seems in line with previous drawdowns.\n\nA reliable indicator of support during a bull market is the short-term holder cost basis, which is the average on-chain cost for coins that have moved within the last 155 days. This level is around $91,000 at the moment, which means if BTC falls below that point it could put a strain on the bull run.\n\nBut bearish sentiment is already starting to heat up, as funding rates for bitcoin have started to go negative. Also Arthur Hayes, co-founder of Bitmex, is calling for a correction between $70,000-$75,000, before seeing $250,000. CoinDesk's Omkar Godbole also reported that bitcoin may drop to $75,000 should it trigger a so-called 'double top' bearish reversal pattern.\n\nThe drawdown hasn't been contained to just crypto; U.S. markets are selling off, with Nasdaq futures down as much as 4%.",
+    "url": "https://www.coindesk.com/markets/2025/01/27/bitcoin-s-bull-run-could-be-tested-if-btc-falls-below-usd91k-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Arthur Hayes",
+                "Omkar Godbole"
+            ],
+            "positions": [
+                "President",
+                "co-founder"
+            ],
+            "companies": [
+                "Bitmex",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "China's DeepSeek Artificial Intelligence",
+                "U.S. industry"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin falling below $98,000 with concerns about AI competition, negative funding rates, and multiple analysts predicting further corrections to $70,000-$75,000."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Bybit Loses $1.5B in Hack but Can Cover Loss, CEO Confirms",
+    "time": "2025-02-21T15:34:00",
+    "author": "Oliver Knight",
+    "summary": "A portion of staked ether is currently being liquidated on decentralized exchanges.",
+    "content": "Cryptocurrency exchange Bybit has experienced $1.46 billion worth of \"suspicious outflows,\" according to blockchain sleuth ZachXBT.\n\nThe wallet in question appears to have sent 401,346 ETH ($1.1 billion) as well as several other iterations of staked ether (stETH) to a fresh wallet, which is now liquidating mETH and stETH on decentralized exchanges, etherscan shows. The wallet has sold around $200 million worth of stETH so far.\n\nBybit CEO Ben Zhou wrote on X that a hacker \"took control of the specific ETH cold wallet and transferred all the ETH in the cold wallet to this unidentified address.\"\n\n\"Please rest assured that all other cold wallets are secure. All withdrawals are normal,\" he added.\n\n\"My sources confirm it's a security incident,\" ZachXBT added on Telegram.\n\n$1.46 billion would equate to the largest cryptocurrency hack of all time in dollar terms, with $470 million being lost in the Mt Gox Hack, $530 million in the 2018 hack of CoinCheck, and $650 million in the Ronin Bridge exploit.\n\nBTC and ETH dropped more than 1.5% and 2%, respectively, following the transfers.\n\nUPDATE (15:44 UTC, Feb. 21): Adds quote from Bybit CEO and details of historical crypto hacks.",
+    "url": "https://www.coindesk.com/business/2025/02/21/bybit-experiences-usd1-46b-in-suspicious-outflows-zachxbt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT",
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit",
+                "CoinCheck"
+            ],
+            "organizations": [
+                "Mt Gox",
+                "Ronin Bridge"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "stETH",
+            "mETH",
+            "BTC",
+            "Ethereum",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a $1.46 billion hack causing BTC and ETH to drop more than 1.5% and 2% respectively, indicating negative market impact."
+    }
+}

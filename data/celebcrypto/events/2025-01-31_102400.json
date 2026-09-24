@@ -1,0 +1,32 @@
+{
+    "title": "Stablecoin Market Surges Past $200B, Signaling Potential Crypto Price Upswing",
+    "time": "2025-01-31T10:24:00",
+    "author": "James Van Straten",
+    "summary": "The stablecoin market has grown by almost $40 billion since President Trump won the U.S. election.",
+    "content": "The market capitalization of stablecoins just pierced $200 billion, reaching a record height in a sign the crypto market may be poised for further growth, according to CryptoQuant.\n\nStablecoins are digital tokens whose value is tied another asset, typically the U.S. dollar, to provide, as the name suggests, a stable price. They are used by traders to maintain the value of their investments as the switch between assets.\n\nAccording to CryptoQuant data, the stablecoin market has grown by $37 billion since early November, when President Donald Trump won the U.S. election.\n\n\"The next leg up for bitcoin and crypto prices could be around the corner as stablecoin’s liquidity impulse starts to expand again,\" CryptoQuant wrote in a report.\n\nTether's USDT remains the dominant stablecoin leader, with $139 billion in market cap, having grown 15% since November. Circle's USDC is next, with $52.5 billion having grown 48% over the same period, according to CryptoQuant data.\n\nUSDT's liquidity change on a 30-day basis is now slightly positive after contracting 2% at the start of the year. Meanwhile, USDC's liquidity change on a 30-day basis is up 20%, the fastest pace in a year.\n\nBitcoin (BTC), in comparison, has climbed over 50%, and the total crypto market is now $3.5 trillion from $2.2 trillion, according to TradingView metric, Total.",
+    "url": "https://www.coindesk.com/markets/2025/01/31/stablecoin-market-surges-past-usd200b-signaling-potential-crypto-price-upswing",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Tether",
+                "Circle"
+            ],
+            "organizations": [
+                "CryptoQuant",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news states stablecoin growth signals potential crypto price upswing and that 'the next leg up for bitcoin and crypto prices could be around the corner'."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Solana DEX Volume Tops $60M as It Looks to Extend 4-Month Winning Streak Over Ethereum",
+    "time": "2025-02-11T10:08:00",
+    "author": "Omkar Godbole",
+    "summary": "Solana's leadership in DEX volume and revenue supports the bull case in the SOL-ETH ratio.",
+    "content": "Solana is on track to extend its four-month run over Ethereum and other smart-contract blockchains in decentralized-exchange (DEX) volume even as the rangebound crypto market struggles to capture trader enthusiasm.\n\nSolana-based DEXs have posted total trading volume of just over $60 million this month, nearly double the $34 million on Ethereum, the biggest smart-contract blockchain, according to data source DeFiLlama.\n\n\"Solana’s lower fees and higher throughput continue to attract developers and users, highlighting its growing role in decentralized finance,\" Tagus Capital said.\n\nSolana has held its pole position since October. Notably, in January, Solana-based DEXs achieved trading volume of $258 billion with Ethereum trailing at just $86 billion.\n\nSolana's dominance, powered by frenzied memecoin trading, is not limited to transaction volume. Despite its reputation as a low-cost blockchain, Solana has generated $25 million in revenue so far this month compared with Ethereum's $16 million. In January, Solana earned $124 million, Ethereum $109 million.\n\nThe performance supports the bullish case in the SOL-ETH ratio, which peaked near 0.09 in January and has since pulled back to 0.075, data from charting platform TradingView show.\n\nStill, Tagus Capital noted that Solana’s total value locked (TVL) at $9 billion remains much lower than Ethereum's $57 billion.",
+    "url": "https://www.coindesk.com/markets/2025/02/11/solana-dex-volume-tops-usd60m-as-it-looks-to-extend-4-month-winning-streak-over-ethereum",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tagus Capital"
+            ],
+            "organizations": [
+                "DeFiLlama",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Solana's dominance over Ethereum in DEX volume and revenue, supporting the bullish case for the SOL-ETH ratio."
+    }
+}

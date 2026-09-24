@@ -1,0 +1,34 @@
+{
+    "title": "Mesh Adds Apple Pay to Let Shoppers Spend Crypto, Settle in Stablecoins",
+    "time": "2025-05-01T06:55:00",
+    "author": "Krisztian Sandor",
+    "summary": "The feature aims to close the \"last-mile\" gap that has stalled mass crypto adoption in payments, co-founder and CEO Bam Azizi said.",
+    "content": "Crypto payments startup Mesh is planning to roll out Apple Pay support for crypto transactions, allowing shoppers to pay with digital assets while settling transactions in stablecoins for merchants.\n\nThe feature, unveiled during Token2049 in Dubai, converts crypto to stablecoins at checkout using Mesh’s proprietary SmartFunding technology. The system sidesteps the need for merchants to handle crypto directly, offering what Mesh calls a “plug-and-play” payment option through Apple Pay’s interface.\n\nThis way, brick-and-mortar retailers and webshops can accept crypto payments without the need for building out the necessary infrastructure. Mesh plans to launch the feature later in the second quarter of the year.\n\n“We believe that as soon as crypto payments are as seamless as fiat payments, nothing is left to stop the mass migration of global commerce onto blockchain rails,” said Bam Azizi, CEO and co-founder of Mesh.\n\nBlockchain rails and stablecoins, which are crypto tokens pegged to the value of traditional currencies, have become increasingly central to payments. They offer faster, cheaper alternative to traditional channels, and are rapidly growing for remittances, payroll and commerce. Payments giant Stripe is testing a stablecoin tool following its acquisition of Bridge, while PayPal launched its own stablecoin.\n\nMesh raised $82 million earlier this year to expand its stablecoin-based payments settlement network globally.",
+    "url": "https://www.coindesk.com/business/2025/04/30/mesh-adds-apple-pay-to-let-shoppers-spend-crypto-settle-in-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bam Azizi"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "CEO and co-founder"
+            ],
+            "companies": [
+                "Mesh",
+                "Apple Pay",
+                "Stripe",
+                "PayPal"
+            ],
+            "organizations": [
+                "Token2049",
+                "Bridge"
+            ]
+        },
+        "cryptocurrencies": [
+            "stablecoins"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major advancement in crypto payment adoption that makes spending cryptocurrency as seamless as fiat payments, which is expected to drive mass migration of global commerce onto blockchain rails."
+    }
+}

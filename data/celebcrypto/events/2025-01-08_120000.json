@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Daybook Americas: Inflation Worry Crushes Bitcoin Bulls Ahead of FOMC",
+    "time": "2025-01-08T12:00:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Jan. 8, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nJust a day ago, I highlighted that the bias for protective puts in the S&P 500 options market are painting a cautious picture for risk assets. Fast forward to today, the tide has turned and risk assets, including BTC, are on the defensive.\n\nThe change in sentiment is more noticeable in the altcoin sector, where ETH, ADA and DeFi coins have taken a bigger hit than BTC's 5% loss in 24 hours. Expectations for the \"alt season\" were riding high following altcoin leader ether's impressive relative to bitcoin since Dec. 20.\n\nThat excitement is fading fast and here is where it gets interesting: The ETH/BTC forward term structure, calculated as the ratio between prices for ether futures and bitcoin futures over different maturities, has slipped into backwardation, according to data tracked by crypto financial platform BloFin.\n\nIt means that some of the sharpest minds in the derivatives market are anticipating that ETH and other altcoins will underperform in the coming months. So much for the much-anticipated altcoin dream.\n\nWhile the current degree of backwardation is better than what we saw before the election, it still leaves investors feeling uncertain. BloFin Academy put it best: \"it merely suggests that the situation may not get worse.\"\n\nSpeaking of interest rates, traders are now eyeing a less-than-50% probability of a Fed rate cut in March, which doesn’t offer much comfort. The next rate cut is not seen happening before June, the CME's FedWatch tool shows.\n\nThis is particularly bearish for ETH, often touted as an internet bond, offering a fixed-income like yield through staking rewards. It's no surprise that a major momentum study called the \"Guppy multiple moving average indicator\" is about to flip bearish for ETH. (check the TA section).\n\nAll of this is unfolding against the backdrop of renewed concerns about U.S. inflation, which is causing rates volatility to creep back into the picture. Data released on Wednesday showed that growth at U.S. services providers picked up in December, with prices jumping to the highest levels since 2023.\n\nWednesday's release of the minutes from the December meeting, which indicated fewer expected rate cuts, could add to the risk-off sentiment and support dollar strength. Additionally, we may see some reactions to the ADP payrolls report, although this data often doesn't align perfectly with the official payroll figures due on Friday.\n\nDon’t forget to mark your calendars. There’s also a scheduled speech by Fed's Chris Waller. It will be interesting to see if he echoes the concerns of his colleagues regarding the risk of rising inflation. Stay alert!\n\nBy Shaurya Malwa\n\nCrypto gaming projects are onboarding AI Agents amid the hype.\n\nIlluvium, an Ethereum-based gaming franchise, on Tuesday said it was integrating Virtuals Protocol's AI technology to enhance the in-game actions of non-playable characters (NPCs) across its three games: Overworld, Arena, and Zero.\n\nVirtuals, known for its popular AI agent AiXBT, employs the G.A.M.E framework to create more dynamic and interactive NPCs, improving questing, storytelling, and player-NPC relationships.\n\nThe relatively new “AI Agents” sector has become crypto’s hottest in the past few months, beating gains in bitcoin, memecoins and decentralized finance tokens in December.\n\nVirtuals Protocol is the largest AI Agent creation tool by market capitalization. It allows anyone to create and program their own AI agent and float a token attached to it in the open market.\n\nCrypto and blockchain-based games have long been considered possible growth sectors but have never really taken off in a feasible way. However, AI proponents believe the technology can create more dynamic, engaging games with smarter NPCs, improve player retention and even manage in-game assets or strategies to offer passive income to players and holders.\n\nCould that path lead to an increase in adoption and valuations of gaming tokens? The coming months will tell.\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors, as of Jan. 8.",
+    "url": "https://www.coindesk.com/daybook-us/2025/01/08/crypto-daybook-americas-inflation-worry-crushes-bitcoin-bulls-ahead-of-fomc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Shaurya Malwa",
+                "Chris Waller"
+            ],
+            "positions": [],
+            "companies": [
+                "BloFin",
+                "Illuvium",
+                "Virtuals Protocol"
+            ],
+            "organizations": [
+                "FOMC",
+                "Fed",
+                "CME",
+                "ADP"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "ETH",
+            "Ethereum",
+            "ADA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes risk assets including BTC being on the defensive with 5% losses, altcoins taking bigger hits, ETH/BTC forward structure in backwardation, and renewed inflation concerns reducing expectations for Fed rate cuts."
+    }
+}

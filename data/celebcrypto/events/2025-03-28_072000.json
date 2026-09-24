@@ -1,0 +1,44 @@
+{
+    "title": "Dogecoin, XRP Sink 7% as Trump Tariffs Threats Dent Markets; Bitcoin Options Expiry Looms",
+    "time": "2025-03-28T07:20:00",
+    "author": "Shaurya Malwa",
+    "summary": "Markets have been heavy since Thursday as President Donald Trump warned of deeper tariffs on Canada and the European Union in case the two collude and policies impact U.S. economic activity.",
+    "content": "DOGE\n$0.1623\n, ether\nETH\n$3,512.63\nand\nXRP\n$2.2533\nsank more than 5% in early Asian hours as traders took profits on a relief rally earlier in the week, with eyes on the U.S. personal consumption expenditure (PCE) figures scheduled for release later Friday.\n\nCrypto majors tracked by the broad-based CoinDesk 20 (CD20) showed a 4.5% slide on average, led by DOGE at 7%. Toncoin’s TON was the only token in the top-20 by market capitalization in the green with a 5% rise in the past 24 hours.\n\nGold surged to fresh highs Friday with a jump above $3,109 in Asian morning hours, continuing a stellar rise since early March. The MSCI World Index had its longest losing streak in a month, per Bloomberg, while a regional gauge of Asian equities was poised for its biggest drop since Feb. 28.\n\nOver $12.2 billion worth of bitcoin\nBTC\n$104,608.94\noptions will expire with max pain at $85,000 later Friday.\n\n“Spot is trading sideways and OI continues to bleed lower, signalling a broad lack of near-term optimism in the market,” traders at Singapore-based QCP Capital said in a Telegram broadcast. “With the PCE Index data due tomorrow, we believe any short-term upside remains capped as markets wait for clarity from Trump's next move in this escalating trade war.”\n\nThe PCE index captures inflation (or deflation) across a wide range of consumer expenses and reflects changes in consumer behavior.\n\nReleased monthly, the PCE is said to influence Fed interest rate decisions. High PCE readings signal rising inflation, potentially prompting rate hikes to cool the economy, which can reduce risk appetite and pressure bitcoin prices downward as investors favor safer assets.\n\nConversely, low PCE data suggests tame inflation, possibly leading to rate cuts or steady policy, boosting liquidity and supporting Bitcoin’s price as a speculative asset or inflation hedge.\n\nThe next release is on March 28 and could sway market sentiment, with bitcoin’s reaction tied to how the data shapes Fed expectations — volatility often follows as traders adjust positions.\n\nMarkets have been heavy since Thursday as President Donald Trump warned of deeper tariffs on Canada and the European Union in case the two collude and policies impact U.S. economic activity. In turn, Prime Minister Mark Carney of Canada said late Thursday the country would move rapidly to trade more with other countries as the U.S. was “no longer a reliable partner.”\n\n“The global market is highly sensitive to monetary policies set by major economies, particularly the United States,” Innokenty Isers, Chief Executive Officer at Paybis, told CoinDesk in a Telegram message. “﻿With its relatively higher volatility, risk-averse investors may favor alternative inflation hedges instead of Bitcoin.”\n\n“Considering the longer stretch of the trade war and the potential inflation that will emerge, capital allocation to BTC as a hedge against economic instability might be reduced,” Isers warned.",
+    "url": "https://www.coindesk.com/markets/2025/03/28/dogecoin-xrp-sink-7-as-tariffs-concerns-dent-markets-bitcoin-options-expiry-looms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Mark Carney",
+                "Innokenty Isers"
+            ],
+            "positions": [
+                "President",
+                "Prime Minister",
+                "Chief Executive Officer"
+            ],
+            "companies": [
+                "QCP Capital",
+                "Paybis"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Fed",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "XRP",
+            "ether",
+            "ETH",
+            "Toncoin",
+            "TON",
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrency prices sinking 5-7%, lack of near-term optimism, and reduced capital allocation to BTC due to trade war concerns and potential inflation."
+    }
+}

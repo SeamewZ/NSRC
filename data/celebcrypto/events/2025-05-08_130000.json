@@ -1,0 +1,40 @@
+{
+    "title": "Pump.fun Hits Back at Report That Claimed 98% of Memecoins on the Platform Are Fraudulent",
+    "time": "2025-05-08T13:00:00",
+    "author": "Oliver Knight",
+    "summary": "Seven millions tokens have been launched in pump.fun since its inception in 2024.",
+    "content": "A report by Solidus Labs has revealed the alarming scale of fraudulent activity on the Solana blockchain, with 98.6% of tokens launched on Pump.fun being chalked down as rug pulls or pump-and-dump schemes.\n\nMore than seven million tokens have been issued on Pump.fun since its inception in January 2024, with just 97,000 of those maintaining at least $1,000 in liquidity, the report added.\n\nA Pump.fun spokesperson Troy Gravitt contested the report's findings, stating that \"What Solidus Labs lacks is a basic understanding of memecoins.\"\n\n\"98% of memecoins - just like NFTs, tweets, IG posts, trading cards, and most art - are worth little in the long run. That’s precisely the point. What IS important is the availability of a functioning marketplace connecting motivated buyers and sellers AND the underlying cultural expression to which the market attributes or assigns value over time. That's where the magic happens and where we learn what’s truly valuable,\" Gravitt said.\n\nPump.fun is a token creation platform that lets users issue new crypto tokens on the Solana blockchain at a very low cost.\n\nThe largest rug pull Solidus Labs identified over the time period was worth $1.9 million and was related to MToken.\n\nWhilst the crypto industry has progressed and moved on following the spectacular implosion of FTX, hacks and scams are still rife with bad actors embezzling millions of dollars worth of assets by capitalizing on retail greed.\n\nThe memecoin sector is the greatest example of that, with 10s of thousands of bogus tokens being created every day. The hype around memecoin reached a crescendo in January when U.S. President Donald Trump touted his own TRUMP memecoin on social media. Shortly after the U.S. First Lady Melania Trump promoted MELANIA, both tokens are now down by 87% and 97% respectively, with a cabal of insiders reportedly profiting more than $100 million by buying the token before it was publicly available.\n\nMeanwhile, on decentralized exchange Raydium, Solidus Labs found that 93% of liquidity pools (361,000 pools) exhibited soft rug pull characteristics, with the median rug pulls worth $2.8K.\n\nIn February, a Merkle Science report revealed that $500 million had been lost to rug pulls and scams in 2024.\n\nSolana has emerged as a popular blockchain among criminals and scammers. Its near-zero fees and instant execution make it easy to deploy tokens and extract value.\n\nRegulators are keeping a watchful eye over the sector. In March, the SEC set up a Cyber and Emerging Technologies unit designed to “root out those seeking to misuse innovation to harm investors and diminish confidence in new technologies.”\n\nThe regulator filed a class action lawsuit against Meteora in April, naming individuals associated with the M3M3 meme coin, alleging that they were responsible for a $69 million rug pull.\n\nUPDATE (May 9, 16:47 UTC): Updates headline and third paragraph to reflect response from pump.fun spokesperson.",
+    "url": "https://www.coindesk.com/business/2025/05/07/98-of-tokens-on-pump-fun-have-been-rug-pulls-or-an-act-of-fraud-new-report-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Troy Gravitt",
+                "Donald Trump",
+                "Melania Trump"
+            ],
+            "positions": [
+                "spokesperson",
+                "U.S. President",
+                "U.S. First Lady"
+            ],
+            "companies": [
+                "Pump.fun",
+                "Solidus Labs",
+                "FTX",
+                "Merkle Science",
+                "Meteora"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "MToken",
+            "TRUMP",
+            "MELANIA",
+            "M3M3"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports widespread fraudulent activity with 98.6% of tokens on Pump.fun being rug pulls or pump-and-dump schemes, $500 million lost to scams in 2024, and regulatory crackdowns by the SEC."
+    }
+}

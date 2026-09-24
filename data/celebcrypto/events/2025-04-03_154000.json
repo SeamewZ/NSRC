@@ -1,0 +1,26 @@
+{
+    "title": "Crypto Ad-Tech Shop Builds 'Retargeting' Service to Reel in Likely Customers",
+    "summary": "Addressable is looking to bring Web2 marketing tactics to the Web3 economy.",
+    "time": "2025-04-03T15:40:00",
+    "author": "Danny Nelson",
+    "content": "Web2 marketers have long had tricks to track down and \"acquire\" (in ad speak) likely customers. But Web3? Not so much, says ad-tech exec Asaf Nadler.\n\nHis company Addressable, is out with a new service that Nadler, the chief operating officer, claims will improve the efficacy of Web3 marketing — from the perspective of salespeople, of course. It's all about \"retargeting\" the most valuable potential customers: people who very nearly pressed buy, trade, sell, swap, join, but didn't.\n\nFinding those folks in Web2 is straightforward given the troves of personal data scattered online. Crypto's trickier because wallets are pseudonymous. The company's database \"bridges the gap,\" he said, and lets companies target their most likely customers.\n\nSuch precision could be especially important if crypto's bear market deepens into a blowout that pushes new users away. Economic malaise increases what traditional marketers call the \"cost per acquisition\" and what Addressable terms the \"cost per wallet.\"\n\n\"Especially in a bear market people aren't as hyped about user acquisition,\" said Nadler, \"But what founders care about is letting the community know they still care and reactivate them.\"\n\nAddressable isn't building a doxxing service, says Nadler. While it might know on the backend that John Doe owns wallet abc123, it's not passing that information to the client, say, CoinDEX. Instead its product lets CoinDEX target John Doe with ads so that wallet abc123 becomes a paying customer.\n\nBuilding the inference is Addressable's specialty, he said. The company trawls social media posts for intel that it can cross-check with wallets. Perhaps wallet abc123 interacted with protocols that John Doe follows on X. Or it's made trades that John Doe discussed on Reddit. All these clues can be enough to reverse-engineer a targetable identity.\n\nThe resulting ad-tech playbook is less an only-in-crypto innovation than a recreation of online marketer's existing capabilities with special twists for the on-chain economy. Companies' Web3 funnels are already incredibly narrow, Nadler said, because potential customers are uniquely difficult to target.\n\n\"Rather than pay KOLs, or do very broad activities, what we allow is companies to target only the users that have engaged with you,\" he said. KOLs are key opinion leaders, social media influencers who promote projects to their followers.\n\nWhile Addressable has been around for three years, the retargeting service is new, Nadler said. He said he believes it will be a difference-maker for protocols seeking stickier customers.\n\n\"The most horrible thing that can happen to DeFi projects at the moment is if users stop believing in them,\" he said, pointing to targeted advertising as the solution.",
+    "url": "https://www.coindesk.com/tech/2025/04/03/crypto-ad-tech-shop-builds-retargeting-service-to-reel-in-likely-customers",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Asaf Nadler"
+            ],
+            "positions": [
+                "chief operating officer"
+            ],
+            "companies": [
+                "Addressable",
+                "CoinDEX"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a marketing technology service launch that aims to improve customer targeting in Web3, which is a neutral business development rather than a market-moving event affecting cryptocurrency prices."
+    }
+}

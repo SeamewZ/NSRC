@@ -1,0 +1,38 @@
+{
+    "title": "How Ether.fi's Mike Silagadze Retained TVL as Restaking Lost Its Luster",
+    "time": "2025-03-20T17:37:00",
+    "author": "Oliver Knight",
+    "summary": "Ether.fi, the market leader, has 2.6 million ETH staked on its platform and has plans to become a neobank.",
+    "content": "A year ago, restaking was one of the hottest areas of crypto, and projects like EigenLayer were heralded as the next big thing.\n\nFast forward to mid-2025 and total value locked (TVL) has fallen across the sector and the hype that surrounded point farms has withered away.\n\nThrough it all, Ether.fi, the market leader, has stayed steady, helping users generate yield through liquid staking tokens (LSTs) that can be staked across the decentralized finance (DeFi) ecosystem.\n\nNow, Ether.fi is looking to expand with plans to become a neobank for crypto companies and users.\n\nEther.fi, which is based in the Cayman Islands, benefited from being one of the first movers in the liquid restaking space, starting up a lucrative points farm which saw early users receive points that could eventually be transferred into a token airdrop.\n\nIn a 10 week period at the start of 2024, staked ETH grew from 45,000 ETH to 808,000 ETH. Now, there is 2.58 million staked ETH on Ether.fi while the next competitor, Renzo, has around 380,000 ETH.\n\nIn dollar terms, Ether.fi has around $5 billion worth of TVL. This number has slumped from December's high of $9.4 billion but only due to the dwindling price of ETH, as opposed to any significant outflows.\n\nEther.fi engages closely with its users in an effort to keep them onboard.\n\n\"We know probably half the TVL,\" Silagadze added. \"As in, we know who they are and we talk to them and have ongoing conversations.\"\n\nRenzo in contrast has seen more than 60% ETH withdrawn from the platform since last July, with TVL sliding from 1 million ETH to 378,000 ETH, according to DefiLlama.\n\nFor Silvagadze, the restaking product is a means to onboard users and capital, while the company's main ambition is to become a neobank to rival the likes of Revolut.\n\n\"Staking for us was really just a way of building TVL and getting a user base,\" Silagadze told CoinDesk. \"The ultimate goal is to create an integrated product suite that allows users to fully off ramp from their traditional banking institutions and operate on a crypto native platform.\"\n\nEther.fi rolled out a \"Cash\" Visa card on the Scroll network in September and Silagadze believes this will become the company's main revenue driver.\n\nNeobank has become quite the buzzword in crypto of late. Lending platform Nexo rebranded last year as a neobank and there was also the stealth launch of Dakota, a crypto app that will provide banking services to crypto depositors. EOS, which launched as a much-heralded smart contract platform in 2017, has also shifted focus to Web3 banking.\n\nFor Ether.fi, the plan is to incorporate three products into one soon-to-be released mobile app.\n\nThe app will comprise three integrated products: Ether.fi stake, which is the staking protocol; Ether.fi liquid, which is an automated DeFi strategy manager that generates the best available yield through the use of AI; and the Ether.fi cash wallet and credit card.\n\nStaking firms looking to serve the U.S. market have been put off by an absence of a clear regulatory framework.\n\nBut Ether.fi hopes the crypto-friendly Trump administration will smooth the way for it to offer services to U.S. citizens after it secures respective licenses.\n\n\"We are actually going to be turning on the U.S. for our staking product and the cash product relatively soon. We actually just got a legal opinion that we're cool to do that,\" Silvagadze said. Ether.fi is also applying for licenses to operate in the European Union and the Cayman Islands, where its team operates.\n\nEthereum was the darling of the 2017 bull market and subsequent ICO boom and was the dominant smart contract chain as DeFi and NFTs animated the 2020-22 boom.\n\nThis cycle, however, the Ethereum network has been criticized for a drawn-out roadmap as the market centers on memecoins and faster blockchains like Solana.\n\nEther is currently trading at around $1,965, having lost 40% of its value over the past 12-months. Solana, meanwhile, is trading at $131 having lost just 25% of its value in the same period.\n\n\"Some of that [negative sentiment] is clearly engineered by competing ecosystems. The Solana folks are out there every single day talking to investors and allocators and media and just spreading bulls**t about ether,\" Silagadze said.\n\n\"If you actually dissect those arguments, they're incoherent. But those memes are floating around, and that has an effect.\"",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/03/20/how-restaking-protocol-ether-fi-retained-tvl-despite-waning-hype",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Silagadze"
+            ],
+            "positions": [],
+            "companies": [
+                "Ether.fi",
+                "Renzo",
+                "Revolut",
+                "Nexo",
+                "Dakota",
+                "EOS",
+                "Solana"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "DefiLlama",
+                "Trump administration",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with Ether.fi maintaining TVL while overall restaking sector declines and ETH price has dropped 40% over the past year."
+    }
+}

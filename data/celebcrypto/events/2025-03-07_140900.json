@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: AAVE Drops 2.9% as Index Inches Lower From Thursday",
+    "time": "2025-03-07T14:09:00",
+    "author": "CoinDesk Indices",
+    "summary": "Cardano (ADA) was also among the underperformers, falling 2.9%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2918.27, down 0.2% (-6.41) since 4 p.m. ET on Thursday.\n\nThirteen of 20 assets are trading higher.\n\nLeaders: HBAR (+7.0%) and DOT (+5.2%).\n\nLaggards: AAVE (-2.9%) and ADA (-2.9%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/07/coindesk-20-performance-update-aave-drops-2-9-as-index-inches-lower-from-thursday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "AAVE",
+            "ADA",
+            "HBAR",
+            "DOT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The CoinDesk 20 index declined 0.2% with more assets trading lower than higher, and notable underperformers like AAVE and ADA both dropping 2.9%."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Weekly Recap: Bitcoin’s Tumble and the SEC’s Retreat",
+    "summary": "Plus: Bybit fallout, stablecoin wrangling, Ethereum Foundation changes.",
+    "time": "2025-02-28T17:55:00",
+    "author": "Benjamin Schiller",
+    "content": "Two big themes dominated the crypto news this week: sagging asset prices and the official end of the SEC’s enforcement “mania.”\n\nOn the former: Bitcoin, which rose steadily from about $70,000 following November’s election, fell precipitously. In early-hours Feb. 28, the price had dipped below $80,000. CoinDesk’s Market Index, which tracks the broader digital assets market, has fallen 12% in the last five days.\n\nCoinDesk’s Markets Editor Omkar Godbole analyzed the daily price action, tracking ETF outflows, historical analogies, and macro correlations.\n\nOn the regulatory front, the SEC dropped major cases against Uniswap, Coinbase, and MetaMask (ConsenSys). It also sought to end a fraud case against TRON and Justin Sun. Our regulatory team of Nik De, Jesse Hamilton and Cheyenne Ligon were all over the news, as usual. Meanwhile, it looks like the SEC will not be treating memecoins as securities, Ligon reported.\n\nStablecoins were another big theme, as issuers argued over the parameters of a new law covering the most used form of digital assets. Jeremy Allaire, co-founder and CEO of stablecoin issuer Circle, said USD-backed stablecoin issuers should be required to register in the U.S., in a clear tilt at Circle’s biggest rival, Tether (regulatory reporter Camomile Shumba had that). Meanwhile, Bank of America said it planned to launch its own stablecoin, Helene Braun wrote.\n\nIn other important news, Ian Allison reported exclusively that BitMEX, an OG trading platform, was up for sale. Bybit passed blame for its $1.5 billion hack (Oliver Knight reported). Ethereum Foundation’s executive director Aya Miyaguchi said she was stepping down (Margaux Nijkerk had the news). And, Sam Reynolds explained on how investors in Mainland China may soon be able to get access to bitcoin.\n\nAll these stories looked likely to run into next week’s coverage as crypto continues to provide plenty to write about. Stayed tuned for our continuing reporting. Happy Weekend.",
+    "url": "https://www.coindesk.com/news-analysis/2025/02/28/weekly-recap-bitcoin-s-tumble-and-the-sec-s-retreat",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Nik De",
+                "Jesse Hamilton",
+                "Cheyenne Ligon",
+                "Jeremy Allaire",
+                "Camomile Shumba",
+                "Helene Braun",
+                "Ian Allison",
+                "Oliver Knight",
+                "Aya Miyaguchi",
+                "Margaux Nijkerk",
+                "Sam Reynolds",
+                "Justin Sun"
+            ],
+            "positions": [
+                "Markets Editor",
+                "co-founder and CEO",
+                "executive director",
+                "regulatory reporter"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Coinbase",
+                "MetaMask",
+                "TRON",
+                "Circle",
+                "Tether",
+                "Bank of America",
+                "BitMEX",
+                "Bybit",
+                "Ethereum Foundation"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin fell precipitously below $80,000 and the broader digital assets market fell 12% in five days, indicating significant price declines."
+    }
+}

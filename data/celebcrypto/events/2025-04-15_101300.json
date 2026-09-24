@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin ETFs Lose Over $800M in April as Institutions Stick With Bonds Amid Tariff Volatility",
+    "summary": "The U.S.-listed BTC ETFs appear on track for the second-highest monthly outflow on record.",
+    "time": "2025-04-15T10:13:00",
+    "author": "Omkar Godbole",
+    "content": "'Sell bonds, buy bitcoin,' proclaimed a popular social media account last week, echoing the sentiments of many crypto advocates who believe that tariff-induced volatility in the U.S. Treasury market – a cornerstone of global finance – has revealed the fragility of the dollar-denominated monetary system. However, institutions are not buying into this narrative.\n\nAs of Monday, the 11 U.S.-listed spot Bitcoin ETFs, considered a proxy for institutional activity, were on track to register the second-highest cumulative monthly outflow of over $800 million, according to data source SoSoValue. The funds bled a record $3.56 billion in February and $767 million in March.\n\nMeanwhile, the three-month Treasury bills auctioned Monday drew strong demand from institutions. According to data source CME, the U.S. Treasury sold $80 billion in three-month bills at an interest rate of 4.225%, up from the previous 4.175%. Similarly, it sold $68 billion in six-month bills at a slightly higher-than-previous interest rate of 4.06%.\n\nHowever, the bid-to-cover ratio, representing the number of bids received relative to the number of bids accepted, for the three-month bills rose to 2.96 from 2.82. In other words, for every three-month bill offered, nearly 3x more bids were received. The ratio for the six-month bills rose marginally to 2.90 from 2.79.\n\nThe strong uptake indicates that institutions still view the U.S. debt as a haven. The T-bills are highly liquid and considered low-risk, making them the preferred choice for collateral in the repo (repurchase agreement) market. In a repo transaction, one party sells T-bills or other securities to another, agreeing to repurchase them later, allowing the seller to access short-term funding.\n\nInstitutions typically park money in T-bills when the economic outlook is uncertain, calling for flexibility in investments rather than commitment to long-term positions.\n\nPresident Donald Trump's full-blown trade war against China and other major trading partners has ratcheted uncertainty to such an extent that there is the possibility of a sudden blackout in corporate earnings guidance on Wall Street. According to Inc , BofA’s 3-month guidance ratio — which tracks the number of companies above versus below consensus guidance — has fallen to 0.4x, its weakest since April 2020 and below its historical average of 0.8x.\n\nMeanwhile, the U.S. recession odds have increased above 50% on betting platforms, with elevated Japanese bond yields further complicating matters for risk assets.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/bitcoin-etfs-lose-over-usd800m-in-april-as-institutions-stick-with-bonds-amid-tariff-volatility",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "SoSoValue",
+                "CME",
+                "BofA",
+                "Inc"
+            ],
+            "organizations": [
+                "U.S. Treasury"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin ETFs experienced significant outflows of over $800 million in April, indicating institutional selling pressure and lack of confidence in cryptocurrency investments."
+    }
+}

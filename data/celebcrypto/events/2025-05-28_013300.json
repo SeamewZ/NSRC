@@ -1,0 +1,55 @@
+{
+    "title": "Asia Morning Briefing: Bitcoin Becomes ‘Generational Asset’ as Speculators Ditch Rolexes",
+    "summary": "PLUS: ETH's rally might be in its early stages, but there are a few headwinds holding it back",
+    "time": "2025-05-28T01:33:00",
+    "author": "AI Boost",
+    "content": "Welcome to Asia Morning Briefing, a daily summary of top stories during U.S. hours and an overview of market moves and analysis. For a detailed overview of U.S. markets, see CoinDesk's Crypto Daybook Americas.\n\nEthereum surged past $2,600 in early Asia hours, up 3.7%, breaking decisively above its previous resistance level of around $2,500 following a prolonged consolidation period, according to CoinDesk Research's AI-assisted technical analysis model.\n\nThe rally is supported by robust trading volume and significant institutional confidence, underscored by $248 million in net inflows into spot Ethereum ETFs last week, led prominently by BlackRock's iShares Ethereum Trust. DeFi activity is also strengthening, with Ethereum's total value locked (TVL) rising 3.59% over the last 24 hours to $64.37 billion, according to DeFi Llama.\n\nHowever, the rally faces potential headwinds. Ethereum’s active addresses currently sit at 406,180, nearly flat compared to approximately 430,000 addresses one year ago, indicating muted user growth.\n\nAdditionally, stablecoin flows reveal mixed signals; traditional stalwarts USDT and USDC remain relatively flat, while emerging stablecoins such as Ethena's USDe and BUIDL demonstrate stronger growth trends, signaling shifts within Ethereum’s broader stablecoin ecosystem. Despite bullish momentum and strong institutional backing, subdued retail investor participation and tepid user growth suggest this rally could face near-term constraints.\n\nBitcoin\nBTC\n$101,754.63\nand luxury watches, once pandemic-era companions buoyed by stimulus and speculative exuberance, have sharply diverged over the past year, market data shows, with BTC surging 56.9%, according to CoinDesk market data, while WatchCharts.com luxury watch index fell by 4%.\n\nAs recently as mid-2023, prices for bitcoin and luxury watches moved closely in tandem, buoyed by central banks and governments injecting substantial liquidity into global markets. However, the two have since taken distinctly different paths.\n\nOKX Global Chief Commercial Officer Lennix Lai attributes Bitcoin’s sustained upward trajectory to increased institutional adoption and maturation as a credible asset.\n\nIn contrast, the secondary market for luxury watches has cooled significantly from its pandemic peak. “The real collectors stayed in watches while speculators moved on, and bitcoin has matured to take its place in many investors’ portfolios,” Lai said. “Watches make great heirlooms, but I'll take Bitcoin any day as a generational asset. You can't lose it, scratch it during a move, or have it stolen, as long as you keep your seed phrase secure.”\n\nYet, in recent months, the luxury watch market has shown early signs of a modest recovery, posting a 0.3% gain over the last three months.\n\nJake Plonskier, founder of Watches.io, credits this rebound to external economic pressures rather than renewed crypto-driven speculation. He notes rising tariffs and surging gold prices as key catalysts.\n\n“Gold and silver are decent proxies for the watch market,” Plonskier explained, highlighting Rolex’s January decision to raise MSRP by 14% for its gold models.\n\nHe added that crypto's lasting impact on luxury watches is primarily demographic: \"Crypto wealth introduced a whole new market that can afford watches. Now men under 30 can afford Pateks and APs, which traditionally never would have been purchased by this type of clientele.”\n\nCircle Internet Group, the issuer of stablecoin USDC, has filed for an initial public offering (IPO) on the New York Stock Exchange under the ticker \"CRCL,\" aiming to sell 24 million class A shares priced between $24 and $26 each, CoinDesk previously reported.\n\nThe company itself will offer 9.6 million shares, potentially raising nearly $250 million, while selling stakeholders are providing an additional 14.4 million shares, possibly earning close to $375 million.\n\nCathie Wood’s ARK Investment has indicated interest in purchasing $150 million worth of shares during the IPO, which is being managed by joint lead active bookrunners J.P. Morgan, Citigroup, and Goldman Sachs.\n\nThe IPO filing follows previous unsuccessful attempts, including a failed SPAC deal in 2021 and a brief consideration of a $5 billion sale to firms such as Coinbase or Ripple.\n\nMarathon Digital CEO Fred Thiel urged the U.S. government to start actively mining bitcoin to fulfill President Trump's directive for a strategic bitcoin reserve, suggesting excess hydroelectricity could support domestic mining operations, CoinDesk previously reported.\n\nSpeaking at Bitcoin 2025, Thiel emphasized the necessity of tangible steps beyond the current plan of using approximately 200,000 seized bitcoins from government forfeitures. Senator Cynthia Lummis supports this broader vision through her proposed BITCOIN Act, advocating for converting underperforming government gold certificates into bitcoin to expand the reserve substantially.\n\nHowever, Lummis acknowledges significant legislative hurdles remain, citing a general lack of congressional understanding about bitcoin and competing priorities such as stablecoin and market structure regulations.",
+    "url": "https://www.coindesk.com/markets/2025/05/27/asia-morning-briefing-bitcoin-becomes-generational-asset-as-speculators-ditch-rolexes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lennix Lai",
+                "Jake Plonskier",
+                "Fred Thiel",
+                "Cynthia Lummis",
+                "Cathie Wood"
+            ],
+            "positions": [
+                "OKX Global Chief Commercial Officer",
+                "founder of Watches.io",
+                "Marathon Digital CEO",
+                "Senator"
+            ],
+            "companies": [
+                "CoinDesk",
+                "BlackRock",
+                "Ethena",
+                "Circle Internet Group",
+                "ARK Investment",
+                "J.P. Morgan",
+                "Citigroup",
+                "Goldman Sachs",
+                "Coinbase",
+                "Ripple",
+                "Marathon Digital"
+            ],
+            "organizations": [
+                "DeFi Llama",
+                "New York Stock Exchange",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "USDT",
+            "USDC",
+            "USDe",
+            "BUIDL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ethereum breaking above resistance with institutional ETF inflows and Bitcoin's sustained upward trajectory with increased institutional adoption, indicating positive market momentum."
+    }
+}

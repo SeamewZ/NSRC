@@ -1,0 +1,44 @@
+{
+    "title": "CoinDesk Weekly Recap: Crypto Emerges From the Tariff War",
+    "summary": "Plus: Paul Atkins was confirmed and ETH ETF options were approved.",
+    "time": "2025-04-11T20:13:00",
+    "author": "Benjamin Schiller",
+    "content": "Tariffs, tariffs, tariffs.\n\nTrump’s on-again, off-again import levies dominated the week. At the beginning, tariffs sent stocks and crypto appreciably lower. By the end, with all new non-China tariffs paused for 90 days, markets were up again.\n\nBitcoin returned to a level ($82,000) that it was at this time last week. And analysts debated whether, in the panic of the previous days, it showed “safe haven” qualities (like gold) or whether it was a risk-asset like many others. The consensus was that bitcoin performed resiliently rather than completely reassuringly.\n\nOur Asia reporting team led the way on our markets coverage. Omkar Godbole started the week strong by revealing how the unwinding of the \"basis trade\" could impact bitcoin price. Sam Reynolds wrote on how Kalshi was set to win its legal battle in Nevada, hours before the prediction market got its first victory in the state. Shaurya Malwa reported on the first XRP ETF listing in the U.S. and how Teucrium's leveraged fund received $5m during its first day of trading.\n\nFrom our European team, there was some timely analysis from James Van Straten, and the All-Important U.S. 10-Year Yield Moving in the Wrong Direction for Trump, and a story showing the resilience of the decentralized economy from Oliver Knight, How DeFi 'Defied' Market Carnage as Traders Poured Millions Amid Panic.\n\nOur coverage expanded beyond just tariffs and market reactions, with Jamie Crawley's scoop, Rootstock Prepares to Release SDKs for Bitcoin Layer 2s Using BitVMX after he took the opportunity offered by an embargoed press release to phone the company and interview the founder. And there was a nice DeFi follow-up on the repercussions of HyperLiquid's price manipulation exploit from March by Oliver, How the Hype for HyperLiquid's Vault Evaporated on Concerns Over Centralization.\n\nMeanwhile, there was plenty of important regulatory news that wasn’t tariff-related.\n\nPaul Atkins was confirmed as the new SEC chair. The Department of Justice closed down its crypto enforcement unit, prompting criticism, from Democrats and others, that it’s not serious about combating malfeasance. The SEC approved ETH ETF options, following a long delay. And President Trump put an end to a controversial DeFi accounting rule.\n\nIt was a week that showed how crypto was increasingly central to finance and even macro-economics. Fun times are ahead.",
+    "url": "https://www.coindesk.com/opinion/2025/04/11/weekly-recap-crypto-emerges-from-the-tariff-war",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump",
+                "Paul Atkins",
+                "Omkar Godbole",
+                "Sam Reynolds",
+                "Shaurya Malwa",
+                "James Van Straten",
+                "Oliver Knight",
+                "Jamie Crawley"
+            ],
+            "positions": [
+                "SEC chair",
+                "President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Kalshi",
+                "Teucrium",
+                "HyperLiquid"
+            ],
+            "organizations": [
+                "Department of Justice",
+                "SEC",
+                "Democrats"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes markets rebounding after initial tariff concerns, with bitcoin returning to previous levels and showing resilience, plus positive developments like ETH ETF options approval and XRP ETF listing."
+    }
+}

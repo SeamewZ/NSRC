@@ -1,0 +1,27 @@
+{
+    "title": "Bitcoin Hashrate Hits All-Time High Defying Analyst Expectations",
+    "time": "2025-02-04T11:26:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin transaction fees have hit multi-year lows despite the price hovering around $100,000.",
+    "content": "Bitcoin\nBTC\n$103,927.42\nhashrate has reached another all-time high, with seven-day moving average jumping to 833 exahashes per second (EH/s), according to Glassnode data. This represents a 9% increase from 767 EH/s in the past few days.\n\nAccording to Miner Mag, pre-orders for mining hardware have begun to decline following the pre-halving surge. Many mining firms had stocked up on equipment in anticipation of this event, ensuring their operations remained competitive; however, analysts now expect a slowdown in hashrate growth.\n\nHashrate measures the computational power used to secure the bitcoin network through mining, and a higher hashrate signifies greater network security.\n\nAccording to The Miner Mag, the network has seen a significant rise in hashrate over the past 18 months, driven largely by institutional investment in mining infrastructure.\n\nThe surge was ahead of bitcoin’s April 2024 halving, which occurs approximately every four years and reduces the block reward by 50%. Since the halving, the hashrate has increased by more than 40%, indicating continued expansion in mining operations.\n\nThe rise in hashrate has coincided with mining profitability remaining relatively flat in recent months. One primary reason for this is historically low transaction fees, which have reduced miner earnings.\n\nIn the bitcoin mempool, a high-priority transaction costs just 5 sat/vB ($0.69)—one of the lowest fee levels in recent years. With fewer transactions generating fees, miners are earning less from transaction fees, making it harder to offset operational costs.\n\nThe bitcoin network’s long-term economic model relies on transaction fees gradually replacing the block subsidy as the primary source of miner revenue, but the current market dynamics pose challenges to this model.\n\nLooking ahead, the next difficulty adjustment is scheduled in four days and is projected to increase by over 6%, taking it to an all-time high and putting further pressure on miners.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/bitcoin-hashrate-hits-all-time-high-defying-analyst-expectations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Miner Mag"
+            ],
+            "organizations": [
+                "Glassnode",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed signals with Bitcoin hashrate reaching all-time highs (positive for network security) but mining profitability remaining flat due to low transaction fees and upcoming difficulty adjustment increasing pressure on miners."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Telegram’s TON Takes On Real World Assets With Libre’s $500M Tokenized Bond Fund",
+    "time": "2025-04-30T06:00:00",
+    "author": "Ian Allison",
+    "summary": "Libre’s Telegram Bond Fund ($TBF) will offer accredited investors institutional-grade yield products that will also be available as collateral for on-chain borrowing and product development on TON,",
+    "content": "Libre, a tokenization firm that works closely with the likes of hedge fund Brevan Howard, investment management firm Hamilton Lane and Nomura's digital assets unit Laser Digital, plans to tokenize $500 million worth of Telegram debt as the blockchain-based Telegram Bond Fund (TBF) on the TON network that's linked to the messaging platform.\n\nTBF will offer accredited investors exposure to some of the around $2.35 billion of outstanding bonds issued by Telegram, providing institutional-grade yield products that will also be available as collateral for on-chain borrowing and product development on TON, Libre said.\n\n“What we’ve created is like a fixed income fund that acquires the bonds and then we tokenize the fund,” Libre CEO Avtar Sehra in an interview. “When you purchase units in the fund these are on the TON chain, giving you access to the returns of the underlying bonds themselves. This opens up opportunities to use the bonds for collateral, ease of transfers, etc, to ultimately create utility with these financial instruments.”\n\nThe past year or two has seen a rush to create blockchain-based representations of real world assets (RWAs), bringing the traditional finance world rapidly within the ambit of crypto and decentralized finance (DeFi).\n\nSehra said many of his customers want either tokenized money market products because they're looking for quick access to cash, or something that’s associated with an ecosystem they are involved in or work within.\n\nThe TON network was originally developed by Telegram before continuing as an independent operation. Over the last year or so, TON has been focused on bringing a large swathe of Telegram’s 950 million-plus users on-chain.\n\nLibre has already tokenized over $200 million in assets across funds from leading institutions including BlackRock, Brevan Howard, Hamilton Lane, and Laser Digital.\n\n“Our objective isn't just to tokenize things for the sake of tokenizing them,” Sehra said. “I think the real value in tokenizing traditional financial instruments is unlocking the utility of those assets.”\n\nUPDATE (April. 30, 06:32 UTC): Changes the outstanding Telegram bonds figure to $2.35 billion",
+    "url": "https://www.coindesk.com/business/2025/04/30/telegram-s-ton-takes-on-real-world-assets-with-libre-s-usd500m-tokenized-bond-fund",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Avtar Sehra"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Libre",
+                "Brevan Howard",
+                "Hamilton Lane",
+                "Nomura",
+                "Laser Digital",
+                "BlackRock",
+                "Telegram"
+            ],
+            "organizations": [
+                "TON network",
+                "Telegram Bond Fund (TBF)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes institutional adoption and tokenization of $500 million in real-world assets on the TON blockchain, indicating growing utility and institutional confidence in cryptocurrency infrastructure."
+    }
+}

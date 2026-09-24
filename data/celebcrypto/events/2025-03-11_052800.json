@@ -1,0 +1,26 @@
+{
+    "title": "Dormant Ether Whale Moves $13M in ETH to Kraken",
+    "time": "2025-03-11T05:28:00",
+    "author": "Omkar Godbole",
+    "summary": "Large movement of coins to exchanges often breeds price volatility.",
+    "content": "An ether\nETH\n$3,517.88\nwhale, who has held the token since its initial coin offering (ICO), made waves on Monday as it moved ETH worth millions to crypto exchange Kraken, according to blockchain sleuth Spot on Chain.\n\nThe whale deposited 7,000 ETH, worth $13.8 million at press time, to Kraken as the token's price plummeted along with the broader market on U.S. recession fears. Ether tanked to $1,760, reaching the lowest since October 2023, and last changed hands at $1,900.\n\nLarge inflows into exchanges are said to represent investors' intention to liquidate the asset or deploy the same as margin/collateral in derivatives trading. This often breeds price volatility.\n\nThe ether ICO whale still holds 30,070 ETH worth over $50 million.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/dormant-ether-whale-moves-usd13m-in-eth-to-kraken",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Kraken"
+            ],
+            "organizations": [
+                "Spot on Chain"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "Ether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes large ETH deposits to an exchange during a price decline, which typically indicates selling pressure and breeds price volatility."
+    }
+}

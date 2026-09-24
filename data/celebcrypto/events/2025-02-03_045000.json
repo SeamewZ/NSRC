@@ -1,0 +1,43 @@
+{
+    "title": "Chance of Bitcoin Tanking to $75K Doubles as Trump's Tariffs Ignite Trade War, Derive's Onchain Options Market Shows",
+    "time": "2025-02-03T04:50:00",
+    "author": "Omkar Godbole",
+    "summary": "The probability has doubled from last week as the renewed trade war between the U.S. and its major trading partners threatens to inject inflation into the global economy.",
+    "content": "Bitcoin's\nBTC\n$103,852.44\non-chain options market on Derive.xyz indicates a 22% probability of prices falling to $75,000 by March 28, a notable rise from last week's 10% chance.\n\nThe sharp rise in probability follows a renewed import tariff war between the U.S. and its top trading partners, Canada, Mexico and China and concerns it will add to inflation in the global economy, making it difficult for central banks, including the Fed, to cut interest rates.\n\n“The recent tariffs imposed by Trump, including 25% on imports from Mexico and Canada and 10% on Chinese goods, are likely to lead to increased inflation, which could dampen investor sentiment in crypto markets,\" Derive said in an email.\n\nAndre Dragosch, head of Europe at Bitwise, said on X, that tariffs are sending shock waves via USD strngth & contraction in global money supply.\n\nBitcoin has already dropped 11% to $93,700 in four days, CoinDesk data shows. ETH, the second-largest cryptocurrency by market value, fell below $2,200 early Monday, the lowest since Aug. 5.\n\nBTC appears on track to complete a double top reversal pattern, which would open the doors for a drop to $75,000.\n\nRecently, Arthur Hayes, chief investment officer of Maelstrom and former BitMEX CEO, said that BTC will first drop to around $75,000 before chalking out a bigger bull run.\n\nThe broader outlook, however, remains constructive, according to Derive.\n\n\"We’re seeing a number of active spot ETF filings for assets like DOGE, SOL, XRP, and LTC from major players like Bitwise and Grayscale. If the SEC approves these, it will signal greater legitimacy for the digital asset industry and trigger more capital inflows, potentially driving prices upward,\" Derive told CoinDesk, noting the momentum for creating strategic BTC reserves in several U.S. states.\n\nDragosch expects the Fed to eventually step in, putting a floor under asset prices.\n\n\"At some point, Fed will need to reignite QE to curb the Dollar from rising further and to stop a continued tightening in financial conditions & deceleration in global growth,\" Bitwise's Dragosch noted.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/chance-of-bitcoin-tanking-to-usd75k-doubles-as-trump-s-tariffs-ignite-trade-war-derive-s-onchain-options-market-shows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andre Dragosch",
+                "Arthur Hayes",
+                "Trump"
+            ],
+            "positions": [
+                "head of Europe at Bitwise",
+                "chief investment officer of Maelstrom and former BitMEX CEO"
+            ],
+            "companies": [
+                "Derive.xyz",
+                "Bitwise",
+                "CoinDesk",
+                "BitMEX",
+                "Grayscale"
+            ],
+            "organizations": [
+                "Fed",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "DOGE",
+            "SOL",
+            "XRP",
+            "LTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin dropping 11% to $93,700, ETH falling to lowest levels since August, and a doubled probability of BTC falling to $75,000 due to trade war concerns and potential inflation impacts."
+    }
+}

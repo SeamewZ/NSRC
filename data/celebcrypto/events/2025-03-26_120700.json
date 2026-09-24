@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Market Could Heat Up as BTC Price Approaches $90K",
+    "time": "2025-03-26T12:07:00",
+    "author": "Omkar Godbole",
+    "summary": "The level will remain a potential area of volatility following Friday's quarterly options settlement.",
+    "content": "As bitcoin's (BTC) recovery rally continues, $90,000 is now the key level where things could get interesting. The projection is based mainly on the current positioning of options market makers.\n\nMarket makers, also known as dealers or MMs, are responsible for providing liquidity to the order book. They occupy the opposite side of investors' trades and work to maintain a market-neutral exposure by hedging in spot and futures markets. They make money off the difference between what they pay for an asset and how much they sell it for, known as the bid-ask spread.\n\nDeribit bitcoin options data tracked by Amberdata shows market makers are \"short gamma\" at the $90,000 strike. What that means is that as the bitcoin price moves closer to that level, market makers will need sell when the spot price drops and buy when it rises to keep a market-neutral position. These hedging activities could add to market volatility.\n\n\"Considering that negative gamma will still significantly impact the market after settlement, the hedging behavior of MMs may further promote price fluctuations,\" Griffin Ardern, the chief author of BloFin Academy and head of BloFin Research and Options, told CoinDesk. \"But the possibility of upward price movement seems to be greater for now.\"\n\nGamma represents the rate of change in delta, which itself measures the sensitivity of an option's price to changes in the underlying asset's price. Holding short gamma means holding a short position in options, which can lead to financial loss, especially during periods of high volatility. So when market makers are short gamma, they must trade in the market's direction to maintain a market-neutral book.\n\nThe opposite is the case when market makers are long gamma. Toward the end of last year, market makers were long gamma at $90,000 and $100,000, which led to consolidation between these levels.\n\nThe chart shows gamma levels at strike prices across expirations. It's clear that the $90,000 strike will remain the one with the most negative delta following the quarterly settlement due this Friday.\n\nIn other words, the hedging behavior of dealers could add to market swings at around $90,000.\n\nAccording to Ardern, the dealer gamma profile of BTC following Friday's expiration will look similar to the gold-backed PAXG token.\n\n\"After removing the impact of options about to be settled, PAXG has a similar GEX distribution to BTC. The price gets support after a significant price decline and encounters resistance when it rises significantly, that is, a wide range of fluctuations,\" Ardern said.",
+    "url": "https://www.coindesk.com/markets/2025/03/26/bitcoin-market-could-heat-up-as-prices-approach-usd90k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Griffin Ardern"
+            ],
+            "positions": [
+                "chief author of BloFin Academy",
+                "head of BloFin Research and Options"
+            ],
+            "companies": [
+                "Amberdata",
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "BloFin Academy",
+                "BloFin Research and Options"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "PAXG"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article states that 'the possibility of upward price movement seems to be greater for now' and discusses how market maker hedging activities could promote price fluctuations with a bias toward upward movement."
+    }
+}

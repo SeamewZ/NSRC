@@ -1,0 +1,28 @@
+{
+    "title": "Two Ways This Bitcoin Bull Market Is Sturdier Than 2020-21 and 2017",
+    "summary": "BTC's realized volatility has averaged less than 50% this time, according to Glassnode.",
+    "time": "2025-05-30T08:03:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,702.76\nhas long been criticized for its high volatility, with bull runs marked by sudden, sharp pullbacks that would qualify as full-blown bear trends in stocks.\n\nHowever, the latest bull market, which kicked off in early 2023, feels different in a positive way, exhibiting relatively low volatility and drawdowns.\n\nAccording to data tracked by Glassnode, bitcoin's realized volatility on a three-month rolling basis has averaged less than 50% during this bull cycle, significantly lower than the 80% to 100% observed during previous bull runs.\n\nThe same thing can be said about the 30-day implied volatility, tracked by Volmex's BVIV index, which has been in a downtrend, according to data source TradingView. The implied volatility refers to the expected price turbulence over a specific period and is a forward-looking metric.\n\nThe stability likely stems from bitcoin's ever-growing market capitalization, which inadvertently fosters stability and increased institutional participation through ETFs and derivatives.\n\n\"Boasting a market capitalization of over $2T, Bitcoin now ranks as the 7th largest asset worldwide. As liquidity deepens, and the valuation of an asset reaches these heights, the capital required to meaningfully move the price of the asset becomes significantly larger,\" Glassnode said, explaining the volatility meltdown.\n\n\"Additionally, the launch of the US Spot ETF Products, supplemented by increasing regulatory clarity, has altered the underlying composition of the investor base, allowing sophisticated, institutional investors and capital to gain exposure to bitcoin for the first time,\" Glassnode added.\n\nPull up the price chart from 2020-21, and you'll see that bitcoin's then-bull run from $4,000 to $70,000 had several steep price pullbacks, sometimes more than 30%. In traditional markets, a drawdown of over 20% is typically considered a bear market.\n\nNow compare it to the rally from roughly $30,000 to over $100,000 since March 2023, and the picture looks different. It has been a stair-step ascent, characterized by an impulsive move higher followed by broad accumulation ranges that set the stage for the next leg higher.\n\n\"We’ve observed a shallower drawdown profile relative to previous bull markets, with the current cycle drawdowns generally less than -25% from the local high, with only two instances exceeding -30%,\" Glassnode said.\n\nThe change in character is again linked to institutional participation, lower leverage and speculative excesses in the broader market.\n\nMajor exchanges, including Binance, offered 100X leverage during the previous bull runs, allowing investors to control a significantly larger trading position. Such use of leverage helped investors juice up profits but also magnified losses, resulting in liquidation cascades and frequent double-digit price corrections.\n\nHowever, exchanges eventually cut down the leverage significantly, curbing speculative excesses. That seems to have contributed to the sturdier rally this time.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/two-ways-this-bitcoin-bull-market-is-sturdier-than-2020-21-and-2017",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Binance"
+            ],
+            "organizations": [
+                "Glassnode",
+                "Volmex",
+                "TradingView"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's current bull market as sturdier with lower volatility, shallower drawdowns, and increased institutional participation through ETFs, all indicating positive market confidence."
+    }
+}

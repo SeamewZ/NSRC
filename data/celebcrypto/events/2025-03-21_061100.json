@@ -1,0 +1,41 @@
+{
+    "title": "North Korea-Linked Lazarus Group Holds More Bitcoin Than Elon Musk's Tesla",
+    "time": "2025-03-21T06:11:00",
+    "author": "Omkar Godbole",
+    "summary": "D.O.G.E head Elon Musk's Tesla falls behind North Korean hacker group in terms of BTC holdings as President Trump plans to make U.S. the crypto capital of the world.",
+    "content": "The Lazarus Group, a hacking group closely associated with North Korean, holds more bitcoin\nBTC\n$104,523.34\nthan Tesla (TSLA), the electric car manufacturer led by Elon Musk, according to data from Arkham Intelligence.\n\nAt press time, Lazarus held 13,441 BTC worth $1.14 billion, according to data source Arkham Intelligence. That's 16% more than Tesla's bitcoin stash of 11,509 BTC.\n\nLast month, Lazarus Group struck crypto exchange Bybit, draining $1.4 billion in ether\nETH\n$3,527.36\nfrom the platform. Recently, some of the stolen funds have been converted into bitcoin, with 12,836 BTC distributed across 9,117 unique wallets, as Bybit's CEO Ben Zhou confirmed.\n\nTesla acquired its bitcoin stash four years ago and has been HODLing ever since, making it the world's fourth-largest publicly listed company in terms of BTC holdings.\n\nThe striking contrast between Tesla and Lazarus Group emerged even as President Donald Trump's positive stance on cryptocurrency has sparked calls for accelerated BTC adoption among corporations and sovereign nations worldwide.\n\nOn Thursday, Trump reaffirmed his commitment to making the U.S. the \"undisputed Bitcoin superpower and the crypto capital of the world.\" Against this backdrop, it will be interesting to see if Tesla and other U.S. corporations respond to being overshadowed by a North Korean hacker.\n\nMeanwhile, the U.S. government holds 198,109 BTC worth over $16 billion, representing coins seized in enforcement actions. Trump recently announced the same as the strategic reserve.\n\n.",
+    "url": "https://www.coindesk.com/markets/2025/03/21/north-korea-linked-lazarus-group-holds-more-bitcoin-than-elon-musk-s-tesla",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk",
+                "President Trump",
+                "Donald Trump",
+                "Ben Zhou"
+            ],
+            "positions": [
+                "head",
+                "CEO",
+                "President"
+            ],
+            "companies": [
+                "Tesla",
+                "Bybit",
+                "Arkham Intelligence"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "North Korean",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "ETH",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major security breach where the Lazarus Group stole $1.4 billion from crypto exchange Bybit, which represents a significant negative event for market confidence."
+    }
+}

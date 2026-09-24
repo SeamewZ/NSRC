@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Overtakes Amazon as the Fifth Largest Asset, Hitting $2.16T Market Cap",
+    "summary": "Bitcoin rose to a new high of $109,400 on Wednesday before consolidating marginally lower.",
+    "time": "2025-05-21T16:18:00",
+    "author": "Helene Braun",
+    "content": "Bitcoin\nBTC\n$101,731.44\nbecame the world’s fifth-largest asset after hitting a new all-time high on Wednesday, which pushed its market cap to $2.16 trillion.\n\nThough the crypto’s price consolidated lower after hitting a high of $109,400, its market cap passed Amazon (AMZN), which stands at $2.15 trillion.\n\nBitcoin is up 16.44% year-to-date while shares of the online retailer are down about 8% over the same period. It is currently trading at $108,954.\n\nGold is the largest asset, by far, standing at a $22 trillion market cap, followed by Microsoft (MSFT), NVIDIA (NVDA) and Apple (AAPL) which stand at $3.1 trillion to $3.4 trillion respectively.\n\nAs a result of the surge in bitcoin’s price since the win of U.S. President Donald Trump, BlackRock’s iShares Bitcoin Trust (IBIT) recently became the fifth-largest exchange-traded fund (ETF) by inflows this year as it took in roughly $9 billion from investors, according to data from Bloomberg senior ETF analyst Eric Balchunas.",
+    "url": "https://www.coindesk.com/markets/2025/05/21/bitcoin-overtakes-amazon-as-the-fifth-largest-asset-hitting-usd2-16t-market-cap",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "U.S. President",
+                "senior ETF analyst"
+            ],
+            "companies": [
+                "Amazon",
+                "Microsoft",
+                "NVIDIA",
+                "Apple",
+                "BlackRock"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin hit a new all-time high, overtook Amazon as the fifth largest asset, and saw significant ETF inflows following Trump's election win."
+    }
+}

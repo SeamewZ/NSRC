@@ -1,0 +1,70 @@
+{
+    "title": "State of Crypto: Trump's Second First Week",
+    "summary": "Donald Trump and the GOP hit the ground running in his first week as the new U.S. president.",
+    "time": "2025-01-25T04:35:00",
+    "author": "Nikhilesh De",
+    "content": "Donald Trump is officially the 47th President of the United States, and the U.S. government is going in some different directions from the last administration.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nU.S. President Donald Trump was sworn into office on Monday and quickly signed a flurry of executive orders. While it took him a few days to get to crypto-specific items, we've seen a number of actions from his administration already — not to mention the broader Republican Party.\n\nThese agencies and Congressional bodies' initial actions set the tone for what we can expect as the new Congress and administration really get going this year.\n\nThere'll be time to go more into detail on some of these later, but for now:\n\nWhite House/Administration\n\nDonald Trump signed a highly-anticipated executive order on crypto. Among its provisions are items that:\n\nTrump also announced that Sacks would co-chair his President's Council of Advisors on Science and Technology.\n\nThe U.S. Securities and Exchange Commission, now operating under Acting Chair Mark Uyeda, formed a crypto-focused task force headed up by Commissioner Hester Peirce. Trump previously named Paul Atkins as his pick to serve as the agency's chair, once he's confirmed by the Senate.\n\nOne of the SEC's first moves was to rescind Staff Accounting Bulletin 121, which directed publicly traded companies holding crypto for their clients to mark those holdings on their own balance sheets. SAB 121 was strongly opposed by the crypto industry, which argued that it made it more difficult for banks to provide certain crypto services.\n\nThe Commodity Futures Trading Commission is now operating under Acting Chair Caroline Pham. Pham named CFTC Senior Policy Advisor Harry Jung as the regulator's lead for crypto industry engagement. Trump has not yet named a nominee to take over as permanent chair.\n\nTrump pardoned Silk Road creator Ross Ulbricht, saying on Truth Social that he did so \"in honor of [Ulbricht's mother] and the Libertarian Movement, which supported me so strongly.\" Ulbricht was convicted on criminal enterprise, narcotics distribution and various conspiracy charges and sentenced to double life in prison and 40 years with no parole.\n\nTrump announced he would rename the existing U.S. Digital Service as his Department of Government Efficiency, the entity headed up by Elon Musk (Vivek Ramaswamy, who was previously a co-head, has now left to run for Ohio governor). Initially, the entity's website just had the Dogecoin logo on it. Companies are also filing for dogecoin exchange-traded funds now.\n\nTrump spoke with El Salvador President Nayib Bukele shortly after signing his crypto executive order, though an official readout of the call did not mention crypto in any form.\n\nSenate\n\nThe Senate Banking Committee has confirmed the creation of a subcommittee focused on digital assets, led by Sen. Cynthia Lummis (R-Wyo.). The subcommittee's other members include freshmen Bernie Moreno (R-Ohio), who unseated former Sen. Sherrod Brown (D-Ohio) with $40 million worth of support from crypto political action committee Fairshake, Ruben Gallego (D-Ariz.), who received $10 million worth of support and Dave McCormick (R-Pa.), among others.\n\nThe Banking Committee is also holding a hearing on Feb. 5, though the specific time and witness list have yet to be announced.\n\nSen. Ted Cruz (R-Texas) introduced a joint Congressional Review Act resolution alongside House Rep. Mike Carey (R-Ohio) to overturn the IRS' recent crypto broker rule. The rule, finalized late last month, defines the term \"broker\" for IRS tax reporting purposes, but has already drawn a lawsuit from the Blockchain Association. The industry lobbyists argue the final rule \"puts unlawful compliance burdens on software developers.\"\n\nSen. Elizabeth Warren (D-Mass.), the new lead Democrat on the Senate Banking Committee, is also asking the U.S. Office of Government Ethics to look into the TRUMP token. She sent an open letter co-signed by Massachusetts Representative Jake Auchincloss.\n\nHouse of Representatives\n\nThe House Oversight Committee sent out a letter announcing it would investigate whether banks de-banked crypto companies at the government's behest.\n\nThe House Financial Services Committee has already scheduled two hearings on crypto next month. The first, on Feb. 6, 2025, will focus on the aforementioned debanking. The second, set for Feb. 11, is titled \"A Golden Age of Digital Assets: Charting a Path Forward.\"\n\nThe leading Democrat on the House Oversight Committee, Rep. Gerry Connelly, asked the panel's leading Republican, Rep. James Comer, to probe Trump's issuance of the TRUMP coin and his ties to World Liberty Financial.\n\nTuesday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!",
+    "url": "https://www.coindesk.com/policy/2025/01/24/state-of-crypto-trump-s-second-first-week",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Mark Uyeda",
+                "Hester Peirce",
+                "Paul Atkins",
+                "Caroline Pham",
+                "Harry Jung",
+                "Ross Ulbricht",
+                "Elon Musk",
+                "Vivek Ramaswamy",
+                "Nayib Bukele",
+                "Cynthia Lummis",
+                "Bernie Moreno",
+                "Sherrod Brown",
+                "Ruben Gallego",
+                "Dave McCormick",
+                "Ted Cruz",
+                "Mike Carey",
+                "Elizabeth Warren",
+                "Jake Auchincloss",
+                "Gerry Connelly",
+                "James Comer"
+            ],
+            "positions": [
+                "President of the United States",
+                "Acting Chair",
+                "Commissioner",
+                "Senior Policy Advisor",
+                "President of El Salvador",
+                "Senator",
+                "Representative",
+                "lead Democrat",
+                "co-head",
+                "co-chair"
+            ],
+            "companies": [
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "Republican Party",
+                "White House",
+                "U.S. Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "U.S. Digital Service",
+                "Department of Government Efficiency",
+                "Senate Banking Committee",
+                "Fairshake",
+                "IRS",
+                "Blockchain Association",
+                "U.S. Office of Government Ethics",
+                "House Oversight Committee",
+                "House Financial Services Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple pro-crypto actions including Trump's executive order, SEC rescinding SAB 121, creation of crypto-focused task forces, and political support from crypto PACs, all indicating favorable regulatory developments."
+    }
+}

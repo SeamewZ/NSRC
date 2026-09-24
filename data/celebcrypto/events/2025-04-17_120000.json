@@ -1,0 +1,35 @@
+{
+    "title": "Lombard Finance Launches Toolkit to Unlock Bitcoin’s $154B DeFi Opportunity",
+    "summary": "Major exchanges Binance and Bybit have already integrated the SDK, which routes staked BTC into Lombard’s DeFi Vault.",
+    "time": "2025-04-17T12:00:00",
+    "author": "Francisco Rodrigues",
+    "content": "Lombard Finance, a Bitcoin infrastructure developer, has launched a software development kit (SDK) that allows wallets, exchanges, and other platforms to offer one-click bitcoin\nBTC\n$101,998.62\nstaking.\n\nThe release aims to further bring BTC into the decentralized finance (DeFi) economy by tapping into the estimated $154 billion in bitcoin estimated to be sitting idle on centralized exchanges.\n\nThe new toolkit allows users to stake BTC to mint a liquid staking token called LBTC, which can be automatically deposited into Lombard’s DeFi Vault for a current annual yield of 3%, according to the protocol.\n\n“Once viewed solely as a store of value, Bitcoin is now increasingly being integrated into DeFi, unlocking new earning opportunities for BTC holders,” said Lombard Finance co-founder Jacob Phillips, who added that the SDK removes “the complexity for both platforms and users.”\n\nLeading cryptocurrency exchanges Binance and Bybit have already integrated the SDK, with additional wallet integrations—including xVerse, Metamask, and Trust Wallet—also being supported. For these platforms, the integration offers new revenue streams and a way to keep users engaged through a new DeFi offering, Lombard says.\n\nBitcoin staking through Lombard's system began seven months ago and has grown into a $4 billion market. Lombard’s DeFi Vault, powered by smart contract provider Veda, currently holds more than $200 million in total value locked.\n\nThe protocol expanded last month with the launch of its liquid-staking bitcoin token, LBTC, on the Sui blockchain.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/lombard-finance-launches-toolkit-to-unlock-bitcoin-s-usd154b-defi-opportunity",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jacob Phillips"
+            ],
+            "positions": [
+                "co-founder"
+            ],
+            "companies": [
+                "Lombard Finance",
+                "Binance",
+                "Bybit",
+                "xVerse",
+                "Metamask",
+                "Trust Wallet",
+                "Veda"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "LBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a positive development that unlocks new earning opportunities for BTC holders and brings $154 billion in idle bitcoin into DeFi, with major exchanges already integrating the technology."
+    }
+}

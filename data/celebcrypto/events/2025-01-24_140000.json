@@ -1,0 +1,36 @@
+{
+    "title": "Real Estate Firm Propy Is Rolling Out Crypto-Backed Loans to Buy Houses",
+    "time": "2025-01-24T14:00:00",
+    "author": "Tom Carreras",
+    "summary": "Bitcoin and ether holders can get loans to acquire tokenized properties — and use their crypto as collateral.",
+    "content": "What if you could put up your bitcoin (BTC) or ether (ETH) as collateral to buy a house?\n\nThat’s essentially the idea behind real estate firm Propy’s upcoming sale, a condominium located in Honolulu, Hawaii, which is being sold at a starting price of $250,000. If they so choose, the prospective buyer will be able to take out a loan from Propy to acquire the property — as long as they provide 100% collateral in bitcoin or ether, and pledge the property as well.\n\n“It's a great proposition for bitcoin holders,” Natalia Karayaneva, CEO of Propy, told CoinDesk in an interview. “It's not a taxable event. They get a loan and buy real estate with it, instead of exiting bitcoin, paying taxes, and then buying real estate.”\n\nIt’s a two-year loan, and it comes with 10% yearly interest. If the given cryptocurrency’s value drops more than 50%, the buyer will face a margin call; in a worst-case scenario, the crypto holdings may end up getting liquidated, and the real estate resold at an auction. However, if the cryptocurrency doubles in price, the buyer could end up paying the loan back simply through their gains. The interest payments, and loan itself, can be paid back in bitcoin, ether or USDC.\n\nAnother important aspect of the deal is that the property has been tokenized. Launched in 2017, Propy aims to bring real estate transactions on-chain, thus speeding up settlement times and liquidity. In the case of the Hawaiian property sale, slated for January 29, a potential loan would be processed immediately, and upon completing repayment, a buyer would automatically be able to reclaim their crypto.\n\n“This isn’t just a milestone; it’s a glimpse into the future of real estate,” Karayaneva said. “We’re demonstrating how blockchain technology can simplify home buying, replacing the traditionally lengthy loan approval process with an instant, efficient solution.”\n\nBased on Ethereum layer 2 solution Base, Propy hasn't tokenized properties on a regular basis, at least as of yet. More often that not, the firm simply uses smart contracts to make real estate purchases quicker and reduce attorney fees. “The main business is coming from normal consumers. They even don't know that we use smart contracts on the back-end, but they love how quickly and transparent the whole process is,” Karayaneva said.\n\nWhen it tokenizes a property, the firm sets up an LLC for the property in the county register and then creates a token, a process that takes roughly two weeks. Upon acquisition, the LLC is amended to reflect the change of ownership, and the property’s token is transferred to its new owner.\n\nAs of right now, pure crypto native deals only account for roughly 5% of the company’s volume, according to Karayaneva. One of these deals, for example, involved TechCrunch founder Michael Arrington turning his apartment into an NFT. Propy also auctioned a 17th-century Italian mansion on the blockchain back in 2017. “We haven’t done many of those transactions yet because we needed the loan product in order for us to scale,” she said. “People need a mortgage or a loan to get real estate exposure.”\n\nPropy also provides escrow services in collaboration with Coinbase, the goal being to support the crypto community in making real estate purchases in crypto. For example, the escrow service helps bitcoin holders avoid wrapping their holdings in ERC-20 tokens like wBTC.\n\nOnce a property has been tokenized, nothing prevents the buyer from eventually selling it to another crypto native without necessarily going through Propy. If the token is sent to a new wallet, the buyer will automatically be given a link to provide Know-Your-Customer (KYC) information; their name will subsequently appear in the LLC as the property owner. And the buyer can also unwrap the property from the LLC and own it the traditional way — a process that Karayaneva called “un-chaining.”\n\n“Our premier goal is really to on-chain as many real estate assets as possible,” Karayaneva said. “Imagine making an on-chain swap between a real estate on-chain asset and bitcoin asset, or another crypto asset. … It's a $300 trillion market. Imagine if it becomes liquid.”\n\nRead More: Propy Teams With Abra to Offer Property Purchases Backed by Crypto",
+    "url": "https://www.coindesk.com/business/2025/01/24/real-estate-firm-propy-is-rolling-out-crypto-backed-loans-to-buy-houses",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Natalia Karayaneva",
+                "Michael Arrington"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Propy",
+                "Coinbase",
+                "TechCrunch",
+                "Abra"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "USDC",
+            "wBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a positive development where cryptocurrency holders can use their assets as collateral to purchase real estate, creating new utility and demand for cryptocurrencies without triggering taxable events."
+    }
+}

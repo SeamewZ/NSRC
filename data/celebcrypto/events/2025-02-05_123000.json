@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin-Gold Ratio at 12-Week Low as U.S. Physical Gold Deliveries Soar",
+    "time": "2025-02-05T12:30:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders have been loading the yellow metal on U.S.-bound planes. Investment banking giant JPMorgan plans to deliver $4 billion of gold to New York this month.",
+    "content": "Gold (XAU) is reaffirming its status as a safe haven asset amid ongoing fears of a U.S.-led trade war, while bitcoin\nBTC\n$104,608.94\nstruggles to gather upside traction. The dynamic is driving the bitcoin-gold ratio lower.\n\nThe ratio between bitcoin's USD price and gold's per ounce dollar price has dropped to 34, the lowest since Nov. 14, almost testing the previous peak hit in March 2024, data from charting platform TradingView show. It's down 15.4% since hitting a peak above 40 in mid-December.\n\nGold's year-to-date surge of nearly 10% to a per-ounce record price of $2,877 has been driven by safe-haven demand amid the escalating U.S.-China trade war, according to Reuters.\n\nThe tariffs threat has dedicated metal products Comex futures prices trading substantially above the spot price in recent months. That has traders loading U.S.-bound planes with the yellow metal. The investment banking giant JPMorgan plans to deliver $4 billion of gold bullion to New York this month, according to The Guardian. Plus, Chinese demand for gold has surged due to the Spring Festival holidays.\n\nMeanwhile, inflows into U.S.-listed spot Bitcoin\nBTC\n$104,608.94\nETFs have primarily come from traders engaging in non-directional arbitrage bets on BTC, according to 10x Research.\n\n\"The ETF buying could be offset by simultaneous spot or futures selling (unwinding of long positions), dampening any significant price impact,\" Markus Thielen, founder of 10x Research, said in a note to clients Monday, noting the $4 billion in inflows into the U.S. spot-listed ETFs since the release of the inflation data three weeks ago.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/bitcoin-gold-ratio-at-12-week-low-as-u-s-physical-gold-deliveries-soar",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Markus Thielen"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "JPMorgan",
+                "10x Research"
+            ],
+            "organizations": [
+                "Reuters",
+                "The Guardian",
+                "TradingView",
+                "Comex"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The bitcoin-gold ratio has dropped to a 12-week low as bitcoin struggles to gather upside traction while gold surges due to safe-haven demand, and ETF buying is being offset by simultaneous spot or futures selling."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "How the Hype for HyperLiquid's Vault Evaporated on Concerns Over Centralization",
+    "time": "2025-04-10T17:00:00",
+    "author": "Oliver Knight",
+    "summary": "Users fled the DEX and TVL has dropped to $150 million from $540 million in the past month.",
+    "content": "Just two months ago, the total value of funds locked (TVL) on HyperLiquid, a decentralized derivatives exchange (DEX) that allows traders to generate returns by staking to a shared vault, sat at a record $540 million.\n\nNow, users are fleeing, TVL has slumped to $150 million and the yield has dropped to a measly 1%, in many cases, less than they'd get if they stashed their cash in a bank account.\n\nAt issue is an exploit that saw one user manipulate the price of a token called JELLY and force the vault, known as Hyperliquidity Provider, into a loss. But the negative PNL wasn't the reason for the exodus. Rather it was HyperLiquid's response, which led to concerns about how decentralized the protocol actually was, and whether it was acting exactly like the centralized exchange model it tried to distance itself from.\n\nFor the manipulation, the user shorted JELLY on HyperLiquid, that is sold tokens they didn't own. They also bought tokens on illiquid decentralized exchanges. The lack of liquidity tricked the pricing oracle to relay an inflated price to HyperLiquid, forcing HyperLiquid's vault to inherit a toxic position via liquidation.\n\nAs the price of JELLY rose further because of the spot buying pressure, the PNL for HyperLiquid's vault sank more heavily into the red. Eventually, the exchange force closed the JELLY market, settling it at $0.0095 as opposed to the $0.50 that was being fed to oracles via decentralized exchanges.\n\nThis meant that the negative PNL was wiped away and, on paper, the vault performed well throughout the saga. But the action raised concerns about the control of what's meant to be a decentralized process. At the time, Newfound Research CEO Corey Hoffstein questioned the legality of HyperLiquid's actions and social media descended into outrage.\n\nSome believe that the exploit was a mistake on HyperLiquid's part.\n\n“The Jelly exploit on Hyperliquid wasn’t a fluke,\" Jan Philipp Fritsche, managing director at Oak Security, told CoinDesk. \"It was a textbook case of unpriced vega risk: when leveraged trading on volatile assets is allowed without properly accounting for how that volatility can drain the risk fund. The attacker opened massive opposing positions in JELLY, knowing that one side would collapse and the other would cash out.\n\n\"This isn’t theoretical. It happened. And it will happen again. We flagged this exact risk vector in audits before, but economic flaws often get ignored because they’re not technical. That’s a mistake,\" Fritsche added.\n\nIn this case, the manipulator ended up with a small loss.\n\nIt's worth pointing out that HyperLiquid attempted to remedy the centralization concerns, upgrading its system to a include an on-chain validator voting for asset delisting, which means that the exchange will not be able to remove like JELLY in future without validator consensus.\n\nWhile the vault suffered a major blow in terms of trust and branding, the exchange itself continues to tick along just fine in terms of trading volume. Over $70 billion worth of volume has been notched so far this month and it looks to be on track to break it's January record of $197 billion.\n\nStill, the exchange's native token (HYPE), which was distributed to users in December, has failed to mimic the positive performance of the exchange, losing 60% of its value over the past four months with its market cap dwindling from $9.7 billion to $4.6 billion.",
+    "url": "https://www.coindesk.com/business/2025/04/10/how-the-hype-for-hyperliquid-s-vault-evaporated-on-concerns-over-centralization",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Corey Hoffstein",
+                "Jan Philipp Fritsche"
+            ],
+            "positions": [
+                "CEO",
+                "managing director"
+            ],
+            "companies": [
+                "Newfound Research",
+                "Oak Security",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "HyperLiquid"
+            ]
+        },
+        "cryptocurrencies": [
+            "JELLY",
+            "HYPE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes users fleeing the DEX, TVL dropping from $540 million to $150 million, yield dropping to 1%, an exploit causing losses, centralization concerns, and HYPE token losing 60% of its value."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Anchorage Digital to Acquire USDM Issuer Mountain Protocol in Stablecoin Expansion Move",
+    "time": "2025-05-12T18:06:00",
+    "author": "Krisztian Sandor",
+    "summary": "The deal aims to strengthen Anchorage Digital’s role in the institutional stablecoin ecosystem, CEO Nathan McCauley said.",
+    "content": "Anchorage Digital, a federally chartered crypto bank and custodian, said on Monday it has signed a definitive agreement to acquire stablecoin issuer Mountain Protocol as part of its strategy to deepen support for institutional stablecoin use.\n\nAnchorage said it plans to fold the Mountain’s technology, team and licensing structure into its own operations, pending closing procedures and regulatory sign-off.\n\n\"Stablecoins are becoming the backbone of the digital economy,\" Nathan McCauley, co-founder and CEO of Anchorage, said in an statement. \"With recent regulatory progress and new institutional use cases, our long-term vision is clear: every business will be a stablecoin business.\"\n\n\"By acquiring Mountain Protocol, we are taking a significant step forward in supporting institutional stablecoin adoption and advancing a new era of safety, security, and regulatory compliance in the global digital asset ecosystem,\" McCauley added.\n\nThe move comes as the stablecoin adoption is soaring, with payment firms, fintechs and even banks eyeing the asset class with legislation looming in the U.S. to regulate. These cryptocurrencies are anchored to an external asset, predominantly to the U.S dollar, and offer a cheaper, faster alternative to traditional payment rails with programmable transfer and . The market could grow to trillions of dollars in this decade from the current $230 billion size, according to Citi.\n\nThe market is getting increasingly competitive, too, leading to consolidation. Earlier this year, USDC issuer Circle acquired tokenization startup Hashnote, issuer of the yield-bearing USDY token.\n\nMountain, regulated by the Bermuda Monetary Authority, issues the yield-bearing USDM stablecoin backed by short-term U.S. Treasuries. The token, launched in late 2023, saw a rapid growth in its early months to $150 million supply, coinciding with a reward program, but then declined to $50 million, per RWA.xyz data.\n\nMountain Protocol said in a blog post that it will phase out its USDM token in an \"an orderly wind-down process\" as part of the acquisition.\n\nUPDATE (May 12, 21:13 UTC): Adds Mountain Protocol decision to phase out USDM.",
+    "url": "https://www.coindesk.com/business/2025/05/12/anchorage-digital-to-acquire-usdm-issuer-mountain-protocol-in-stablecoin-expansion-move",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nathan McCauley"
+            ],
+            "positions": [
+                "co-founder and CEO"
+            ],
+            "companies": [
+                "Anchorage Digital",
+                "Mountain Protocol",
+                "Circle",
+                "Hashnote"
+            ],
+            "organizations": [
+                "Bermuda Monetary Authority",
+                "Citi"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDM",
+            "USDC",
+            "USDY"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition strengthens institutional stablecoin adoption and advances regulatory compliance in the digital asset ecosystem, indicating market growth and confidence."
+    }
+}

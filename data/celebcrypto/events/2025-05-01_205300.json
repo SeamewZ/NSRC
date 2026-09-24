@@ -1,0 +1,33 @@
+{
+    "title": "Mango Markets Exploiter Gets 4+ Years for Child Porn; Fraud Retrial Looms",
+    "summary": "The judge overseeing Eisenberg's case said he was considering approving a retrial on fraud charges for the Mango Markets theft.",
+    "time": "2025-05-01T20:53:00",
+    "author": "Cheyenne Ligon",
+    "content": "NEW YORK, NY — Mango Markets exploiter Avraham “Avi” Eisenberg, who stole $110 million from the now-defunct decentralized finance protocol in 2022, was sentenced to 52 months in prison on Thursday — on his guilty plea to possession of child sexual exploitation material, not for his conviction on the crypto theft.\n\nThe sentencing comes a year after a New York jury found Eisenberg guilty of wire fraud, commodities fraud and commodities manipulation for his Mango Markets stunt, and a year after he separately pleaded guilty to the possession of child sexual abuse material (CSAM), which was found on his devices after his arrest.\n\nDefense attorneys moved for either a new trial or an acquittal on the Mango Markets-related charges last year, claiming that the Department of Justice pursued the case in the wrong venue (the Southern District of New York), that the government hadn't properly proved that the MNGO Perpetual was a \"swap,\" that Eisenberg intended to manipulate the MNGO Perpetual's price and that his \"alleged deceptions ... were immaterial.\"\n\nIn a hearing in Manhattan on Thursday, Judge Arun Subramanian said he would sentence Eisenberg to more than four years in prison at FCI Otisville, a medium-security facility about two hours' drive from Manhattan, but that there was a \"non-zero chance I will grant that motion\" related to the Mango Markets-related charges.\n\nThe bulk of any sentence would be related to the CSAM charge anyway, the judge said.\n\n\"I think that in this specific area, general deterrence has more weight ... the only way to try to stem the tide of the distribution of this material\" is through a prison sentence, the judge said, before reading three witness statements.\n\nThe judge also said he acknowledged to Eisenberg's effort to better understand the impact of his crime, but that a prison sentence was still necessary. Eisenberg is sentenced to five years of probation with strict rules after he is released from prison, the judge said, but will have to install monitoring software on all of his electronic devices and go through a drug outpatient program.\n\nIn their sentencing submission to the court, prosecutors asked for Eisenberg to serve between 6.5 and 8 years in prison, stressing the seriousness of his offenses. Though Eisenberg has maintained that his crypto trading actions on Mango Markets were “compliant” with the protocol and thus didn’t break the law (an argument a jury clearly did not buy), prosecutors say Eisenberg was well aware that what he was doing was a crime. Before his Mango Markets heist, he’d filed suit against someone else for crypto-related market manipulation, and fled the country for Israel once his identity as the attacker was unveiled.\n\nProsecutors also detailed Eisenberg’s child sexual abuse material charges, telling the judge that between 2017 and 2022, he downloaded 1,274 sexually-explicit images and videos of children — including toddlers and two-month-old infants — as well as “depictions of sadistic violence and masochism against children.”\n\nIn their own sentencing submission to the court, Eisenberg and his lawyers attempted to blame his strict religious upbringing and his lifelong “struggles to conform to social norms” for his crimes, calling him a “fundamentally decent person” and detailing his challenges adapting to the “daily horrors” of life in jail.",
+    "url": "https://www.coindesk.com/policy/2025/05/01/mango-markets-exploiter-avi-eisenberg-sentenced-to-4-years-in-prison-for-child-porn",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Avraham “Avi” Eisenberg",
+                "Judge Arun Subramanian"
+            ],
+            "positions": [
+                "Defense attorneys",
+                "Prosecutors"
+            ],
+            "companies": [
+                "Mango Markets"
+            ],
+            "organizations": [
+                "Department of Justice",
+                "Southern District of New York",
+                "FCI Otisville"
+            ]
+        },
+        "cryptocurrencies": [
+            "MNGO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a major $110 million theft from a DeFi protocol and ongoing legal proceedings against the exploiter, which represents negative security and regulatory developments for the cryptocurrency market."
+    }
+}

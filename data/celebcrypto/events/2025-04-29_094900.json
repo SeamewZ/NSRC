@@ -1,0 +1,38 @@
+{
+    "title": "BlackRock’s IBIT Sees Second-Largest Bitcoin Inflow Since Launch, Nearing $1 Billion",
+    "summary": "CME Bitcoin Futures open interest falls for four straight days, according to CME data.",
+    "time": "2025-04-29T09:49:00",
+    "author": "James Van Straten",
+    "content": "The BlackRock iShares Bitcoin\nBTC\n$101,837.96\nTrust ETF (IBIT) saw $970.9 million in inflows, marking its second-largest net inflow since launching in January 2024, according to Farside data.\n\nMonday accounted for $591.2 million in new capital, which saw heavy outflows from competitors: Fidelity’s FBTC lost $86.9 million, Bitwise’s BITB dropped $21.1 million, and ARK’s ARKB saw $226.3 million in outflows.\n\nThe rise comes alongside a 7.2% rise in BTC over the past seven days with it now trading at $94,900.\n\nSince April 22, IBIT has amassed over $4.5 billion in net inflows, bucking the market trend.\n\nIndustry experts have taken note. Nate Geraci, President of The ETF Store, remarked:\n\nEric Balchunas, Senior Bloomberg ETF Analyst, added:\n\nMeanwhile, in derivatives markets, open interest (OI) on CME Bitcoin Futures continues to fall, now sitting at 132,750 BTC after four consecutive days of decline, according to CME data.\nThe recent decline in open interest could be coming to an end, as the annualized basis yield has climbed from around 5% to 9% in April, according to Velo data. This resurgence in basis trade profitability could prompt renewed activity and a short-term rebound in open interest.\n\nWhy it matters: In a typical basis trade, investors buy spot bitcoin and short bitcoin futures to lock in the price gap. When the yield is high, demand for futures rises, boosting OI. As the yield shrinks, fewer traders engage in the strategy, leading to declining open interest and signaling reduced leverage in the market.",
+    "url": "https://www.coindesk.com/markets/2025/04/29/blackrocks-ibit-sees-second-largest-bitcoin-inflow-since-launch-nearing-1-billion",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nate Geraci",
+                "Eric Balchunas"
+            ],
+            "positions": [
+                "President",
+                "Senior Bloomberg ETF Analyst"
+            ],
+            "companies": [
+                "BlackRock",
+                "Fidelity",
+                "Bitwise",
+                "ARK",
+                "CME",
+                "Velo"
+            ],
+            "organizations": [
+                "The ETF Store",
+                "Bloomberg"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights BlackRock's IBIT ETF seeing massive inflows of $970.9 million alongside a 7.2% BTC price rise and potential rebound in futures market activity due to increased basis trade profitability."
+    }
+}

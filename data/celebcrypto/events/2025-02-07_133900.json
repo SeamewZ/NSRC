@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin Tops $100K After U.S. Added Fewer Than Forecast Jobs in January",
+    "time": "2025-02-07T13:39:00",
+    "author": "James Van Straten",
+    "summary": "The unemployment rate fell to 4%, rather than holding steady at 4.1%.",
+    "content": "Bitcoin (BTC) snapped a three-day decline after January job growth in the U.S. fell short of expectations.\n\nThe largest cryptocurrency rose above $100,000 for the first time since Feb. 4, according to CCData, after the Bureau of Labor Statistics said the economy added 143,000 jobs in January, below the forecast 170,000 and down from 256,000 in December.\n\nStill, the unemployment rate dropped to 4%, compared with an expected 4.1% and December’s 4.1% and growth in average hourly earnings blew past estimates coming in at 0.5% compared with the expected at 0.3%.\n\n\"Relatively high wage inflation and a low unemployment rate mean that the Federal Reserve isn't likely to cut rates anytime soon, but markets already know that,\" said Zach Pandl, Grayscale’s head of research. \"As long as equity markets remain broadly stable, Bitcoin could make news highs later this quarter\".\n\nThe chance of the Federal Reserve lowering the benchmark interest rate at its March meeting fell to 8% from 15% after the report, according to CME FedWatch data.\n\nThe Fed cut the fed funds rate by 100 basis points over the last four months of 2024, and several weeks ago investors were expecting more of the same in 2025. A string of strong economic and inflation data since, however, has had the Fed quickly backtracking on its dovishness and traders pricing out the odds of any further policy ease.\n\nUPDATE (Feb. 7, 13:59 UTC): Adds bitcoin price reaction in headline and first two paragraphs, Fed rate-cut chances in fourth.\nUPDATE (Feb. 7, 14: 23 UTC): Adds bitcoin price tops $100,000\n\nUPDATE (Feb. 7, 15: 08 UTC): Adds quote from Grayscale’s head of research in fourth paragraph.",
+    "url": "https://www.coindesk.com/markets/2025/02/06/u-s-added-143k-jobs-in-january-fewer-than-forecast",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Zach Pandl"
+            ],
+            "positions": [
+                "head of research"
+            ],
+            "companies": [
+                "Grayscale"
+            ],
+            "organizations": [
+                "Bureau of Labor Statistics",
+                "Federal Reserve",
+                "CME FedWatch"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin rose above $100,000 and the article quotes an expert saying Bitcoin could make new highs later this quarter."
+    }
+}

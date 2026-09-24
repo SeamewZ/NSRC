@@ -1,0 +1,44 @@
+{
+    "title": "MIT-Incubated Optimum Raises $11M Seed Round to Build Web3's Missing Memory Layer",
+    "summary": "The seed round was led by 1kx and included Robot Ventures, Finality Capital, Spartan and more.",
+    "time": "2025-04-15T13:00:00",
+    "author": "Ian Allison",
+    "content": "Optimum, a decentralized, performance-enhancing memory layer for any blockchain, raised an $11 million seed round, inviting its creators from institutions like Harvard and MIT to jump from the world of academia into the commercial crypto arena.\n\nThe seed round was led by 1kx with participation from Robot Ventures, Finality Capital, Spartan, CMT Digital, SNZ, Triton Capital, Big Brain, CMS, Longhash, NGC, Animoca, GSR, Caladan, Reforge and others.\n\nOptimum is building what it calls the missing memory layer of blockchains, making the way data is stored, accessed and propagated, faster, cheaper and truly decentralized, according to a press release.\n\nAt the core of Optimum’s innovation is a method of decentralized coding for distributed systems, known as Random Linear Network Coding (RLNC), developed by Muriel Médard, an MIT professor who is speaking at Consensus Toronto 2025.\n\n“If you think of Web3 as a decentralized world computer, people have done an amazing job on the compute part; let's say, the operating system,” Médard said in an interview. “But anybody who's put together a computer knows that you also need a bus, which is the data propagation, and you need a memory, which we call the random access memory, as opposed to more static memory like a disk or the cloud.”\n\nREAD MORE: Muriel Médard: Web3 Has a Memory Problem — And We Finally Have a Fix\n\nWithout a scalable memory layer, blockchains face systemic inefficiencies, according to Médard, such as outdated gossip networks that redundantly propagate data, congested memepools that cause unpredictable delays and bloated nodes that make retrieval costly and complex.\n\nOptimum’s memory infrastructure tackles inefficient data propagation, redundant storage and slow access, using Médard’s RLNC coding scheme.\n\nOptimum is now live on a private testnet and is inviting L1s, L2s, validators and node operators to experience its decentralized memory layer in action.",
+    "url": "https://www.coindesk.com/tech/2025/04/15/mit-incubated-optimum-raises-usd11m-seed-round-to-build-web3-s-missing-memory-layer",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Muriel Médard"
+            ],
+            "positions": [
+                "MIT professor"
+            ],
+            "companies": [
+                "Optimum",
+                "1kx",
+                "Robot Ventures",
+                "Finality Capital",
+                "Spartan",
+                "CMT Digital",
+                "SNZ",
+                "Triton Capital",
+                "Big Brain",
+                "CMS",
+                "Longhash",
+                "NGC",
+                "Animoca",
+                "GSR",
+                "Caladan",
+                "Reforge"
+            ],
+            "organizations": [
+                "MIT",
+                "Harvard",
+                "Consensus Toronto 2025"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a successful $11 million seed funding round for blockchain infrastructure development, indicating investor confidence and positive momentum for Web3 technology."
+    }
+}

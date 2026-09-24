@@ -1,0 +1,42 @@
+{
+    "title": "Anna Kazlauskas: Data Ownership in the Age of AI",
+    "time": "2025-05-08T21:13:00",
+    "author": "Jeff Wilser",
+    "summary": "The co-founder of Vana is building data DAOs and decentralized marketplaces to create an ecosystem of user-owned data. She will give the keynote at the AI Summit at Consensus May 16.",
+    "content": "You’re swimming in data. You’re creating new data every day. If your health app counts your steps? That’s new data. The Oura ring that’s tracking your bio-metrics? Valuable data. Your social media posts, even the stupid jokes that got zero likes? More data.\n\nThis is all data that AI companies would love to harvest. You can’t build good AI without good data, which is why many view data as the “new oil’ in the race for AI. The problem, though, is that while your data is valuable in theory, the reality is that it’s hard to monetize your own personal data, as you have no leverage as an individual. (Open AI isn’t knocking at your door to buy your old tweets.)\n\nEnter Vana. “I think data is this fundamental resource powering the next generation of AI, and really the next generation of our digital economy,” says Anna Kazlauskas, co-founder of Vana and CEO of Open Data Labs. “A lot of people frankly just don't realize that they actually own their data.”\n\nBut you do own your data. And it’s valuable… if you can somehow join forces with millions of others who also own their data. This would give you bargaining power. And that’s the mission of Vana: To create an ecosystem for user-owned data, which in turn fuels user-owned AI.\n\nThat ecosystem involves a mix of Data DAOs (a “labor union” for data), decentralized data marketplaces, the recently launched VRC-20 token, and a new collaboration with Flower Labs to build the world’s first user-owned foundational model. (Exhibit A that Decentralized AI is creeping into the mainstream: The Vana/Flower collaboration was covered by WIRED.)\n\nKazlauskas will give a keynote at the AI Summit at Consensus 2025 outlining this vision, and she gives a glimpse here. And she sees the momentum shifting. “We're already starting to see this shift where more people realize that, ‘My data is really important to AI’ and ‘I’m actually the owner of that.’” She predicts that in a few years, over 100 million users will be onboard. In 10 years? “World population. Above 10 billion.”\n\nInterview has been condensed and lightly edited for clarity.\n\nWhy is user-owned data so important to you?\n\nAnna Kazlauskas: Most people assume data is owned by the platforms that it's sitting on, but that's not the case. In the same way that when you put your car in a parking lot, the parking lot doesn't own your car. You can always take it back. You have full ownership over it.\n\nAnd there's a huge amount of money being made today, mostly by big tech companies, off of that data, but users are the legal owners. So I think it's important that we restore that ownership, both from a user perspective and from a developer's perspective.\n\nCan you connect the dots of how this helps developers?\n\nAs a developer, especially in an AI world, having access to the right data is really important. And it's super hard to do right now, because most of the data is locked up within the walled gardens of big tech. So many of my really smart friends who do stuff in AI go work at the big labs, because that's where the data is and that’s where the compute is. But that doesn't have to be the case.\n\nHow do Data DAOs fit into this vision exactly?\n\nSo a DataDAO is kind of like a labor union for data. Where basically you have a large group of people who pool their data together, and then can make collective decisions over what happens to that data.\n\nThe reason why that's important is that your data, on its own, is not that useful, right? It's much more useful when there's a big pool of it. When there’s enough of it to train an AI model.\n\nWhat are some of the Data DAOs you’re most excited by?\n\nThere are a few in the health space that are really interesting. There's an early one that's actually doing full exports of patient medical records, which I think can really help advance a lot of research in the space. There's some related to biometrics, sleep, and health. There’s one with the DLP [Driver Loyalty Program] Labs; they’re building car data. And within their data-set, the Tesla data is really interesting because most people think about Tesla as valuable because they have a data lead, right? Actually, the users can get a lot of that data-set.\n\nYou’re pivoting from theory to practice with the new collaboration with Flower Labs to build COLLECTIVE-1. What’s the goal there?\n\nCOLLECTIVE-1 is the first user-owned foundation model. Usually when people think about a foundation model, they typically think of one company running a very large training job in a single data center, right? Like OpenAI. And the reason why it's typically done in a centralized way is because it requires, one, a whole lot of compute power, and two, a whole lot of data.\n\nFlower AI is kind of the leader in federated [decentralized] training. They've done a really great job of building these great open source libraries. They’ve come in from the training side and the algorithm side. And with Vana, we really focus on that data piece, right? So we basically have all this data that people can train on. Then you give users end-ownership of the model, and users can decide on what the model is allowed to do? So this is the first foundation model of its kind.\n\nAnd the theory is that eventually, with better data, you can build AI that’s not just competitive with the central players but better, is that right? So it’s not just about ideology, but also performance.\n\nExactly, yeah that’s 100% right. From a decentralized context, I think often people agree in principle that, “Yes, we should have AI that's owned by the people. We should have decentralized AI.” But what’s the thing that we can actually do better in a decentralized context? Data is the answer. For each company, they only have their single slice of a data-set. Apple’s got their data. Google’s got their data. But if you’re going through the user, you can cut across platforms and actually build better data-sets than any single company. Data is the secret sauce that makes it all work.\n\nLove it. Thanks Anna, see you at the AI Summit in Toronto.\n\nJeff Wilser will host the AI Summit at Consensus 2025, and is host of The People’s AI: The Decentralized AI Podcast.",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/08/anna-kazlauskas-data-ownership-in-the-age-of-ai",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Anna Kazlauskas",
+                "Jeff Wilser"
+            ],
+            "positions": [
+                "co-founder",
+                "CEO",
+                "host"
+            ],
+            "companies": [
+                "Vana",
+                "Open Data Labs",
+                "Flower Labs",
+                "OpenAI",
+                "Apple",
+                "Google",
+                "Tesla",
+                "DLP Labs"
+            ],
+            "organizations": [
+                "AI Summit",
+                "Consensus 2025",
+                "WIRED",
+                "The People's AI: The Decentralized AI Podcast"
+            ]
+        },
+        "cryptocurrencies": [
+            "VRC-20"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes positive developments in decentralized AI and data ownership ecosystems, including new token launches and mainstream collaborations that could drive adoption and value in the crypto space."
+    }
+}

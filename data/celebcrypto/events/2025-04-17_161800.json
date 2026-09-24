@@ -1,0 +1,43 @@
+{
+    "title": "Crypto Casino Founder Richard Kim Arrested After Gambling Away Investor Funds",
+    "summary": "Former Galaxy, Goldman Sachs, and JP Morgan executive Richard Kim faces securities and wire fraud charges after allegedly gambling away \"nearly all\" of his investors' funds.",
+    "time": "2025-04-17T16:18:00",
+    "author": "Sam Kessler",
+    "content": "Richard Kim, the founder of crypto casino Zero Edge, was arrested on Tuesday following allegations that he had gambled away investors' funds.\n\nAccording to an FBI complaint filed on Tuesday in the Southern District of New York, Kim \"fraudulently induced investors to invest in Zero Edge, a cryptocurrency technology company he founded, and then misappropriated millions of dollars in those investors’ funds.\"\n\nThe FBI said Kim lost \"nearly all\" of the $7 million he raised from investors and charged him with securities fraud and wire fraud. According to court records, Kim posted a secured bond of $250,000 and put up $100,000 in \"cash or real property\" to secure it.\n\nCoinDesk was first to report on the Zero Edge incident in July of last year. In an interview at the time, Kim revealed to CoinDesk that he had gambled away more than $3.67 million of his investors' funds through a series of high-risk leveraged crypto trades.\n\n\"The downfall began with a careless mistake — a phishing site that cost $80k,\" Kim said in his own recollection of what went wrong, which he shared with CoinDesk in a written statement that he later published as a public apology. \"This triggered my old demons, the need to 'make it back' to preserve my reputation.\"\n\nAccording to Kim, he \"started down a negative spiral of leverage trading, raising more capital, and hiding the truth.\"\n\nAfter losing most of the $7 million he had raised for Zero Edge, Kim told CoinDesk he reported himself to the U.S. Securities and Exchange Commission's public tip line.\n\n\"Part of my rationale in reaching out proactively to the SEC was to say, OK guys, I really f—d up. I lost this money. It was grossly negligent. But I didn't intend to go run away with this money,\" he told CoinDesk in an interview.\n\nAccording to the FBI complaint, Kim's previous accounts \"misleadingly described where investors' funds had gone, and why, and omitted to inform investors that certain funds had been transferred to Shuffle.com, the gambling website.\"\n\nKim's claim that he initially lost $80,000 to a phishing scam and never “mix[ed] personal and business funds,” according to the FBI, failed to account for the fact that he had also sent company funds to an online sportsbook and personal crypto investment accounts.\n\nKim did not immediately respond to a request for comment this week.\n\nKim's arrest marks a striking fall from grace. A former executive of Galaxy, the crypto investment firm headed by Michael Novogratz, Kim also led elite trading desks at JPMorgan and Goldman Sachs. Before that, he was an attorney with the prestigious law firm Cleary Gottlieb.\n\nGalaxy was among the investors in Zero Edge who lost money as a result of Kim's activities.\n\n\"Mr. Kim left Galaxy in March 2024 to start Zero Edge, a company in which Galaxy had an immaterial balance-sheet investment,\" said Michael Wursthorn, Galaxy's head of communications. \"Upon learning of certain actions taken by Mr. Kim in his role at Zero Edge, we, along with other investors, reported his conduct to the authorities.\"\n\nKim pitched Zero Edge as a first-of-its-kind crypto casino that would level the playing field for gamblers through improved transparency.\n\nZero Edge never launched, but Kim told CoinDesk last year that he was motivated to build it because of his history with gambling addiction and his frustration that the house frequently had an opaque and unfair edge over players.\n\nRead more: Crypto Casino Founder Apologizes for Gambling Away Investor Funds",
+    "url": "https://www.coindesk.com/policy/2025/04/17/crypto-casino-founder-richard-kim-arrested-after-gambling-away-investor-funds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Richard Kim",
+                "Michael Novogratz",
+                "Michael Wursthorn"
+            ],
+            "positions": [
+                "founder",
+                "former executive",
+                "head of communications",
+                "attorney",
+                "former executive of Galaxy",
+                "led elite trading desks"
+            ],
+            "companies": [
+                "Zero Edge",
+                "Galaxy",
+                "Goldman Sachs",
+                "JP Morgan",
+                "JPMorgan",
+                "Cleary Gottlieb",
+                "Shuffle.com"
+            ],
+            "organizations": [
+                "FBI",
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "Southern District of New York"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes fraudulent activities where investor funds were gambled away, involving a crypto company founder's arrest, which creates negative sentiment and regulatory concerns for the cryptocurrency market."
+    }
+}

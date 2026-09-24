@@ -1,0 +1,35 @@
+{
+    "title": "The Bull Case for Galaxy Digital Is AI Data Centers Not Bitcoin Mining, Research Firm Says",
+    "summary": "Rittenhouse Research, a new firm covering fintech, AI, and crypto, is giving GLXY a strong buy rating because of its BTC mining to AI transition",
+    "time": "2025-05-19T06:16:00",
+    "author": "Sam Reynolds",
+    "content": "When Galaxy Digital (GLXY) CEO Mike Novogratz bought Argos' Helios data center in late 2022, at the depths of the post-FTX crypto winter, the company thought they were bailing out a desperate bitcoin\nBTC\n$101,803.55\nminer on the brink of bankruptcy.\n\nThis, however, was before ChatGPT had become mainstream. Novogratz and co. had no idea that this data center would be a strategic asset as the growing Artificial Intelligence (AI) industry clamours for more data center space, thanks to the explosive growth of Large Language Models (LLMs).\n\nAs analysts from Rittenhouse Research outlined in a new note, Galaxy’s lucky find, which instigated the company's move out of BTC mining altogether, might now be crypto’s most lucrative pivot, as they make the case that the infrastructure used to mine digital gold is better used to process AI algorithms, and firms that shift away from BTC mining towards AI infrastructure are set to be the next growth stocks.\n\nAnalysts from Rittenhouse argue that AI data centers represent a significantly more lucrative business model than BTC mining because they generate stable, long-term cash flows with minimal ongoing capital expenditures, contrasting sharply with the volatility and capital intensity of bitcoin mining.\n\nBTC mining revenues inherently decline by approximately 50% every four years due to the scheduled halvinings. Effectively, the play for a miner is being a long-term bull on BTC's price and the ability for semiconductor fabs and designers to develop chips that are perpetually more efficient, and, for an investor, that's a lot of variables.\n\nIn contrast, AI data centers like Galaxy’s Helios facility earn consistent, high-margin revenue through long-term, triple net leases to hyperscaler tenants (a large-scale cloud computing provider), without needing continuous investment in mining equipment.\n\n“Galaxy stumbled upon Helios by virtue of good luck,” Rittenhouse wrote in their note. While competitors such as Riot Platforms and Cipher Mining have publicly tried to \"rewrite history,\" retroactively suggesting their business was always broader than BTC mining, analysts say, “in reality, these miners had zero intentions to do anything besides mine BTC until ChatGPT was launched.”\n\nGalaxy’s transition reflects a broader trend as BTC miners attempt to pivot toward AI and cloud computing.\n\nYet, analysts underscore Galaxy’s significant advantage, stemming from its superior balance sheet ($1.8 billion of net cash and investments), successful execution record, and credibility established through the CoreWeave lease.\n\nWhile some have raised concerns over CoreWeave's creditworthiness, causing Galaxy's shares to trade at a significant discount, Rittenhouse analysts say these fears are significantly overblown, highlighting CoreWeave's exceptional revenue stability from long-term contracts accounting for 96% of its revenues and its strong institutional backing.\n\nThe analysts emphasize that CoreWeave's debt is carefully structured through delayed draw term loans, utilized specifically to finance infrastructure directly linked to secured customer agreements, dramatically reducing default risk.\n\nRittenhouse also notes that Galaxy has gone fully in on AI, and now doesn't have any exposure to mining.\n\n\"Galaxy has completely exited all bitcoin mining activities to focus solely on its AI data center ambitions, which sends a positive signal to potential hyperscaler tenants,\" analysts wrote.\n\nAs Rittenhouse writes, Cipher Mining’s CEO Tyler Page recently acknowledged the uphill battle miners face when approaching major AI customers.\n\n\"It’s not lost on us that if we’re talking to a counterparty with a $1 trillion market cap... One drawback for bitcoin miners is that major counterparties say, ‘wow, that’s a big obligation for you guys to backstop for such an important investment for us,’\" Page said on the company's Q1 2025 earnings call.\n\nGalaxy doesn't have that problem. With this Helios deal in place and Novogratz's company totally out of mining, Galaxy’s accidental pivot might just turn out to be crypto’s best strategic move in years – if Rittenhouse's thesis is correct.",
+    "url": "https://www.coindesk.com/markets/2025/05/19/the-bull-case-for-galaxy-digital-is-ai-data-centers-not-bitcoin-mining-research-firm-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Novogratz",
+                "Tyler Page"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Galaxy Digital",
+                "Argos",
+                "Riot Platforms",
+                "Cipher Mining",
+                "CoreWeave"
+            ],
+            "organizations": [
+                "Rittenhouse Research"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights Galaxy Digital's successful pivot from volatile bitcoin mining to stable AI data centers, which analysts view as a lucrative strategic move that could make it a growth stock."
+    }
+}

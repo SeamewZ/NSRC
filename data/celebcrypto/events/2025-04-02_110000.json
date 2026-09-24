@@ -1,0 +1,24 @@
+{
+    "title": "BlockFi Appeals to Creditors to Come Forward and Claim Bankruptcy Distributions",
+    "time": "2025-04-02T11:00:00",
+    "author": "Ian Allison",
+    "summary": "With a May 15 deadline looming, just 43% of non-U.S. customers have claimed their distributions.",
+    "content": "Less than half of non-U.S. customers of bankrupt cryptocurrency lending firm BlockFi have come forward to claim their assets back with a May 15 deadline looming, the lender said in a blogpost on Wednesday.\n\nBlockFi filed for bankruptcy in November of 2022 as contagion from the collapse of FTX spread through the crypto industry. The firm later emerged from bankruptcy and announced a plan in July of 2024 to distribute 100% of the dollar value of customers’ claims at the time of the bankruptcy filing.\n\nSo far, 97% of U.S. customers have claimed their distributions, while only 43% of non-U.S. customers have received their distributions. It should be noted that arranging distributions for U.S. customers was more straightforward and began earlier than those for non-U.S., which involved courts in both the U.S. and Bermuda.\n\nA possible reason for the shortfall in claimants could be because people think messages from the BlockFi Estate asking customers to select a payment method are spam or phishing attacks. The firm said it has been working with security experts to reassure customers of legitimacy.\n\n“BlockFi is doing all it can to make final distributions to all former customers,” the blogpost said. “Some customers may need to complete a ‘Know Your Customer’ identity verification process to receive their distributions. We strongly encourage all customers who have not received their distributions or finished this process to complete this process by May 15, 2025.”\n\nU.S. and non-U.S. customers had to do KYC in order to use BlockFi in the first place, so this is not likely to be a stumbling block for those still to claim distributions.\n\nThe verification process, which requires two forms of ID, takes ten minutes to perform, BlockFi said. Once completed, reviewed, and approved, clients can expect to receive processed payments within 45 days, it said.\n\nThe bankruptcy code states that assets that are not claimed by customers by the May 15 deadline will be shared among other unsecured creditors lower down in the pecking order.",
+    "url": "https://www.coindesk.com/business/2025/04/02/blockfi-appeals-to-creditors-to-come-forward-and-claim-bankruptcy-distributions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlockFi",
+                "FTX"
+            ],
+            "organizations": [
+                "BlockFi Estate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing bankruptcy distribution logistics for a previously failed company, which represents administrative cleanup rather than new market-moving developments."
+    }
+}

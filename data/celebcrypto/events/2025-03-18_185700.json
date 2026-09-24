@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Pulls Back With Markets Nervous Ahead of Fed Meeting Results",
+    "time": "2025-03-18T18:57:00",
+    "author": "Stephen Alpher",
+    "summary": "The Nasdaq and S&P 500 were both lower by more than 1% about an hour before the close.",
+    "content": "After a couple of sessions of good vibes, risk markets headed back into retreat on Tuesday, one day ahead of the results of this week's U.S. Federal Reserve policy meeting.\n\nBitcoin was trading at $81,300 at press time, lower by 3.5% over the past 24 hours. Solana\nSOL\n$161.68\n, ether\nETH\n$3,524.57\nand XRP were posting modestly higher losses.\n\nA bit more than an hour before the close of trade, the Nasdaq was down 1.7% and S&P 500 1.1%.\n\nThe Federal Open Market Committee began its two-day policy meeting today, with results and Chairman Jerome Powell's post-meeting press conference set for Wednesday afternoon U.S. hours.\n\nWhile no one is expecting a change in interest rates, traders will be looking for signs that the Fed is perhaps turning a hair more dovish given recent market turbulence and a slowdown in inflation.\n\nThe market action on Tuesday, however, suggests nervousness the Fed may not yet be ready to ease policy further. After all, the downturn in inflation seen in February wasn't that large and it was just one report. And the dip in markets — though painful for many — has also been pretty modest given the impressive run higher in recent years.\n\nAccording to CME FedWatch, rate traders today see no chance the Fed cuts rates tomorrow and only a 20% chance the central bank eases at its next meeting in May. For June, though, there's a 66% chance that the Fed will cut rates.",
+    "url": "https://www.coindesk.com/markets/2025/03/18/bitcoin-pulls-back-with-markets-nervous-ahead-of-fed-meeting-results",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell"
+            ],
+            "positions": [
+                "Chairman"
+            ],
+            "companies": [],
+            "organizations": [
+                "U.S. Federal Reserve",
+                "Federal Open Market Committee",
+                "CME FedWatch"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Solana",
+            "SOL",
+            "ether",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "Bitcoin and other cryptocurrencies are declining with significant losses as markets show nervousness ahead of the Fed meeting results."
+    }
+}

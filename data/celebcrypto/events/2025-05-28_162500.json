@@ -1,0 +1,45 @@
+{
+    "title": "U.S. Labor Department Picks Up Crypto Torch, Throws Out Previous Warnings",
+    "summary": "The agency had once called for retirement-plan officials to exercise \"extreme care\" over crypto investments, but it's now withdrawn that elevated concern.",
+    "time": "2025-05-28T16:25:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Department of Labor is reversing its earlier caution about including crypto investments in people's retirement savings, arguing that issuing warnings about the hazards of digital assets failed to maintain appropriate neutrality about what the agency tells investment officials.\n\nThe new compliance directive issued on Wednesday clarified that the department has no business singling out assets for warnings or praise, though the move tracks with months of actions from the administration of President Donald Trump to throw out impediments to digital assets investment. Trump has said he's seeking to be the crypto president.\n\n“The Biden administration’s Department of Labor made a choice to put their thumb on the scale,” Secretary of Labor Lori Chavez-DeRemer said in a statement. “We’re rolling back this overreach and making it clear that investment decisions should be made by fiduciaries, not D.C. bureaucrats.”\n\nThe department under President Joe Biden had advised so-called 401(k) plan decisionmakers that crypto may be overly risky to count on for retirement planning.\n\n\"The department has serious concerns about the prudence of a fiduciary's decision to expose a 401(k) plan's participants to direct investments in cryptocurrencies, or other products whose value is tied to cryptocurrencies,\" it said in the March 2022 compliance release. \"These investments present significant risks and challenges to participants' retirement accounts, including significant risks of fraud, theft, and loss.\"\n\nThe warning came a few months before the industry leapt into a buzzsaw of shocking failures in which big names such as Celsius Network and Voyager Digital collapsed, leading to the sector-shaking disintegration of top global exchange FTX under a cloud of fraud accusations. Retirement investments in bitcoin\nBTC\n$102,205.43\n, for instance, would have slid about 52% over the 12 months following the Labor Department's notice.\n\nHowever, the assets have since climbed, and an investment made on the day of the warning would now be up a considerable 156%.\n\nIn 2023, California-based 401(k) provider ForUsAll sued the DOL in the U.S. District Court in Washington, D.C., alleging the agency didn't follow the proper rules in issuing the guidance.\n\nUnder Trump, agencies including the Securities and Exchange Commission, Commodity Futures Trading Commission, Federal Deposit Insurance Corp. and Office of the Comptroller of the Currency have reconsidered their crypto stance and, in some cases, have begun reversing previous policy. When running for a seat in the House of Representatives, Chavez-DeRemer also received $1.5 million in backing from crypto super PAC Fairshake, though she ultimately lost her race before Trump tapped her for the Labor secretary position.\n\nAs the government seeks to make a sharp turn on the assets, Trump and his family have personally embraced the industry for their own business interests. The president recently attended a dinner thrown for the top investors in his own memecoin, while Trump Media and the Trump-tied World Liberty Financial are pursuing significant crypto moves even as the president's administration considers how it'll oversee such businesses.\n\nTrump's business ties have been raised as a central sticking point for U.S. legislation to establish guardrails for stablecoin issuers.",
+    "url": "https://www.coindesk.com/policy/2025/05/28/u-s-labor-department-picks-up-crypto-torch-throws-out-previous-warnings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Lori Chavez-DeRemer",
+                "Joe Biden"
+            ],
+            "positions": [
+                "Secretary of Labor",
+                "President"
+            ],
+            "companies": [
+                "Celsius Network",
+                "Voyager Digital",
+                "FTX",
+                "ForUsAll",
+                "Trump Media",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "U.S. Department of Labor",
+                "Securities and Exchange Commission",
+                "Commodity Futures Trading Commission",
+                "Federal Deposit Insurance Corp.",
+                "Office of the Comptroller of the Currency",
+                "U.S. District Court",
+                "House of Representatives",
+                "Fairshake"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The U.S. Department of Labor is reversing its earlier caution about crypto investments in retirement plans and removing regulatory impediments, which signals positive regulatory developments for cryptocurrency adoption."
+    }
+}

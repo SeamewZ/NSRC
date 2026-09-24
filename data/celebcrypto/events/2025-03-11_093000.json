@@ -1,0 +1,40 @@
+{
+    "title": "Dogecoin, Ether Slump 9% as Bitcoin Tumble Leads to $700M in Bullish Liquidations",
+    "time": "2025-03-11T09:30:00",
+    "author": "Shaurya Malwa",
+    "summary": "Leveraged traders betting on a rally got torched with BTC bulls losing $420 million, ETH longs saw $150 million in liquidations.",
+    "content": "DOGE\n$0.1666\nand ether\nETH\n$3,517.88\ncratered 9% in the past 24 hours as bitcoin\nBTC\n$104,373.58\nstumbled 4.5%, dipping below $80,000 and leading a brutal sell-off that wiped out $700 million in long positions.\n\nLeveraged traders betting on a rally got torched with $420 million in BTC longs and $150 million in ETH longs being liquidated, alongside $30 million in DOGE long losses. Solana\nSOL\n$161.49\nshed 8%, and XRP slipped 7%, with the broader CoinDesk 20 (CD20) falling more than 6.5%.\n\nOpen interest in BTC futures dropped 7% to $45 billion, signaling forced exits as margin calls hit.\n\n“Investors are taking a risk-off approach as the chances for a Federal Reserve interest rate cut diminished after a stable jobs report and anticipation that February's CPI report will follow similarly to January's reading,” Nick Ruck, director at LVRG Research, told CoinDesk in a Telegram message.\n\n“Traders may sideline and offset risk in their portfolios until the US economic situation becomes clearer and the need for a rate cut becomes stronger, which may not happen until later this year,” Ruck added.\n\nMonday’s losses extended a two-week downward spiral exacerbated by shaky global sentiment, with the S&P 500 down 2% and the Nasdaq off 3% at the start of the week. The sell-off was driven by renewed fears of the impact of U.S. trade tariffs that are set to kick in next month and renewed fears of a recession after a Donald Trump interview on Sunday.\n\nThat was the biggest one-day drop in U.S. equities since September 2022, with the so-called ‘Magnificent 7’ cohort losing $830 billion in market capitalization.\n\nBesides, a stronger U.S. dollar, and a hawkish Federal Reserve signal in late February — with plans of fewer rate cuts in 2025 — and a flight to safe-haven assets gold and Japanese yen have further dented hopes of a recovery in the short term.\n\nOne contrarian sentiment indicator, however, presents limited hope for bulls looking for short-term relief. The Crypto Fear & Greed Index is hovering at 15 — deep in “extreme fear” territory — suggesting that capitulation could set the stage for a relief rally.\n\nSingapore-based QCP Capital said watching Treasury yields and dollar strength present cues for further positioning.\n\n“Despite the market turmoil, not all signals are bearish. This wave of risk-off sentiment has driven 10-year Treasury yields down by around 60 bps and weakened the U.S. dollar — a historically positive factor for USD-denominated risk assets like U.S. equities and crypto,” QCP said in a market broadcast on Tuesday.\n\n“Lower yields also provide a reprieve for the U.S. government, easing borrowing costs at a time when refinancing needs are massive. This comes at a critical moment as Trump's policy roadmap, particularly proposed tax cuts and a more expansionary fiscal stance, takes shape,” the firm added.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/dogecoin-ether-slump-9-as-bitcoin-tumble-leads-to-usd700m-in-long-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Ruck",
+                "Donald Trump"
+            ],
+            "positions": [
+                "director"
+            ],
+            "companies": [
+                "LVRG Research",
+                "QCP Capital"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines, massive liquidations totaling $700 million, and market-wide sell-offs across major cryptocurrencies."
+    }
+}

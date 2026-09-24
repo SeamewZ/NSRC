@@ -1,0 +1,28 @@
+{
+    "title": "Bakkt Shares Drop 35% After Loss of Two Major Customers",
+    "time": "2025-03-17T21:22:00",
+    "author": "Tom Carreras",
+    "summary": "The company is also delaying the filing of its annual report.",
+    "content": "Bakkt Holdings (BKKT), a crypto exchange and custody firm, saw its shares plunge on Monday after disclosing that neither Bank of America (BAC) nor crypto trading app Webull Pay would renew their commercial agreements with the company.\n\nAt the time of writing, BKKT shares have dropped 35% in after hours trading to $12.83. The stock made its all-time high in October 2021, when it was traded for $1,063 shortly after the firm became public through its merger with VPC Impact Acquisition Holdings.\n\nBank of America accounted for roughly 16% of Bakkt’s loyalty service revenue in 2023. Webull, meanwhile, represented 74% of Bakkt’s crypto service revenue in the same period. The agreement with Bank of America is scheduled to expire on April 22, while the contract with Webull will end on June 14.\n\nBakkt has requested an extension of time to file its 2024 annual report with the SEC.",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bakkt-shares-drop-35-after-loss-of-two-major-customers",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Bakkt Holdings",
+                "BKKT",
+                "Bank of America",
+                "BAC",
+                "Webull Pay",
+                "VPC Impact Acquisition Holdings"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bakkt's shares plunging 35% after losing two major customers that accounted for significant portions of its revenue, indicating negative market impact."
+    }
+}

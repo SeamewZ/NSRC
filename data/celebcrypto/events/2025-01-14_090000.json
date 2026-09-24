@@ -1,0 +1,29 @@
+{
+    "title": "Company Behind Illicit $24B Telegram Marketplaces Launches Stablecoin",
+    "time": "2025-01-14T09:00:00",
+    "author": "Oliver Knight",
+    "summary": "Huione's stablecoin is \"not restricted\" by regulatory agencies.",
+    "content": "Huione, a Telegram-based illicit marketplace that offers personal data and money laundering services has rolled out its own stablecoin, according to report by blockchain security firm Elliptic.\n\nThe stablecoin (USDH) was created to “avoid the common freezing and transfer restrictions of traditional digital currencies.” The Huione website adds that “USDH is not restricted by traditional regulatory agencies.”\n\nPrior to the launch of USDH, users on Huione were almost exclusively using tether\nUSDT\n$1.0001\n. Tether froze one of Huione Pay’s accounts in July 2024 after a wallet received funds linked to a theft attributed to North Korea’s Lazarus Group.\n\nThe company also released its own chat service to make it less reliant on third-party apps like Telegram.\n\nThe report claims that Huione has facilitated $24 billion worth of transactions including a large portion of the funds used in infamous pig butchering scams. It is a Chinese-language market and has links to Huione Group, a Cambodian conglomerate.\n\nElliptic research found that \"thousands of vendors\" are offering \"money laundering services, stolen personal data, technology and other items necessary to conduct online fraud on an industrial scale.\" It also found electric shackles intended for use on human trafficking victims.\n\nOne of the money laundering services claims to be representing and operating from the Golden Fortune Science and Technology Park, a reported labor camp that forces Vietnamese, Malaysian and Chinese nationals to carry out cyberscams.",
+    "url": "https://www.coindesk.com/business/2025/01/14/company-behind-illicit-24-b-telegram-marketplaces-launches-stablecoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Huione",
+                "Huione Group",
+                "Golden Fortune Science and Technology Park"
+            ],
+            "organizations": [
+                "Elliptic",
+                "Lazarus Group"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDH",
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes illicit activities including money laundering, fraud, and links to criminal organizations, which could negatively impact market confidence and attract regulatory scrutiny."
+    }
+}

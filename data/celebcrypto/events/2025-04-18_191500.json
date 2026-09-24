@@ -1,0 +1,43 @@
+{
+    "title": "CoinDesk Weekly Recap: EigenLayer, Kraken, Coinbase, AWS",
+    "summary": "Controversies, job cuts, too many lobbyists. A lot happened despite a relatively quiet week on the markets.",
+    "time": "2025-04-18T19:15:00",
+    "author": "Benjamin Schiller",
+    "content": "Following last week’s tariff-caused drama, this was a relatively quiet week in crypto. Bitcoin remained stable around $84k. The CoinDesk 20, which tracks about 80% of the market, was up about 4% in the last seven days — i.e. nothing historic.\n\nStill, plenty happened. On Tuesday, much of crypto went offline because of a tech issue at AWS, showing how the decentralized economy isn’t always that decentralized. Shaurya Malwa reported the news early. Bitcoin and other major cryptos slipped on bad news for Nvidia, Omkar Godbole reported.\n\nMantra, a project focused on real world assets, lost 90% of its value. Explanations varied (the company said it was due to “force liquidations” exchanges).\n\nMeanwhile, EigenLayer, a restaking leader, rolled out a “slashing” feature meant to address security concerns (Sam Kessler reported). OKX, a major exchange, announced plans to set up in California following a $500 million settlement with the SEC over claims it operated previously in the U.S. without a money transmitter license. Cheyenne Ligon had that story.\n\nIn less good news, Kraken laid off “hundreds” of staff ahead of an expected IPO. And Coinbase became embroiled in a “front running controversy” linked to a curiously named token on its Base L2. Privacy advocates reacted with alarm to rumors that Binance was about to delist Zcash following a long decline in the value of privacy coins.\n\nIn D.C. news, Jesse Hamilton reported on a new wave of crypto lobbyists flooding the capital. Some asked if there are now too many trade groups and whether they really all could be effective.\n\nFriends With Benefits, a buzzy social club for creative technologists, launched a new program to build Web3 products for music, film, publishing and other fun activities. (I wrote that one.)\n\nOf course, there was plenty happening in the economy and markets (Trump’s disgust for Fed chair Powell fed into the unease). But, in crypto, it was pretty much business as usual. Fortunes won, fortunes lost, fortunes deferred.",
+    "url": "https://www.coindesk.com/news-analysis/2025/04/18/coindesk-weekly-recap-eigenlayer-kraken-coinbase-aws",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Shaurya Malwa",
+                "Omkar Godbole",
+                "Sam Kessler",
+                "Cheyenne Ligon",
+                "Jesse Hamilton",
+                "Trump",
+                "Powell"
+            ],
+            "positions": [
+                "Fed chair"
+            ],
+            "companies": [
+                "AWS",
+                "Nvidia",
+                "EigenLayer",
+                "OKX",
+                "Kraken",
+                "Coinbase",
+                "Binance"
+            ],
+            "organizations": [
+                "SEC",
+                "Friends With Benefits"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Zcash"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a relatively quiet week with Bitcoin stable, mixed events including both positive developments and negative news, and concludes it was 'pretty much business as usual' in crypto."
+    }
+}

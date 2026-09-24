@@ -1,0 +1,47 @@
+{
+    "title": "Tuttle Capital Proposes First-Ever Leveraged ETFs of TRUMP, MELANIA, Cardano, Others",
+    "time": "2025-01-28T07:31:00",
+    "author": "Shaurya Malwa",
+    "summary": "The daily performance returns of these tokens will be tracked and generated through swaps, call options, and direct investments, per the filing.",
+    "content": "Exchange-traded fund (ETF) provider Tuttle Capital Management is “testing the waters” of the crypto-friendly Trump administration with ten 2x leveraged ETF proposals to the U.S. Securities and Exchange Commission (SEC) on Monday, including those tracking Donald and Melania Trump’s official memecoins.\n\nTuttle proposed the first-ever ETFs tracking 200% returns of the following tokens: Chainlink\nLINK\n$14.82\n,\nADA\n$0.5394\n,\nDOT\n$2.5727\n, Melania (MELANIA),\nXRP\n$2.2686\n,\nBONK\n$0.0₄1173\n, Solana\nSOL\n$159.11\n,\nLTC\n$86.76\n, and Trump (TRUMP).\n\nThe daily performance returns of these tokens will be tracked and generated through swaps, call options, and direct investments, per the filing. However, investors are at the chance of losing their entire capital should prices drop significantly due to the leveraged nature of these products.\n\n“Using leverage amplifies returns but also magnifies losses, with investors potentially losing their entire principal within a single trading day if the underlying asset’s value drops by more than 50%,” the filing warned.\n\nAlthough 50% drops are rare, altcoin markets are infamous for suddenly dropping 10% during times of market stress, as they did on Monday. A 10% slide would mean the ETFs drop at least 20%, before fees.\n\nBloomberg Intelligence analyst James Seyffart said in an X post the filings were likely a test of what the Trump administration may allow.\n\n“This is a case of issuers testing the limits of what this SEC is going to allow,” Seyffart said. “I'm expecting the new crypto task force (led by @HesterPeirce) to likely be the lynchpin in determining what's gonna be allowed vs what isn't.”\n\n“A 2x Melanie ETF (sic) before a 1x Melania ETF has been filed. That is unusual,” Bloomberg Intelligence analyst Eric Balchunas noted.\n\nBalchunas added the ETFs could technically be out in April unless explicitly disapproved by the SEC as these were an “Act 40” filing — which allows for potential trading if not disapproved within the review period due to its structured process for review and approval of investment products.",
+    "url": "https://www.coindesk.com/markets/2025/01/28/tuttle-capital-proposes-first-ever-leveraged-trump-melania-cardano-etfs-among-others",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Melania Trump",
+                "James Seyffart",
+                "Eric Balchunas",
+                "HesterPeirce"
+            ],
+            "positions": [
+                "Bloomberg Intelligence analyst"
+            ],
+            "companies": [
+                "Tuttle Capital Management"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Bloomberg Intelligence",
+                "crypto task force"
+            ]
+        },
+        "cryptocurrencies": [
+            "Chainlink",
+            "LINK",
+            "ADA",
+            "DOT",
+            "Melania",
+            "MELANIA",
+            "XRP",
+            "BONK",
+            "Solana",
+            "SOL",
+            "LTC",
+            "Trump",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The filing of multiple leveraged ETFs tracking various cryptocurrencies indicates institutional interest and potential new investment vehicles, which typically signals market confidence and positive momentum."
+    }
+}

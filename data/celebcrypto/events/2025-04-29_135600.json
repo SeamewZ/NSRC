@@ -1,0 +1,37 @@
+{
+    "title": "How $330M BTC Hacker May Have Doubled Down on Monero Derivatives",
+    "time": "2025-04-29T13:56:00",
+    "author": "Oliver Knight",
+    "summary": "Monero rose by 45% after a flurry of spot buys, but open interest increased by 107%.",
+    "content": "There's something that stands out about Monday's suspicious transfer of more than 3,520 BTC ($330.7 million) to privacy coin\nXMR\n$347.64\n, a conversion that blockchain sleuth ZachXBT said was probably linked to a hack: coordinated activity in the derivatives market.\n\nMonero, which obscures the sender's and recipient's addresses to provide an untraceable currency, has limited liquidity on exchanges, which makes it harder for users to transact without affecting the market and exposes them to slippage, the chance of the price changing for the worse before the deal is finalized.\n\nThe decision to go through an illiquid cryptocurrency is unusual. Tether's USDT or ether (ETH) would have provided an easier, less-slippage-prone way of moving the funds about, and mixers such as Tornado Cash could help obscure the transaction path. Of course, stablecoins like USDT are also easier to intercept and freeze.\n\nTrading data, however, suggests there was more going on than a simple case of someone trying to launder stolen funds.\n\nThe possible hacker very likely did encounter slippage during the transaction. Combined market depth, which measures order book liquidity over a given price range, was relatively low at around $1 million per 2% on both sides of the book. XRM surged by 45% due to the limited liquidity on exchanges, meaning they could have lost as much as 20% — $66 million — by purchasing XMR rather than a more-liquid token.\n\nFor a more complete picture, take a look at derivative markets. While monero was surging, open interest — the number of outstanding futures and options contracts — in XMR on the main centralized exchanges more than doubled to $35.1 million, according to Coinalyze.\n\nA 45% rise in XMR's price should have boosted open interest only to $24.2 million instead of the figure it ended up at. Taking into account the $1 million in liquidations, someone, or some people, were already long on XMR to the tune of $11 million.\n\nWhile the price increase on that holding wouldn't have compensated for the full amount of slippage, it would help soften the blow. Moreover the figure doesn't take into account any positions that might have existed in decentralized exchanges, and let's not forget the funds were probably stolen in the first place, so the (assumed) perpetrators are still a couple of million dollars ahead.\n\nThis is not the first time bad actors have flooded spot purchases to move the derivative needle. Last month a trader manipulated JELLY prices on decentralized exchange HyperLiquid. They bought JELLY on illiquid exchanges, tricking the pricing oracle to feed an inaccurate price to HyperLiquid and thus generating profit for holders of long positions.\n\nBoth cases draw similarities to the $114 million exploit on Mango Markets in 2022, which involved a trader named Avi Eisenberg manipulating MNGO prices by borrowing assets using ill-gotten gains as collateral. Eisenberg was found guilty by a jury in 2024 and faces 20 years in prison.",
+    "url": "https://www.coindesk.com/business/2025/04/29/did-the-usd330m-btc-hacker-deliberatley-pump-monero-to-make-even-more-money",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT",
+                "Avi Eisenberg"
+            ],
+            "positions": [
+                "trader"
+            ],
+            "companies": [
+                "Tether",
+                "Coinalyze",
+                "HyperLiquid"
+            ],
+            "organizations": [
+                "Mango Markets"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "XMR",
+            "USDT",
+            "ETH",
+            "JELLY",
+            "MNGO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The event describes a $330 million hack, market manipulation through illiquid assets, and references to previous exploits and criminal convictions, indicating negative market activity and security concerns."
+    }
+}

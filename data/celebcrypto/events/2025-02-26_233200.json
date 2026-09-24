@@ -1,0 +1,51 @@
+{
+    "title": "The Protocol: Ethereum’s Pectra Goes Live on Testnet",
+    "summary": "Also: Avalanche Visa card launched; EF executive director leaving; hackers using fake GitHub to steal bitcoin.",
+    "time": "2025-02-26T23:32:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, managing editor at CoinDesk.\n\nIn this issue:\n\nPECTRA GOES LIVE ON TESTNET: Ethereum’s Pectra upgrade went live on the Holesky testnet Feb. 24 but failed to finalize in the expected time. The Pectra hard fork combines together 11 major upgrades, or \"Ethereum improvement proposals\" (EIPs), into one package. At the heart of this is EIP-7702, which is supposed to improve the user-experience of crypto wallets. The proposal, which was scribbled by Ethereum co-founder Vitalik Buterin in just 22 minutes, will allow wallets to have some smart contract capabilities, as part of a broader strategy to bring account abstraction to Ethereum — a concept that makes the usability of wallets a lot less clunky.\n\nAnother key proposal, EIP-7251, will allow validators to increase the maximum amount they can stake from 32 to 2,048 ETH. The proposal is supposed to ease some of the technicalities that validators who stake ETH face today: Those that stake more than their 32 ETH have to spread that across multiple validators, making the process a bit of a nuisance. By lifting the maximum stake limit and combining those validators, it could speed up the process of setting up new nodes. Holesky is the first of two testnets to run through a simulation of Pectra. The next test is supposed to occur on the Sepolia testnet on Mar. 5. But according to Christine Kim, a Vice President of Research at Galaxy, developers could delay it depending on the scale of today's issue. After Pectra goes live on both testnets, developers will ink in a final date to activate the upgrade on mainnet. — Margaux Nijkerk Read more.\n\nMIYAGUCHI LEAVES ETHEREUM FOUNDATION ROLE: Ethereum Foundation Executive Director Aya Miyaguchi is leaving her position to transition to a new role as president at the organization. The news comes as the nonprofit goes through a leadership shake-up and as Ethereum has become less popular for new builders in recent months, with some even blaming Miyaguchi’s leadership as for why the blockchain’s token price is lagging behind other cryptocurrencies. “This new opportunity will allow me to continue supporting EF’s institutional relationships, and to expand the reach of our vision and culture more broadly,” Miyaguchi wrote in a blog post published Feb. 25. The Ethereum Foundation is a nonprofit that supports the development of the Ethereum blockchain. Founded in 2014, Miyaguchi joined in 2018 and has been the executive director ever since. Ethereum co-founder Vitalik Buterin wrote in a post on X that “every success of the EF - the steady execution of Ethereum hard forks, client interop workshops, Devcon, Ethereum's culture and steadfast commitment to its mission and values, and more - is in part a result of Aya's stewardship.” — Margaux Nijkerk Read more.\n\nAVALANCHE VISA CARD LAUNCHES: The Avalanche Foundation, the non-profit that helps steward the development of the Avalanche blockchain, said its much-anticipated Avalanche Card, a Visa credit card that allows users to purchase items with their cryptocurrency, is live and ready to be used. The card was developed in collaboration with Rain, a blockchain-based card issuing platform. It enables users to spend their Avalanche tokens (AVAX), wrapped AVAX, and stablecoins USDT and USDC at any store that takes Visa, the foundation said in an email. While other teams have also released credit cards tied to a user's crypto holdings, the news signals the further integration between traditional financial technologies and cryptocurrency. The Avalanche Foundation said in October that it planned to introduce the card, focusing on signing up users from Latin America and the Caribbean. According to the card’s website, the credit card will be linked to users' “new self-custody wallet and unique address per asset.” “In a move to double down on mainstream adoption of decentralized finance (DeFi), Avalanche remains committed to powering accessible inroads to blockchain for every type of user,” the team said. — Margaux Nijkerk Read more.\n\nHACKERS USE GITHUB TO NAB BTC: The GitHub code you use to build a trendy application or patch existing bugs might just be used to steal your bitcoin\nBTC\n$102,205.43\nor other crypto holdings, according to a Kaspersky report. GitHub is a popular tool among developers of all types, but even more so among crypto-focused projects, where a simple application may generate millions of dollars in revenue. The report warned users of a “GitVenom” campaign that’s been active for at least two years but is steadily on the rise, involving planting malicious code in fake projects on the popular code repository platform. The attack starts with seemingly legitimate GitHub projects — like making Telegram bots for managing bitcoin wallets or tools for computer games. Each comes with a polished README file, often AI-generated, to build trust. But the code itself is a Trojan horse: For Python-based projects, attackers hide nefarious script after a bizarre string of 2,000 tabs, which decrypts and executes a malicious payload. For JavaScript, a rogue function is embedded in the main file, triggering the launch attack. Once activated, the malware pulls additional tools from a separate hacker-controlled GitHub repository. Once the system is infected, various other programs kick in to execute the exploit. How can users protect themselves? By scrutinizing any code before running it, verifying the project’s authenticity, and being suspicious of overly polished READMEs or inconsistent commit histories. Because researchers don’t expect these attacks to stop anytime soon: “We expect these attempts to continue in the future, possibly with small changes in the TTPs,” Kaspersky said. — Shaurya Malwa Read more.\n\nMiners Pivoting to AI, But Bitcoin Still Makes Sense\n\nStarknet Layer 2 Gets Gaming App-Chain\n\nRegulatory and policy",
+    "url": "https://www.coindesk.com/tech/2025/02/26/the-protocol-ethereum-s-pectra-goes-live-on-testnet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Vitalik Buterin",
+                "Christine Kim",
+                "Aya Miyaguchi",
+                "Margaux Nijkerk",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "managing editor",
+                "co-founder",
+                "Vice President of Research",
+                "Executive Director",
+                "president"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Visa",
+                "Rain",
+                "Kaspersky",
+                "GitHub"
+            ],
+            "organizations": [
+                "Ethereum Foundation",
+                "Avalanche Foundation",
+                "Galaxy"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Avalanche",
+            "AVAX",
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed developments including positive technical upgrades and product launches alongside negative security threats and leadership changes, creating an overall neutral market impact."
+    }
+}

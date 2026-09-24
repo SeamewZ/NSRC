@@ -1,0 +1,36 @@
+{
+    "title": "Roman Storm's Defense Team Wants to Know if DOJ Withheld Evidence",
+    "summary": "Storm's attorneys filed a letter Friday asking a judge to order prosecutors to review their records.",
+    "time": "2025-05-19T14:11:00",
+    "author": "Nikhilesh De",
+    "content": "Roman Storm's defense team wants to know if the U.S. Department of Justice is withholding any information that may help the Tornado Cash developer's case.\n\nIn a letter filed late Friday, defense attorneys said recent disclosures in another, somewhat similar, case raised concerns that prosecutors either misled the judge overseeing the case or otherwise was playing \"fast and loose.\"\n\n\"The defense recently learned that the government has possessed exculpatory materials since August 2023 that go to the heart of a fundamental issue in this case: whether a noncustodial cryptocurrency mixer is a 'money transmitting business' for purposes of 18 U.S.C. § 1960,\" the filing said. \"The government’s failure to produce those materials in the fall of 2023, when Roman Storm was indicted and first appeared in court, constitutes a Brady violation that has materially prejudiced his defense,\" even after the DOJ said it would drop a portion of its case against Storm.\n\nRead more: Conduct Versus Code May Be the Defining Question in Roman Storm Prosecution\n\nStorm's team is referencing the DOJ's case against two developers of Samourai Wallet, another crypto mixer. In that case, defense attorneys said earlier this month that prosecutors delayed sharing that two Financial Crimes Enforcement Network (FinCEN) officials told the DOJ that the mixer did not look like a money transmitter.\n\nProsecutors denied the allegations in a court filing, saying their disclosures were timely and that the FinCEN officials' views were not formal guidance.\n\nThe DOJ said the two cases are only \"superficially similar,\" the defense filing said Friday.\n\n\"But what the government characterizes as a superficial similarity is, in fact, the core feature that lies at the heart of the conflicting interpretations of FinCEN guidance and the scope of Section 1960:\n\nthe noncustodial nature of both protocols,\" the filing said. \"That users exercised sole control over their assets was a basis for Mr. Storm’s motion to dismiss and to compel discovery of FinCEN materials.\"\n\nThe defense is asking Judge Katherine Polk Failla, who's overseeing the case, to order the DOJ to review any materials it may have that could help Storm's case and share the documents referenced in the Samourai case, as well as when Storm's prosecutors learned about those materials.",
+    "url": "https://www.coindesk.com/policy/2025/05/19/roman-storms-defense-team-wants-to-know-if-doj-withheld-evidence",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Storm",
+                "Katherine Polk Failla"
+            ],
+            "positions": [
+                "developer",
+                "judge",
+                "prosecutors",
+                "defense attorneys",
+                "FinCEN officials"
+            ],
+            "companies": [
+                "Tornado Cash",
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "U.S. Department of Justice",
+                "DOJ",
+                "Financial Crimes Enforcement Network",
+                "FinCEN"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes a legal procedural dispute about evidence disclosure in a specific court case, with no direct implications for cryptocurrency prices or market-wide sentiment."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "XRP, DOGE Rise, Ether Burn Falls to Record Low as Traders Eye This Week's U.S. Data",
+    "time": "2025-03-24T08:50:00",
+    "author": "Shaurya Malwa",
+    "summary": "A risk-off mood persists but is weakened on Monday amid reports suggesting that U.S. tariffs, due on April 2, might be more measured than initially expected.",
+    "content": "Bitcoin (BTC) topped $87,000 early Monday with solana (SOL), xrp (XRP) and dogecoin (DOGE) adding more than 4% to start the week in the green as traders eyed the release of further U.S. economic data for cues on further positioning.\n\nBitcoin mostly hovered around $85,000 over the weekend, restrained by concern over inflation and the broader U.S. economy. SOL led gains among major cryptocurrencies with a 5% bump in the past 24 hours, while tron’s TRX led losses, dropping 4% to further pare gains after a memecoin-led price bump last week.\n\nA risk-off mood persists, but is weakened amid reports suggesting that the U.S. tariffs due April 2 might be more measured than initially expected.\n\n“Investors are remaining cautious on the upcoming price moment due to the uncertainty,” Nick Ruck, director at LVRG Research, said in a Telegram message. “This week's U.S. economic reports on consumer confidence, personal spending, and PCE may show whether American consumers can cope with these economic changes or are preparing for less spending and more budgeting.”\n\nConsumer confidence measures how optimistic Americans are about the economy — high confidence means more spending, low means more saving. Personal spending tracks how much people buy, which is a big driver of economic growth. PCE, or Personal Consumption Expenditures, is a key inflation gauge, showing price changes in goods and services.\n\nThese reports can affect crypto markets. Strong consumer confidence and spending suggest a healthy economy, which might boost crypto prices as people invest more in riskier assets. High PCE (rising inflation) could worry investors, pushing them toward crypto as a hedge against a weaker dollar. But if confidence drops and spending slows, it might signal a downturn, making investors cautious and dragging crypto prices down.\n\nSome traders, however, say the U.S. economy is stronger than thought, making current price levels a good area to buy for those bullish in the medium to long term.\n\n“U.S. 'hard' economic data remains robust and in contrast with the soft sentiment, suggesting an over-extrapolation of the current weakness versus underlying fundamentals,” Augustine Fan, head of insights at SignalPlus, told CoinDesk in an email. “Macro observers have generally been more precarious in their assessments than the actual reality, and we believe that the underlying economy remains stronger han feared.\n\n“Crypto markets had a similar quiet week, with prices largely rangebound and rebounding off recent lows as a mirror move of the equity action. Technically speaking, prices remain on a negative downward trend but are stabilizing around key support levels, with ETH settling at the highs of the 2022 range and the next big support level at around the 1500 area,” Fan said.\n\nEther’s outlook comes as the blockchain saw one of its lowest 24-hour revenues in recent months, sending daily burns to a record low.\n\nA burn permanently removes a token from circulation by sending it to an address not controlled by anyone. Ether burns started in August 2021, when Ethereum’s EIP-1559 upgrade occurred, stemming from the network burning all base fees charged to users per transaction.\n\nTransactional activity has declined over the past few months amid a rising preference for cheaper networks such as Solana and Tron and a general taper-off of speculative trading activity since late January.\n\nJust 50 ETH was burned on Sunday, data shows, a record low and a nearly 99% drop from the record 71,000 ETH on May 1, 2022. Daily burns have been gradually declining since early 2023, ranging between 500 ETH to more than 3,000 ETH.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/xrp-doge-rise-ether-burn-falls-to-record-low-as-traders-eye-this-week-s-u-s-data",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Ruck",
+                "Augustine Fan"
+            ],
+            "positions": [
+                "director",
+                "head of insights"
+            ],
+            "companies": [
+                "LVRG Research",
+                "SignalPlus",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "solana",
+            "SOL",
+            "xrp",
+            "XRP",
+            "dogecoin",
+            "DOGE",
+            "tron",
+            "TRX",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with some cryptocurrencies rising while others fall, traders remaining cautious, and prices largely rangebound with stabilizing technical patterns."
+    }
+}

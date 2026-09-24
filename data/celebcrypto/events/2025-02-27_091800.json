@@ -1,0 +1,31 @@
+{
+    "title": "BlackRock's Bitcoin ETF Sees Record Daily Outflow as the Basis Trade Starts to Unwind",
+    "time": "2025-02-27T09:18:00",
+    "author": "James Van Straten",
+    "summary": "BlackRock's IBIT saw a record outflow on Wednesday of over $418 million.",
+    "content": "BlackRock's iShares Bitcoin Trust (IBIT) saw record outflows of $418.1 million on Wednesday as bitcoin (BTC) dropped to around $82,000.\n\nAll U.S. spot-listed exchange-traded funds saw a total outflow of $754.6 million. According to Farside data, there have been $3.6 billion of outflows since Feb. 7.\n\nCoinglass data shows that IBIT had $4.19 billion worth of volume traded during Wednesday's session, the sixth-highest ETF traded in the US.\n\nThe Chicago Mercantile Exchange (CME) is also seeing open interest drop to 155,270 BTC, the lowest level since November. This is a sign that the basis trade is starting to unwind.\n\nBlackRock's iShares Bitcoin Trust (IBIT) saw record outflows of $418.1 million on Wednesday as bitcoin (BTC) dropped to around $82,000.\n\nAll U.S. spot-listed exchange-traded funds saw a total outflow of $754.6 million. According to Farside data, there have been $3.6 billion of outflows since Feb. 7.\n\nCoinglass data shows that IBIT had $4.19 billion worth of volume traded during Wednesday's session, the sixth-highest ETF traded in the US.\n\nThe Chicago Mercantile Exchange (CME) is also seeing open interest drop to 155,270 BTC, the lowest level since November. This is a sign that the basis trade is starting to unwind.\n\nMore For You\n\nOwlTing: Stablecoin Infrastructure for the Future\n\nStablecoin payment volumes have grown to $19.4B year-to-date in 2025. OwlTing aims to capture this market by developing payment infrastructure that processes transactions in seconds for fractions of a cent.\n\nDogecoin Plunges 8% as Price Action Points to Brief Technical Bounces\n\nAnalysts suggest stabilization above $0.165 is crucial for recovery, with a daily close above $0.18 needed to counter bearish momentum.\n\nWhat to know:",
+    "url": "https://www.coindesk.com/markets/2025/02/27/blackrock-bitcoin-etf-sees-record-daily-outflow-as-the-basis-trade-starts-to-unwind",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Coinglass",
+                "Farside",
+                "OwlTing"
+            ],
+            "organizations": [
+                "Chicago Mercantile Exchange",
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports record outflows from Bitcoin ETFs, declining Bitcoin prices, and unwinding basis trades, all indicating negative market pressure."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Ethereum Layer-2 Starknet Gets First Gaming App-Chain",
+    "summary": "Nums, a sequential game built off of Starknet’s technology, is the first layer-3 to settle on the network.",
+    "time": "2025-02-25T16:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Starknet, a layer-2 on top of Ethereum, is getting its first application-chain that settles on the network.\n\nThe layer-3 app-chain, called Nums, is built off of the “SN Stack,” a customizable toolkit that lets developers create layer-3 blockchains based off of Starknet’s technology.\n\nNums itself is an on-chain game that lets players try to sequence a series of 20 generated numbers. Users will be able to earn $NUMS tokens by playing the game, with the tokens issued via Starknet.\n\nStarkWare, the main developer firm behind Starknet, originally shared in July 2023 that it was building the SN Stack. The announcement followed similar releases from several of StarkWare's competitors, like Arbtirum’s Orbit Stack and Optimism’s OP Stack, which came out in 2023. This past January, StarkWare’s SN Stack went live.\n\nDespite various layer-2 stacks already live and layer-3 games existing on those chains, the team behind Nums claim that their decision to build with Starknet’s technology is because it allows for more “computationally complex and more ambitious” applications, said Tarrence van As, the CEO of Cartridge, the main developer firm behind Nums, in an interview with CoinDesk.\n\nStarknet, which uses Cairo as its programming language, is “much easier to express these types of applications,” van As added. (Ethereum uses Solidity, a different type of programming language, to build its applications. Most layer-2s use Solidity as well.)\n\nCartridge is one of the core developer teams building on Starknet, known for releasing its Dojo framework, a tool engine that lets developers build games and applications on the network.\n\nRead more: StarkWare Launches Appchains on Starknet with New Developer Toolkit",
+    "url": "https://www.coindesk.com/tech/2025/02/24/ethereum-layer-2-starknet-gets-first-gaming-app-chain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tarrence van As"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "StarkWare",
+                "Cartridge"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "NUMS"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes technological advancement with Starknet's first gaming app-chain and new developer toolkit, indicating growth and innovation in the Ethereum ecosystem."
+    }
+}

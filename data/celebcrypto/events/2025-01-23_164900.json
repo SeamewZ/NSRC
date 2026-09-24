@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Rises to $106K as Trump Slated to Call Bukele, El Salvador's Crypto-Friendly President",
+    "time": "2025-01-23T16:49:00",
+    "author": "Krisztian Sandor",
+    "summary": "El Salvador started accumulating BTC under Bukele's leadership, fueling speculation about Trump's strategic reserve promises.",
+    "content": "Bitcoin (BTC) surged past $106,000 on Thursday morning in the U.S. on reports that U.S. President Donald Trump will talk later today with Nayib Bukele, president of bitcoin-friendly nation state El Salvador.\n\nBitcoin advanced more than 3% to session highs in the minutes after the report, erasing early morning losses. It was up 2.2% over the past 24 hours.\n\nEarlier this morning, prices started to climb as U.S. Senator Cynthia Lummis posted on social media to \"stay tuned for 10:00 a.m.\" Eastern Time, only to gave back most of the gains after reports that the Senate Banking Committee would vote to confirm Lummis as chair of the panel's new digital assets subcommittee.\n\nFueling the gains was speculation that bitcoin and crypto regulation might be among the talking points between the two leaders. El Salvador has become as a nascent crypto hub under Bukele's leadership. It was the first nation state to adopt BTC as legal tender in 2021 and accumulated over 6,000 BTC worth $622 million as a strategic reserve.\n\nTrump said last year on the campaign trail that, if elected, he aims to position the U.S. as a global leader in the digital asset space. He also made several crypto-specific promises including creating a national stockpile, or strategic reserve, of bitcoin.\n\nHe'll speak to Bukele at 3:30 p.m. ET.",
+    "url": "https://www.coindesk.com/markets/2025/01/23/bitcoin-rises-to-usd106k-as-trump-slated-to-call-bukele-el-salvador-s-crypto-friendly-president",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Nayib Bukele",
+                "Cynthia Lummis"
+            ],
+            "positions": [
+                "U.S. President",
+                "President of El Salvador",
+                "U.S. Senator",
+                "Chair of Senate Banking Committee's digital assets subcommittee"
+            ],
+            "companies": [],
+            "organizations": [
+                "Senate Banking Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin surged past $106,000 and advanced more than 3% on speculation about positive crypto regulation discussions between Trump and Bukele."
+    }
+}

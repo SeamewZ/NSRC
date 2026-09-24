@@ -1,0 +1,46 @@
+{
+    "title": "Coinbase's SEC Documents Reveal NY Attorney General Wanted ETH Declared Security",
+    "summary": "On the U.S. exchange's online site for the documents obtained by Freedom of Information Act requests, it's illuminating some internal SEC discussions.",
+    "time": "2025-05-07T15:30:00",
+    "author": "Jesse Hamilton",
+    "content": "The New York State Attorney General asked the U.S. Securities and Exchange Commission to openly declare Ethereum's ether\nETH\n$3,340.48\nwas a security, not a commodity, during the state's prosecution of KuCoin in 2023, according to a document revealed by Coinbase Inc. in a trove of agency communications released on Wednesday.\n\nShamiso Maswoswe, chief of the Investor Protection Bureau for the New York AG, hoped the federal watchdog would weigh in during the court dispute by filing a brief on its ETH view, according to a document produced through a Freedom of Information Act request Coinbase filed with the SEC.\n\n\"We would like to request that the SEC file an amicus in support of the argument that Ether is a security,\" she wrote in the request. \"Whether it is or not will not be dispositive in our case (we have authority over both securities and commodities) — but I think it would be beneficial to investor protection to get a court to hold that Ether is a security.\"\n\nThis and other private crypto-related messages sent and received inside the SEC were made available on Wednesday as Coinbase opened online access to more documents it's gained in legal tussles with federal authorities. The company's earlier releases of documents included a range of letters from the Federal Deposit Insurance Corp. that backed up industry contentions that U.S. banking regulators actively pressured banks to maintain a distance from crypto.\n\nIn New York's 2023 request, it didn't get what it asked for as the SEC kept the agency's ETH views largely locked down. The U.S. agency had signaled an early view that ETH was likely a commodity, then it seemed to waver after the protocol shifted to a proof-of-stake consensus mechanism, but the SEC ultimately fell into a stance implying ETH is a commodity, like bitcoin\nBTC\n$102,205.43\n.\n\nRead More: New York Attorney General Alleges Ether Is a Security in KuCoin Lawsuit\n\nSuch wrestling over jurisdictional definitions is at the heart of the crypto industry's longstanding dispute with U.S. regulators, which has eased now that President Donald Trump has set a crypto-friendly tone in his administration, including with his choice of the new SEC chairman, Paul Atkins. The agency has been steadily issuing statements about aspects of the digital assets sector it considers outside its securities realm.\n\nFor New York's case, the outcome didn't matter much, because its Department of Financial Services regulates both securities and commodities under one roof, unlike the federal government's oversight regime that splits between the SEC and Commodity Futures Trading Commission.\n\nIn December of 2023, New York secured a $22 million settlement with KuCoin over its failure to register as an exchange in the state, in which state Attorney General Letitia James noted she would \"continue to take action against any company that brazenly disregards the law and jeopardizes New Yorkers’ savings and investments.\"\n\nRead More: KuCoin to Pay $22M, Exit New York to Settle State Suit\n\nOther SEC communications show a continued interest in the categorization of crypto assets and the U.S. oversight gaps in digital assets.\n\nOne email revealed the agency was thinking in 2021 about Ripple and XRP, and whether the blockchain was centralized or decentralized. The SEC had begun a long-running legal battle with Ripple the year before when it accused the company of operating illegally in the U.S., but that case ended recently in Ripple's favor — with the company even getting money back from the agency that had been demanded in an earlier fine.",
+    "url": "https://www.coindesk.com/policy/2025/05/07/coinbase-s-sec-documents-reveal-ny-attorney-general-wanted-eth-declared-security",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Shamiso Maswoswe",
+                "Donald Trump",
+                "Paul Atkins",
+                "Letitia James"
+            ],
+            "positions": [
+                "chief of the Investor Protection Bureau for the New York AG",
+                "President",
+                "SEC chairman",
+                "state Attorney General"
+            ],
+            "companies": [
+                "Coinbase Inc.",
+                "KuCoin",
+                "Ripple"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "New York State Attorney General",
+                "Freedom of Information Act",
+                "Federal Deposit Insurance Corp.",
+                "Department of Financial Services",
+                "Commodity Futures Trading Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "XRP"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes regulatory uncertainty and jurisdictional disputes over cryptocurrency classification, but no clear market-moving outcome occurred as the SEC maintained its stance and the case settled without definitive rulings on ETH's status."
+    }
+}

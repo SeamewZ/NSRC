@@ -1,0 +1,28 @@
+{
+    "title": "Google to Restrict Crypto Ads in EU to MiCA-Licensed Firms",
+    "summary": "Crypto exchanges and wallet apps must meet EU's MiCA licensing rules to advertise in Google's platforms in 27 countries.",
+    "time": "2025-04-14T15:05:00",
+    "author": "Francisco Rodrigues",
+    "content": "Search giant Google will only allow cryptocurrency exchanges and software wallets to advertise in the European Union if they hold a license under the EU’s Markets in Crypto-Assets (MiCA) regulation, starting April 23, the company announced Monday.\n\nGoogle said advertisers must now obtain a certification from the company and demonstrate they are registered as a Crypto-Asset Service Provider (CASP) under MiCA. The company also requires advertisers to comply with any additional country-specific legal obligations.\n\nMiCA which covers all 27 EU member states, marks a shift away from the patchwork of national licensing regimes that currently govern crypto ads in some regions.\n\nFor crypto platforms already advertising in France, Germany and Finland under local rules, Google has carved out a temporary reprieve. Those national licenses will remain valid until mid-to-late 2025, aligning with each country’s MiCA transition period.\n\nThe tech giant said accounts will not be suspended immediately for non-compliance. Instead, it will issue a warning at least seven days before any enforcement action.\n\nCurrently several cryptocurrency exchanges have secured a MiCA license, including OKX, Crypto.com, Bitpanda, Boerse Stuttgart Digital, eToro and others.",
+    "url": "https://www.coindesk.com/policy/2025/04/14/google-to-restrict-crypto-ads-in-eu-to-mica-licensed-firms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Google",
+                "OKX",
+                "Crypto.com",
+                "Bitpanda",
+                "Boerse Stuttgart Digital",
+                "eToro"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes regulatory compliance requirements for advertising rather than direct market price movements or investor sentiment shifts."
+    }
+}

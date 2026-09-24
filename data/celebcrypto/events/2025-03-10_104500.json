@@ -1,0 +1,32 @@
+{
+    "title": "Singapore Exchange Plans to Launch Bitcoin Perpetual Futures in 2025",
+    "time": "2025-03-10T10:45:00",
+    "author": "James Van Straten",
+    "summary": "SGX targets institutional investors with a regulated alternative to crypto derivatives.",
+    "content": "Singapore Exchange Ltd. (SGX) is set to introduce bitcoin\nBTC\n$104,293.00\nperpetual futures in the second half of 2025, marking a significant step for the traditional exchange into the crypto derivatives market, the exchange said.\n\nThese contracts, designed for institutional clients and professional investors, will not be accessible to retail traders. Bloomberg first reported on SGX's bitcoin perpetuals plan.\n\n“SGX Group is leading the way in the burgeoning international institutional crypto market with perpetual futures. In a space where confidence and credibility make all the difference, our innovative offering on a trusted, regulated platform will significantly expand institutional market access. While subject to due regulatory process, initial feedback on our product has been positive from both DeFi and TradFi participants,” the company said in a statement.\n\nSGX's move aligns with a broader trend among traditional exchanges embracing cryptocurrency derivatives. Japan's Osaka Dojima Exchange Inc. is also seeking approval to list bitcoin futures, reflecting growing institutional interest in digital assets, particularly amid pro-crypto policies from the U.S. government.\n\nThe planned bitcoin perpetual futures are still subject to due regulatory process with the Monetary Authority of Singapore. Unlike traditional futures, perpetual contracts have no expiration date, allowing traders to speculate on price movements continuously. SGX aims to provide a secure and regulated alternative for crypto trading, leveraging its Aa2 rating from Moody’s.\n\nThis initiative could enhance institutional market participation in cryptocurrency while addressing credit risks associated with unregulated crypto exchanges like Binance and OKX.\n\nUPDATE (March 10, 12:30 UTC): Updates sourcing, adds statement from SGX.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/singapore-exchange-to-launch-bitcoin-perpetual-futures-in-2025",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Singapore Exchange Ltd. (SGX)",
+                "Bloomberg",
+                "Osaka Dojima Exchange Inc.",
+                "Binance",
+                "OKX",
+                "Moody's"
+            ],
+            "organizations": [
+                "Monetary Authority of Singapore",
+                "U.S. government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes SGX's planned bitcoin perpetual futures as expanding institutional market access, providing a secure regulated alternative, and enhancing institutional participation while addressing credit risks of unregulated exchanges."
+    }
+}

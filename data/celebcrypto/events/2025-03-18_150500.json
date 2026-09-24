@@ -1,0 +1,30 @@
+{
+    "title": "Microsoft Raises Alarm of Malware Targeting Coinbase, MetaMask Wallets",
+    "summary": "A new report from Microsoft researchers warned of malware that could steal and decrypt users’ information from 20 of some of the most popular cryptocurrency wallets.",
+    "time": "2025-03-18T15:05:00",
+    "author": "Margaux Nijkerk",
+    "content": "Tech giant Microsoft shared a new report warning of malware that targets 20 of the most popular cryptocurrency wallets used with the Google Chrome extension.\n\nMicrosoft’s Incident Response researchers raised alarms of a new remote access trojan (RAT), dubbed StilachiRAT, which could deploy “sophisticated techniques to evade detection, persist in the target environment, and exfiltrate sensitive data,” the team shared in a blog post.\n\nAccording to the team, the malware was discovered in November 2024, and it could steal users' wallet information, and any credentials, including usernames and passwords, stored in their Google Chrome browser. StilachiRAT targets 20 crypto wallets including some of the most widely-used ones like MetaMask, Coinbase Wallet, Phantom, OKX Wallet, and BNB Chain Wallet.\n\nWhile the malware has not been distributed widely, Microsoft did share that it has not been able to identify what entity is behind the threat and laid out some mitigation guidelines for current targets including installing antivirus software.\n\n“Due to its stealth capabilities and the rapid changes within the malware ecosystem, we are sharing these findings as part of our ongoing efforts to monitor, analyze, and report on the evolving threat landscape,” the team wrote.\n\nRead more: Microsoft Shareholders Vote Down Bitcoin Treasury Proposal",
+    "url": "https://www.coindesk.com/tech/2025/03/18/microsoft-raises-alarm-of-malware-targeting-coinbase-metamask-wallets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Microsoft",
+                "Coinbase",
+                "MetaMask",
+                "Google",
+                "OKX",
+                "BNB Chain"
+            ],
+            "organizations": [
+                "Microsoft Incident Response"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes malware targeting popular cryptocurrency wallets that can steal user credentials and sensitive data, representing a security threat to the crypto ecosystem."
+    }
+}

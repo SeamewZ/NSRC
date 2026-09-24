@@ -1,0 +1,45 @@
+{
+    "title": "Inside Solana's Debate on a Major Reduction in SOL Inflation",
+    "time": "2025-03-06T12:51:00",
+    "author": "Danny Nelson",
+    "summary": "Solana validators are voting on a major cut to SOL's staking rewards.",
+    "content": "Solana's decision-makers are debating an economic overhaul that could boost SOL's investment appeal, but critics warn it could knock out small-time validators who contribute to the network's decentralization.\n\nLike so many real-world economic discussions, this one centers on inflation. Any economist can tell you that some is inevitable. For proof of stake blockchains like Solana, it's also by design. The network automatically prints new tokens to reward the validators who keep their networks running, giving them a reason to do the expensive computing work.\n\nBut Solana's powerbrokers largely believe the network is printing too much new SOL, too fast. One proposed solution, SIMD-0228, co-written by a partner at the powerful venture firm Multicoin Capital, introduces a market-driven system that slashes inflation from 4.7% to around 1.5%, assuming current staking rates continue.\n\nSuch a change would keep billions of dollars of new SOL from entering circulation annually. SOL's price chart would likely benefit from validators and their stakers earning, and selling, fewer new tokens.\n\nTushar Jain, the proposal's Multicoin co-author has claimed it will also make Solana more Wall Street friendly. In a February call he said it eliminates the \"enormous opportunity cost\" of investing in the Solana ETF, a still theoretical product that almost certainly won't have access to staking rewards.\n\nSolana's loudest voices, including co-founder Anatoly Yakovenko, Helius CEO Mert Mumtaz and influential validators, especially large ones, have lined up behind the proposal, calling it necessary for Solana's evolution.\n\nRejiggering Solana's inflation regime could, however, imperil smaller validators who already navigate tight margins. Even supporters of 228 have acknowledged the proposal might force 100 or more of Solana's 1300 validators out of business, critics warn.\n\n\"I feel that most small/medium-sized validators are against it,\" said Jota, who runs Pine Stake, one such validator. He claimed \"the consequences of it might be losing +25% of profitable validators.\"\n\nCompounding Jota's fears is another, unrelated proposal, SIMD-123, that he predicts will further squeeze small-time validators by changing the way rewards flow between validators and their stakers.\n\nA major drop-off in the number of validators would leave Solana open to accusations of centralization, said David Girder, head of liquid investments at Finality Capital Partners. He calculated the inflation changes could knock out as many as 250 validators, and maybe kill off a third of the total \"at the bottom of the bear market.\"\n\nSolana's backers view inflation as a payment for security. Validators accrue staked SOL from token owners who want to earn native yield. The bigger their stake, the bigger their staking rewards. The validators must keep doing honest work to keep earning their rewards, and if they don't they'll risk losing that stake.\n\nCurrently, the network pays out its staking rewards at a rate of 4.7%. Every year that reward is set to drop 15% until it eventually bottoms out at 1.5%. This regimented rate gives validators a solid base to map out their economics.\n\nSIMD-0228 would replace this model with a \"smarter curve,\" longtime validator operator Brian Long said in a post on X. It treats the percentage of SOL's total supply being staked as a barometer for how many new SOL tokens to issue every epoch.\n\nSmart emissions would see Solana pay as much, or as little, as it needs to for its security. If a small proportion of SOL is being staked, then the yields would rise to attract more stakers – and increase the security base. Conversely, if a high number of stakers are staking, the yields would drop in a reflection of the lack of demand.\n\nStaking rewards only comprises a piece of the revenue puzzle for most validators. They also get SOL through a variety of fees and Jito tips. These streams tend to grow during boom times for the network, when more people are paying more money to operate on Solana, and shrink in the quiet periods.\n\nWhile Girder and Jota predict big, negative consequences for SIMD-0228, others believe the impact on small validators will be far smaller: perhaps 20-30 shutdowns, instead of 200-300.\n\n\"The belief is that the more validators that exist on the network, that the greater amount of security exists as well,\" one validator called LakeStake said in a recent explainer video on SIMD-0228. \"Opponents would argue that there's just not enough data to support that this proposal is worth the risk of losing validators.\"\n\nSkeptics have successfully lobbied for some changes to SIMD-0228, most notably a months-long delay in its post-approval rollout that would give ample time to reform Solana's expensive vote fees – a major daily operating expense for validators.\n\nStill, preparation can only go so far in mitigating the downside risks for validators on Solana. If a deep bear market dried up the validators \"real economic value\" (all those tips, fees and rewards), small operations would be most susceptible, and some would go offline.\n\nJust as there's no consensus on the size of the hit, there's little agreement on how bad for Solana's decentralization a small-time validator wipeout would be.\n\nMany long tail validators are already heavily subsidized by the Solana Foundation, pointed out Laine, who runs the well-regarded validator operation Stakewiz, and who has emerged as one of SIMD-0228's most vocal backers.\n\n\"Losing 200 validators who rely exclusively on a single staker (Solana Foundation) has no meaningful impact on decentralisation imho,\" Laine said on X.\n\nThe situation has many parties arguing, why the rush? To that, co-author Jain has warned against \"analysis paralysis\" that could turn Solana into a hulking, cumbersome ocean liner of a network (or in other words, Ethereum).\n\n\"Something that can happen to organizations as they scale is status quo bias. Why do we do it this way? Because we've always done it this way. And I think that is the death knell of the organization.\"",
+    "url": "https://www.coindesk.com/business/2025/03/06/s",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tushar Jain",
+                "Anatoly Yakovenko",
+                "Mert Mumtaz",
+                "Jota",
+                "David Girder",
+                "Brian Long",
+                "Laine"
+            ],
+            "positions": [
+                "partner",
+                "co-founder",
+                "CEO",
+                "head of liquid investments",
+                "validator operator"
+            ],
+            "companies": [
+                "Multicoin Capital",
+                "Helius",
+                "Pine Stake",
+                "Finality Capital Partners",
+                "LakeStake",
+                "Stakewiz"
+            ],
+            "organizations": [
+                "Solana Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed opinions with validators debating both positive investment appeal and negative decentralization risks from the proposed inflation reduction."
+    }
+}

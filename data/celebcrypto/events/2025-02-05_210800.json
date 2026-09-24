@@ -1,0 +1,29 @@
+{
+    "title": "Strategy (MicroStrategy) Reports Q4 GAAP Loss of $3.03 Per Share, BTC Holdings of 471,107 Tokens",
+    "time": "2025-02-05T21:08:00",
+    "author": "James Van Straten",
+    "summary": "The company earlier on Wednesday changed its name to Strategy as its primary focus for some time has been bitcoin, not software.",
+    "content": "Disclaimer: The analyst who co-wrote this piece owns shares of MicroStrategy (MSTR).\n\nStrategy (MSTR) reported a fourth-quarter net loss of $3.03 per share, compared to income of $0.50 per share a year earlier.\n\nThe loss incurred as the company took an impairment charge on its 471,107 token bitcoin\nBTC\n$104,011.09\nholdings. Those holdings are worth more than $45 billion at bitcoin's current price just above $97,000.\n\nFor 2025, Strategy is targeting a dollar gain of $10 billion on its bitcoin holdings.\n\nIt's been an extremely eventful week for Strategy prior to the earnings, including an upsizing in the company's preferred stock offering and a name change just hours ago.\n\nThe Financial Stability Accounting Board (FASB) last year implemented a new fair value accounting rule for corporates holding digital assets. Use of the rule was voluntary through the end of 2024, but will be required beginning in the first quarter of this year.\n\nShares are down marginally in after hours action. They fell a bit more than 3% in regular trade today as bitcoin dipped to the $97,000 level.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/microstrategy-reports-q4-loss-bitcoin-holdings-remain-at-471-107",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Strategy",
+                "MicroStrategy",
+                "MSTR"
+            ],
+            "organizations": [
+                "Financial Stability Accounting Board",
+                "FASB"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The company reported a significant quarterly loss due to bitcoin impairment charges, and shares declined as bitcoin price dipped to $97,000."
+    }
+}

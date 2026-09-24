@@ -1,0 +1,49 @@
+{
+    "title": "North Korean Hackers Were Behind Crypto's Largest 'Theft of All Time'",
+    "time": "2025-02-21T22:04:00",
+    "author": "Aoyon Ashraf",
+    "summary": "Lazarus Group was behind Bybit's $1.5 billion hack on Friday, Arkham Intelligence said, citing ZackXBT.",
+    "content": "Blockchain analytics firm Arkham Intelligence said North Korea's Lazarus Group was behind Bybit's $1.46 billion hack.\n\nIn an earlier post on social media platform X, Arkham offered a bounty of 50,000 ARKM tokens for anyone who could identify the attackers for Friday's hack. Later, the platform said onchain sleuth ZachXBT submitted \"definitive proof\" that the attackers were the North Korean hacker group.\n\n\"His submission included a detailed analysis of test transactions and connected wallets used ahead of the exploit, as well as multiple forensics graphs and timing analyses,\" the post said.\n\nRead more: Bybit Loses $1.5B in Hack but Can Cover Loss, CEO Confirms\n\nThe hack that rocked the crypto market and saw most prices tumbling was called the \"largest crypto theft of all time, by some margin,\" by Elliptic's Tom Robinson, co-founder and chief scientist. \"The next largest crypto theft would be the $611 million stolen from Poly Network in 2021. In fact it may even be the largest single theft of all time.\"\n\nBlockchain data provider Nansen told CoinDesk that the attackers first withdrew nearly $1.5 billion worth of funds from the exchange into a main wallet and then spread the funds across several others.\n\n\"Initially, the stolen funds were transferred to a primary wallet, which then distributed them across more than 40 wallets,\" Nansen said. \"The attackers converted all stETH, cmETH, and mETH to ETH before systematically transferring ETH in $27 million increments to over 10 additional wallets,\" Nansen said.\n\nThe attack appeared to have been caused by something called \"Blind Signing,\" where a smart contract transaction is approved without the comprehensive knowledge of its contents.\n\n\"This attack vector is quickly becoming the favorite form of cyber attack used by advanced threat actors, including North Korea,\" said blockchain security firm Blockaid's CEO Ido Ben Natan. \"It’s the same type of attack that was used in the Radiant Capital breach and the WazirX incident.\"\n\n\"The problem is that even with the best key management solutions, today most of the signing process is delegated to software interfaces that interact with dApps. This creates a critical vulnerability — it opens the door for malicious manipulation of the signing process, which is exactly what happened in this attack,\" he said.\n\nBybit CEO Ben Zhou wrote earlier on X that a hacker \"took control of the specific ETH cold wallet and transferred all the ETH in the cold wallet to this unidentified address.\" He also confirmed that the exchange \"is solvent even if this hack loss is not recovered.\"\n\nOliver Knight contributed to the reporting of this story\nRead more: Bitcoin, Ether Slump as Crypto Prices Dip on Report of Massive $1.5B Bybit Hack",
+    "url": "https://www.coindesk.com/markets/2025/02/21/north-korean-hackers-were-behind-crypto-s-largest-left-of-all-time",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZackXBT",
+                "Tom Robinson",
+                "Ido Ben Natan",
+                "Ben Zhou",
+                "Oliver Knight"
+            ],
+            "positions": [
+                "co-founder and chief scientist",
+                "CEO"
+            ],
+            "companies": [
+                "Arkham Intelligence",
+                "Bybit",
+                "Elliptic",
+                "Nansen",
+                "CoinDesk",
+                "Blockaid",
+                "Radiant Capital",
+                "WazirX",
+                "Poly Network"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "North Korea"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "stETH",
+            "cmETH",
+            "mETH",
+            "Bitcoin",
+            "Ether",
+            "ARKM"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states that the hack 'rocked the crypto market and saw most prices tumbling' and caused Bitcoin and Ether to slump."
+    }
+}

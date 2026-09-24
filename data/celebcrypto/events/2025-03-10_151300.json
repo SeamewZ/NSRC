@@ -1,0 +1,46 @@
+{
+    "title": "Bitcoin Crumbles Below $80K as Crypto Sell-Off Goes From Bad to Worse",
+    "time": "2025-03-10T15:13:00",
+    "author": "Krisztian Sandor",
+    "summary": "The price action came as the Nasdaq and S&P 500 stock indexes fell sharply early Monday as Trump failed to quell worries about a recession.",
+    "content": "Cryptocurrencies extended a sell-off on Monday as risk assets including equities tanked during the early U.S. hours.\n\nFollowing a bounce to around $84,000 earlier in the day, perhaps buoyed by Strategy's $21 billion fundraising plan, bitcoin (BTC) slid below $80,000, down 3.8% over 24 hours. The Ethereum blockchain's ether (ETH) briefly slipped below $2,000, to trade near its weakest price since November 2023, down around 4%.\n\nThe broad-market CoinDesk 20 Index fell 5%, with Solana's SOL, Cardano's ADA and Aptos' APT, Avalanche's AVAX and NEAR losing between 7% and 10%.\n\nThe ugly action in crypto markets came as the already-battered U.S. equity indexes opened the week sharply lower, weighing on sentiment. The Nasdaq tumbled over 3% in the early hours of the session, while the S&P 500 declined 2%.\n\nCrypto equities also felt the heat. Strategy (MSTR), the largest corporate BTC holder, and crypto exchange Coinbase (COIN) lost more than 10%.\n\nWith the digital asset summit at the White House and President Donald Trump's Bitcoin reserve executive order already behind us, crypto markets have run out of near-term positive catalysts and are increasingly weighed down by concerns about a tariff war and a slowing economy.\n\nThe economy is in a \"transition\" phase, Trump said in an interview with Fox News on Sunday, refusing to rule out a recession this year.\n\n\"Until crypto finds a new narrative, we're likely to see an increased correlation between BTC and equities in the near term,\" hedge fund QCP said in a Telegram broadcast. \"Both risk assets are currently trading near their recent lows, and with tariff risks still looming, volatility could pick up heading into key U.S. macro data releases.\"",
+    "url": "https://www.coindesk.com/markets/2025/03/10/bitcoin-dips-below-usd80k-as-crypto-sell-off-goes-from-bad-to-worse",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Strategy",
+                "Coinbase",
+                "Fox News"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "S&P 500",
+                "White House",
+                "QCP"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL",
+            "Cardano",
+            "ADA",
+            "Aptos",
+            "APT",
+            "Avalanche",
+            "AVAX",
+            "NEAR"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes cryptocurrencies extending a sell-off, with bitcoin sliding below $80,000 and multiple major cryptocurrencies losing significant value amid broader market declines."
+    }
+}

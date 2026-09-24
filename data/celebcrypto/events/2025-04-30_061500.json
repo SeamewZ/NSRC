@@ -1,0 +1,34 @@
+{
+    "title": "BlackRock, BNY Team Up to Tokenize Shares of $150B Treasury Trust Fund, SEC Filing Shows",
+    "summary": "BlackRock will work with BNY Mellon in creating a new class of Distributed Ledger Technology shares for the fund.",
+    "time": "2025-04-30T06:15:00",
+    "author": "Sam Reynolds",
+    "content": "BlackRock partnered with BNY Mellon to bring blockchain to the back office of one of its largest funds, filing to offer a digital share class of its $150 billion Treasury Trust money market fund through BNY Mellon.\n\nThe new “DLT Shares,” short for distributed ledger technology, won’t hold crypto. BNY Mellon, the fund’s exclusive distributor, intends to use blockchain to mirror share ownership records, an incremental step that could pave the way for broader adoption of tokenized cash, digital assets, or blockchain-based settlement infrastructure in traditional finance.\n\nIn the past few years, a growing number of firms have experimented with creating blockchain-based representations of real-world assets (RWAs), bringing the traditional finance world rapidly into the crypto and decentralized finance (DeFi) environment. Earlier Wednesday, Libre said it was tokenizing $500 million of messaging platform Telegram's $2.4 billion debt and bringing it to the TON blockchain.\n\nBlackRock's Liquidity Treasury Trust Fund is part of the firm’s Liquidity Funds suite and managed over $150 billion in assets as of April 29. The DLT share class has a minimum investment requirement of $3 million for institutional buyers, with no minimums on subsequent purchases. The SEC filing is preliminary and subject to approval.\n\nThe move isn’t BlackRock’s first into tokenization. Its blockchain-native BUIDL fund, created in partnership with Securitize, now manages over $1.7 billion in assets and recently expanded onto Solana.\n\nCEO Larry Fink has consistently emphasized his belief in the long-term potential of tokenization and decentralized finance. In his 2025 annual letter to shareholders, Fink warned that the U.S. risks ceding its financial dominance if it fails to control its debt, a vulnerability that could accelerate investor interest in alternatives like bitcoin\nBTC\n$101,913.92\n.\n\n“If the U.S. doesn’t get its debt under control … America risks losing [its reserve currency status] to digital assets like Bitcoin,” Fink wrote. “Decentralized finance is an extraordinary innovation. It makes markets faster, cheaper, and more transparent. Yet that same innovation could undermine America’s economic advantage.”\n\nUPDATE (March 1, 17:20 UTC): Rewrites, lead headline to clarify that BNY and BlackRock are partnering to bring the fund onchain.\n\nUPDATE (April 30, 7:29 UTC): Adds third paragraph on tokenization trends, rewrites headline.",
+    "url": "https://www.coindesk.com/markets/2025/04/30/sec-filing-shows-blackrock-preparing-150-billion-tokenized-treasury-trust-offering",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Larry Fink"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "BlackRock",
+                "BNY Mellon",
+                "Securitize",
+                "Libre",
+                "Telegram"
+            ],
+            "organizations": [
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes major traditional finance institutions adopting blockchain technology and tokenization, with BlackRock's CEO expressing belief in the long-term potential of tokenization and decentralized finance, which signals institutional confidence and adoption."
+    }
+}

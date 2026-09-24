@@ -1,0 +1,49 @@
+{
+    "title": "Dogecoin Dives 8%, Pepe Down 12% in Weekend Crypto Sell-Off",
+    "summary": "Altcoins took a beating as traders digested renewed U.S.-China tariff tensions, Bitcoin whale sell-offs, and a broader risk-off mood.",
+    "time": "2025-05-31T09:01:00",
+    "author": "Shaurya Malwa",
+    "content": "Cryptocurrencies started the weekend in red with\nDOGE\n$0.1647\ndown over 8% to lead losses among majors and Pepe (PEPE) shedding 12%.\n\nBitcoin fell over 2% to under $104,000 and traded just over $103,600 in Asian afternoon hours Saturday, while the CoinDesk 20 index slumped 4.2% in the past 24 hours.\n\nEther\nETH\n$3,323.31\nfell nearly 4%,\nXRP\n$2.2418\n, BNB Chain\nBNB\n$943.68\n, Cardano’s ADA and Solana’s SOL showed losses between 2-5%. Cronos Network’s CRO was the only gainer in the top 100 tokens with a 12% on no immediate catalyst.\n\nAnalysts attributed the downturn to renewed U.S.-China trade tensions.\n\n\"Markets went red on Friday on renewed tariff-related apprehensions,\" said Alex Kuptsikevich, chief market analyst at FxPro, told CoinDesk in an email. “President Trump accused China on social media of violating the recent trade truce, while Treasury Secretary Scott Bessent admitted in an interview that talks with Beijing had stalled.”\n\nThe derivatives market also pointed to increasing investor caution. Open interest in Bitcoin futures is up 51% since April, while options have ballooned by 126%, according to data from Deribit.\n\nWhale wallets, which had been accumulating Bitcoin throughout the year, recently shifted to net selling, sending coins back to exchanges — a classic sign of profit-taking.\n\n\"Bitcoin’s local support looks solid around $103K for the coming days,\" Kuptsikevich said. However, with tariff headlines rattling markets and whales taking risk off, traders are bracing for more volatility, he added.",
+    "url": "https://www.coindesk.com/markets/2025/05/31/dogecoin-dives-8-pepe-down-12-in-weekend-crypto-sell-off",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alex Kuptsikevich",
+                "Trump",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "chief market analyst",
+                "President",
+                "Treasury Secretary"
+            ],
+            "companies": [
+                "FxPro",
+                "CoinDesk",
+                "Deribit"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Pepe",
+            "PEPE",
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "XRP",
+            "BNB Chain",
+            "BNB",
+            "Cardano",
+            "ADA",
+            "Solana",
+            "SOL",
+            "Cronos Network",
+            "CRO"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across major cryptocurrencies, whale sell-offs, and market caution due to renewed U.S.-China trade tensions."
+    }
+}

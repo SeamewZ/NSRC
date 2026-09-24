@@ -1,0 +1,39 @@
+{
+    "title": "Coinbase Embroiled in Alleged Frontrunning Controversy With ‘Base Is for Everyone’ Token",
+    "summary": "At least three wallets bought tokens before Base announced the launch on X.",
+    "time": "2025-04-17T05:44:00",
+    "author": "Omkar Godbole",
+    "content": "Token debuts remain a contentious issue, often criticized for their poor execution that allows individuals, supposedly armed with insider information about impending launches, to profit through front-running campaigns.\n\nThe latest example is the \"Base is for everyone\" token announced by Coinbase's Ethereum Layer 2 solution Base on Wednesday. Three crypto wallets bought tokens ahead of the official announcement on X, resulting in significant profits, according to blockchain sleuth Lookonchain.\n\nAt around 19:30 UTC on Wednesday, Base announced the debut of its token minted via Zora, an on-chain social network, empowering creativity by turning any content posted on its network into tradable coins. The token quickly rose to a market capitalization of over $15 million, bringing significant gains to at least three crypto addresses that acquired coins before the official announcement on X.\n\n\"3 wallets bought a large amount of \"Base is for everyone\" before @base posted and sold them, making a profit of ~$666K,\" Lookonchain said on X.\n\nThe wallet address 0x0992 invested 1.5 ether\nETH\n$3,341.49\n, to purchase 256.39 million units of the token at 12:30 PM UTC and sold the entire coin stash for 108 ETH following the official announcement, pocketing a profit of $168,000 in just over an hour. Wallet address 0x5D9D invested 1 ETH ($1,580) and walked away with $266,000 profit, and another address, labelled 0xBD31, made $231,800.\n\nThe token's market capitalization tanked to less than $2 million after that as Base announced another coin for its FarCon poster, sucking out liquidity from the Base is for Everyone token and leaving entrants in the latter with a large loss.\n\nHowever, valuations have recovered since then, with the market capitalization of Base is for everyone topping the $18 mark as of writing, per data source DEX Screener. Base creator Jesse greenlighted the token, saying, \"The goal is to “normalize putting all content on-chain.\"\n\nCoinbase clarified that the Base is for everyone coin is not the official cryptocurrency of Base and the layer 2 did not directly sell these. “Base posted on Zora, which automatically tokenizes content,” Coinbase’s spokesperson told CoinDesk.\n\nThe legal disclaimer on Zora suggested the same, with Base also clarifying its position on X, saying, it shall never sell these tokens.\n\n“To be clear, Base will never sell these tokens, and these are not official network tokens for Base, Coinbase, or any other related product. The content we share is creative, and we're going to keep bringing culture on-chain,” Base said.\n\nThe rapid boom-bust cycles in these smaller tokens often create a net negative wealth effect, allowing a select few to profit significantly while the majority face losses. This often leads to liquidity drain from the broader digital assets market.\n\nThe larger the boom-and-bust cycles associated with these coins, the stronger the negative wealth effect.\n\nFor instance, this year's debut of LIBRA and TRUMP tokens destroyed millions in investor wealth, marking a major price top in bitcoin and the broader crypto market.",
+    "url": "https://www.coindesk.com/markets/2025/04/17/three-wallets-snag-base-is-for-everyone-tokens-before-official-announcement-profiting-usd666k",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jesse"
+            ],
+            "positions": [
+                "creator",
+                "spokesperson"
+            ],
+            "companies": [
+                "Coinbase",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Base",
+                "Zora",
+                "Lookonchain",
+                "DEX Screener"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "LIBRA",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes front-running controversies, rapid boom-bust cycles creating negative wealth effects, liquidity drain from the market, and references to previous token debuts that destroyed millions in investor wealth."
+    }
+}

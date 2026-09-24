@@ -1,0 +1,46 @@
+{
+    "title": "Ether Volatility Explodes to Over 100% as Price Crashes",
+    "time": "2025-02-03T10:23:00",
+    "author": "Omkar Godbole",
+    "summary": "Ether's DVOL spiked above 100% during Asian hours as the crashing price saw traders chase put options.",
+    "content": "Ether (ETH), the second-largest cryptocurrency by market value, witnessed a significant spike in volatility early Monday as the renewed trade war between the U.S. and its trading partners triggered broad-based risk aversion in financial markets.\n\nThe price of ether tanked as much as 24%, with considerable dislocations across centralized exchanges. On Deribit, the price hit a low of $2,065, compared with $2,127 on Kraken and $2,150 on Coinbase (COIN), the lowest the Aug. 5 crash, according to TradingView and CoinDesk data.\n\nAccording to CryptoQuant, the slide was the biggest since May 19, 2021. The token of the Ethereum blockchain fell for a third straight day, losing 23% over the period, the most since November 2022. BTC, meanwhile, fell just over 5% to $91,200.\n\nEther's one-day at-the-money volatility jumped from an annualized 34% to 184% as the price dropped, according to Deribit's options data tracked by Presto Research.\n\nDeribit's ether DVOL index, which measures the expected price turbulence over the coming four weeks, also surged, climbing to 101% from roughly 67%, TradingView data show.\n\nThe jump came as traders rushed to purchase ETH put options, which offer downside protection, according to Presto Research.\n\n\"The move, which saw ETH perp prices on Deribit plunge from $3,285 to $2,065, has triggered a significant shift in market positioning, as evidenced by the put-call ratio surging from last week's relatively calm 0.6 to above 2.5 today - indicating a rush for downside protection among market participants,\" Rick Maeda, an analyst at Presto Research told CoinDesk.\n\nAt one point, risk reversals, which measure implied volatility premium (demand) for calls relative to puts, flashed negative values over 10%, an unusually strong bias for puts.\n\nThat partly stemmed from market makers pulling out liquidity, a common feature during volatile trading conditions, according to Griffin Ardern, head of options trading and research at crypto financial platform BloFin.\n\n\"Some market makers chose to withdraw liquidity under high volatility, and their risk-averse behavior affects options pricing,\" Ardern told CoinDesk.\n\nAccording to Markus Thielen, head of 10x Research, delta hedging by market makers added to the downside volatility in ETH.\n\n\"As market makers and exchanges scrambled to offload futures, they sold at any available bid, accelerating the sell-off,\" Thielen said in a Monday report to clients.\n\nMarket makers are tasked with creating order book liquidity, and make money from the bid-ask spread. They are price agnostic and strive to maintain a net market (delta) neutral exposure through constantly buying/selling futures. They typically sell into weakness or buy into strength, adding to the momentum, when holding a short gamma exposure.\n\nThe pace of the ether price sell-off has led to speculation that a large fund/trader ETH-margined positioned in derivatives or DeFi was liquidated, leading to an exaggerated price slide.\n\nBroadly speaking, however, the slide in ETH and the broader market looks to have been spurred by the renewed trade war between the U.S. and Canada, Mexico and China. The concern is that it would inject inflation into the global economy, making it harder for central banks, including the Fed, to continue lowering interest rates to support economic growth.\n\nTraditional markets suffered on the back of these concerns as well. Dow futures dropped more than 650 points early today, with European stock futures following suit alongside an uptick in the dollar.\n\n12:08 UTC: Corrects Presto analyst's name to Rick Maeda. The previous version erroneously mentioned Presto's Min Jung",
+    "url": "https://www.coindesk.com/markets/2025/02/03/ether-volatility-explodes-to-over-100-as-price-crashes",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rick Maeda",
+                "Griffin Ardern",
+                "Markus Thielen",
+                "Min Jung"
+            ],
+            "positions": [
+                "analyst",
+                "head of options trading and research",
+                "head of 10x Research"
+            ],
+            "companies": [
+                "Deribit",
+                "Kraken",
+                "Coinbase",
+                "CryptoQuant",
+                "Presto Research",
+                "BloFin",
+                "10x Research"
+            ],
+            "organizations": [
+                "U.S.",
+                "Canada",
+                "Mexico",
+                "China",
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price crashes, volatility spikes, liquidations, and broad market sell-offs triggered by trade war concerns and risk aversion."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Pantera Reveals Its Bets on Stocks That Adopted ‘Digital Asset Treasury’ Strategy",
+    "summary": "According to an investor note, Pantera is backing several Nasdaq-listed firms holding BTC, SOL and ETH.",
+    "time": "2025-05-29T18:27:00",
+    "author": "Krisztian Sandor",
+    "content": "Crypto investment firm Pantera Capital revealed a series of concentrated bets on a growing class of publicly-traded companies holding large digital asset reserves on Thursday.\n\nAmong Pantera’s portfolio is Twenty One Capital (CEP), a Bitcoin-focused treasury firm led by Jack Mallers and backed by Tether, Softbank and Cantor Fitzgerald, according to a note by general partner Cosmo Jiang. The firm also disclosed it is an early backer of DeFi Development Corp (DFDV), which applies the model to Solana\nSOL\n$157.90\n, and Sharplink Gaming (SBET), the Ethereum\nETH\n$3,495.36\ntreasury play supported by Ethereum software firm ConsenSys, per the note.\n\nThis investment push signals Pantera’s broader belief that traditional financial structures are increasingly viable pathways into digital assets, even as spot-based exchange-traded funds (ETF) and other regulated products expand. These firms —what Pantera calls Digital Asset Treasury companies, or DATs — seek to offer crypto exposure to equity market investors without requiring direct ownership of tokens, a play spearheaded by Michael Saylor's Strategy (MSTR).\n\nThese stocks unlock crypto access for investors still wary of managing wallets or trading on crypto exchanges, Jiang argued. The companies function as closed-end funds on public markets, potentially limiting supply of the underlying assets — Bitcoin, Solana or Ethereum — and affecting price dynamics over time, he said.\n\nThe note argued that under the right conditions — market volatility, financial engineering, and smart management — these companies can grow their token-per-share metrics faster than the tokens themselves appreciate, potentially offering more upside than direct crypto purchases.\n\nHowever, as the market is getting increasingly saturated with these offerings, a few analysts raised concerns about the long-term upside of these stocks: MSTR, for example, underperformed while bitcoin rose to fresh record highs this month, 10x Research noted.\n\nRead more: Bearish Bets on Strategy Look Alluring, Says 10X Research as MSTR Diverges From Bitcoin's Bull Run",
+    "url": "https://www.coindesk.com/markets/2025/05/29/pantera-reveals-its-bets-on-stocks-that-adopted-digital-asset-treasury-strategy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jack Mallers",
+                "Michael Saylor"
+            ],
+            "positions": [
+                "general partner"
+            ],
+            "companies": [
+                "Pantera Capital",
+                "Twenty One Capital",
+                "DeFi Development Corp",
+                "Sharplink Gaming",
+                "Tether",
+                "Softbank",
+                "Cantor Fitzgerald",
+                "ConsenSys",
+                "Strategy"
+            ],
+            "organizations": [
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "SOL",
+            "ETH",
+            "Bitcoin",
+            "Solana",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Pantera Capital's concentrated bets on companies holding digital assets, signaling institutional confidence and creating new pathways for crypto exposure in traditional markets."
+    }
+}

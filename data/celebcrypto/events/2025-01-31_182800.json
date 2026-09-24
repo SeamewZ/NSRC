@@ -1,0 +1,72 @@
+{
+    "title": "Weekly Recap: Ripple Makes Waves and Stablecoins Surge",
+    "time": "2025-01-31T18:28:00",
+    "author": "Benjamin Schiller",
+    "summary": "Plus: Robinhood CEO Vlad Tenev calls for tokenized equity. Bitwise files for a dogecoin EFT. And SBF’s parents seek a presidential pardon.",
+    "content": "It was another busy week at CoinDesk as the new Trump Administration continued to roll out a pro-crypto agenda and the industry laid the groundwork for growth in the new cycle.\n\nRipple was at the center of the news. Ondo Finance announced it would offer tokenized treasuries on Ripple’s XRP Ledger, Kris Sandor reported. The San Francisco company also said XRP Ledger would offer clawback features, enhancing liquidity for Ripple’s dollar-pegged stablecoin RLUSD, Shaurya Malwa reported.\n\nMeanwhile, CEO Brad Garlinghouse lobbied for XRP to be included in any national crypto reserve, riling Bitcoiners who say the reserve should be bitcoin-only. Omkar Godbole had that news, along with several incisive market analyses (his Daybook daily update is a must-read).\n\nIn other protocol news, Cardano rolled out a hard fork (“Plomin”), enabling decentralized governance. And Avalanche said its December upgrade resulted in a 75% drop in transaction costs for users, a big win for that project. Meanwhile, Movement Labs unveiled a developer mainnet ahead of a much-anticipated L1 launch in February.\n\nStablecoins, the most traded form of crypto, surged past a $200 million market cap. And Tether, issuer of the leading stablecoin, USDT, announced that it made $13 billion in profit for 2024, a healthy stockpile for further investments, Sandor also reported. At the same time, Howard Lutnick, the administration’s pick for Commerce Secretary, defended Cantor Fitzgerald’s custodial relationship with Tether during a Senate hearing.\n\nMicroStrategy, which pioneered the idea of corporate bitcoin treasuries, added further to its bags and outlined plans to raise more capital, James Van Straten reported. In ETFs, Bitwise won SEC approval for a combined bitcoin-ether ETF, and filed an application for a dogecoin ETF, Helene Braun reported. Grayscale opened a new closed-end fund trust offering exposure to dogecoin, saying the memecoin, which was started as a joke in 2013, had become a tool for global financial inclusion.\n\nThere was also plenty of regulatory and policy news. Solana’s memecoin powerhouse, Pump.fun, was hit with a class-action lawsuit alleging securities violations. Cheyenne Ligon reported that story, as well as news that French authorities are expanding a money laundering and tax probe against Binance. Robinhood CEO Vlad Tenev joined BlackRock’s Larry Fink in calling for tokenized equity. And Jesse Hamilton, deputy managing editor for regulatory, reported on the continuing success of Fairshake, an industry SuperPAC.\n\nMeanwhile, Friday saw the parents of disgraced FTX founder Sam Bankman-Fried explore seeking a presidential pardon for their son. They are taking inspiration from the recent pardon Trump handed to Silk Road founder Ross Ulbricht. But, as Shaurya Malwa noted, the cases are very different and Joseph Bankman and Barbara Fried likely face an uphill task.\n\nIt’s been an interesting few days in crypto and we’ll have plenty more for CoinDesk readers next week. As they say, stay tuned.",
+    "url": "https://www.coindesk.com/coindesk-news/2025/01/31/coindesk-weekly-recap-ripple-makes-waves-and-stablecoins-surge",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vlad Tenev",
+                "Kris Sandor",
+                "Shaurya Malwa",
+                "Brad Garlinghouse",
+                "Omkar Godbole",
+                "Howard Lutnick",
+                "James Van Straten",
+                "Helene Braun",
+                "Cheyenne Ligon",
+                "Jesse Hamilton",
+                "Sam Bankman-Fried",
+                "Joseph Bankman",
+                "Barbara Fried",
+                "Ross Ulbricht",
+                "Larry Fink"
+            ],
+            "positions": [
+                "CEO",
+                "Commerce Secretary",
+                "deputy managing editor for regulatory"
+            ],
+            "companies": [
+                "Robinhood",
+                "Ondo Finance",
+                "Ripple",
+                "Cardano",
+                "Avalanche",
+                "Movement Labs",
+                "Tether",
+                "Cantor Fitzgerald",
+                "MicroStrategy",
+                "Bitwise",
+                "Grayscale",
+                "Solana",
+                "Pump.fun",
+                "Binance",
+                "BlackRock",
+                "Fairshake",
+                "FTX"
+            ],
+            "organizations": [
+                "Trump Administration",
+                "SEC",
+                "French authorities",
+                "SuperPAC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "RLUSD",
+            "Bitcoin",
+            "Cardano",
+            "Avalanche",
+            "USDT",
+            "Ethereum",
+            "Dogecoin",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including pro-crypto policies, institutional adoption, stablecoin growth, and technological advancements across various blockchain projects."
+    }
+}

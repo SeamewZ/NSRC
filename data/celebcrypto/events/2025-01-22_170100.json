@@ -1,0 +1,48 @@
+{
+    "title": "That New Sports Betting Guy You Like May Be An (AI) Agent",
+    "time": "2025-01-22T17:01:00",
+    "author": "Jennifer Murphy",
+    "summary": "AI agents, the new \"digital workforce,\" are poised to redefine talent in the crypto space, says Jennifer Murphy of Runa Digital Assets.",
+    "content": "It’s Thursday, Jan. 16 and sports betting influencer Liam (@bets_liam) has just reviewed the latest “NFL Divisional Round Bets” from The Favorites Podcast, an NFL sports betting show with 70,000+ subscribers.\n\nLiam takes to X and tweets his reactions:\n\nThe twist? He’s an AI agent powered by Memetica.ai, a no code AI agent consumer platform built by the team at Qstar Labs.\n\nYou're reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.\n\nAI agents are materially different from chatbots and ChatGPT. Agents use large language models as a foundation but add new information like real time data, news, and specialized knowledge. They can also bring memory, logic, and the ability to iterate and carry out a plan. Agents can, for example, monitor consumer products news, social media and buying data to summarize key trends and post them in a blog. They can learn from feedback to improve engagement. This means agents like Liam can act on their own and evolve.\n\nAI agents represent such a material extension of AI capabilities that they have recently become a dominant narrative in crypto.\n\nIt all started in July 2024 when Marc Andreessen, co-founder of venture capital firm Andreessen Horowitz (a16z), gifted a quirky, X-happy AI agent called Terminal of Truths $50,000 worth of bitcoin as a research grant. Terminal of Truths, basking in Andreessen’s attention, began shilling its favorite memecoins on X, driving one token to over $300 million in market cap in a matter of days.\n\nWhat happened next demonstrates crypto’s power to draw in capital and talent at lightning speed.\n\nIn October 2024, AI agent platform Virtuals launched on Coinbase’s Base protocol, allowing users to quickly create unique agents with specialized capabilities, personalities, and tradeable tokens. Now, more than 15,000 agents with tokens have been created. The most successful is a crypto research agent named aixbt, which has 400,000 followers on X and a token with a market capitalization of $650 million.\n\nThat same month, veteran developer Shaw introduced an AI agent framework called ElizaOS. Using Eliza, he launched agent ai16z (a tongue in cheek reference to Andresseen’s firm), an investment DAO (decentralized autonomous organization) touted as the “first AI hedge fund.” By the end of 2024, the ai16z token’s market capitalization had grown to over $1 billion despite having assets under management of a little over $25 million.\n\nSo, where to from here? Nvidia CEO Jensen Huang recently described AI agents as “a digital workforce” and predicted “...the IT department of every company is going to be the HR department of AI agents in the future.” In Multicoin Capital’s Frontier Ideas for 2025, managing director Kyle Samani envisions “Zero-Employee Companies” staffed entirely by AI agents and governed by DAOs.\n\nBut perhaps the most tangible vision comes from the ElizaOS team, which just announced a humanoid robot based on ai16z’s Eliza mascot, a “state-of-the-art personal companion (that) seamlessly integrates AI, blockchain technology, and advanced robotics.”\n\nI’d say this AI Agent has legs.\n\nAs of January 22, 2025, accounts managed by the author’s firm held positions in the Virtuals token; this is subject to change at any time.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/22/that-new-sports-betting-guy-you-like-may-be-an-ai-agent",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jennifer Murphy",
+                "Liam",
+                "Marc Andreessen",
+                "Shaw",
+                "Jensen Huang",
+                "Kyle Samani"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder",
+                "managing director",
+                "veteran developer"
+            ],
+            "companies": [
+                "Runa Digital Assets",
+                "Memetica.ai",
+                "Qstar Labs",
+                "Andreessen Horowitz",
+                "Coinbase",
+                "Nvidia",
+                "Multicoin Capital"
+            ],
+            "organizations": [
+                "The Favorites Podcast",
+                "Terminal of Truths",
+                "Virtuals",
+                "ElizaOS",
+                "ai16z",
+                "DAOs"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes AI agents driving significant market growth with examples like aixbt reaching $650M market cap and ai16z growing to over $1B, indicating strong positive momentum and capital inflow into crypto."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "A Contentious Ukraine Bet Leads to Clash Between Polymarket, UMA Communities",
+    "time": "2025-03-26T10:16:00",
+    "author": "Sam Reynolds",
+    "summary": "BornTooLate.Eth has accumulated over 1.3 million UMA tokens to attack a Ukraine-themed market — but nobody has appeared to have made much money.",
+    "content": "An entity operating from an Ethereum wallet 'BornTooLate.Eth' has engaged in a governance attack on UMA, a decision-making oracle used by Polymarket, to influence the outcome of a Ukraine-themed contract by becoming one of the largest holders of UMA tokens.\n\nUMA is a decentralized \"optimistic\" oracle protocol that resolves disputes in prediction markets by allowing UMA token holders to vote on contentious outcomes. It has faced its share of controversy for resolving disputed markets, such as Barron Trump's involvement in a Presidential meme coin, the nature of 'finding' the OceanGate submarine, and Venezuela's contested election, drawing criticism due to subjective decisions that frustrated certain market participants.\n\nOn-chain data shows that BornTooLate.eth has approximately 1.3 million UMA tokens, making them a top-5 governance staker and giving them significant sway over the resolution of UMA disputes.\n\nIn the case of this Ukraine-themed market that was attacked, the contract asked bettors to speculate on the possibility of a deal being signed involving U.S. access to the country's rate earth resources by the end of March.\n\nA deal is in the works, reports say, but nothing has been signed. And yet on Polymarket, it resolved to 'yes' after BornTooLate.Eth used his staked UMA tokens to vote 'yes' on the resolution.\n\nUMA supporters say this isn't a governance attack and the oracle service worked as intended, though Polymarket users are unhappy because BornTooLate.eth voted for a factually incorrect outcome\n\nRead more: Polymarket, UMA Communities Lock Horns After $7M Ukraine Bet Resolves\n\nCuriously, this attack doesn't seem to have netted a large payday for any of the participants.\n\nMarket data from on-chain curator Polymarket Analytics shows that the largest winner from the contract took home just over $55,000.\n\nLikewise, the losses were quite moderate compared to other closely-watched Polymarket contracts with the biggest loser forfeiting around $73,000.\n\nAn etherscan page for BornTooLate.Eth shows that the actor began accumulating UMA tokens over a year ago. Given their holdings of over 1.3 million tokens, building that sort of treasury for the attack would have cost over $2 million.\n\nFor its part, Polymarket says no refunds will be issued because this isn't a \"market failure\" and said in a statement on Discord it is working with the UMA oracle team to prevent it from happening again.\n\n\"This market resolved against the expectations of our users and our clarification,\" a spokesperson posted on Discord. \"We’re committed to building the future of prediction markets, which requires building resilient systems in which everyone can trust.\"\n\nPolymarket founder Shayne Coplan didn't immediately respond to a request for comment.\n\nCORRECTION (March 26, 11:12 UTC): Corrects spelling of \"rogue\" in headline.\n\nCORRECTION (March 27, 12:05 UTC): Correct headlines and adds story link.",
+    "url": "https://www.coindesk.com/markets/2025/03/26/polymarket-suffers-uma-governance-attack-after-rouge-actor-becomes-top-5-token-staker",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "BornTooLate.Eth",
+                "Barron Trump",
+                "Shayne Coplan"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Polymarket",
+                "UMA",
+                "OceanGate"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "UMA",
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The event describes a governance attack that manipulated market outcomes, causing user dissatisfaction and highlighting vulnerabilities in decentralized oracle systems, which undermines market confidence."
+    }
+}

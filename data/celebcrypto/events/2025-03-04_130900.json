@@ -1,0 +1,32 @@
+{
+    "title": "XRP Hitting $5 Gets Millions in Bets But There Is a Catch",
+    "time": "2025-03-04T13:09:00",
+    "author": "Omkar Godbole",
+    "summary": "Most of these are covered calls, Deribit's Asia business development head said.",
+    "content": "Payments-focused cryptocurrency XRP peaked at $3.40 in January but has since dropped 30% to $2.40.\n\nDespite this decline, the $5 call option remains the most favored bet on Deribit, offering significant upside potential for buyers if the price exceeds that level. However, this does not necessarily indicate an outright bullish positioning among traders.\n\nAt press time, the $5 call is the most popular strike, with a notional open interest of $3.84 million—the highest among all XRP strikes on the exchange, according to data source Deribit Metrics. Notional open interest reflects the dollar value of all active options contracts at any given time. On Deribit, one options contract represents one XRP.\n\n\"Most of these are covered calls,\" explained Lin Chen, Deribit's Asia Business Development Head, in an interview with CoinDesk. This explains the substantial buildup in open interest for these out-of-the-money (OTM) calls.\n\nThe covered call strategy involves selling higher-level OTM calls while holding the underlying asset—in this case, XRP. This approach allows traders to capture the premium from selling or writing the call while limiting potential losses from an unexpected market rally.\n\nThis strategy not only generates additional yield on top of their holdings but is also popular in traditional markets as well as in bitcoin and ether trading.",
+    "url": "https://www.coindesk.com/markets/2025/03/04/xrp-usd5-bet-holds-usd3-8-million-in-open-call-positions-what-does-this-mean",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lin Chen"
+            ],
+            "positions": [
+                "Asia Business Development Head"
+            ],
+            "companies": [
+                "Deribit",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Deribit Metrics"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "Bitcoin",
+            "Ether"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news explains that the high open interest in $5 XRP calls is due to covered call strategies rather than outright bullish positioning, indicating a neutral to yield-generating approach rather than strong directional sentiment."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Hello, Hoodi: Ethereum Welcomes a New Testnet",
+    "summary": "Ethereum's 'Pectra' upgrade will be tested on Hoodi following buggy attempts on other testnets, Holesky and Sepolia.",
+    "time": "2025-03-17T16:10:00",
+    "author": "Margaux Nijkerk",
+    "content": "Ethereum developers launched a new test network, Hoodi, on Monday that will be used to carry out the blockchain's upcoming 'Pectra' upgrade.\n\nPectra will go live on Hoodi on March 26, and if all goes well, the long-awaited upgrade will proceed to Etheruem's mainnet roughly 30 days later, according to the network's core developers.\n\nHoodi was created following faulty Pectra tests on Ethereum’s other testnets, Holesky and Sepolia, which failed to finalize properly due to problems with how they were configured.\n\nTest networks like Holesky, Sepolia, and Hoodi aim to mimic the main Ethereum network — allowing developers the opportunity to test out code changes or major upgrades like Pectra in a low-stakes environment before deploying them to the mainnet.\n\nOriginally, the Pectra upgrade would have been activated on Ethereum following those two earlier tests. Because they didn't go smoothly, developers decided to build Hoodi to test the ambitious Pectra upgrade one more time, although the testnet can also be used for future tests.\n\nHoodi is designed to mimic Ethereum’s mainnet, with the same number of validators on its network. Ethereum core developer Parithosh Jayanthi argued during last week’s Ethereum core developers call that Hoodi would therefore be the testnet for Ethereum staking pools and node operators to test their infrastructure.\n\nHolesky and Sepolia were built for different purposes: Holesky has a bigger validator set than Ethereum’s mainnet, which is supposed to help test out scalability problems, while Sepolia is a closed network just for developers, meant for testing out applications.\n\nPectra contains a series of upgrades designed to make Ethereum more user-friendly and efficient for developers and end-users. One of the biggest changes includes adding \"smart contract\" capabilities that could give wallets new features, like the ability to pay gas fees in cryptocurrencies other than ether\nETH\n$3,340.48\n.\n\nRead more: Ethereum Developers Launch New Testnet for Pectra Upgrade After Earlier Setbacks",
+    "url": "https://www.coindesk.com/tech/2025/03/17/hello-hoodi-ethereum-welcomes-a-new-testnet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Parithosh Jayanthi"
+            ],
+            "positions": [
+                "Ethereum core developer"
+            ],
+            "companies": [],
+            "organizations": [
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Ethereum developers successfully creating a new testnet to properly test the upcoming Pectra upgrade, which aims to make Ethereum more user-friendly and efficient, indicating positive development progress."
+    }
+}

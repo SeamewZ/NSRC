@@ -1,0 +1,42 @@
+{
+    "title": "Trump Family-Linked World Liberty Snaps Up 3.54M MNT Tokens After Mantle's Hard Fork",
+    "time": "2025-03-24T05:53:00",
+    "author": "Omkar Godbole",
+    "summary": "Mantle Network integrated EigenDA last week to enhance scalability and ensure better compatibility with Ethereum's impending Pectra upgrade.",
+    "content": "WLFI\n$0.1109\n, a DeFi project backed by President Donald Trump's family, has acquired substantial amounts of Mantle's MNT token following last week's major technological upgrade of the network.\n\nWLFI purchased about 3.54 million MNT for nearly $3 million USDC for an average purchase price of 84 cents, according to data sources Lookonchain and Arkham Intelligence.\n\nThe recent purchase has increased WLFI's coin holdings, which include tokens like ETH, WBTC, TRX, LINK, AAVE, ENA, and others, to over $340 million. However, the Trump family-backed outlet still faced a paper loss of $111 million as of writing.\n\nMNT is the native cryptocurrency of the Mantle Network, serving as a utility token for gas fees and a governance token for the layer 2 ecosystem focused on scaling Ethereum.\n\nThe Mantle Mainnet hard fork, or backwards-incompatible upgrade, took effect on March 19, activating EigenDA on the network. EigenDA is a secure, high-throughput, decentralized data availability service on Ethereum.\n\nThe EigenDA integration is said to boost Mantle Network's scalability without hitting data rate limits, reportedly resulting in a 15 MB/s throughput. In other words, the network can process more transactions per block. Additionally, the upgrade has made the Mantle Network better compatible with Ethereum's impending Pectra upgrade.\n\nMNT traded at 6% higher on the day at 83 cents at press time, according to data sources CoinDesk and TradingView.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/trump-family-linked-world-liberty-snaps-up-3-54m-of-mnt-token-after-mantle-s-hard-fork",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "World Liberty",
+                "Lookonchain",
+                "Arkham Intelligence",
+                "CoinDesk",
+                "TradingView"
+            ],
+            "organizations": [
+                "Mantle Network",
+                "EigenDA",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "MNT",
+            "ETH",
+            "WBTC",
+            "TRX",
+            "LINK",
+            "AAVE",
+            "ENA",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports a major technological upgrade that enhances scalability and compatibility, coupled with significant token purchases and a 6% price increase for MNT."
+    }
+}

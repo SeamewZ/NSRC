@@ -1,0 +1,29 @@
+{
+    "title": "Ripple’s Hidden Road Launches Crypto OTC Brokerage in U.S.",
+    "summary": "Hidden Road opens up cash-settled crypto OTC swaps for U.S. institutions, backed by Ripple’s $1.25 billion acquisition plan.",
+    "time": "2025-05-30T08:30:00",
+    "author": "Shaurya Malwa",
+    "content": "Hidden Road, the prime brokerage platform recently acquired by Ripple, has officially launched a digital assets prime brokerage for the U.S. market, giving institutional investors access to over-the-counter (OTC) crypto swaps.\n\nThe new offering will allow U.S.-based institutional clients to execute cash-settled OTC swaps across several tokens. The product will be operated through Hidden Road’s UK-based, FCA-regulated entity, Hidden Road Partners CIV UK Ltd. The expansion also includes cross-margining and financing services for digital assets.\n\n“The United States digital asset market has long been under-served from a product standpoint,” said Michael Higgins, International CEO and Global Head of Corporate Development at Hidden Road, in a Thursday release.\n\n“While OTC swaps represent a significant portion of digital asset trading volumes globally, until now, they were largely unavailable to U.S. institutions. With the launch of our swap prime brokerage capabilities, we can provide clients with access to an expanded range of products and solutions.”\n\nOTC swaps are trades that occur privately rather than on a public exchange, and are commonly used by institutional players to execute large trades discreetly, preventing significant price swings on open markets.\n\nRipple acquired Hidden Road in April in a $1.25 billion deal, aiming to help expand the platform globally as a non-bank prime broker in the digital asset space.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/ripples-hidden-road-launches-crypto-otc-brokerage-in-us",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Higgins"
+            ],
+            "positions": [
+                "International CEO and Global Head of Corporate Development"
+            ],
+            "companies": [
+                "Hidden Road",
+                "Ripple",
+                "Hidden Road Partners CIV UK Ltd"
+            ],
+            "organizations": [
+                "FCA"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of institutional OTC crypto brokerage services in the U.S. market expands access and product availability for institutional investors, indicating market growth and institutional adoption."
+    }
+}

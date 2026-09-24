@@ -1,0 +1,46 @@
+{
+    "title": "Ether Only Crypto Major in Green, XRP Muted After Mammoth Treasury Plans",
+    "summary": "Crypto traders say the market is in a “Goldilocks zone,” with recent macro shifts — like softer yields and corporate crypto treasuries — yet to fully ripple through asset prices.",
+    "time": "2025-05-29T06:43:00",
+    "author": "Shaurya Malwa",
+    "content": "Ether\nETH\n$3,495.36\nled major tokens with a modest gain, jumping above $2,700 early Thursday as broader crypto markets remained range-bound despite a flurry of macro and corporate headlines.\n\nEther-based spot ETFs recorded net inflows, reinforcing institutional appetite for the asset even as bitcoin\nBTC\n$104,608.94\nflows slowed, traders said.\n\nXRP’s price remained largely unchanged after Nasdaq-listed VivoPower announced a $121 million allocation toward building an XRP-based treasury reserve — echoing a bitcoin-based strategy made famous by Strategy (MSTR) and Metaplanet.\n\n\"While US stocks rose after a federal court blocked Trump's tariffs, Bitcoin slumped after the Fed decided to hold interest rates,” said Nick Ruck, director at LVRG Research, in a Telegram message to CoinDesk.\n\n“These signals could indicate investors remain positive in the long term but are taking risk off from Bitcoin in the short term,\" Ruck added.\n\nMeanwhile, bitcoin lost the $108,000 level with overall market capitalization dipping 2.5%. Major tokens cardano's ADA\nADA\n$0.5346\n, BNB Chain's BNB\nBNB\n$946.98\n, dogecoin\nDOGE\n$0.1623\nand Solana’s SOL\nSOL\n$157.90\nwere little changed in the past 24 hours.\n\nOutside of the top ten, toncoin\nTON\n$1.9618\nfell in early Asian hours after a more than 20% surge the day before on reports of a partnership with Elon Musk's xAI to integrate the Grok AI service within its app.\n\nMusk later said on X that “no deal has been signed,” to which Toncoin’s Pavel Durov said it was agreed in principle but had formalities pending.\n\nAs such, some traders say markets are now entering what some are calling a “Goldilocks zone,” where data remains stable, major risks have been absorbed, and catalysts are pending.\n\n\"Volatility across most asset classes has collapsed,\" wrote QCP Capital in a note Tuesday, citing retreating yields on U.S. and Japanese long-dated bonds.\n\n“We now find ourselves in a Goldilocks zone: recent data prints remain largely unaffected by the tariff policy introduced last month,” it said. “It will take time for companies and consumers to adjust pricing and spending patterns. Only in Q3 are we likely to see these dynamics reflected in the numbers.”\n\nYields on 10- and 30-year Treasuries dropped below 4.5% and 5%, respectively, while Japan’s 30-year JGB yield fell under 3%, the firm minted. Despite historic debt levels, the near-term fiscal panic appears to have cooled.",
+    "url": "https://www.coindesk.com/markets/2025/05/29/ether-only-crypto-major-in-green-xrp-muted-after-mammoth-treasury-plans",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Nick Ruck",
+                "Elon Musk",
+                "Pavel Durov"
+            ],
+            "positions": [
+                "director"
+            ],
+            "companies": [
+                "VivoPower",
+                "Strategy (MSTR)",
+                "Metaplanet",
+                "xAI",
+                "QCP Capital"
+            ],
+            "organizations": [
+                "LVRG Research",
+                "Fed",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "XRP",
+            "Bitcoin",
+            "BTC",
+            "ADA",
+            "BNB",
+            "DOGE",
+            "SOL",
+            "TON"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market is described as range-bound with most major tokens showing little change, entering what traders call a 'Goldilocks zone' with stable data and pending catalysts."
+    }
+}

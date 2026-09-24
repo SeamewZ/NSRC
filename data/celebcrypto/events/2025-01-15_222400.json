@@ -1,0 +1,45 @@
+{
+    "title": "The Protocol: Sony Launches Blockchain to Controversy",
+    "summary": "Also: Bubblemaps roadmap; Babylon interoperability",
+    "time": "2025-01-15T22:24:00",
+    "author": "Benjamin Schiller",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Ben Schiller, CoinDesk’s Opinion and Features editor.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday. Also please check out our weekly The Protocol podcast.\n\nSONY EMBRACES BLOCKCHAIN, BATTLES MEMES: Sony, the 78-year-old Japanese electronics giant, is the latest legacy megacorp to explore blockchain technology. On Tuesday, the company announced that it is officially launching \"Soneium,\" its general-purpose blockchain platform built on Optimism's OP Stack. The chain is aimed towards \"bridging the gap between Web2 and Web3 audiences, especially for the creators, fans and community,” the team behind the network told CoinDesk's Margaux Nijkerk in a statement. Like similar general-purpose blockchains, the network is built to support a wide variety of use cases, from decentralized finance apps to entertainment and gaming services. While Sony's blockchain tech has attracted eyeballs over the past week, not all the attention has been positive. Within the first couple of hours of Soneium's launch, some X users complained that the network was blocking memecoin trading, leading to allegations that the (ostensibly decentralized) network was \"censoring\" certain kinds of transactions, a big no-no for some crypto adherents. The controversy underscored the unavoidable tension between hardline blockchain ideals and traditional corporate interests. But the incident also showcased crypto's resilience: Some savvy blockchain users found a workaround allowing them to \"force through\" transactions to the base Ethereum network, rendering Sony's alleged transaction-blocking moot. Read more.\n\nBUBBLEMAPS WANTS MORE CRYPTO SLEUTHS: Bubblemaps, the blockchain analytics service, announced on X this week that it will be launching a token, BMT, and a new \"Intel Desk\" that will give holders a voice in driving investigations. Bubblemaps recently introduced the V2 of its platform, which helps crypto sleuths suss out who really owns the supply of a given token. The platform sorts closely related blockchain addresses into clusters, and its easy-to-read visuals have become a common sight on crypto Twitter, where they've been used to demonstrate suspicious supply patterns among popular memecoins and DeFi tokens. Bubblemaps V2, which started rolling out to users in November, added new AI-clustering features and made it easier to examine token distributions over time. Bubblemaps just-announced token, BMT, will be airdropped to users of the V2 platform. Holders will be given a role in the platform's \"Intel Desk,\" where community members can propose investigations and vote on how Bubblemaps allocates in-house investigators and resources.\n\nBABYLON BRINGS ZK MOMENTUM: Babylon Labs, developer of the largest BTC staking protocol, is building a trust-minimized Bitcoin bridge with the Cosmos network to enhance the world's oldest blockchain's interoperability. In partnership with developers Fiamma, Babylon is using the BitVM2 computing paradigm, which is designed to allow Ethereum-style smart contracts on Bitcoin, which then paves the way for zero-knowledge (ZK) technology. ZK computations allow different parties to verify that information is accurate without actually revealing to each other what the information is. In this sense, it is foundational to bridging digital assets between different blockchains. Developers like Babylon Labs and Fiamma are aiming to unlock the deep wells of value stored in BTC to finance other ecosystems and allow it to be transacted on blockchains that are free of some of Bitcoin's limitations of speed and scale. Read more.\n\nBITFINEX: U.S. prosecutors have asked a federal judge to green-light the return of nearly 80% of the 119,754 bitcoins stolen in the 2016 hack of crypto exchange Bitfinex. In a Tuesday court filing, prosecutors said the 94,643 bitcoins recovered by the government from the original wallet used by the hacker, Ilya Lichtenstein, can be paid to Bitfinex as restitution in-kind once the court gives the go-ahead. The Bitcoin Cash, Bitcoin Satoshi Vision and Bitcoin Gold generated via several hard forks following the hack will also be sent to Bitfinex. Last November, Lichtenstein was sentenced to 5 years in prison after pleading guilty to conspiracy to commit money laundering in 2023. His wife, Heather Morgan – better known by her rap moniker Razzlekhan – received an 18-month sentence for helping Lichtenstein to launder a portion of the hack proceeds. Both agreed to forfeit the stolen cryptocurrency as part of their plea agreements. Read more.\n\nYou Ain’t Seen Nothing\n\nTreasuries multiply\n\nRegulatory and policy",
+    "url": "https://www.coindesk.com/tech/2025/01/15/the-protocol-sony-launches-blockchain-to-controversy",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Schiller",
+                "Margaux Nijkerk",
+                "Ilya Lichtenstein",
+                "Heather Morgan"
+            ],
+            "positions": [
+                "Opinion and Features editor"
+            ],
+            "companies": [
+                "Sony",
+                "CoinDesk",
+                "Optimism",
+                "Bubblemaps",
+                "Babylon Labs",
+                "Fiamma",
+                "Bitfinex"
+            ],
+            "organizations": [
+                "X",
+                "Ethereum",
+                "Cosmos"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "Bitcoin Cash",
+            "Bitcoin Satoshi Vision",
+            "Bitcoin Gold"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news covers mixed developments including corporate blockchain adoption with controversy, analytics platform expansion, interoperability improvements, and legal recovery of stolen funds, presenting no clear directional market impact."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "title": "CoinDesk Weekly Recap: Bitcoin Holds Steady Amid Market Turmoil",
+    "summary": "The markets are terrible but the crypto industry continues building for the future.",
+    "time": "2025-04-04T16:26:00",
+    "author": "Benjamin Schiller",
+    "content": "It was a dreadful week for the stock market, with the S&P 500 falling more than 6% over the last five days. That didn’t help Bitcoin, but the original cryptocurrency fared better than the wider market, rising over 1% in the same period.\n\nThe Nasdaq had one of its largest falls in 25 years Thursday, but bitcoin held relatively steady (CoinDesk’s James Van Straten reported) even if now it’s nowhere near the highs above 100,000 that we saw at the beginning of the year.\n\nThe big question for bitcoin amid market uncertainty is whether it’s seen as a risk asset to be sold off in a storm or a safe haven akin to gold (which until the last 24 hours at least was doing well relative to the market). The impact of tariffs on crypto is much debated by researchers.\n\nMeanwhile, the digital assets industry prepared for better days ahead. Circle — the issuer of the second largest stablecoin, USDC — officially filed for an IPO. An important U.S. House committee advanced its stablecoin bill, with significant Democrat support.\n\nFidelity Investments, a major brokerage firm, announced plans to offer an IRA allowing investors direct access to crypto in their retirement accounts. Helene Braun had the news. Advisers are increasingly willing to promote crypto products to their clients, surveys show. In other news, corporate bitcoin buyers, like Strategy, Metaplanet, Mara and Tether, kept stockpiling bitcoin, taking advantage of today’s prices.\n\nEthereum developers locked in May 7 for their next upgrade (named Pectra), Margaux Nijkerk reported. Ripple reported big demand for its new stablecoin RLUSD, Kris Sandor reported.\n\nThen in regulatory news, Paul Atkins neared confirmation for SEC Chair and long-time D.C. crypto advocate stepped down from heading the Blockchain Association to work for a new Solana-focused group.\n\nMuch of the news followed a pattern we’ve seen for the last few weeks: Sagging markets and quiet industry growth aided by a regulatory thaw.\n\nGiven the tumultuous macroeconomic environment, it’s going to be fascinating to see how crypto continues to fare.",
+    "url": "https://www.coindesk.com/news-analysis/2025/04/04/coindesk-weekly-recap-bitcoin-holds-steady-amid-market-turmoil",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Helene Braun",
+                "Margaux Nijkerk",
+                "Kris Sandor",
+                "Paul Atkins"
+            ],
+            "positions": [
+                "SEC Chair"
+            ],
+            "companies": [
+                "Circle",
+                "Fidelity Investments",
+                "Strategy",
+                "Metaplanet",
+                "Mara",
+                "Tether",
+                "Ripple"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Nasdaq",
+                "U.S. House committee",
+                "Blockchain Association",
+                "Solana-focused group"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "Ethereum",
+            "USDC",
+            "RLUSD",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes Bitcoin holding steady amid broader market turmoil while showing mixed signals with both market uncertainty and positive industry developments."
+    }
+}

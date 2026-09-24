@@ -1,0 +1,31 @@
+{
+    "title": "Much-Awaited Fed Rate Cut May Not Come Before Q4, ING Says",
+    "time": "2025-05-08T13:19:00",
+    "author": "Omkar Godbole",
+    "summary": "Delayed rate cuts could be more aggressive when they happen, the investment bank said.",
+    "content": "The Federal Reserve may not cut interest rates any time soon, but when it does, the easing could be aggressive, according to Dutch investment bank ING.\n\nOn Wednesday, the Fed kept the benchmark rate on hold between 4.25% and 4.5%, with Chairman Jerome Powell raising the specter of stagflation during the press conference following the announcement.\n\nBoth crypto and traditional markets looked to Powell for cues on a potential rate cut in June. ING points to his comments that \"uncertainty about the economic outlook has increased\" and the \"risks of higher unemployment and higher inflation have risen\" as evidence the wait-and-watch mode could last for a couple more meetings.\n\nThe comments suggest \"little inclination to move until they are confident of the direction the data is heading, meaning rate cuts could be delayed, but risk being sharper when they come,\" ING said in a note to clients.\n\nThe investment bank said the wait-and-see stance could \"persist through to September.\"\n\nThe bank the Fed's reticence to act is probably due to concerns that trade war and supply disruptions at ports and logistics firms could amplify inflation.\n\nBitcoin has rallied from $96,000 to $99,5000 since Wednesday's Fed decision, with President Donald Trump's tease of a trade deal with a major economy helping restore the risk sentiment.",
+    "url": "https://www.coindesk.com/markets/2025/05/08/much-awaited-fed-rate-cut-may-not-come-before-q4-ing-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jerome Powell",
+                "Donald Trump"
+            ],
+            "positions": [
+                "Chairman",
+                "President"
+            ],
+            "companies": [
+                "ING"
+            ],
+            "organizations": [
+                "Federal Reserve"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin has rallied from $96,000 to $99,500 since Wednesday's Fed decision, with President Donald Trump's tease of a trade deal helping restore the risk sentiment."
+    }
+}

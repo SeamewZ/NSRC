@@ -1,0 +1,26 @@
+{
+    "title": "Bitcoin's $95K-$105K Range in Focus as $10B BTC Options Expiry Looms",
+    "summary": "Bitcoin options worth over $10 billion are set to expire on Friday at 08:00 UTC on Deribit.",
+    "time": "2025-05-29T06:09:00",
+    "author": "Omkar Godbole",
+    "content": "Bitcoin\nBTC\n$101,815.99\noptions worth billions of dollars are set to expire this Friday at 08:00 UTC on Deribit, making the $95,000 to $105,000 range a critical zone for potential volatility and directional cues.\n\nAt press time, a total of 93,131 bitcoin monthly options contracts, worth over $10 billion, were due for settlement, with 53% being calls and the remainder being puts. A call option represents a bullish bet on the market, while the put option offers insurance against price slides. On Deribit, one options contract represents one BTC.\n\nThe open interest distribution is such that a large amount of \"delta\" exposure is clustered at the $95,000, $100,000 and $105,000 strikes. This means traders holding positions at these strikes have a significant net directional risk to bitcoin's price.\n\nGamma, which measures the sensitivity of options to changes in BTC's price, will peak as the expiration nears. Therefore, price volatility could trigger widespread hedging by both investors and market makers (who are always on the opposite side of investors' trades), further exacerbating price turbulence.\n\n\"The largest delta concentration is in Deribit BTC’s May 30 expiry, with $2.8B delta exposure led by strikes at $100K, $105K, and $95K, which has a potential for strong gamma-driven flows into month-end,\" decentralized crypto trading platform Volmex said in an explainer on X.\n\n\"Any move can trigger aggressive dealer hedging, fragile gamma environment! Expect volatility!,\" Volmex added.\n\nAt press time, Bitcoin changed hands at $107,700, having reached record highs above $111,000 the previous week, according to CoinDesk data.\n\nDeribit's DVOL index, which represents the options-based 30-day implied or expected volatility, continued to decline, suggesting minimal concern over volatility driven by the upcoming expiry.\n\nVolmex's annualized one-day implied volatility index ticked slightly higher to 45.4%. That implies a 24-hour price move of 2.37%.",
+    "url": "https://www.coindesk.com/markets/2025/05/29/bitcoin-s-usd95k-usd105k-price-range-in-focus-as-usd10b-btc-options-expiry-looms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Deribit",
+                "Volmex",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news highlights potential volatility and directional cues around the $95K-$105K range due to options expiry, with mixed signals from declining implied volatility but warnings of gamma-driven flows and dealer hedging."
+    }
+}

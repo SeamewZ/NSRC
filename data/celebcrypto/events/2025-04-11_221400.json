@@ -1,0 +1,34 @@
+{
+    "title": "Judge Rules Against Most of DCG’s Motion to Dismiss NYAG’s Civil Securities Fraud Suit",
+    "summary": "The judge agreed to toss out two of the claims against DCG, its CEO Barry Silbert and Michael Moro, the former CEO of Genesis Global Capital, on the grounds that they were duplicative.",
+    "time": "2025-04-11T22:14:00",
+    "author": "Cheyenne Ligon",
+    "content": "A New York judge ruled Friday that the majority of New York Attorney General Letitia James’ civil securities fraud suit against crypto venture firm Digital Currency Group (DCG) and two of its executives can proceed to trial.\n\nIn 2023, James sued James sued DCG and its CEO Barry Silbert, DCG’s now-bankrupt lending arm Genesis Global Capital and its former CEO Michael Moro and crypto exchange Gemini, alleging that they worked together to cover up a gaping $1 billion hole in Genesis’ balance sheet caused by the wipe-out of Singapore-based crypto hedge fund Three Arrows Capital (3AC) in 2022.\n\nJames said DCG and Genesis made “false assurances” on social media that DCG had absorbed Genesis’ losses from 3AC’s implosion when, in fact, they had just papered over the hole with a promissory note, pleading to pay Genesis $1.1 billion over 10 years at a 1% interest rate. While DCG has adamantly maintained that the promissory note was legitimate, James’ suit claimed that DCG has “never made a single payment under the Note.”\n\nWhile Gemini and Genesis both settled with the OAG, DCG, Silbert and Moro have fought them tooth and nail. Last spring, DCG and both executives filed motions to dismiss the suit, alleging that the Office of the Attorney General (OAG) had failed to state a claim — essentially arguing that they were not selling securities and thus should not be sued under New York State securities laws.\n\nBut the judge presiding over the case disagreed in her Friday ruling, writing that the OAG had, at least at the current stage of the case, adequately alleged that the Gemini Earn program — the now-defunct Gemini lending product that went belly-up in November 2022 and which sits at the center of James’ case — was a security.\n\nCrane did, however, agree to toss out two of James’ claims against DCG, Moro and Silbert — one claim under New York’s Executive Law that they engaged in a scheme to defraud in the first degree, and another that they engaged in a conspiracy in the fifth degree — ruling that those claims were duplicative.\n\nThough Crane ruled the case can proceed, DCG said it isn’t done fighting.\n\n“As we have stated from the beginning, the allegations against DCG are a thin web of innuendo, mischaracterizations, and unsupported conclusions,” a spokesperson for DCG told CoinDesk. “We’re encouraged by the judge’s dismissal of the New York Attorney General’s most outrageous claims based on alleged violations of criminal fraud and conspiracy statutes. We will continue to fight this baseless lawsuit as we remain focused on our mission in support of the digital assets industry.”",
+    "url": "https://www.coindesk.com/policy/2025/04/11/judge-rules-against-most-of-dcg-s-motion-to-dismiss-nyag-s-civil-securities-fraud-suit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Barry Silbert",
+                "Michael Moro",
+                "Letitia James"
+            ],
+            "positions": [
+                "CEO",
+                "former CEO",
+                "New York Attorney General"
+            ],
+            "companies": [
+                "Digital Currency Group (DCG)",
+                "Genesis Global Capital",
+                "Gemini",
+                "Three Arrows Capital (3AC)"
+            ],
+            "organizations": [
+                "Office of the Attorney General (OAG)"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a securities fraud lawsuit proceeding against major crypto companies and executives, indicating regulatory pressure and legal uncertainty in the industry."
+    }
+}

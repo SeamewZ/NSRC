@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Drops 2.2% as All Assets Trade Lower",
+    "summary": "Sui (SUI) fell 7.7% and Aave (AAVE) declined 7.5%, leading the index lower.",
+    "time": "2025-05-06T13:16:00",
+    "author": "CoinDesk Indices",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2654.32, down 2.2% (-60.12) since 4 p.m. ET on Monday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BCH (-0.3%) and BTC (-0.8%).\n\nLaggards: SUI (-7.7%) and AAVE (-7.5%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/06/coindesk-20-performance-update-index-drops-2-2-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SUI",
+            "AAVE",
+            "BCH",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index dropped 2.2% with all 20 assets trading lower, indicating broad market decline."
+    }
+}

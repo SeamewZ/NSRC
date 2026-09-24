@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Nears $85K Before Tariffs Kick-In; DOGE, XRP, ADA Lead Crypto Majors",
+    "time": "2025-04-01T10:28:00",
+    "author": "Shaurya Malwa",
+    "summary": "A rocky quarter has ended in an 11% loss for bitcoin and the biggest for the S&P 500 since Q2 2022. Here’s what traders say ahead of the April 2 tariffs kicking in.",
+    "content": "Bitcoin\nBTC\n$103,929.21\nwas inching towards 85,000 during European trading hours on Tuesday as traders largely await the impact of U.S. tariffs slated for Wednesday.\n\nDOGE\n$0.1647\nand\nADA\n$0.5411\nrose over 7% to lead muted gains among majors, with ether\nETH\n$3,501.36\n, XRP, Solana’s SOL and BNB Chain’s BNB were up nearly 5%.\n\nOverall market capitalization decreased 3%, CoinGecko data shows, with the broad-based CoinDesk 20 bumped 3% in the past 24 hours.\n\nThe movements come amid a broader risk-off mood gripping markets, with U.S. equities stumbling — the S&P 500 logged a 3% drop last week, its worst since September 2023, and a rush to safe-haven asset gold, which surged to fresh highs early Tuesday.\n\nThe looming tariffs, paired with a flurry of U.S. economic and labor reports covering the past month have cast a shadow over crypto sentiment. Augustine Fan, head of insights at SignalPlus, pointed to a lack of fresh catalysts — such as no big ETF inflows — and a market stuck in low-conviction mode to close out a rocky quarter, one that ended in an 11% loss for bitcoin and the biggest for the S&P 500 since Q2 2022.\n\nhttps://x.com/Barchart/status/1906821431352029565\n\nOn the futures front, speculative positions on bitcoin via the CME are at their most bearish in years, a sharp pivot from January’s bullish fever, Fan said.\n\n“Keep in mind that positioning data is merely a statement on the market condition, and not necessarily a signal to a tradeable setup,” Fan said. “The catalysts for a sustained rally remain fleeting at the moment, though we would expect any bullish turn to be sharp given the extended short positioning at the moment.”\n\nBut there are signs of resilience among long-term holders. Glassnode data shows holders with 3-6 month positions are sitting on growing profits and trading at their lowest levels since June 2021 — a sign of conviction over panic selling.\n\nNewer whales, or large investors who’ve taken positions in recent months, are also holding firm rather than cashing out, lending stability to bitcoin’s price floor, per Glassnode.\n\nhttps://x.com/glassnode/status/1906713577471234255\n\nMeanwhile, Jupiter Zheng, a partner at HashKey Capital’s Liquid Fund and Research, said they consider tariff suspense and economic data dump as a short-term headwind.\n\n“The dip’s all about risk-off sentiment,” Zheng said in a Telegram message to CoinDesk. “We're still optimistic in the long term, as more institutions integrate crypto while regulators across the world initiate new policies to enhance adoption.”",
+    "url": "https://www.coindesk.com/markets/2025/04/01/bitcoin-nears-usd85k-before-tariffs-kick-in-doge-xrp-ada-lead-crypto-majors",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Augustine Fan",
+                "Jupiter Zheng"
+            ],
+            "positions": [
+                "head of insights",
+                "partner"
+            ],
+            "companies": [
+                "SignalPlus",
+                "HashKey Capital",
+                "CoinGecko",
+                "CME",
+                "Glassnode"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "DOGE",
+            "ADA",
+            "ETH",
+            "XRP",
+            "SOL",
+            "BNB"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The market shows mixed signals with some cryptocurrencies gaining while overall market cap decreased, traders await tariff impacts, and analysts note both bearish positioning data and resilient long-term holder behavior."
+    }
+}

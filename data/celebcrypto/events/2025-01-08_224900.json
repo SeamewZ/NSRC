@@ -1,0 +1,33 @@
+{
+    "title": "Solana Pushes Validators to Test Early 'Firedancer' Upgrade",
+    "summary": "The upgrade from Jump Crypto could drastically boost transaction throughput, helping Solana support legacy financial markets.",
+    "time": "2025-01-08T22:49:00",
+    "author": "Danny Nelson",
+    "content": "Solana is ratcheting up testing of Firedancer, the highly anticipated software upgrade that promises to vastly increase the blockchain's processing speed.\n\nBy the end of this week, Solana's core developers want a \"super majority\" of processing power on the chain's low-stakes test network to run through Frankendancer, an early version of Firedancer, according to messages in Solana's technical Discord server.\n\nThe call-to-action to Solana's validators — those who run computers that power the network — marks Firedancer's biggest test yet. The upgrade has been in the works since 2022, when the chain frequently faltered, and is seen as a boost to Solana's stability and speed.\n\nFiredancer's proponents believe the software – developed by the crypto arm of trading giant Jump – will give Solana an unbeatable edge in crypto's race to woo global financial markets onto blockchains. They point to its theoretical speed: one million transactions per second, orders of magnitude faster than any blockchain-based system today.\n\nFiredancer itself doesn't yet have a launch date. For now, Jump Crypto has only launched Frankendancer, which is a hybrid combining elements from Firedancer and Solana's predominant client architecture. Only a small subset of validators had adopted Frankendancer before this week; many told CoinDesk they found it buggy and prone to crashes.\n\n\"It's been notoriously difficult to keep that thing alive and running but we've done it,\" said Kollen House, a longtime member of Solana's validator community. He sees the new push for broader Frankendancer adoption as a sign of the software's \"maturity.\"\n\n\"If you have confidence to say, 'Hey we want 60% of testnet to run this client,' then we're getting there,\" House said.\n\nCrypto networks like Solana are powered by hundreds of individual validators. Each independently runs a computer loaded with \"client\" software that connects them to the network. Such decentralization helps blockchains stay secure, but it makes system upgrades much harder to coordinate.\n\nFor years now, the Solana Foundation, a non-profit that stewards the network, has partially addressed that coordination dilemma via subsidies. Its \"delegation program\" helps smaller validators — those who don't have much staked SOL, and therefore earn less revenue for their work validating the chain — stay profitable. It frequently cajoles validators into keeping their software up-to-date by threatening to revoke the delegated stake of those who fall behind on upgrades.\n\nFor the first time on Tuesday, the Solana Foundation used that subsidy carrot-and-stick to directly promote the adoption of Frankendancer. Validators have only a few days left to switch their testnet systems to the new client before losing their delegated stake.\n\n\"At present, it seems like they're getting there,\" said Jon, a validator operator who says he has been running Frankendancer for several months. \"Around 30% of validators on testnet are running Frankendancer now, but still think they're short of the supermajority.\"",
+    "url": "https://www.coindesk.com/business/2025/01/08/solana-pushes-validators-to-test-early-firedancer-upgrade",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kollen House",
+                "Jon"
+            ],
+            "positions": [
+                "longtime member of Solana's validator community",
+                "validator operator"
+            ],
+            "companies": [
+                "Jump Crypto",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Solana Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major technical upgrade that promises vastly increased processing speed and stability for Solana, which is seen as giving it an unbeatable edge in wooing global financial markets."
+    }
+}

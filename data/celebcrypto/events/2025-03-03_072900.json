@@ -1,0 +1,56 @@
+{
+    "title": "Bitcoin $100K Plays Back in Vogue After 10% BTC Price Surge From 'Trump Put'",
+    "time": "2025-03-03T07:29:00",
+    "author": "Omkar Godbole",
+    "summary": "The Deribit-listed $100K strike call has seen the biggest jump in open interest in the past 24 hours.",
+    "content": "Bitcoin\nBTC\n$103,891.83\nand the broader crypto market have seen a notable bullish turnaround in the past 24 hours, fueled by President Donald Trump's announcement of the five tokens he expects to include in the long-promised strategic crypto reserve.\n\nThat has revived investor interest in the Deribit-listed call options or bullish bets at the $100,000 level, according to data source Amberdata.\n\nBTC, the leading cryptocurrency by market value, has gained nearly 10% in 24 hours, reaching a high of over $95,000 at one point, CoinDesk data show. Other tokens that Trump named – ETH, XRP, SOL and ADA – chalked out more significant gains.\n\nOn Sunday, Trump announced on Truth Social that he has directed the Presidential Working Group to move forward on a crypto strategic reserve that includes XRP, SOL and ADA, with bitcoin and ether at the heart of the reserve. The market welcomed this news with enthusiasm, especially given the disappointment among industry players due to the lack of swift action on the promised reserve since Trump took office on Jan. 20.\n\nNow, this whole episode is being seen as evidence of the \"Trump put\" on crypto, suggesting that the Trump administration will intervene to support the market in turbulent times, much like the Fed is known to do for stock markets.\n\n\"Today Trump signaled there is a Trump put on crypto. This is good enough for a trend change, particularly given how BTC blasted through resitance with sentiment among many at all time lows,\" trader and analyst Alex Kruger said on X.\n\nKruger said that BTC has re-established $89,000 and $92,000 as key support level and traders can \"long support confidently with clear invalidation levels below.\"\n\nJosh Gilbert, market analyst at eToro, shared a similar view in an email to CoinDesk, saying, \"Given the President's vested interests, it feels like this is something investors may need to get used to; sell-offs of this nature could continue to be supported moving forward.\"\n\nAgainst this backdrop, there has been renewed activity in the $100K strike call, signaling that traders are betting on further price gains despite ongoing volatility. A call option gives the purchaser the right to buy the underlying asset at a predetermined price on or before a specific date, thus offering the buyer an asymmetric upside exposure.\n\nData tracked by Amberdata show open interest or the number of active positions in the $100K call has increased by 1,163 contracts (worth over $100 million), the most among all options listed on Deribit.\n\n\"$100k will be the level everyone is looking at intra-week,\" Greg Magadini, director of derivatives at Amberdata, said in an email. \"This upcoming [week][ will have interesting “Buy the rumor / Sell the news” dynamics around the March 7th crypto summit.\n\nThe renewed bias for calls, in general, is also evident from the recovery in the short-term skews, which measure the implied volatility premium (demand) for calls relative to puts.\n\nThe seven-, 30- and 60-day skews have bounced to zero and higher, up significantly from the deep negative readings since Friday when traders chased protective put options.\n\n\"People like to buy calls and sell puts when the market bounces,\" Deribit's Asia Business Development Head, Lin Chen, told CoinDesk.\n\nSome observers are worried that the progress on crypto reserve could be slower-than-expected.\n\n\"Nothing new here. Just words. Lmk when they get congressional approval to borrow money and or revalue the gold price higher. Without that, they have no money to buy bitcoin and shitcoins,\" Arthur Hayes, chief investment officer and co-founder of Maelstrom Fund, said on X, reacting to Trump's announcement.\n\nSeveral others, including Bybit's CEO Ben Zhou, share a similar view.\n\n\"The sentiment we're seeing in the wake of the U.S. federal crypto reserve announcement is largely bullish, with expectations of institutional inflows and global competition for crypto reserves. Scepticism remains, however, with specific concerns over execution, Congressional approval, and potential long-term risks like government intervention,\" Mark Hiriart, Head of Sales at digital asset trading firm Zerocap, said in an email to CoinDesk.\n\n\"While institutions may rush in, unclear regulations and macroeconomic conditions could determine whether this rally sticks,\" Hiriart noted, adding the focus now will be on the White House Crypto Summit on March 7, which could provide more details about the crypto reserve.",
+    "url": "https://www.coindesk.com/markets/2025/03/03/bitcoin-usd100k-plays-back-in-vogue-after-10-btc-price-surge-from-trump-put",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Alex Kruger",
+                "Josh Gilbert",
+                "Greg Magadini",
+                "Lin Chen",
+                "Arthur Hayes",
+                "Ben Zhou",
+                "Mark Hiriart"
+            ],
+            "positions": [
+                "President",
+                "trader and analyst",
+                "market analyst",
+                "director of derivatives",
+                "Asia Business Development Head",
+                "chief investment officer and co-founder",
+                "CEO",
+                "Head of Sales"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "CoinDesk",
+                "eToro",
+                "Maelstrom Fund",
+                "Bybit",
+                "Zerocap"
+            ],
+            "organizations": [
+                "Presidential Working Group",
+                "Fed",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ETH",
+            "XRP",
+            "SOL",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a 10% BTC price surge, renewed investor interest in $100K call options, and market enthusiasm following Trump's crypto reserve announcement, with analysts calling it evidence of a 'Trump put' that supports the market."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Ranger Labs Raises $1.9M, Eyes AI-Powered Crypto Trading Products",
+    "time": "2025-01-23T16:49:00",
+    "author": "Danny Nelson",
+    "summary": "The Solana-based DEX builder is gearing up for an expansion.",
+    "content": "The builders of Solana-based crypto derivatives exchange Ranger Protocol are jumping on the AI train, too, after raising $1.9 million from venture investors.\n\nRanger's eponymous trading venue pools crypto perps (the most popular investment contract in DeFi for trading tokens like SOL) from multiple protocols to secure good deals for traders. Since launching in late December, it has facilitated $25 million in trades, a drop in the bucket of Solana's total perps landscape.\n\nThe protocol is now planning to add new product lines that give customers access to AI-assisted trading strategies, co-founder Coby Lim told CoinDesk. A press release described vaults managed by AI agents who mix programmatic trading strategies with social media and data insights.\n\nDeFAI (a portmanteau of DeFi and AI) has been taking off for months as enthusiasts of both buzzy tech fields experiment with mixing the two. AI agents can be set up to control their own crypto wallets, opening limitless possibilities.\n\n\"AI and DeFi are on a collision course,\" co-founder Fathur Rahman (known commonly as Fa2) said. \"Automation, predictive modeling, and intelligent execution will redefine trading. AI optimizes strategy, DeFi provides transparency, and together they unlock a new frontier of efficiency.\"\n\nRahman said AI rollouts are expected in \"the coming quarters.\"\n\nIn the interim, Ranger's rangers are working on pulling crypto perps from two more protocols, Adrena and Drift, to add to their current base of contracts from Jupiter and Flash. Their bet is Ranger's aggregation strategies source deeper liquidity for institutional perps traders than any one exchange ever could.\n\nThat's also what Ranger's venture backers are counting on. Viktor Fischer of lead investor RockawayX called Ranger's \"smart order routing\" a \"critical step towards a vibrant Solana perpetuals market.\"\n\nAsymmetric, Big Brain Holdings, RISE Capital and Anagram joined RockawayX in the $1.9 million funding round, which closed in December at a $30 million valuation.",
+    "url": "https://www.coindesk.com/business/2025/01/23/ranger-labs-raises-usd1-9m-eyes-ai-powered-crypto-trading-products",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Coby Lim",
+                "Fathur Rahman",
+                "Viktor Fischer"
+            ],
+            "positions": [
+                "co-founder",
+                "co-founder",
+                "lead investor"
+            ],
+            "companies": [
+                "Ranger Labs",
+                "Ranger Protocol",
+                "CoinDesk",
+                "Adrena",
+                "Drift",
+                "Jupiter",
+                "Flash",
+                "RockawayX",
+                "Asymmetric",
+                "Big Brain Holdings",
+                "RISE Capital",
+                "Anagram"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes successful funding, expansion plans, and positive statements about AI integration in DeFi, indicating market confidence and growth potential."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "SEC Walks Away From Case Against HEX Founder Richard Heart, Attorney Says",
+    "summary": "Attorney says dismissal marks only crypto case tossed in full by a federal judge.",
+    "time": "2025-04-23T07:16:00",
+    "author": "Sam Reynolds",
+    "content": "In a rare legal defeat for the U.S. Securities and Exchange Commission, the agency has formally dropped its fraud case against Richard Schueler, better known as Richard Heart, founder of the crypto projects HEX, PulseChain, and PulseX.\n\nOn April 21, the SEC informed the Eastern District Court of New York it would not amend its complaint, effectively bringing the case to a close.\n\n“That brings the case to an end with a complete victory for Mr. Heart,” said David Kirk, partner at Kirk & Ingram LLP, who represented the HEX founder in an email to CoinDesk. “To my knowledge, this is the only SEC enforcement action against a participant in the cryptocurrency industry that was dismissed in its entirety by a federal judge.”\n\nThe court had previously dismissed the SEC’s initial complaint in February, citing a lack of jurisdiction.\n\nJudge Carol Bagley Amon noted that Heart’s activities were not clearly targeted at U.S. investors, CoinDesk previously reported, undermining the SEC’s case.\n\n\"This is a victory for open-source software, cryptocurrency, and free speech. The SEC actually sued software code itself in this case, claiming it could be an alter ego of a person,\" Heart posted on X. \"This would have set a terrible precedent and caused perhaps multiple billions of dollars of damage to the vital open source and free software industry that powers most of the Internet and your speech on it.\"\n\nThough the regulator was granted an opportunity to amend the complaint, it declined to do so by the extended April 21 deadline.\n\nThe SEC had originally filed suit in July 2023, accusing Heart of raising over $1 billion through unregistered securities offerings.",
+    "url": "https://www.coindesk.com/policy/2025/04/23/sec-walks-away-from-case-against-hex-founder-richard-heart-attorney-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Richard Schueler",
+                "Richard Heart",
+                "David Kirk",
+                "Carol Bagley Amon"
+            ],
+            "positions": [
+                "founder",
+                "partner",
+                "judge"
+            ],
+            "companies": [
+                "Kirk & Ingram LLP"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission",
+                "Eastern District Court of New York",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "HEX",
+            "PulseChain",
+            "PulseX"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC dropping its fraud case against a major crypto founder represents a regulatory victory that could boost market confidence in the cryptocurrency industry."
+    }
+}

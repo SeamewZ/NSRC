@@ -1,0 +1,29 @@
+{
+    "title": "Ether Came Dangerously Close to Massive Liquidation. Here Are Some Levels to Watch",
+    "time": "2025-03-04T14:43:00",
+    "author": "Oliver Knight",
+    "summary": "One position worth $126 million was just 4% away from being liquidated.",
+    "content": "An ether\nETH\n$3,648.29\nposition worth more than $126 million came within 4% of being liquidated amid a crypto market plunge on Tuesday.\n\nETH has now retraced more than the entirety of Sunday's rally, shedding 22% of its value in the past 48 hours as it trades at $2,080.\n\nA fortuitous bounce at $2,000 protected Ethereum's decentralized finance (DeFi) ecosystem from a series of liquidations on collateralized debt platform MakerDAO.\n\nThe first level sat at $1,929 with another two positions set to be liquidated at $1,844 and $1,796. The combined value of all three positions is $349 million.\n\nPrice action is often drawn to liquidations levels as trading firms target areas of supply. When a liquidation is triggered on MakerDAO, the ETH pledged as collateral will be sold, or auctioned off, with a portion of fees going to the protocol. In terms of MakerDAO, the ETH is often purchased at a discount and later sold on the wider market for a profit - which has the potential to cause an additional drawdown in price.\n\nLiquidations in DeFi are more impactful than futures as it involves spot assets and not derivatives, which boast higher levels of liquidity due to high leverage.\n\nIn this case, it is advantageous for trading firms to target these levels as a liquidation would provide short term volatility and potentially a cascade, which is when one liquidated position forcibly leads to several others.\n\nOnce a cascade is concluded and buyers have absorbed the fresh supply, price typically heads back up, which can tempt the liquidated trader into buying back their long position.\n\nData from DefiLlama shows that $1.3 billion worth of ether is liquidatable with $427 million of that being within 20% of the current price.\n\nETH has underperformed against bitcoin\nBTC\n$107,143.68\nthroughout the recent bull market, slumping to a ratio of 0.0235 compared to previous cycle highs at 0.156 and 0.088. This is partly due to institutional inflows into numerous spot BTC ETFs, but also due to the rise of other blockchains like Solana and Base that have stolen market share.",
+    "url": "https://www.coindesk.com/business/2025/03/04/ether-came-dangerously-close-to-massive-liquidation-here-are-some-levels-to-watch",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "MakerDAO",
+                "DefiLlama"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ether",
+            "ETH",
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "Base"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a crypto market plunge, ETH shedding 22% of its value, and discusses the potential for liquidations and price drawdowns."
+    }
+}

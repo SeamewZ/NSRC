@@ -1,0 +1,36 @@
+{
+    "title": "Mastercard Unveils End-to-End Stablecoin Capabilities, Will Launch Card With OKX",
+    "time": "2025-04-28T16:00:00",
+    "author": "Helene Braun",
+    "summary": "Mastercard's new global system aims to make stablecoin transactions as seamless as traditional payments.",
+    "content": "Mastercard is moving deeper into the digital asset economy by launching new global capabilities to support stablecoin payments across its vast merchant network, the company announced Monday.\n\nThe payments giant is working with crypto exchange OKX to roll out the \"OKX Card,\" aimed at linking crypto trading and Web3 activities with everyday spending. Meanwhile, merchants will soon be able to settle transactions directly in stablecoins such as Circle’s USDC, thanks to collaborations with Nuvei and Circle. Paxos will help extend this functionality to other supported stablecoins like USDP.\n\n“When it comes to blockchain and digital assets, the benefits for mainstream use cases are clear,” Jorn Lambert, chief product officer at Mastercard, said in a statement. “To realize its potential, we need to make it as easy for merchants to receive stablecoin payments and for consumers to use them. We believe in the potential of stablecoins to streamline payments and commerce across the value chain. Unlocking this is core to how we navigate the rapidly changing world, giving people and businesses the freedom they want by providing the choices they deserve,” he said.\n\nStablecoins, which are cryptocurrencies pegged to stable assets like the U.S. dollar, have been gradually moving beyond trading venues into mainstream payments.\n\nMastercard’s initiative covers the full range of stablecoin use cases, from wallet enablement and card issuance to merchant settlement and on-chain remittances. The company has previously partnered with crypto exchanges like Kraken, Binance and Crypto.com to allow users to pay with stablecoins via traditional cards.\n\nLast year, it rolled out Mastercard Crypto Credential, a service designed to simplify sending digital assets across borders using verified usernames rather than complex wallet addresses.\n\nIn 2023, Mastercard launched its Multi-Token Network (MTN) which is being leveraged to facilitate real-time settlements and redemptions of tokenized assets.\n\nOndo Finance, in February, became the first provider to bring real-world assets to the network.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk’s full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/04/28/mastercard-unveils-end-to-end-stablecoin-capabilities-will-launch-card-with-okx",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jorn Lambert"
+            ],
+            "positions": [
+                "chief product officer"
+            ],
+            "companies": [
+                "Mastercard",
+                "OKX",
+                "Nuvei",
+                "Circle",
+                "Paxos",
+                "Kraken",
+                "Binance",
+                "Crypto.com",
+                "Ondo Finance"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "USDP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Mastercard's integration of stablecoin payments across its global merchant network and partnerships with major crypto exchanges represents significant mainstream adoption and infrastructure development for cryptocurrency."
+    }
+}

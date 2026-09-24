@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Mining Stocks Plunge as Revenue Craters Amid Market Carnage",
+    "time": "2025-04-07T13:35:00",
+    "author": "Aoyon Ashraf",
+    "summary": "MARA, RIOT, CLSK among mining stocks that fell more than 10% on Monday.",
+    "content": "Bitcoin mining stocks are taking it on the chin alongside broader equity markets as competition ramps up to an all-time high and traders panic-sell equities amid tariff-led uncertainties.\n\nMost mining stocks fell more than 10% on Monday, adding to last week's sell-off. MARA Holdings (MARA) fell nearly 11%, Riot Platforms (RIOT) slumped about 8%, and CleanSpark (CLSK) dropped 10% in early Monday U.S. trading. Other crypto-linked stocks, such as Michael Saylor's Strategy (MSTR) and crypto exchange Coinbase (COIN), also slid more than 10%.\n\nRead more: Strategy Treads Water on BTC Bet, While Metaplanet, Semler Reel From Heavy Losses\nThe sell-off comes as traders around the world panic-sell most asset classes, with equities hit the hardest. U.S. President Donald Trump's tariffs added uncertainties to the market and a trade war with China added more concerns for the miners.\n\nCurrently, Chinese manufacturers hold the lion's share of the market for the machines most miners use to mine for their block rewards. If the tariffs hold, they will likely make mining more expensive for those who are already navigating higher energy costs and lower profit margins following the recent halving that cut their rewards by half.\n\nAdding to the pain, the Bitcoin network's computing power — a measure of competition for the miners — hit a new all-time high of 1 zettahash per second (1 ZH/s) on Friday, according to data from Glassnode. The previous record was set on Jan. 31, when the network hit 975 exahashes per second (EH/s).\n\nAs the competition ramped up, the bitcoin price has fallen from the recent high of over $109,000 to $77,0000, pressuring mining revenue. Hashprice, a measure of daily income relative to hash power — has fallen to a record low $42.40, squeezing the miners even further.\n\nRead more: Markets in Freefall: Is the Credit Market Forcing the Fed’s Hand?",
+    "url": "https://www.coindesk.com/business/2025/04/07/bitcoin-mining-stocks-plunge-as-revenue-craters-amid-market-carnage",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "MARA Holdings",
+                "Riot Platforms",
+                "CleanSpark",
+                "Strategy",
+                "Coinbase",
+                "Metaplanet",
+                "Semler",
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin mining stocks plunging, bitcoin price falling from $109,000 to $77,000, panic-selling, and mining revenue hitting record lows."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "DeFi Savings Protocol Sky Slumps to $5M Loss as USDS Interest Payments Wipe Out Profit",
+    "time": "2025-05-13T16:18:00",
+    "author": "Tim Craig",
+    "summary": "The first-quarter loss is a stark turnaround from the previous quarter, when Sky registered a $31 million profit.",
+    "content": "DeFi savings protocol Sky posted a first-quarter loss of $5 million after interest payments to token holders more than doubled, according to a report created by Sky contributors from Steakhouse Financial.\n\nThe loss is a stark turnaround from the previous quarter, when Sky, formerly known as MakerDAO, registered a $31 million profit. The reason for the 102% increase in interest payments is the decision to incentivize use of the protocol's newer Sky dollar stablecoin (USDS) over the existing DAI.\n\n\"The Sky Savings Rate was kept very high at 12.5% relative to the rest of the market, driving massive inflows\" Rune Christensen, co-founder of Sky, told CoinDesk over Telegram. When Sky began lowering interest rates to 4.5% in February, a lot of investors stuck around, he said.\n\nThe situation is a double-edged sword for the protocol, which was among the first cohort of decentralized finance apps to spring up on Ethereum in 2017.\n\nSky operates similar to a traditional bank. It needs to lend to others at a rate higher than it pays its savers.\n\nHowever, offering higher rates on USDS without a corresponding increase in demand for the stablecoin is hurting the protocol’s profitability, PaperImperium, governance liaison at blockchain research and development company GFX Labs, told CoinDesk over Telegram.\n\n\"USDS is a major drag on earnings,\" he said. \"DAI makes money. USDS, not so much.\"\n\nThe push toward USDS is part of Sky’s so-called Endgame plan, an initiative led by Christensen aimed at transforming the protocol into a more decentralized and resilient system.\n\nWhen Sky rebranded from MakerDAO and launched USDS in August as part of Endgame, the plan was that the new stablecoin would appeal to a different set of users than DAI.\n\nUSDS was designed to better comply with regulations and financial reporting requirements. It was targeted toward sophisticated investors like hedge funds, family offices and other institutions looking to dip their toes into decentralized finance.\n\nBut it’s unclear if USDS has been able to attract a substantial number of new users.\n\nThe returns investors can earn on USDS comapred to DAI is different: USDS pays out 4.5%, while DAI yields 2.75%.\n\nMany investors swapped their DAI for USDS, meaning Sky had pay out more to people who previously were happy to earn a lower yield or, in many cases, no yield at all, PaperImperium said.\n\nTo be sure, the report said the combined supply of USDS and DAI has increased 57% since the start of the quarter. But a large part of this increase is from Ethena, the synthetic dollar protocol. It has piled over $450 million into staked USDS, and passes the yield on to those who stake its own stablecoin, USDe.\n\nOver the past week, Ethena has switched some of its reserves from USDS to USDtb — a stablecoin backed by BlackRock’s USD Institutional Digital Liquidity Fund, or BUIDL.\n\nThe move means there’s less USDS in circulation. But it may also benefit Sky by reducing the amount of interest the protocol must pay out.\n\nRead more: MakerDAO's Christensen Hopes for 'Firm Decision' as MKR Holders Vote on Sky Brand",
+    "url": "https://www.coindesk.com/business/2025/05/13/defi-savings-protocol-sky-slumps-to-5m-loss-as-usds-interest-payments-wipe-out-profit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rune Christensen",
+                "PaperImperium"
+            ],
+            "positions": [
+                "co-founder of Sky",
+                "governance liaison at blockchain research and development company GFX Labs"
+            ],
+            "companies": [
+                "Steakhouse Financial",
+                "CoinDesk",
+                "GFX Labs",
+                "BlackRock",
+                "Ethena"
+            ],
+            "organizations": [
+                "MakerDAO",
+                "Sky",
+                "Ethereum"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDS",
+            "DAI",
+            "USDtb",
+            "USDe",
+            "MKR"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a $5 million loss for Sky protocol due to high interest payments on USDS, representing a stark turnaround from previous $31 million profit, indicating negative financial performance."
+    }
+}

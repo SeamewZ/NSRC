@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Registers 14 Green Hourly Candles, Longest Streak Since 2017",
+    "time": "2025-01-10T11:30:00",
+    "author": "James Van Straten",
+    "summary": "K33 Research suggests this type of price action has only occurred a few times since 2017.",
+    "content": "Many traders were watching the bitcoin\nBTC\n$104,608.94\nprice action during European hours on Friday, slightly confused and for good reason.\n\nIf you look at the candlesticks chart for BTCUSD pair on Coinbase, you would see fourteen green hourly candles, which means in the last 14 hours bitcoin scored gains in each hour.\n\nThe hourly candles comes as BTC price has gone up from $91,771 to $95,283. The trend started on Jan. 9 at 21:00 UTC and has worked its way until 10:00 UTC on Jan. 10.\n\nThe unusual price chart has left traders on X perplexed.\n\nVetle Lunde, Senior analyst at K33 Research, put together data points on when this last happened. This is currently the longest hourly green candle streak since at least January 1, 2017, when it put in 11.\n\nBut, its not the first time we have seen double-digit hourly green candles in recent times. Bitcoin charts have shown similar patterns on Jan. 14, 2023 (11), Feb. 26, 2024 (11) and Nov. 12, 2024 (11) as well.\n\nThe fifteenth hourly candle is currently red, potentially ending this trend and is due to finish at 12:00 UTC.",
+    "url": "https://www.coindesk.com/markets/2025/01/10/bitcoin-registers-14-green-hourly-candles-longest-streak-since-2017",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vetle Lunde"
+            ],
+            "positions": [
+                "Senior analyst"
+            ],
+            "companies": [
+                "K33 Research",
+                "Coinbase"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's longest hourly green candle streak since 2017 with consistent price gains from $91,771 to $95,283, indicating strong upward momentum and positive price action."
+    }
+}

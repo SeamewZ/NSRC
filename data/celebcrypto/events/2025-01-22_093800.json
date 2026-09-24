@@ -1,0 +1,24 @@
+{
+    "title": "Jupiter to Issue $612M JUP Tokens in Wednesday Airdrop",
+    "time": "2025-01-22T09:38:00",
+    "author": "Oliver Knight",
+    "summary": "JUP has fallen 2% over the past 24 hours.",
+    "content": "Jupiter, a Solana-based decentralized exchange, will airdrop 700 million JUP tokens to its community on Wednesday in what it is calling the \"largest airdrop in history.\"\n\nThe airdrop is a part of the project's annual \"Jupuary\" event, which was voted into existence alongside another event in 2026 in a governance vote in December. It is scheduled to start at 15:30 UTC.\n\nInitial concerns were raised about the sustainability of supply increase, prompting the proposal to be amended to include a token audit and burn schedule over the next month.\n\nAt the time of writing JUP is trading at $0.87 after sliding by 2% over the past 24 hours. The total value of the airdrop is set to be $612 million.",
+    "url": "https://www.coindesk.com/business/2025/01/22/jupiter-to-issue-612-m-jup-tokens-in-wednesday-airdrop",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Jupiter"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "JUP",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports JUP has fallen 2% over the past 24 hours and mentions concerns about supply sustainability, indicating negative price pressure."
+    }
+}

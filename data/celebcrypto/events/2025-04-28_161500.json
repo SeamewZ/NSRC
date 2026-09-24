@@ -1,0 +1,32 @@
+{
+    "title": "Bitcoin Miner 1Q Results May Disappoint as Hashprice Fell, Tariffs Hit: CoinShares",
+    "summary": "",
+    "time": "2025-04-28T16:15:00",
+    "author": "Will Canny",
+    "content": "Bitcoin (BTC) miners' first-quarter results may disappoint because the hashprice, a measure of daily mining profitability, fell further and trade tariffs weighed on the market, asset manager CoinShares (CS) said in a blog post on Friday.\n\n\"Q2 results may show deterioration, as tariffs on imported mining rigs range from 24% (Malaysia) to 54% (China),\" analysts led by James Butterfill wrote.\n\nBitcoin miners that are dependent on older or less-efficient rigs are faced with higher exposure to these tariffs, the report said.\n\nCore Scientific (CORZ) is \"better insulated, as it transitions to HPC,\" the authors wrote, adding that Bitdeer (BTDR), which makes its own rigs, could see margin pressure on sales outside the U.S.\n\nThe asset manager predicts that the Bitcoin network hashrate could reach 1 zettahash per second (ZH/s) by July and 2 ZH/s by early 2027.\n\nThe hashprice outlook is not as positive.\n\nThe asset manager's model indicates \"a gradual structural decline, with prices likely to remain range-bound between $35 and $50 per PH/day through to the 2028 halving cycle.\"\n\nTariffs and trade tensions could be positive for bitcoin adoption in the medium term, asset manager Grayscale said in a research report earlier this month.\n\nRead more: Bitcoin Miners With HPC Exposure Underperformed in First Two Weeks of April: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-miner-1q-results-may-disappoint-as-hashprice-fell-tariffs-hit-coinshares",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Butterfill"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "CoinShares",
+                "Core Scientific",
+                "Bitdeer",
+                "Grayscale",
+                "JPMorgan"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes falling mining profitability, negative hashprice outlook, and tariff pressures on Bitcoin miners, indicating deteriorating conditions for the mining sector."
+    }
+}

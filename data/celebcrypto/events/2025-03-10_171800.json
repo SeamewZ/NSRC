@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Short-Term Futures Slip Into Discount on Deribit in Sign of Weak Demand",
+    "time": "2025-03-10T17:18:00",
+    "author": "Omkar Godbole",
+    "summary": "Futures expiring on Friday have slipped into a discount, reflecting demand weakness.",
+    "content": "Deribit-listed bitcoin (BTC) futures set to expire this Friday now trade marginally below the exchange’s index price, flashing a discount in a sign of weak demand for the cryptocurrency.\n\n“What we have seen is that near-tenor (7d and shorter) yields have dipped to the negative for the first time in over a year,” Andrew Melville, a research analyst at Block Scholes told CoinDesk in a Telegram chat. “This means that futures prices are trading below spot, which we take as a significantly bearish indicator.”\n\nDeribit is the world’s leading crypto options exchange and a preferred venue for sophisticated traders looking to employ synthetic strategies involving futures, options and spot markets.",
+    "url": "https://www.coindesk.com/markets/2025/03/10/bitcoin-short-term-futures-slip-into-discount-on-deribit-in-sign-of-weak-demand",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Andrew Melville"
+            ],
+            "positions": [
+                "research analyst"
+            ],
+            "companies": [
+                "Deribit",
+                "Block Scholes",
+                "CoinDesk"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news explicitly states that futures trading below spot price is 'a significantly bearish indicator' and reflects weak demand for the cryptocurrency."
+    }
+}

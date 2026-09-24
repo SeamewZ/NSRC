@@ -1,0 +1,27 @@
+{
+    "title": "Ondo Finance to Bring RWAs to Mastercard Network",
+    "time": "2025-02-26T14:00:00",
+    "author": "Jamie Crawley",
+    "summary": "Mastercard's MTN incorporates API-enabled blockchain tools to allow banks to streamline domestic and cross-border transactions",
+    "content": "Tokenized real-world assert (RWA) issuer Ondo Finance has joined the Mastercard network that connects financial institutions with businesses to improve cross-border payments.\n\nOndo's Short-Term U.S. Government Treasuries Fund (OUSG) investment product will be available to businesses on Mastercard's Multi-Token Network (MTN), giving them access to yield via tokenized assets, according to an emailed announcement on Wednesday.\n\nThe majority of OUSG's assets are invested in BlackRock's USD Institutional Digital Liquidity Fund (BUIDL), the largest blockchain-based money market fund, which is backed by short-term U.S. government bonds.\n\nMastercard's MTN incorporates API-enabled blockchain tools to allow banks to streamline domestic and cross-border transactions.\n\nTraditional financial (TradFi) giants like Mastercard developing blockchain-based networks means that other financial institutions and corporates are able to access cryptocurrency and other digital assets without having to set up additional crypto infrastructure or accounts.",
+    "url": "https://www.coindesk.com/business/2025/02/26/ondo-finance-to-bring-rwas-to-mastercard-network",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Ondo Finance",
+                "Mastercard",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Short-Term U.S. Government Treasuries Fund",
+                "Multi-Token Network",
+                "USD Institutional Digital Liquidity Fund"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The integration of tokenized real-world assets with Mastercard's network enables traditional financial institutions to access digital assets without additional crypto infrastructure, indicating institutional adoption and market confidence."
+    }
+}

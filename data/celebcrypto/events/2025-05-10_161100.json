@@ -1,0 +1,30 @@
+{
+    "title": "Lido Proposes a Bold Governance Model to Give stETH Holders a Say in Protocol Decisions",
+    "summary": "Proposal comes as ETH surges 30% on Pectra upgrade, boosting attention on Ethereum-native protocols.",
+    "time": "2025-05-10T16:11:00",
+    "author": "Shaurya Malwa",
+    "content": "Lido Finance, Ethereum’s largest liquid staking platform by locked value, has introduced a proposal that grants staked ether (stETH) holders direct voting power alongside existing DAO tokenholders.\n\nThe upgrade, dubbed Lido Improvement Proposal (LIP) 28, outlines a dual governance system allowing stETH holders — those who stake ETH via Lido and receive a liquid token in return — to participate in a veto mechanism on key protocol decisions. Currently, only holders of\nLDO\n$0.7380\n, Lido’s governance token, have a say in how the protocol evolves.\n\nUnder the new system, stETH holders could veto certain proposals approved by LDO tokenholders, though the veto would not enable them to push proposals through unilaterally.\n\nThe proposed system is framed as a mechanism to increase accountability and decentralization, especially as Lido continues to dominate Ethereum’s staking landscape. Over 25% of all ETH is staked on the network running through its infrastructure.\n\nThe Dual Governance system adds a special timelock contract between Lido DAO’s decisions and their execution, giving stETH holders a way to intervene if they strongly oppose a proposal.\n\nThe \"dynamic\" time lock is necessary because it is how on-chain governance technically works behind the scenes.\n\nIn the current system, decisions don’t take effect right away, as there is a set period before they’re executed. That gives users time to react if they don't agree with certain changes.\n\nHowever, Ethereum staking is different because one can’t quickly unstake or withdraw ETH, even with the current timelock. It takes time, liquidity is complex, and there is often a queue that could take several days to clear.\n\nThe new proposal wants to tackle that.\n\nThe proposed dynamic timelock assumes that, as enough users, who aren't satisfied with a proposed change, deposit their stETH (or wrapped stETH and withdrawal of NFTs) into a designated escrow contract for withdrawal, the timelock duration begins to increase — this is called crossing the “first seal” (set at 1% of total Lido ETH staked).\n\nIf discontent continues and deposits cross the “second seal” threshold (10% of Lido’s ETH TVL), a \"rage quit\" is triggered: execution of the DAO’s decision is completely blocked until all protesting stakers have had the chance to withdraw their ETH.\n\nThis creates a sort of safety valve — allowing stakers to signal objection and exit — while still giving the DAO time to respond or cancel the contentious action.\n\nThe plan comes as Ethereum has surged more than 30% over the past week, riding momentum from its Pectra upgrade, which introduced execution-layer reforms to improve scalability and efficiency.\n\nThe rally has sparked renewed attention on Ethereum-native applications like Lido, which is critical in capital flow and validator participation across the chain — and directly impacts ETH market structure.\n\nThe LIP-28 proposal is still in its discussion phase, with a formal on-chain vote expected in the coming weeks.\n\nIf approved, the change could shift how governance is distributed across Ethereum’s staking ecosystem, setting a precedent for other DeFi protocols seeking to include users, not just tokenholders, in decision-making. Lido's other competitors include Rocket Pool and Frax Ether.\n\nLDO prices have risen 6.5% in the past 24 hours, while the CoinDesk 20 Index, a broader market gauge, climbed 2.5%.\n\nRead more: Ethereum Activates ‘Pectra’ Upgrade, Raising Max Stake to 2,048 ETH",
+    "url": "https://www.coindesk.com/tech/2025/05/10/lido-proposes-a-bold-governance-model-to-give-steth-holders-a-say-in-protocol-decisions",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Lido Finance",
+                "Rocket Pool"
+            ],
+            "organizations": [
+                "Lido DAO",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "stETH",
+            "LDO",
+            "Frax Ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports ETH surging 30% on Pectra upgrade, LDO prices rising 6.5%, and broader market gains, indicating positive price momentum and market confidence."
+    }
+}

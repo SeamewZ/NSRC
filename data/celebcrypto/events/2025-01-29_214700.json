@@ -1,0 +1,32 @@
+{
+    "title": "Cardano’s Plomin Hard Fork Goes Live, Ushering in On-Chain Governance",
+    "summary": "Plomin comes just four months after Cardano’s Chang hard fork, which put many of the mechanisms in place for Wednesday’s upgrade.",
+    "time": "2025-01-29T21:47:00",
+    "author": "Margaux Nijkerk",
+    "content": "Cardano, the layer-1 blockchain launched in 2017 by Ethereum co-founder Charles Hoskinson, activated its highly anticipated “Plomin” upgrade on Wednesday, ushering in the ecosystem's long-awaited move towards a decentralized governance system.\n\nWith the Plomin upgrade now live, ADA token holders will be able to shape Cardano's future, including voting on treasury measures and hard forks.\n\nPlomin comes just four months after Cardano implemented the “Chang” hard fork, which put in place many of the mechanisms that went into effect on Wednesday. (Hard forks are major updates made to a chain that render older versions of that blockchain as obsolete).\n\nThe biggest change coming to Cardano with Plomin is the full implementation of Delegate Representatives (dReps), who will vote on governance issues on behalf of ADA token holders. Previously, Cardano's three founding entities—the Cardano Foundation, Input Output Global (IOHK) and Emurgo—were in charge of governance changes and triggering chain upgrades. Moving forward, the keys they held and those responsibilities are delegated to new Cardano governance groups.\n\nAhead of Plomin, Stake Pool Operators needed to upgrade their nodes and approve the upgrade with a 51% vote. As of this week, roughly 85% of nodes were with the new version, allowing the network to proceed with the changes.\n\nAs for what’s next with Cardano, the community is already tackling a series of new issues to implement. “In short, we want to make Cardano faster, we want to add some privacy preserving features and we want to add more utility for developers,” said Giorgio Zinetti, CTO of the Cardano Foundation, in an interview with CoinDesk. “So the development will be what the community wants.”\n\nRead more: Cardano’s Chang Hard Fork Goes Live, Introducing On-Chain Governance",
+    "url": "https://www.coindesk.com/tech/2025/01/29/cardano-s-plomin-hard-fork-goes-live-ushering-in-on-chain-governance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charles Hoskinson",
+                "Giorgio Zinetti"
+            ],
+            "positions": [
+                "CTO"
+            ],
+            "companies": [
+                "Input Output Global (IOHK)",
+                "Emurgo"
+            ],
+            "organizations": [
+                "Cardano Foundation"
+            ]
+        },
+        "cryptocurrencies": [
+            "Cardano",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major network upgrade that enables decentralized governance and gives ADA token holders more control, which typically indicates positive development and increased utility for the cryptocurrency."
+    }
+}

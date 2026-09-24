@@ -1,0 +1,30 @@
+{
+    "title": "Travel Rule Compliance Surges on New Regs, Stablecoin Payments, Notabene Says",
+    "time": "2025-04-23T13:00:00",
+    "author": "Ian Allison",
+    "summary": "Notabene’s annual survey of crypto firms found that almost all respondents expect to be Travel Rule compliant by mid-2025.",
+    "content": "Almost all cryptocurrency firms should be compliant with anti-money laundering (AML) transparency rules this year, a set of requirements around the sharing of certain information about the originator and beneficiary of transactions known as “the Travel Rule,” according to an annual survey carried out by crypto AML specialist Notabene.\n\nNotabene surveyed 91 virtual asset service providers (VASPs) and 10 regulatory bodies for its 2025 Travel Rule Report. A full 90% of respondents said they expect to be fully Travel Rule compliant by midyear and all said they would be in line with the rule by year-end.\n\n“This is the only time we've seen 100% respondents say, ‘Yes, this is the year, and we're committing to it,’” Sacha Lowenthal, head of marketing at Notabene, said in an interview.\n\nNotabene also found a high year-over-year increase in VASPs blocking withdrawals until beneficiary information is confirmed, jumping from 2.9% in 2024 to 15.4% today. Additionally, about a fifth of VASPs now return deposits if the originator fails to provide the required data.\n\nThe Travel Rule has become more of a priority for firms now that the U.S. has taken a favorable stance towards crypto, and digital asset rules are in force in Europe, where the EU Transfer of Funds Regulation (TFR) has also had a big impact.\n\nIn addition, the growth in dollar- and euro-pegged stablecoins as a payments method, a use case that stablecoin giant Circle recently announced would be to the forefront of new product networks for the firm, is also driving Travel Rule compliance.\n\nBut bringing crypto payments in line with the rest of the financial world, from an anti-money laundering perspective, has not been easy, with the emergence of geographic pockets of compliance and a patchwork of networks and systems that don’t always talk to each other, said Notabene CEO Pelle Braendgaard. The interoperability challenge has been seen as a key barrier among the VASPs Notabene surveyed.\n\n“You really need to build a Travel Rule layer that works as an open loop system, especially if you want to support things like stablecoin payment networks at scale,” Braendgaard said in an interview. “Almost out of necessity, firms have created these little closed loop, Currency Cloud-like functionality for crypto and stablecoins. And you need the open loop component, which, of course, is what crypto is.”",
+    "url": "https://www.coindesk.com/business/2025/04/23/travel-rule-compliance-surges-on-new-regs-stablecoin-payments-notabene-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sacha Lowenthal",
+                "Pelle Braendgaard"
+            ],
+            "positions": [
+                "head of marketing",
+                "CEO"
+            ],
+            "companies": [
+                "Notabene",
+                "Circle"
+            ],
+            "organizations": [
+                "EU"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports increased regulatory compliance and stablecoin adoption, which indicates growing institutional acceptance and market maturation that typically supports cryptocurrency prices."
+    }
+}

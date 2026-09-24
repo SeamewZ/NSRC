@@ -1,0 +1,39 @@
+{
+    "title": "Bitcoin Dips Below $98K as Strong U.S. Economic Data Leads to $300M of Crypto Liquidations",
+    "time": "2025-01-07T16:46:00",
+    "author": "Krisztian Sandor",
+    "summary": "Stronger-than-expected job openings and ISM Services PMI rolled back investor expectations for further rate cuts for this year.",
+    "content": "Crypto markets stumbled with bitcoin (BTC) losing the $100,000 level on Tuesday U.S. morning as two stronger-than-expected U.S. economic data prints threw cold water on digital assets' bright early-year momentum.\n\nThe Bureau of Labor Statistics' JOLTS job openings for November unexpectedly rose to 8.1 million from 7.8 million the previous month, easily topping analyst estimates for a decline to 7.7 million.\n\nReleased at the same time, the ISM Services Purchasing Managers Index, a monthly gauge of the level of economic activity in the services sector, came in at 54.1 for December, overshooting expectations for 53.3 and nicely ahead of November's 52.1. The Prices Paid subindex came in red-hot at 64.4, compared to the expected 57.5 and 58.2 in the previous month.\n\nWhile neither report generally tends to be much of a market mover, combined they further shook up an already jittery bond market, sending the 10-year U.S. Treasury yield higher by another five basis points to 4.68% and within a few ticks of multi-year highs. The move took U.S. stocks lower, with the Nasdaq now off by more than 1% in late morning action and the S&P 500 lower by 0.4%.\n\nBTC, which traded just below $101,000 through European afternoon hours, dipped to $97,800 following the data, giving up yesterday's gains and down 4% over the past 24 hours. Altcoin majors declined even more with Ethereum's ether\nETH\n$3,490.08\nand Solana's SOL losing 6%-7%, while Avalanche's AVAX and Chainlink's LINK tumbled 8%-9%.\n\nThe swift decline in prices liquidated nearly $300 million long positions across derivatives markets betting on rising prices, according to CoinGlass, marking the first large leverage flush of the year.\n\nThe strong data also has investors further rolling back their expectations of rate cuts in 2025.\n\nWhile market participants had already written off any chance of a rate cut at the Fed's January meeting, they now see just a 37% chance of an easing move at the central bank's March meeting, down from nearly 50% just a week ago, according to the CME FedWatch tool. Looking out even further, the odds of a rate cut in May are also now well below 50%. Scanning all of 2025, Ballinger Group's Kyle Chapman noted investors are now only pricing in roughly only one 25 basis point rate cut for the entire year.",
+    "url": "https://www.coindesk.com/markets/2025/01/07/bitcoin-dips-below-98-k-as-strong-u-s-economic-data-leads-to-300-m-of-crypto-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Kyle Chapman"
+            ],
+            "positions": [],
+            "companies": [
+                "Ballinger Group"
+            ],
+            "organizations": [
+                "Bureau of Labor Statistics",
+                "ISM",
+                "CoinGlass",
+                "CME FedWatch"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "Solana",
+            "SOL",
+            "Avalanche",
+            "AVAX",
+            "Chainlink",
+            "LINK"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin dipping below $98K, altcoins declining 6-9%, and $300 million in long position liquidations following strong U.S. economic data that reduced rate cut expectations."
+    }
+}

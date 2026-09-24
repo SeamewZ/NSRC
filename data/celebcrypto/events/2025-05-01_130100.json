@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Miners With HPC Exposure Underperformed BTC for Third Straight Month: JPMorgan",
+    "summary": "Mining profitability fell in April as the network hashrate increased 6%, the report said.",
+    "time": "2025-05-01T13:01:00",
+    "author": "Will Canny",
+    "content": "Bitcoin\nBTC\n$101,913.92\nmining companies with high-performance computing (HPC) exposure underperformed the world's largest cryptocurrency for the third month in a row in April, Wall Street bank JPMorgan said in a research report on Thursday.\n\nSome bitcoin miners have pivoted into new business areas, such as offering HPC services to the fast growing artificial intelligence (AI) market, to reduce their dependence on crypto.\n\n\"We note miners with HPC exposure (IREN, RIOT, WULF, HUT) underperformed BTC performance for the third consecutive month,\" analysts Reginald Smith and Charles Pearce wrote.\n\nMining profitability fell in April as the network hashrate increased.\n\nDaily block reward revenue declined 6% from March, the bank said, while the monthly average hashrate rose around 56 exahashes per second (EH/s), or 6% month-on-month, to 872 EH/s in April.\n\n\"This was the second largest sequential increase in the monthly average network hashrate on record,\" the authors wrote.\n\nThe hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty.\n\nThe total market cap of the 13 U.S.-listed mining stocks that the bank tracks increased 12% from March.\n\nGreenidge (GREE) was a notable outperformer in April with a 46% gain.\n\nRead more: Bitcoin Miner 1Q Results May Disappoint as Hashprice Fell, Tariffs Hit: CoinShares",
+    "url": "https://www.coindesk.com/markets/2025/05/01/bitcoin-miners-with-hpc-exposure-underperformed-btc-for-third-straight-month-jpmorgan",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Reginald Smith",
+                "Charles Pearce"
+            ],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "JPMorgan",
+                "IREN",
+                "RIOT",
+                "WULF",
+                "HUT",
+                "Greenidge",
+                "GREE"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports declining mining profitability, increased network hashrate (indicating higher competition), and bitcoin miners underperforming BTC for three consecutive months."
+    }
+}

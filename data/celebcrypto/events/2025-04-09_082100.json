@@ -1,0 +1,46 @@
+{
+    "title": "Argentina’s Congress Launches Probe Into LIBRA Fiasco",
+    "summary": "Lawmakers move to investigate the controversial token promoted by President Milei after investors suffered major losses.",
+    "time": "2025-04-09T08:21:00",
+    "author": "Francisco Rodrigues",
+    "content": "Argentina’s lower house of Congress has approved a series of measures aimed at probing the LIBRA cryptocurrency that rocked the country after being promoted by President Javier Milei earlier this year.\n\nIn a special session called by the “Democracy Forever” bloc, deputies passed three resolutions: the formation of an investigative commission, the summons of top government officials, and a formal request for information from the executive branch.\n\nAmong those summoned are Chief of Cabinet Guillermo Francos, Economy Minister Luis Caputo, Justice Minister Mariano Cúneo Libarona and the head of the National Securities Commission, Roberto Silva, according to the official release from the Chamber of Deputies in Argentina. The resolutions passed with a comfortable majority but faced strong opposition, revealing a split across party lines.\n\n“The time has come for Congress to audit whether there is any harm to Argentina: we have a commitment to the truth,” said Deputy Pablo Juliano, one of the initiative’s backers. Others, like Deputy Nicolás Mayoraz of the ruling La Libertad Avanza (LLA), pushed back, accusing lawmakers of assuming “powers that belong solely to the Judiciary” and politicizing the issue.\n\nFrom the Civic Coalition, Deputy Maximiliano Ferraro said that society “has the right to know the truth” and that Congress’ duty was to “demand and investigate it.” Ruling party bloc leader Gabriel Bornoroni, at the close of the debate, suggested opposition lawmakers were “putting on a show.”\n\n“I think it bothers them that we had a fiscal surplus throughout 2024 and that we’ll have one this year too — and that inflation continues to fall every month,” Bornoroni said. The LIBRA memecoin fiasco, research shows, destroyed over $250 million in investor wealth.\n\nThe token’s price surged shortly after being launched in early February after Milei promoted the project on X, saying it would “focus on encouraging the growth of the Argentine economy, funding small businesses, and Argentine ventures.\"\n\nMilei’s promotion saw various crypto addresses move in, allowing insiders to offload massive amounts of tokens on these investors to the point the token’s market capitalization then endured a 90% drop.\n\nDisclaimer: Information gathered for this article was translated with the use of artificial intelligence.",
+    "url": "https://www.coindesk.com/policy/2025/04/09/argentina-s-congress-launches-probe-into-libra-fiasco",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei",
+                "Guillermo Francos",
+                "Luis Caputo",
+                "Mariano Cúneo Libarona",
+                "Roberto Silva",
+                "Pablo Juliano",
+                "Nicolás Mayoraz",
+                "Maximiliano Ferraro",
+                "Gabriel Bornoroni"
+            ],
+            "positions": [
+                "President",
+                "Chief of Cabinet",
+                "Economy Minister",
+                "Justice Minister",
+                "head of the National Securities Commission",
+                "Deputy",
+                "ruling party bloc leader"
+            ],
+            "companies": [],
+            "organizations": [
+                "Argentina's Congress",
+                "Democracy Forever",
+                "Chamber of Deputies",
+                "La Libertad Avanza (LLA)",
+                "Civic Coalition",
+                "National Securities Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "LIBRA"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes how the LIBRA memecoin fiasco destroyed over $250 million in investor wealth and caused a 90% drop in market capitalization after insider dumping."
+    }
+}

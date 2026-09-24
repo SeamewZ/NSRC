@@ -1,0 +1,42 @@
+{
+    "title": "Dogecoin, XRP Slump as Crypto Profit-Taking Continues Ahead of Friday's Inflation Data",
+    "summary": "All eyes are now on this Friday’s Core PCE print, a key inflation gauge for the Federal Reserve, one trading firm noted.",
+    "time": "2025-05-27T07:02:00",
+    "author": "Shaurya Malwa",
+    "content": "Bitcoin\nBTC\n$101,754.63\nwas just 1% lower in the past 24 hours, while XRP\nXRP\n$2.2497\nand dogecoin\nDOGE\n$0.1651\nslipped 2.5% each, signaling a tepid recovery rather than a firm rebound.\n\nMarkets were jolted late last week after U.S. President Donald Trump proposed raising tariffs on European imports to 50%, up from a previously discussed 20%.\n\n“Bitcoin's rebound came after Trump decided to delay imposing new EU tariffs, which had initially sparked a market downturn over the weekend,” Jeffrey Ding, chief analyst at HashKey Group, told CoinDesk in a Telegram message.\n\n“Traders see these macroeconomic events as a welcome stability boost, encouraging a risk-on sentiment, especially as MicroStrategy’s Michael Saylor hinted at upcoming Bitcoin purchases,” Ding added.\n\nMarkets calmed somewhat on Monday after Trump announced he would delay the implementation of new tariffs until July 9, citing a \"constructive call\" with European Commission President Ursula von der Leyen.\n\nStill, Singapore-based QCP Capital warned in a market broadcast message late Monday that the episode is a reminder of how quickly policy shocks can unwind market calm.\n\nThe BTC July-to-June implied volatility spread, which spiked above 2 vols last week, has now compressed to below 1 — suggesting traders are watching closely for another pivot ahead of the new deadline.\n\nThe vol spread refers to the difference in expected volatility between July and June bitcoin options, showing how much more (or less) traders expect price swings in July compared to June.\n\nAll eyes are now on this Friday’s Core PCE print, a key inflation gauge for the Federal Reserve, the firm noted. The index is a measure of inflation that excludes the volatile prices of food and energy — and is considered a key indicator used by the Fed to assess inflation and make policy decisions.\n\nDespite the uncertainty, spot ETF inflows remain steady, with BlackRock’s IBIT logging 30 consecutive days of net inflows — a rare streak that underscores sticky institutional interest.\n\nStill, crypto’s resilience has been relative, not absolute. QCP noted a divergence between digital assets and traditional tech as flows have turned cautious in products like the TQQQ NASDAQ ETF, even as crypto held its ground.\n\n“In a world of erratic policymaking,” QCP wrote, “crypto increasingly looks like the grown-up at the table.”",
+    "url": "https://www.coindesk.com/markets/2025/05/27/dogecoin-xrp-slump-as-crypto-profit-taking-continues-ahead-of-fridays-inflation-data",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Jeffrey Ding",
+                "Michael Saylor",
+                "Ursula von der Leyen"
+            ],
+            "positions": [
+                "chief analyst",
+                "European Commission President"
+            ],
+            "companies": [
+                "HashKey Group",
+                "CoinDesk",
+                "MicroStrategy",
+                "QCP Capital",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Federal Reserve",
+                "European Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "XRP",
+            "DOGE",
+            "Dogecoin"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes mixed market conditions with some cryptocurrencies slumping while others show tepid recovery, with traders watching closely for upcoming inflation data and policy developments."
+    }
+}

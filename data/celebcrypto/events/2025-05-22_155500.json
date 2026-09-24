@@ -1,0 +1,38 @@
+{
+    "title": "Kraken to List Tokenized Version of Nvidia, Apple, Tesla Shares",
+    "summary": "The tokens will be deployed on Solana and backed by real securities held by Kraken’s partner, Backed Finance.",
+    "time": "2025-05-22T15:55:00",
+    "author": "Helene Braun",
+    "content": "Kraken plans to list tokenized shares of Nvidia, Apple, Tesla and over 50 other U.S. stocks and exchange-traded funds (ETFs), the Wall Street Journal reported.\n\nThe tokens, deployed on Solana\nSOL\n$157.39\n, will be known under the name “xStocks” and will be available to trade 24/7 for investors all across the world. Some of the ETFs that will be available to trade include the SPDR S&P 500 ETF (SPY), which tracks the S&P 500 index, and the SPDR Gold Shares (GLD).\n\nThe stocks will be represented by real shares held by Backed Finance and can be redeemed 1:1 for their cash value.\n\nKraken had announced the initial rollout of over 11,000 U.S.-listed stocks and ETFs in April, starting with 10 U.S. states and offered through Kraken Securities.\n\nThis latest announcement expands Kraken’s offering to include tokenized versions of over 50 stocks and ETFs to customers outside of the U.S., starting with Europe, Latin America, Africa and Asia.\n\nThe move puts Kraken in direct competition to platforms like Robinhood (HOOD) and makes it the first exchange to successfully offer tokenized shares of major U.S. stocks. Binance attempted to launch tokenized U.S. stocks in 2021 but canceled their plans eventually due to regulatory uncertainty.\n\nA Kraken spokesperson told the Wall Street Journal that the exchange is “actively working with various regulators” to ensure that xStocks can be offered legally in each jurisdiction as regulation varies.\n\nTokenization, which turns real-world assets into blockchain tokens, has become the latest buzz word in crypto with more and more companies starting to enter the space. Some, including Ondo Finance, BlackRock and Franklin Templeton, have long been pioneers in the area, pushing their overall tokenization market to a $65 billion market cap as of May.",
+    "url": "https://www.coindesk.com/markets/2025/05/22/kraken-to-list-tokenized-version-of-nvidia-apple-tesla-shares",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Kraken",
+                "Nvidia",
+                "Apple",
+                "Tesla",
+                "Backed Finance",
+                "Robinhood",
+                "Binance",
+                "Ondo Finance",
+                "BlackRock",
+                "Franklin Templeton"
+            ],
+            "organizations": [
+                "Wall Street Journal",
+                "SPDR S&P 500 ETF",
+                "SPDR Gold Shares",
+                "Kraken Securities"
+            ]
+        },
+        "cryptocurrencies": [
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Kraken expanding tokenized stock offerings globally, putting it in direct competition with major platforms and indicating growing institutional adoption of blockchain technology for traditional assets."
+    }
+}

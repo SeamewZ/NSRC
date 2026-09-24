@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin ETF Inflows Surge as Basis Trade Nears 9%, Signaling Renewed Demand",
+    "summary": "Investor confidence rises as bitcoin holds above $100,000 and basis trade yields approach 9%, drawing strong institutional interest.",
+    "time": "2025-05-20T08:08:00",
+    "author": "James Van Straten",
+    "content": "The U.S.-listed spot bitcoin\nBTC\n$101,803.55\nexchange-traded funds (ETFs) recorded $667.4 million in net inflows on May 19, the largest single-day total since May 2, signaling renewed institutional interest.\n\nNearly half of these inflows, $306 million, went into iShares Bitcoin Trust (IBIT), now at $45.9 billion in net inflows, according to data source Farside Investors.\n\nThe renewed demand follows bitcoin’s strong price performance, having traded above $100,000 for 11 consecutive days, which has helped restore market confidence.\n\nAdditionally, the annualized basis trade, a strategy where investors go long on the spot ETF and simultaneously short bitcoin futures contracts on the CME, has become increasingly attractive with yields approaching 9%, almost double what was seen in April.\n\nAccording to Velo data, this has sparked a modest uptick in basis trade activity as evidenced by an increase in trading activity in the CME futures.\n\nOn Monday, CME futures volumes hit $8.4 billion (roughly 80,000 BTC), the highest since April 23. Meanwhile, open interest stood at 158,000 BTC, up over 30,000 BTC contracts from April’s lows, further underscoring the growing appetite for leveraged and arbitrage strategies.\n\nThat said, both both futures volume and open interest remain well below the levels seen when bitcoin reach an all-time high of $109,000 in January, indicating there’s still significant headroom for further growth.\n\nThe upswing in the basis suggests the growth may be already happening, bringing back players that left the market early this year when the basis dropped to under 5%.\n\nRecent 13F filings revealed that the Wisconsin State Pension Board exited its ETF position in the first quarter, likely in response to a then-less favorable basis trade environment. However, given that 13F data lags by a quarter and the basis spread has since widened from 5% to nearly 10%, it is plausible that it reentered the market in the second quarter to capitalize on the improved arbitrage opportunity.",
+    "url": "https://www.coindesk.com/markets/2025/05/20/bitcoin-etf-inflows-surge-as-basis-trade-nears-9-signaling-renewed-demand",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "iShares Bitcoin Trust",
+                "Farside Investors",
+                "Velo",
+                "Wisconsin State Pension Board"
+            ],
+            "organizations": [
+                "CME"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes strong institutional inflows into Bitcoin ETFs, bitcoin trading above $100,000 for 11 consecutive days, and attractive basis trade yields approaching 9%, all indicating renewed market confidence and demand."
+    }
+}

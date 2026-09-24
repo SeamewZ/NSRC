@@ -1,0 +1,45 @@
+{
+    "title": "Ethena, Securitize Target Q2 Mainnet Launch for RWA-Focused Blockchain, Tap Arbitrum, Celestia",
+    "summary": "The Converge chain is set to have fast blocktimes, let users pay gas fees in Ethena's tokens and support both permissionless and permissioned apps, the teams said.",
+    "time": "2025-04-17T12:59:00",
+    "author": "Krisztian Sandor",
+    "content": "Decentralized finance (DeFi) protocol Ethena and tokenization firm Securitize said they will use part of Arbitrum's tech and data availability network Celestia for their real-world asset focused, Ethereum-compatible blockchain, aiming to launch mainnet in the second quarter of this year.\n\nThe Converge chain is setting out to have fast blocktimes, allowing users to pay gas fees through Ethena's USDe and USDtb, while creating security and guardrails via its Converge Validator Network, the two protocols behind the project explained in a tech update shared with CoinDesk.\n\n\"The idea is that we go on a testnet very soon, in the next few weeks, because we've already been working on this for a while,\" Carlos Domingo, co-founder and CEO of Securitize, said in an exclusive interview with CoinDesk. \"Then, the mainnet: the goal is to do it before the end of Q2.\"\n\nThe exact timing of the public rollout also depends on third-party integrations such as Anchorage for custody support, Fireblocks for key management and other DeFi apps the project partnered with, Domingo added.\n\nConverge, unveiled last month, aims to connect the rapidly growing tokenized real-world assets (RWA) sector with the DeFi space, building on existing ecosystems around Ethena and Securitize and their multi billion dollar worth of assets.\n\nEthena has quickly become a DeFi powerhouse, spearheading the yield-bearing stablecoin trend with its $5 billion \"synthetic dollar\" token USDe. Meanwhile, Securitize issues nearly $4 billion in tokenized assets by traditional finance giants like Apollo and Hamilton Lane and BlackRock's blockchain-based money market fund token BUIDL. The latter is also the key backing asset of Ethena's $1.4 billion USDtb stablecoin.\n\n\"Converge’s ambitious vision of onboarding tens of billions of institutional capital on-chain requires providing users with high performance and elevated security guarantees,\" Guy Young, founder of development firm Ethena Labs, said in a statement.\n\nTo achieve that lofty goal, the Converge chain's performance relies on a custom sequencer for an Arbitrum-powered blockchain, while using Celestia as the data availability layer underneath it, according to the tech update shared with CoinDesk. A sequencer is a key piece of blockchain infrastructure that compiles transactions from layer-2 networks and posts them back to the layer-1 network.\n\nData availability layers, like Celestia, aim to bring down the downloading and storage costs for data-intensive blockchain networks. The combination of Conduit’s G2 sequencer, as well as the use of Arbitrum and Celestia’s tech is supposed \"to push the boundaries of what level of throughput is possible on EVM-based networks,\" the team wrote.\n\nThe network will use Ethena's USDe and USDtb as gas tokens to pay for transaction costs across the network. Both tokens are designed with a price anchored to $1, allowing easier accounting for transaction costs, the team wrote.\n\nConverge will also support both permissionless and permissioned applications operating side by side. Developers can deploy permissionless DeFi apps freely, while institutional issuers such as Securitize can create permissioned environments for compliant real-world asset products.\n\nIn addition, the Converge Validator Network (CVN) is supposed to provide the foundations of the network’s security, by essentially acting as the chain’s security council. The CVN will have the ability to interfere during emergencies like when funds are at risk, perform circuit breakers to pause user-activity if there are serious bugs, as well as review important governance proposals.\n\nIn order to participate in the CVN, validators must stake ENA, Ethena’s governance token. According to the team, the CVN will go live shortly after mainnet launches.\n\n\"Technical breakthroughs on this initiative will drive asymmetric product outcomes for Converge, and thus growth in USDe, USDtb and other Ethena and Securitize products,\" Young said.",
+    "url": "https://www.coindesk.com/tech/2025/04/16/ethena-securitize-target-q2-mainnet-launch-for-rwa-focused-blockchain-tap-arbitrum-celestia",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Carlos Domingo",
+                "Guy Young"
+            ],
+            "positions": [
+                "co-founder and CEO",
+                "founder"
+            ],
+            "companies": [
+                "Ethena",
+                "Securitize",
+                "Arbitrum",
+                "Celestia",
+                "Anchorage",
+                "Fireblocks",
+                "Apollo",
+                "Hamilton Lane",
+                "BlackRock",
+                "Ethena Labs",
+                "Conduit"
+            ],
+            "organizations": [
+                "Converge Validator Network",
+                "CVN"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDe",
+            "USDtb",
+            "ENA",
+            "BUIDL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major blockchain infrastructure project with institutional backing, billions in assets, and technical innovations that aim to onboard tens of billions in institutional capital to crypto markets."
+    }
+}

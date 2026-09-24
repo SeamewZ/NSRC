@@ -1,0 +1,35 @@
+{
+    "title": "Lukka and CoinDesk Indices to Offer Composite Ether Staking Rate",
+    "time": "2025-03-12T16:34:00",
+    "author": "Oliver Knight",
+    "summary": "The CESR captures the mean annualized staking rate earned by Ethereum validators.",
+    "content": "U.S.-based digital asset data provider Lukka has teamed up with CoinDesk Indices to integrate the Composite Ether Staking Rate (CESR) into its offerings.\n\nThe CESR will capture the mean annualized staking yield earned by Ethereum validators including consensus incentives and priority transaction fees. Financial institutions, asset managers and analysts can use the CESR as a benchmark for relative ether staking performance\n\n\"Our collaboration with CoinFund on CESR delivers a critical benchmark for Ethereum staking, offering institutions a trusted and standardized rate,\" said Alan Campbell, president at CoinDesk Indices.\n\nDan Husher, chief data product officer at Lukka, added that the deal illustrates a \"higher standard for institutional crypto data.\"\n\nEthereum staking has ballooned since the blockchain transitioned from a proof-of-work to proof-of-stake consensus mechanism in September 2022. There is currently $37 billion in total value locked (TVL) across liquid staking protocols, which let users earn additional yield through the issuance of liquid staking tokens (LSTs).\n\n\"Ethereum’s change to proof of stake transformed blockchain security from a commitment of computing power to a financial commitment,\" said Andy Baehr, CFA, head of product and research atCoinDesk Indices. \"Since the staking rate, effectively a utility yield for posting ETH to the network, is accessible and measurable, it becomes an integral part of the investment case for ETH.\"\n\nUPDATE (16:45 UTC, March 12): Adds quote from Andy Baehr.",
+    "url": "https://www.coindesk.com/business/2025/03/12/lukka-and-coindesk-indices-to-offer-composite-ether-staking-rate",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alan Campbell",
+                "Dan Husher",
+                "Andy Baehr"
+            ],
+            "positions": [
+                "president",
+                "chief data product officer",
+                "CFA",
+                "head of product and research"
+            ],
+            "companies": [
+                "Lukka",
+                "CoinDesk Indices",
+                "CoinFund"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The collaboration introduces a trusted institutional benchmark for Ethereum staking, which enhances market confidence and institutional adoption."
+    }
+}

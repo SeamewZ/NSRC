@@ -1,0 +1,27 @@
+{
+    "title": "Downside Insurance on BlackRock's Spot Bitcoin ETF is Now Pricer Than Bullish Bets",
+    "summary": "IBIT fell 1.32% to $59.99 on Thursday.",
+    "time": "2025-05-30T12:34:00",
+    "author": "Omkar Godbole",
+    "content": "Early Thursday, CoinDesk reported bullish-to-neutral shift in sentiment in the options market tied to BlackRock's spot bitcoin exchange-traded fund (ETF). But by the end of the day, the situation worsened further, with sentiment turning slightly bearish.\n\nThe one-year put-call skew, which reflects how the market prices in volatility risk for put options, offering downside protection, relative to bullish call options, turned slightly positive to 0.2%, according to data source Market Chameleon.\n\nIn other words, the day closed with protective put options trading at a slight premium relative to calls in a sign of renewed bearish sentiment.\n\nIBIT fell 1.32% to $59.99 Thursday, while registering a net inflow of $125 million, the lowest single-day tally since May 13, according to data source SoSoValue.",
+    "url": "https://www.coindesk.com/markets/2025/05/30/downside-insurance-on-blackrock-s-spot-bitcoin-etf-is-now-pricer-than-bullish-bets",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "CoinDesk",
+                "Market Chameleon",
+                "SoSoValue"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bearish sentiment in options markets, protective puts trading at a premium, IBIT price decline, and lowest net inflows since May 13."
+    }
+}

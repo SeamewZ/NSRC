@@ -1,0 +1,25 @@
+{
+    "title": "Coinbase Users Are Losing $300M a Year to Social Scams, ZachXBT Says",
+    "time": "2025-02-04T15:19:00",
+    "author": "Shaurya Malwa",
+    "summary": "ZachXBT advised Coinbase to enhance security by making phone number inputs optional, creating a restricted account type for new users and improving community education on scam prevention.",
+    "content": "Coinbase (COIN) users lost over $65 million to social engineering attacks in the past two months with an estimated $300 million lost to such attacks annually, crypto sleuth ZachXBT said in an X post Monday.\n\nThe actual figure lost might be higher, because the amount doesn't include unreported cases, ZachXBT said.\n\nCoinbase has not publicly commented on the matter. When asked for a comment, it highlighted a primer on identifying and avoiding social engineering scams posted to its blog on Monday.\n\nScammers utilize stolen personal data to deceive users by sending fake emails that mimic Coinbase's official communications, including false case IDs prompting users to transfer funds to scammer-controlled wallets, ZachXBT said.\n\n“Scammers clone the Coinbase site nearly 1:1 and allow the scammers to send different prompts to the target via spoofed emails using panels,” he noted. “The two main groups conducting these scams are skids from the Com and threat actors located in India both primarily targeting US customers.”\n\n“A Coinbase employee told people on X to stop using VPNs to avoid being flagged as suspicious. Meanwhile, threat actors will explicitly block VPNs from phishing sites,” ZachXBT wrote in the now-viral post. “This shows Coinbase’s failure to diagnose the actual problem.”\n\nZachXBT advised Coinbase to enhance security by making phone number inputs optional, creating a restricted account type for new users, and improving community education on scam prevention.\n\nUPDATE (Feb. 4, 15:57 UTC): Adds Coinbase's blog post on the topic in third paragraph.",
+    "url": "https://www.coindesk.com/markets/2025/02/04/coinbase-users-are-losing-usd300m-a-year-to-social-scams-zachxbt-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "ZachXBT"
+            ],
+            "positions": [
+                "Coinbase employee"
+            ],
+            "companies": [
+                "Coinbase"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant financial losses ($300M annually) to social engineering scams targeting Coinbase users, indicating security vulnerabilities that could undermine market confidence."
+    }
+}

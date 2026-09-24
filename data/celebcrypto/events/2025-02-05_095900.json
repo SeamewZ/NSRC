@@ -1,0 +1,38 @@
+{
+    "title": "Bullish Global Weighs IPO as Early as This Year Amid Crypto Market Optimism: Bloomberg",
+    "time": "2025-02-05T09:59:00",
+    "author": "James Van Straten",
+    "summary": "The crypto exchange whose parent company is backed by Peter Thiel revived its public listing plans shelved in 2022.",
+    "content": "Crypto exchange Bullish Global is considering selling shares to the public for the first time at some point during 2025, Bloomberg reported, citing people familiar with the matter.\n\nThe company, which owns CoinDesk, is working with Jefferies Financial Group on the potential listing, Bloomberg said.\n\nTalks of an initial public offering (IPO) comes as the prices of bitcoin (BTC) and other cryptocurrencies have shot up since Donald Trump won the U.S. election in November. The total crypto market has climbed to to $3.15 trillion from $2.2 trillion. On Tuesday, U.S. crypto czar David Sacks spoke about a golden age for digital assets.\n\nLed by CEO Tom Farley, Bullish has more than 275 employees worldwide including Hong Kong, the U.S. and Europe. It is is a subsidiary of Block.one, a blockchain software company headed by Brendan Blumer whose backers include Peter Thiel and Richard Li.\n\nBlumer, who also serves as Bullish's chairman, launched the company in 2021. Bullish has around $10 billion in digital assets and cash, according to the report. It had planned to go public via a special purpose acquisition company (SPAC) in 2021. The plan was canceled the following year.\n\nDiscussions around the IPO are ongoing, including additional banking partners, Bloomberg said.\n\nRepresentatives from Bullish and Block.one didn't respond to Bloomberg, and Jefferies declined to comment. A CoinDesk email to Bullish seeking comment was not answered before publication.\n\nCORRECT (Feb. 5, 16:56 UTC): Removes Alan Howard as a backer of Block.one in fourth paragraph.",
+    "url": "https://www.coindesk.com/markets/2025/02/05/bullish-global-weighs-ipo-as-early-as-this-year-amid-crypto-market-optimism-bloomberg",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Peter Thiel",
+                "Donald Trump",
+                "David Sacks",
+                "Tom Farley",
+                "Brendan Blumer",
+                "Richard Li"
+            ],
+            "positions": [
+                "CEO",
+                "chairman",
+                "U.S. crypto czar"
+            ],
+            "companies": [
+                "Bullish Global",
+                "Jefferies Financial Group",
+                "CoinDesk",
+                "Block.one"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes crypto market optimism, price increases since the election, and a 'golden age for digital assets' being discussed by officials."
+    }
+}

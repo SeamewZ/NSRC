@@ -1,0 +1,27 @@
+{
+    "title": "Donald Trump's Memecoin Faces Massive $320M Token Unlock Amid Record Low Price",
+    "time": "2025-04-11T14:18:00",
+    "author": "Oliver Knight",
+    "summary": "The token is down by 83% since it launched in January.",
+    "content": "U.S. President Donald Trump's memecoin (TRUMP) will undergo a major token unlock next week, with the team behind the project set to receive $320 million, around 20% of the circulating supply.\n\nThe unlock might be another blow for the thousands of investors who reportedly lost a collective $2 billion after purchasing the token in January.\n\nTRUMP currently trades at $8.03, having lost 83% of its value since Jan. 18, two days before Trump was inaugurated as president.\n\nToken unlocks are typically bearish events, as they involve flooding the market with fresh supply without providing incentives to drive demand. However, sometimes, the market prices in these unlocks, ahead of the release, leading to prices falling to new lows heading into these events.\n\nDune data shows that there are 637,000 unique holders of the TRUMP token, down from 817,000 when it launched. There are also now just 12,000 wallets that hold more than $1,000 worth of TRUMP, a figure that has dwindled significantly since Jan. 19 when 143,000 wallets held that amount or more.\n\nIt is unclear whether Trump and his team will offload the unlocked memecoins next week, although selling on the open market would be catastrophic as 2% market depth, a metric used to assess liquidity over a 2% range, is between $980K and $2 million, meaning that $320 million of sell pressure would send price into a death spiral.\n\nMemecoins, in general, have lost most of their hype following a cycle that was dominated by retail investors looking to \"get rich quick\" on newly minted memecoins, most of which were launched in shady deals where insiders would profit while other investors would lose out.\n\nThe memecoin market cap is down from $119 billion in December to $45 billion today, according to CoinMarketCap.",
+    "url": "https://www.coindesk.com/business/2025/04/11/donald-trump-s-memecoin-faces-massive-usd320m-token-unlock-as-it-slumps-to-record-low",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [],
+            "organizations": [
+                "CoinMarketCap"
+            ]
+        },
+        "cryptocurrencies": [
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a massive token unlock that could flood the market with supply, mentions the token has lost 83% of its value, and states that token unlocks are typically bearish events that could send prices into a death spiral."
+    }
+}

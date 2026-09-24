@@ -1,0 +1,34 @@
+{
+    "title": "Digital Euro Needed to Counter Stablecoins, Non-European Big Tech, ECB Chief Economist Says",
+    "summary": "Philip Lane said the prevalence of electronic payments using Apple Pay, Google Pay and PayPal \"exposes Europe to risks of economic pressure and coercion.\"",
+    "time": "2025-03-20T16:53:00",
+    "author": "Jamie Crawley",
+    "content": "The chief economist at the European Central Bank (ECB), Philip Lane, said Europe needs a digital euro to counter the foothold that dollar-linked stablecoins and U.S. electronic payments systems are gaining in region's the financial system.\n\nThe prevalence of electronic payments provided by Big Tech firms, such as Apple Pay, Google Pay and PayPal, \"exposes Europe to risks of economic pressure and coercion,\" Lane said, according to the text of a speech at University College, Cork in Ireland on Thursday.\n\n\"The digital euro would provide a secure, universally accepted digital payment option under European governance, reducing reliance on foreign providers,\" Lane said. \"The availability of the digital euro would also limit the likelihood of foreign-currency stablecoins gaining a foothold as a medium of exchange in the euro area.\"\n\nLane pointed out that 99% of the stablecoin market is made up of tokens pegged to the U.S. dollar. That raises the possibility of dollar stablecoins gaining traction in in the euro area and payments systems become \"directly or indirectly anchored by the dollar rather than the euro.\"\n\nThe ECB, like central banks in other developed economies around the world, is exploring the possibility of introducing a central bank digital currency (CBDC). Addressing the competition posed by stablecoins and corporate-run payment services are often among the reasons cited for doing so.\n\nThe case for a CBDC may be greater especially for the ECB, given the eurozone encompasses multiple countries, Lane said. The single currency is used across 20 European Union member states, and the eurozone lacks a unified payment system due to diverse legacy standards from country to country.\n\n\"The digital euro presents a unique opportunity to overcome the persistent fragmentation in retail payment systems across the euro area,\" he said.",
+    "url": "https://www.coindesk.com/policy/2025/03/20/digital-euro-needed-to-counter-stablecoins-non-european-big-tech-ecb-chief-economist-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Philip Lane"
+            ],
+            "positions": [
+                "chief economist"
+            ],
+            "companies": [
+                "Apple",
+                "Google",
+                "PayPal"
+            ],
+            "organizations": [
+                "European Central Bank",
+                "ECB",
+                "University College",
+                "Cork",
+                "Ireland",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The ECB chief economist advocates for a digital euro specifically to counter the adoption and influence of stablecoins and foreign payment systems in Europe."
+    }
+}

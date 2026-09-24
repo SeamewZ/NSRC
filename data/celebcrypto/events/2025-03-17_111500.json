@@ -1,0 +1,49 @@
+{
+    "title": "Crypto Daybook Americas: Recession Concerns Stifle BTC Recovery Prospects, Memecoins Buzz",
+    "time": "2025-03-17T11:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for March 17, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nBitcoin\nBTC\n$104,850.17\nhas found some stability around its 200-day average at about $84,000 after dipping below $77,000 early last week. The broader market recovery was led by memecoins, layer-2 tokens and gaming tokens.\n\nHowever, maintaining a sustained uptick could still be a challenge, especially since President Donald Trump's administration appears to have a higher tolerance for market instability than many expected. Just two months ago, when Trump took office, the crypto market was buzzing with optimism that any turbulence created by tariffs would lead to prompt policy support from the White House.\n\nThat optimism seems to have been misplaced. Over the weekend, Treasury Secretary Scott Bessent said corrections are healthy and normal, a hint that the anticipated \"Trump put\" might take longer to materialize than traders hoped.\n\nMore importantly, on NBC News' \"Meet the Press\" on Sunday, Bessent did not rule out the possibility of a recession. This starkly contrasts with government officials' typical attitude of emphasizing \"glass half full\" perspective when the going gets tough.\n\nIt could mean Trump isn't ready to back down from his tariff fight just yet, keeping risk assets feeling uneasy. If stock prices continue to fall, it's hard to imagine bitcoin staying resilient for long, especially given the lack of uplifting narratives in the crypto market.\n\n\"It's just a guess, but I doubt Trump will reverse course on tariffs and his drive to bring U.S. manufacturing back at these price levels,\" Greg Magadini, director of derivatives at Amberdata, shared in an email. \"I can’t picture a scenario where risk assets crash and crypto remains unaffected, or where the VIX increases and crypto's implied volatility doesn’t follow suit.\"\n\nPlus, sentiment is deteriorating on Main Street, which could add to the recent risk aversion in both the crypto and traditional markets. A chart shared on X by Otavio Costa, a macro strategist at Crescat's Capital, highlights a record number of U.S. consumers expecting conditions to worsen over the next year (see Chart of the Day, below).\n\nThe focus on macro means traders will follow Wednesday's Fed meeting for cues on the central bank's readiness to deploy stimulus. The bar is low after Chairman Powell said the bank is in a wait-and-watch mode to assess the impact of Trump's policies before cutting rates.\n\nIn other news, Aave Labs's Founder, Stani Kulechov, confirmed that the Aave decentralized autonomous organization had reached a clear consensus against introducing a new token for Horizon, an Aave initiative to integrate real-world assets into decentralized finance.\n\nTrump is reportedly going to talk to Russian President Vladimir Putin about ending the Ukraine war. Digital asset prime broker FalconX said it had completed the “first-ever” block trade in CME's SOL futures with StoneX as counterparty. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/03/17/crypto-daybook-americas-recession-concerns-stifle-btc-recovery-prospects-memecoins-buzz",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Donald Trump",
+                "Scott Bessent",
+                "Greg Magadini",
+                "Otavio Costa",
+                "Stani Kulechov",
+                "Vladimir Putin",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President",
+                "Treasury Secretary",
+                "director of derivatives",
+                "macro strategist",
+                "Founder"
+            ],
+            "companies": [
+                "Amberdata",
+                "Crescat's Capital",
+                "Aave Labs",
+                "FalconX",
+                "StoneX"
+            ],
+            "organizations": [
+                "NBC News",
+                "Aave decentralized autonomous organization",
+                "CME",
+                "Farside Investors"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news highlights recession concerns, lack of policy support from the Trump administration, deteriorating consumer sentiment, and expectations that crypto cannot remain resilient if risk assets crash."
+    }
+}

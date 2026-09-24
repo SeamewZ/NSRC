@@ -1,0 +1,39 @@
+{
+    "title": "XRP, SOL Nosedive 14% as Crypto Bulls Rack $800M Liquidations",
+    "time": "2025-04-07T04:14:00",
+    "author": "Shaurya Malwa",
+    "summary": "A cascade of liquidations might suggest a market turning point, where a price reversal could be imminent due to an overreaction in market sentiment.",
+    "content": "Futures tied to major tokens saw over $840 million in long liquidations in the past 24 hours as a bitcoin\nBTC\n$103,893.99\nplunge led to losses among major tokens, with some falling nearly 14%.\n\nCoinGlass data shows that bitcoin traders betting on higher prices lost over $322 million, while bets on ether\nETH\n$3,518.11\nlost nearly $290 million. Smaller alternative tokens (altcoins) recorded nearly $400 million in liquidations — with futures tracking\nXRP\n$2.2812\nand Solana’s SOL seeing an unusually high $80 million in cumulative liquidations.\n\nBTC slid to under $77,000 in its worst start to a historically bullish month late Tuesday, with ether\nETH\n$3,518.11\ndown 15% to $1,500.\n\nSOL, XRP and\nDOGE\n$0.1638\nslid as much as 15%, before slightly recovering in Asian morning hours, with BNB Chain’s bnb holding relatively stronger with a 6% slide. The nosedive in majors was reflected across midcaps and smaller tokens — all showing drops of over 10-20% as per CoinGecko.\n\nData shows that nearly 86% of all futures bets were bullish. Traders were positioning for higher prices in the weeks ahead on expectations that current ongoings were likely priced in and that markets could see near-term relief.\n\nA liquidation occurs when an exchange forcefully closes a trader's leveraged position due to the trader's inability to meet the margin requirements.\n\nLarge-scale liquidations can indicate market extremes, like panic selling or buying. A cascade of liquidations might suggest a market turning point, where a price reversal could be imminent due to an overreaction in market sentiment.\n\nGlobal equities and risk assets such as bitcoin took a hit Monday as investors continue to remain fearful of the fallout from the Trump tariffs, sending U.S. stock index futures lower by about 5% as trading resumed after the weekend.\n\nHedge fund billionaire Bill Ackman urged the president not to go through with economic \"nuclear war\" and instead call a \"time out\" on Monday.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/xrp-sol-nosedive-14-as-crypto-bulls-rack-usd800m-liquidations",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bill Ackman"
+            ],
+            "positions": [
+                "president",
+                "Hedge fund billionaire"
+            ],
+            "companies": [
+                "CoinGlass",
+                "CoinGecko"
+            ],
+            "organizations": [
+                "BNB Chain"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "XRP",
+            "Solana",
+            "SOL",
+            "DOGE",
+            "bnb"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes major price plunges, massive liquidations totaling over $800 million, and market panic across multiple cryptocurrencies."
+    }
+}

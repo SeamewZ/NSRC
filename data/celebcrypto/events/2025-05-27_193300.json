@@ -1,0 +1,39 @@
+{
+    "title": "Third Arrest Made in Manhattan Bitcoin Kidnapping, Torture Case",
+    "summary": "The incident, involving alleged abduction and abuse for nearly three weeks, comes amid a growing trend of physical attacks on cryptocurrency users.",
+    "time": "2025-05-27T19:33:00",
+    "author": "Francisco Rodrigues",
+    "content": "A man suspected of helping kidnap and torture an Italian cryptocurrency investor in a Manhattan townhouse has surrendered to New York City police.\n\nWilliam Duplessie turned himself in Tuesday after what officials described as days of negotiations with authorities, the New York Times reports.\n\nHe is the third suspect in an alleged plot to extract the keys to a bitcoin wallet belonging to Michael Valentino Teofrasto Carturan, a crypto fund associate who said he was held captive and abused for nearly three weeks.\n\nThe ordeal began on May 6, when Carturan arrived at a 17-room townhouse on Prince Street in Manhattan’s NoLiTa neighborhood. He was set to reconnect with former fund partner John Woeltz, who, along with another associate Beatrice Folchi, allegedly ambushed him.\n\nPolice say the group attempted to force Carturan to surrender access to his crypto holdings, reportedly worth millions, through physical threats and psychological abuse.\n\nAccording to law enforcement, Carturan was assaulted, suspended from the top floor of the five-story building, and held at gunpoint. He managed to escape and alert authorities nearly three weeks later.\n\nThe New York City Police Department case has drawn attention for its brutality and connection to a growing trend of physical attacks on crypto users.\n\nIn France, the daughter and grandson of Paymium CEO Pierre Noizat were recently targeted in a failed kidnapping attempt captured on video. Earlier in the same city, a crypto millionaire’s father was abducted and had a finger severed before being rescued.\n\nAnother incident saw David Balland, co-founder of hardware wallet maker Ledger, and his wife kidnapped from their home. Authorities later rescued the couple and seized the ransom payment.\n\nWhile Folchi has since been released and her prosecution deferred, Woeltz is scheduled to appear in court on Wednesday. Both Woeltz and Duplessie face kidnapping, assault and illegal gun possession charges.\n\nAn attorney representing Woeltz didn't immediately respond to a request for comment.",
+    "url": "https://www.coindesk.com/policy/2025/05/27/third-arrest-made-in-manhattan-bitcoin-kidnapping-torture-case",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "William Duplessie",
+                "Michael Valentino Teofrasto Carturan",
+                "John Woeltz",
+                "Beatrice Folchi",
+                "Pierre Noizat",
+                "David Balland"
+            ],
+            "positions": [
+                "crypto fund associate",
+                "former fund partner",
+                "Paymium CEO",
+                "co-founder of hardware wallet maker Ledger"
+            ],
+            "companies": [
+                "Paymium",
+                "Ledger"
+            ],
+            "organizations": [
+                "New York City Police Department",
+                "New York Times"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes multiple violent attacks and kidnappings targeting cryptocurrency users, highlighting security risks and physical dangers associated with crypto ownership."
+    }
+}

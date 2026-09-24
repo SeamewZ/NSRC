@@ -1,0 +1,41 @@
+{
+    "title": "Atkins Confirmed by U.S. Senate to Take Over SEC Formerly Run by Gensler",
+    "summary": "Former SEC Commissioner Paul Atkins will be sworn in as the agency's next chair and will oversee future regulation for the crypto sector.",
+    "time": "2025-04-09T23:50:00",
+    "author": "Jesse Hamilton",
+    "content": "Paul Atkins is just one oath away from taking over the U.S. Securities and Exchange Commission as President Donald Trump's pick to oversee the nation's securities sector — including whatever role the crypto sector plays in that.\n\nA swearing-in ceremony will soon put the former SEC commission in charge of the high-profile regulator — a matter cheered on by the digital assets sector that sees him as a strong ally after his significant background advising crypto firms as a financial-services consultant in Washington. Atkins' Senate confirmation was easily cleared on Wednesday in a 52-44 vote.\n\nThe longtime figure in U.S. financial policy — both in government and as an outside adviser — was generally expected to easily move through confirmation, though the Senate Banking Committee approved Atkins along party lines, with all the panel's Democrats opposing the nominee.\n\nAtkins' confirmation took the usual months to emerge from the Senate, and in the time between the departure of predecessor Gary Gensler and Atkins' arrival, Trump's interim agency chief, Mark Uyeda, carried out an ambitious and rapidly deployed crypto overhaul. The SEC has thrown out almost all of its high-profile digital assets enforcement actions, and its staff quickly outlined a number of segments of the industry that it considers outside its jurisdiction — including some stablecoins, memecoins (such as the president's own $TRUMP) and proof-of-work mining.\n\nMany of the areas in which the agency has already demonstrated policy shifts overlap with Trump's family crypto businesses, including the family's memecoins and its ties to World Liberty Financial, which has pursued its own stablecoin. Atkins will be taking over those issues to apply permanent standards, potentially directed by future legislation that's now a priority in Congress.\n\nAtkins' tenure will begin with an incomplete commission, which is meant to have five members and whose sole Democrat — Caroline Crenshaw — is occupying an already expired term. The White House hasn't yet moved to fill the two Democratic positions on the commission.",
+    "url": "https://www.coindesk.com/policy/2025/04/09/atkins-confirmed-by-u-s-senate-to-take-over-sec-formerly-run-by-gensler",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Atkins",
+                "Donald Trump",
+                "Gary Gensler",
+                "Mark Uyeda",
+                "Caroline Crenshaw"
+            ],
+            "positions": [
+                "SEC Commissioner",
+                "SEC Chair",
+                "President",
+                "interim agency chief",
+                "Democrat"
+            ],
+            "companies": [
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "U.S. Senate",
+                "U.S. Securities and Exchange Commission",
+                "Senate Banking Committee",
+                "White House",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "$TRUMP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Atkins as 'cheered on by the digital assets sector that sees him as a strong ally' and notes the SEC has already thrown out enforcement actions and outlined industry segments outside its jurisdiction under interim leadership."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "BlockTrust IRA Brings Quant Trading Tools to Crypto Retirement Accounts",
+    "summary": "By leveraging trading signals from Animus Technologies, BlockTrust IRA promises to beat benchmark BTC and ETH positions.",
+    "time": "2025-05-22T19:16:00",
+    "author": "Tom Carreras",
+    "content": "As spot bitcoin\nBTC\n$101,754.63\nexchange-traded funds continue to grow and Wall Street wades deeper into crypto, more and more people are able to gain exposure to digital assets through their individual retirement accounts (IRAs).\n\nIRAs offer tax advantages and a range of investment options, including stocks, real estate, commodities and, increasingly, cryptocurrencies. But when it comes to crypto, there’s usually only one investment strategy available: to buy and hold.\n\nIt’s a strategy that might work well for assets like the S&P 500, which have long track records of steadily appreciating over longer time frames, but bitcoin is still an extremely volatile asset and other coins even more so.\n\nThe idea behind BlockTrust IRA, then, is simple: to manage the crypto positions of its customers in order to take advantage of that volatility and maximize their returns.\n\n“We're the only company that has an AI tool meshed with traders that put people automatically in cash [when need be]. Then we wait for the right signals, and we buy back in,” Jonathan Rose, the firm’s CEO, told CoinDesk in an interview.\n\n“Where people are scared of volatility and scared of risk, we actually want the volatility and the risk associated with that, because that's how we actually make our clients money,” Rose said. “We are right a lot more than we are wrong, and that's how we're able to beat the benchmark.”\n\nBlockTrust’s secret sauce? Animus Technologies, a fund that provides intelligent asset management solutions for crypto. Animus has servers around the world and quantifies humongous amounts of data — to the point that a European government body has reached out to inquire what exactly they’re quantifying data for, according to Rose.\n\nAnimus typically only shares its signals with high net-worth individuals and fund clients, Rose said. In other words, crypto retail participants may now benefit, through their BlockTrust accounts, from the kind of trading mechanisms that previously were only available to quant funds.\n\nThe sophisticated strategies are currently only available for bitcoin\nBTC\n$101,754.63\nand ether\nETH\n$3,331.23\n, but BlockTrust offers exposure to 60 different cryptocurrencies, Rose said. Users of the platform can invest as little as $1,000 for non-managed accounts, or $25,000 if they want a managed account — and trading fees can go as low as 0.4% for the former and 0.14% for the latter.\n\nBlockTrust IRA went live officially in February. In March, the firm had accrued $10 million in assets, and Rose expects it to bring in roughly $100 million before the end of the year.\n\nThe company’s early success may also be due to the fact that it’s not just open to U.S. residents, but to people all around the world, as long as they can pass its Know-Your-Customer (KYC) checks. Americans do have the added advantage of being able to use their tax-deferred retirement savings to gain exposure.\n\nCrypto markets are ever changing, and trading strategies that function perfectly for a long time may suddenly become outdated due to shifts in the economic environment or crypto-intrinsic changes — potentially threatening to render Animus’ approach obsolete someday. But Rose isn’t concerned.\n\n“When [the people at] Animus Technologies go to these hedge fund conferences and speak, they always come back with a big grin on their faces, because they're like, ‘We are so light-years ahead of anyone remotely doing what we're doing,’” Rose said. “It's going to take like four to six years for people to even kind of catch up to us.”",
+    "url": "https://www.coindesk.com/markets/2025/05/22/blocktrust-ira-brings-quant-trading-tools-to-crypto-retirement-accounts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jonathan Rose"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "BlockTrust IRA",
+                "Animus Technologies"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "European government body"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "Bitcoin",
+            "ETH",
+            "Ether"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes how BlockTrust IRA's AI-powered trading tools promise to beat benchmark positions and maximize returns through sophisticated strategies, indicating increased market confidence and institutional adoption."
+    }
+}

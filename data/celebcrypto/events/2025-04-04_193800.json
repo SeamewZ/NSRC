@@ -1,0 +1,47 @@
+{
+    "title": "U.S. SEC Staff Clarifies That Some Crypto Stablecoins Aren't Securities",
+    "summary": "In its latest what's-not-a-security statement on digital assets, the Securities and Exchange Commission has added dollar-based stablecoins, but may snub Tether.",
+    "time": "2025-04-04T19:38:00",
+    "author": "Jesse Hamilton",
+    "content": "The U.S. Securities and Exchange Commission has no business with certain stablecoins or their issuers, the regulator's staff declared in the latest statement outlining the corners of the crypto sector for which it doesn't have a legal interest.\n\nSince the agency was taken over by President Donald Trump-appointed leadership and formed a Crypto Task Force to ease pressures on the digital assets space, its staff has issued a series of statements meant to clarify the crypto areas outside its jurisdiction — so far including memecoins and proof-of-work crypto mining. It's now added certain stablecoins to that list. The SEC's Division of Corporation Finance issued the Friday statement — not yet a binding rule, or even formal guidance — to declare such stablecoins \"do not involve the offer and sale of securities.\"\n\n\"Persons involved in the process of 'minting' (or creating) and redeeming Covered Stablecoins do not need to register those transactions with the Commission under the Securities Act or fall within one of the Securities Act’s exemptions from registration,\" according to the statement.\n\nIt went on to clarify that such stablecoins — an arena dominated by Tether's USDT and Circle's USDC — \"are marketed solely for use in commerce, as a means of making payments, transmitting money, and/or storing value, and not as investments.\"\n\nHowever, the stablecoins covered by this statement may not include Tether's, because one of the footnotes says acceptable reserves \"do not include precious metals or other crypto assets,\" both of which are included in Tether's reserves. And the statement says any tokens must be redeemable at any time for dollars, but Tether's terms of service suggest minimum amounts or delays may be imposed.\n\nCircle President Heath Tarbert posted a social-media comment that included a jab toward its competitors.\n\n\"The SEC just drew a clear line: Stablecoins backed one-for-one with high quality liquid assets —l ike USDC — are NOT securities,\" Tarbert said. \"This certainty does not extend to other digital assets just because they call themselves 'stablecoins.'\"\n\nCongress has been moving forward on establishing a new set of U.S. standards for the issuance of such tokens. This week, the House Financial Services Committee advanced a stablecoin bill toward a vote of the overall House of Representatives. The Senate is building toward consideration of a similar bill that's also been approved by committee there — in both cases by a wide, bipartisan vote.\n\nWhile they're the most sedate of crypto assets, stablecoins have been a colorful political topic in recent weeks, as the Trump-backed World Liberty Financial pitched its own stablecoin, and some congressional Democrats are concerned that Elon Musk will leverage his status as a tech giant to follow suit.\n\nSEC Commissioner Hester Peirce, who is leading the agency's task force, has said she feels the early, nonbinding moves to reverse crypto resistance at the SEC are important and should be done as rapidly as possible, even if they're not yet official policy. She's said non-fungible tokens (NFTS) may also be considered for such a statement.\n\nRead More: SEC 'Earnest' About Finding Workable Crypto Policy, Commissioners Say at Roundtable\n\nThe SEC is set to have its second in a series of crypto summits next week. This one is set to focus on trading.\n\nThe agency may also soon be taken over by Trump's pick for a permanent chairman if Paul Atkins is confirmed by the Senate. The Senate Banking Committee approved his nomination in a party-line vote this week.\n\nEven before his arrival, interim Chairman Mark Uyeda has made dramatic moves to overhaul the regulator's crypto position. That's included throwing out most of the prominent enforcement cases the agency had pursued against digital assets businesses, though a few remain.\n\nUPDATE (April 4, 2025, 20:52 UTC): Adds information on Tether's token being potentially left out.\nUPDATE (April 4, 2025, 21:22 UTC): Adds comment from Circle president.",
+    "url": "https://www.coindesk.com/policy/2025/04/04/u-s-sec-staff-clarifies-that-most-crypto-stablecoins-aren-t-securities",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Heath Tarbert",
+                "Hester Peirce",
+                "Paul Atkins",
+                "Mark Uyeda",
+                "Elon Musk"
+            ],
+            "positions": [
+                "President",
+                "Circle President",
+                "SEC Commissioner",
+                "interim Chairman"
+            ],
+            "companies": [
+                "Tether",
+                "Circle",
+                "World Liberty Financial"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission",
+                "SEC",
+                "Crypto Task Force",
+                "SEC's Division of Corporation Finance",
+                "House Financial Services Committee",
+                "House of Representatives",
+                "Senate",
+                "Senate Banking Committee"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC's clarification that certain stablecoins are not securities provides regulatory certainty and reduces enforcement risk for major stablecoin issuers, which is positive for the cryptocurrency market."
+    }
+}

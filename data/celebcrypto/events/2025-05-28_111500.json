@@ -1,0 +1,41 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Dominance Tops 64% While Options Indicate Bullish Tilt",
+    "time": "2025-05-28T11:15:00",
+    "author": "James Van Straten",
+    "summary": "Your day-ahead look for May 28, 2025",
+    "content": "By James Van Straten (All times ET unless indicated otherwise)\n\nSince May 22, bitcoin\nBTC\n$104,850.17\nhas been trading within a narrow 5% range between $106,600 and $111,700, despite a flurry of bullish developments, including the announcement that Trump Media will raise $2.5 billion through equity and bond sales to fund a bitcoin treasury strategy.\n\nThis pause in momentum comes even as the U.S. equity market rallies, with the S&P 500 up 22% from its April lows. Notably, bitcoin appears to have front-run traditional markets, with crypto markets now entering a consolidation phase while the S&P 500 still trades 4% below its all-time highs from February.\n\nMeanwhile, the divergence between bitcoin and the broader crypto market continues to widen. Bitcoin market cap dominance now consolidates above 64%, highlighting its growing influence. At current prices near $108,000, bitcoin trades almost $14,000 above its 200-day moving average, which sits just under $94,500, underscoring the strength of its recent performance.\n\nIn contrast, ether\nETH\n$3,515.90\nand solana\nSOL\n$158.87\nremain subdued. Ether has been rejected three times at its 200-DMA ($2,697) and currently trades at $2,633. Similarly, SOL is priced at $173, below its 200-DMA of $181, having also faced repeated rejections.\n\n“Ether and solana have been battling resistance in the form of their 200-day moving averages for more than two weeks now. We seem to be dealing with an indecisive market choosing between a further mighty rally and fading after a rebound. Bitcoin's rally has the potential to inspire big alts to break out, but for now, we are not there yet,\" Alex Kuptsikevich, Chief Market Analyst at FxPro, told CoinDesk.\n\nIn the derivatives market, bitcoin options expiring at the end of May show the highest concentration of call interest at $110,000, with June and July expiries skewing more bullish, particularly at $115,000 and $120,000 strikes, according to Kaiko. The highest turnover remains around $110,000, indicating expectations of continued consolidation around current levels.\n\nOn the corporate front, Circle, issuer of the USDC stablecoin, has updated its IPO filing with the New York Stock Exchange. The company aims to raise $600 million at a valuation of $5.4 billion, becoming the latest crypto firm to push toward public markets amid renewed interest in institutional crypto adoption. Stay Alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/05/28/crypto-daybook-americas-bitcoin-dominance-tops-64-while-options-indicate-bullish-tilt",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Alex Kuptsikevich",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "Chief Market Analyst"
+            ],
+            "companies": [
+                "Trump Media",
+                "Circle",
+                "FxPro",
+                "CoinDesk",
+                "Kaiko",
+                "Farside Investors",
+                "New York Stock Exchange"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "USDC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes bitcoin trading in a narrow range, broader crypto market consolidation, and mixed signals with bitcoin showing strength but altcoins struggling at resistance levels."
+    }
+}

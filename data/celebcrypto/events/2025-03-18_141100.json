@@ -1,0 +1,33 @@
+{
+    "title": "BlackRock's BUIDL, Superstate and Centrifuge Win Spark's $1B Tokenized Asset Windfall",
+    "time": "2025-03-18T14:11:00",
+    "author": "Krisztian Sandor",
+    "summary": "Sky, formerly MakerDAO, announced last year its plan to allocate $1 billion of reserve assets in tokenized real-world asset products.",
+    "content": "Tokenized Treasury products of BlackRock-Securitize, Superstate and Centrifuge are poised to receive allocations from $1 billion investment plan initiated by Sky, formerly MakerDAO, an initiative designed to accelerate the adoption of real-world asset (RWA) tokenization on Sky-adjacent decentralized finance (DeFi) lending platform Spark.\n\nBUIDL, issued by BlackRock and Securitize and backed by U.S. Treasury bills and repurchase agreements, is set to receive $500 million allocation. Superstate's USTB will get a $300 million. Centrifuge's JTRSY, a T-bill fund in partnership with asset managers Anemoy and Janus Henderson, set to receive $200 million.\n\nThe selection process saw 39 applicants evaluated by advisory firm Steakhouse Financial, a key player in Spark’s ecosystem specializing in RWAs. Winners were chosen based on criteria including liquidity and capital efficiency. The final allocations will be market-driven and capped at $1 billion, Spark said in a press release.\n\nPending governance approval, the selected tokenized assets could be used as collateral for Sky’s native stablecoin USDS and its yield-bearing counterpart, sUSDS.\n\nThe protocol's move is part of a larger trend of blockchain-based protocols integrating tokenized versions of traditional financial assets, or real-world assets, like bonds, funds and credit. In 2024, Sky announced plans to invest $1 billion in tokenized U.S. Treasury bills, attracting interest from a wide range of issuers.\n\nRead more: MakerDAO's $1B Tokenized Treasury Investment Plan Draws Interest from BlackRock's BUIDL, Ondo, Superstate\n\nThe allocation will also lend a significant boost for the already fast-growing tokenized U.S. Treasuries market, which currently stands at $4.6 billion, according to rwa.xyz data.\n\nDisclaimer: Parts of this article were generated with the assistance from AI tools and reviewed by our editorial team to ensure accuracy and adherence to our standards. For more information, see CoinDesk's full AI Policy.",
+    "url": "https://www.coindesk.com/business/2025/03/18/blackrock-s-buidl-superstate-and-centrifuge-win-spark-s-usd1b-tokenized-asset-windfall-report",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "BlackRock",
+                "Securitize",
+                "Superstate",
+                "Centrifuge",
+                "Anemoy",
+                "Janus Henderson",
+                "Steakhouse Financial"
+            ],
+            "organizations": [
+                "MakerDAO",
+                "Spark"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDS",
+            "sUSDS"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The $1 billion allocation to tokenized real-world assets by a major DeFi protocol indicates institutional adoption and market confidence in cryptocurrency-based financial products."
+    }
+}

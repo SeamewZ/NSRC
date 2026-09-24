@@ -1,0 +1,53 @@
+{
+    "title": "Shuttered Russian Crypto Exchange Garantex Rebrands as Grinex, Global Ledger Finds",
+    "summary": "The Swiss blockchain analytics firm said it found a trove of off and on-chain data to suggest Grinex is a direct successor to Garantex.",
+    "time": "2025-03-24T15:46:00",
+    "author": "Cheyenne Ligon",
+    "content": "Less than two weeks after it was taken down by international law enforcement authorities, Garantex — a Russian crypto exchange popular with ransomware gangs and sanctions-evading oligarchs — has allegedly already risen from the ashes, rebranding itself as Grinex.\n\nAccording to a new report from Swiss blockchain analytics firm Global Ledger, a slew of on and off-chain data indicates that Grinex is a direct successor to Garantex. Some liquidity from Garantex, including all of Garantex’s holdings of a ruble-backed stablecoin called A7A5, has already been moved to Grinex-controlled wallets.\n\nGlobal Ledger CEO Lex Fisun told CoinDesk that, in addition to on-chain data connecting Garantex to Grinex, there have been numerous off-chain indications that the two exchanges are intimately connected. Fisun pointed to the rapid growth of Grinex, which he said had surpassed $40 million in volume in just two weeks, as well as a host of social media ties between the two exchanges.\n\nThough other major blockchain analytics companies, including TRM Labs and Chainalysis, have yet to confirm Global Ledger’s findings, Chainalysis’ Head of National Security Intelligence Andrew Fierman told CoinDesk that he had seen several indicators that Grinex was likely to be the rebrand of Garantex.\n\nFierman pointed to a recent Telegram comment from Sergey Mendeleev, one of the original founders of Garantex, announcing the creation of Grinex and claiming any similarities between the two exchanges were random — followed by two crying laughing emojis. Both Fierman and Fisun told CoinDesk that there were numerous reports of Garantex users going to Garantex’s in-person offices in Europe and the Middle East and transferring their crypto from Garantex to Grinex. Both also pointed out the similarities in the two platforms’ user interfaces.\n\nThough the evidence is certainly compelling, Fierman said that until Chainalysis completes its review of Grinex’s infrastructure, it cannot definitively validate the accuracy of Global Ledger’s report.\n\nBut, if Grinex is, in fact, a rebrand of Garantex, it wouldn’t be the first time that a sanctioned exchange remade itself after a shutdown. In 2017, Russian crypto exchange BTC-E was taken down by American law enforcement, and subsequently rebranded as WEX. WEX didn’t last long though — it shuttered a year later due to internal conflict and in-fighting among its remaining leadership. Similarly, sanctioned Russian exchange Suex rebranded as Chatex, and was subsequently sanctioned again.\n\nThe trouble with sanctions\n\nThe fast revival of Garantex demonstrates the challenge of sanctions, especially against criminal operations like non-compliant exchanges, darknet marketplaces and ransomware gangs that can simply morph to avoid detection.\n\n“Sanctions evasion is going to happen,” Fierman said. “Because if you're sanctioned, you aren't just going to accept that you can no longer conduct any financial transactions. You are going to look to avoid detection, however that may be, whether it be through creating shell companies, creating new crypto wallets — and the larger the operation, and the more prominent, the more technically advanced you'd have to be to actually make it work.”\n\nFierman said this problem isn’t unique to crypto, but crypto-related sanctions offer law enforcement a unique opportunity to follow the money after sanctions are put in place.\n\n“The unique aspect to the blockchain is that it's transparent and immutable, and so what happens when a company gets shut down is a lot more examined,” Fierman said. “There's a lot more to examine on-chain. Garantex gets shut down, their Tether holdings get seized, but that doesn't stop them from moving other assets. There's opportunity to monitor what happens to those funds post-official shutdown.”\n\nA hydra-like network of potential successors\n\nWhether Grinex is Garantex 2.0 or not, there are a number of other non-compliant Russian crypto exchanges eager and willing to take its place.\n\nAri Redbord, global head of policy and government affairs at TRM Labs, told CoinDesk that it was simply “too early” to definitively assess the relationship between Grinex and Garantex. “That said, it is clear that other high-risk non-compliant exchanges will try to fill the illicit finance void left by Garantex,” he added.\n\nA recent client report from TRM Labs named several possible successors, including high-risk Russian exchanges ABCEX and Keine-Exchange.\n\nGarantex take down\n\nGarantex was dismantled by international law enforcement from the U.S., Germany and Finland in a joint operation earlier this month, which seized its domain and servers.\n\nThe U.S. Treasury’s Department of Foreign Asset Control (OFAC) first sanctioned the exchange in 2022, accusing it of knowingly facilitating money laundering for ransomware gangs like Black Basta and Conti, as well as darknet markets like Hydra.\n\nAccording to court documents, Garantex’s clientele also included North Korea’s state-sanctioned hacking squad The Lazarus Group, which was behind the recent $1.4 billion Bybit hack, as well as Russian oligarchs who used the service to evade sanctions after Russia’s invasion of Ukraine.\n\nTwo of Garantex’s operators, Lithuanian national and Russian resident Aleksej Besciokov and Russian citizen and United Arab Emirates resident Aleksandr Mira Serda have been charged with money laundering conspiracy in connection with their work with Garantex. Besciokov was arrested while vacationing with his family in India earlier this month, and is expected to be extradited to the U.S. to face charges.",
+    "url": "https://www.coindesk.com/policy/2025/03/21/shuttered-russian-crypto-exchange-garantex-rebrands-as-grinex-global-ledger-finds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lex Fisun",
+                "Andrew Fierman",
+                "Sergey Mendeleev",
+                "Ari Redbord",
+                "Aleksej Besciokov",
+                "Aleksandr Mira Serda"
+            ],
+            "positions": [
+                "CEO",
+                "Head of National Security Intelligence",
+                "global head of policy and government affairs"
+            ],
+            "companies": [
+                "Garantex",
+                "Grinex",
+                "Global Ledger",
+                "CoinDesk",
+                "TRM Labs",
+                "Chainalysis",
+                "BTC-E",
+                "WEX",
+                "Suex",
+                "Chatex",
+                "ABCEX",
+                "Keine-Exchange",
+                "Bybit"
+            ],
+            "organizations": [
+                "U.S. Treasury's Department of Foreign Asset Control (OFAC)",
+                "The Lazarus Group",
+                "Black Basta",
+                "Conti",
+                "Hydra"
+            ]
+        },
+        "cryptocurrencies": [
+            "A7A5",
+            "Tether"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a sanctioned Russian crypto exchange rebranding to evade sanctions and continue facilitating money laundering for ransomware gangs and criminal organizations, which represents negative regulatory and security developments for the cryptocurrency market."
+    }
+}

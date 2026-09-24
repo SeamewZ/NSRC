@@ -1,0 +1,35 @@
+{
+    "title": "Samourai Wallet Files to Dismiss DOJ Case, Citing FinCEN Guidance",
+    "summary": "The developers claim Samourai Wallet never handled user funds and should not be considered a financial institution.",
+    "time": "2025-05-30T08:44:00",
+    "author": "Francisco Rodrigues",
+    "content": "The co-founders of Bitcoin privacy app Samourai Wallet pushed back against the U.S. government’s criminal charges, arguing in a new court filing that the Department of Justice’s case should be thrown out because it breaks with years of Treasury Department policy and threatens to criminalize open-source software.\n\nKeonne Rodriguez and William Hill, charged with operating an unlicensed money transmitting business and conspiracy to commit money laundering, filed a joint motion asking a federal judge in Manhattan to dismiss the indictment.\n\nThe pair's lawyers say Samourai Wallet never handled user funds and shouldn’t be considered a financial institution or a money transmitter under federal law.\n\nAt the heart of the dispute is the distinction between custodial services, which take control of customer assets, and non-custodial tools like Samourai, which merely help users obscure blockchain transactions using a method called CoinJoin.\n\nAccording to the motion, Samourai users always retained control of their crypto, and the app simply coordinated privacy-enhancing transactions among them.\n\nThe developers’ defense cited longstanding guidance from the Treasury Department’s Financial Crimes Enforcement Network (FinCEN), that anonymizing software providers are not subject to money transmitter rules.\n\n“FinCEN never maintained that it was a money transmitting business that must be licensed. To the contrary, FinCEN consistently advised that companies and software apps that did not “accept” or “transmit” funds were not “money transmitting” businesses,” the filing reads.\n\nThe defense argues that the Department of Justice’s charges mark a sharp and unprecedented break from that interpretation “in an apparent regulatory power struggle with FinCEN.”\n\nTo them, the DOJ’s conduct is akin to “charging a shovel manufacturer because it may know murderers use shovels to bury victims” or “charging a burner phone manufacturer because it may know some customers use the phones to facilitate drug crimes.”\n\nIn the motion, the lawyers warned that the DOJ’s theory could implicate a wide range of developers building privacy tools.\n\nSeveral crypto advocacy groups, including Coin Center and the DeFi Education Fund, have signaled interest in filing amicus briefs in support of the motion, warning that the case could chill innovation and infringe on civil liberties if allowed to proceed.\n\nThe court is scheduled to hear arguments on July 22.",
+    "url": "https://www.coindesk.com/policy/2025/05/30/samourai-wallet-files-to-dismiss-doj-case-citing-fincen-guidance",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Keonne Rodriguez",
+                "William Hill"
+            ],
+            "positions": [
+                "co-founders"
+            ],
+            "companies": [
+                "Samourai Wallet"
+            ],
+            "organizations": [
+                "Department of Justice",
+                "Treasury Department",
+                "Financial Crimes Enforcement Network",
+                "FinCEN",
+                "Coin Center",
+                "DeFi Education Fund"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a regulatory crackdown on cryptocurrency privacy tools with criminal charges against developers, which typically creates negative market sentiment."
+    }
+}

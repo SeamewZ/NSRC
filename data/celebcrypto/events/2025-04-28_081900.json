@@ -1,0 +1,31 @@
+{
+    "title": "Bitcoin Turns Positive Year-to-Date as It Veers Toward Digital Gold Narrative",
+    "summary": "Bitcoin's strong correlation with gold continues as economic uncertainty grows.",
+    "time": "2025-04-28T08:19:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin (BTC) returned to positive territory for the year for the first time in almost two months, approaching $95,000 and erasing a drop of as much as 18%.\n\nIts current performance, up less 1.5% since Dec. 31, places it between gold, which has gained 24% and the Nasdaq 100, which is down over 7%. As a result, the narrative positioning bitcoin as either a leveraged tech stock or digital gold is leaning slightly toward the digital gold narrative. But only just.\n\nAnalyzing bitcoin’s correlation coefficients over a 30-day moving average, the largest cryptocurrency by market capitalization now shows a strong correlation of 0.70 with gold and a weaker 0.53 correlation with the Nasdaq 100. This suggests bitcoin is aligning more closely with gold's behavior than with tech equities. Correlation values can run between 1, a strong positive correlation, and -1, a strong negative correlation.\n\nLast week, the bitcoin price rose 10%, its strongest performance since the week ended Nov. 17 during price run following President Donald Trump's election victory.\n\nMeanwhile, Trump’s tariffs continue to feed economic uncertainty. U.S. levies on Chinese goods were raised to 145% earlier this month, leading to a significant drop in cargo shipment demand, according to Bloomberg. As noted in the report, major retailers like Walmart are warning that empty shelves and higher prices could return, reminiscent of the COVID era.",
+    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-turns-positive-year-to-date-as-it-veers-toward-digital-gold-narrative",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Walmart"
+            ],
+            "organizations": [
+                "Bloomberg",
+                "Nasdaq"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Bitcoin returned to positive territory for the year with a 10% weekly gain, its strongest performance since November, and is showing strong correlation with gold amid economic uncertainty."
+    }
+}

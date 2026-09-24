@@ -1,0 +1,31 @@
+{
+    "title": "EigenLayer Finally Ready to Launch Crucial Missing Feature",
+    "summary": "Slashing could allow the restaking pioneer to make good on its \"shared security\" promise.",
+    "time": "2025-04-04T16:42:00",
+    "author": "Sam Kessler",
+    "content": "When Ethereum’s hottest startup of last year, EigenLayer, launched a year ago to massive expectations — many community members were quick to criticize that it was lacking a critical feature.\n\nAn announcement from the project on Wednesday said that the feature — slashing — is finally set to arrive on April 17. The introduction of slashing will mark the first \"feature complete\" version of the protocol.\n\nEigenLayer pioneered the concept of restaking, a way for Ethereum users to secure additional protocols beyond the base layer by recommitting their staked Ether. Slashing was supposed to be a core part of this system, providing apps a way to punish bad actors by seizing a portion of their capital.\n\nThe implementation of slashing will allow Actively Validated Services (AVSs) — apps built atop EigenLayer's restaking system — to set custom conditions penalizing operators who fail to meet pre-established conditions and rewarding those who do.\n\n\"This is a major step forward in the EigenLayer protocol because it allows for a free marketplace where Operators can earn rewards for their work and AVSs can launch verifiable services,\" EigenLayer said in a blog post.\n\nEigenLayer attracted more than $15 billion to the platform within a year and generated massive hype for the EIGEN token, which launched in October.\n\nEigenLayer’s ecosystem has been expanding, with \"100+\" AVSs in development, according to its website. Notable services include EigenDA, a data availability service operated by Eigen Labs, and ARPA Network, which specializes in trustless randomization.\n\nWhile EigenLayer pioneered restaking, the lack of slashing left room for competitors to gain market share. Symbiotic, which allows for the restaking of any asset, has been used by EigenLayer early adopters including Hyperlane, an interoperability framework, and Ethena, a popular synthetic dollar protocol.\n\nRead more: EigenLayer, Crypto's Biggest Project Launch This Year, Is Still Missing Crucial Functionality",
+    "url": "https://www.coindesk.com/tech/2025/04/04/eigenlayer-finally-ready-to-launch-crucial-missing-feature",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Eigen Labs",
+                "ARPA Network",
+                "Ethena"
+            ],
+            "organizations": [
+                "EigenLayer",
+                "Ethereum",
+                "Symbiotic",
+                "Hyperlane"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "EIGEN"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes the launch of a crucial missing feature (slashing) that will make EigenLayer 'feature complete' and enable its shared security promise, representing a major step forward for the protocol that has attracted over $15 billion."
+    }
+}

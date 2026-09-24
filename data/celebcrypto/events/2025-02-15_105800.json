@@ -1,0 +1,32 @@
+{
+    "title": "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M",
+    "time": "2025-02-15T10:58:00",
+    "author": "Oliver Knight",
+    "summary": "Milei deleted his original promotional tweet and revealed that he wasn't aware of its details.",
+    "content": "Argentina's president Javier Milei has backtracked on a tweet promoting a memecoin called Libra, which rose to a $4.4 billion market cap before plunging by more than 95%.\n\nIn a now-deleted tweet, Milei initially wrote: \"This is a private project dedicated to encouraging the growth of the Argentine economy,\" along with a Solana contract address linked to the Libra token.\n\nLibra rose by more than 2,000% in a 40-minute span following the tweet, only to tumble rapidly as a group of early holders began to cash out.\n\nX account KobeissiLetter shared a series of BubbleMaps screenshots showing that alleged \"insiders\" liquidate tokens by adding one-sided liquidity pools on Metora with only Libra, allowing them to remove SOL and stablecoins.\n\nTrading volume for Libra hit $1.1 billion after launch, although it appeared that purchases and sales were skewed; there were 74,500 individual buy orders and 28,900 sales - indicating that larger sell orders flattened the flurry of retail activity.\n\nMilei later addressed the botched memecoin on X, stating that he \"was not aware of the details of the project.\"\n\n\"A few hours ago I posted a tweet, as I have so many other times, supporting a supposed private enterprise with which I obviously have no connection whatsoever,\" Milei wrote. \"I was not aware of the details of the project and after having become aware of it I decided not to continue spreading the word (that is why I deleted the tweet).\"\n\nThe sell-off in Libra rippled across the wider memecoin market, with TRUMP losing $500 million from its market cap, according to market data, in a 30-minute period after Libra began to tumble.",
+    "url": "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Javier Milei"
+            ],
+            "positions": [
+                "Argentina's president"
+            ],
+            "companies": [
+                "Metora"
+            ],
+            "organizations": [
+                "KobeissiLetter",
+                "BubbleMaps"
+            ]
+        },
+        "cryptocurrencies": [
+            "Libra",
+            "SOL",
+            "TRUMP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a memecoin plunging by more than 95% after alleged insider liquidations, causing ripple effects across the memecoin market including TRUMP losing $500 million in market cap."
+    }
+}

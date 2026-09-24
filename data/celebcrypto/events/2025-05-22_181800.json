@@ -1,0 +1,37 @@
+{
+    "title": "Centrifuge Expands Tokenized RWAs to Solana, Starting With $400M Treasury Fund",
+    "summary": "Solana is gaining momentum in the fast-growing tokenized real-world asset space as traditional finance and DeFi gets increasingly intertwined.",
+    "time": "2025-05-22T18:18:00",
+    "author": "Krisztian Sandor",
+    "content": "Tokenized asset platform Centrifuge said it's expanding services on the Solana blockchain, starting with the $400 million tokenized U.S. Treasury fund managed by Anemoy (JTRSY).\n\nThe expansion builds on Centrifuge’s token standard — dubbed \"deRWA tokens\" — that allows token holders to freely transfer and use tokenized instruments across decentralized finance (DeFi) protocols.\n\nIn this case, the deJTRSY token can be swapped, lent, or used as collateral in, enables Solana users to earn yield from short-term Treasuries natively in Solana DeFi platforms, first on decentralized exchange Raydium, lending platform Kamino, and yield aggregator Lulo.\n\nThe rollout underlines Solana's growing momentum in the tokenized RWA space, a red-hot sector that aims to brings traditional financial instruments like bonds, funds and credit onto blockchain rails. It's a huge opportunity: Boston Consulting Group and Ripple projected that the tokenized asset market could reach $18.9 trillion by 2033.\n\nThis week, Solana Foundation partnered with bank-focused blockchain tech firm R3 to bring real-world assets to Solana, while Securitize-issued tokenized fund of Apollo credit assets is also being introduced to Solana-based DeFi protocols.\n\n\"Tokenizing assets is just the starting point,\" said Bhaji Illuminati, CEO of Centrifuge. \"What truly matters is giving real-world assets utility onchain: making them usable across the DeFi stack from day one.\"\n\nRead more: Major TradFi Institutions to Pursue Tokenization Efforts on Solana",
+    "url": "https://www.coindesk.com/markets/2025/05/22/centrifuge-expands-tokenized-rwas-to-solana-starting-with-400m-treasury-fund",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Bhaji Illuminati"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Centrifuge",
+                "Anemoy",
+                "Raydium",
+                "Kamino",
+                "Lulo",
+                "Boston Consulting Group",
+                "Ripple",
+                "Solana Foundation",
+                "R3",
+                "Securitize",
+                "Apollo"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Solana gaining momentum in the fast-growing tokenized real-world asset space with major institutional partnerships and a projected $18.9 trillion market opportunity by 2033."
+    }
+}

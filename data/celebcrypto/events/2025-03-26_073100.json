@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin Hovers Above $87K, Dogecoin, SHIB Surge 11% as Traders Monitor Tariffs",
+    "time": "2025-03-26T07:31:00",
+    "author": "Shaurya Malwa",
+    "summary": "“Call skew hasn’t meaningfully shifted toward calls, with call skew only emerging from June onwards, suggesting traders are waiting to see how the tariff situation develops,” one trading desk said.",
+    "content": "Bitcoin remained steady above $87,000 in Asian afternoon hours Wednesday as traders continued to monitor U.S. data releases and how the levy of U.S. tariffs will play out starting April 2, with most in wait-and-watch mode.\n\nMajors were little-changed in the past 24 hours as Solana’s SOL,\nXRP\n$2.2860\n, BNB Chain’s BNB, and ether\nETH\n$3,510.13\nrose under 3%, while memecoin\nDOGE\n$0.1656\noutperformed with a 5.5% jump.\n\nThat was the second-straight day for gains for DOGE, alongside continued bumps in pepe (PEPE) and mog (MOG), as a tendency among these tokens to act as a “beta bet” on ether’s strength showed no signs of reverting.\n\nElsewhere,\nSHIB\n$0.0₅9157\nzoomed 11%, buoyed by a rotation to riskier memes and a 228% jump in its native ShibaSwap exchange in the last 30 days. Open interest on SHIB-tracked futures has risen upward of 20% since Sunday, data shows, indicative of expectations of further volatility.\n\nConcerns about a U.S. economic slowdown remain, however, while a rapid unwinding of momentum trades in equities has led to money managers retreating to full defensive mode, some day.\n\n“We expect markets to continue their soft rebound from last week into month-end, with the next major catalyst being the 'liberation day' reciprocal tariff announcement from Trump scheduled for April 2nd,” Augustine Fan, Head of Insights at SignalPlus, told CoinDesk in a Telegram message. “Rumors of a softer tariff response will go a long way to recover some of the recent technical damage in US stocks, helping to spark a global rally along with the recent jump in EU/China stocks.”\n\n“Crypto will remain a close proxy of equities in the foreseeable future as we don't see a unique catalyst in the meantime, though the recent M&A announcements with Coinbase/Kraken give us faith that the long-term bull market remains alive and well,” Fan added.\n\nMeanwhile, traders at QCP Capital said in a Tuesday broadcast that the upcoming quarter and April in particular, have historically been one of the best periods for risk assets, second only to the festive December rally.\n\n“The S&P 500 has delivered an average annualized return of 19.6% in Q2, while Bitcoin has also recorded its second-best median performance during this stretch - again, trailing only Q4, QCP said, pointing out caution among options traders.\n\n“Options markets remain cautious. Call skew hasn’t meaningfully shifted toward calls, with call skew only emerging from June onwards, suggesting traders are waiting to see how the tariff situation develops,” they said, adding that attention is turning to the Personal Consumption Expenditure (PCE) data, which could become the “next key catalyst.”\n\nThe PCE index captures inflation (or deflation) across a wide range of consumer expenses and reflects changes in consumer behavior.\n\nReleased monthly, the PCE is said to influence Fed interest rate decisions. High PCE readings signal rising inflation, potentially prompting rate hikes to cool the economy, which can reduce risk appetite and pressure bitcoin prices downward as investors favor safer assets. Conversely, low PCE data suggests tame inflation, possibly leading to rate cuts or steady policy, boosting liquidity and supporting Bitcoin’s price as a speculative asset or inflation hedge.\n\nThe next release is on March 28 and could sway market sentiment, with bitcoin’s reaction tied to how the data shapes Fed expectations — volatility often follows as traders adjust positions.",
+    "url": "https://www.coindesk.com/markets/2025/03/26/bitcoin-hovers-above-usd87k-dogecoin-shib-surge-11-as-traders-monitor-tariffs",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Augustine Fan",
+                "Trump"
+            ],
+            "positions": [
+                "Head of Insights"
+            ],
+            "companies": [
+                "Coinbase",
+                "Kraken",
+                "QCP Capital",
+                "SignalPlus",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Fed"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "DOGE",
+            "Dogecoin",
+            "SOL",
+            "Solana",
+            "XRP",
+            "BNB",
+            "BNB Chain",
+            "ether",
+            "ETH",
+            "memecoin",
+            "PEPE",
+            "pepe",
+            "MOG",
+            "mog",
+            "SHIB"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes traders in wait-and-watch mode with mixed signals including some meme coin gains but overall cautious market sentiment due to upcoming tariff announcements and economic data."
+    }
+}

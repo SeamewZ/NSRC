@@ -1,0 +1,36 @@
+{
+    "title": "Dubai Government-Owned Bank Emirates NBD Offers Crypto Trading Through Liv X App",
+    "summary": "Liv is offering its crypto service using infrastructure operated by Aquanow, a digital asset platform licensed by Dubai's VARA",
+    "time": "2025-03-06T10:43:00",
+    "author": "Jamie Crawley",
+    "content": "Emirates NBD, the bank owned by the government of Dubai, is starting to offer crypto trading through its digital banking subsidiary Liv.\n\nLiv is allowing customers to buy and sell cryptocurrencies in its new app Liv X, according to an emailed announcement on Thursday.\n\nDubai has been establishing itself as a crypto hub over a number of years, offering reasonably clear rules for firms to obtain licensing. This has seen major exchanges such as Binance, Crypto.com and OKX win approvals.\n\nAgainst this backdrop, the Dubai government's own bank has made the move to offer crypto trading.\n\nLiv is offering its crypto service using infrastructure operated by Aquanow, a digital asset platform licensed by Dubai's Virtual Assets Regulatory Authority (VARA).\n\nStandard Chartered-backed Zodia is providing custody services for Liv's new offering.\n\nRead More: Dubai Approves Circle's Stablecoins USDC and EURC for Use in DIFC",
+    "url": "https://www.coindesk.com/policy/2025/03/05/dubai-government-owned-bank-emirates-nbd-offers-crypto-trading-through-liv-x-app",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Emirates NBD",
+                "Liv",
+                "Aquanow",
+                "Binance",
+                "Crypto.com",
+                "OKX",
+                "Standard Chartered",
+                "Zodia",
+                "Circle"
+            ],
+            "organizations": [
+                "Dubai government",
+                "VARA",
+                "DIFC"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "EURC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "A major government-owned bank entering crypto trading through regulated infrastructure signals institutional adoption and regulatory acceptance, which typically boosts market confidence."
+    }
+}

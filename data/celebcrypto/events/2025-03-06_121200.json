@@ -1,0 +1,27 @@
+{
+    "title": "Tether Freezes $28M USDT on Russian Crypto Exchange Garantex",
+    "summary": "\"Tether has entered the war against the Russian crypto market and blocked our wallets worth over 2.5 billion rubles,\" Garantex said.",
+    "time": "2025-03-06T12:12:00",
+    "author": "Jamie Crawley",
+    "content": "Stablecoin issuer Tether has frozen $28 million worth of USDT on Russian crypto exchange Garantex.\n\nGarantex, which has been sanctioned by the European Union for links to the Russian government and criminal organizations, has suspended all its services temporarily, the exchange announced on Telegram on Thursday.\n\n\"Tether has entered the war against the Russian crypto market and blocked our wallets worth over 2.5 billion rubles,\" Garantex said.\n\n\"Please note that all USDT held in Russian wallets is now under threat. As always, we are the first, but not the last,\" it added.",
+    "url": "https://www.coindesk.com/policy/2025/03/06/tether-freezes-usd28m-usdt-on-russian-crypto-exchange-garantex",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Tether",
+                "Garantex"
+            ],
+            "organizations": [
+                "European Union",
+                "Russian government"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The freezing of $28M USDT on a major Russian exchange and warnings about threats to Russian-held USDT indicate regulatory pressure and potential market disruption."
+    }
+}

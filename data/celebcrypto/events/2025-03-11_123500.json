@@ -1,0 +1,25 @@
+{
+    "title": "Ethereum’s Holesky Hits Finality After 2 Weeks as Pectra Testing Continues",
+    "summary": "The Pectra upgrade went live Feb. 24, but finality was delayed due to a configuration bug in the client software.",
+    "time": "2025-03-11T12:35:00",
+    "author": "Shaurya Malwa",
+    "content": "Ethereum’s Holesky testnet finally reached finality on Monday, nearly two weeks after the Pectra upgrade went live.\n\nEpoch 119,090 sealed the deal at around 19:00 UTC, with over two-thirds of validators validating the network. An epoch is a period of time when a specific number of blocks is completed on the blockchain.\n\nFinality, which locks transactions irreversibly within two epochs, or about 13 minutes, had been absent since Feb. 24 due to a configuration bug in the client software, not the Pectra upgrade itself.\n\nRestoration efforts over the past weeks enabled this recovery. Developers are now stabilizing nodes and pruning old states to fully revive the testnet for Pectra testing.\n\nThe Sepolia testnet, also running Pectra, achieved finality but later faced empty blocks from a flawed deposit contract. An attacker exploited this by sending zero-token transfers, Ethereum developers noted, an issue later resolved by client teams.\n\nThe Pectra upgrade introduces key enhancements such as gas payments in non-ETH tokens, account abstraction, and higher staking limits.",
+    "url": "https://www.coindesk.com/tech/2025/03/11/ethereum-s-holesky-hits-finality-after-2-weeks-as-pectra-testing-continues",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": [
+                "Ethereum developers",
+                "client teams"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes technical issues being resolved on a testnet with no direct market price implications mentioned."
+    }
+}

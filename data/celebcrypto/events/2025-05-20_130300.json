@@ -1,0 +1,42 @@
+{
+    "title": "Government-Backed Funds Expanding MSTR Holdings Show Rising BTC Demand: Standard Chartered",
+    "summary": "Holdings of the stock by government bodies reflects a desire to gain bitcoin exposure where in some cases local regulators do not allow direct ownership, the report said.",
+    "time": "2025-05-20T13:03:00",
+    "author": "Will Canny",
+    "content": "Government entities increased their holdings of Strategy (MSTR), a bitcoin\nBTC\n$101,731.44\nproxy, in the first quarter according to new data from the U.S. Securities and Exchange Commission (SEC), investment bank Standard Chartered (STAN) said in a research report on Tuesday.\n\nIn some cases \"MSTR holdings by government entities reflect a desire to gain bitcoin exposure where local regulators do not allow direct BTC holdings,\" wrote Geoff Kendrick, head of digital assets research at Standard Chartered.\n\nStrategy, which pioneered the bitcoin treasury model where corporates hold the crypto on their balance sheet as a reserve asset, currently holds 576,230 BTC worth around $59 billion at current market prices.\n\nThe bank noted that both Norway's Government Pension Fund and the Swiss National Bank (SNB) increased their Strategy holdings by the equivalent of 700 bitcoin in the first quarter.\n\nThe South Korean National Pension Service and the Korea Investment Corporation expanded their holdings by a combined 700 BTC equivalent, the report said.\n\nU.S. state retirement funds, including California, New York and North Carolina, together added to their holdings the equivalent of 1,000 bitcoin, the bank said.\n\nAP Funds in Sweden and Landesbank in Liechtenstein grew their MSTR holdings marginally, the bank noted.\n\nFrance's Caisse des Dépôts et Consignations (CDC) and the Saudi Central Bank both added a small position in MSTR for the first time, Standard Chartered said.\n\nBitcoin exchange-traded fund (ETF) direct holding data was \"disappointing\" overall in the first quarter, the report added.\n\nThe bank said the most recent 13F data supports its central thesis that bitcoin will reach $500,000 before President Trump leaves office as the cryptocurrency attracts a wider range of institutional buyers.\n\nRead more: Strategy Expands Bitcoin Holdings With Latest Multi-Million Dollar Purchase",
+    "url": "https://www.coindesk.com/markets/2025/05/20/widening-government-strategy-holdings-suggest-increased-structural-demand-for-btc-stanchart",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Geoff Kendrick"
+            ],
+            "positions": [
+                "head of digital assets research at Standard Chartered"
+            ],
+            "companies": [
+                "Strategy (MSTR)",
+                "Standard Chartered (STAN)",
+                "Landesbank"
+            ],
+            "organizations": [
+                "U.S. Securities and Exchange Commission (SEC)",
+                "Norway's Government Pension Fund",
+                "Swiss National Bank (SNB)",
+                "South Korean National Pension Service",
+                "Korea Investment Corporation",
+                "California state retirement fund",
+                "New York state retirement fund",
+                "North Carolina state retirement fund",
+                "AP Funds in Sweden",
+                "France's Caisse des Dépôts et Consignations (CDC)",
+                "Saudi Central Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news reports multiple government entities and institutional investors increasing their bitcoin exposure through MSTR holdings, indicating rising institutional demand and market confidence."
+    }
+}

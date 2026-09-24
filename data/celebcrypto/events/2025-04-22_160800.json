@@ -1,0 +1,24 @@
+{
+    "title": "Arch Labs Raises $13M in Funding for Bitcoin-Based Smart Contracts",
+    "time": "2025-04-22T16:08:00",
+    "author": "Jamie Crawley",
+    "summary": "The funding round, which valued Arch Labs at $200 million, was led by Pantera Capital.",
+    "content": "Bitcoin decentralized finance (DeFi) developer Arch Labs raised $13 million in funding toward building \"ArchVM,\" which the developers say will provide smart-contract functionality on the original blockchain.\n\nThe funding round, which valued the company at $200 million, was led by Pantera Capital, according to an announcement on Tuesday.\n\nArch's plans to enable decentralized applications and protocols natively on Bitcoin.\n\nArchVM will handle off-chain computations to enable \"Turing-complete smart contracts at the Bitcoin base layer\" and provide Solana-like transaction speeds, Arch Labs said in the announcement.\n\nThe goal of introducing smart contracts to Bitcoin began to gather steam in October with the release of the BitVM computing language.\n\nNumerous projects are now using BitVM as the basis for bringing smart contracts to Bitvcoin via layer-2 networks or bridges. Arch's aim is to avoid the need to bridge assets to layer-2s, which could present additional risks.",
+    "url": "https://www.coindesk.com/business/2025/04/22/arch-labs-raises-13m-in-funding-for-bitcoin-based-smart-contracts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Arch Labs",
+                "Pantera Capital"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The $13 million funding round led by Pantera Capital at a $200 million valuation demonstrates strong investor confidence in Bitcoin's DeFi ecosystem and smart contract development."
+    }
+}

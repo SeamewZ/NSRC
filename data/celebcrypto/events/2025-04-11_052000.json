@@ -1,0 +1,35 @@
+{
+    "title": "Ripple and SEC File Joint Motion to Pause Appeals",
+    "summary": "The filing signals a possible end to a high-profile dispute that has gripped the payments upstart industry since December 2020 for its sale of XRP tokens.",
+    "time": "2025-04-11T05:20:00",
+    "author": "Shaurya Malwa",
+    "content": "Ripple Labs and the U.S. Securities and Exchange Commission (SEC) have jointly requested a pause in their respective appeals to finalize a potential settlement, per a motion filed on Thursday.\n\nThe filing signals a possible end to a high-profile dispute that has gripped the payments upstart industry since December 2020 for its sale of XRP tokens, which the SEC alleged were unregistered securities.\n\nThe case has been a focal point for debates over the regulatory status of cryptocurrencies in the United States, with Ripple arguing that XRP is a currency, not a security, and thus outside the SEC’s jurisdiction.\n\nRipple and the SEC have reached an “agreement in principle” to resolve all outstanding issues, per a post shared by attorney James Filan.\n\nThis includes not only the SEC’s appeal of the district court’s final judgment but also Ripple’s cross-appeal and the claims against Ripple founders Brad Garlinghouse and Chris Larsen.\n\nThe motion requests that the court hold the appeals process in abeyance — effectively pausing it — while the parties hammer out the final terms of the settlement, which still requires formal approval from the SEC’s commissioners.\n\nThis follows a similar request from the SEC and Gemini in early April, where the two parties requested the court approve a two-month pause to finalize a deal to close their long-running legal dispute over Gemini's Earn program.",
+    "url": "https://www.coindesk.com/policy/2025/04/11/ripple-and-sec-file-joint-motion-to-pause-appeals",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Filan",
+                "Brad Garlinghouse",
+                "Chris Larsen"
+            ],
+            "positions": [
+                "attorney",
+                "founders"
+            ],
+            "companies": [
+                "Ripple Labs",
+                "Ripple",
+                "Gemini"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The joint motion to pause appeals and reach a settlement signals a potential resolution to a major regulatory dispute that has been negatively impacting the cryptocurrency industry since 2020."
+    }
+}

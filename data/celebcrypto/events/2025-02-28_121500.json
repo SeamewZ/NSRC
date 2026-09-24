@@ -1,0 +1,47 @@
+{
+    "title": "Crypto Daybook Americas: Bitcoin Meltdown Worsens as Macro Jitters Overshadow Positives",
+    "time": "2025-02-28T12:15:00",
+    "author": "Omkar Godbole",
+    "summary": "Your day-ahead look for Feb. 28, 2025",
+    "content": "By Omkar Godbole (All times ET unless indicated otherwise)\n\nIt's the dip that keeps on dipping. Bitcoin took another hit early Friday, falling below $80,000 and taking February's decline to over 20%. That spurred a bloodbath in the broader crypto market, with ether sliding below $2,100, a level it managed to hold since August.\n\nIt's not just crypto. Increased volatility in cryptocurrencies mirrors trends in traditional markets. Compare the 10% jump in the Volmex BVIV, which tracks the 30-day implied volatility in bitcoin, with the equal increase in the MOVE index, which measures the implied volatility of U.S. Treasury notes. The VIX, Wall Street's so-called fear gauge, has risen by 14%.\n\nThese movements, coupled with a sell-off in growth-sensitive commodity currencies like the Australian, New Zealand and Canadian dollars, are indicative of jitters in the macroeconomy, primarily driven by renewed concerns over potential Trump tariffs, prompting a rotation towards less volatile assets.\n\n\"U.S. domestic policies have become unstable, and the White House seems happy to take advantage of this instability,\" said Griffin Ardern, head of options trading and research at crypto financial platform BloFin. \"Given the challenges investors face in obtaining accurate forward-looking guidance, many are more inclined to hold low-volatility assets ... Traders need to liquidate positions to reduce their exposure to specific assets before transitioning to other markets, which explains the decline across almost all asset classes, including cryptocurrencies.\"\n\nVolatility looks set to remain heightened, with President Donald Trump reportedly scheduled to speak later on Friday. In the meantime, those hoping for a significant rebound in risk assets based on personal consumption data may be disappointed because anticipated soft readings could be overshadowed by tariff concerns and rising forward-looking inflation metrics.\n\nWhile the outlook may seem gloomy, more positive developments could occur once the macro dust settles. Notably, this week there was progress on the regulatory front, with the SEC dropping charges against Uniswap, one of the leading decentralized exchanges, and mulling the same regarding its issues with Consensys.\n\nAs Evgeny Gaevoy, CEO of leading market maker Wintermute, pointed out at Consensus Hong Kong last week, many are overlooking the evolving attitude of the SEC, and this is a factor the market has yet to fully price in.\n\nPlus, the decline in the basis in the CME bitcoin and ether futures, a sign of weakening demand, has stalled and from a technical analysis perspective, bitcoin is fast closing toward a potential demand zone. So, stay alert!\n\nBy Shaurya Malwa\n\nALERT: LAZARUS LAUNDERING THROUGH THORCHAIN - MINIMUM $240M SO FAR\n\nOver $240M of ETH has been sent through Thorchain by Lazarus-tagged wallets on Arkham.\n\nThese funds have mainly been swapped for native BTC. pic.twitter.com/C1EYtj6aFw\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/02/28/crypto-daybook-americas-bitcoin-meltdown-worsens-as-macro-jitters-overshadow-positives",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Omkar Godbole",
+                "Griffin Ardern",
+                "Donald Trump",
+                "Evgeny Gaevoy",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "head of options trading and research",
+                "CEO"
+            ],
+            "companies": [
+                "BloFin",
+                "Wintermute",
+                "Thorchain",
+                "CME",
+                "SEC",
+                "Uniswap",
+                "Consensys",
+                "Farside Investors",
+                "Volmex",
+                "Arkham"
+            ],
+            "organizations": [
+                "Lazarus",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes Bitcoin falling below $80,000 with a 20% monthly decline, ether sliding below $2,100, and a broader crypto market bloodbath driven by macroeconomic jitters and risk aversion."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Costa Rica Makes First Foray Into Crypto with New Bitcoin ETF",
+    "time": "2025-02-21T16:09:00",
+    "author": "Tom Carreras",
+    "summary": "It will mark the first time that Costa Ricans will have access to any type of crypto investment product through the country's banking system.",
+    "content": "State-owned Banco Nacional (BN), the largest commercial bank in Costa Rica and one of the biggest in Central America with over $7 billion in assets, is launching a spot bitcoin exchange-traded fund through its investment management arm, BN Fondos, according to local reports.\n\nThis marks the first time that Costa Ricans will have access to any type of crypto investment product through the country's banking system.\n\nThe firm is also launching a S&P 500 ETF alongside the bitcoin vehicle. The minimum investment amount for each fund is $100. Investments will be taken in U.S. dollars instead of Costa Rican colones.\n\n“[Costa Rican] regulation doesn’t permit investments in things that aren’t investment vehicles, and bitcoin isn’t considered an investment vehicle from a regulatory perspective, but the ETF is,” said Pablo Montes de Oca, general manager at BN Fondos.\n\nBanco Nacional serves over 2.1 million customers in Costa Rica — more than 40% of the country’s population.\n\nCosta Rica doesn’t have any formal crypto laws, but under the country’s constitution and civil code, as far as private parties are concerned, any activity that is not explicitly forbidden by the law is permitted. Costa Ricans are therefore technically allowed to trade and own cryptocurrencies based on the fact that no law prohibits it.\n\nA comprehensive crypto regulation bill called the Crypto Asset Market Law was introduced at the Legislative Assembly in 2022, but it got stuck at the commission level. The bill aimed to codify the use of cryptocurrencies for the payment of goods and services in Costa Rica, but without making any of them — not even bitcoin — legal tender.",
+    "url": "https://www.coindesk.com/markets/2025/02/21/costa-rica-makes-first-foray-into-crypto-with-new-bitcoin-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Pablo Montes de Oca"
+            ],
+            "positions": [
+                "general manager"
+            ],
+            "companies": [
+                "BN Fondos"
+            ],
+            "organizations": [
+                "Banco Nacional",
+                "Legislative Assembly",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of Costa Rica's first bitcoin ETF through the country's largest bank provides new institutional access and investment opportunities, indicating growing market adoption and confidence."
+    }
+}

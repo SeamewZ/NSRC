@@ -1,0 +1,25 @@
+{
+    "title": "Bitcoin's Lofty Max Pain Suggests Higher Spot Prices as $5B Options Expiry Approaches",
+    "time": "2025-02-26T11:39:00",
+    "author": "James Van Straten",
+    "summary": "Over $5 billion of notional value is set to expire this Friday on Deribit at 08:00 UTC.",
+    "content": "Approximately $5 billion in bitcoin\nBTC\n$103,749.01\noptions contracts are set to expire on Deribit this Friday at 08:00 UTC, adding to an already volatile crypto market.\n\nBitcoin’s prolonged consolidation had kept Deribit’s volatility index (DVOL) in a downward trend throughout 2025. However, after bitcoin’s sharp decline, DVOL spiked to 52 before retreating back below 50—signaling a temporary surge in market uncertainty.\n\nThe recent price drop below $90,000 has left a majority of options out-of-the-money (OTM) and traders facing significant unrealized losses.\n\nAn option allows the holder the right, but not the obligation, to buy or sell an underlying asset at a specific price within a certain time period.\n\nAccording to Deribit data, out of the $5 billion of notional value that is due to expire, $3.9 billion (78%) of it is due to expire out-the-money (OTM), meaning these contracts will expire worthless.\n\nAlmost 100% of calls are OTM, which are bullish bets, as the bitcoin price dropped significantly over the past few days, leaving investors with a significant amount of unrealized losses.\n\nWhile, the remaining $1.1 billion (22%), was in-the-money (ITM) with it being dominated with puts. ITM puts are investors having their strike prices above the spot price, meaning they hold value.\n\nHowever, max pain is at $98,000, that is, $10,000 higher than the current spot price. Max pain is the price at which option sellers, typically institutions, achieve maximum profit, while buyers experience the greatest amount of losses.\n\nAs the max pain price is so much higher than the spot price, this could incentivize options sellers to push bitcoin price higher closer to the pain level, according to PowerTrade.\n\n\"With the end of the month approaching, bitcoin options traders should take note. Max Pain for Feb. 28 sits at $98,000, with a massive $5 billion notional value. This means the highest open interest is clustered here, incentivizing market makers to keep bitcoin close to this price. Expect increased volatility and potential price gravitation toward this level,\" PowerTrade said on X.\n\nLet's see if the so-called max pain theory holds true.",
+    "url": "https://www.coindesk.com/markets/2025/02/26/bitcoin-s-lofty-max-pain-could-push-spot-prices-higher-as-usd5b-options-expiry-approaches",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Deribit",
+                "PowerTrade"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The max pain theory suggests options sellers have incentive to push Bitcoin price higher toward $98,000 from current levels to maximize their profits."
+    }
+}

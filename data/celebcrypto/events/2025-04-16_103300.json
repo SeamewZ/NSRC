@@ -1,0 +1,24 @@
+{
+    "title": "Bitcoin Nears Capitulation as Short-Term Holders Face Deep Losses",
+    "summary": "STH MVRV dropped to 0.82, signaling investor stress — while long-term holders quietly accumulate.",
+    "time": "2025-04-16T10:33:00",
+    "author": "James Van Straten",
+    "content": "Bitcoin’s\nBTC\n$101,998.62\non-chain metrics are flashing a key signal once again, as the short-term holder (STH) MVRV ratio fell to 0.82 — a level historically associated with market stress and capitulation, according to Glassnode data.\n\nThis metric compares the market value (current BTC price) to the realized price (average cost basis of coins held by short-term holders). A STH MVRV value below 1.0 indicates that recent buyers are, on average, underwater, holding unrealized losses. At 0.82, this means short-term holders are down roughly 18% on average, a sign that many are experiencing significant pain.\n\nThis level closely mirrors previous MVRV cycle lows: 0.84 in August 2024 and 0.77 in November 2022, both of which preceded market bottoms and trend reversals.\n\nHistorically, such deep MVRV drawdowns have marked periods where weak hands capitulate and smart money accumulates.\n\nAccording to Glassnode data, since February, long-term holders (investors holding for 155 days or more) have increased their cohort supply by approximately 500,000 BTC.\n\nIn contrast, short-term holders have distributed over 300,000 BTC, driven by a mix of profit-taking and capitulation. This imbalance indicates that long-term holders are accumulating more BTC than short-term holders are selling.",
+    "url": "https://www.coindesk.com/markets/2025/04/16/bitcoin-nears-capitulation-as-short-term-holders-face-deep-losses",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news indicates that current market stress and short-term holder capitulation historically precede market bottoms and trend reversals, with long-term holders accumulating significantly more BTC than short-term holders are selling."
+    }
+}

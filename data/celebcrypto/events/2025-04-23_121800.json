@@ -1,0 +1,37 @@
+{
+    "title": "PayPal to Pay 3.7% Annual Yield on Stablecoin PYUSD to Encourage Broader Use",
+    "summary": "The move is meant to increase adoption of PYUSD amid growing competition in the stablecoin market",
+    "time": "2025-04-23T12:18:00",
+    "author": "Francisco Rodrigues",
+    "content": "PayPal is upping the ante in the stablecoin wars as it’s set to begin offering U.S. users 3.7% annual returns on balances of its PayPal USD (PYUSD) stablecoin.\n\nThe yield, accrued daily and paid monthly in PYUSD, is designed to spur adoption by making the token more appealing and stand out among the competition, Bloomberg reported.\n\nSet to launch this summer, the program will allow users to earn rewards while keeping their stablecoins in PayPal and Venmo wallets. The stablecoin can be spent via PayPal Checkout, transferred to other users, or converted to traditional dollars.\n\n“We are halfway in a 10-year journey,” said Jose Fernandez da Ponte, PayPal’s head of blockchain and digital currencies. The aim, he added, is to build a new set of payment rails that reduce costs and improve speed. CEO Alex Chriss echoed the point, saying stablecoins offer a chance to reshape the economics of the payment landscape.\n\nLaunched in 2023, PYUSD is issued by Paxos Trust and backed by reserves like U.S. Treasuries. Despite PayPal’s brand recognition, PYUSD’s market share remains small — about $868 million — compared to market leader Tether’s $143 billion USDT, according to RWA.xyz data.\n\nThe move is also part of PayPal’s ongoing cryptocurrency push. Earlier this month, the firm added chainlink\nLINK\n$14.92\nand solana\nSOL\n$158.01\nto its growing list of supported cryptocurrencies.",
+    "url": "https://www.coindesk.com/markets/2025/04/23/paypal-to-pay-3-7-annual-yield-on-stablecoin-pyusd-to-encourage-broader-use",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jose Fernandez da Ponte",
+                "Alex Chriss"
+            ],
+            "positions": [
+                "PayPal's head of blockchain and digital currencies",
+                "CEO"
+            ],
+            "companies": [
+                "PayPal",
+                "Venmo",
+                "Paxos Trust"
+            ],
+            "organizations": [
+                "Bloomberg",
+                "RWA.xyz"
+            ]
+        },
+        "cryptocurrencies": [
+            "PYUSD",
+            "USDT",
+            "LINK",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes PayPal offering attractive yields to encourage PYUSD adoption and expanding cryptocurrency support, which signals growing institutional involvement and positive market development."
+    }
+}

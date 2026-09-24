@@ -1,0 +1,31 @@
+{
+    "title": "Tesla Marked Up Bitcoin Holdings Valuation in Q4, Booking a $600M Gain",
+    "time": "2025-01-29T21:35:00",
+    "author": "James Van Straten",
+    "summary": "New FASB rules allow for corporate bitcoin owners to mark those assets to market.",
+    "content": "Elon Musk's Tesla (TSLA) appeared to take advantage of a new accounting rule allowing for holdings of digital assets to be marked-to-market each quarter.\n\nThe company's fourth quarter earnings report shows its 9,720 bitcoin valued at $1.076 billion as of the end of 2024. That's up from what had been $184 million for several quarters prior. Alongside that change, Tesla also recorded a GAAP income boost of $600 million on its digital holdings. For perspective, the company had overall GAAP income of $2.3 billion in the fourth quarter.\n\nA new rule from the Financial Accounting Standards Board (FASB) requires corporate holders of digital assets to begin marking those assets to market each quarter, no later than the first quarter of 2025. Companies could take advantage of the new rule prior to that at their own discretion, which Tesla has appeared to do.\n\nPrior to this new rule, corporate holders of digital assets were required to report those holdings at what was their lowest valuation during the time of ownership.\n\nTesla overall reported adjusted EPS of $0.73 in the fourth quarter, missing estimates for $0.76. The gain on its bitcoin holdings was for GAAP purposes and would have had no effect on adjusted EPS. Shares are higher by 3.5% in after hours trading.\n\nTesla holds 9,720 BTC, according to Bitcoin Treasuries, making it the sixth largest publicly traded company to hold bitcoin on its balance sheet.",
+    "url": "https://www.coindesk.com/markets/2025/01/29/tesla-marked-up-bitcoin-holdings-valuation-in-q4-booking-a-usd600m-gain",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk"
+            ],
+            "positions": [],
+            "companies": [
+                "Tesla",
+                "TSLA"
+            ],
+            "organizations": [
+                "Financial Accounting Standards Board",
+                "FASB",
+                "Bitcoin Treasuries"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Tesla's $600 million gain from marking up its bitcoin holdings and the new FASB accounting rules allowing corporate bitcoin valuation increases signal institutional confidence and positive market impact."
+    }
+}

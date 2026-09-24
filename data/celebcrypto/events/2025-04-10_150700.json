@@ -1,0 +1,41 @@
+{
+    "title": "Cardano’s Hoskinson Sees Bitcoin Touching $250K, Tech Giants Adopting Stablecoins",
+    "summary": "“You’ll have a lot of fast, cheap money, and then it’ll pour into crypto,” he said in a recent interview.",
+    "time": "2025-04-10T15:07:00",
+    "author": "Shaurya Malwa",
+    "content": "Bitcoin (BTC), currently around $81,000, could soar as high as $250,000 as early as this year with tech giants like Microsoft (MSFT) and Apple(AAPL) entering the crypto arena, according to Charles Hoskinson, the founder of the Cardano blockchain.\n\nHoskinson's comment echoes the sentiments of investors including Fundstrat’s Tom Lee and venture capitalist Tim Draper as well as financial giant Standard Chartered, who have mentioned that level as a target for the world’s biggest cryptocurrency in past years.\n\nIn an interview with CNBC, Hoskinson expressed optimism about bitcoin’s future despite recent market turbulence triggered by President Donald Trump’s reciprocal tariffs policy, saying he believed the asset could rise that high “by the end of this year or next year” as tariff concerns fizzle out and Federal Reserve activity influences the market.\n\n“The markets will stabilize a little bit, and they’ll get used to the new normal, and then the Fed will lower interest rates, and then you’ll have a lot of fast, cheap money, and then it’ll pour into crypto,” he said.\n\nThe crypto market has faced a sell-off alongside other risk assets in recent weeks, with bitcoin dipping below $77,000 in recent day. It spiked above $82,000 late Wednesday after Trump reduced tariffs to 10% for 90 days for most countries, allowing time for trade negotiations.\n\nStill, bitcoin remains some 25% below its record high of over $109,000, reached in January.\n\nHoskinson pointed to the growing adoption of cryptocurrencies, with Crypto.com reporting a 13% year-on-year increase in 2024 and a shifting geopolitical landscape as factors that could bump bitcoin prices.\n\n“If Russia wants to invade Ukraine, it invades Ukraine. If China wants to invade Taiwan, it’s going to do that. So treaties don’t really work so well, and global business doesn’t really work so well there. So your only option for globalization is crypto,” he said.\n\nAdditionally, Hoskinson predicted that forthcoming U.S. legislation, including a stablecoin bill and the Digital Asset Market Structure and Investor Protection Act, would bolster the crypto industry.\n\nThese bills, currently progressing through Congress, aim to clarify the regulatory framework for digital assets. Stablecoins, or tokens pegged to fiat currencies, such as U.S. dollars, could see widespread adoption by the “Magnificent 7” tech giants, such as Apple, Microsoft and Amazon (AMZN), Hoskinson said.\n\nAs such, Hoskinson forecasts a temporary lull in the market for the next three to five months, followed by a surge of speculative interest around August or September. “That’ll carry through probably another six to 12 months,” he said.",
+    "url": "https://www.coindesk.com/markets/2025/04/10/cardano-s-hoskinson-sees-bitcoin-touching-usd250k-tech-giants-adopting-stablecoins",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Charles Hoskinson",
+                "Tom Lee",
+                "Tim Draper",
+                "Donald Trump"
+            ],
+            "positions": [
+                "founder"
+            ],
+            "companies": [
+                "Microsoft",
+                "Apple",
+                "Amazon",
+                "Crypto.com"
+            ],
+            "organizations": [
+                "Cardano",
+                "Fundstrat",
+                "Standard Chartered",
+                "Federal Reserve",
+                "CNBC",
+                "Congress"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news quotes Charles Hoskinson predicting Bitcoin could reach $250,000, discusses tech giants adopting stablecoins, and expresses optimism about market stabilization and price surges."
+    }
+}

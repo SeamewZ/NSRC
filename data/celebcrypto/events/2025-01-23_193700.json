@@ -1,0 +1,41 @@
+{
+    "title": "Anvil Launches DeFi Protocol for Letters of Credit",
+    "time": "2025-01-23T19:37:00",
+    "author": "Benjamin Schiller",
+    "summary": "Founder Tyler Spalding sees the Ethereum-based smart contract project as a step towards creating a new form of money for payments, loans and counterparty credit in DeFi.",
+    "content": "Payments remain the big unsolved use case of the internet. When we buy something online, we generally use a traditional payment method, like a credit card, which isn’t “native” to the experience. Your ability to transact with a merchant is verified by a third-party (like a bank), which raises costs and adds a lot of inconvenience for buyers and sellers.\n\nDespite the huge growth of commerce online in the last three decades, most transactions occur outside of the browser. Marc Andreessen, who created Netscape, has referred to this as the internet’s “original sin.” “One would think it was the most obvious thing to do to build into the browser the ability to spend money, but you may have noticed that didn’t happen,” he said in 2019. “I think the original sin was that we couldn’t actually build economics, which is to say money, at the core of the internet.”\n\nThis matters because the cost is massive and borne by all of us. Economists have calculated the total cost of retail payments in the United States at as much as 2% of GDP, which is almost as much as the U.S. defense budget. Merchants frequently cite the cost of processing credit cards as some of their highest operating expenses, which is why many will ask you to pay additional charges to use a card in a store, or place a minimum on the amount one should spend. The United States, for all its ingenuity, has some of the highest social cost of payments in the developed world, numerous studies show.\n\nWe tend to forget that bitcoin was first proposed by Satoshi Nakamoto as a “peer-to-peer electronic cash system” because a lot of crypto today isn’t focused on this use case. But maybe the next iteration of crypto development will help fix that.\n\nThat’s certainly the hope of Tyler Spalding, the founder of Anvil, a new decentralized finance (DeFi) protocol that reconceptualizes credit, which is the basis of all monetary systems.\n\nAnvil is a system of Ethereum smart contracts that manages collateral and secures credit. It lets individuals and companies create letters of credit (LOCs) in lieu of traditional forms of money. You use it by locking up ether or USDC in the Anvil vault and receive an LOC for the specified amount. In effect, the system is a lot like a bank check that’s cashed against your account, except there’s no paper, delays or worries about whether the money will clear.\n\nSpalding sees Anvil as a new form of money collateralized with crypto. “By issuing transparent and generalizable credit, Anvil provides sustainable liquidity — essentially creating trusted money for the global economic system,” he said. “Permissionless decentralized technologies can transform how collateral is managed by making the process more secure and more transparent.”\n\nAt the protocol level, there are no fees to transact with Anvil, Spalding said, and the technology is open-source. It’s community owned with 60% of the governance token distribution to partners and users, who can vote on operational matters. Spalding, who previously co-founded Flexa, a blockchain-based payments network, sees use cases for Anvil in traditional loans, DeFi counterparty credit (for exchanges or liquidity providers), asset bridging and payments. Three partners have indicated they want to build services using the protocol: Amdax, a digital asset trading and custody provider; Empowermint, which provides retail cash loans; and Flexa, which is using the protocol for asset collateralization against payments on its network. Because Anvil is open-source, these partners use the protocol freely, building their own services.\n\nAnvil has no investors. The protocol was bootstrapped by Spalding and his collaborators over two years of development. Its systems were audited by Open Zeppelin and Trail of Bits, and Immunefi organized two bug bounty programs to find flaws needing to be fixed. Spalding feels comfortable that the system is safe for its ambitious aim of disintermediating banks from the payments and traditional credit-issuing process.\n\n“We’ve been doing it a long time. We love this stuff,” Spalding said of his goal of bringing native payments to the internet and atoning for Andreessen’s original sin. “We want to get other people to get to use this. It’s a real-world use case. That’s the only thing that matters to me.”",
+    "url": "https://www.coindesk.com/business/2025/01/23/anvil-launches-defi-protocol-for-letters-of-credit",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Tyler Spalding",
+                "Marc Andreessen",
+                "Satoshi Nakamoto"
+            ],
+            "positions": [
+                "founder",
+                "co-founder"
+            ],
+            "companies": [
+                "Anvil",
+                "Flexa",
+                "Amdax",
+                "Empowermint",
+                "Netscape"
+            ],
+            "organizations": [
+                "Open Zeppelin",
+                "Trail of Bits",
+                "Immunefi"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ether",
+            "USDC",
+            "bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch of Anvil's DeFi protocol represents innovation in crypto payments and credit systems, with multiple partners adopting the technology and the founder expressing confidence in transforming traditional financial processes."
+    }
+}

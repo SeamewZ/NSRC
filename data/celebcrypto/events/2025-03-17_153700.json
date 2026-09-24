@@ -1,0 +1,37 @@
+{
+    "title": "Developer Consensus May Be Converging on a Bitcoin Soft Fork Proposal: Blockspace",
+    "summary": "For the first time in more than four years, Bitcoiners are moving forward with changes to the project's underlying software, Blockspace writes.",
+    "time": "2025-03-17T15:37:00",
+    "author": "Colin Harper, Blockspace Media",
+    "content": "Grassroots support for two bitcoin improvement proposals (BIP) appears to be emerging for Bitcoin’s next soft fork, centered around two candidates: BIPs 119 and 348.\n\nBIPs are the formal method for discussion of proposed changes to Bitcoin. Theoretically, if a BIP gains sufficient widespread support, it will be added to Bitcoin, by way of a soft fork or a routine update to Bitcoin Core. Often, these BIPs are referred to by nicknames and multiple proposals may be included in a soft fork. BIP 119 refers to OP_CHECKTEMPLATEVERIFY (CTV) while BIP 348 refers to OP_CHECKSIGFROMSTACK (CSFS).\n\nThis article first appeared on Blockspace Media, the leading Bitcoin industry publication dedicated to covering Bitcoin tech, markets, mining, and ordinals. Get Blockspace articles directly in your inbox by clicking here.\n\nBitcoin’s technical community typically debates these BIPs exhaustively. The Taproot Wizards–a Bitcoin development firm most well known for its Bitcoin NFTs–put out a helpful graphic explaining the confusing and seemingly circular process of these discussions.\n\nIn short, the Bitcoin soft fork process requires a rough estimate of support from Bitcoin’s stakeholders, including developers, custodians, investors and miners. The best proxy for this stakeholder support remains Bitcoin miners, who can flag support for an alteration to the codebase by signaling for changes in their mined blocks. Typically, Bitcoin Core asks for 95% of blocks over a period to signal for the change before locking in the update for activation.\n\nStill, there’s no definitive heuristic for defining what “widespread support” looks like, and Bitcoin consensus is a constantly evolving, moving target. Miners are useful for signalling a change only because they are a truly ‘countable’ entity on the Bitcoin network. In other words, it’s difficult to get a say of meat world consensus given Bitcoin’s decentralized structure.\n\nOver the course of February and March, we’ve registered a definite shift as numerous developers gave their explicit support for the two BIPs.\n\nOver the course of the last few weeks, numerous Western Bitcoin developers tweeted their support for CTV and CSFS – a strong signal that at least the Twitterverse is coming together in favor of certain changes to Bitcoin.\n\nCTV and CSFS allow new ways of writing Bitcoin script. Bitcoin script is Bitcoin’s lower-level programming language used for, among other things, creating and sending transactions. Proposed by former Bitcoin core contributor Jeremy Rubin, CTV has been around for more than half a decade, whereas CSFS was only formalized in November 2024 by Jeremy Rubin and Brandon Black.\n\nThese two BIPs would enable “covenants” on Bitcoin. A covenant simply restricts the way a wallet can spend bitcoin in future transactions. Covenants are generally expected to significantly improve the landscape for Bitcoin self-custody, fee management, and enhance existing Bitcoin tech like Lightning, Ark, and contract-based applications.\n\nAdditionally, developers consider these two proposals to be “narrowly defined.” In layman's terms, this means, if they are activated, there is a low probability of users exploiting them for something unexpected. The Bitcoin developer community tends to cautiously deliberate any changes to Bitcoin. For example, even though BIP 119 has remained unchanged for nearly half a decade, there was once a time not long ago when CTV was considered far too aggressive for activation.\n\nYou may remember that Rubin’s previous campaign for CTV received strong pushback – notably from Bitcoiners with large followings, including Adam Back and Jimmy Song. The criticisms evolved into significant pushback from many in the bitcoin community, finally leading to Rubin taking a step back from Bitcoin all together.\n\nSo what changed? Recent advocacy for the OP_CAT opcode (BIP 347) seems to have widened the Overton Window of acceptable Bitcoin proposals, framing CTV & CSFS as the comparatively “conservative” options. It’s important to note that most OP_CAT supporters are also in favor of BIPs 119 and 348 (and most proposals in general).\n\nWhat can we expect next? For one, more conversation. Developers are expected to gather at a few technical conferences such as OPNEXT in April, BTC++ in July and TABConf in October. Once developers begin to form rough consensus, then the actual activation of the soft fork moves to the miners, community and investors.\n\nHowever, there isn’t a formalized process for “how to soft fork Bitcoin.” So we’re left with a lot of open questions. For example, will a potential soft fork include just CTV and CSFS? Will OP_CAT – which is often included in this opcode suite – join the conversation? How will an actual soft fork activation happen? And will other stakeholders like Bitcoin miners take note?\n\nOnly one thing is clear: you’re going to have to get comfortable with lots of abbreviations.",
+    "url": "https://www.coindesk.com/tech/2025/03/17/developer-consensus-may-be-converging-on-a-bitcoin-soft-fork-proposal-blockspace",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jeremy Rubin",
+                "Brandon Black",
+                "Adam Back",
+                "Jimmy Song"
+            ],
+            "positions": [
+                "former Bitcoin core contributor"
+            ],
+            "companies": [
+                "Taproot Wizards",
+                "Blockspace Media"
+            ],
+            "organizations": [
+                "Bitcoin Core",
+                "OPNEXT",
+                "BTC++",
+                "TABConf"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes growing developer consensus for Bitcoin soft fork proposals that would enhance Bitcoin's capabilities for self-custody, fee management, and applications like Lightning, indicating positive technical development and potential network improvements."
+    }
+}

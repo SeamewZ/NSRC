@@ -1,0 +1,33 @@
+{
+    "title": "U.S.-Sanctioned Countries Such as Iran Leaning Heavily Into Crypto: Chainalysis",
+    "summary": "A new report from the analytics firm says that sanctioned jurisdictions and groups were responsible for 39% of illicit crypto transactions last year.",
+    "time": "2025-02-19T13:00:00",
+    "author": "Jesse Hamilton",
+    "content": "Countries targeted by U.S. government sanctions have surged in illicit crypto activity, receiving nearly $16 billion in digital assets last year — about 39% of illicit token transactions — according to a report from Chainalysis released on Wednesday.\n\n2024 was a year in which those nations — especially Iran — surged over individuals in sanctions-related activity, noted the report from the crypto-analytics firm.\n\n\"As Western restrictions tighten, sanctioned nations are turning to cryptocurrencies and alternative financial systems to sustain trade and access capital,\" according to the report, which cited Russian and Iranian financial transactions with trade partners such as China and India, using payment mechanisms that don't rely on U.S. dollars.\n\n\"While cryptocurrency use in sanctioned jurisdictions may be associated with illicit state-controlled finance, it also represents an important financial lifeline for ordinary citizens facing economic hardship under restrictive regimes,\" the report said.\n\nThe U.S. Treasury's Office of Foreign Assets Control, or OFAC, is the government arm that sets sanctions, and last year it issued 13 that included crypto addresses. That was down from the previous year, but still high. Now that President Donald Trump has taken over the executive branch and installed Scott Bessent atop the Treasury, the pro-crypto administration may take a different approach to digital assets.\n\nCrypto-mixing platform Tornado Cash had been famously targeted by U.S. authorities in 2023, but the popular service was still able to handle hundreds of millions of dollars in crypto transactions a month in 2024, the report said, though it hasn't returned to its pre-sanction level.\n\nSuch services are criticized for their use in the laundering of stolen funds or in evading sanctions, and they're difficult to shutter because they operate via smart contracts on a decentralized blockchain. Users pushing stolen funds accounted for an increase in Tornado Cash's usage in 2024, amounting to more than 24% of its total inflows, according to Chainalysis.\n\nTornado Cash has come to represent the industry's legal fight with the U.S. government over user anonymity and whether developers should be liable for what they create, and a U.S. federal appeals court rejected the original sanctions in November.\n\nChainalysis devoted close attention to Iran in its latest report.\n\n\"Iran’s government maintains extensive control over the country’s financial system, including cryptocurrency infrastructure,\" the document noted. \"For many Iranians, cryptocurrency represents an alternative financial system, and the increasing use of Iranian crypto exchanges suggests that more individuals and institutions are resorting to crypto to safeguard wealth and circumvent financial restrictions.\"\n\nRead More: U.S. Senate's Warren Warns National Security Chiefs About Iranian Crypto Mining",
+    "url": "https://www.coindesk.com/policy/2025/02/19/u-s-sanctioned-countries-such-as-iran-leaning-heavily-into-crypto-chainalysis",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Scott Bessent"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Chainalysis",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "U.S. Treasury's Office of Foreign Assets Control",
+                "OFAC",
+                "U.S. government",
+                "U.S. federal appeals court",
+                "U.S. Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The report highlights that sanctioned jurisdictions and groups were responsible for 39% of illicit crypto transactions last year, with increasing use of crypto for sanctions evasion and money laundering."
+    }
+}

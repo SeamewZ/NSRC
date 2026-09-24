@@ -1,0 +1,36 @@
+{
+    "title": "PayPal Crypto Head Says Banks Are Needed to Unlock Full Stablecoin Potential",
+    "time": "2025-05-15T19:38:00",
+    "author": "Krisztian Sandor",
+    "summary": "At Consensus 2025, leaders from PayPal and MoneyGram pointed to regulation, real-world utility and trust as keys to stablecoin growth.",
+    "content": "Banks need to be part of crypto for stablecoins to succeed—that was the message from Jose Fernandez da Ponte, PayPal’s senior vice president of digital currencies, during a panel discussion at Consensus 2025 in Toronto.\n\n\"It might sound counterintuitive, but you do want the banks in this space,\" Fernandez da Ponte said, adding that their infrastructure—from custody to providing fiat rails—will be essential if stablecoins are to scale beyond crypto-native circles. \"You want that connectivity and that fabric to work.\"\n\nHis remarks came amid efforts to bring regulatory clarity for digital assets in the U.S., with lawmakers inching closer to pass stablecoin legislation that could redefine the market and allow banks to enter the space.\n\nRead more: U.S. Senate's Stablecoin Push Still Alive as Bill May Return to Floor: Sources\n\n\"This is going to be a big unlock,\" said Anthony Soohoo, chairman and CEO of MoneyGram, a cross-border money transfer service. \"There’s always hesitation: Can I trust this? [The stablecoin legislation] is going to answer a lot of those questions.\"\n\nBoth executives said they expect a wave of new issuers to enter the market once regulation is in place, followed by a period of consolidation. “It’s not going to be 300 stablecoins, and it’s not going to be just two,” Fernandez da Ponte said.\n\nCurrently, Tether's USDT\nUSDT\n$1.0002\nand Circle's USDC\nUSDC\n$1.0003\ndominate the market, representing nearly 90% of the $230 billion asset class. PayPal’s PYUSD\nPYUSD\n$1.0002\n, launched in 2023, lags far behind with $900 million supply. Fernandez da Ponte pushed back on market cap as the primary metric for success. \"We look at velocity, active wallets, number of transactions,” he said. “Those are what drive real usage.\"\n\nIn countries with high inflation and volatile currencies, consumers are seeking out dollar-backed stablecoins as stores of value and tools for cross-border payments. Soohoo said MoneyGram, which operates in over 200 countries with nearly half a million cash-access locations, is helping facilitate that access.\n\n\"We see ourselves between physical finance and digital finance,\" Soohoo said. \"A lot of consumers in local economies want to hold value in dollars but still need to access it as cash to spend in places that don’t take digital currency.\"\n\nStablecoin adoption in developed countries, meanwhile, has been slower. With clear regulation in place, stablecoins can streamline corporate treasury operations and cross-border disbursement, Fernandez da Ponte noted.\n\n\"We used to have this mad rush on Friday to make sure money was in the right places before the weekend,\" he said. \"Now we’re sending money to the Philippines and Africa in ten minutes with stablecoins.\"\n\nBoth executives noted that real-world use cases, not hype, will determine if stablecoins could reach the trillion-dollar scale in the next years that's been projected.\n\n\"Consumers don’t care about stablecoins. They care about solving problems.\" Fernandez da Ponte said. \"We’re five years into a ten-year journey, and regulation will define the next half.\"",
+    "url": "https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/15/paypal-crypto-head-says-banks-are-needed-to-unlock-full-stablecoin-potential",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jose Fernandez da Ponte",
+                "Anthony Soohoo"
+            ],
+            "positions": [
+                "senior vice president of digital currencies",
+                "chairman and CEO"
+            ],
+            "companies": [
+                "PayPal",
+                "MoneyGram",
+                "Tether",
+                "Circle"
+            ],
+            "organizations": [
+                "U.S. Senate"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC",
+            "PYUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights regulatory progress, bank integration, and real-world utility that will unlock stablecoin growth and adoption."
+    }
+}

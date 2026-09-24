@@ -1,0 +1,31 @@
+{
+    "title": "Nasdaq Seeks SEC Approval to List 21Shares Dogecoin ETF",
+    "summary": "Coinbase Custody Trust will hold the fund’s tokens and serve as the official custodian for the ETF.",
+    "time": "2025-04-30T11:06:00",
+    "author": "Shaurya Malwa",
+    "content": "The Nasdaq exchange filed a 19b-4 form with the Securities and Exchange Commission (SEC) on Tuesday to approve listing and trading shares of the 21Shares Dogecoin ETF.\n\nAsset manager 21Shares submitted an S-1 registration with the SEC on April 10, as reported, in partnership with the House of Doge — the Dogecoin Foundation’s corporate arm — to help promote the fund.\n\nThe ETF aims to track the performance of dogecoin, as measured by the CF DOGE-Dollar US Settlement Price Index, adjusted for the Trust’s expenses and other liabilities.\n\nIt is a passive investment vehicle that will hold DOGE directly. The Trust will not utilize leverage, derivatives, or any similar arrangements to meet its investment objective, the filing mentioned.\n\nCoinbase Custody Trust will hold the fund’s tokens and serve as the official custodian for the ETF.\n\nThe filing comes as the SEC postponed its decision on Bitwise’s spot DOGE ETF application, extending the review period until June 15.",
+    "url": "https://www.coindesk.com/markets/2025/04/30/nasdaq-seeks-sec-approval-to-list-21shares-dogecoin-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Coinbase Custody Trust",
+                "21Shares",
+                "House of Doge"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "Securities and Exchange Commission (SEC)",
+                "Dogecoin Foundation",
+                "Bitwise"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC approval process for a Dogecoin ETF represents institutional adoption and regulatory progress, which typically boosts market confidence and prices."
+    }
+}

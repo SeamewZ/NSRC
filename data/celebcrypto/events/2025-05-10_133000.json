@@ -1,0 +1,41 @@
+{
+    "title": "State of Crypto: Mapping Out the Senate Stablecoin Bill's Next Steps",
+    "summary": "While the Senate failed to advance its stablecoin bill this week, it's not dead yet.",
+    "time": "2025-05-10T13:30:00",
+    "author": "Nikhilesh De",
+    "content": "House Republicans unveiled a discussion draft of a market structure bill but all eyes this week were on the Senate, where a largely bipartisan effort to advance stablecoin legislation ran up against a wall.\n\nPS: I'll be in Toronto next week for Consensus. In town? Come say hi.\n\nYou’re reading State of Crypto, a CoinDesk newsletter looking at the intersection of cryptocurrency and government. Click here to sign up for future editions.\n\nStablecoin and market structure bills are the two big things around crypto that Congress is expected to get to President Donald Trump's desk this year. There was a press conference by crypto and AI czar David Sacks with the chairs of the House and Senate committees. Everyone had this rough deadline of \"before the August recess.\"\n\nOf these two bills, the stablecoin legislation was supposed to be the easier lift. It's focused on just a part of the crypto sector, while the market structure bill will define how a much broader part of the industry operates and is overseen by federal regulators. And up until just over a week ago, the stablecoin bill was largely sailing through with few issues. Now — while it's still expected to become law — the timing of its passage is far less certain.\n\nFirst thing's first: No one this reporter has spoken to this week thinks the Senate's stablecoin bill — the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act — is dead. According to multiple individuals familiar with the situation, lawmakers were already back to negotiating after Thursday's failed vote, and lawmakers could vote again as soon as next week — potentially even Monday.\n\nThursday's vote failed after Democrats raised an alarm last weekend that certain provisions around national security, the soundness of the financial system and accountability, though Republicans argued that ongoing stablecoin usage requires swift passage. U.S. President Donald Trump's profiting off of stablecoins also raised alarm bells for lawmakers, senators introducing multiple bills that would prevent the President from issuing financial assets, including the \"End Crypto Corruption Act,\" which would block all members of Congress, the president, vice president, other executive branch officials and their families from \"issuing, endorsing or sponsoring crypto assets.\"\n\nOn Wednesday, one individual told CoinDesk that it appeared that a deal might be in place so that Democrats would get a vote on the End Crypto Corruption Act, either as an amendment to the GENIUS Act or as a standalone bill, ahead of the procedural vote on the GENIUS Act itself.\n\nThis ultimately did not happen, with lawmakers proceeding directly to the so-called cloture vote on Thursday; it fell 48-49.\n\nThe vote did not fail on party lines either: though no Democrats voted in favor of the bill, Republicans Josh Hawley and Rand Paul joined 46 Democrats in voting against the motion (Majority Leader John Thune initially voted in favor of the bill, but flipped in a procedural move that will let him bring the bill back for a vote later).\n\nAmong other issues was the fact that there was no bill text available at the time the vote kicked off.\n\nThe cloture vote, which would open 30 hours of debate, is likely the main piece of leverage Democrats have to try and get their priorities into the bill because it needs 60 Senators to pass. After the debate, there will be another cloture vote before the final passage vote, but it would be difficult for a lawmaker who voted to open debate to walk that back afterward, one of the individuals told CoinDesk.\n\nHaving their priorities sorted before getting to the final set of votes would also just generally provide more comfort to lawmakers, the individual said.\n\nNone of the individuals who spoke to CoinDesk expect that an actual provision blocking the U.S. President from issuing or being tied to an issuer of a stablecoin will become part of the final bill.\n\nOne of the individuals said ongoing negotiations are more focused on how foreign issuers are treated and anti-money laundering provisions.\n\nA broader concern was that a hefty delay in passing the stablecoin legislation may slow down the process for advancing the market structure bill, which will rewrite the law around how the Commodity Futures Trading Commission and Securities and Exchange Commission oversee digital assets, including how cryptocurrencies might be defined as securities. A discussion draft was introduced in the House this week.\n\nIf the Senate votes on the stablecoin bill in the next week or so, it should not hold up the other bill, two individuals told CoinDesk.\n\nTuesday\n\nThursday\n\nIf you’ve got thoughts or questions on what I should discuss next week or any other feedback you’d like to share, feel free to email me at nik@coindesk.com or find me on Bluesky @nikhileshde.bsky.social.\n\nYou can also join the group conversation on Telegram.\n\nSee ya’ll next week!",
+    "url": "https://www.coindesk.com/news-analysis/2025/05/10/state-of-crypto-mapping-out-the-senate-stablecoin-bills-next-steps",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Sacks",
+                "Donald Trump",
+                "Josh Hawley",
+                "Rand Paul",
+                "John Thune"
+            ],
+            "positions": [
+                "crypto and AI czar",
+                "Majority Leader",
+                "President",
+                "vice president"
+            ],
+            "companies": [
+                "CoinDesk"
+            ],
+            "organizations": [
+                "House Republicans",
+                "Senate",
+                "Congress",
+                "House",
+                "Democrats",
+                "Republicans",
+                "Commodity Futures Trading Commission",
+                "Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes legislative delays and political negotiations around stablecoin regulation, creating uncertainty about timing but maintaining expectation of eventual passage, indicating a neutral market impact."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Bitcoin Gives Up Gains Post New Year-Spiral, But $120K Bets Still Remain Hot",
+    "time": "2025-01-09T13:58:00",
+    "author": "Omkar Godbole",
+    "summary": "Macro jitters have pushed back BTC to where it was a week ago. Still, bullish bets in options market remain as popular as ever.",
+    "content": "The new year kicked off on a happy note with bitcoin\nBTC\n$104,111.73\nmoving towards $100,000, putting behind the weak price of December. Amid the cheer, CoinDesk warned against being too optimistic, noting the undercurrents of sellers looking to reassert themselves.\n\nA week later, BTC has pulled back to $93,000 after failing to keep gains above $100,000 on Monday, CoinDesk data show.\n\nThe latest downturn comes at a time of increased volatility in the U.S. Treasury market, where long-term yields have extended the Q4 2024 rally to hit multi-month highs due to economic data pointing to stubborn inflation in the U.S.\n\nIt is not just nominal bond yields, the real or inflation-adjusted yields are creeping up too. The yield on the 10-year U.S. inflation-indexed security has jumped to 2.29%, the highest since November 2023, according to charting platform TradingView.\n\nWhen the yield offered by fixed-income products starts to look more attractive in real terms, the incentive to invest in risk assets diminishes. It's particularly true when the uptick in the yield is driven by hawkish Fed expectations rather than economic growth.\n\nThat's precisely the case this week. With data pointing to sticky inflation, traders have pushed the timing of the next Fed rate cut to June.\n\n\"This morning's slide in the spot bitcoin price appears to be in response to higher yields in the Treasury market and the reduced likelihood of further rate cuts this year. This has impacted the short-term market outlook for crypto assets, which tend to fare better in more liquid conditions, \"Thomas Erdosi, head of product at CF Benchmarks, told CoinDesk.\n\nNote that the yield spike is not just a U.S.-centric issue. Yields are spiking across the major economies with Japan and the U.K. joining the fray. The U.K. is experiencing its highest long-end yields since 1998.\n\nAll this is impacting stocks, similar to what's happening with BTC. Major indices like the Nasdaq and the S&P 500 have also lost their New Year gains.\n\nBut here is a twist: Despite the macro uncertainties, BTC's Deribit-listed options market remains optimistic, with the dollar value of active calls tallying $14.87 billion at press time, nearly twice the value of active puts, according to data source Amberdata.\n\nA call buyer is implicitly bullish on the market while a put buyer is bearish.\n\nMoreover, the $120,000 strike call option remains the most popular, with a notional open interest of $1.47 billion. Calls at strikes $101,000 and $110,000 also boast an open interest of over $1 billion each. Meanwhile, the most popular put option at $75,000 has an open interest of $595 million.\n\nOverall, calls expiring after January continue to trade at a notable premium to puts, reflecting a bullish bias.\n\n\"We could potentially see a change in market fortunes by the end of this month. The inauguration of President Trump on Jan. 20, heralding an increased likelihood of a much more favorable regulatory environment for crypto, could be a key driver in crypto market sentiment,\" Erdosi added.",
+    "url": "https://www.coindesk.com/markets/2025/01/09/bitcoin-gives-up-gains-post-new-year-spiral-but-120-k-bets-still-remain-hot",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Thomas Erdosi",
+                "Trump"
+            ],
+            "positions": [
+                "head of product"
+            ],
+            "companies": [
+                "CoinDesk",
+                "CF Benchmarks",
+                "Deribit",
+                "Amberdata",
+                "TradingView"
+            ],
+            "organizations": [
+                "Fed",
+                "U.S. Treasury",
+                "Nasdaq",
+                "S&P 500"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "While Bitcoin has pulled back from recent highs due to macroeconomic pressures, the options market shows strong bullish sentiment with significant call volume and premium pricing."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Philippines' Largest Digital Wallet GCash Adds USDC Support",
+    "time": "2025-03-24T05:32:00",
+    "author": "Sam Reynolds",
+    "summary": "The country's largest digital wallet platform now offers support for stablecoins via USDC.",
+    "content": "GCash, the largest digital wallet in the Philippines, has announced support for stablecoins via USDC.\n\nPublicly available data shows that GCash, which is similar to China's Alipay or WeChat Pay, does over $65 billion (3.8 trillion Philippine Pesos) in annual transaction volume.\n\nFilipino remittances reached a record $38.3 billion in 2024, and account for approximately 8%-10% of the country's GDP.\n\nAlipay owner-Ant Group, Ayala Corporation and Manilla-based Globe Telecom's 917Ventures own GCash operator Mynt. GCash offers crypto services via its GCrypto subsidiary, which has partnered with locally licensed crypto exchange PDAX.\n\nIn total GCrypto offers 39 different assets to trade on its platform, including Paypal's PYUSD stablecoin. Stablecoin-based transfers are growing as a share of the market but remain relatively small, with less than 5% of all inbound remittances using crypto rails.\n\nRecently, Bloomberg reported that GCash could seek an IPO valuation of at least $8 billion by the end of 2025.\n\nThe company, reportedly, is in no rush to go public as it recently completed a funding round that raised its valuation to $5 billion, giving it enough capital and flexibility to wait for favorable market conditions.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/philippines-gcash-digital-wallet-adds-usdc-support",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "GCash",
+                "Alipay",
+                "WeChat Pay",
+                "Ant Group",
+                "Ayala Corporation",
+                "Globe Telecom",
+                "917Ventures",
+                "Mynt",
+                "GCrypto",
+                "PDAX",
+                "Paypal"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDC",
+            "PYUSD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The addition of USDC support by Philippines' largest digital wallet with $65 billion annual transaction volume expands stablecoin accessibility and adoption."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Trump's Crypto Summit Sets Agenda for U.S. Pivot",
+    "summary": "After ordering a bitcoin reserve, the president ushered crypto CEOs into the White House today to tell them their era of U.S. government resistance to crypto is over.",
+    "time": "2025-03-07T21:19:00",
+    "author": "Jesse Hamilton",
+    "content": "WASHINGTON, D.C. — President Donald Trump assured the crypto sector that it's on new ground in a first-ever summit at the White House on Friday, illustrating what the industry suspected: It's got friends at every level in Washington.\n\n\"I know that many of you have been fighting for years for this, and it's an honor to be with you at the White House,\" Trump said as the White House meeting got underway.\n\nIn his brief statement, Trump said he would end his predecessor's “war on crypto,” praised lawmakers' legislative efforts and discussed his new Bitcoin reserve.\n\n“Regulators strong armed banks. I mean, they really did – They strong armed banks into closing the accounts of crypto businesses and entrepreneurs, effectively blocking some money transfers to and from exchanges, and they weaponized government against the entire industry,” Trump said. \"But I know that feeling also maybe better than you do. All of that will soon be over and we are ending Operation Chokepoint 2.0.\"\n\nTrump said he wanted to sign stablecoin legislation before Congress breaks for the August recess.\n\n\"I also want to express my strong support for the efforts of lawmakers in Congress as they work on bills to provide regulatory certainty for dollar-backed stablecoins and the digital assets market,\" he said. \"They're working very hard on that. This is a tremendous opportunity for economic growth and innovation in our financial sector, and will really go a long way.\"\n\nReferring to his Thursday executive order creating a Bitcoin reserve, Trump said it was \"foolish\" that the federal government had already sold so much of its seized Bitcoin\n\n\"The federal government is already among the largest holders of Bitcoin, as you know, really one of the largest holders in the world, with as many as 200,000 Bitcoin obtained via civil law and various other forms of law, including enforcement actions,\" he said. \"These existing holdings will form the foundation of the new reserve.\"\n\n\"From this day on, America will follow the rule that every Bitcoiner knows very well, never sell your Bitcoin,\" he said.\n\nWide swaths of the industry were represented by the guest list, which included top executives of Coinbase, Ripple, Kraken, Gemini, Chainlink, Robinhood and many others, representing the most formal-looking crypto group since the black-tie ball celebrating Trump's election victory. Tyler and Cameron Winkelvoss of Gemini, and Sergey Nazarov of Chainlink were among those who spoke during the live-streamed portion of the summit.\n\nEarlier on Friday, a senior White House official further clarified the administration's position on its bitcoin reserve and the secondary crypto stockpile that Trump's order is meant to establish. The official said that the U.S. government has an estimated 200,000 bitcoin to start the reserve and will be conducting an audit to figure out the specific holdings, and any non-bitcoin seizures will be maintained in the other stockpile. No new money will be put into non-bitcoin assets, and any active future investments in bitcoin will have to be worked out in a way that doesn't use tax dollars, the official said.\n\nThe afternoon summit was largely meant to set a tone from the administration, which has sought to quickly put digital assets on friendlier footing than the industry experienced during the administration of former President Joe Biden.",
+    "url": "https://www.coindesk.com/policy/2025/03/07/trump-s-crypto-summit-sets-agenda-for-u-s-pivot",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Joe Biden",
+                "Tyler Winkelvoss",
+                "Cameron Winkelvoss",
+                "Sergey Nazarov"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Coinbase",
+                "Ripple",
+                "Kraken",
+                "Gemini",
+                "Chainlink",
+                "Robinhood"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. government",
+                "Congress",
+                "federal government"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major policy shift toward crypto-friendly regulations, ending regulatory resistance, establishing a Bitcoin reserve, and supporting stablecoin legislation, all indicating strong government support for the cryptocurrency market."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Crypto Daybook Americas: Trump's New Tariff Threat Fails to Budge Bitcoin",
+    "time": "2025-03-27T11:15:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Your day-ahead look for March 27, 2025",
+    "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\n\nPresident Donald Trump ramped up the trade-war hyperbole, threatening to increase import tariffs levied on the EU and Canada if they keep on working to “do economic harm” to the U.S. after announcing a 25% tariff on vehicles and foreign-made auto parts.\n\nDespite the threat, crypto markets remained stable, with bitcoin holding steady at about $87,500. Over 24 hours the largest cryptocurrency is down about 0.6% and the broader CoinDesk 20 Index some 2%.\n\nThe growing threats not only raise concerns about economic growth, but also widen the gap between the U.S. and Europe, whose leaders are meeting with Ukraine’s President Volodymyr Zelensky today to work on long-term security guarantees. The summit comes after the U.S. persuaded Ukraine and Russia to agree to a Black Sea ceasefire.\n\nCryptocurrency prices are being influenced not only by macroeconomic factors, but also by the forthcoming expiry of around $15 billion worth of BTC and ETH options contracts on Friday. The uncertainty has stalled BTC’s price rally, even after video-games retailer GameStop moved to raise $1.3 billion to accumulate the cryptocurrency.\n\nStill, the U.S. House of Representatives has released a bill that’s set to help reduce systemic risks associated with stablecoin usage. Blockchain development is also progressing steadily, with Ethereum’s final Pectra test going live on the Hoodi network.\n\nLooking ahead, the U.S. Senate Banking Committee will today hold a hearing on the nomination of Paul Atkins — who holds up to $6 million in crypto-related assets — as the Chair of the Securities and Exchange Commission. Stay alert!\n\nBy Shaurya Malwa\n\nSpot BTC ETFs:\n\nSpot ETH ETFs\n\nSource: Farside Investors",
+    "url": "https://www.coindesk.com/daybook-us/2025/03/27/crypto-daybook-americas-trump-s-new-tariff-threat-fails-to-budge-bitcoin",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Volodymyr Zelensky",
+                "Paul Atkins",
+                "Francisco Rodrigues",
+                "Shaurya Malwa"
+            ],
+            "positions": [
+                "President",
+                "Chair of the Securities and Exchange Commission"
+            ],
+            "companies": [
+                "GameStop",
+                "Farside Investors"
+            ],
+            "organizations": [
+                "EU",
+                "U.S. House of Representatives",
+                "U.S. Senate Banking Committee",
+                "Securities and Exchange Commission",
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes crypto markets as remaining stable with minor price fluctuations despite various macroeconomic and regulatory developments."
+    }
+}

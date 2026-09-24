@@ -1,0 +1,38 @@
+{
+    "title": "Crypto Bulls Lose $500M as Bitcoin Hovers Around $108K After Trump’s Tariff Threats",
+    "summary": "U.S. President Donald Trump threatened a 50% tariff on all European Union imports and a 25% levy on imported Apple iPhones late Friday, sending markets tumbling.",
+    "time": "2025-05-24T07:03:00",
+    "author": "Shaurya Malwa",
+    "content": "Bullish crypto bets lost over $500 million in the past 24 hours as traders took profits and markets slid following President Donald Trump’s fresh threats of tariffs on European imports and Apple products, sparking a wave of liquidations.\n\nBitcoin, which had been trading above $111,000, dropped quickly to around $108,600, wiping out intraday gains and rattling broader market sentiment.\n\nBTC’s drop was mirrored across the crypto complex, with futures tracking ether\nETH\n$3,331.23\n, Solana’s SOL,\nXRP\n$2.2497\nand\nDOGE\n$0.1651\nshowing losses from $30 million to over $100 million.\n\nBitcoin futures saw roughly $181 million in losses, while Ether futures accounted for nearly $142 million. Altcoins added another $100 million in liquidations, including notable wipeouts in SOL, DOGE, and XRP.\n\npic\n\nThe largest single liquidation was a $9.53 million BTC-USDT swap on OKX, CoinGlass data shows.\n\nA liquidation occurs when an exchange forcefully closes a trader's leveraged position due to the trader's inability to meet the margin requirements.\n\nLarge-scale liquidations can indicate market extremes, like panic selling or buying. A cascade of liquidations might suggest a market turning point, where a price reversal could be imminent due to an overreaction in market sentiment.\n\nThe pullback arrived just as bitcoin was gaining momentum on ETF inflows and growing institutional interest, leading some to expect a calm weekend.\n\nInstead, volatility returned in full force. With the macro environment now destabilized by renewed trade war fears, traders may remain cautious heading into next week’s sessions.",
+    "url": "https://www.coindesk.com/markets/2025/05/24/crypto-bulls-lose-500m-as-bitcoin-hovers-around-108k-after-trumps-tariff-threats",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "Apple",
+                "OKX"
+            ],
+            "organizations": [
+                "European Union",
+                "CoinGlass"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "DOGE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes over $500 million in liquidations, price drops across major cryptocurrencies, and market panic following Trump's tariff threats."
+    }
+}

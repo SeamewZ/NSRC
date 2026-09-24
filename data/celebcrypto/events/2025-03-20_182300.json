@@ -1,0 +1,36 @@
+{
+    "title": "Nasdaq Shift to Round-The-Clock Stock Trading Partly Due to Crypto, Says Exchange Executive",
+    "time": "2025-03-20T18:23:00",
+    "author": "Helene Braun",
+    "summary": "Both Nasdaq and the New York Stock Exchange are in the process of making round-the-clock trading available five or even seven days a week, mimicking crypto’s trading hours.",
+    "content": "Stock and other traditional financial asset traders across the world are wanting to be able to buy and sell assets around the clock, resulting in two of the biggest stock markets in the U.S., Nasdaq and the New York Stock Exchange (NYSE) making moves to offer round-the-clock trading soon.\n\n“We definitely see that this is where the markets are moving,” said Giang Bui, Nasdaq’s head of U.S. Equities & Exchange-Traded Products, speaking at the Digital Asset Summit in New York on Thursday. “There's a lot of demand globally for U.S. stocks and people want to trade within the hours that they're typically awake, and I think a lot of it is because people are used to trading crypto 24/7.”\n\nBoth Nasdaq and the NYSE are in the process of receiving approval to open their venues 24 hours a day, for five or even seven days a week. Nasdaq recently announced that it had begun engaging with regulators about the change while the NYSE has already received the green light.\n\nRound-the-clock trading can have several advantages for markets, including increased volume and market liquidity as traders aren’t tied to specific time zones. Currently, the U.S. stock market opens for trading at 9:30 a.m. ET and closes at 4 p.m. ET.\n\n“We're hearing it across the board from global broker dealers, clients who they're servicing, even within the U.S., there's a number of U.S. brokers that already are offering overnight trading because their customers are used to trading crypto in those hours,” Bui added.\n\nNasdaq lists a number of crypto-related products, including the iShares Bitcoin Trust (IBIT), the spot ETF issued by BlackRock, which saw the most successful ETF debut in the history of U.S. ETF launches. Earlier today, the exchange listed two Solana\nSOL\n$161.75\nfutures ETFs issued by Volatility Shares.",
+    "url": "https://www.coindesk.com/markets/2025/03/20/nasdaq-s-shift-to-round-the-clock-stock-trading-due-to-crypto-says-exchange-executive",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Giang Bui"
+            ],
+            "positions": [
+                "Nasdaq's head of U.S. Equities & Exchange-Traded Products"
+            ],
+            "companies": [
+                "Nasdaq",
+                "New York Stock Exchange",
+                "NYSE",
+                "BlackRock",
+                "Volatility Shares"
+            ],
+            "organizations": [
+                "Digital Asset Summit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news shows traditional financial markets adopting 24/7 trading specifically because of crypto's influence, indicating growing mainstream acceptance and institutional adoption of cryptocurrency trading practices."
+    }
+}

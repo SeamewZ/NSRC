@@ -1,0 +1,39 @@
+{
+    "title": "Layer 2 Network Scroll’s 'Biggest Leap Forward' Comes Amid TVL Plunging to Record Low",
+    "summary": "Euclid aims to improve network performance, enhance application compatibility, and reduce data storage costs while making wallets more accessible.",
+    "time": "2025-04-23T13:00:00",
+    "author": "Margaux Nijkerk",
+    "content": "Scroll, the Ethereum layer-2 network, shared Wednesday that it has launched its Euclid upgrade, which the team called its most significant protocol transformation to date.\n\nAccording to Scroll Labs, a key consequence of the upgrade is that it transitions Scroll from a \"stage 0\" to a “stage 1” rollup, meaning the network will retire some centrally-controlled safety features in an effort to become more decentralized.\n\n“Euclid represents the biggest leap forward for Scroll since its inception,” the team wrote in a blog post shared with CoinDesk. “It's a statement about Scroll's future and its commitment to pushing the boundaries of what's possible in the ZK Rollup arena.”\n\nThe Euclid upgrade includes a range of features designed to improve network performance, boost compatibility for certain applications, and reduce data storage costs. Additionally, the upgrade makes wallets more user-friendly through account abstraction, which allows developers to automate certain features through smart contracts.\n\nScroll is a zero-knowledge rollup — a blockchain scaling solution that uses zero-knowledge technology to process transactions cheaper and more efficiently than on the base network, Ethereum.\n\nThe new upgrade comes as Scroll has seen its user activity plummet to all-time lows. Currently, $62.6 million is locked with the protocol, down 94% from the network's all-time high of over $900 million, according to data from DefiLlama.\n\nScroll's TVL sank precipitously beginning on Oct. 18, 2024, which is when a snapshot was taken to determine eligibility for the SCROLL token airdrop.\n\nScroll's claim that with the Eulicid upgrade it has transitioned to a \"stage 1\" rollup follows from a 2022 blog post by Ethereum co-founder Vitalik Buterin, who proposed categorizing rollups according to their degree of decentralization. Buterin introduced his framework in the early days of rollups, when virtually every \"layer-2\" network employed so-called training wheels — features that sacrificed decentralization for efficiency, security, and other benefits.\n\nWithout clear standards for communicating the stage of a rollup, Buterin was concerned that they risked misleading users as to their security level, and he stated on X that he would only publicly mention layer-2 networks that had reached stage 1 or beyond.\n\nAt that time, only Arbitrum and Optimism were at that stage. Since then, Unichain, Ink, and Kinto have joined them, according to L2Beat.\n\nThe Euclid upgrade helps decentralize Scroll's sequencer, the system that processes and orders transactions before they are sent to Ethereum. According to Scroll's blog post, the new features ensure the Scroll team cannot unilaterally block or censor transactions, which was theoretically possible under the older configuration.\n\nScroll claims it is the first zero-knowledge rollup to reach stage 1 phase.\n\nRead more: Scroll's SCR Token Debuts at $212M Market Cap in Volatile Trading Session",
+    "url": "https://www.coindesk.com/tech/2025/04/23/scrolls-euclid-upgrade-pushes-it-into-stage-1-decentralization-era",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin"
+            ],
+            "positions": [
+                "Ethereum co-founder"
+            ],
+            "companies": [
+                "Scroll Labs",
+                "CoinDesk",
+                "DefiLlama",
+                "L2Beat"
+            ],
+            "organizations": [
+                "Scroll",
+                "Ethereum",
+                "Arbitrum",
+                "Optimism",
+                "Unichain",
+                "Ink",
+                "Kinto"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "SCROLL"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news presents mixed signals with a positive technical upgrade (Euclid) but negative market data (TVL plunging 94% to record low), creating an unclear overall market impact."
+    }
+}

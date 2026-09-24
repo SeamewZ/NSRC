@@ -1,0 +1,60 @@
+{
+    "title": "Best of the Week: Preparing for a New Trump Era",
+    "time": "2025-01-17T16:33:00",
+    "author": "Benjamin Schiller",
+    "summary": "This week on CoinDesk: changes at SEC, CFTC and FDIC; ETF expansion; bitcoin's holding pattern; prediction problems; an America-First Reserve?",
+    "content": "CoinDesk’s coverage kicked into high gear this week as crypto readied for a new presidency and a new regulatorily-friendly era.\n\nSome highlights:Senior analyst James Van Straten reported on a wave of companies buying bitcoin for their balance sheets, following a model pioneered by MicroStrategy’s Michael Saylor.\n\nMarkets reporter Krisztian Sandor followed the rise of Solana's SOL, XRP and Hedera's HBAR on rumors that Trump might support an America-first crypto “reserve” to complement a national bitcoin holding.\n\nMarkets Co-Managing Editor Omkar Godbole delved into why bitcoin continues to be in a trough price-wise. But he said the recent selloff won’t hurt long-term institutional adoption.\n\nIan Allison, senior reporter, caught up with new Binance.US chief Norman Reed, who revealed how SEC officials had tried to choke off the exchange’s banking relationships as part of its 2022 investigation.\n\nAsia reporter Sam Reynolds looked into how regulators in several countries had recently tried to ban Polymarket as prediction markets contend with gambling laws. (Kalshi, however, gained Donald Trump Jnr. as an advisor, showing how the U.S. may now become a safe haven for crypto companies.)\n\nIn a preview of what is expected to be a vibrant time for M&A activity, Ctrl Wallet, a self-custody wallet, revealed that it is up for sale, Allison reported.\n\nMeanwhile, crypto ETFs are expected to surge in volume, following 2024’s seismic debut. Litecoin, an early bitcoin clone, is the next project expected to get official approval for ETF trading, reporter Tom Carreras said.\n\nHelene Braun followed up to say that a Litecoin ETF could attract $580 million in inflows, if the vehicle proves as attractive as bitcoin was last year.\n\nOn the regulatory front, Deputy Managing Editor Jesse Hamilton reported the Trump administration wants to make crypto’s “de-banking” issues a first order of concern.\n\nMeanwhile, the SEC and CFTC continued to clear-house of “anti-crypto” officials, preparing the way for new administrators to join in the coming weeks, Hamilton said.\n\nAs the weekend approaches, the crypto world was set to descend on Washington D.C. for a series of inauguration parties and balls.\n\nCoinDesk will have full live coverage on Monday, so stay tuned.",
+    "url": "https://www.coindesk.com/coindesk-news/2025/01/17/best-of-the-week-preparing-for-a-new-trump-era",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "James Van Straten",
+                "Michael Saylor",
+                "Krisztian Sandor",
+                "Omkar Godbole",
+                "Ian Allison",
+                "Norman Reed",
+                "Sam Reynolds",
+                "Donald Trump Jnr.",
+                "Tom Carreras",
+                "Helene Braun",
+                "Jesse Hamilton"
+            ],
+            "positions": [
+                "Senior analyst",
+                "Markets reporter",
+                "Markets Co-Managing Editor",
+                "Senior reporter",
+                "new Binance.US chief",
+                "Asia reporter",
+                "advisor",
+                "reporter",
+                "Deputy Managing Editor"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "Binance.US",
+                "Polymarket",
+                "Kalshi",
+                "Ctrl Wallet"
+            ],
+            "organizations": [
+                "SEC",
+                "CFTC",
+                "FDIC",
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "Solana",
+            "SOL",
+            "XRP",
+            "Hedera",
+            "HBAR",
+            "Litecoin"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes regulatory-friendly changes, ETF expansion, institutional buying, and positive market developments suggesting increased adoption and investment."
+    }
+}

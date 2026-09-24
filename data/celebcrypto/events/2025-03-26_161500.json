@@ -1,0 +1,44 @@
+{
+    "title": "Trump-Tied World Liberty Financial Pitches Its Stablecoin in Washington With Don Jr.",
+    "summary": "The president's son, Donald Trump Jr., connected to a Washington crypto event via video to talk up crypto and to back the family's link to World Liberty.",
+    "time": "2025-03-26T16:15:00",
+    "author": "Jesse Hamilton",
+    "content": "WASHINGTON, D.C. —\nWLFI\n$0.1192\n, the financial protocol backed by President Donald Trump and his family, pitched its own stablecoin at a Washington crypto event on Wednesday, where lawmakers also attended to give the industry updates on their progress with U.S. policy efforts.\n\nBehind the three co-founders of WLFI, Donald Trump Jr. connected via video, delivering some general cheerleading to the digital assets technology underpinning the business.\n\n\"I'm just super excited about what this can mean for the future of banking, for the future of the financial systems,\" Trump said. \"I was sort of the beneficiary of the old way of doing things, but that doesn't mean it's the best way of doing things.\"\n\nThe company had confirmed the launch of its USD1 stablecoin this week, saying it would first be available on Ethereum and the Binance-linked BNB Chain. The announcement came as Congress is moving forward on legislation to regulate stablecoins in the U.S.; many of the lawmakers working on that were also at the same DC Blockchain Summit on Wednesday, hosted by the Digital Chamber.\n\n\"We're excited for the world to experience our stablecoin,\" said Zach Witkoff, one of the co-founders of World Liberty Financial. \"I do think that retail and institutions are really going to lean into the product.\"\n\nThe Washington event gave the Trump-connected business its main stage, where the executives were followed by two Republican lawmakers central to the potential passage of the stablecoin legislation — Sen. Tim Scott and Rep. French Hill. Their legislation may eventually be seeking final approval by President Trump, leaving little daylight between the industry's chief lobbying goals and the president's family business.\n\n\"You don't make permanent change in policy though executive action,\" Hill said. \"That's why leadership in the Senate and House [is crafting] a stablecoin regime that can make America the principal home for stablecoins, dollar-backed stablecoins.\"\n\nThe House is also close to reintroducing a market structure bill, after 71 Democrats joined a majority of Republicans in voting to advance similar legislation out of the House last year, he said.\n\nStablecoin use is \"just as safe as a bank account, but without all that extra nonsense,\" Trump Jr. said, adding that there's \"probably trillions\" in waste keeping traditional banking alive. \"The sky is the limit for this.\"\n\nThe World Liberty protocol aims to provide a blockchain-based platform where its users would be able to borrow and lend cryptocurrencies, create liquidity pools and transact with stablecoins. But it also has more of an extreme retail hope.\n\n\"Our goal is for you to be able to walk into your local bodega and buy a ham sandwich using stablecoins,\" Witkoff said.",
+    "url": "https://www.coindesk.com/policy/2025/03/26/trump-tied-world-liberty-financial-pitches-its-stablecoin-in-washington-with-don-jr",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump Jr.",
+                "Donald Trump",
+                "Zach Witkoff",
+                "Tim Scott",
+                "French Hill"
+            ],
+            "positions": [
+                "President",
+                "Sen.",
+                "Rep."
+            ],
+            "companies": [
+                "World Liberty Financial",
+                "WLFI",
+                "Ethereum",
+                "Binance"
+            ],
+            "organizations": [
+                "Congress",
+                "House",
+                "Senate",
+                "Digital Chamber",
+                "DC Blockchain Summit"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "BNB Chain",
+            "USD1"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The event features positive statements from political figures and company executives about cryptocurrency adoption, stablecoin legislation progress, and institutional interest, indicating market confidence."
+    }
+}

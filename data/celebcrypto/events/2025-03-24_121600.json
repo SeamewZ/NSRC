@@ -1,0 +1,28 @@
+{
+    "title": "Bitcoin's Weekend Surge Forms Another CME Gap, Signaling Possible Drop Back",
+    "time": "2025-03-24T12:16:00",
+    "author": "James Van Straten",
+    "summary": "History suggests the gap, located in the $84,000–$85,000 range, is likely to be filled.",
+    "content": "As spot Bitcoin (BTC) pushed higher over the weekend reaching a high of $87,800 on Monday, another gap emerged between CME futures' closing price on Friday and the start of the new week's trading.\n\nThe futures closed at $84,190 at the end of the last week and opened about $1,000 higher at $85,160. That sets the stage for a drop back because bitcoin has developed a tendency to fill these CME futures gaps.\n\nAs of mid-March, it had filled the most recent gap, which was created during the November rally following President Donald Trump’s election victory. That gap was fully closed when bitcoin dropped to $76,700 in mid-March.\n\nThe gaps occur because spot bitcoin trades 24/7 while CME futures operate only 23 hours a day, Sunday through Friday. When there’s a significant price movement during the CME’s off-hours, a gap forms between the previous close and the next day’s open.\n\nHistorically, bitcoin has often retraced to fill such gaps. Based on this pattern, it’s likely that bitcoin could revisit the $84,000–$85,000 range in the near term.",
+    "url": "https://www.coindesk.com/markets/2025/03/24/bitcoin-s-weekend-surge-forms-another-cme-gap-signaling-possible-drop-back",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "CME"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The article states that Bitcoin's price surge created a CME gap that is likely to be filled, signaling a potential drop back to the $84,000–$85,000 range based on historical patterns."
+    }
+}

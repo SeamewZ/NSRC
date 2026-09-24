@@ -1,0 +1,31 @@
+{
+    "title": "Digital Identity Startup Holonym Acquires Gitcoin Passport",
+    "time": "2025-02-10T20:32:00",
+    "author": "Danny Nelson",
+    "summary": "The cash and token deal scales up a Worldcoin \"alternative.\"",
+    "content": "Crypto's \"proof of humanity\" sector saw a major merger on Monday with Holonym Foundation acquiring Gitcoin Passport for an undisclosed sum of cash and tokens.\n\nThe transaction unites two close companies: Holonym was already distributing its tech through Gitcoin Passport, a logbook where 2 million internet users stash proof of personhood for services that need to verify they are flesh and blood.\n\nAI agents aren't people, but they may well pretend as much when money's on the line. Holonym and Gitcoin are among a wave of crypto startups (most notably Sam Altman's Worldcoin) building ways to sift out the bots.\n\nGitcoin Passport will rebrand to Human Passport and eight of its employees will continue on at Holonym, now 30 strong, said CEO Shady El Damaty. He's planning to make the digital passport more portable so it can \"follow you wherever you go on the internet,\" performing the identity checks necessary to conduct business on the web.\n\nFirst comes the privacy factor. Part of the appeal of flashing one's Gitcoin Passport over, say, a government ID is that the crypto passport can attest its holder is who they claim to be without actually revealing their identity.\n\nThat's not changing with the merger; El Damaty said it's getting a boost. The nearly 35 million credentials being stored on Passport will be upgraded with zero-knowledge proof technology.\n\nPerhaps the best-known use case for proof of humanity tech in crypto comes with airdrops. Projects that seek to ensure their token launches are rewarding people, not bots, have sometimes turned to tools like these. Holonym's helped secure $225 million in such distributions, El Damaty said.\n\nBut he's also planning to partner with more humanitarian endeavors, like digital identity checkers for refugees in need of accessing financial aid. One coming project will plug into 1 million displaced persons.\n\nThe acquisition may bolster Holonym's ability to challenge Worldcoin, which leads the identity pack by virtue of its association with OpenAI's Sam Altman. \"We're positioning ourselves as an alternative to Worldcoin,\" said El Damaty.",
+    "url": "https://www.coindesk.com/business/2025/02/10/digital-identity-startup-holonym-acquires-gitcoin-passport",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Shady El Damaty",
+                "Sam Altman"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Holonym",
+                "Gitcoin",
+                "Worldcoin",
+                "OpenAI"
+            ],
+            "organizations": [
+                "Holonym Foundation"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The acquisition strengthens proof-of-humanity infrastructure and positions Holonym as a Worldcoin alternative, indicating growth and consolidation in the crypto identity sector."
+    }
+}

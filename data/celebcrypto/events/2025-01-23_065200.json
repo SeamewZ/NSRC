@@ -1,0 +1,39 @@
+{
+    "title": "Dogecoin ETF Registered as Elon Musk’s D.O.G.E Gains Traction",
+    "time": "2025-01-23T06:52:00",
+    "author": "Shaurya Malwa",
+    "summary": "Bitwise has registered for an ETF product tracking the world’s largest memecoin as the crypto subsector becomes more prominent within the market.",
+    "content": "Bitwise has officially submitted a registration filing for a dogecoin exchange-traded fund (ETF) as memecoin demand grows within the market.\n\nA \"Bitwise Dogecoin ETF\" was submitted late Wednesday and appeared on the Department of State's Division of Corporations in the U.S. state of Delaware. Such filings may often be a spoof, but Bitwise confirmed the registration in a message to The Block.\n\nA Delaware registration is a preliminary step taken before submitting an official ETF proposal to the SEC. It establishes the legal entity that would manage the potential ETF, but is not the same as filing for ETF approval with the SEC.\n\nThat came on the back of investment managers Rex Shares and Osprey Funds filing paperwork for several crypto exchange-traded funds (ETFs), including one for dogecoin.\n\nA potential ETF approval by regulatory bodies like the SEC would provide dogecoin with institutional validation, potentially attracting more conservative investors to the memecoin. Increased demand could drive up DOGE prices if the product captures even a small fraction of the inflows seen by bitcoin ETFs (over $50 billion in the past year).\n\nDOGE is the world’s largest memecoin with a market capitalization of $52 billion as of Thursday. It has more than tripled in the past year as a speculative token that follows bitcoin’s gains and, more recently, the creation of a Department of Government Efficiency in the U.S.\n\nAbbreviated D.O.G.E, the non-governmental agency is led by technocrat Elon Musk and aims to reduce government spending while streamlining Federal worker operations. It was first proposed in mid-October and officially acknowledged during Donald Trump’s swearing-in ceremony on Monday.\n\nD.O.G.E’s website briefly displayed a dogecoin token logo on Tuesday, which was later updated to display just its name. Still, the apparent connection to the memecoin has spurred demand among traders, who may use DOGE as a bet on the work the D.O.G.E agency does.",
+    "url": "https://www.coindesk.com/markets/2025/01/23/dogecoin-etf-registered-as-elon-musk-s-d-o-g-e-gains-traction",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Elon Musk",
+                "Donald Trump"
+            ],
+            "positions": [
+                "technocrat"
+            ],
+            "companies": [
+                "Bitwise",
+                "Rex Shares",
+                "Osprey Funds",
+                "The Block"
+            ],
+            "organizations": [
+                "Department of State's Division of Corporations",
+                "SEC",
+                "Department of Government Efficiency",
+                "D.O.G.E"
+            ]
+        },
+        "cryptocurrencies": [
+            "Dogecoin",
+            "DOGE",
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes potential ETF approval providing institutional validation, attracting conservative investors, and driving up DOGE prices due to increased demand."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Solana's Biggest Protocol Jito Leans In on a Changed DC",
+    "summary": "JitoSOL is not a security, the protocol claimed in a new research paper.",
+    "time": "2025-03-18T13:00:00",
+    "author": "Danny Nelson",
+    "content": "Solana infrastructure project Jito on Tuesday claimed its protocol's flagship token, JitoSOL, is not a security. That a crypto project would believe such a thing of its $2.4 billion asset is hardly surprising. More interesting: the very public method with which Jito delivered its opinion.\n\nJito Foundation's new \"Securities Classification Report\" explains in 24 footnoted pages precisely why JitoSOL is not, cannot and will not fall under SEC oversight. It's the kind of inside baseball perspective that crypto lawyers often prepare for their clients, but seldom for public consumption.\n\nTrump's embrace of crypto emboldened Jito to say in public what they already thought behind closed doors, people at Jito Labs – the company building the widely-used piece of Solana infrastructure – told CoinDesk. The project's Cayman-based Jito Foundation drafted and released its own report to encourage other industry players to do the same.\n\n\"There's a lot of optimism right now from builders, and more willingness to try to work with regulators to create better rules for builders,\" said Jito Labs CEO Lucas Bruder.\n\nUnder former President Joe Biden and former SEC Chairs Jay Clayton and Gary Gensler, the agency filed suit against many top crypto companies' alleged wrongdoings, including registration claims. Now it's pulling back, dropping high-profile lawsuits that questioned the regulatory status of many hotly contested corners of crypto – including liquid staking tokens.\n\nLSTs are a sort of depository receipt that let people access the value of assets (usually ETH or SOL) that they locked up in staking contracts, where those assets contribute to a blockchain network's security and also earn staking rewards.\n\nThe sub-industry has exploded in prominence across crypto's staking blockchains. Ethereum is host to $26 billion of LSTs, while Solana boasts a more modest $6 billion. Jito's is the largest Solana LST by more than double the value of the runner-up.\n\nThe SEC never accused Jito of breaking U.S. law, nor did it so much as talk to the project's backers in years past, people at Jito Labs told CoinDesk. But the new administration's new look regulator opened the door for a newly aggressive Jito: founder Lucas Bruder met with the crypto task force in early February to discuss staking.\n\nThe new classification report compares JitoSOL against the well-known Howey Test, a legal framework for determining whether an asset is an investment contract, and therefore a security. Among its main points: the program that issues JitoSOL operates independently atop a blockchain.\n\n\"The most important takeaway is this is pure technology,\" said Rebecca Rettig, Jito Labs' legal counsel.\n\nBut the report also delves beyond staid securities laws to touch on the pro-crypto vibes emanating from the White House. In one section it invokes his executive order on making the U.S.A. the global crypto capital.\n\n\"The consequence of applying federal securities law and regulation as they currently stand to liquid-staking solutions would be to render them unavailable by regulating them out of existence, contrary to the goals of the Executive Order,\" the report said.",
+    "url": "https://www.coindesk.com/policy/2025/03/17/solana-s-biggest-protocol-jito-leans-in-on-a-changed-dc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Lucas Bruder",
+                "Joe Biden",
+                "Jay Clayton",
+                "Gary Gensler",
+                "Rebecca Rettig"
+            ],
+            "positions": [
+                "CEO",
+                "former President",
+                "former SEC Chairs",
+                "legal counsel"
+            ],
+            "companies": [
+                "Jito Labs",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Jito Foundation",
+                "SEC",
+                "White House"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes increased regulatory optimism, dropped lawsuits, and public confidence from crypto projects due to favorable political developments."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Bitcoin Revisits $100K as Trump Inauguration May Spur a Breakout: Van Straten",
+    "time": "2025-01-16T10:08:00",
+    "author": "James Van Straten",
+    "summary": "Wednesday's price action for bitcoin was the fourth time it exceeded the key $100,000 price level.",
+    "content": "On Wednesday, bitcoin (BTC) briefly exceeded $100,000 for the fourth time, with trader sentiment switching to greed from fear as the price ranges between $90,000 and the six-figure level.\n\nThe largest cryptocurrency may take several attempts to push through $100,000, as previous CoinDesk research showed.\n\nSince touching an all-time high of around $108,000 on Dec. 17, bitcoin has put in a series of lower highs, just as it did during 2024's seven-month consolidation.\n\nHowever, the $90,000 price level remains firm. It has provided critical support, and bitcoin has stayed above it since Nov. 18, other than briefly dropping below on Jan. 13. The catalyst for a break in either direction could be President-elect Donald Trump's inauguration on Jan. 20.\n\nMonitoring leverage is also a key component to determining the market's euphoria or greed. This can be observed through futures open interest (OI).\n\nOpen interest refers to the total number of outstanding bitcoin futures contracts in the market. Data from Coinglass shows that OI has been at its lowest level since early November, when Donald Trump won the U.S. election.\n\nAs the chart shows, open interest has dropped to 621,000 BTC ($61.6 billion) from 700,000 BTC on Dec. 19. That means that recent price action has been less leverage-driven and more spot-driven.\n\nFor fair analysis, it is important to compare open interest denominated in bitcoin, as the unit stays the same, rather than using nominal value, which fluctuates depending on the bitcoin price.",
+    "url": "https://www.coindesk.com/markets/2025/01/16/bitcoin-revisits-100-k-as-trump-inauguration-may-spur-a-breakout-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President-elect"
+            ],
+            "companies": [
+                "Coinglass"
+            ],
+            "organizations": [
+                "CoinDesk"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes bitcoin repeatedly testing the $100,000 level with strong support at $90,000 and suggests Trump's inauguration could catalyze a breakout, indicating positive momentum and potential price increases."
+    }
+}

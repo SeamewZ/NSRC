@@ -1,0 +1,36 @@
+{
+    "title": "Tokenization Platform Midas Expands Yield-Bearing Tokens With DeFi-Fund-Linked Offerings",
+    "time": "2025-02-13T13:01:00",
+    "author": "Ian Allison",
+    "summary": "The new Liquid Yield Tokens (LYT) offer a floating value based on DeFi funds, starting with Edge Capital, RE7 Capital, and MEV Capital.",
+    "content": "Midas, a protocol for issuing yield-bearing tokens backed by U.S. Treasuries and other assets, has introduced Liquid Yield Tokens (LYT) linked to actively managed, decentralized finance (DeFi) funds, starting out with Edge Capital, RE7 Capital, and MEV Capital.\n\nLate last year, Midas received regulatory approval to issue its basis trade and U.S. Treasuries tokens in Liechtenstein, allowing passporting across Germany and Europe.\n\nTokenization builders in the crypto native and DeFi-focused arena saw the need for yield-bearing alternatives to established stablecoins like Tether's USDT and Circle's USDC, which keep the interest generated from reserves.\n\nAdditions to the Midas product suite reflect changing market conditions. For instance, the firm’s tokenized T-Bill product, based on a BlackRock money-market fund, was introduced when interest rates were around 5% and DeFi markets were much lower, at around 2%.\n\nThe later addition of a cash and carry trade token delivered yields last year of over 20%, however market trends are reversing, said Midas CEO Dennis Dinkelmeyer. The new LYT product aims at yields as high as 20%, he said.\n\n“We've partnered up with the best in the industry such as Edge Capital, RE7 Capital and MEV Capital with more great names coming soon,” Dinkelmeyer said in an interview. “These fund managers are really experts when it comes to yield, whether with T-Bills, basis trades, or other yield sources like market making and arbitrage.”\n\nThe Midas tokenization platform allows a wide audience exposure to these tokens with a one-click issue and redeem process, Dinkelmeyer said. “In addition, the tokens can be used as collateral in DeFi, starting with Euler and Morpho with more to follow.”",
+    "url": "https://www.coindesk.com/business/2025/02/13/tokenization-platform-midas-expands-yield-bearing-tokens-with-defi-fund-linked-offerings",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Dennis Dinkelmeyer"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Midas",
+                "Edge Capital",
+                "RE7 Capital",
+                "MEV Capital",
+                "Tether",
+                "Circle",
+                "BlackRock",
+                "Euler",
+                "Morpho"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes expansion of yield-bearing tokens with potential yields as high as 20% and partnerships with industry experts, indicating positive market development and increased investment opportunities."
+    }
+}

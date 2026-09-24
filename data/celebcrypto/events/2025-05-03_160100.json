@@ -1,0 +1,29 @@
+{
+    "title": "Arizona Governor Calls Crypto an ‘Untested Investment,’ Vetoes Bitcoin Reserve Bill",
+    "summary": "The bill, Senate Bill 1025, aimed to create a digital assets reserve managed by the state.",
+    "time": "2025-05-03T16:01:00",
+    "author": "Francisco Rodrigues",
+    "content": "Arizona will not be investing in bitcoin\nBTC\n$102,205.43\n, at least not this year.\n\nGovernor Katie Hobbs vetoed a bill on Friday that would have allowed the state to hold the digital asset as part of its official reserves.\n\nThe legislation, known as Senate Bill 1025, proposed using seized funds to invest in BTC and create a digital assets reserve managed by the state. After passing the state House in a narrow 31–25 vote, the bill reached Hobbs' desk, where it was swiftly struck down.\n\n“The Arizona State Retirement System is one of the strongest in the nation because it makes sound and informed investments. Arizonans' retirement funds are not the place for the state to try untested investments like virtual currencу,” Hobbs wrote in a statement.\n\nThe veto ends a push that could have made Arizona the first state to set up a cryptocurrency reserve, and it could have even outpaced the U.S. Treasury Department in doing so.\n\nRead more: As One State Gets Closer on a Crypto Reserve, Others Jump Into the Fray",
+    "url": "https://www.coindesk.com/policy/2025/05/03/arizona-governor-calls-crypto-an-untested-investment-vetoes-bitcoin-reserve-bill",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Katie Hobbs"
+            ],
+            "positions": [
+                "Governor"
+            ],
+            "companies": [],
+            "organizations": [
+                "Arizona State Retirement System",
+                "U.S. Treasury Department"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The governor vetoed a bill that would have allowed state investment in bitcoin, calling it an 'untested investment' and expressing negative sentiment toward cryptocurrency adoption."
+    }
+}

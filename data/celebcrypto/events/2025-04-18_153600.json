@@ -1,0 +1,30 @@
+{
+    "title": "KiloEx's KILO Token Surges as Funds Recovered Swiftly After ‘Sophisticated’ Hack",
+    "summary": "The firm will be awarding a 10% bounty to white hat hackers involved in the resolution of the exploit.",
+    "time": "2025-04-18T15:36:00",
+    "author": "Aoyon Ashraf",
+    "content": "KiloEx, a decentralized exchange (DEX) for trading perpetual futures, said Friday it recovered all of its hacked funds after a sophisticated attack this week left users reeling with losses of around $7 million.\n\nThe DEX is working to close the legal process of recovering the funds and is awarding 10% of the recovered amount as a bounty to the white hat hacker who was involved in the process.\n\n\"The legal process to formally close the case is now underway, in coordination with judicial authorities, our legal team, and third-party experts (special thanks to @SlowMist_Team@blitezero, who have extensive experience in such matters),\" KiloEx said in a social media post on Friday.\n\nKiloEx's native token KILO surged more than 14% in 24 hours on the recovery news, while the broader market gauge CoinDesk 20 Index remained flat on Friday.\n\nThe crypto industry has been plagued by multiple hacks and exploits, resulting in billions of dollars lost to attackers. Blockchain security firm CertiK said that hackers stole $1.67 billion worth of crypto in the first quarter of 2025, a 303% rise from the previous quarter. Most of the Q1's losses were attributed to the massive $1.45 billion Bybit hack.\n\nThe KiloEx exploit on April 15 unfolded across multiple blockchain networks and appeared to stem from a vulnerability in the platform’s price oracle system, per blockchain analysis firm Cyvers. Oracles are blockchain-based tools that relay any outside data to a blockchain, where smart contracts use them to make decisions for a financial application.\n\nThe attacker used a wallet funded through Tornado Cash and executed a series of transactions on the Base, BNB Chain and Taiko networks to take advantage of a flaw in the platform’s price oracle system, which allowed the attacker to manipulate asset prices.\n\nThe KiloEx might be one of the cases of a crypto exploit, where the outcome was positive for the DEX, as most aren't as lucky. CertiK said in the report that only 0.38% of stolen funds in the first quarter were returned compared to 42.09% in the previous quarter.\n\nOne growing trend highlighted by KiloEx's hack resolution is that the community came together to recover the funds rather than wait for long-drawn court battles that leave investors reeling in millions in losses. However, the exploit is still a stark reminder of the serious risks in decentralized finance, where small vulnerabilities could lead to massive losses, testing the trust in the code.\n\nRead more: Crypto Investors Lost $1.67B to Hacks and Exploits in Q1: CertiK",
+    "url": "https://www.coindesk.com/tech/2025/04/18/kiloexs-sophisticated-hack-shows-defi-risks-but-this-time-recovery-was-swift",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "KiloEx",
+                "CertiK",
+                "Bybit",
+                "Cyvers",
+                "Tornado Cash"
+            ],
+            "organizations": [
+                "SlowMist_Team",
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "KILO"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "KiloEx's KILO token surged more than 14% in 24 hours on the recovery news while the broader market remained flat, indicating positive market reaction to the successful fund recovery."
+    }
+}

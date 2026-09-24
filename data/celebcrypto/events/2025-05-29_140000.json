@@ -1,0 +1,39 @@
+{
+    "title": "Tether, Tron Dominate Fast-Growing Stablecoin Payments Arena, Survey Shows",
+    "time": "2025-05-29T14:00:00",
+    "author": "Ian Allison",
+    "summary": "Analytics specialist Artemis, assisted by VC firms Dragonfly and Castle Island Ventures, looked at data from 31 stablecoin payment companies.",
+    "content": "Tether’s USDT token and the Tron blockchain network dominate the rapidly growing stablecoin payment industry, according analytics firm Artemis with help from investment firms Dragonfly and Castle Island Ventures.\n\nA report entitled “Stablecoin Payments from the Ground Up” looked at data from 31 stablecoin payment companies, and found USDT, the largest stablecoin, accounted for 90 percent of payment transaction volume, followed by Circle’s USDC, the second-largest. Tron was the preferred settlement network, hosting around 60 percent of volume, followed by Ethereum, Binance Smart Chain and Polygon.\n\nThe snapshot of stablecoin payment volume taken in February added up to an annualized $72.3 billion, covering various payment types and sectors (B2B, P2P, B2C, Card, and Lending).\n\nStablecoins, predominantly U.S. dollar-pegged digital tokens, were originally used to conveniently park money while trading cryptocurrencies. But these low-cost, instantly-settled financial instruments are now eating payments across the board, with bullish estimates on the potential size of that market coming from both crypto native firms and major banks.\n\nIt’s perhaps surprising that the share of Circle’s USDC isn't larger, given the firm’s involvement in payments and recent plans to introduce a dedicated cross-border payments network.\n\nIn addition, Circle, which this week filed for an initial public offering on the New York Stock Exchange, has been taking market share from Tether in terms of issuance, so the expectation might have been a similar or pro-rata level when it comes to payments volume, said Dragonfly general partner Rob Hadick.\n\n“For the 31 providers we got data from at least, it’s clear that’s not the case for the payments use case,” Hadick said in an interview. “In fact, a higher portion of the volume, relative to the issuance, is happening with Tether, and it's happening primarily on Tron and then Ethereum. This was quite surprising to us.”\n\nThis perspective is partly shaped by the fact that a lot of business-to-business uses, such as paying suppliers for global supply chains, is happening from emerging markets to the U.S. or from the U.S. to emerging markets. In some of those markets, places like Argentina or Brazil, for instance, people might be worried about things like bank failures, and Tether is seen as a trusted brand, Hadick said.\n\nMoreover, firms that use stablecoins for payments have little concern about which blockchain is being used to settle on. Tron is fast and cheap and there’s over $60 billion of USDT on the chain, so it simply makes sense, he added.\n\n“If you go to Argentina or Brazil, people don't say they want to use stablecoins, they say we use Tether,” Hadick said. “Tether is the brand that is ubiquitous with USD access, in the same way that in the U.S. Uber is ubiquitous with taking a car that you call from your phone.”",
+    "url": "https://www.coindesk.com/business/2025/05/29/tether-tron-dominate-fast-growing-stablecoin-payments-arena-survey-shows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Rob Hadick"
+            ],
+            "positions": [
+                "general partner"
+            ],
+            "companies": [
+                "Tether",
+                "Circle",
+                "Dragonfly",
+                "Castle Island Ventures",
+                "Artemis",
+                "Uber"
+            ],
+            "organizations": [
+                "New York Stock Exchange"
+            ]
+        },
+        "cryptocurrencies": [
+            "USDT",
+            "USDC",
+            "Tron",
+            "Ethereum",
+            "Binance Smart Chain",
+            "Polygon"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights rapid growth in stablecoin payments with $72.3 billion annualized volume and describes stablecoins as 'low-cost, instantly-settled financial instruments' that are 'eating payments across the board' with 'bullish estimates' from major firms."
+    }
+}

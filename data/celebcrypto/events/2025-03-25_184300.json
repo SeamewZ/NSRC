@@ -1,0 +1,35 @@
+{
+    "title": "A $41B Investment Firm Wants to Stick With Just Bitcoin ETFs as Safer Bet",
+    "time": "2025-03-25T18:43:00",
+    "author": "Helene Braun",
+    "summary": "The investment firm and provider of exchange-traded funds (ETFs) launched three protected bitcoin ETFs earlier this year, but it won’t do the same for Ethereum.",
+    "content": "Earlier this year, Calamos made its crypto debut with the launch of not one but three funds designed to protect investors from the volatility in bitcoin’s\nBTC\n$104,246.94\nprice.\n\nBut the global investment management firm, which handles $41.3 billion in assets, is far from launching any other products beyond bitcoin, — even Ethereum\nETH\n$3,513.78\n, said its head of ETFs Matt Kaufman in an interview with CoinDesk.\n\nSince their inception, Calamos’ protected BTC funds have attracted over $100 million from investors, which primarily include financial advisors.\n\nFor most firms looking to make an entrance into the crypto market, launching a bitcoin product is just the first step in a long journey that quickly extends to ethereum-based products. BlackRock, for example, applied to launch its spot bitcoin ETF (IBIT) in June 2023 and five months later, did the same for Ethereum\nETH\n$3,513.78\n.\n\n“Ethereum doesn’t really meet our criteria for being able to effectively hedge that exposure,” he said. “It’s not a liquid asset, there’s no options on Ethereum ETPs so if those check boxes start to get built, we’ll explore it but right now it’s not on our radar.”\n\nThe Calamos Bitcoin Structured Alt Protection ETF (CBOJ), Calamos Bitcoin 90 Series Structured Alt Protection ETF (CBXJ) and Calamos Bitcoin 80 Series Structured Alt Protection ETF (CBTJ) offer investors 80-100% downside protection with an upside cap rate of 10-55%.\n\nThis is achieved by using a combination of Treasuries and options on the CBOE Bitcoin US ETF Index. While Cboe Exchange has filed to list options tied to Ether ETFs, the Securities and Exchange Commission (SEC) in January delayed its deadline to approve or deny the product. The Commission will have to stick to the final deadline in May, however.\n\nAnother asset class that Calamos won’t likely ever touch is meme coins, Kaufman said. “We’re a risk manager, so we build things we know will work,” he said. “From that perspective, I don’t have any opinion on meme coins but it’s not something I would ever do.”\n\nKaufman believes that the recent surge in applications for meme coin ETFs highlights the fact that investors have to do their due diligence. “We live in America, you have to know what you own. Freedom gives you choice and with choice comes responsibility,” he said.",
+    "url": "https://www.coindesk.com/markets/2025/03/25/a-usd41b-investment-firm-wants-to-stick-with-just-bitcoin-etfs-as-safer-bet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Matt Kaufman"
+            ],
+            "positions": [
+                "head of ETFs"
+            ],
+            "companies": [
+                "Calamos",
+                "BlackRock"
+            ],
+            "organizations": [
+                "Cboe Exchange",
+                "Securities and Exchange Commission",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes one firm's cautious approach to only Bitcoin ETFs while avoiding Ethereum and meme coins, representing a neutral institutional stance rather than clear market direction."
+    }
+}

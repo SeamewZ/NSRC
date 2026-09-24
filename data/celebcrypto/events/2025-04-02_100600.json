@@ -1,0 +1,26 @@
+{
+    "title": "Crypto Investors Lost $1.67B to Hacks and Exploits in Q1: CertiK",
+    "time": "2025-04-02T10:06:00",
+    "author": "Oliver Knight",
+    "summary": "The figure marks a 303% increase on the previous quarter.",
+    "content": "Blockchain security firm CertiK has revealed that $1.67 billion worth of crypto was stolen by hackers in the first quarter of 2025, a 303% rise on the previous quarter.\n\nThe figure is two thirds of the total amount stolen across 2024, although it's worth noting that the majority of Q1's losses can be attributed to the $1.45 billion Bybit hack.\n\nAside from that, CertiK analyzed 197 hacking incidents in Q1, 98 of which occurred on Ethereum.\n\nThe two largest hacks following Bybit were the $71 million Phemex heist in January and the $49.5 million exploit suffered by crypto neobank Infini.\n\nPhishing attacks, which involve stealing a victim's credentials to gain access to personal accounts, remains the highest attack vector accounting for 81 incidents. There were also 15 incidents of private key compromise.\n\nOnly 0.38% of stolen funds in Q1 have been returned compared to 42.09% in the previous quarter, making the adjusted loss much higher. In February no stolen funds were returned at all.",
+    "url": "https://www.coindesk.com/business/2025/04/02/crypto-investors-lost-usd1-67b-to-hacks-and-exploits-in-q1-certik",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CertiK",
+                "Bybit",
+                "Phemex",
+                "Infini"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports a massive $1.67 billion in crypto stolen through hacks and exploits with a 303% increase from previous quarter, indicating significant negative security events that undermine market confidence."
+    }
+}

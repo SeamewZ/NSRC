@@ -1,0 +1,35 @@
+{
+    "title": "Stripe Tests New Stablecoin Project as $3.7T Market Looms",
+    "time": "2025-04-26T17:31:00",
+    "author": "Francisco Rodrigues",
+    "summary": "Stripe CEO Patrick Collison said a stablecoin tool for companies outside US, UK and EU is ready for testing.",
+    "content": "Stripe is preparing to test a new stablecoin payments product aimed at companies based outside the United States, the United Kingdom, and the European Union.\n\nThe company’s CEO, Patrick Collison, confirmed on social media that Stripe had been planning this offering for nearly a decade and is now opening it up to pilot users.\n\nThe announcement comes after Stripe received regulatory approval to acquire Bridge, a payments platform founded by former Coinbase executives Zach Abrams and Sean Yu. Bridge’s infrastructure offers an alternative to traditional systems like SWIFT for cross-border transactions.\n\nStripe's stablecoin pilot project comes at a time when companies ranging from crypto firms to TradFi banks are piling into the industry, trying to grab a piece of the red-hot sector. In fact, Citi said stablecoins could be a \"ChatGPT\" moment for blockchain adoption, and the market, primarily pegged to the U.S. dollar, could grow up to $3.7 trillion by 2030 with regulatory support.\n\nStripe has a long history with crypto. It was the first major payment processor to support bitcoin payments back in 2014, though it later dropped the feature over BTC’s slow transaction speeds and fees.\n\nRead more: Stablecoins Are a 'WhatsApp Moment' for Money Transfers, a16z Says",
+    "url": "https://www.coindesk.com/business/2025/04/26/stripe-tests-new-stablecoin-project-as-37t-market-looms",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Patrick Collison",
+                "Zach Abrams",
+                "Sean Yu"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Stripe",
+                "Bridge",
+                "Coinbase",
+                "Citi"
+            ],
+            "organizations": [
+                "EU"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Stripe's entry into stablecoin payments, regulatory approval for acquisitions, and Citi's projection that stablecoins could grow to $3.7 trillion by 2030, indicating positive market expansion and institutional adoption."
+    }
+}

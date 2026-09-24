@@ -1,0 +1,38 @@
+{
+    "title": "Crypto for Advisors: Crypto Ownership vs. ETF",
+    "time": "2025-01-30T16:00:00",
+    "author": "Miguel Kudry",
+    "summary": "2024: Bitcoin and ether spot ETFs launch, becoming history's fastest-growing. 2025: The lines between spot crypto ETFs and direct ownership will blur.",
+    "content": "In today’s issue, Miguel Kudry from L1 Advisors breaks down direct ownership of cryptocurrency vs. exchange-traded and wrapped funds and how they are expected to evolve through 2025.\n\nThen, Crews Enochs from Index Coop answers questions on the topic in Ask and Expert.\n\n– Sarah Morton\n\nYou’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.\n\nThe year 2024 marked a pivotal moment for the cryptocurrency market with the launch of bitcoin and ether spot exchange-traded funds (ETFs), rapidly becoming some of the fastest-growing ETFs in history. According to various reports, global crypto ETPs amassed over $134 billion in assets under management (AUM) by November 2024. This success was notable even under the initial constraint of cash-only redemptions and contributions in the United States, a condition imposed by the SEC during the 2024 approvals. However, the landscape is set to evolve further in 2025 with anticipated changes in redemption mechanisms.\n\nThe Shift to In-Kind Redemptions\n\nThe SEC's decision in 2024 to not allow in-kind redemptions and contributions meant that only cash could be used for buying or selling ETF shares, which somewhat limited the potential of these financial products. This restriction is poised to change in 2025, with expectations that regulatory bodies will permit in-kind transactions for spot crypto ETFs. BlackRock has already filed for a rule change to enable in-kind redemptions for its Bitcoin ETF. This change will allow authorized participants to issue and redeem shares directly with Bitcoin or ether rather than cash, which will create a new liquidity flywheel between traditional finance (TradFi) and decentralized finance (DeFi) ecosystems.\n\nImpact on Investors\n\nThe cash-only approach previously left billions in cryptocurrency assets on the sidelines. Crypto-native investors, particularly those with low-basis assets, hesitated to convert their holdings into ETFs due to the substantial tax liabilities. With in-kind redemptions, these investors could move portions of their crypto wealth into ETFs without the immediate tax burden, thus accessing a broader range of traditional financial services like uncollateralized lending, mortgages, and private banking.\n\nFor traditional investors who have gained exposure to cryptocurrencies through ETFs, the shift to in-kind redemptions provides an opportunity to dive deeper into the crypto ecosystem. These investors, having seen significant appreciation in their ETF holdings (bitcoin, for instance, was valued at around $46,800 at the time of ETF launch in January 2024, and ether at approximately $3,422 by mid-July 2024), can now convert their ETF shares into direct crypto holdings to explore DeFi products without needing new capital or facing tax implications.\n\nCatalysts for Change\n\nThe recent withdrawal of Staff Accounting Bulletin No. 21 (SAB-21) is another significant development. This will relieve financial institutions from recording digital assets as liabilities on their balance sheets, encouraging more banks and brokerages to engage with crypto custody and develop crypto-native financial products. An example of this trend is Coinbase's recent launch of a bitcoin-backed lending product in partnership with Morpho Labs, leveraging DeFi to back loans with Bitcoin. This year, we should expect to see a wave of traditional financial institutions following this path.\n\nConcurrently, a segment of investors gravitate towards self-custody, preferring to manage their assets independently to access crypto-native products without intermediaries. This trend underscores the importance of user-friendly and secure self-custody solutions in the evolving crypto landscape.\n\nThe Convergence of TradFi and DeFi\n\n2025 is shaping up to be when the boundaries between traditional and decentralized finance become increasingly blurred. With mechanisms like in-kind transactions and favorable regulatory changes, investors will likely interact with crypto-native platforms more seamlessly, often inadvertently. This convergence is expected to enhance inflows into both sectors, boosting volume and creating a more interconnected and liquid market.\n\nIn conclusion, the evolution from ETF to direct ownership in the crypto space is not just about investment choice but about how these financial instruments are reshaping investor behavior and market dynamics. With in-kind redemptions on the horizon and regulatory changes like the withdrawal of SAB-21, 2025 will mark a significant chapter in integrating cryptocurrencies into mainstream finance, further blurring the lines between traditional and on-chain financial rails.\n\n- Miguel Kudry, CEO, L1 Advisors\n\nQ. What sets on-chain crypto ownership apart from traditional ETFs?\n\n24/7 market access is just the starting point. On-chain ownership unlocks true composability—allowing investors to use assets as collateral, earn yield, and participate in decentralized ecosystems. While ETFs provide exposure, on-chain assets provide unmatched flexibility and utility.\n\nQ. How does direct custody of crypto assets enhance investor flexibility compared to ETFs?\n\nHave you ever tried transferring holdings from one brokerage to another? How long did it take? Was it a nightmare of friction? Probably. With on-chain crypto ownership, you have complete control. You can self-custody your assets, deposit them with custodians, and move them in and out in minutes. What if an opportunity arises, and you need to act fast? You can get liquidity immediately by selling or borrowing against your assets—no waiting, no hassle, just action when needed.\n\nQ. Will the AI agents of the future prefer ETFs or tokenized assets on-chain?\n\nImagine an AI agent managing investments. To buy an ETF, it would need to navigate KYC processes, work through a brokerage’s limited hours, and depend on human intermediaries. Tokenized assets on-chain eliminate these barriers, offering 24/7 access, seamless automation, and the composability to maximize efficiency. For AI-driven financial systems, the choice will be clear: DeFi.\n\n- Crews Enochs, ecosystem growth lead, Index Coop",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/01/29/crypto-for-advisors-crypto-ownership-vs-etf",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Miguel Kudry",
+                "Crews Enochs",
+                "Sarah Morton"
+            ],
+            "positions": [
+                "CEO",
+                "ecosystem growth lead"
+            ],
+            "companies": [
+                "L1 Advisors",
+                "BlackRock",
+                "Coinbase",
+                "Morpho Labs"
+            ],
+            "organizations": [
+                "Index Coop",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "ether",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The article describes positive developments including the launch of fast-growing spot ETFs, anticipated regulatory changes enabling in-kind redemptions, withdrawal of restrictive accounting rules, and increased institutional adoption that will enhance market liquidity and integration."
+    }
+}

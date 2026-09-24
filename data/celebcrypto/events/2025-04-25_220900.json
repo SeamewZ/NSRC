@@ -1,0 +1,47 @@
+{
+    "title": "Bitcoin Poised for Strongest Weekly Gain Since Trump Win as ETFs Gobble $2.7B Inflows",
+    "summary": "SUI, BCH and Hedera's HBAR led Friday gains in the CoinDesk 20 Index, with one analyst saying this week's crypto rally is likely the beginning of BTC's climb to fresh record prices.",
+    "time": "2025-04-25T22:09:00",
+    "author": "Krisztian Sandor",
+    "content": "Bitcoin\nBTC\n$101,998.62\ncontinued its spring rally on Friday and is on track for its strongest weekly showing since Trump's election victory.\n\nThe largest and oldest cryptocurrency held around $95,000 during U.S. afternoon hours, up 1.8% over the past 24 hours. Ethereum’s ether\nETH\n$3,341.49\nfollowed closely, gaining 2% to hover just over $1,800. Sui’s native (SUI),\nBCH\n$489.47\n, and Hedera’s HBAR led gains in the broad-market crypto benchmark CoinDesk 20 Index.\n\nToday's gains cap an exceptional momentum for crypto markets recovering from the early April lows amid tariff turmoil. BTC is up over 11% since Monday, putting it at its largest weekly gain since November 2024, when Donald Trump clinched the U.S. presidency, kickstarting a broad-market crypto rally.\n\nRead more: Bitcoin Traders Target $95K in Near Term; SUI Continues Multiday Rally\n\nInvestor appetite from ETF investors also bounced back strongly: U.S.-listed spot bitcoin ETFs recorded $2.68 billion in net inflows this week so far, the largest since December, according to SoSoValue data. (Friday inflow data will be published later.)\n\nBitcoin's recent strength relative to U.S. stocks and gold underscores BTC's decoupling from traditional macro assets, said David Duong, Coinbase Institutional's global head of research.\n\n\"It’s rare to witness market inflection points in real time, as we only tend to recognize major regime shifts with the benefit of time and reflection,\" Duong said in a Friday report. \"This week’s decoupling of bitcoin’s performance from that of traditional macro assets may be as close as we come to such a moment.\"\n\n\"In our view, this divergence highlights bitcoin’s maturing role as a store-of-value asset—one that is increasingly being viewed by institutional and retail investors alike as resilient against the macroeconomic forces affecting risk assets more broadly,\" he wrote.\n\nDoung noted that the thesis is gaining traction with more companies adopting BTC corporate treasuries. Following the success of Michael Saylor's Strategy, Twenty One Capital, a new firm backed by Tether, Bitfinex, SoftBank, and a Cantor Fitzgerald affiliate, also plans to hold 42,000 BTC at launch.\n\nDue in part to recent accumulation, liquidity in the spot BTC market has been \"significantly drained,\" Dr. Kirill Kretov, lead strategist at trading automation platform CoinPanel, said in a Telegram note. According to the firm's proprietary blockchain analysis, a large portion of bitcoin liquidity has been withdrawn from actively transacting addresses, including exchanges, since November 2024, exposing markets to volatile price swings.\n\n“The market is thin, vulnerable, and easily moved by large players,\" Kretov said. \"Sharp swings of 10% up or down are likely to remain the norm for now.\"\n\nWhile the route could be choppy, this week’s rally is likely the early innings of bitcoin's next leg higher to new records, said John Glover, chief investment officer of crypto lender Ledn.\n\nBased on his technical analysis using Elliott Waves, he said BTC began the fifth and final wave of its multi-year bull market.\n\nElliott Wave theory suggests asset prices move in predictable patterns called waves, driven by collective investor psychology. These patterns typically unfold in five-wave trends, in which the first, third, and fifth waves are impulsive rallies, while the second and fourth waves are corrective phases.\n\nWhile retesting this month's low at $75,000 cannot be ruled out, Glover sees BTC climbing to a cycle top around late 2025, early 2026.\n\n\"My expectations continue to be for a rally to $133-$136k into the end of this year, beginning of next,” he said.\n\nRead more: Bitcoin Whales Return in Force, Buy the BTC Price Rally, On-Chain Data Show",
+    "url": "https://www.coindesk.com/markets/2025/04/25/bitcoin-poised-for-strongest-weekly-gain-since-trump-win-as-etfs-gobble-usd2-7b-inflows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "David Duong",
+                "Michael Saylor",
+                "Dr. Kirill Kretov",
+                "John Glover",
+                "Donald Trump"
+            ],
+            "positions": [
+                "global head of research",
+                "chief investment officer",
+                "lead strategist"
+            ],
+            "companies": [
+                "Coinbase Institutional",
+                "Twenty One Capital",
+                "Tether",
+                "Bitfinex",
+                "SoftBank",
+                "Cantor Fitzgerald",
+                "CoinPanel",
+                "Ledn",
+                "SoSoValue"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH",
+            "SUI",
+            "BCH",
+            "HBAR"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's strongest weekly gain since Trump's election, significant ETF inflows, analyst predictions of new record prices, and institutional adoption driving market confidence."
+    }
+}

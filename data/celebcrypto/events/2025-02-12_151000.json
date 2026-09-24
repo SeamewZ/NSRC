@@ -1,0 +1,39 @@
+{
+    "title": "Could 'Based Rollups' Solve Ethereum's Layer-2 Problem?",
+    "summary": "As layer-2 chains continue to proliferate, some Ethereum developers are pushing rollup tech that takes a new approach to interoperability: “based rollups.”",
+    "time": "2025-02-12T15:10:00",
+    "author": "Margaux Nijkerk",
+    "content": "The Ethereum community has been in turmoil over the past few weeks, with members raising the alarm that the chain will lose its competitive edge if it doesn’t address some core design issues.\n\nA key focus of the outrage has been layer-2 fragmentation. In recent years, Ethereum has embraced a layer-2 scaling roadmap—a plan that encouraged the development of third-party auxiliary networks called \"layer-2 rollups\"—to help scale the base Ethereum ecosystem. Offloading activity to these upstart networks has helped bring down fees and improve speeds for end-users, but it has led to a massive, deeply fragmented ecosystem of layer 2s.\n\nWhile layer-2 networks all post data back down to Ethereum, they often struggle to communicate directly with one another, meaning passing assets and data between them can become expensive and cumbersome. There's also the risk of centralized sequencers: reliance on company-controlled black boxes to pass transaction data between blockchain layers.\n\nAs layer-2 chains continue to proliferate, some Ethereum developers are pushing rollup tech that takes a new approach to security and interoperability: “based rollups.\"\n\nBased rollups differ from most existing rollups because they shift execution duties—such as processing transactions—back to Ethereum's layer-1 rather than handling them on a separate layer-2 network.\n\nWhen someone transacts on a layer-2 rollup, their transaction is processed through a component called a “sequencer.” The sequencer batches multiple transactions and submits them to Ethereum for settlement. In most rollups today, this sequencer is centralized, meaning a single entity (usually the company that built the rollup) controls the ordering and posting of transactions.\n\nCentralized sequencers are currently a topic of debate in the Ethereum community. While sequencers provide efficiency and generate revenue for rollup operators by strategically ordering transactions, they also introduce a single point of failure. A malfunctioning or malicious sequencer can delay or manipulate transactions, raising concerns about censorship and reliability.\n\nBased rollups avoid this vulnerability by using Ethereum’s built-in sequencing—its massive community of validators—rather than a single centralized sequencer.\n\nIn 2022, Ethereum co-founder Vitalik Buterin laid out his vision for a rollup-centric roadmap. The plan proposed using layer-2 rollups to side-step the base chain's high fees and slow transaction speeds.\n\nDifferent rollups employ different strategies for keeping down costs and boosting speeds, but they are all designed to uphold decentralization and security—meaning (in theory) the networks shouldn't be centrally run, and the transactions they shepherd to Ethereum are free from tampering.\n\nRollups like Optimism, Arbitrum, Base, zkSync, and Blast have quickly grown to support larger transaction volumes than Ethereum itself. According to L2Beat, there are currently 140 live layer-2 networks, but the experience of operating between them—passing assets and other data between networks—has become clunky. As Ethereum becomes bigger and layer-2 networks become more integral to its functioning, improving communication between layer-2s—in other words, improving \"composability\"—has become more important than ever.\n\nBecause based rollups share the sequencer from the layer-1 chain (sometimes referred to as the layer-1 \"proposer\"), they can call on smart contracts on other based rollups within seconds, making it easier to access and exchange data across layer-2s.\n\n“They effectively share a sequencer with each other and also with the layer-1 and that allows the sequencer now to coordinate messages passing between different based rollups, whereas normally message passing happens in an asynchronous fashion,” said Ben Fisch, the CEO of Espresso Systems, in an interview with CoinDesk.\n\nSince based rollups all use Ethereum’s built-in sequencing, they can interact with one another instantly, in blockchain terms—all within the same Ethereum block.1\n\n“You could have, in the span of one Ethereum block, a based rollup withdraw assets, do something in the layer-1, deposit the assets back, do something in the layer-2 and withdraw assets again,” Fisch told CoinDesk.\n\nA few projects are looking to use based technology, but only one based rollup, Taiko, is currently live.\n\nWhile rollups like Taiko present clear benefits, they will need to overcome some technical hurdles before they can be more widely adopted.\n\nOne major challenge is proof generation. When a based rollup submits transaction data to Ethereum, it must generate and publish proofs every 12 seconds—matching Ethereum’s block time. Currently, layer-2 rollups use two types of proof systems: zero-knowledge (ZK) proofs, which finalize in minutes, and optimistic proofs, which take up to seven days to suss out potential fraud.\n\nFor based rollups to function efficiently, proof generation speeds would need to align with Ethereum’s block time—a significant technical leap. However, Fisch says a breakthrough on this front could be \"imminent. \"\n\nThe other pitfall is Ethereum's block producers, or \"layer-1 proposers.\" In based rollups, these proposers take over the role of sequencing transactions. But their primary motivation isn’t necessarily fairness—it’s profit\n\n“Layer-1 proposers are not trusted entities that are working in the interest of the layer-2, they are economically motivated to make as much money as they can,” Fisch said. “So they may confirm some transactions for end users, and then see an MEV opportunity, which causes them to publish something totally different.”\n\nMEV, or maximal extractable value, refers to the practice of reordering transactions to maximize profit, often at the expense of regular users. If proposers manipulate transactions, it could create instability in based rollups. To address this, developers are working on solutions like based pre-confirmations, which aim to add economic incentives for proposers to act in the interest of rollups.\n\nSo while based rollups may present a promising way to reduce fragmentation between layer-2s, they're not a miracle fix. “My personal opinion is that based rollups are one part of the solution, they are not the only solution, and not all layer-2s necessarily should or will be based,” Fisch said.\n\nRead more: ‘Sequencers’ Are Blockchain’s Air Traffic Control. Here’s Why They’re Misunderstood",
+    "url": "https://www.coindesk.com/tech/2025/02/11/could-based-rollups-solve-ethereum-s-layer-2-problem",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Vitalik Buterin",
+                "Ben Fisch"
+            ],
+            "positions": [
+                "CEO",
+                "co-founder"
+            ],
+            "companies": [
+                "Espresso Systems",
+                "CoinDesk",
+                "Optimism",
+                "Arbitrum",
+                "Base",
+                "zkSync",
+                "Blast",
+                "Taiko"
+            ],
+            "organizations": [
+                "Ethereum",
+                "L2Beat"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The article discusses technical developments and challenges with based rollups as a potential solution to Ethereum's layer-2 fragmentation, presenting both benefits and hurdles without clear market direction."
+    }
+}

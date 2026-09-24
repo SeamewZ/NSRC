@@ -1,0 +1,40 @@
+{
+    "title": "Binance Founder CZ Confirms He Has Applied for Trump Pardon After Prison Term",
+    "summary": "Changpeng Zhao submitted the request weeks ago, citing media reports and after pardons other influential figures in the crypto space were pardoned.",
+    "time": "2025-05-08T07:59:00",
+    "author": "Francisco Rodrigues",
+    "content": "Changpeng “CZ” Zhao, founder and former CEO of Binance, confirmed on a podcast that he has formally applied for a presidential pardon from Donald Trump—less than a year after serving a four-month sentence in a U.S. federal prison.\n\nZhao shared the update on an episode of the Farohk Radio podcast, stating that his legal team submitted the application two weeks earlier.\n\n“I’ve got lawyers applying. We only submitted after the Bloomberg article and the Wall Street Journal article came out,” he said, referring to March coverage that reported he was seeking a pardon while engaging in crypto business deals involving Trump family allies. “And I was like, well, if they are writing this article, we might as well officially apply.”\n\nAt the time, Zhao publicly rejected parts of those stories, calling them inaccurate and denied any active business negotiations involving Binance U.S.\n\nZhao was sentenced in April 2024 after pleading guilty the year before to failing to maintain an effective anti-money laundering program at Binance, at the time the world’s largest cryptocurrency exchange by trading volume.\n\nAlongside his prison term, Zhao paid a $50 million fine. Binance itself paid $4.3 billion in what became one of the largest corporate settlements in U.S. history. He was released in September last year.\n\nTrump has already pardoned other high-profile figures in the crypto space. These include Silk Road founder Ross Ulbricht and BitMEX’s co-founders as his administration brought on a more crypto-friendly regulatory environment.\n\nDuring the podcast, CZ also revealed he wasn’t invested in Donald Trump’s official memecoin TRUMP.Earlier this week, Zhao revealed he advised Kyrgyzstan on using BTC and BNB as the initial cryptocurrencies for a potential National Crypto Reserve.",
+    "url": "https://www.coindesk.com/policy/2025/05/08/binance-founder-cz-confirms-he-has-applied-for-trump-pardon-after-prison-term",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Changpeng Zhao",
+                "Donald Trump",
+                "Ross Ulbricht"
+            ],
+            "positions": [
+                "founder",
+                "former CEO",
+                "co-founders"
+            ],
+            "companies": [
+                "Binance",
+                "Binance U.S.",
+                "BitMEX"
+            ],
+            "organizations": [
+                "Bloomberg",
+                "Wall Street Journal",
+                "Farohk Radio",
+                "Silk Road",
+                "Kyrgyzstan"
+            ]
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "BNB"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news primarily reports on CZ's personal legal situation and advisory role, with no direct implications for market prices or investor sentiment mentioned."
+    }
+}

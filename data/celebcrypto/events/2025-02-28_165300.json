@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Dip-Buyers Step in Friday, but What Might Weekend Action Bring?",
+    "time": "2025-02-28T16:53:00",
+    "author": "Stephen Alpher",
+    "summary": "Punitive tariffs against Mexico, Canada and China could go into effect on Tuesday.",
+    "content": "The price of bitcoin\nBTC\n$103,794.91\nin U.S. Friday morning trade has bounced back to about $84,000 after an overnight plunge to the $78,000 area, but still remains lower by more than 15% from its level of only one week ago.\n\nThe Crypto Fear & Greed Index overnight dipped to 10 — a level not seen since the depths of the 2022 bear market — but has also bounced, now residing at 16. That's still in the \"extreme fear\" range and well below last week's 55 (in the \"greed\" range). Levels above 75 are considered \"extreme greed\" and the index hasn't been there since around the time of Trump inauguration.\n\nEven with the Friday gain, bitcoin is lower by more than 1% from 24 hours ago and the broader CoinDesk 20 Index is down roughly 2%.\n\nAlone in the green among the major cryptos is solana\nSOL\n$161.02\n, ahead 5% as the CME announced plans to add SOL futures to its crypto platform on March 17. SOL, however, remains off by 36% over the past month and well beneath the levels it was at prior to the November election victory of Donald Trump.\n\nAll major stock markets, of course, are closed on the weekends. Even foreign exchange, touted for decades as a market that never sleeps, actually shuts down between Friday and Sunday evenings. Crypto, however, has no such break, but traders could be forgiven for clamoring for one.\n\nStandard Chartered's Geoff Kendrick a couple of weeks ago pointed out that weekends have not been kind for bitcoin of late. While last weekend was very modestly positive for the world's largest crypto, the trend prior to that for had been lower prices, often sharply so.\n\n\"Are risk assets really going to rally into [this] weekend now we have had the bad news,\" asked Kendrick in a note Friday morning. His answer is likely that they won't.\n\nA contrarian take is that they just might. After all, macro risk — at least as defined by President Trump's belligerent tariff stance — could be fully priced in. He's promised that 25% tariffs will begin for Mexico and Canada and 10% for China this coming Tuesday. How might things get worse than that? Will he bump them to 50%?\n\nInstead, with prices having fallen so far (stock markets stumbled as well this week), it might be the bears who are in the riskiest spot over the next 48+ hours if — for instance — a deal averting or substantially delaying the tariffs were to be reached.\n\nBuckle up.",
+    "url": "https://www.coindesk.com/markets/2025/02/28/bitcoin-dip-buyers-step-in-friday-but-what-might-weekend-action-bring",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Geoff Kendrick",
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Standard Chartered",
+                "CME"
+            ],
+            "organizations": [
+                "CoinDesk 20 Index"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "solana",
+            "SOL"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin's significant price decline, extreme fear in the market index, and analyst concerns about weekend price action amid negative macroeconomic factors."
+    }
+}

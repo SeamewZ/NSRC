@@ -1,0 +1,35 @@
+{
+    "title": "Sentiment Shift in Bitcoin as $80K Put Emerges as Most Popular Bet",
+    "time": "2025-04-02T12:44:00",
+    "author": "Omkar Godbole",
+    "summary": "BTC put bias is strongest since the U.S. regional banking crisis of early 2023, according to one observer.",
+    "content": "Need evidence of the drastic change in the crypto market sentiment lately? Look no further than Deribit's options market, where the $80,000 bitcoin\nBTC\n$103,988.20\nput option, offering downside protection below the said level, is now the most popular bet.\n\nIt's a 180-degree change from early this year when call options at six-figure levels garnered the most interest among traders.\n\nAs of writing, the number of open positions in the $80,000 put option tallied 10,278 contracts, equating to a notional open interest of $864.26 million, according to data source Amberdata. That makes it the most popular options play on Deribit, where one contract represents one BTC.\n\nIt also marks a significant positioning shift from early January when the call option at the $120,000 strike was the most popular bet with an open interest of nearly $1.5 billion. Last month, the $100,000 call took the crown.\n\nThe positioning shift indicates traders have reassessed upside expectations amid the market swoon and lingering economic uncertainty. BTC fell 11.66% in the first quarter, with prices slipping below $80,000 at one point as President Donald Trump's tariffs shook Wall Street. Additionally, disappointment over the lack of fresh purchases in the U.S. strategic reserve weighed over prices.\n\nLater Wednesday, Trump is expected to announce sweeping reciprocal tariffs on its trading partners, which could lead to a full-blown trade war. That has BTC traders chasing downside protection.\n\n\"BTC volatility smiles have shifted sharply towards OTM puts, reaching levels not seen since the US Banking Crisis in March 2023. ETH's short-tenor volatility smile skews have partially recovered from their strong tilt toward OTM put,\" analytics firm Block Scholes said in its market update Wednesday.",
+    "url": "https://www.coindesk.com/markets/2025/04/02/bitcoin-market-experiences-sentiment-shift-as-usd80k-put-emerges-as-most-popular-bet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Deribit",
+                "Amberdata",
+                "Block Scholes"
+            ],
+            "organizations": [
+                "U.S. strategic reserve",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "ETH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a significant shift toward put options for downside protection, falling prices, and traders reassessing upside expectations amid market swoon and economic uncertainty."
+    }
+}

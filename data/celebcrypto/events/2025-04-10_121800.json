@@ -1,0 +1,29 @@
+{
+    "title": "Babylon, Which Has Over $4B BTC Locked, Launches Layer 1 'Genesis' to Advance Its BTC Yield Platform",
+    "summary": "With more value tied up in BTC than every other cryptocurrency in existence combined, Babylon is aiming to channel this into the wider crypto ecosystem",
+    "time": "2025-04-10T12:18:00",
+    "author": "Jamie Crawley",
+    "content": "Bitcoin\nBTC\n$102,205.43\nproject Babylon has launched its layer-1 blockchain \"Genesis\" as it moves to the next stage of building its staking protocol which has already drawn over $4 billion in total-value locked (TVL).\n\nBabylon allows BTC holders to earn yield on their assets, which are used to provide security and liquidity for proof-of-stake networks. Bitcoin is almost 2/3rd of the total crypto ecosystem with much of it sitting idly in users' wallets. Babylon is aiming to channel this into the wider crypto ecosystem.\n\nGenesis will serve as a BTC staking network, using staking and timestamping to harness Bitcoin's security as well as acting as a control plane to coordinate other networks that may stake bitcoin and a hub to provide liquidity to decentralized applications.\n\nRewards for staking will be split 50-50 between stakers of BTC and stakers of BABY, Genesis' native token.\n\nStaking is the process of crypto users offering their tokens to a network in order to finance its ongoing operation in return for yield, similar to acquiring interest from a savings account with a bank. Staking is fundamental to most blockchains, but has been largely absent from Bitcoin, which Babylon is attempting to address.\n\nThe launch of Genesis represents the second stage of Babylon's roadmap, of which the first was building a BTC kitty as the foundation for its staking protocol. More than 57,000 BTC ($4.6 billion) have been staked on Babylon since its inception in August last year.\n\nThe protocol is also supported by over 250 \"finality providers\", who approve transactions to maintain the network's operation. These include Galaxy, Figment and P2P, according to an emailed announcement on Thursday.",
+    "url": "https://www.coindesk.com/tech/2025/04/10/babylon-which-has-over-usd4b-btc-locked-launches-layer-1-genesis-to-advance-its-btc-yield-platform",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Galaxy",
+                "Figment",
+                "P2P"
+            ],
+            "organizations": [
+                "Babylon"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "BABY"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The launch enables $4.6 billion in previously idle Bitcoin to earn yield and provide security/liquidity to the wider crypto ecosystem, indicating increased utility and market confidence."
+    }
+}

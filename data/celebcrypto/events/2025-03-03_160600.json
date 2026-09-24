@@ -1,0 +1,40 @@
+{
+    "title": "SEC Plans to Drop Its Case Against Kraken, Firm Says",
+    "summary": "Kraken called the SEC’s decision to drop the case a “turning point for the future of crypto in the U.S.” in a Monday blog post",
+    "time": "2025-03-03T16:06:00",
+    "author": "Cheyenne Ligon",
+    "content": "The U.S. Securities and Exchange Commission (SEC) has agreed to drop its ongoing enforcement lawsuit against American crypto exchange Kraken, according to a Monday announcement from the firm.\n\nThe SEC sued Kraken in November 2023, accusing the exchange of commingling customer and corporate funds while operating as an unregistered securities broker, clearing agency and dealer. Instead of settling with the SEC, Kraken chose to fight the charges, and a federal judge ruled the agency had a plausible case and should go to trial. Now, pending approval from the SEC’s commissioners, Kraken says the charges will be dropped “with prejudice, with no admission of wrongdoing, no penalties paid and no changes to our business.”\n\nKraken’s victory comes as the SEC continues its full-scale retreat from crypto enforcement cases and investigations that began during former Chair Gary Gensler’s tenure. The Commission’s new leadership has indicated a move away from the so-called “regulation by enforcement” practiced by Gensler, and has pledged to craft clear rules of the road for the crypto industry.\n\n“The SEC’s decision to dismiss its lawsuit against us (and many others) is more than just a legal victory — it’s a turning point for the future of crypto in the U.S. It ends a wasteful, politically motivated campaign, lifts uncertainty that stifled innovation and investment, and clears the path toward a stable, forward-thinking regulatory regime,” Kraken said in a Monday blog post.\n\nThe SEC had previously filed in court to pause its ongoing cases against Binance and the Tron Foundation, as well as their affiliated executives and companies.\n\nThough the SEC is dropping crypto cases like hot potatoes, not all defendants are off the hook yet. Several major companies, including Ripple and Cumberland DRW, the crypto trading arm of Chicago-based trading giant DRW, are still locked in legal battles with the regulator. And while many of the SEC’s crypto probes have been closed, and will not result in enforcement charges — including probes into OpenSea, Gemini, Robinhood Crypto and Uniswap, others into Crypto.com, Immutable, and Unicoin remain open.\n\nRead more: As the SEC Continues its Crypto Litigation Retreat, Here’s What’s Still Outstanding",
+    "url": "https://www.coindesk.com/policy/2025/03/03/sec-plans-to-drop-its-case-against-kraken-firm-says",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Gary Gensler"
+            ],
+            "positions": [
+                "former Chair"
+            ],
+            "companies": [
+                "Kraken",
+                "Binance",
+                "Tron Foundation",
+                "Ripple",
+                "Cumberland DRW",
+                "DRW",
+                "OpenSea",
+                "Gemini",
+                "Robinhood Crypto",
+                "Uniswap",
+                "Crypto.com",
+                "Immutable",
+                "Unicoin"
+            ],
+            "organizations": [
+                "SEC",
+                "U.S. Securities and Exchange Commission"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The SEC dropping its case against Kraken with no penalties or business changes is described as a 'turning point for the future of crypto in the U.S.' that lifts uncertainty and clears the path for innovation."
+    }
+}

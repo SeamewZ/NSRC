@@ -1,0 +1,38 @@
+{
+    "title": "New Jersey's Bergen County to Tokenize $240B in Real Estate Deeds on Avalanche Network",
+    "time": "2025-05-28T15:00:00",
+    "author": "Krisztian Sandor",
+    "summary": "The wealthy New York City suburb will migrate 370,000 property deeds — representing about $240 billion worth of real estate — onto an immutable, searchable blockchain ledger.",
+    "content": "Bergen County, New Jersey is turning to the Avalanche\nAVAX\n$16.68\nnetwork to put its entire property record system on blockchain, claiming to be the largest property deed tokenization project in the U.S.\n\nUnder a five-year agreement with land record blockchain firm Balcony, the well-to-do county across the Hudson River from New York city will migrate 370,000 property deeds — representing about $240 billion worth of real estate — onto an immutable, searchable blockchain ledger, according to a press release. The system, powered by Avalanche, will serve nearly a million residents across 70 municipalities.\n\n\"This initiative is about improving the lives of our residents,\" said John Hogan, County Clerk of Bergen. \"By digitizing property records, we are making the process simpler, faster, and more secure for homeowners, businesses, and future generations.\"\n\nThe move aligns with a broader trend of using blockchain rails for moving and recording ownership of assets like bonds, funds and real estate — a process also known as tokenization of real-world assets (RWA). The tokenized asset market could reach $18.9 trillion by 2033, with real estate amounting to a significant share, a recent report by Boston Consulting Group and Ripple projected. Most recently, the Dubai Land Department debuted a real estate tokenization platform built on the XRP Ledger\nXRP\n$2.4254\nnetwork as part of its strategy to bring 7% of all real estate transactions, worth roughly $16 billion, to blockchain rails.\n\nBalcony, which has already introduced similar systems in several counties across New Jersey, claims that its blockchain-based platform can cut deed processing time by 90% while addressing risks like fraud and record discrepancies. It can boost municipal revenue, too: the platform detected almost $1 million in lost municipal revenue in Orange, NJ, previously hidden due to incomplete or outdated property records, the company said.\n\n\"Blockchain is continuing to solve complex, real-world problems,\" said Luigi D’Onorio DeMeo, chief strategy officer of ecosystem development organization Ava Labs. \"[Avalanche's] infrastructure is built to handle large amounts of data quickly and securely, which is exactly what’s needed to modernize how property records are managed and transform how public institutions operate.\"\n\nLast year, California's Department of Motor Vehicles (DMV) digitized 42 million of car titles on Avalanche to modernize the state's title transfer process with software development firm Oxhead Alpha.\n\nRead more: Dubai Unveils Real Estate Tokenization Platform on XRP Ledger Amid $16B Initiative",
+    "url": "https://www.coindesk.com/business/2025/05/28/new-jerseys-bergen-county-to-tokenize-240b-in-real-estate-deeds-on-avalanche-network",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "John Hogan",
+                "Luigi D'Onorio DeMeo"
+            ],
+            "positions": [
+                "County Clerk of Bergen",
+                "chief strategy officer of ecosystem development organization"
+            ],
+            "companies": [
+                "Balcony",
+                "Ava Labs",
+                "Boston Consulting Group",
+                "Ripple",
+                "Oxhead Alpha"
+            ],
+            "organizations": [
+                "Bergen County, New Jersey",
+                "Dubai Land Department",
+                "California's Department of Motor Vehicles (DMV)"
+            ]
+        },
+        "cryptocurrencies": [
+            "AVAX",
+            "XRP"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major real estate tokenization project on Avalanche network and mentions positive outcomes like reduced processing time, fraud prevention, and revenue increases, indicating growing institutional adoption and confidence in blockchain technology."
+    }
+}

@@ -1,0 +1,1 @@
+Frozen-route paired significance and stability. Routes were selected on validation only. Significance uses calendar-day circular block bootstrap (49,999 resamples), with Holm correction within each comparison family at the 7-day block size. Volatility thresholds are computed from non-test observations.

@@ -1,0 +1,49 @@
+{
+    "title": "President Trump Pardons Arthur Hayes, BitMEX and 3 Other Co-Founders and Employee",
+    "summary": "Arthur Hayes, the former CEO of BitMEX, pleaded guilty to one count of violating the Bank Secrecy Act and was sentenced to two years probation.",
+    "time": "2025-03-28T20:04:00",
+    "author": "Cheyenne Ligon",
+    "content": "Arthur Hayes, the former CEO of crypto exchange BitMEX, has been granted a pardon by U.S. President Donald Trump, a White House official confirmed Friday.\n\nTrump also pardoned Hayes’ co-founders at BitMEX, Samuel Reed and Benjamin Delo, as well as senior employee Greg Dwyer and BitMEX's operating entity, HDR Global Trading, a BitMEX spokesperson said. CNBC first reported the pardons, which the White House said were signed on Thursday.\n\nIn 2020, the U.S. Department of Justice (DOJ) brought charges against BitMEX, its three co-founders, and its first employee, Dwyer, accusing them of violating the Bank Secrecy Act (BSA). Prosecutors alleged BitMEX advertised itself as a place where customers could use its platform virtually anonymously, without providing basic know-your-customer (KYC) information. All four individuals eventually pleaded guilty and were sentenced to fines and probationary sentences. The exchange itself pleaded guilty to violating the BSA last year.\n\nHayes faced two years of probation; Delo spent 30 months on probation and Reed 18 months on probation. Dwyer got 12 months of probation.\n\nIn a statement, Delo said he and his colleagues had been \"wrongfully targeted.\"\n\n\"This full and unconditional pardon by President Trump is a vindication of the position we have always held — that BitMEX, my co-founders and I should never have been charged with a criminal offense through an obscure, antiquated law,\" he said. \"As the most successful crypto exchange of its kind, we were wrongfully made to serve as an example, sacrificed for political reasons and used to send inconsistent regulatory signals. I’m sincerely grateful to the President for granting this pardon to me and my co-founders.\"\n\nHayes just said \"thank you\" on X (formerly known as Twitter).\n\nThe Commodity Futures Trading Commission ordered BitMEX to pay $100 million for violating the Commodity Exchange Act and other CFTC regulations in 2021, separately from its DOJ settlements.\n\nAttorneys representing Hayes, Delo and Reed did not immediately return requests for comment.\n\nThe reported pardons come just a day after Trump granted a pardon to Trevor Milton, the former CEO of Nikola Motors who was previously convicted of fraud in 2022. In January, Trump made good on long-standing promises to pardon Silk Road creator Ross Ulbricht, who was 11 years into a draconian sentence of double life in prison plus 40 years, with no possibility of parole. Since Ulbricht’s pardon, former FTX CEO and convicted fraudster Sam Bankman-Fried has been angling for his own pardon, attempting to curry favor with the Trump administration and appearing on Tucker Carlson in an unauthorized jailhouse interview that landed him in solitary confinement.\n\nFormer Binance CEO Changpeng \"CZ\" Zhao, who pleaded guilty to the same charge as Hayes and served four months in prison last year — making him not only the richest person to ever go to prison in the U.S., but also the only person to ever serve jail time for violating the BSA — has denied reports that he, too, is seeking a pardon from President Trump.\n\nBut, Zhao admitted in a recent X post that “no felon would mind a pardon, especially being the only one in US history who was ever sentenced to prison for a single BSA charge.”\n\nUPDATE (March 28, 2025, 20:40 UTC): Adds Delo statement and White House official.\n\nUPDATE (March 28, 21:06 UTC): Adds Hayes.\n\nUPDATE (March 29, 04:15 UTC): Adds Dwyer and HDR.",
+    "url": "https://www.coindesk.com/policy/2025/03/28/president-trump-pardons-arthur-hayes-2-other-bitmex-co-founders-cnbc",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Arthur Hayes",
+                "Donald Trump",
+                "Samuel Reed",
+                "Benjamin Delo",
+                "Greg Dwyer",
+                "Trevor Milton",
+                "Ross Ulbricht",
+                "Sam Bankman-Fried",
+                "Changpeng \"CZ\" Zhao"
+            ],
+            "positions": [
+                "former CEO",
+                "President",
+                "co-founders",
+                "senior employee",
+                "former CEO",
+                "creator",
+                "former CEO",
+                "former CEO"
+            ],
+            "companies": [
+                "BitMEX",
+                "HDR Global Trading",
+                "Nikola Motors",
+                "FTX",
+                "Binance"
+            ],
+            "organizations": [
+                "White House",
+                "U.S. Department of Justice (DOJ)",
+                "Commodity Futures Trading Commission (CFTC)",
+                "Trump administration"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The pardon of BitMEX executives removes regulatory uncertainty and legal overhang from prominent crypto industry figures, which typically boosts market confidence."
+    }
+}

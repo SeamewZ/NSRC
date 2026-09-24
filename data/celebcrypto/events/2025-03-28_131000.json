@@ -1,0 +1,28 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Declines 4.5% as All Assets Trade Lower",
+    "time": "2025-03-28T13:10:00",
+    "author": "CoinDesk Indices",
+    "summary": "Polygon (POL) and Sui (SUI) both dropped 8.3% from Thursday, leading the index lower.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 2616.04, down 4.5% (-123.93) since 4 p.m. ET on Thursday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BTC (-2.5%) and BCH (-3.6%).\n\nLaggards: POL (-8.3%) and SUI (-8.3%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/03/28/coindesk-20-performance-update-index-declines-4-5-as-all-assets-trade-lower",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Polygon",
+            "POL",
+            "Sui",
+            "SUI",
+            "BTC",
+            "BCH"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index declined 4.5% with all 20 assets trading lower, led by significant drops in POL and SUI."
+    }
+}

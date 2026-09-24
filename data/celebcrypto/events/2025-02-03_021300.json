@@ -1,0 +1,42 @@
+{
+    "title": "Bitcoin Slumps to Near $94K as Asia Traders Ponder Over Trump's Trade War",
+    "time": "2025-02-03T02:13:00",
+    "author": "Sam Reynolds",
+    "summary": "BTC, ETH, SOL all slide as the market digests the impact of the possibility of a global trade war.",
+    "content": "Major digital assets including bitcoin\nBTC\n$103,852.44\n, ether\nETH\n$3,486.89\n, Solana's SOL, and XRP were all significantly down as Asia began its trading week. By mid-morning Hong Kong time, BTC was down 8%, trading above $93,100, according to CoinDesk Indices data.\n\nBy afternoon Hong Kong time, BTC appeared to stabilize near $93.9K.\n\nMeanwhile, ether\nETH\n$3,486.89\nis down nearly 20%, trading below $2,500, while SOL is down 7% at $193. XRP is down 23% and trading at $2.\n\nThe CoinDesk 20 (CD20), an index of the largest digital assets, is down nearly 17%. Trump's memecoin (TRUMP) is down 12%.\n\nWLFI\n$0.1102\n, the crypto project backed by Donald Trump's family, was also hit by market volatility with its January crypto investments down 20% according to data compiled by SpotOnChain.\n\nData from CoinGlass shows that over the last 12 hours nearly $1.3 billion in long positions have been liquidated, with around $400 million in long ether positions and $300 million in long BTC positions.\n\nThe market correction stems from a trade war that has seemingly been ignited by U.S. President Donald Trump with 25% tariffs being placed on Canada and Mexico.\n\nMany market observers are skeptical about the benefits of tariffs, with a Wall Street Journal editorial board op-ed calling it the \"Dumbest Trade War in History\" over the weekend.\n\nBrussels said that the European Union would respond firmly to any tariffs imposed on its member states.\n\n“Tariffs create unnecessary economic disruption and drive inflation. They are hurtful to all sides,” Politico quoted a spokesperson as saying.\n\nThe U.K. seems to be the only nation that's able to get a reprieve from tariffs, with Trump saying a deal can be \"worked out\" according to the BBC.\n\nTrump, for his part, dismissed criticism, in a series of posts on Truth Social over the weekend, suggesting that critics were being funded by China.\n\nUPDATE (Feb. 3, 04:30 UTC): Updates pricing, mentions WLFI loss.",
+    "url": "https://www.coindesk.com/markets/2025/02/03/bitcoin-drops-8-to-usd93k-as-asia-awakens-to-trump-s-trade-war",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [
+                "U.S. President"
+            ],
+            "companies": [
+                "CoinDesk",
+                "Wall Street Journal",
+                "BBC",
+                "Politico",
+                "SpotOnChain",
+                "CoinGlass"
+            ],
+            "organizations": [
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "Solana",
+            "SOL",
+            "XRP",
+            "TRUMP",
+            "WLFI"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes significant price declines across major cryptocurrencies, massive liquidations, and attributes the market correction to negative trade war developments."
+    }
+}

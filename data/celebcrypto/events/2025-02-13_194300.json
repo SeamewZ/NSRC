@@ -1,0 +1,30 @@
+{
+    "title": "HashFlare Co-Founders Plead Guilty in $577M Crypto Mining Ponzi Scheme",
+    "summary": "Estonian nationals Sergei Potapenko and Ivan Turõgin each face a maximum sentence of 20 years in prison.",
+    "time": "2025-02-13T19:43:00",
+    "author": "Cheyenne Ligon",
+    "content": "The co-founders of Hashflare, a crypto mining ponzi scheme that stole $577 million from hundreds of thousands of investors around the world, both pleaded guilty on Wednesday to conspiracy to commit wire fraud.\n\nSergei Potapenko and Ivan Turõgin, both 40, were arrested in their native Estonia in November 2022 and extradited to the U.S. on an 18-count indictment. Yesterday, both men pleaded guilty to one count each of conspiracy to commit wire fraud, which carries a maximum sentence of 20 years in prison.\n\nBetween 2015 and 2019, Potapenko and Turõgin convinced Hashflare’s investors to rent a percentage of the scheme’s crypto mining operations in exchange for a percentage of the cryptocurrency Hashflare produced. But, according to court documents, Hashflare had only a tiny fraction of the mining equipment it purported to have – less than 1% of the computing power Potapeno and Turõgin had sold. When investors tried to claim their proceeds, prosecutors say the two men either resisted making payments by making excuses or paid them back with crypto purchased on the open market.\n\nRead more: Two Estonians Charged With Running a Series of Crypto Scams Totaling $575M\n\nPotapenko and Turõgin’s lawyers say that none of Hashflare’s investors suffered financial harm, telling CoinDesk that the men’s only crime was lying about the size of Hashflare’s mining operation.\n\n“Ivan and Sergei ran successful businesses, providing real services, employing almost 100 Estonians, and doing charitable work in Estonia. As Ivan admitted [Wednesday], one of his and Sergei’s businesses promised to mine crypto and did in fact mine crypto, but not as much as it had promised; instead, it sometimes repaid customers with crypto it had purchased on the open market,” said Andrey Spektor, partner at Norton Rose Fulbright US LLP and counsel to Turogin.\n\n“Importantly, however, as we will show at sentencing, no customer has suffered any harm. Ivan and Sergei look forward to returning to Estonia and resuming their lives.”\n\nAccording to court documents, the men used their victim’s money to make dozens of real estate investments and purchase luxury cars. As part of the plea agreement, Potapenko and Turõgin agreed to forfeit assets valued over $400 million, which will be used to pay back investors.\n\nPotapenko and Turõgin will be sentenced in a Seattle court on May 8.",
+    "url": "https://www.coindesk.com/policy/2025/02/13/hashflare-co-founders-plead-guilty-in-usd577m-crypto-mining-ponzi-scheme",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Sergei Potapenko",
+                "Ivan Turõgin",
+                "Andrey Spektor"
+            ],
+            "positions": [
+                "co-founders",
+                "partner",
+                "counsel"
+            ],
+            "companies": [
+                "Hashflare",
+                "Norton Rose Fulbright US LLP"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a $577 million crypto mining Ponzi scheme with guilty pleas, which represents regulatory enforcement and fraud that undermines market confidence."
+    }
+}

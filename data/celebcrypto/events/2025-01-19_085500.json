@@ -1,0 +1,40 @@
+{
+    "title": "Solana Hits $275 Lifetime Peak as Official Trump Memecoin Surges to $8B",
+    "time": "2025-01-19T08:55:00",
+    "author": "Shaurya Malwa",
+    "summary": "Donald Trump’s official memecoin hit $44 early Sunday, up more than 900% over the past 24 hours.",
+    "content": "Donald Trump’s official memecoin has jumpstarted fresh speculative activity in the Solana ecosystem.\n\nMultiple large-cap tokens based on Solana surged higher Saturday, and the blockchain’s native SOL token set fresh highs above $275 as the incoming U.S. president backed a new Solana-based TRUMP token, calling it his “official” memecoin.\n\nThe choice of Solana as an issuance network bumped demand and sentiment for SOL tokens, as CoinDesk reported on Saturday.\n\nSOL trading volumes have rocketed from Thursday’s $3 billion to over $26 billion in the past 24 hours, with Saturday’s moves bringing weekly gains to over 46%.\n\nThat’s a nearly 3,000% surge since three-year lows of $9 in December 2022 following the implosion of crypto exchange FTX and prominent backer Sam Bankman-Fried, which dented sentiment for Solana at the time.\n\nTrump’s official memecoin was issued in late U.S. hours Friday on the Solana blockchain by a team including ecosystem giants Jupiter and Meteora. Prices of Jupiter’s JUP tokens are up 30% in the past 24 hours.\n\nThe token launch was co-ordinated by CIC Digital LLC - an affiliate of the Trump Organization, and the newly-formed company Fight Fight Fight LLC, per BBC. The duo holds 80% of the tokens, subject to a vesting period of over three years, and it is unclear how much money Trump might make from the venture.\n\nTRUMP prices rocketed from a few cents to $14 in less than six hours amid widespread confusion on whether the token was actually backed by Trump or if someone had hacked Trump’s account and issued a fake token.\n\nThe token was trading above $44 during the Asian afternoon hours on Sunday, having grabbed listings on prominent exchanges Coinbase and Binance, as well as several futures products. It has become the third-largest memecoin by market capitalization behind\nDOGE\n$0.1619\nand\nSHIB\n$0.0₅8946\n, flipping pepecoin (PEPE).",
+    "url": "https://www.coindesk.com/markets/2025/01/19/solana-hits-275-lifetime-peak-as-official-trump-memecoin-surges-to-8-b",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Sam Bankman-Fried"
+            ],
+            "positions": [
+                "incoming U.S. president"
+            ],
+            "companies": [
+                "Trump Organization",
+                "CIC Digital LLC",
+                "Fight Fight Fight LLC",
+                "Coinbase",
+                "Binance",
+                "FTX"
+            ],
+            "organizations": [
+                "BBC"
+            ]
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "TRUMP",
+            "JUP",
+            "DOGE",
+            "SHIB",
+            "PEPE"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant price surges, increased trading volumes, and positive market sentiment driven by Trump's official memecoin launch on Solana."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Mike Novogratz's Galaxy Digital Swaps $100M ETH for SOL, On-Chain Data Shows",
+    "summary": "SOL is up 8% in the last month while ether is down nearly 20%.",
+    "time": "2025-04-22T05:31:00",
+    "author": "Sam Reynolds",
+    "content": "Mike Novogratz's Galaxy Digital has apparently swapped $100 million worth of ether\nETH\n$3,341.49\nfor solana's SOL.\n\nAccording to Wu Blockchain, on-chain data suggests that Galaxy has swapped out a considerable amount of its ETH holdings for SOL. Over the last two weeks, Galaxy has transferred 65,600 ETH – or about $105 million – to Binance and has withdrawn 752,240 SOL (approximately $98.37 million).\n\nGalaxy may have made the move because ETH continues to be in \"structural decline\" according to a recent note from Standard Chartered, which slashed its year-end target price for the asset.\n\nData from an Arkham dashboard shows that the firm holds $87.9 million ETH versus $23.86 million SOL.\n\nGalaxy did not immediately return a request for comment from CoinDesk.\n\nMarket data shows that in the last month, SOL is up 8% while ETH is down nearly 20%.\n\nStandard Chartered estimated in its note that Base has cut $50 billion from its market cap, but also argued that tokenized real-world assets could help stabilize Ethereum.\n\nMany blockchain metrics would support Standard Chartered's thesis, as transactions on Solana have rocketed past Ethereum in the last three months.\n\nA Dune dashboard shows that decentralized exchange (DEX) volume on Solana has moved past $500 billion in the last three months, while DEX volume on Ethereum is less than $400 billion. Active addresses on Solana are over 220 million while Ethereum and Ethereum Layer-2 addresses are just over 80 million.\n\nOne idea, first proposed by Tron's Justin Sun, to reverse this \"structural decline\" of Ethereum has been a tax on Layer-2s.\n\n\"All collected taxes will be used to repurchase ETH and burn it in a fully decentralized manner,\" he wrote on X. This idea, however, hasn't been formalized into an Ethereum Improvement Proposal (EIP) which would be the first step in it becoming reality.\n\nMeanwhile, flow data from the Ether ETFs shows that investors moved nearly $600 million out of these listed products over the last two months.",
+    "url": "https://www.coindesk.com/markets/2025/04/22/mike-novogratz-s-galaxy-digital-swaps-usd100m-eth-for-sol-on-chain-data-shows",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Mike Novogratz",
+                "Justin Sun"
+            ],
+            "positions": [],
+            "companies": [
+                "Galaxy Digital",
+                "Binance",
+                "Standard Chartered",
+                "Tron",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Arkham",
+                "Ethereum Improvement Proposal"
+            ]
+        },
+        "cryptocurrencies": [
+            "ETH",
+            "SOL",
+            "Ethereum",
+            "Solana"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a major institutional swap from ETH to SOL, highlights SOL's recent 8% price increase versus ETH's 20% decline, and notes Solana's superior transaction volume and active addresses compared to Ethereum."
+    }
+}

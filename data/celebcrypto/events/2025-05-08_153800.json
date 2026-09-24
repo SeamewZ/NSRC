@@ -1,0 +1,34 @@
+{
+    "title": "Bitcoin Tops $100K for First Time in 3 Months; Are Upside Targets Too Low?",
+    "summary": "The price has jumped 33% in a few weeks after plunging to $75,000 in the days following President Trump's early April Liberation Day tariff announcement.",
+    "time": "2025-05-08T15:38:00",
+    "author": "Stephen Alpher",
+    "content": "Bitcoin\nBTC\n$102,012.78\nis back in six figures, continuing yet another of its famous zigs when most were expecting a zag.\n\nTo review, the world's largest crypto first pushed through $100,000 in December as it rallied hard following Donald Trump's November election victory. The price eventually rose above $109,000 in the hours prior to the Trump inauguration on Jan. 20.\n\nWith the bulls furiously revising their upside price targets higher, things began to crack at that moment. What followed in ensuing weeks was a steady decline, which reached its denouement at just under $75,000 in the panic following Trump's early April announcements of punitive tariffs against U.S. trading partners.\n\nThe carnage in many altcions was far worse. Solana\nSOL\n$157.71\nand ether\nETH\n$3,336.40\n, for instance, had peak to bottom declines of more than 60%.\n\nPrices have quickly reversed since, though, with traditional markets joining crypto in looking past the tariff shock. As with bitcoin, the Nasdaq and S&P 500 are both currently at higher levels than prior to Trump's Liberation Day.\n\nThis latest push to above $100,000 appears to be due to a trade deal between the U.S. and UK.\n\n\"The dominant story for bitcoin has changed again,\" wrote Standard Chartered's Geoff Kendrick in a note Thursday morning. \"It is now all about flows. And flows are coming in many forms.\"\n\nKendrick took note of the well-reported story about surging inflows into the spot bitcoin ETFs of late. These are sometimes dismissed thanks to a sizable chunk of those flows being offset by basis trades (where hedge funds put on an equal short of bitcoin futures and bank a small yield). Kendrick, however, argued that basis trades have barely moved higher during this latest bout of inflows, suggesting real money is moving into the ETFs.\n\nThe 13F institutional reporting of not just spot BTC ETF holdings, but also ownership of major corporate bitcoin holder Strategy (MSTR) will begin rolling in one week from now, and Kendrick expects further confirmation of important players boosting their allocations.\n\n\"I apologize that my $120,000 second quarter target may be too low,\" concluded Kendrick.",
+    "url": "https://www.coindesk.com/markets/2025/05/02/bitcoin-tops-usd100k-for-first-time-in-3-months-are-upside-targets-too-low",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump",
+                "Geoff Kendrick"
+            ],
+            "positions": [
+                "President"
+            ],
+            "companies": [
+                "Standard Chartered",
+                "Strategy (MSTR)"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Solana",
+            "SOL",
+            "ether",
+            "ETH"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Bitcoin's price rebounding to $100K with institutional inflows into ETFs and analysts revising targets higher, indicating positive market momentum."
+    }
+}

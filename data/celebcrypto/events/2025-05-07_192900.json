@@ -1,0 +1,37 @@
+{
+    "title": "The Protocol: Ethereum’s Pectra Upgrade Finally Goes Live",
+    "summary": "Also: Bitcoin Devs Debate OP_RETURN, World Network Launches in U.S., and Aztec Testnet Launches",
+    "time": "2025-05-07T19:29:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, the Ethereum protocol reporter on CoinDesk’s Tech team.\n\nIn this issue:\n\nPECTRA FINALLY GOES LIVE ON ETHEREUM: Ethereum activated its long-awaited “Pectra” upgrade on Wednesday, marking the blockchain’s most significant overhaul since the Merge in 2022. The update aims to streamline staking, enhance wallet functionality, and improve overall efficiency. It arrives as Ethereum contends with rising competition and internal debates over its direction. A key element of the upgrade involves increasing the amount of ETH one can stake from 32 to 2,048. This change could help speed up and streamline operations for stakers, the vast network of companies and individuals who help keep the Ethereum network afloat. Previously, staking at scale required setting up multiple validators; now, stakers can consolidate up to that amount under a single node. — Margaux Nijkerk Read more.\n\nBITCOIN CORE DEVS TO REMOVE OP_RETURN LIMIT, SPARKING DEBATE: The debate over Bitcoin's OP_RETURN heats up, as developers of Bitcoin Core – the most popular node software – said they plan to scrap OP_RETURN entirely in the next release. The OP_RETURN limit is an 80-byte cap on the amount of arbitrary data that can be embedded in a Bitcoin transaction using a special, unspendable output field. The debate centered on whether lifting the 80-byte OP_RETURN limit promotes transparency and simplifies data use on Bitcoin, or whether it opens the door to abuse, spam, and a shift away from Bitcoin’s financial focus. — Sam Reynolds Read more.\n\nWORLDCOIN COMES TO 6 U.S. CITIES: Sam Altman’s blockchain project, World, is launching in the U.S. – and said it intends to roll out 7,500 eye-scanning “orbs” in cities across the country by the end of the year. World’s orbs — chrome, bowling ball-shaped devices that scan a person’s eyeballs to confirm their identity — will initially be available to Americans in six “key innovation hubs,” the company said: Atlanta, Austin, Los Angeles, Miami, Nashville and San Francisco. Those who decide to take the plunge and gaze into the orb will gain access to the World app and receive an airdrop of World’s WLD token. By the end of the year, the project aims to have enough orbs spread throughout the U.S. to give 180 million Americans, more than half the population, access to World’s network.— Cheyenne Ligon and Margaux Nijkerk Read more.\n\nAFTER 8 YEARS, AZTEC TESTNET IS LIVE: Aztec, a layer-2 rollup focused on privacy, shared that its testnet has finally gone live. The announcement comes as a wave of new privacy-focused solutions begins to capture the interests of large institutions that need confidentiality with large transaction batches. The team behind Aztec said that they have been working on the product for over 8 years, bringing the cutting-edge technology one step closer to the mainnet. — Margaux Nijkerk Read more.",
+    "url": "https://www.coindesk.com/tech/2025/05/07/the-protocol-ethereum-s-pectra-upgrade-finally-goes-live",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Sam Reynolds",
+                "Sam Altman",
+                "Cheyenne Ligon"
+            ],
+            "positions": [
+                "Ethereum protocol reporter"
+            ],
+            "companies": [
+                "CoinDesk",
+                "World"
+            ],
+            "organizations": [
+                "Bitcoin Core",
+                "Aztec"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum",
+            "ETH",
+            "Bitcoin",
+            "WLD"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple positive developments including Ethereum's major Pectra upgrade, Bitcoin protocol improvements, Worldcoin's US expansion, and Aztec's testnet launch, all indicating technological progress and market growth."
+    }
+}

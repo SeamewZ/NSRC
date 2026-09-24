@@ -1,0 +1,35 @@
+{
+    "title": "Bitcoin Pops and Drops as Markets Swing Wildly on Tariff News",
+    "time": "2025-04-07T15:07:00",
+    "author": "Krisztian Sandor",
+    "summary": "The White House denied a report that it was mulling a 90-day delay on imposition of tariffs.",
+    "content": "It's been a wild ninety minutes in markets, with the Nasdaq swinging from about a 5% loss to a 5% gain and then returning to flat in very quick order on a story — later denied by the White House — that President Trump was considering a ninety-day delay in the implementation of his tariff regime for all countries except China.\n\n\"Fake news,\" said White House Press Secretary Caroline Leavitt in response to the delay rumor.\n\nThe swing touched cryptos as well, with bitcoin\nBTC\n$104,608.94\nrising from the $74,400 to above $80,000 before retreating back to $79,000, still lower by 4.3% over the past 24 hours. Ether\nETH\n$3,495.36\nremains lower by more than 11%, while XRP is down 9.3%.\n\nAmid the ongoing market panic, there are some green shoots though, with European Union Commissioner Ursula von der Leyen saying, \"Europe is ready to negotiate with the U.S.,\" including offering zero-for zero tariffs on industrial goods.\n\nPresident Trump, meanwhile, said, \"Countries from all over the world are talking to us,\" and claimed Japan is sending a \"top team\" to negotiate.",
+    "url": "https://www.coindesk.com/markets/2025/04/07/bitcoin-pops-and-drops-as-markets-swing-wildly-on-tariff-news",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Caroline Leavitt",
+                "Ursula von der Leyen"
+            ],
+            "positions": [
+                "White House Press Secretary",
+                "European Union Commissioner",
+                "President"
+            ],
+            "companies": [],
+            "organizations": [
+                "White House",
+                "European Union"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ether",
+            "ETH",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes bitcoin dropping 4.3%, ether down 11%, and XRP down 9.3% amid market panic and wild swings."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Bitcoin Holds Above $100K, Altcoins Slide as Analyst Sees Crypto Rally Into Summer",
+    "summary": "After testing the $100,000 level early Thursday, bitcoin reversed to above $103,000.",
+    "time": "2025-05-15T21:13:00",
+    "author": "Krisztian Sandor",
+    "content": "The crypto rally took a long-overdue pause on Thursday as traders took some profits following weeks of relentless advance that lifted bitcoin\nBTC\n$101,997.67\nclose to record prices.\n\nThe consolidation occurred amid a slew of U.S. economic data releases. April retail sales missed expectations, producer prices rose less than forecast, jobless claims stayed on track, while the NY Empire State Manufacturing Index and Philadelphia Fed Manufacturing Survey showed softening business activity—signals that did little to rattle traditional markets. The S&P 500 added 0.4%, while the Nasdaq finished flat.\n\nBitcoin pulled back to $101,000 early in the U.S. session before rebounding above $103,000 later, modestly down over the past 24 hours.\n\nAltcoins fared worse with the broad-market CoinDesk 20 Index declining 3% during the same period. Native tokens of Aptos\nAPT\n$2.6167\n, Avalanche\nAVAX\n$16.50\nand Uniswap\nUNI\n$5.1980\ntumbled 6%-7%.\n\nCrypto investors shouldn't sweat today's pullback, analysts told CoinDesk.\n\n\"The current pullback appears to be a correction within a broader medium-term uptrend,\" said Ruslan Lienkha, chief of markets at YouHodler.\n\nThe upward momentum in equity markets moderated after the China-U.S. tariff delay, and short-term traders began locking in profits, he said. \"This shift in sentiment has spilled over into riskier assets, including BTC,\" Lienkha added.\n\n\"Anything below 5% [price move] can often be considered just market noise,\" said Kirill Kretov, trading automation expert at CoinPanel. \"Some of this movement likely comes from profit-taking, as traders secure gains after the recent rally. With liquidity so thin, even modest sell-offs can quickly translate into noticeable corrections.\"\n\nBacking away from short-term movements, the broader price action seems healthy with no clear signs of an imminent top.\n\nVetle Lunde, senior analyst at K33 Research, said BTC just exited one of its longest periods of below-neutral funding rates, a signal of defensive positioning among derivatives traders.\n\n\"This resembles the risk-averse patterns from October 2023 and 2024 and is far from resembling price action near past local market peaks,\" wrote Lunde, who was optimistic that the lack of froth with BTC above $100,000 BTC paves the way for potential fresh record highs.\n\nAccording to Steno Research, crypto tailwinds stem from a stealth expansion in private credit—especially in the U.S. and Europe. In past bull runs, crypto thrived on base money expansion: massive injections of reserves by central banks that fueled asset inflation across the board. This time, however, the balance sheets of the Fed and European Central Bank have continued shrinking through quantitative tightening.\n\n“Many have pointed to China’s liquidity injections as the primary driver of the rally,” Samuel Shiffman wrote in a Thursday report. “But that misses the mark. The real support is coming from Western bank credit growth—a quieter, less visible engine behind this move.”\n\nHe said that forward-looking indicators project global financial conditions improving into the summer months, driven primarily by the U.S. dollar weakening. This has historically lead to higher BTC prices.\n\n\"We’ve likely got room through June and into early July before the picture begins to change,\" Shiffman said. \"But once we approach the back half of July, the setup gets trickier. Our leading indicators suggest that the peak in financial easing might not last past August.\"",
+    "url": "https://www.coindesk.com/markets/2025/05/15/bitcoin-holds-above-usd100k-altcoins-slide-as-analyst-sees-crypto-rally-into-summer",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ruslan Lienkha",
+                "Kirill Kretov",
+                "Vetle Lunde",
+                "Samuel Shiffman"
+            ],
+            "positions": [
+                "chief of markets",
+                "trading automation expert",
+                "senior analyst"
+            ],
+            "companies": [
+                "YouHodler",
+                "CoinPanel",
+                "K33 Research",
+                "Steno Research"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "NY Empire State Manufacturing Index",
+                "Philadelphia Fed Manufacturing Survey",
+                "Fed",
+                "European Central Bank"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Aptos",
+            "APT",
+            "Avalanche",
+            "AVAX",
+            "Uniswap",
+            "UNI"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Analysts describe the pullback as a healthy correction within a broader uptrend and express optimism for potential fresh record highs with improving financial conditions through summer."
+    }
+}

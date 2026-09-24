@@ -1,0 +1,58 @@
+{
+    "title": "Weekly Recap: Markets Flat, an Industry Buoyant",
+    "summary": "Cardano, Bitcoin, XRP, and Kraken continued to make the news.",
+    "time": "2025-03-21T15:42:00",
+    "author": "Benjamin Schiller",
+    "content": "Markets-wise, crypto was flat this week. Bitcoin was rangebound ($83,000 to $84,000). And the CoinDesk 20, which tracks about 80% of the market, stayed at about 2,600. Crypto prices suffered from being increasingly correlated with the wider financial markets, which are down on tariff worries and decreased corporate earnings. Some even said the bitcoin bull market was over.\n\nBut markets, of course, only tell part of the crypto story. There was a ton of stuff happening and much of it was positive for the industry’s future.\n\nOn the regulatory front, Washington agencies are gearing up for an historic “market structure” bill in Congress, Jesse Hamilton reported. Paul Atkins, someone who knows crypto intimately, is nearing confirmation as SEC Chair, as is OCC pick Jonathan Gould. Congress continues hearings on a stablecoin bill, as Tether continues to show its systemic importance (Kris Sandor reported). EU officials are fussing about USD hegemony of stablecoins, and are readying plans for a digital euro or CBDC (Jamie Crawley).\n\nEric Trump joined Metaplanet, Japan’s answer to Michael Saylor’s MicroStrategy, as the Trump family continues to bet privately and publicly on crypto’s success.\n\nOur reporters did some great deep-dives on protocol projects. Oliver Knight lifted the lid on Cardano’s price surge following ADA’s (sort of) inclusion in a putative national crypto reserve. Interestingly, that project doesn’t measure success in total value locked (TVL), an otherwise universal metric, preferring real-world use cases.\n\nDanny Nelson looked at Pump.fun’s aspirations to dominate DeFi trading on Solana DeFi (following its domination of Solana’s memecoin issuance).\n\nMeanwhile bitcoin miners are feeling the pinch of lower hashrates and declining transaction fees, which has erased post-election gains, Tom Carreras reported.\n\nJamie Crawley explored the efforts of bitcoin developers to introduce zero-knowledge proofs to that blockchain. (TLDR: it’s hard to soft-fork blockchains with decentralization as good as bitcoin’s).\n\nOur Asia team continued to kill it, particularly in markets coverage. Resident technical analysis wiz, Omkar Godbole, correctly reported on the Fed ending QT as well as highlighting how the Turkish lira's flash crash led to a surge in bitcoin volume in that country.\n\nShaurya Malwa continued his strong reporting on XRP, writing about Ripple boss Brad Garlinghouse’s comments on XRP's chances of being added to the strategic reserve and on Ripple's IPO plans. Malwa also reported on Raydium's plan to start a pump.fun rival.\n\nSam Reynolds, who is based in Hong Kong, covered North Dakota passing a crypto ATM bill as well as reporting on how the man who stabbed Haru Invest CEO could face over a decade in prison.\n\nAnd lastly, Parikshit Mishra's swift coverage of Kraken buying NinjaTrader for $1.5 billion trumped most of the competition.\n\nIt was one of those weeks when a lot happened under the hood. Prices may be in a plateau. But the industry continued to move forward on lots of fronts.",
+    "url": "https://www.coindesk.com/news-analysis/2025/03/21/weekly-recap-markets-flat-an-industry-buoyant",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Jesse Hamilton",
+                "Paul Atkins",
+                "Jonathan Gould",
+                "Kris Sandor",
+                "Jamie Crawley",
+                "Eric Trump",
+                "Michael Saylor",
+                "Oliver Knight",
+                "Danny Nelson",
+                "Tom Carreras",
+                "Omkar Godbole",
+                "Shaurya Malwa",
+                "Brad Garlinghouse",
+                "Sam Reynolds",
+                "Parikshit Mishra"
+            ],
+            "positions": [
+                "SEC Chair",
+                "OCC pick"
+            ],
+            "companies": [
+                "Metaplanet",
+                "MicroStrategy",
+                "Tether",
+                "Pump.fun",
+                "Raydium",
+                "Kraken",
+                "NinjaTrader",
+                "Haru Invest"
+            ],
+            "organizations": [
+                "Congress",
+                "EU",
+                "Fed",
+                "Ripple"
+            ]
+        },
+        "cryptocurrencies": [
+            "Cardano",
+            "Bitcoin",
+            "XRP",
+            "ADA",
+            "Solana"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news explicitly states that crypto markets were flat and rangebound this week with prices in a plateau, despite various industry developments."
+    }
+}

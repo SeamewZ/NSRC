@@ -1,0 +1,42 @@
+{
+    "title": "The Protocol: Meet Hoodi, Ethereum’s New Testnet",
+    "summary": "Also: Microsoft Raises Alarm of Malware Targeting Crypto Wallets; Halliday Raises $20M for AI Protocol; Sam Altman's World and Razer Want to Defeat Gaming's Bot Problem.",
+    "time": "2025-03-19T17:09:00",
+    "author": "Margaux Nijkerk",
+    "content": "Welcome to The Protocol, CoinDesk's weekly wrap-up of the most important stories in cryptocurrency tech development. I'm Margaux Nijkerk, CoinDesk’s Ethereum Reporter.\n\nIn this issue:\n\nThis article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday.\n\nHELLO, HOODI: ETHEREUM WELCOMES A NEW TESTNET: Ethereum developers launched a new test network, Hoodi, this week that will be used to carry out the blockchain's upcoming “Pectra” upgrade. Pectra will go live on Hoodi on March 26, and if all goes well, the long-awaited upgrade will proceed to Ethereum's mainnet roughly 30 days later, according to the network's core developers. Hoodi was created following faulty Pectra tests on Ethereum’s other testnets, Holesky and Sepolia, which failed to finalize properly due to problems with how they were configured. Test networks like Holesky, Sepolia, and Hoodi aim to mimic the main Ethereum network — allowing developers the opportunity to test out code changes or major upgrades like Pectra in a low-stakes environment before deploying them to the mainnet. — Margaux Nijkerk Read more.\n\nMICROSOFT RAISES ALARM OF MALWARE TARGETING COINBASE, METAMASK WALLETS: Tech giant Microsoft shared a new report warning of malware that targets 20 of the most popular cryptocurrency wallets used with the Google Chrome extension. Microsoft’s Incident Response researchers raised alarms of a new remote access trojan (RAT), dubbed StilachiRAT, which could deploy “sophisticated techniques to evade detection, persist in the target environment, and exfiltrate sensitive data,” the team shared in a blog post. The malware was discovered in November 2024, and it could steal users' wallet information, and any credentials, including usernames and passwords, stored in their Google Chrome browser. StilachiRAT targets 20 crypto wallets including some of the most widely-used ones like MetaMask, Coinbase Wallet, Phantom, OKX Wallet, and BNB Chain Wallet. While the malware has not been distributed widely, Microsoft did share that it has not been able to identify what entity is behind the threat and laid out some mitigation guidelines for current targets including installing antivirus software. — Margaux Nijkerk Read more.\n\nHALLIDAY RAISES $20M FOR AI PROTOCOL TO ELIMINATE WRITING SMART CONTRACTS FOR DEFI: Artificial intelligence (AI)-focused blockchain protocol Halliday said it raised $20 million to help fund development of its Agentic Workflow Protocol (AWP), which aims to speed development of decentralized finance (DeFi) applications and avoid the need for programmers to write smart contracts. The Series A funding round was led by venture capital giant Andreessen Horowitz's (a16z) crypto arm. \"Our mission is to pioneer the software era of blockchain, enabling developers to build applications in hours, not years,\" Halliday said in an emailed announcement. \"With Halliday, you can never write a smart contract again.\"— Jamie Crawley + AI Boost Read more.\n\nSAM ALTMAN’S WORLD NETWORK AND RAZER WANT TO DEFEAT GAMING’S BOT PROBLEM: Sam Altman’s blockchain project, World Network, is teaming up with gaming hardware firm Razer on a suite of features designed to weed out bots from video games. “Razer ID verified by World ID” is a single sign-on mechanism that will verify real human gamers from bots. It's built atop Razer ID, Razer's existing login service, and will help guarantee there's \"a real person behind every Razer ID account,” according to a statement shared by Razer and World. The collaboration between the two firms comes as artificial intelligence (AI) tools are seeping into every corner of online life — including inside of video games, which have been plagued by non-human AI \"bots\" since long before the rise of Altman's ChatGPT. — Margaux Nijkerk Read more.",
+    "url": "https://www.coindesk.com/tech/2025/03/19/the-protocol-meet-hoodi-ethereum-s-new-testnet",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Margaux Nijkerk",
+                "Sam Altman",
+                "Jamie Crawley"
+            ],
+            "positions": [
+                "Ethereum Reporter"
+            ],
+            "companies": [
+                "Microsoft",
+                "Coinbase",
+                "MetaMask",
+                "Phantom",
+                "OKX",
+                "BNB Chain",
+                "Halliday",
+                "Andreessen Horowitz",
+                "a16z",
+                "World Network",
+                "Razer"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "Google Chrome"
+            ]
+        },
+        "cryptocurrencies": [
+            "Ethereum"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news contains mixed developments including positive technical upgrades for Ethereum and funding announcements, but also negative security threats targeting crypto wallets, resulting in an overall neutral market impact."
+    }
+}

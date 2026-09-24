@@ -1,0 +1,24 @@
+{
+    "title": "Solana’s SOL Slips Below Key Price Level for the First Time in 3 Years",
+    "time": "2025-03-11T12:13:00",
+    "author": "Shaurya Malwa",
+    "summary": "The token's realized price, the average cost basis of all coins last moved, has dropped below $134 for the first time since May 2022.",
+    "content": "Solana’s SOL entered murky waters as Monday's broad crypto-market drop sent the token of the high-speed, low cost blockchain diving as much as 8% to $124.\n\nThat's less than the realized price of $134 for the first time since May 2022, according to Glassnode data. The realized price is the average cost basis of all coins last moved and current values mean the average holder is underwater, a bearish signal that can trigger panic selling or capitulation.\n\nThe drop comes as Solana’s validators debate a proposal known as SIMD-0228 that could slash the network’s 4.7% annual inflation rate by 80% to roughly 1.5% over time.\n\nUnlike the market price, which fluctuates with exchange trades, realized price is a cost-basis anchor.\n\nThe price action forms a descending channel, with resistance between $134, formerly a support level, and $130, and support at $120 and $115. The trend remains bearish, but if $120 holds and $128 breaks with volume, a rebound to $134 is possible, driven by dip buyers.",
+    "url": "https://www.coindesk.com/markets/2025/03/11/solana-s-sol-slips-below-key-price-level-for-the-first-time-in-3-years",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "SOL",
+            "Solana"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes SOL dropping below key price levels, average holders being underwater, and mentions bearish signals that can trigger panic selling or capitulation."
+    }
+}

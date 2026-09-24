@@ -1,0 +1,39 @@
+{
+    "title": "How Chinese Lending Firm Cango Became a Bitcoin Mining Powerhouse",
+    "time": "2025-01-03T15:25:00",
+    "author": "Tom Carreras",
+    "summary": "Cango purchased 50 EH/s worth of mining power towards the end of 2024, making it one of the biggest players in the bitcoin mining industry.",
+    "content": "The bitcoin\nBTC\n$104,608.94\nmining industry was shaken up in the last months of 2024 by the sudden entrance of a new player: Cango (CANG), a Chinese firm that specializes in providing loans to automobile buyers.\n\nBased in Shanghai and valued at $363 million on the stock market, Cango is in the process of acquiring 50 exahashes per second (EH/s) worth of mining power, meaning that the auto lending platform will become one of the largest bitcoin miners in the world once its entire fleet goes online.\n\n“I guess it’s surprising for people in the [bitcoin mining] industry because nobody has ever heard of Cango before,” Juliet Ye, the company’s senior director of communications, told CoinDesk in an interview. “But the history of Cango is a history of adaptation. We’ve diversified into different areas at least two or three times [since the firm was established in 2010].”\n\nGetting such a large bitcoin mining fleet isn’t cheap. Cango paid $256 million in cash for the first 32 EH/s worth of computing power, which it purchased from bitcoin mining machine manufacturer Bitmain. It will be issuing $144 million worth of shares for the remaining 18 EH/s, which it is acquiring from Golden TechGen — a firm owned by former Bitmain Chief Financial Officer Max Hua — as well as other undisclosed mining machine sellers. Once the transaction is settled, Golden TechGen and these other sellers will end up owning approximately 37.8% of Cango.\n\nThe diversification into bitcoin mining is already bearing fruit. Cango’s stock finished 2024 at $4.56, up more than 362% from the start of that year. Even better, Ye said, this new bitcoin mining strategy has catapulted Cango into the spotlight.\n\n“It’s been really hard for us to gain traction around the company, as a small- to mid-cap listed Chinese firm in the U.S.,” Ye said. “All of a sudden, a lot of people are very much interested in Cango. The buzz around the company — we’ve never seen this before in the past.”\n\nCango is more used to helping Chinese banks issue loans for people looking to buy cars. But the firm, which went public in 2018, was already diversifying its operations years before acquiring its bitcoin fleet.\n\nCango started facilitating car exports from China to other parts of the world and has invested in Li Auto, a Chinese electric vehicle manufacturer. Following that investment, Cango explored business opportunities in the renewable energy sector, including high-compute power projects related to AI, before venturing into on bitcoin mining.\n\n“Bitcoin mining is a very good way to rebalance energy grids,” Ye said, referring to the fact that bitcoin miners can easily switch their rigs off and on again. Some jurisdictions, like Texas, take advantage of that ability by encouraging miners to operate in periods of low energy consumption, and paying them to shut down their machines when local demand surges, like during heatwaves or blizzards.\n\nWith Bitcoin’s hashrate now hovering at 823 EH/s, Cango will be providing roughly 6% of the total computing power behind Bitcoin once the firm’s 50 EH/s fully come online. For reference, MARA Holdings (MARA), the largest publicly traded miner in the world, owned a little over 47 EH/s worth of computing power as of November, per TheMinerMag data. CleanSpark (CLSK) and Riot Platforms (RIOT), the two next largest, stood at 32 EH/s and 26 EH/s respectively.\n\n“The Bitcoin mining sector's imperative for scaled operations was a pivotal consideration in our decision to enter this domain,” Cango’s management team told CoinDesk in an email.\n\n“The current landscape is marked by industry consolidation, with larger-scale operations becoming increasingly dominant due to escalating mining difficulty and the necessity for state-of-the-art hardware.”\n\nOne major difference between Cango and other mining heavyweights is that Cango isn’t operating its own mining fleet right now. With machines spread out around the world — including in the U.S., Canada, Paraguay and Ethiopia — Cango is still relying heavily on Bitmain for facilities and infrastructure, and to make sure the sites run smoothly.\n\n“Even though we enter the industry with a significant amount of computing power, we are still new here, and we need time to adapt to the norms, and get a better understanding of the tax situation and the rest of the market,” Ye said. “So at the beginning, we chose to work together with Bitmain and to use its operations teams.”\n\nThat situation is likely to change over time, Ye said, as Cango gains experience in the sector and seeks to make its bitcoin mining operations more economically efficient. Nurturing an in-house mining team would likely be cheaper than relying on Bitmain’s expertise in the long run.\n\nAs for what Cango plans to do with its growing bitcoin stash, that will depend on how the year unfolds, Ye said. “We don’t rule out the possibility of making some tactical reductions [to the bitcoin holdings] based on market conditions,” she said. Cango mined 363.9 BTC in November alone, a sum worth roughly $35 million at the time of writing.",
+    "url": "https://www.coindesk.com/markets/2025/01/03/how-chinese-lending-firm-cango-became-a-bitcoin-mining-powerhouse",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Juliet Ye",
+                "Max Hua"
+            ],
+            "positions": [
+                "senior director of communications",
+                "former Chief Financial Officer"
+            ],
+            "companies": [
+                "Cango",
+                "Bitmain",
+                "Golden TechGen",
+                "Li Auto",
+                "MARA Holdings",
+                "CleanSpark",
+                "Riot Platforms"
+            ],
+            "organizations": [
+                "CoinDesk",
+                "TheMinerMag"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Cango's massive entry into Bitcoin mining with 50 EH/s of computing power, representing 6% of Bitcoin's total hashrate, which indicates significant institutional investment and confidence in the cryptocurrency mining sector."
+    }
+}

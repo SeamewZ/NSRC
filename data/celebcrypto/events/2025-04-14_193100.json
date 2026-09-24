@@ -1,0 +1,40 @@
+{
+    "title": "Circle’s EURC Stablecoin Surges 43% to Record Supply as Dollar Troubles Fuel Demand",
+    "summary": "The fastest growth was seen on the Ethereum, Solana and Base networks, data shows.",
+    "time": "2025-04-14T19:31:00",
+    "author": "Krisztian Sandor",
+    "content": "Circle’s euro-backed stablecoin, EURC, surged to a record supply as mounting U.S. trade tensions and a weakening dollar likely fuel demand for euro-denominated digital assets.\n\nEURC's supply grew 43% over the past month to 217 million tokens worth $246 million, ranking above Paxos'\nUSDG\n$1.0001\nand below Ripple's RLUSD by market capitalization, RWA.xyz data shows. Most of the EURC tokens circulate on the Ethereum network, up 35% in a month to 112 million, while Solana saw the fastest, 75% expansion to 70 million tokens. Base, Coinbase's Ethereum layer-2, also saw a 30% growth to 30 million in EURC supply.\n\nThe token also experienced an uptick in on-chain activity, with active addresses rising 66% to 22,000 and the monthly transfer volume surpassing $2.5 billion, up 47% in a month, per RWA.xyz.\n\nEURC is currently the largest euro stablecoin on the market, but it lags far behind its dollar-denominated counterparts. Dollar-pegged stablecoins make up 99% of the rapidly growing stablecoin market, led by Circle's $58 billion USDC and rival Tether's $143 billion USDT token.\n\nThe accelerating growth of EURC could be a sign of growing demand for diversification to euro-denominated digital assets, particularly as global investors navigate increasing economic uncertainties in the U.S. with the Trump administration wide-scale tariff rollout. The greenback weakened 9% against the euro since the start of the year.\n\nXapo Bank, a Gibraltar-based Bitcoin-focused financial services firm, reported Monday a 50% increase in euro deposit volumes during the first quarter, outpacing the 20% rise in USDC stablecoin deposits. Meanwhile, deposits in USDT declined by over 13%.\n\n\"This rapid increase in volume came amidst mounting concern about the future of U.S. dollar primacy and the threat of a U.S. recession as markets braced for Trump’s planned 'Liberation Day' in April,\" the firm said in the report.\n\nStablecoin swap volumes between foreign currency pairs on Ethereum-based decentralized exchanges also soared to multi-year highs last week, dominated by the EUR-U.S. dollar pair, Blockworks data showed.\n\nEURC also has likely benefited from Tether's withdrawal of its euro-backed stablecoin (EURT) with E.U.-wide MiCA regulations going into effect this year, while a number of exchanges delisted USDT for E.U. users to comply with regulations, including Binance at the end of March.",
+    "url": "https://www.coindesk.com/markets/2025/04/14/circle-s-eurc-stablecoin-surges-43-to-record-supply-as-dollar-troubles-fuel-demand",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Trump"
+            ],
+            "positions": [],
+            "companies": [
+                "Circle",
+                "Paxos",
+                "Ripple",
+                "Coinbase",
+                "Xapo Bank",
+                "Tether",
+                "Binance"
+            ],
+            "organizations": [
+                "Trump administration",
+                "E.U."
+            ]
+        },
+        "cryptocurrencies": [
+            "EURC",
+            "USDG",
+            "RLUSD",
+            "USDC",
+            "USDT",
+            "Bitcoin",
+            "EURT"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes significant growth in EURC stablecoin supply, increased on-chain activity, and growing demand for euro-denominated digital assets due to economic uncertainties and dollar weakness."
+    }
+}

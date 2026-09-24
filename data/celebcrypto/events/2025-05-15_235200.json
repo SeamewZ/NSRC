@@ -1,0 +1,33 @@
+{
+    "title": "DOJ Will Still Pursue Roman Storm Case Despite Blanche Memo, Prosecutors Say",
+    "summary": "The Department of Justice said it had reviewed the memo by Todd Blanche with his office.",
+    "time": "2025-05-15T23:52:00",
+    "author": "Nikhilesh De",
+    "content": "The U.S. Department of Justice will drop part of one count of its case against Tornado Cash developer Roman Storm due to a recent policy memo, the agency said Thursday.\n\nThe DOJ will not go to trial on a charge alleging Storm failed to comply with money transmitter business registration rules, but still plans to go to trial in July over allegations he knowingly transmitted funds tied to crimes, conspired to commit money laundering and conspired to violate sanctions law, the DOJ said in a letter filed to the judge overseeing its case.\n\n\"The Government writes to update the Court regarding this case, which is scheduled for trial on July 14, 2025,\" the letter said. \"After review of this case, this Office and the Office of the Deputy Attorney General have determined that this prosecution is consistent with the letter and spirit of the April 7, 2025 Memorandum from the Deputy Attorney General.\"\n\nThe April 7 memo, authored by Deputy Attorney General Todd Blanche, directed prosecutors not to pursue cases where regulations may be unclear, or did not meet certain criteria, specifically saying the DOJ should end \"regulation by prosecution.\" Prosecutors in another case against the developers of crypto mixer Samourai Wallet have already asked a judge overseeing that case to pause it while they consider the memo.\n\nIn a statement, Brian Klein of Waymaker LLP told CoinDesk that his firm, which represents Storm, believes \"that this case should never have been brought.\"\n\n\"Its dismissal would be consistent with the policies of the Trump Administration and the principles outlined by the Department of Justice in its recent cryptocurrency guidance memo,\" he said. \"Roman’s prosecution is a threat to the entire crypto industry and the interests of justice will be best served by its swift dismissal. We will not cease to fight for Roman and that result.\"\n\nKlein spoke at CoinDesk's Consensus 2025 conference in Toronto on Wednesday, where he also shared his view that the case should not have been brought.\n\n\"One of the defenses we've raised, which is recognized in the U.S., is that coding — literally typing out code — you are given free speech protections for coding,\" he said. \"It's just as if you wrote a book or you did some other type of expressive activity.\"",
+    "url": "https://www.coindesk.com/policy/2025/05/15/doj-will-still-pursue-roman-storm-case-despite-blanche-memo-prosecutors-say",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Roman Storm",
+                "Todd Blanche",
+                "Brian Klein"
+            ],
+            "positions": [
+                "Deputy Attorney General"
+            ],
+            "companies": [
+                "Waymaker LLP",
+                "CoinDesk"
+            ],
+            "organizations": [
+                "Department of Justice",
+                "U.S. Department of Justice",
+                "Office of the Deputy Attorney General",
+                "Trump Administration"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes ongoing legal uncertainty with both prosecution continuing on some charges and defense arguments about free speech protections for coding, creating mixed signals for the crypto market."
+    }
+}

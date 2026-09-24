@@ -1,0 +1,25 @@
+{
+    "title": "Crypto Greed Index Flashes 'Extreme Fear' as Market Drops 10%",
+    "time": "2025-02-25T09:41:00",
+    "author": "Shaurya Malwa",
+    "summary": "Tuesday’s drop from 49 to 25 is one of the sharpest since September and indicative of a quick shift toward overly bearish sentiment.",
+    "content": "Crypto traders are feeling the jitters today.\n\nThe widely-watched Crypto Fear and Greed Index, a market indicator that uses social media posts, volatility, trends and prices to gauge trader sentiment, dropped to a five-month low of 25 in its latest update.\n\nThat’s a big fall from yesterday’s figure of 49, landing it in the “extreme fear” zone, coming as overall market capitalization fell 10% in the past 24 hours as bitcoin and major tokens such as Solana\nSOL\n$161.11\nand\nXRP\n$2.2797\nfell more than 14%.\n\nThe Fear and Greed Index measures how people feel about crypto on a scale from 0 to 100. A low number, like 25, means fear is taking over, while a high number shows excitement or greed. Tuesday’s drop from 49 to 25 is one of the sharpest since September and indicative of a quick shift toward overly bearish sentiment.\n\nReasons for the panic range from money flowing out of bitcoin ETFs, with over $1 billion pulled out in the last two weeks, to the general lack of catalysts to sustain a run that started with crypto-friendly Republican Donald Trump’s win in the November elections.\n\nElsewhere, Nasdaq futures pointed to continued losses in technology stocks ahead on Tuesday, and strength in the Japanese yen is sparking fears of an August-like risk aversion.\n\nThere’s hope for bulls, however. Extreme fear can be a sign that investors are too worried, turning into a buying opportunity in the short term as assets are considered oversold. Some traders also say poor U.S. economic data could mean central banks are forced to take steps to recharge the economy — a move that may eventually fuel a rally.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/crypto-greed-index-flashes-extreme-fear-as-market-drops-10",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Donald Trump"
+            ],
+            "positions": [],
+            "companies": [],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "Solana",
+            "XRP"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes a sharp market drop of 10%, extreme fear sentiment, falling crypto prices, and significant outflows from bitcoin ETFs."
+    }
+}

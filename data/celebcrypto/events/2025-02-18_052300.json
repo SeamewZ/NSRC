@@ -1,0 +1,29 @@
+{
+    "title": "Bitcoin Is Coiled Like a Spring, a Breakout of This Range Is Coming: Van Straten",
+    "time": "2025-02-18T05:23:00",
+    "author": "James Van Straten",
+    "summary": "Bitcoin’s volatility is near one of its lowest levels in years, and it is primed for a short-term move.",
+    "content": "Bitcoin\nBTC\n$104,608.94\nis known to be a volatile asset, but as of late, this is not the case; bitcoin has been trading in a very tight range since the end of November, between $91,000 and $109,000.\n\nIn other words, bitcoin’s volatility has compressed enormously. According to Glassnode data, the 2-week realized volatility, which provides of how turbulent the asset was in the past two weeks, measures volatility over the past two weeks annually, has dropped to an annualized 32%, one of the lowest levels in years. In addition, the options implied one-month volatility, which is the market’s expectation for volatility over four weeks, has slipped below annualized 50%, again one of the lowest levels in years.\n\nTo put into context how much bitcoin has been in this sideways consolidation, consider what analyst Checkmate calls is the “Choppiness Index”. The data shows that bitcoin, on a weekly time frame, based on its choppiness, is at its highest level since 2015, which shows how tight this trading range has been.\n\nVolatility tends to mean-reverting, meaning an unusually stable market often paves the way for a big move in either direction and vice versa. The longer and tighter the consolidation, the violent the eventual volatility explosion.\n\nTo cut the long story short, the ongoing rangeplay, the most intense since 2015, could soon pave the way for wild price action. Bitcoin, at some point, will break out of this range; the question remains if it will go higher or lower.",
+    "url": "https://www.coindesk.com/markets/2025/02/18/bitcoin-is-coiled-like-a-spring-a-breakout-of-this-range-is-coming-van-straten",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Van Straten",
+                "Checkmate"
+            ],
+            "positions": [
+                "analyst"
+            ],
+            "companies": [
+                "Glassnode"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Consolidation",
+        "reasoning": "The news describes Bitcoin trading in a tight range with low volatility, suggesting an imminent breakout but uncertainty about direction (higher or lower)."
+    }
+}

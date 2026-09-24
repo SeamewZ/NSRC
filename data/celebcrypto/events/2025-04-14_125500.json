@@ -1,0 +1,30 @@
+{
+    "title": "JPMorgan Adds GBP Support to Its Blockchain Payments Service Kinexys",
+    "time": "2025-04-14T12:55:00",
+    "author": "Francisco Rodrigues",
+    "summary": "JPMorgan's Kinexys now supports British pound accounts, adding to its already existing U.S. dollar and euro offerings.",
+    "content": "JPMorgan (JPM) has added support for British pound-denominated accounts to its blockchain-based payments network Kinexys, as the bank targets a gap left by the stablecoin market’s overwhelming focus on the U.S. dollar.\n\nLaunched in 2019 under the name JPM Coin, Kinexys allows corporate clients to move funds between JPMorgan accounts and settle foreign exchange trades at any hour.\n\nThe addition of the pound comes less than a year after the service expanded to handle euro transactions. Naveen Mallela, global co-head of the Onyx platform running the network,said 80% of Kinexys volume remains dollar-based, but the demand for pound transfers is growing, Bloomberg reports.\n\nThis move addresses a longstanding issue in the $230 billion stablecoin market, where nearly all tokens are tied to the dollar. That has limited options for companies needing fast, low-cost payments in other currencies and saw major financial institutions including Society Generale launch fiat-backed stablecoins.\n\nInitial participants in the expanded pound service include SwapAgent, a post-trade firm under the London Stock Exchange Group, and Trafigura, one of the world's largest commodities traders.\n\nThe Kinexys network now processes over $2 billion in daily transactions, though that still represents a small slice of the $10 trillion daily volume JPMorgan handles across its entire payments business, the report adds.",
+    "url": "https://www.coindesk.com/business/2025/04/14/jpmorgan-adds-gbp-support-to-its-blockchain-payments-service-kinexys",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Naveen Mallela"
+            ],
+            "positions": [
+                "global co-head of the Onyx platform"
+            ],
+            "companies": [
+                "JPMorgan",
+                "SwapAgent",
+                "Trafigura"
+            ],
+            "organizations": [
+                "London Stock Exchange Group",
+                "Society Generale"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The expansion of JPMorgan's blockchain payments service to support additional currencies and process over $2 billion daily indicates growing institutional adoption and confidence in blockchain technology."
+    }
+}

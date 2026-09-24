@@ -1,0 +1,33 @@
+{
+    "title": "Bitcoin Traders 'Buy the Dip' as BTC Price Slips Below $88K, Kraken Says",
+    "time": "2025-02-25T10:36:00",
+    "author": "Omkar Godbole",
+    "summary": "Traders are buying the dip, lifting the perpetual futures long-short ratio, Kraken's Alexia Theodorou told CoinDesk.",
+    "content": "Crypto traders are buying bitcoin (BTC) on Kraken, one of the 10 biggest cryptocurrency exchanges, as the price slides to a three-month low, Alexia Theodorou, head of derivatives told CoinDesk.\n\nBTC dropped under $88,000 shortly before publication as Nasdaq futures pointed to continued risk aversion on Wall Street and the yen, a haven during times of turmoil, held strong against the U.S. dollar and growth-sensitive commodity currencies like the Australian dollar.\n\nThe BTC decline follows a $1 billion increase in open futures position on Binance late Monday, most likely due to traders taking shorts in anticipation of a deeper price drop.\n\nHowever, bargain hunters have stepped in via Kraken, lifting the perpetual long-short ratio to a record-high 0.8. The ratio measures the proportion of buy positions open relative to active sell positions at any given time.\n\n\"Despite bitcoin's price dropping below $90K, Kraken has seen a surge in traders opening long positions on its BTC perpetual markets,\" Theodorou said in an interview. \"The long/short ratio has climbed to a record high of ~0.8, while open interest has reached a four-week high. This suggests traders could be anticipating a rebound and effectively 'buying the dip.'\"\n\nWhile evidence of dip demand on Kraken is an encouraging sign for the bulls, the long-short ratio remains below 1, meaning there are still more shorts than longs on the exchange.\n\n\"While this [record long-short ratio] speaks to the underlying positive sentiment in the market, liquidations are still at relatively normal levels, meaning that there may still be excess leverage in the system. This could potentially leave the market vulnerable to further downside moves, possibly in the shape of a long squeeze, in the near-term,\" Theodorou said.",
+    "url": "https://www.coindesk.com/markets/2025/02/25/bitcoin-traders-buy-the-dip-as-prices-slip-below-usd88k-kraken-said",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Alexia Theodorou"
+            ],
+            "positions": [
+                "head of derivatives"
+            ],
+            "companies": [
+                "Kraken",
+                "CoinDesk",
+                "Binance"
+            ],
+            "organizations": [
+                "Nasdaq",
+                "Wall Street"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "Traders are buying the dip with record high long-short ratios and open interest, suggesting anticipation of a price rebound despite current price declines."
+    }
+}

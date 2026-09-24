@@ -1,0 +1,32 @@
+{
+    "title": "MicroStrategy Targeting $2B Perpetual Preferred Stock Offering: Benchmark",
+    "time": "2025-01-15T16:59:00",
+    "author": "James Van Straten",
+    "summary": "Benchmark hosted an investor meeting with MicroStrategy’s executive chairman Michael Saylor.",
+    "content": "The analyst who wrote this piece owns shares of MicroStrategy (MSTR).\n\nSince MicroStrategy (MSTR) became a bitcoin treasury company in August 2020, it has used three primary instruments to acquire bitcoin\nBTC\n$104,608.94\n: cash on hand, at-the-market (ATM) offerings and convertible bond offerings.\n\nMicroStrategy's next method of raising capital is to buy bitcoin through perpetual preferred stock, which was announced to the market on Jan. 3. MicroStrategy has announced a capital raise of $2 billion through one or multiple offerings, according to Benchmark.\n\nBenchmark hosted a recent investor meeting with MicroStrategy executive chairman Michael Saylor at the ICR conference in Orlando to discuss the perpetual preferred stock offering.\n\nA perpetual preferred stock typically has no fixed maturity date and continues indefinitely unless the company chooses to redeem it or put a maturity date on it. Shareholders of the stock receive fixed dividend payments but have no voting rights. The company may have the right to buy back the stock at a predetermined price after a specific date. In the case of a liquidation event, perpetual preferred stockholders are paid before common shareholders but after debt holders.\n\nPerpetual stock is an attractive instrument due to a lack of a set maturity date, unlike MSTR’s convertible bonds, where some are already in the money and eligible for conversion. Convertible bonds tend to have a tenor of approximately four to eight years, Saylor said at the conference.\n\nAccording to the note, Saylor said that the perpetual preferreds were advantageous due to their extended duration. The instrument works as an embedded, indefinite call option in addition to a lump-sum principal payment. The company would benefit as it would be less fragile due to the extended duration of the capital structure.\n\nAccording to Benchmark, the perpetual preferred stock could achieve a mid-single-digit yield, with low volatility and no-options market, the opposite to a convertible bond.\n\nPerpetual preferreds would be attractive to big institutions like pension funds and banks, as they would receive a stable and fixed dividend payment.\n\nAlthough the terms of the perpetual preferred stock have yet to be announced, MicroStrategy said the offering will be coming sometime in the first quarter. The terms of the offering likely to include dividend payments, convertibility to class A common stock, and provision of redemption of shares according to the MicroStrategy press release on Jan. 3.\n\nBenchmark maintains its buy rating on MSTR with a price target of $650.\n\nAs of Monday, MicroStrategy purchased a further 2,530 BTC taking total holdings to 450,000 BTC.\n\nNext week, MicroStrategy's Special Meeting for Shareholders will take place on Jan. 21. Investors will vote on increasing the authorized class A common stock and preferred stock. MSTR's Q4 earnings call is set for Feb. 4.",
+    "url": "https://www.coindesk.com/markets/2025/01/15/micro-strategy-targeting-2-b-perpetual-preferred-stock-offering-benchmark",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Michael Saylor"
+            ],
+            "positions": [
+                "executive chairman",
+                "analyst"
+            ],
+            "companies": [
+                "MicroStrategy",
+                "Benchmark"
+            ],
+            "organizations": [
+                "ICR conference"
+            ]
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "MicroStrategy's planned $2 billion perpetual preferred stock offering to acquire more Bitcoin represents significant institutional buying pressure and market confidence in cryptocurrency."
+    }
+}

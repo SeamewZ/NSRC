@@ -1,0 +1,22 @@
+{
+    "title": "Bitcoin Falters Near Record, but 'Realized Price' Analysis Suggests Optimistic Outlook",
+    "summary": "Tracking average exchange withdrawal prices reveals signs of capitulation and a shift toward recovery.",
+    "time": "2025-05-20T16:20:00",
+    "author": "James Van Straten",
+    "content": "Record highs — be it $20,000 in 2017, $69,000 in 2021 and $109,000 this year — are great for headlines and quick comparisons, but in reality don't do a great job of describing price action.\n\nTracking the \"realized price,\" or the average price at which bitcoin\nBTC\n$101,803.55\nis withdrawn from all exchanges to estimate a market-wide cost basis is a more valuable tool for gauging investor profitability and potential inflection points in market sentiment.\n\nThe charts (above and below) illustrate the average withdrawal prices for different investor cohorts, segmented by the year they entered the market starting Jan. 1 of each year from 2017 to 2025.\n\nThe average realized price for the 2025 so far is $93,266. With bitcoin currently trading at $105,000, these investors are up approximately 12% on average.\n\nWhen bitcoin began its decline from the all-time high of $109,000 in late January, it briefly fell below the 2025 realized price, a historical signal of capitulation. This period of stress lasted until April 22, when the price reclaimed the cohort’s cost basis.\n\nHistorically, when price falls below a cohort’s realized price, it often marks market capitulation and cyclical bottoms:\n\nThe data suggests that a capitulation phase has likely occurred, positioning the market for a more constructive phase. Historically, recoveries from such events mark transitions into healthier market conditions.\n\nWhen bitcoin first surpassed $20,000 during the 2017 bull market, it marked a significant divergence between the market price and the realized price of just $5,149, highlighting a phase of exuberant speculation. Unsurprisingly, prices very shortly after went into a brutal reversal.\n\nIn contrast, by the depths of the 2018 bear market when bitcoin bottomed around $3,200, price at that point converged with the all-time realized price, a metric that aggregates the cost basis of all investors across cycles.\n\nThis long-term cost basis acts as a foundational support level in bear markets and gradually rises over time as new capital enters the market. Therefore, evaluating bitcoin solely by comparing cycle peaks, for example, from $69,000 in 2021 to just over $100,000 in 2025, misses the bigger picture.\n\nThe more relevant insight is that the aggregate cost basis of all investors continues to climb, underscoring the long-term maturation of the asset and the increasing depth of capital committed to the network.",
+    "url": "https://www.coindesk.com/markets/2025/05/20/bitcoin-falters-near-record-but-realized-price-analysis-suggests-optimistic-outlook",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The analysis indicates that a capitulation phase has occurred and the market is positioned for a more constructive phase with signs of recovery and optimistic outlook based on realized price metrics."
+    }
+}

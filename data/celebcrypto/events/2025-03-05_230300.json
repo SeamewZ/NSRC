@@ -1,0 +1,45 @@
+{
+    "title": "Belarus Looking Into Crypto Mining Following Trump's Reserve Plans",
+    "summary": "We have excess electricity. Let them make this cryptocurrency and so on,\" Lukashenko told Minister of Energy Alexei Kushnarenko",
+    "time": "2025-03-05T23:03:00",
+    "author": "Tom Carreras",
+    "content": "The President of Belarus, Aleksandr Lukashenko, raised the possibility yesterday that the Eastern European country could begin mining cryptocurrencies.\n\n\"Look at this mining. More and more people are turning to me. If it is profitable for us, let's do it. We have excess electricity. Let them make this cryptocurrency and so on,\" Lukashenko told Alexei Kushnarenko, the nation's new minister of energy, according to Belarusian media outlet Belta.\n\nThe news comes as the U.S. government is studying the possibility of creating a national strategic crypto reserve that could include cryptocurrencies such as bitcoin\nBTC\n$101,867.41\n, ether\nETH\n$3,326.10\n, solana\nSOL\n$157.26\n, ripple (XRP) and\nADA\n$0.5332\n.\n\nLukashenko mentioned the White House's interest in crypto. \"You see the path the world is going. And especially the largest economy in the world. They announced yesterday that they will keep [a crypto] reserve,\" he said.\n\n\"Therefore, there will be demand for them. Well, maybe we should do it ourselves,\" Lukashenko said.\n\nBelarus wouldn't be the first nation to mine cryptocurrencies. The Kingdom of Bhutan, with its abundance of hydropower, already has more than 100 megawatts (MW) of operational bitcoin mining infrastructure and is set to get another 500MW worth of power online. The country currently holds $950 million in bitcoin, according to Arkham Intelligence\n\nEl Salvador, for its part, uses geothermal energy to mine bitcoin, though in smaller quantities.\nDisclaimer: The information in this article was translated using Google Translate from a foreign language source.",
+    "url": "https://www.coindesk.com/policy/2025/03/05/belarus-looking-into-crypto-mining-following-trump-s-reserve-plans",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Aleksandr Lukashenko",
+                "Alexei Kushnarenko",
+                "Trump"
+            ],
+            "positions": [
+                "President of Belarus",
+                "Minister of Energy"
+            ],
+            "companies": [
+                "Google"
+            ],
+            "organizations": [
+                "U.S. government",
+                "White House",
+                "Kingdom of Bhutan",
+                "El Salvador",
+                "Arkham Intelligence",
+                "Belta"
+            ]
+        },
+        "cryptocurrencies": [
+            "bitcoin",
+            "BTC",
+            "ether",
+            "ETH",
+            "solana",
+            "SOL",
+            "ripple",
+            "XRP",
+            "ADA"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes multiple countries exploring or expanding cryptocurrency mining and reserves, indicating growing institutional adoption and demand."
+    }
+}

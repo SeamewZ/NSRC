@@ -1,0 +1,46 @@
+{
+    "title": "Resolv Labs Raises $10M as Crypto Investor Appetite for Yield-Bearing Stablecoins Soars",
+    "time": "2025-04-16T12:47:00",
+    "author": "Krisztian Sandor",
+    "summary": "Stablecoins are \"perfect rails for yield distribution,\" the protocol's CEO and founder Ivan Kozlov said in an interview.",
+    "content": "Resolv Labs, the firm behind the $450 million decentralized finance (DeFi) protocol Resolv, has closed a $10 million seed round to expand its crypto-native yield platform and USR stablecoin, the team told CoinDesk in an exclusive interview.\n\nThe investment round was led by Cyber.Fund and Maven11, with additional backing from Coinbase Ventures, SCB Limited, Arrington Capital, Gumi Cryptos, NoLimit Holdings, Robot Ventures, Animoca Ventures and others.\n\nStablecoins, a $230 billion and rapidly expanding class of cryptocurrencies with pegged prices to an external asset, are capturing attention well beyond their traditional use in payments and trading. A growing cadre of crypto protocols offer yield-bearing stablecoins or \"synthetic dollars,\" wrapping diverse investment strategies into a digital token with a stable price and passing on part of the earnings to holders.\n\n\"I view stablecoins as the perfect rails for yield distribution,\" Ivan Kozlov, founder and CEO of Resolv, said in an interview with CoinDesk. \"This may actually become larger than transaction stablecoins like [Tether's] USDT in the future.\"\n\nThe most notable example of the trend is Ethena's $5 billion USDe token, which primarily pursues a delta-neutral position by holding cryptocurrencies like BTC, ETH and SOL and simultaneously shorting equal size of perpetual futures, scooping up yield from funding rates.\n\nResolv also pursues a similar strategy: its USR token, anchored to $1, is a delta-neutral stablecoin designed to deliver stable yields from crypto markets, while shielding holders from sharp price swings.\n\nThe protocol achieves this by splitting risk between two layers, inspired by Kozlov's background in structured products in traditional finance. USR stablecoin holders sit in the less risky senior tranche earning stable but lower yields, with risk-tolerant investors in the protocol’s insurance layer represented by the RLP token with floating price. This model, borrowed from structured finance, aims to make crypto yields more predictable without sacrificing decentralization, Kozlov explained.\n\nFollowing its launch in September 2024, the protocol quickly ballooned to over $600 million in assets driven by attractive yields during the crypto rally after Donald Trump's election victory, DefiLlama data shows. However, as markets turned bearish and yields compressed, Resolv's total value locked (TVL) also slid to around $450 million this month.\n\nWith the new capital raise, Resolv plans to expand its yield sources to include bitcoin\nBTC\n$106,892.83\n-based strategies and deepening its integrations with institutional digital asset managers, Kozlov said. The protocol also aims to expand to new blockchains, widening its reach beyond early crypto adopters.\n\nCORRECTION (April 16, 15:30 UTC): Removes reference to SCB Limited's affiliation.",
+    "url": "https://www.coindesk.com/business/2025/04/15/resolv-labs-raises-usd10m-as-crypto-investor-appetite-for-yield-bearing-stablecoins-soars",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ivan Kozlov"
+            ],
+            "positions": [
+                "CEO",
+                "founder"
+            ],
+            "companies": [
+                "Resolv Labs",
+                "Coinbase Ventures",
+                "Arrington Capital",
+                "Gumi Cryptos",
+                "NoLimit Holdings",
+                "Robot Ventures",
+                "Animoca Ventures",
+                "Tether"
+            ],
+            "organizations": [
+                "Cyber.Fund",
+                "Maven11",
+                "SCB Limited",
+                "CoinDesk",
+                "DefiLlama"
+            ]
+        },
+        "cryptocurrencies": [
+            "USR",
+            "USDT",
+            "USDe",
+            "BTC",
+            "ETH",
+            "SOL"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a $10M funding round for yield-bearing stablecoins, growing investor appetite, and expansion of crypto-native yield platforms, indicating market confidence and positive development."
+    }
+}

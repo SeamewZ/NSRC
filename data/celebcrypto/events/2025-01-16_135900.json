@@ -1,0 +1,31 @@
+{
+    "title": "Coinbase to Offer Bitcoin-Backed Loans Through Morpho",
+    "time": "2025-01-16T13:59:00",
+    "author": "Danny Nelson",
+    "summary": "The ability to post collateral, rather than credit rating, will determine whether a client can borrow.",
+    "content": "Coinbase (COIN) is adding bitcoin-backed loans to its U.S. product lineup, leaning on Morpho, the largest lending platform on its Base network, to drive eyeballs and wallets to its growing on-chain economy.\n\nThe lending product isn't completely new: those familiar with playing on Base have long been able to borrow USDC against their bitcoin on Morpho or via other DeFi services. What's new here is the easy access: Coinbase is baking Morpho's borrow books into its own widely popular user interface, removing a critical barrier to entry.\n\n\"This is a moment where we're planting a flag that Coinbase is coming on-chain, and we're bringing millions of users with their billions of dollars,\" said Max Branzburg, head of Consumer Products at Coinbase.\n\nPersonal loans in the on-chain world look fundamentally different from the predominant lending deals offered by banks and lenders. Those stalwarts of the regular economy rely on borrowers' credit score in deciding whether to write a loan, and determining its terms, whether or not the loan is secured.\n\nBut credit scores are not a thing in crypto. Platforms like Morpho don't need to guesstimate how good for the money their borrowers are. Instead, they require their borrowers to post plenty of collateral; far more, in fact, than the sum they seek to borrow. This setup protects the platforms from carrying bad debt from defaulters.\n\nCoinbase's setup caps each borrow at $100,000 in USDC. To borrow that much money customers will need to post more than that amount of bitcoin. Morpho will start liquidating the collateral if the loan-to-value ratio flies too close to the sun.\n\n\"If price swings are reaching any sort of dangerous point, we will share liquidation warnings through the Coinbase app so that you're aware of it and can act,\" Branzburg said.\n\nBorrowing cash sits at the base of all financial services, but it has extra appeal to crypto traders who often sit on troves of tokens they refuse to sell. Those traders often take loans to farm airdrops and fund other risky trades. In Coinbase's view, Morpho-facilitated loans could help borrowers pursue perhaps nobler enterprises, like buying a car, or paying for a house.\n\nUnder the hood, the new setup feeds Coinbase flywheel at every step. First, the rollout adds a new capacity to Coinbase's frontend. Second, users who post BTC collateral are minting cbBTC (Coinbase's wrapped bitcoin on Base) and borrowing USDC (Coinbase's stablecoin). Third, all of this is happening on Morpho (a Coinbase-funded lending platform) atop Base (Coinbase's Layer 2 network).",
+    "url": "https://www.coindesk.com/business/2025/01/16/coinbase-to-offer-bitcoin-backed-loans-through-morpho",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Max Branzburg"
+            ],
+            "positions": [
+                "head of Consumer Products at Coinbase"
+            ],
+            "companies": [
+                "Coinbase",
+                "Morpho"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "USDC",
+            "cbBTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes Coinbase expanding its product lineup with bitcoin-backed loans through Morpho, bringing millions of users and billions of dollars on-chain, which indicates increased adoption and market confidence."
+    }
+}

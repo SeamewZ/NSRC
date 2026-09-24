@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: Index Plunges 17.1% Over Weekend",
+    "time": "2025-02-03T14:18:00",
+    "author": "CoinDesk Indices",
+    "summary": "Among the underperformers, Filecoin (FIL) dropped 33.9% and Aave (AAVE) fell 29.3%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3112.63, down 17.1% (-641.58) since 4 p.m. ET on Friday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BTC (-6.8%) and SOL (-14.8%).\n\nLaggards: FIL (-33.9%) and AAVE (-29.3%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/02/03/coindesk-20-performance-update-index-plunges-17-1-over-weekend",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "BTC",
+            "SOL",
+            "FIL",
+            "AAVE"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news reports significant price declines across all 20 assets in the CoinDesk 20 Index, with the index plunging 17.1% and no assets trading higher."
+    }
+}

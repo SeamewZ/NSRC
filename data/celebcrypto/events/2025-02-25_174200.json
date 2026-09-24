@@ -1,0 +1,28 @@
+{
+    "title": "Bybit Declares ‘War on Lazarus’ as It Crowdsources Effort to Freeze Stolen Funds",
+    "time": "2025-02-25T17:42:00",
+    "author": "Francisco Rodrigues",
+    "summary": "The exchange is offering a 5% bounty for submissions that could lead to stolen funds being frozen.",
+    "content": "Hacked cryptocurrency exchange Bybit has declared a “war against Lazarus” and launched a new website tracking the group’s wallet addresses, hoping to crowdsource the investigative efforts. In return for submissions that lead to frozen funds, the exchange is offering 5% of what gets frozen.\n\nThe declaration of “war” came from Bybit’s CEO, Ben Zhou, in a social media post in which he noted the firm was launching the first “first bounty site that shows aggregated full transparency on the sanctioned Lazarus money laundering activities.”\n\nRead more: North Korean Hackers Were Behind Crypto's Largest 'Theft of All Time'\n\nZhou wrote that users can connect their wallets to the newly launched website to help trace the stolen funds, adding that when a submission leads to funds getting frozen, a “bounty is paid upfront” as soon as assets are frozen.\n\n“We have assigned a team to dedicate to maintain and update this website, we will not stop until Lazarus or bad actors in the industry is eliminated. In the future we will open it up to other victims of Lazarus as well,” Zhou added.\n\nCurrently, 6,338 addresses tied to the Lazarus group are being tracked on the website, and around $42.3 million have already been frozen, corresponding to just over 3% of the stolen assets.\n\nOn Friday, the nearly $1.5 billion hack of crypto exchange Bybit rocked the crypto market and saw most digital asset prices tumbling. It was later reported that North Korea's Lazarus Group was behind the attack, which was deemed \"the largest crypto theft of all time, by some margin.\"\nRead more: Bybit Loses $1.5B in Hack but Can Cover Loss, CEO Confirms",
+    "url": "https://www.coindesk.com/markets/2025/02/25/bybit-declares-war-on-lazarus-as-it-crowdsources-effort-to-freeze-stolen-funds",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Ben Zhou"
+            ],
+            "positions": [
+                "CEO"
+            ],
+            "companies": [
+                "Bybit"
+            ],
+            "organizations": [
+                "Lazarus Group",
+                "North Korea"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news states that the $1.5 billion hack 'rocked the crypto market and saw most digital asset prices tumbling'."
+    }
+}

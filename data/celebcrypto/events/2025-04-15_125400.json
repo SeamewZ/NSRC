@@ -1,0 +1,37 @@
+{
+    "title": "XRP Most Likely to Get U.S. Spot ETF Approval Ahead of SOL, DOGE: Analysts",
+    "summary": "Data from Kaiko Indices shows XRP and SOL boast the deepest 1% market depth on vetted exchanges, with XRP surging past SOL since late 2024 and doubling Cardano’s ADA in liquidity.",
+    "time": "2025-04-15T12:54:00",
+    "author": "Shaurya Malwa",
+    "content": "XRP and solana\nSOL\n$158.01\nare top candidates for a spot ETF approval in the U.S., driven by their high liquidity, with the Ripple-related token edging out among others for what could go live on the market earlier, Kaiko analysts shared in a Monday report.\n\nData from Kaiko Indices shows XRP and SOL boast the deepest 1% market depth on vetted exchanges, with XRP surging past SOL since late 2024 and doubling Cardano’s ADA in liquidity.\n\nUnlike bitcoin, which secured spot ETF approval after Grayscale’s legal victory highlighted the SEC’s inconsistent stance on futures and spot markets, XRP operates differently. It lacks a robust futures market, and its trading volume is largely offshore.\n\nHowever, XRP’s U.S. spot market share has climbed to its highest since the SEC’s 2021 lawsuit triggered delistings, while SOL’s U.S. share has slipped to 16% from a 2022 peak of 25–30%.\n\nXRP’s momentum is further bolstered by the recent launch of a 2x XRP ETF by Teucrium, which tracks European ETPs and swap agreements to deliver twice XRP’s daily returns. It racked over $5 million in volumes on debut day, as reported, become the provider’s “most successful launch.”\n\n“This underlying market's improving dynamics and the launch of a 2x XRP ETF last week position XRP ahead of other assets when it comes to approval,” Kaiko analysts wrote. “Although some tokens, such as LTC, which have very similar consensus mechanisms to BTC and share similarities to commodities, could also have a clear path to approval.”\n\nHowever, despite XRP’s strong fundamentals, Deribit’s options market reflects caution, with a bearish skew in the implied volatility smile for April 18 expirations, signaling demand for downside protection.\n\nThe SEC has acknowledged several XRP spot ETF applications, with Grayscale’s filing facing a critical May 22 deadline.",
+    "url": "https://www.coindesk.com/markets/2025/04/15/xrp-most-likely-to-get-u-s-spot-etf-approval-ahead-of-sol-doge-analysts",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [
+                "analysts"
+            ],
+            "companies": [
+                "Grayscale",
+                "Teucrium",
+                "Deribit"
+            ],
+            "organizations": [
+                "Kaiko",
+                "SEC"
+            ]
+        },
+        "cryptocurrencies": [
+            "XRP",
+            "SOL",
+            "DOGE",
+            "Cardano",
+            "ADA",
+            "bitcoin",
+            "BTC",
+            "LTC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news highlights XRP's strong liquidity metrics, recent successful 2x ETF launch, and analyst predictions for likely spot ETF approval ahead of other cryptocurrencies."
+    }
+}

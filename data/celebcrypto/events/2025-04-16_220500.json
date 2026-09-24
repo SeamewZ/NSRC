@@ -1,0 +1,35 @@
+{
+    "title": "Republican States Pause Lawsuit Against SEC Over Crypto Authority",
+    "summary": "Crypto lobbyists also dropped a lawsuit against the IRS.",
+    "time": "2025-04-16T22:05:00",
+    "author": "Nikhilesh De",
+    "content": "A federal judge agreed to pause an ongoing lawsuit between 18 state attorneys general and a decentralized finance lobbyist group against the U.S. Securities and Exchange Commission (SEC) on Wednesday, after the parties noted the SEC's new leadership.\n\nThe state AGs, all Republicans, filed the lawsuit alongside the DeFi Education Fund last November after Donald Trump's win in the 2024 presidential election. They allege that the federal securities regulator had exceeded its authority in filing lawsuits against crypto exchanges. In Wednesday's filing, the SEC suggested that Paul Atkins' confirmation as the new agency chair could end the litigation.\n\n\"As support, the Defendants state that due to a leadership transition in the Securities and Exchange Commission, this case could potentially be resolved,\" the filing said.\n\nThe judge ordered the parties to file a joint status report within 30 days but paused all deadlines for 60 days.\n\nOriginally, the lawsuit argued that the SEC's enforcement actions were intruding on state regulators' abilities to police digital asset firms within their own borders.\n\n\"Some States, for instance, have enacted regulatory regimes for financial institutions focused on digital assets; others have required digital asset platforms to obtain money-transmitter licenses and security bonds to guarantee liquidity,\" the lawsuit said.\n\n\"While state regulatory approaches have varied in accordance with local needs, they have consistently endeavored to provide transparent and administrable rules of the road. And Congress has repeatedly declined proposals to give federal agencies broad regulatory power over digital assets.\"\n\nCongress is expected to pick up market structure legislation that may address federal regulators' roles in overseeing crypto this year, and key committees have already begun holding hearings.\n\nIn the meantime, the SEC has already dropped investigations and lawsuits into more than a dozen companies and paused lawsuits against a few others.\n\nA separate lawsuit filed by the DeFi Education Fund, the Texas Blockchain Council and the Blockchain Association against the Internal Revenue Service was also dropped on Wednesday. This lawsuit argued that the IRS' DeFi broker rule went beyond the agency's authority.\n\nTrump signed a joint House and Senate resolution under the Congressional Review Act nullifying this rule last week — the first legislative item addressing crypto that he signed as president.\n\nIn a filing Wednesday, the parties said the lawsuit had become \"moot\" after Trump's signing the resolution.",
+    "url": "https://www.coindesk.com/policy/2025/04/16/republican-states-pause-lawsuit-against-sec-over-crypto-authority",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Paul Atkins",
+                "Donald Trump"
+            ],
+            "positions": [
+                "agency chair",
+                "president"
+            ],
+            "companies": [
+                "Texas Blockchain Council"
+            ],
+            "organizations": [
+                "SEC",
+                "IRS",
+                "DeFi Education Fund",
+                "Blockchain Association",
+                "Congress",
+                "House",
+                "Senate"
+            ]
+        },
+        "cryptocurrencies": [],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes regulatory relief with paused lawsuits, dropped investigations, and legislative actions that reduce regulatory pressure on crypto companies."
+    }
+}

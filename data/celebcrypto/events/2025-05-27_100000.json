@@ -1,0 +1,43 @@
+{
+    "title": "Bitcoin Wallet Firm Exodus Unveils Crypto Debit Card With Baanx",
+    "time": "2025-05-27T10:00:00",
+    "author": "Ian Allison",
+    "summary": "Exodus users can spend their crypto anywhere Mastercard is accepted, according to an announcement at the BTC Vegas conference on Tuesday.",
+    "content": "U.S.-listed Exodus Movement (EXOD), a self-custody wallet firm specializing in bitcoin and other cryptocurrencies, has unveiled an Exodus debit card in partnership with Baanx, a crypto card enabler that works with Mastercard and Visa.\n\nThrough the Baanx partnership, Exodus users can spend their crypto on everyday purchases such as travel, online shopping, and anywhere Mastercard is accepted, the firms announced at the BTC Vegas conference on Tuesday.\n\nBringing debit card functionality to self-custody crypto holders is a fast-growing subset of the digital assets space, attracting a range of popular platforms such as Ethereum wallet firm MetaMask, decentralized finance firm 1inch and most recently, Sam Altman’s World Network.\n\nBeta testing of the virtual Exodus card begins at BTC Vegas, starting with the two major stablecoins, USDT and USDC, which users can instantly swap for bitcoin and other major cryptos inside the Exodus wallet. A wider rollout to the six million or so Exodus users will happen later this year, said Exodus CEO JP Richardson.\n\n“If you consider there are 1.7 billion people who are unbanked out there, well now they don't need a bank account because they can use something like this,” Richardson said in an interview.\n\nBaanx chief commercial officer Simon Jones echoed this view: “You are effectively saying that if you've got access to a mobile phone, you've got access to a range of basic financial services,” Jones said in an interview. “Historically, wallets were very much focused around the custodial element with some swaps and trading. Now we are really seeing an evolution happen where your wallet is becoming your virtual account.”\n\nIn December of 2024, Nebraska-based Exodus was given the greenlight to list on the NYSE American, the New York Stock Exchange's sibling market, not long after Donald Trump’s election victory.",
+    "url": "https://www.coindesk.com/business/2025/05/27/bitcoin-wallet-firm-exodus-unveils-crypto-debit-card-with-baanx",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "JP Richardson",
+                "Simon Jones",
+                "Sam Altman",
+                "Donald Trump"
+            ],
+            "positions": [
+                "CEO",
+                "chief commercial officer"
+            ],
+            "companies": [
+                "Exodus Movement (EXOD)",
+                "Baanx",
+                "Mastercard",
+                "Visa",
+                "MetaMask",
+                "1inch",
+                "World Network",
+                "NYSE American",
+                "New York Stock Exchange"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "Bitcoin",
+            "BTC",
+            "Ethereum",
+            "USDT",
+            "USDC"
+        ],
+        "impact_sentiment": "Bullish",
+        "reasoning": "The news describes a positive development enabling crypto spending via debit cards and expanding financial access to unbanked populations, which indicates growing adoption and utility."
+    }
+}

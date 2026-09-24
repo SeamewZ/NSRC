@@ -1,0 +1,30 @@
+{
+    "title": "Pi Network's Token Debuts at $195B Value Despite Minimal Liquidity",
+    "time": "2025-02-20T12:37:00",
+    "author": "Oliver Knight",
+    "summary": "There are definite liquidity concerns as 2% market depth on OKX fails to reach $100,000..",
+    "content": "Pi Network, the smartphone mining project that claims to have 60 million users, released its native PI token Thursday giving traders a roller-coaster ride that saw the price rise 18% in minutes before tumbling 50% over the next two hours.\n\nPI debuted at $1.70 at 09:00 UTC, rising to as high as $2.00. It was recently trading at $0.97. The initial surge sent the fully diluted value (FDV) to as high as $195 billion — almost double the value of the Solana blockchain's SOL.\n\nThe FDV is based on the maximum supply of a token, 100 billion in this case. The self-reported circulating supply is 6.3 billion, putting its market cap at around $6.1 billion.\n\nPi Network has drawn comparisons to viral projects from previous cycles including SafeMoon, which also attracted a retail audience with aggressive marketing and referral schemes.\n\nIn order for users to begin mining the Pi token on a mobile device, they must first receive an invitation from another user. They are then issued with an invite code they can share themselves. More tokens are rewarded for each referred user, creating an ecosystem that mirrors multilevel marketing (MLM) or pyramid schemes.\n\nThe project has been around since 2019 with its testnet going live in 2020. The token release marks start of the Pi Network mainnet, which means that all accrued tokens can be transferred and traded.\n\nHowever, exchanges currently lack sufficient liquidity to handle the billions of tokens being traded. In fact, even the most-liquid exchange, OKX, has a 2% market depth of between $33,000 and $60,000. That means an order of, say, $100,000 would move the price significantly, creating a volatile trading environment.\n\nMarket depth measures the amount of capital required to move an asset in either direction. Based on the token's market cap, a 2% move would equate to a $146 million shift in the project's value.\n\nPi Network has attempted to remedy a disparity between buyers and sellers by offering holders a \"lock-up\" period, which can be up to three years. If holders opt to lock up their tokens, they will receive higher mining rewards. A similar approach was employed by Richard Heart's controversial HEX token, which lost more than 99% of its value between 2021 and 2024, rendering many of the locked tokens worthless.",
+    "url": "https://www.coindesk.com/business/2025/02/20/pi-network-s-token-debuts-at-usd195b-fdv-despite-minimal-liquidity",
+    "llm_analysis": {
+        "entities": {
+            "persons": [
+                "Richard Heart"
+            ],
+            "positions": [],
+            "companies": [
+                "OKX",
+                "Pi Network"
+            ],
+            "organizations": [
+                "Solana blockchain"
+            ]
+        },
+        "cryptocurrencies": [
+            "PI",
+            "SOL",
+            "HEX"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The news describes extreme price volatility, minimal liquidity, comparisons to controversial projects like SafeMoon and HEX, and significant price declines after initial surge."
+    }
+}

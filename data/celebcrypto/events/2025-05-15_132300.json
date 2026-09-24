@@ -1,0 +1,26 @@
+{
+    "title": "CoinDesk 20 Performance Update: NEAR Drops 5.7% as Index Trades Lower From Wednesday",
+    "time": "2025-05-15T13:23:00",
+    "author": "CoinDesk Indices",
+    "summary": "Polygon (POL) joined NEAR Protocol (NEAR) as an underperformer, falling 5.6%.",
+    "content": "CoinDesk Indices presents its daily market update, highlighting the performance of leaders and laggards in the CoinDesk 20 Index.\n\nThe CoinDesk 20 is currently trading at 3216.65, down 2.4% (-79.51) since 4 p.m. ET on Wednesday.\n\nNone of the 20 assets are trading higher.\n\nLeaders: BTC (-0.9%) and LTC (-1.8%).\n\nLaggards: NEAR (-5.7%) and POL (-5.6%).\n\nThe CoinDesk 20 is a broad-based index traded on multiple platforms in several regions globally.",
+    "url": "https://www.coindesk.com/coindesk-indices/2025/05/15/coindesk-20-performance-update-near-drops-5-7-as-index-trades-lower-from-wednesday",
+    "llm_analysis": {
+        "entities": {
+            "persons": [],
+            "positions": [],
+            "companies": [
+                "CoinDesk Indices"
+            ],
+            "organizations": []
+        },
+        "cryptocurrencies": [
+            "NEAR",
+            "POL",
+            "BTC",
+            "LTC"
+        ],
+        "impact_sentiment": "Bearish",
+        "reasoning": "The entire CoinDesk 20 Index is trading lower with no assets in positive territory, and specific cryptocurrencies showing significant declines of 5.7% and 5.6%."
+    }
+}
